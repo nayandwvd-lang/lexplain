@@ -3,6 +3,8 @@
 
 Requires: Python 3.11+, `pip install anthropic pydantic`, and ANTHROPIC_API_KEY set.
 Output must validate against src/types/act.ts (BareActDocument) — keep both in sync.
+Output defaults to src/data/acts/<slug>.json; the filename is the URL slug the
+frontend's actRegistry.ts discovers acts by, so --slug should be stable and unique.
 """
 import os
 import re
@@ -13,6 +15,7 @@ from pydantic import BaseModel, Field
 import anthropic
 
 MODEL_ID = "claude-sonnet-4-6"
+DEFAULT_ACTS_DIR = "src/data/acts"
 
 
 class GlossaryEntry(BaseModel):
@@ -108,6 +111,7 @@ def parse_and_enrich(
         "sections": sections,
     }
 
+    os.makedirs(os.path.dirname(output_file) or ".", exist_ok=True)
     with open(output_file, "w", encoding="utf-8") as out:
         json.dump(document, out, indent=2, ensure_ascii=False)
 
@@ -115,16 +119,18 @@ def parse_and_enrich(
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", "-i", required=True)
-    parser.add_argument("--output", "-o", default="src/data/act_data.json")
+    parser.add_argument("--slug", required=True, help="URL-safe id; output defaults to src/data/acts/<slug>.json")
+    parser.add_argument("--output", "-o", help="Override output path (defaults to src/data/acts/<slug>.json)")
     parser.add_argument("--act-title", required=True)
     parser.add_argument("--act-number", required=True)
     parser.add_argument("--enactment-date")
     parser.add_argument("--preamble")
     parser.add_argument("--limit", "-l", type=int)
     args = parser.parse_args()
+    output_path = args.output or os.path.join(DEFAULT_ACTS_DIR, f"{args.slug}.json")
     parse_and_enrich(
         input_file=args.input,
-        output_file=args.output,
+        output_file=output_path,
         act_title=args.act_title,
         act_number=args.act_number,
         enactment_date=args.enactment_date,

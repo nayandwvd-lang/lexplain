@@ -1,5 +1,6 @@
 import { Search, Upload, ScrollText } from "lucide-react";
 import * as Tooltip from "@radix-ui/react-tooltip";
+import { Link } from "react-router-dom";
 
 interface NavbarProps {
   actTitle: string;
@@ -10,10 +11,10 @@ interface NavbarProps {
 export default function Navbar({ actTitle, searchQuery, onSearchChange }: NavbarProps) {
   return (
     <header className="font-sans sticky top-0 z-40 flex items-center gap-4 border-b border-stone-200 bg-white/90 backdrop-blur px-4 py-3 shadow-sm">
-      <div className="flex items-center gap-2 shrink-0">
+      <Link to="/" className="flex items-center gap-2 shrink-0 hover:opacity-80 transition-opacity">
         <ScrollText className="w-5 h-5 text-amber-600" />
         <span className="font-semibold text-stone-800">{actTitle}</span>
-      </div>
+      </Link>
 
       <div className="flex-1 flex items-center gap-2 max-w-md bg-stone-100 rounded-md px-3 py-1.5">
         <Search className="w-4 h-4 text-stone-400 shrink-0" />

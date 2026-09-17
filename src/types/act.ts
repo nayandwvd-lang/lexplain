@@ -26,3 +26,12 @@ export interface BareActDocument {
   glossary: Record<string, string>; // lowercased term -> definition
   sections: ActSection[];
 }
+
+export interface ActSummary {
+  slug: string;
+  act_title: string;
+  act_number: string;
+  enactment_date?: string;
+  sectionCount: number;
+  blurb?: string;
+}
