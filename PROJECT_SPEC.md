@@ -37,7 +37,7 @@ Acts are stored one-per-file at `src/data/acts/<slug>.json`. The filename (minus
 `scripts/parse_act.py` converts a plain-text Bare Act into `BareActDocument`-shaped JSON using Claude tool calling. Requires Python 3.11+, `pip install anthropic pydantic`, and `ANTHROPIC_API_KEY`. Takes a required `--slug`; output defaults to `src/data/acts/<slug>.json` (overridable via `-o/--output`), which is what makes a newly-ingested act show up on the Library page and become routable at `/acts/<slug>` with no further wiring. A local `.venv` (gitignored) with the deps installed is present in the repo, but the script has not yet been executed against a live API key/real act content — `src/data/acts/indian-contract-act-1872.json` (Sections 10–12) was hand-authored to unblock frontend development independent of the Python environment.
 
 ## 7. Deployment
-Deployed to Vercel, project `lexplain`, linked to GitHub repo `nayandwvd-lang/lexplain` for git-based deploys. `vercel.json` sets `buildCommand`/`outputDirectory` and a catch-all SPA rewrite (`/(.*) → /index.html`) so direct/refreshed loads of `/acts/:slug` resolve client-side instead of 404ing on Vercel's static hosting.
+Live at **https://lexplain-eight.vercel.app**. Deployed to Vercel, project `lexplain` (team `nayan-dwivedi`), linked to GitHub repo `nayandwvd-lang/lexplain` for git-based deploys. `vercel.json` sets `buildCommand`/`outputDirectory` and a catch-all SPA rewrite (`/(.*) → /index.html`) so direct/refreshed loads of `/acts/:slug` resolve client-side instead of 404ing on Vercel's static hosting.
 
 ## 8. Out of scope (current pass)
 - PDF upload parsing (UI stub only).
