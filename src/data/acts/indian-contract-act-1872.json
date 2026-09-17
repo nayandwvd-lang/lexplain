@@ -74,7 +74,7 @@
     "appropriation of payment": "The process of deciding which of several debts owed by the same debtor to the same creditor a particular payment is credited against.",
     "quasi-contract": "An obligation the law imposes on a person even though no real contract exists between the parties, in order to prevent one person from being unjustly enriched at another's expense.",
     "necessaries": "Goods or services suited to a person's actual condition and station in life that are reasonably essential for his (or his dependants') support — a special category relevant when supplied to a person legally incapable of contracting.",
-    "bailee": "A person to whom goods are delivered by another (the bailor) for some purpose, under a contract that the goods will be returned or disposed of as directed once that purpose is accomplished.",
+    "bailee": "The person to whom goods are delivered under a bailment.",
     "penalty": "A sum of money, or other stipulation, named in a contract as payable on breach that is not a genuine pre-estimate of loss but is intended to punish or deter the defaulting party — Indian law caps recovery under such a clause at reasonable compensation, regardless of the sum named.",
     "liquidated damages": "A sum fixed in advance by the contracting parties as the compensation payable on a specified breach — under Section 74, Indian courts treat this the same as a penalty clause and award only reasonable compensation up to that sum.",
     "remote and indirect loss": "Loss or damage flowing from a breach of contract that is too distant, speculative, or indirect a consequence of the breach to be recoverable as compensation under Section 73.",
@@ -87,7 +87,62 @@
     "continuing guarantee": "A guarantee that extends to an open-ended series of transactions (such as ongoing credit supply), rather than being limited to a single specific transaction.",
     "co-sureties": "Two or more sureties who have each guaranteed the same debt or duty, whether under the same contract or separate ones, and whether or not they know of each other — they owe each other a duty of equal contribution by default.",
     "subrogation": "The legal mechanism by which a surety who pays off a guaranteed debt automatically steps into the creditor's shoes, acquiring all the rights (and the benefit of any security) the creditor had against the principal debtor.",
-    "concealment": "A creditor's silence as to material circumstances bearing on the risk a surety is asked to guarantee — unlike ordinary contracting parties, a creditor's concealment of such circumstances can itself invalidate the resulting guarantee."
+    "concealment": "A creditor's silence as to material circumstances bearing on the risk a surety is asked to guarantee — unlike ordinary contracting parties, a creditor's concealment of such circumstances can itself invalidate the resulting guarantee.",
+    "bailment": "The delivery of goods by one person (the bailor) to another (the bailee) for a purpose, on the understanding that the goods will be returned or otherwise disposed of once that purpose is accomplished. Ownership does not transfer; only possession does.",
+    "bailor": "The person who delivers goods to another under a bailment.",
+    "gratuitous bailment": "A bailment made without any charge or reward to either party — a free loan or free keeping of goods.",
+    "lien": "A right to retain possession of another's goods until a debt or charge relating to those goods is paid.",
+    "particular lien": "A right to retain specific goods only until charges relating to work done on those particular goods are paid (Section 170).",
+    "general lien": "A broader right, available only to specified professionals (bankers, factors, wharfingers, High Court attorneys, policy-brokers), to retain goods as security for the entire outstanding balance owed, not just charges tied to those specific goods (Section 171).",
+    "pledge": "The bailment of goods as security for the payment of a debt or the performance of a promise.",
+    "pawnor": "The person who bails (pledges) goods as security for a debt or promise.",
+    "pawnee": "The person who receives goods pledged as security for a debt or promise.",
+    "mercantile agent": "An agent who, in the customary course of his business, has authority either to sell goods, or to consign goods for sale, or to buy goods, or to raise money on the security of goods, on behalf of another.",
+    "finder of goods": "A person who finds lost goods belonging to another; treated by the Act broadly like a bailee, with a right to retain the goods for compensation of trouble/expense and, where a specific reward is offered, a right to sue for it.",
+    "delivery of goods": "The act of handing over possession of goods from one person to another, whether physically or by any act that puts the goods within the other's control.",
+    "delivery": "The act of putting goods into the possession of another person, or of someone authorized to hold them on that person's behalf.",
+    "possession": "The state of having control over goods, whether or not one owns them.",
+    "bailment for hire": "A bailment made in exchange for payment (reward) to the bailor, as opposed to a gratuitous bailment.",
+    "disclosure": "The duty to reveal known facts — here, faults in bailed goods — to the other party.",
+    "material fault": "A defect in goods that meaningfully interferes with their intended use or exposes the user to extraordinary risk, as opposed to a trivial or harmless flaw.",
+    "ordinary prudence": "The level of care and caution that a reasonable, sensible person would exercise in looking after his own property.",
+    "standard of care": "The degree of caution and diligence a person is legally required to exercise in a given situation.",
+    "special contract": "An agreement between the parties that varies the default rules the law would otherwise apply — for example, one setting a stricter or different standard of care than Section 151's default.",
+    "avoidable": "Capable of being treated as void, at the option of one party, rather than being automatically void or continuing to bind both parties.",
+    "inconsistent act": "An act by the bailee regarding the bailed goods that departs from the conditions on which the bailment was made.",
+    "unauthorized use": "Use of bailed goods in a manner not permitted by the conditions of the bailment.",
+    "mixture": "The combining or blending of the bailor's goods with the bailee's own goods, whether with or without the bailor's consent.",
+    "proportionate interest": "A share in mixed or combined property calculated according to each party's original contribution.",
+    "separation": "The physical dividing of mixed goods back into the distinct portions originally belonging to each party.",
+    "necessary expenses": "Reasonable, ordinary costs genuinely required for the purpose of a bailment or pledge, such as the upkeep of the goods.",
+    "borrower": "A person who receives a thing from another (the lender) for temporary use, under a loan.",
+    "indemnify": "To compensate a person for a loss or expense they have suffered, making them whole again.",
+    "return of goods": "The bailee's act of giving the bailed goods back to the bailor, or dealing with them as the bailor directs, once the bailment ends.",
+    "default": "A failure to perform an obligation by the time or in the manner required, such as failing to pay a debt or return goods on time.",
+    "responsibility": "Legal liability for loss, damage, or harm arising from one's own act, omission, or default.",
+    "termination": "The ending of a legal relationship or obligation, such as a bailment.",
+    "increase or profit": "Any natural growth, produce, or benefit generated by bailed property while it is in the bailee's custody, such as the offspring of a bailed animal.",
+    "joint owners": "Two or more persons who together own the same property, each holding an undivided interest in it.",
+    "good faith": "Honesty in fact — acting sincerely and without knowledge of any defect, fraud, or lack of authority.",
+    "title": "A person's legal right of ownership over property.",
+    "third person": "Someone who is not a party to the bailment or contract in question, such as a stranger asserting a competing claim to bailed goods.",
+    "specific reward": "A particular, identified reward publicly offered by an owner for the return of lost property.",
+    "lawful charges": "Legitimate expenses or costs that a person, such as a finder of goods, is entitled to recover or be reimbursed for.",
+    "labour or skill": "Work or expertise applied by a bailee to bailed goods, such as cutting, polishing, repairing, or crafting them.",
+    "attorney": "A legal practitioner authorized to act on behalf of clients before a court, such as a High Court.",
+    "banker": "A person or institution carrying on the business of banking, including receiving deposits and lending money.",
+    "factor": "A mercantile agent entrusted with the possession of goods for the purpose of selling them on behalf of the owner.",
+    "policy-broker": "An agent who arranges insurance policies on behalf of clients with insurers.",
+    "wharfinger": "A person who owns or manages a wharf and takes charge of goods landed there.",
+    "retainer": "The act of holding onto goods as security until a debt, charge, or expense connected with them is paid.",
+    "subsequent advances": "Further loans or sums of money advanced by a lender to a borrower after the original debt or pledge, in addition to the original amount.",
+    "extraordinary expenses": "Unusual, above-normal costs incurred to preserve pledged goods, beyond the ordinary necessary expenses of keeping them.",
+    "sale of pledge": "The pawnee's remedy, after giving reasonable notice, of selling pledged goods to recover a debt on the pawnor's default.",
+    "redeem": "To reclaim pledged goods by paying the debt or fulfilling the promise for which they were pledged.",
+    "document of title": "A document (such as a bill of lading or warehouse receipt) that in the ordinary course of business is treated as proof of possession or control of goods, and whose transfer operates to transfer that possession or control.",
+    "limited interest": "A partial or restricted ownership interest in property, short of full/absolute ownership — for example, a co-owner's share or a lessee's interest.",
+    "wrong-doer": "A person who, without legal right, interferes with, damages, or wrongfully deprives another of possession of property.",
+    "apportionment": "The fair division of relief, compensation, or proceeds among two or more persons according to their respective interests."
   },
   "sections": [
     {
@@ -2095,6 +2150,732 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Work through the three illustrations numerically when advising on a real dispute — they represent a smooth continuum (default within the lowest surety's limit, default between the lowest and middle limits, default at or beyond the combined limits) and the correct contribution shares change mechanically at each threshold; this is one of the more calculation-heavy provisions in the Act and merits doing the arithmetic explicitly rather than reasoning only in the abstract."
+      }
+    },
+    {
+      "number": "148",
+      "title": "\"Bailment\", \"bailor\" and \"bailee\" defined",
+      "raw_text": "A \"bailment\" is the delivery of goods by one person to another for some purpose, upon a contract that they shall, when the purpose is accomplished, be returned or otherwise disposed of according to the directions of the person delivering them. The person delivering the goods is called the \"bailor\". The person to whom they are delivered is called, the \"bailee\".\n\nExplanation.—If a person already in possession of the goods of another contracts to hold them as a bailee, he thereby becomes the bailee, and the owner becomes the bailor of such goods, although they may not have been delivered by way of bailment.",
+      "key_terms": [
+        "bailment",
+        "bailor",
+        "bailee",
+        "delivery of goods"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 148 opens Chapter IX by defining bailment: it's the handing over of goods for a purpose, on the understanding that once that purpose is done, the goods go back (or are dealt with as directed) — think leaving your car at a mechanic's or your watch at a repair shop. The person who hands over the goods is the bailor; the person who receives them is the bailee. The Explanation adds a subtler case: if someone already holding your goods for another reason (say, as a finder) later agrees to hold them as a bailee, a bailment relationship springs up at that point even though there was no physical \"delivery\" at that moment.",
+        "essential_elements": [
+          "Delivery of goods by the bailor to the bailee, for a specific purpose.",
+          "The delivery is upon a contract (bailment is always contractual, even if gratuitous).",
+          "Once the purpose is accomplished, the goods must be returned or disposed of as directed.",
+          "A person already possessing another's goods can become a bailee by contracting to hold them as such, without any fresh physical delivery."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Bailment always involves two roles — bailor (owner/deliverer) and bailee (recipient/custodian) — and the defining feature is that possession changes hands but ownership doesn't. Distinguish bailment from a sale (where ownership transfers) and from a licence to merely occupy space (where there's no specific 'goods' changing hands for a purpose)."
+      }
+    },
+    {
+      "number": "149",
+      "title": "Delivery to bailee how made",
+      "raw_text": "The delivery to the bailee may be made by doing anything which has the effect of putting the goods in the possession of the intended bailee or of any person authorized to hold them on his behalf.",
+      "key_terms": [
+        "delivery",
+        "bailee",
+        "possession"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 149 keeps \"delivery\" flexible — it doesn't have to be a formal, ceremonial handover. Any act that has the practical effect of putting the goods into the bailee's possession (or into the possession of someone authorized to hold them for the bailee) counts as delivery for bailment purposes.",
+        "essential_elements": [
+          "Delivery is judged by effect, not form — any act that places the goods in the bailee's possession suffices.",
+          "Delivery can also be to a third person authorized by the bailee to receive the goods on his behalf."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is a practical gap-filler: it prevents bailment claims from failing on a technicality about how exactly the goods physically changed hands, so long as possession genuinely passed."
+      }
+    },
+    {
+      "number": "150",
+      "title": "Bailor's duty to disclose faults in goods bailed",
+      "raw_text": "The bailor is bound to disclose to the bailee faults in the goods bailed, of which the bailor is aware, and which materially interfere with the use of them, or expose the bailee to extraordinary risks; and if he does not make such disclosure, he is responsible for damage arising to the bailee directly from such faults. If the goods are bailed for hire, the bailor is responsible for such damage, whether he was or was not aware of the existence of such faults in the goods bailed.\n\nIllustrations\n(a) A lends a horse, which he knows to be vicious, to B. He does not disclose the fact that the horse is vicious. The horse runs away. B is thrown and injured. A is responsible to B for damage sustained.\n(b) A hires a carriage of B. The carriage is unsafe, though B is not aware of it, and A is injured. B is responsible to A for the injury.",
+      "key_terms": [
+        "bailor",
+        "disclosure",
+        "material fault",
+        "bailment for hire"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 150 sets two different standards depending on whether the bailment is gratuitous (free) or for hire (paid). In a gratuitous bailment, the bailor is only liable for undisclosed faults he actually knew about (illustration (a) — the vicious horse). In a bailment for hire (like renting a carriage), the bailor's duty is stricter: he's liable for dangerous faults even if he genuinely didn't know about them (illustration (b)) — because a paying bailee is entitled to assume the goods are reasonably safe.",
+        "essential_elements": [
+          "The bailor must disclose known faults that materially interfere with use or expose the bailee to extraordinary risk.",
+          "For a gratuitous bailment, liability for non-disclosure attaches only if the bailor actually knew of the fault.",
+          "For a bailment for hire (reward), the bailor is liable for such damage regardless of his own awareness of the fault."
+        ],
+        "exceptions_and_qualifications": [
+          "Only faults that are 'material' (interfering with use) or create 'extraordinary risk' trigger the duty — trivial or obvious defects need not be disclosed."
+        ],
+        "how_to_read": "This is essentially a warranty-of-fitness rule split by whether money changed hands — hired goods carry a higher implied standard of safety than goods lent as a favour."
+      }
+    },
+    {
+      "number": "151",
+      "title": "Care to be taken by bailee",
+      "raw_text": "In all cases of bailment the bailee is bound to take as much care of the goods bailed to him as a man of ordinary prudence would, under similar circumstances, take of his own goods of the same bulk, quality and value as the goods bailed.",
+      "key_terms": [
+        "bailee",
+        "ordinary prudence",
+        "standard of care"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 151 sets the uniform standard of care every bailee owes, regardless of whether the bailment is paid or free: the care a reasonably prudent person would take of his own similar goods. It's an objective, comparative standard — not perfection, but not carelessness either.",
+        "essential_elements": [
+          "The bailee must exercise the care of a person of ordinary prudence.",
+          "The comparison is to how that prudent person would treat his own goods of similar bulk, quality, and value.",
+          "This single standard applies to every kind of bailment under the Act."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The phrase 'of the same bulk, quality and value as the goods bailed' matters — the standard scales with the nature of the goods; a prudent person guards a diamond more closely than a sack of gravel, and the law expects the same proportionate care from a bailee."
+      }
+    },
+    {
+      "number": "152",
+      "title": "Bailee when not liable for loss, etc., of thing bailed",
+      "raw_text": "The bailee, in the absence of any special contract, is not responsible for the loss, destruction or deterioration of the thing bailed, if he has taken the amount of care of it described in section 151.",
+      "key_terms": [
+        "bailee",
+        "special contract"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 152 is the flip side of Section 151: if the bailee met the ordinary-prudence standard of care, he is not liable for loss or damage to the goods, even if they were in fact lost, destroyed, or damaged — care, not outcome, is what the law judges, unless the parties specially contracted for a stricter (e.g. insurer-like) standard.",
+        "essential_elements": [
+          "No special contract exists imposing a stricter standard.",
+          "The bailee exercised the Section 151 standard of ordinary-prudent care.",
+          "Then the bailee is not liable for loss, destruction, or deterioration of the goods."
+        ],
+        "exceptions_and_qualifications": [
+          "Parties can contract for a higher (or, within limits, lower) standard than Section 151's default — this section only fills the gap absent such agreement."
+        ],
+        "how_to_read": "Read Sections 151 and 152 together as a pair: 151 sets the default duty, 152 states the consequence of meeting it. A bailee is not an insurer of the goods unless he's agreed to be."
+      }
+    },
+    {
+      "number": "153",
+      "title": "Termination of bailment by bailee's act inconsistent with conditions",
+      "raw_text": "A contract of bailment is avoidable at the option of the bailor, if the bailee does any act with regard to the goods bailed, inconsistent with the conditions of the bailment.\n\nIllustration\nA lets to B, for hire, a horse for his own riding. B drives the horse in his carriage. This is, at the option of A, a termination of the bailment.",
+      "key_terms": [
+        "bailment",
+        "avoidable",
+        "inconsistent act"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 153 gives the bailor an exit option (not an automatic termination) if the bailee steps outside the agreed terms of use — like using a horse hired for riding to instead pull a carriage. The bailor can choose to treat the bailment as over.",
+        "essential_elements": [
+          "The bailee does an act regarding the bailed goods that is inconsistent with the bailment's conditions.",
+          "The bailment becomes avoidable — voidable at the bailor's option, not automatically void."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the word 'avoidable' — it mirrors the voidable-contract concept from Section 19: the bailor gets a choice to end the relationship, but isn't forced to; he may also choose to let it continue."
+      }
+    },
+    {
+      "number": "154",
+      "title": "Liability of bailee making unauthorized use of goods bailed",
+      "raw_text": "If the bailee makes any use of the goods bailed which is not according to the conditions of the bailment, he is liable to make compensation to the bailor for any damage arising to the goods from or during such use of them.\n\nIllustrations\n(a) A lends a horse to B for his own riding only. B allows C, a member of his family, to ride the horse. C rides with care, but the horse accidentally falls and is injured. B is liable to make compensation to A for the injury done to the horse.\n(b) A hires a horse in Calcutta from B expressly to march to Benares. A rides with due care, but marches to Cuttack instead. The horse accidentally falls and is injured. A is liable to make compensation to B for the injury to the horse.",
+      "key_terms": [
+        "bailee",
+        "unauthorized use",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 154 works alongside Section 153: beyond letting the bailor end the bailment, unauthorized use also makes the bailee strictly liable to pay compensation for any damage the goods suffer during that unauthorized use — even if the bailee (or, as in illustration (a), the third party actually using the goods) was careful. The unauthorized departure from the agreed use is itself what fixes liability.",
+        "essential_elements": [
+          "The bailee (or someone he allows to use the goods) uses them in a way not authorized by the bailment's conditions.",
+          "Damage occurs to the goods from or during that unauthorized use.",
+          "The bailee must compensate the bailor for that damage, regardless of care exercised during the unauthorized use."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare illustrations (a) and (b): in both, the person actually riding exercised care, yet liability attaches purely because the use itself exceeded what was agreed — care is not a defence to unauthorized use."
+      }
+    },
+    {
+      "number": "155",
+      "title": "Effect of mixture, with bailor's consent, of his goods with bailee's",
+      "raw_text": "If the bailee, with the consent of the bailor, mixes the goods of the bailor with his own goods, the bailor and the bailee shall have an interest, in proportion to their respective shares, in the mixture thus produced.",
+      "key_terms": [
+        "bailee",
+        "mixture",
+        "proportionate interest"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 155 covers the simplest mixture case: when the bailor agrees to let the bailee mix the bailed goods with the bailee's own similar goods, both end up owning the combined mass in proportion to what each contributed.",
+        "essential_elements": [
+          "The bailee mixes the bailor's goods with his own.",
+          "The mixing happens with the bailor's consent.",
+          "Both parties then hold an interest in the resulting mixture proportionate to their respective shares."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the 'easy' one of the three mixture sections (155-157) — consent up front means no dispute over outcome; ownership is simply pro-rated."
+      }
+    },
+    {
+      "number": "156",
+      "title": "Effect of mixture without bailor's consent, when the goods can be separated",
+      "raw_text": "If the bailee, without the consent of the bailor, mixes the goods of the bailor with his own goods, and the goods can be separated or divided, the property in the goods remains in the parties respectively; but the bailee is bound to bear the expense of separation or division, and any damage arising from the mixture.\n\nIllustration\nA bails 100 bales of cotton marked with a particular mark to B. B, without A's consent, mixes the 100 bales with other bales of his own, bearing a different mark: A is entitled to have his 100 bales returned, and B is bound to bear all the expense incurred in the separation of the bales, and any other incidental damage.",
+      "key_terms": [
+        "bailee",
+        "mixture",
+        "separation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 156 handles unauthorized mixing where the goods can still be told apart and separated (like differently-marked cotton bales). Ownership stays exactly as it was — nothing is lost — but the bailee bears the entire cost and any resulting damage caused by his own unauthorized mixing.",
+        "essential_elements": [
+          "The bailee mixes the goods without the bailor's consent.",
+          "The mixed goods can be separated or divided.",
+          "Ownership of each party's goods remains unaffected.",
+          "The bailee must bear the expense of separation and any damage arising from the mixture."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The key distinguishing fact versus Section 157 is separability — if the goods can be told apart, the law simply restores the status quo at the bailee's expense, rather than compensating for loss."
+      }
+    },
+    {
+      "number": "157",
+      "title": "Effect of mixture, without bailor's consent, when the goods cannot be separated",
+      "raw_text": "If the bailee, without the consent of the bailor, mixes the goods of the bailor with his own goods, in such a manner that it is impossible to separate the goods bailed from the other goods, and deliver them back, the bailor is entitled to be compensated by the bailee for the loss of the goods.\n\nIllustration\nA bails a barrel of Cape flour worth Rs. 45 to B. B, without A's consent, mixes the flour with country flour of his own, worth only Rs. 25 a barrel. B must compensate A for the loss of his flour.",
+      "key_terms": [
+        "bailee",
+        "mixture",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 157 is the harsher sibling of Section 156: when unauthorized mixing makes separation impossible (like flour blended together), the bailor's goods are effectively lost, and the bailee must simply compensate for that loss rather than attempt any physical separation.",
+        "essential_elements": [
+          "The bailee mixes the goods without the bailor's consent.",
+          "Separation of the bailor's goods from the mixture is impossible.",
+          "The bailor is entitled to compensation for the loss of his goods."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 155-157 form a clean escalating ladder: consented mixture (155) → proportionate ownership; unconsented but separable (156) → restoration at bailee's cost; unconsented and inseparable (157) → straight compensation for loss."
+      }
+    },
+    {
+      "number": "158",
+      "title": "Repayment, by bailor, of necessary expenses",
+      "raw_text": "Where, by the conditions of the bailment, the goods are to be kept or to be carried, or to have work done upon them by the bailee for the bailor, and the bailee is to receive no remuneration, the bailor shall repay to the bailee the necessary expenses incurred by him for the purpose of the bailment.",
+      "key_terms": [
+        "bailor",
+        "necessary expenses",
+        "gratuitous bailment"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 158 protects an unpaid (gratuitous) bailee: if he's not being paid for keeping, carrying, or working on the bailor's goods, the bailor must at least reimburse the necessary expenses the bailee incurred in doing so — the bailee shouldn't be out of pocket for doing the bailor a favour.",
+        "essential_elements": [
+          "The bailee is to keep, carry, or do work on the goods under the bailment's conditions.",
+          "The bailee is to receive no remuneration for this.",
+          "The bailor must repay the necessary expenses the bailee incurred for the purpose of the bailment."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is limited to 'necessary' expenses of a gratuitous bailment — it doesn't create a right to profit or fees, only a right to be made whole for genuine out-of-pocket costs."
+      }
+    },
+    {
+      "number": "159",
+      "title": "Restoration of goods lent gratuitously",
+      "raw_text": "The lender of a thing for use may at any time require its return, if the loan was gratuitous, even though he lent it for a specified time or purpose. But if, on the faith of such loan made for a specified time or purpose, the borrower has acted in such a manner that the return of the thing lent before the time agreed upon would cause him loss exceeding the benefit actually derived by him from the loan, the lender must, if he compels the return, indemnify the borrower for the amount in which the loss so occasioned exceeds the benefit so derived.",
+      "key_terms": [
+        "gratuitous bailment",
+        "indemnify",
+        "borrower"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 159 deals with a free loan of goods for use (a species of gratuitous bailment). The lender can demand the goods back at any time — even before the agreed period ends — because there's no consideration binding him to wait. But if the borrower relied on the agreed duration and would now suffer a net loss (loss exceeding whatever benefit he already got) from an early recall, the lender must indemnify him for that excess loss if he insists on early return.",
+        "essential_elements": [
+          "The loan of the thing for use is gratuitous.",
+          "The lender may demand return at any time, even before any agreed time or purpose is complete.",
+          "If early return, in reliance on the agreed term, causes the borrower loss exceeding his benefit from the loan, the lender must indemnify the difference if he compels return."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a fairness safety-valve on an otherwise one-sided right: the lender's free power to recall is checked by a duty to make good any net loss his early recall causes a reliant borrower."
+      }
+    },
+    {
+      "number": "160",
+      "title": "Return of goods bailed, on expiration of time or accomplishment of purpose",
+      "raw_text": "It is the duty of the bailee to return, or deliver according to the bailor's directions, the goods bailed, without demand, as soon as the time for which they were bailed has expired, or the purpose for which they were bailed has been accomplished.",
+      "key_terms": [
+        "bailee",
+        "return of goods"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 160 states the bailee's core end-of-bailment duty: once the agreed time is up or the purpose is achieved, the bailee must hand the goods back (or deliver as directed) on his own — he doesn't get to sit tight and wait for the bailor to ask.",
+        "essential_elements": [
+          "The time for which the goods were bailed has expired, or the purpose of the bailment has been accomplished.",
+          "The bailee must then return or deliver the goods as the bailor directs, without needing a demand from the bailor."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The phrase 'without demand' is the operative detail — it shifts the initiative onto the bailee, making delay in returning goods a breach even if the bailor never formally asked for them back."
+      }
+    },
+    {
+      "number": "161",
+      "title": "Bailee's responsibility when goods are not duly returned",
+      "raw_text": "If, by the default of the bailee, the goods are not returned, delivered or tendered at the proper time, he is responsible to the bailor for any loss, destruction or deterioration of the goods from that time.",
+      "key_terms": [
+        "bailee",
+        "default",
+        "responsibility"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 161 raises the bailee's liability once he defaults on the Section 160 duty to return goods on time: from the moment of that default onward, he becomes responsible for any loss, destruction, or deterioration of the goods — effectively becoming an insurer of the goods for the overdue period, beyond the ordinary Section 151 care standard.",
+        "essential_elements": [
+          "The bailee fails, by his own default, to return, deliver, or tender the goods at the proper time.",
+          "From that point of default, he is responsible for any loss, destruction, or deterioration of the goods."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a good example of how the Act uses timing to allocate risk: a bailee who is late effectively bears the risk of accidents that happen afterward, even ones that ordinary prudence couldn't have prevented."
+      }
+    },
+    {
+      "number": "162",
+      "title": "Termination of gratuitous bailment by death",
+      "raw_text": "A gratuitous bailment is terminated by the death either of the bailor or of the bailee.",
+      "key_terms": [
+        "gratuitous bailment",
+        "termination"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 162 is a short, clean rule: an unpaid bailment ends automatically on the death of either party — it doesn't survive to bind the deceased's estate or heirs the way a paid bailment or an ordinary contract debt might.",
+        "essential_elements": [
+          "The bailment must be gratuitous (no remuneration involved).",
+          "The death of either the bailor or the bailee automatically terminates the bailment."
+        ],
+        "exceptions_and_qualifications": [
+          "This automatic-termination rule is specific to gratuitous bailments; bailments for reward are not addressed by this section and generally continue to bind representatives."
+        ],
+        "how_to_read": "Treat this as confirming that a gratuitous bailment is personal in nature — it rests on the particular relationship between the specific bailor and bailee, not a transferable property or debt interest."
+      }
+    },
+    {
+      "number": "163",
+      "title": "Bailor entitled to increase or profit from goods bailed",
+      "raw_text": "In the absence of any contract to the contrary, the bailee is bound to deliver to the bailor, or according to his directions, any increase or profit which may have accrued from the goods bailed.\n\nIllustration\nA leaves a cow in the custody of B to be taken care of. The cow has a calf. B is bound to deliver the calf as well as the cow to A.",
+      "key_terms": [
+        "bailor",
+        "increase or profit"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 163 gives the bailor the default benefit of anything the bailed goods naturally produce while in the bailee's custody — like a calf born to a bailed cow. Unless the parties agreed otherwise, that increase belongs to the bailor, not the bailee, and must be handed over along with the original goods.",
+        "essential_elements": [
+          "No contrary contract exists between the parties.",
+          "The bailed goods produce an increase or profit while in the bailee's custody.",
+          "The bailee must deliver that increase/profit to the bailor along with the original goods."
+        ],
+        "exceptions_and_qualifications": [
+          "The parties may contract around this default rule (e.g. agreeing the bailee keeps any offspring/profit as part of his fee)."
+        ],
+        "how_to_read": "This reflects ordinary ownership logic: since the bailor remains the owner throughout the bailment, anything the property naturally yields belongs to the owner, absent a special agreement."
+      }
+    },
+    {
+      "number": "164",
+      "title": "Bailor's responsibility to bailee",
+      "raw_text": "The bailor is responsible to the bailee for any loss which the bailee may sustain by reason that the bailor was not entitled to make the bailment, or to receive back the goods, or to give directions respecting them.",
+      "key_terms": [
+        "bailor",
+        "responsibility"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 164 protects the bailee from a defective bailor — if it later turns out the bailor never actually had the right to bail the goods, take them back, or direct their disposal (e.g. he wasn't the true owner or lacked authority), the bailor is liable to the bailee for any resulting loss.",
+        "essential_elements": [
+          "The bailor lacked the entitlement to make the bailment, receive back the goods, or give directions about them.",
+          "The bailee suffers loss because of that lack of entitlement.",
+          "The bailor is responsible to the bailee for that loss."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a mirror-image protection to Section 150 (bailor must disclose faults in goods): here the bailor impliedly warrants that he has good title/authority over the goods he is bailing."
+      }
+    },
+    {
+      "number": "165",
+      "title": "Bailment by several joint owners",
+      "raw_text": "If several joint owners of goods bail them, the bailee may deliver them back to, or according to the directions of, one joint owner without the consent of all in the absence of any agreement to the contrary.",
+      "key_terms": [
+        "joint owners",
+        "bailee"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 165 simplifies life for a bailee dealing with jointly-owned goods: he can safely return the goods to (or follow the directions of) just one of the joint owners, without needing everyone's sign-off, unless the joint owners had specifically agreed among themselves that all must consent.",
+        "essential_elements": [
+          "The goods bailed belong to several joint owners.",
+          "The bailee may deliver them back to, or per the directions of, any one joint owner.",
+          "This is subject to there being no contrary agreement requiring all owners' consent."
+        ],
+        "exceptions_and_qualifications": [
+          "If the joint owners have agreed that return requires everyone's consent, that agreement overrides this default rule."
+        ],
+        "how_to_read": "This is a practical convenience rule protecting the bailee from being caught in the middle of disputes between co-owners — he can act on one owner's instructions in good faith absent a contrary arrangement."
+      }
+    },
+    {
+      "number": "166",
+      "title": "Bailee not responsible on re-delivery to bailor without title",
+      "raw_text": "If the bailor has no title to the goods, and the bailee, in good faith, delivers them back to, or according to the directions of, the bailor, the bailee is not responsible to the owner in respect of such delivery.",
+      "key_terms": [
+        "bailee",
+        "title",
+        "good faith"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 166 shields a good-faith bailee: even if the bailor turns out not to have actually owned the goods, the bailee who innocently returns them to that bailor (or follows his directions) is not liable to the true owner for having done so.",
+        "essential_elements": [
+          "The bailor in fact had no title to the goods.",
+          "The bailee, acting in good faith, delivers them back to (or as directed by) that bailor.",
+          "The bailee is then not responsible to the true owner in respect of that delivery."
+        ],
+        "exceptions_and_qualifications": [
+          "Good faith is essential — a bailee who knows of the defect in title and still delivers to the bailor loses this protection."
+        ],
+        "how_to_read": "Read this alongside Section 167 — together they show the Act's approach when a bailee is caught between a bailor who lacks title and a true owner asserting a claim: honest compliance with the bailor's instructions is protected, but a rival claimant can also intervene through the courts."
+      }
+    },
+    {
+      "number": "167",
+      "title": "Right of third person claiming goods bailed",
+      "raw_text": "If a person, other than the bailor, claims goods bailed he may apply to the Court to stop the delivery of the goods to the bailor, and to decide the title to the goods.",
+      "key_terms": [
+        "bailee",
+        "third person",
+        "title"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 167 gives a true owner (or anyone else claiming the goods) a procedural remedy: rather than fighting the bailee directly, they can go to court to stop delivery to the bailor and have the court resolve who actually owns the goods.",
+        "essential_elements": [
+          "A person other than the bailor claims the bailed goods.",
+          "That person may apply to the Court to stop delivery to the bailor.",
+          "The Court then decides the title to the goods."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the litigation escape hatch that makes Section 166's good-faith protection workable — a rival claimant isn't left without a remedy; he simply has to go through the court rather than confront the bailee informally."
+      }
+    },
+    {
+      "number": "168",
+      "title": "Right of finder of goods, may sue for specific reward offered",
+      "raw_text": "The finder of goods has no right to sue the owner for compensation for trouble and expense voluntarily incurred by him to preserve the goods and to find out the owner; but he may retain the goods against the owner until he receives such compensation; and, where the owner has offered a specific reward for the return of goods lost, the finder may sue for such reward, and may retain the goods until he receives it.",
+      "key_terms": [
+        "finder of goods",
+        "compensation",
+        "specific reward",
+        "lien"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 168 addresses the finder of lost goods — treated by the Act as a kind of bailee. He can't sue the owner for volunteered trouble and expense, but he can hold onto the goods until reimbursed (a lien). And if the owner has publicly offered a specific reward, the finder gains a real, enforceable right to sue for that reward and to retain the goods until paid.",
+        "essential_elements": [
+          "A person finds and preserves lost goods, and takes trouble/expense to locate the owner.",
+          "He cannot sue the owner for that trouble and expense as such, but may retain the goods until compensated for it.",
+          "If the owner has offered a specific reward for return of the goods, the finder may sue for that reward and retain the goods until paid."
+        ],
+        "exceptions_and_qualifications": [
+          "Without a specific reward offer, the finder's only enforceable right is the lien (retention) — not a direct claim for money."
+        ],
+        "how_to_read": "The finder's position illustrates the difference between a passive right (retain until paid — a lien) and an active right (sue for payment) — the Act only grants the active right where a specific reward has actually been offered."
+      }
+    },
+    {
+      "number": "169",
+      "title": "When finder of thing commonly on sale may sell it",
+      "raw_text": "When a thing which is commonly the subject of sale is lost, if the owner cannot with reasonable diligence be found, or if he refuses, upon demand, to pay the lawful charges of the finder, the finder may sell it—\n(1) when the thing is in danger of perishing or of losing the greater part of its value, or,\n(2) when the lawful charges of the finder, in respect of the thing found, amount to two-thirds of its value.",
+      "key_terms": [
+        "finder of goods",
+        "lawful charges"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 169 gives the finder of ordinarily-saleable lost goods a power of sale in two situations: the goods are about to perish or lose most of their value, or the finder's legitimate expenses have piled up to two-thirds of the item's worth — but only after the owner genuinely cannot be traced with reasonable effort, or refuses to pay the finder's lawful charges on demand.",
+        "essential_elements": [
+          "The lost thing is one that is commonly the subject of sale.",
+          "The owner cannot be found with reasonable diligence, or refuses to pay the finder's lawful charges on demand.",
+          "Then, the finder may sell it if it is in danger of perishing/losing most of its value, or if his lawful charges reach two-thirds of its value."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section balances the finder's practical need for an exit (he can't be expected to warehouse a perishable or low-value item forever) against the owner's ownership rights, by fixing precise thresholds (imminent loss of value, or the two-thirds charges mark) before sale is permitted."
+      }
+    },
+    {
+      "number": "170",
+      "title": "Bailee's particular lien",
+      "raw_text": "Where the bailee has, in accordance with the purpose of the bailment, rendered any service involving the exercise of labour or skill in respect of the goods bailed, he has, in the absence of a contract to the contrary, a right to retain such goods until he receives due remuneration for the services he has rendered in respect of them.\n\nIllustrations\n(a) A delivers a rough diamond to B, a jeweller, to be cut and polished, which is accordingly done. B is entitled to retain the stone till he is paid for the services he has rendered.\n(b) A gives cloth to B, a tailor, to make into a coat. B promises A to deliver the coat as soon as it is finished, and to give a three months' credit for the price. B is not entitled to retain the coat until he is paid.",
+      "key_terms": [
+        "bailee",
+        "particular lien",
+        "labour or skill"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 170 creates a 'particular lien' — a bailee who has applied labour or skill to the bailed goods (like a jeweller cutting a diamond) can hold onto those specific goods until paid for that work. But this default right disappears if the parties have specially agreed otherwise, as in illustration (b), where the tailor explicitly agreed to deliver on credit — that agreement displaces the default lien.",
+        "essential_elements": [
+          "The bailee, per the bailment's purpose, renders a service involving labour or skill on the goods.",
+          "No contract to the contrary exists.",
+          "The bailee may then retain the goods until paid the due remuneration for that specific service."
+        ],
+        "exceptions_and_qualifications": [
+          "An express or implied agreement to extend credit or deliver before payment displaces this lien (illustration (b))."
+        ],
+        "how_to_read": "'Particular' lien means it's limited to the goods actually worked on and the charges for that specific work — contrast with Section 171's broader 'general' lien, which can secure an entire running account."
+      }
+    },
+    {
+      "number": "171",
+      "title": "General lien of bankers, factors, wharfingers, attorneys and policy-brokers",
+      "raw_text": "Bankers, factors, wharfingers, attorneys of a High Court and policy-brokers may, in the absence of a contract to the contrary, retain as a security for a general balance of account, any goods bailed to them; but no other persons have a right to retain, as a security for such balance, goods bailed to them, unless there is an express contract to that effect.",
+      "key_terms": [
+        "general lien",
+        "banker",
+        "factor",
+        "wharfinger",
+        "attorney",
+        "policy-broker"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 171 grants a special, broader 'general lien' to a named list of professionals — bankers, factors, wharfingers, High Court attorneys, and policy-brokers. Unlike the particular lien of Section 170 (limited to charges on the specific goods), their lien secures the entire general balance the client owes them across their whole relationship. Anyone outside this list needs an express contract to claim a similar general lien.",
+        "essential_elements": [
+          "The person claiming the lien must fall within the named categories: banker, factor, wharfinger, attorney of a High Court, or policy-broker.",
+          "No contract to the contrary exists.",
+          "Such persons may then retain any goods bailed to them as security for the general balance of account (not just charges tied to those specific goods).",
+          "Anyone else needs an express contract to claim an equivalent general lien."
+        ],
+        "exceptions_and_qualifications": [
+          "An agreement to the contrary between the parties displaces even this statutory general lien."
+        ],
+        "how_to_read": "The general/particular lien distinction is a classic exam point: particular lien (Section 170) = default right, available to any bailee who adds value, limited to that job's charges; general lien (Section 171) = exceptional right, limited to the named professions, covering the whole running account."
+      }
+    },
+    {
+      "number": "172",
+      "title": "\"Pledge\", \"pawnor\", and \"pawnee\" defined",
+      "raw_text": "The bailment of goods as security for payment of a debt or performance of a promise is called \"pledge\". The bailor is in this case called the \"pawnor\". The bailee is called the \"pawnee\".",
+      "key_terms": [
+        "pledge",
+        "pawnor",
+        "pawnee"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 172 opens the pledge sub-chapter (pledge is simply a special kind of bailment). When goods are handed over as security for a debt or promise, that's a pledge; the person giving the security is the pawnor, and the person holding it as security is the pawnee.",
+        "essential_elements": [
+          "Goods are bailed specifically as security for the payment of a debt or the performance of a promise.",
+          "The bailor in this arrangement is called the pawnor.",
+          "The bailee is called the pawnee."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Think of pledge as bailment-plus-purpose: all pledges are bailments, but not all bailments are pledges — the defining extra ingredient is that the goods secure a debt or promise."
+      }
+    },
+    {
+      "number": "173",
+      "title": "Pawnee's right of retainer",
+      "raw_text": "The pawnee may retain the goods pledged, not only for payment of the debt or the performance of the promise, but for the interest of the debt, and all necessary expenses incurred by him in respect of the possession or for the preservation of the goods pledged.",
+      "key_terms": [
+        "pawnee",
+        "retainer",
+        "necessary expenses"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 173 spells out exactly what the pawnee's lien over the pledged goods secures: not just the principal debt or promise, but also accrued interest and any necessary expenses of holding and preserving the goods.",
+        "essential_elements": [
+          "The pawnee's right of retention covers the principal debt or promise.",
+          "It also covers interest on the debt.",
+          "It also covers necessary expenses incurred for possession or preservation of the pledged goods."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the pledge-specific version of a lien — broader than a simple 'hold until paid,' it captures interest and upkeep costs too, all secured by the same retained goods."
+      }
+    },
+    {
+      "number": "174",
+      "title": "Pawnee not to retain for debt or promise other than that for which goods pledged; presumption in case of subsequent advances",
+      "raw_text": "The pawnee shall not, in the absence of a contract to that effect, retain the goods pledged for any debt or promise other than the debt or promise for which they are pledged; but such contract, in the absence of anything to the contrary, shall be presumed in regard to subsequent advances made by the pawnee.",
+      "key_terms": [
+        "pawnee",
+        "pledge",
+        "subsequent advances"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 174 limits the pawnee's retention to the specific debt the goods were pledged for — he can't hold them hostage for some unrelated debt, absent an agreement. But there's a helpful presumption: if the pawnee later makes further advances (additional loans) to the same pawnor, it's presumed those are also covered by the same pledge, unless shown otherwise.",
+        "essential_elements": [
+          "Default rule: the pawnee can only retain the pledged goods for the debt/promise they were pledged for.",
+          "An express contract can extend the pawnee's retention to other debts too.",
+          "For subsequent advances made by the same pawnee to the same pawnor, an extending contract is presumed absent contrary evidence."
+        ],
+        "exceptions_and_qualifications": [
+          "The presumption for subsequent advances can be rebutted by evidence showing the parties intended otherwise."
+        ],
+        "how_to_read": "This is essentially Section 171's general-lien logic transplanted into pledge, but scoped down: default is narrow (particular-lien-like), extendable by contract, and specifically presumed extended for later top-up advances between the same parties."
+      }
+    },
+    {
+      "number": "175",
+      "title": "Pawnee's right as to extraordinary expenses incurred",
+      "raw_text": "The pawnee is entitled to receive from the pawnor extraordinary expenses incurred by him for the preservation of the goods pledged.",
+      "key_terms": [
+        "pawnee",
+        "extraordinary expenses"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 175 gives the pawnee a direct personal claim (not just a lien over the goods) for extraordinary — i.e., unusual, above-normal — expenses spent preserving the pledged goods, recoverable from the pawnor.",
+        "essential_elements": [
+          "The pawnee incurs extraordinary expenses for preservation of the pledged goods.",
+          "He is entitled to receive (recover) those expenses from the pawnor."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Contrast with Section 173's ordinary/necessary expenses (which are secured by retention of the goods themselves): Section 175's extraordinary expenses give a separate, direct right to recover from the pawnor personally."
+      }
+    },
+    {
+      "number": "176",
+      "title": "Pawnee's right where pawnor makes default",
+      "raw_text": "If the pawnor makes default in payment of the debt, or performance, at the stipulated time of the promise, in respect of which the goods were pledged, the pawnee may bring a suit against the pawnor upon the debt or promise, and retain the goods pledged as a collateral security; or he may sell the thing pledged, on giving the pawnor reasonable notice of the sale. If the proceeds of such sale are less than the amount due in respect of the debt or promise, the pawnor is still liable to pay the balance. If the proceeds of the sale are greater than the amount so due, the pawnee shall pay over the surplus to the pawnor.",
+      "key_terms": [
+        "pawnee",
+        "default",
+        "sale of pledge"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 176 is the pawnee's remedies menu on default: he can either sue on the underlying debt while keeping the goods as collateral, or sell the pledged goods after giving reasonable notice. Either way, the economics are trued up afterward — any shortfall after sale remains recoverable from the pawnor, and any surplus must be returned to him. The pawnee cannot simply keep a windfall.",
+        "essential_elements": [
+          "The pawnor defaults in payment of the debt or performance of the promise at the stipulated time.",
+          "The pawnee may then sue on the debt/promise while retaining the goods as collateral security, or sell the goods after giving the pawnor reasonable notice.",
+          "If sale proceeds fall short of the amount due, the pawnor remains liable for the balance.",
+          "If sale proceeds exceed the amount due, the pawnee must pay the surplus to the pawnor."
+        ],
+        "exceptions_and_qualifications": [
+          "Sale is conditional on giving the pawnor reasonable notice — a sale without proper notice is not a valid exercise of this right."
+        ],
+        "how_to_read": "This section is the practical engine of pledge as security: it's what makes a pledge more useful to a creditor than an unsecured debt — a self-help sale remedy, tempered by a notice requirement and a surplus/shortfall true-up so neither side is unjustly enriched or left short."
+      }
+    },
+    {
+      "number": "177",
+      "title": "Defaulting pawnor's right to redeem",
+      "raw_text": "If a time is stipulated for the payment of the debt, or performance of the promise, for which the pledge is made, and the pawnor makes default in payment of the debt or performance of the promise at the stipulated time, he may redeem the goods pledged at any subsequent time before the actual sale of them; but he must, in that case, pay, in addition, any expenses which have arisen from his default.",
+      "key_terms": [
+        "pawnor",
+        "redeem",
+        "default"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 177 gives the pawnor a second chance even after missing the stipulated deadline: he can still redeem (buy back) the pledged goods any time before the pawnee actually sells them, as long as he also pays any extra expenses his own default caused.",
+        "essential_elements": [
+          "A time was stipulated for payment of the debt or performance of the promise.",
+          "The pawnor defaults at that stipulated time.",
+          "He may still redeem the goods at any time before the actual sale, on paying default-related expenses in addition."
+        ],
+        "exceptions_and_qualifications": [
+          "This right to redeem ends once an actual sale of the pledged goods has taken place — it cannot be exercised after that point."
+        ],
+        "how_to_read": "This is a pawnor-protective rule mirroring the general equity-of-redemption idea in secured-lending law: default alone doesn't extinguish the pawnor's rights over his goods — only an actual completed sale does."
+      }
+    },
+    {
+      "number": "178",
+      "title": "Pledge by mercantile agent",
+      "raw_text": "Where a mercantile agent is, with the consent of the owner, in possession of goods or the document of title to goods, any pledge made by him, when acting in the ordinary course of business of a mercantile agent, shall be as valid as if he were expressly authorised by the owner of the goods to make the same; provided that the pawnee acts in good faith and has not at the time of the pledge notice that the pawnor has not authority to pledge.\n\nExplanation.—In this section, the expressions \"mercantile agent\" and \"documents of title\" shall have the meanings assigned to them in the Indian Sale of Goods Act, 1930 (3 of 1930).",
+      "key_terms": [
+        "mercantile agent",
+        "pledge",
+        "good faith",
+        "document of title"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 178 protects innocent lenders dealing with a mercantile agent (someone in the business of selling or otherwise dealing in goods on behalf of others). If the owner consented to the agent holding the goods or their title documents, a pledge the agent makes in the ordinary course of his business is treated as fully authorized — even if the owner never actually authorized that particular pledge — as long as the pawnee acted in good faith and had no notice of any lack of authority.",
+        "essential_elements": [
+          "A mercantile agent is, with the owner's consent, in possession of goods or documents of title to goods.",
+          "The agent makes a pledge while acting in the ordinary course of a mercantile agent's business.",
+          "The pawnee acts in good faith and has no notice, at the time of the pledge, that the pawnor lacks authority to pledge.",
+          "Then the pledge is as valid as if expressly authorized by the owner."
+        ],
+        "exceptions_and_qualifications": [
+          "If the pawnee knew, or had notice, of the agent's lack of authority, this protection does not apply."
+        ],
+        "how_to_read": "This is a commercial-certainty exception to ordinary agency/title rules — it protects the marketplace by letting good-faith lenders rely on apparent authority created by the owner's own act of entrusting goods to a mercantile agent."
+      }
+    },
+    {
+      "number": "178A",
+      "title": "Pledge by person in possession under voidable contract",
+      "raw_text": "When the pawnor has obtained possession of the goods pledged by him under a contract voidable under section 19 or section 19A, but the contract has not been rescinded at the time of the pledge, the pawnee acquires a good title to the goods, provided he acts in good faith and without notice of the pawnor's defect of title.",
+      "key_terms": [
+        "pawnor",
+        "voidable contract",
+        "good faith",
+        "title"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 178A protects a good-faith pawnee who lends against goods that the pawnor obtained under a voidable contract (say, one induced by fraud or coercion under Sections 19/19A) — as long as the original contract had not yet been rescinded when the pledge was made, and the pawnee acted honestly and without notice of the defect, the pawnee still gets good title to the pledged goods.",
+        "essential_elements": [
+          "The pawnor obtained possession of the goods under a contract voidable under Section 19 or 19A.",
+          "That voidable contract has not been rescinded at the time of the pledge.",
+          "The pawnee acts in good faith and without notice of the pawnor's defect of title.",
+          "The pawnee then acquires a good title to the goods."
+        ],
+        "exceptions_and_qualifications": [
+          "If the original contract had already been rescinded before the pledge, or the pawnee had notice of the defect, this protection is unavailable."
+        ],
+        "how_to_read": "The timing is everything here — this section only helps a pawnee who lends before rescission; once the original owner has rescinded the voidable contract and reclaimed title, a subsequent pledge by the erstwhile possessor cannot pass good title, however innocent the pawnee."
+      }
+    },
+    {
+      "number": "179",
+      "title": "Pledge where pawnor has only a limited interest",
+      "raw_text": "Where a person pledges goods in which he has only a limited interest, the pledge is valid to the extent of that interest.",
+      "key_terms": [
+        "pawnor",
+        "limited interest",
+        "pledge"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 179 applies the basic principle that you can't give more than you have: if the pawnor only owns a partial or limited interest in the goods (say, a co-owner's share, or a lessee's interest), the pledge is only valid to that same limited extent.",
+        "essential_elements": [
+          "The pawnor has only a limited interest (not full ownership) in the goods pledged.",
+          "The pledge is valid only to the extent of that limited interest."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the pledge-law expression of the maxim nemo dat quod non habet (no one gives what they do not have) — the pawnee's security is capped at whatever interest the pawnor genuinely held."
+      }
+    },
+    {
+      "number": "180",
+      "title": "Suit by bailor or bailee against wrong-doer",
+      "raw_text": "If a third person wrongfully deprives the bailee of the use or possession of the goods bailed, or does them any injury, the bailee is entitled to use such remedies as the owner might have used in the like case if no bailment had been made; and either the bailor or the bailee may bring a suit against a third person for such deprivation or injury.",
+      "key_terms": [
+        "bailee",
+        "bailor",
+        "wrong-doer"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 180 lets both the bailor and the bailee sue an outside wrongdoer who interferes with the bailed goods — whether by wrongfully taking them or damaging them. The bailee, despite not being the owner, gets full owner-like remedies against such third parties for the duration of the bailment.",
+        "essential_elements": [
+          "A third person (not the bailor or bailee) wrongfully deprives the bailee of use/possession of the bailed goods, or injures them.",
+          "The bailee may use the same remedies the owner could have used had there been no bailment.",
+          "Either the bailor or the bailee may sue that third person for the deprivation or injury."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This prevents a wrongdoer from escaping liability just because the person actually holding the goods (the bailee) isn't the owner — both bailor and bailee have standing, avoiding any gap in accountability."
+      }
+    },
+    {
+      "number": "181",
+      "title": "Apportionment of relief or compensation obtained by such suits",
+      "raw_text": "Whatever is obtained by way of relief or compensation in any such suit shall, as between the bailor and the bailee, be dealt with according to their respective interests.",
+      "key_terms": [
+        "bailor",
+        "bailee",
+        "apportionment"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 181 closes the bailment/pledge chapter by ensuring that whatever the bailor or bailee actually recovers from a wrongdoer under Section 180 isn't kept entirely by whichever of them happened to sue — it must be shared between them according to each one's actual interest in the goods.",
+        "essential_elements": [
+          "A suit under Section 180 results in relief or compensation being obtained.",
+          "That relief/compensation must be apportioned between the bailor and the bailee according to their respective interests."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is the fairness backstop to Section 180's broad standing-to-sue rule — broad access to a remedy doesn't mean broad entitlement to keep the proceeds; the underlying interests still control the final division."
       }
     }
   ]
