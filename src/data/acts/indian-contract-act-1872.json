@@ -142,7 +142,36 @@
     "document of title": "A document (such as a bill of lading or warehouse receipt) that in the ordinary course of business is treated as proof of possession or control of goods, and whose transfer operates to transfer that possession or control.",
     "limited interest": "A partial or restricted ownership interest in property, short of full/absolute ownership — for example, a co-owner's share or a lessee's interest.",
     "wrong-doer": "A person who, without legal right, interferes with, damages, or wrongfully deprives another of possession of property.",
-    "apportionment": "The fair division of relief, compensation, or proceeds among two or more persons according to their respective interests."
+    "apportionment": "The fair division of relief, compensation, or proceeds among two or more persons according to their respective interests.",
+    "agent": "A person employed to do an act for another, or to represent another in dealings with third persons.",
+    "principal": "The person for whom an act is done, or who is represented, by an agent.",
+    "express authority": "Authority given to an agent by words, spoken or written.",
+    "implied authority": "Authority inferred from the circumstances of the case, including conduct, the ordinary course of dealing, or things spoken or written.",
+    "course of dealing": "A pattern of prior conduct between two parties that can be taken into account in inferring the existence or scope of an agent's authority.",
+    "incidental powers": "Powers an agent is taken to have by necessary implication, even without express mention, because they are necessary to carry out an authorized act or business.",
+    "emergency": "A sudden, unforeseen situation requiring urgent action, in which an agent may act beyond his ordinary instructions to protect the principal from loss.",
+    "delegate": "To hand over performance of a task or duty to another person.",
+    "sub-agent": "A person employed by, and acting under the control of, the original agent in the business of the agency.",
+    "wilful wrong": "A deliberate, knowing act of wrongdoing, as opposed to mere carelessness or negligence.",
+    "unauthorized appointment": "The appointment of a sub-agent or substitute by an agent who lacked the authority to make such an appointment.",
+    "substituted agent": "A person named by an agent, under express or implied authority to do so, who becomes a direct agent of the principal (not a sub-agent under the original agent's control) for the part of the business entrusted to him.",
+    "discretion": "The judgment and care a person exercises in making a decision, particularly in selecting another person to act on one's behalf.",
+    "ratification": "The act of adopting and confirming, after the fact, an act done on one's behalf without prior authority — giving it the same legal effect as if it had been authorized from the start.",
+    "unauthorized act": "An act done by one person on behalf of another without that other person's knowledge or authority.",
+    "implied ratification": "Ratification inferred from a person's conduct after an unauthorized act was done on their behalf, rather than from an express statement of approval.",
+    "material knowledge": "Full and accurate awareness of the significant facts relevant to a transaction or act, required for a valid ratification.",
+    "transaction": "A dealing or set of connected acts between parties, such as a purchase, loan, or sale.",
+    "termination of agency": "The ending of the legal relationship of agency between principal and agent, whether by revocation, renunciation, completion, death, unsound mind, or insolvency.",
+    "renunciation": "The act of the agent giving up or abandoning the business of the agency.",
+    "insolvent": "A person who is legally adjudicated unable to pay his debts, under the law relating to relief of insolvent debtors.",
+    "agency coupled with interest": "An agency in which the agent has his own financial interest in the subject-matter, which as a result cannot be revoked to the agent's prejudice, and does not terminate on the principal's death or unsoundness of mind, absent a contrary contract.",
+    "partly exercised": "Describes an agent's authority when it has already been acted upon in part, such that acts and obligations arising from what has been done cannot be undone by later revocation.",
+    "reasonable notice": "Notice given within a period of time that is fair and adequate in the circumstances, allowing the other party a genuine opportunity to adjust.",
+    "implied revocation": "Revocation of an agent's authority inferred from the principal's conduct, rather than from an express statement.",
+    "knowledge": "Actual awareness of a fact — here, of the termination of an agent's authority — which determines when that termination becomes legally effective as against the agent or third persons.",
+    "agency": "The legal relationship in which one person (the agent) is empowered to act for, or represent, another person (the principal) in dealings with third parties.",
+    "authority": "The power given to an agent, expressly or impliedly, to act on behalf of the principal.",
+    "third persons": "Persons who are not parties to the principal-agent relationship itself, but who deal with the agent in the course of the agency's business."
   },
   "sections": [
     {
@@ -2876,6 +2905,542 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This section is the fairness backstop to Section 180's broad standing-to-sue rule — broad access to a remedy doesn't mean broad entitlement to keep the proceeds; the underlying interests still control the final division."
+      }
+    },
+    {
+      "number": "182",
+      "title": "\"Agent\" and \"principal\" defined",
+      "raw_text": "An \"agent\" is a person employed to do any act for another, or to represent another in dealings with third persons. The person for whom such act is done, or who is so represented, is called the \"principal\".",
+      "key_terms": [
+        "agent",
+        "principal"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 182 opens Chapter X with the foundational definitions of agency: an agent is someone employed either to do an act for another person, or to represent that person in dealings with outsiders. The person on whose behalf the agent acts is the principal. Agency is the legal mechanism by which one person's acts can bind another.",
+        "essential_elements": [
+          "One person (the agent) is employed to do an act for, or to represent, another person.",
+          "The person for whom the act is done, or who is represented, is the principal."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Agency is distinct from ordinary bailment or service contracts — its defining feature is representation: an agent's dealings with third parties can create rights and obligations directly for the principal."
+      }
+    },
+    {
+      "number": "183",
+      "title": "Who may employ agent",
+      "raw_text": "Any person who is of the age of majority according to the law to which he is subject, and who is of sound mind, may employ an agent.",
+      "key_terms": [
+        "age of majority",
+        "sound mind",
+        "principal"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 183 sets the capacity requirement for becoming a principal: only a person who is legally a major and of sound mind can employ an agent — mirroring the general capacity-to-contract rule from Section 11.",
+        "essential_elements": [
+          "The person employing the agent must be of the age of majority under the law applicable to him.",
+          "That person must also be of sound mind."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is simply Section 11's contractual-capacity requirement applied specifically to the act of appointing an agent — a minor or person of unsound mind cannot validly appoint one."
+      }
+    },
+    {
+      "number": "184",
+      "title": "Who may be an agent",
+      "raw_text": "As between the principal and third persons, any person may become an agent, but no person who is not of the age of majority and of sound mind can become an agent, so as to be responsible to his principal according to the provisions in that behalf herein contained.",
+      "key_terms": [
+        "agent",
+        "age of majority",
+        "sound mind"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 184 draws an important distinction: for the purpose of binding the principal to third parties, literally anyone can act as an agent — even a minor. But that agent can only be held personally accountable to his own principal under the Act's agency provisions if he himself has the age of majority and is of sound mind.",
+        "essential_elements": [
+          "As between the principal and third persons, any person at all may act as an agent.",
+          "But to be responsible to the principal under the Act's agency rules, the agent himself must be of the age of majority and of sound mind."
+        ],
+        "exceptions_and_qualifications": [
+          "A minor agent can validly bind the principal in dealings with third parties, even though that minor agent cannot be sued by the principal for breach of his agency duties."
+        ],
+        "how_to_read": "This is a classic asymmetry in the law of agency: capacity to be bound (as principal) is strict, but capacity to validly represent someone (as agent) is deliberately loose — because it's the principal's acts being represented, not the agent's own contractual capacity, that matters to third parties."
+      }
+    },
+    {
+      "number": "185",
+      "title": "Consideration not necessary",
+      "raw_text": "No consideration is necessary to create an agency.",
+      "key_terms": [
+        "consideration",
+        "agency"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 185 carves out a notable exception to Section 25's general rule that agreements without consideration are void: an agency relationship can be validly created even without any consideration passing to the agent — the agent's promise to act need not be paid for to be enforceable.",
+        "essential_elements": [
+          "No consideration need pass between principal and agent for the agency to be validly created."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Remember this as one of the Act's few express exceptions to the consideration requirement — the agent may later become entitled to remuneration under the terms of the agency, but that's separate from what's needed to actually form the relationship."
+      }
+    },
+    {
+      "number": "186",
+      "title": "Agent's authority may be expressed or implied",
+      "raw_text": "The authority of an agent may be expressed or implied.",
+      "key_terms": [
+        "express authority",
+        "implied authority"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 186 confirms that an agent's authority doesn't have to be spelled out explicitly — it can also arise implicitly from the circumstances, as detailed further in Section 187.",
+        "essential_elements": [
+          "An agent's authority may take either of two forms: expressed, or implied."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a short signpost section — its substance is fleshed out immediately in Section 187, which defines each type."
+      }
+    },
+    {
+      "number": "187",
+      "title": "Definitions of express and implied authority",
+      "raw_text": "An authority is said to be express when it is given by words spoken or written. An authority is said to be implied when it is to be inferred from the circumstances of the case; and things spoken or written, or the ordinary course of dealing, may be accounted circumstances of the case.\n\nIllustration\nA owns a shop in Serampore, living himself in Calcutta, and visiting the shop occasionally. The shop is managed by B, and he is in the habit of ordering goods from C in the name of A for the purposes of the shop, and of paying for them out of A's funds with A's knowledge. B has an implied authority from A to order goods from C in the name of A for the purposes of the shop.",
+      "key_terms": [
+        "express authority",
+        "implied authority",
+        "course of dealing"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 187 defines the two categories introduced by Section 186. Express authority is given in so many words, spoken or written. Implied authority is inferred from surrounding circumstances — including a pattern of past dealing the principal has knowingly allowed, as in the illustration, where the shop manager's habitual practice of ordering goods (with the owner's knowledge) itself creates authority to keep doing so.",
+        "essential_elements": [
+          "Express authority arises from words, spoken or written, actually granting authority.",
+          "Implied authority is inferred from the circumstances of the case.",
+          "Such circumstances can include things spoken or written, or the ordinary course of dealing between the parties."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The illustration is doing real work here: the owner's knowledge and acquiescence in the manager's past conduct is what converts ordinary practice into legally recognized implied authority — silence plus knowledge plus repetition can create authority just as effectively as an explicit instruction."
+      }
+    },
+    {
+      "number": "188",
+      "title": "Extent of agent's authority",
+      "raw_text": "An agent, having an authority to do an act, has authority to do every lawful thing which is necessary in order to do such act. An agent having an authority to carry on a business, has authority to do every lawful thing necessary for the purpose, or usually done in the course, of conducting such business.\n\nIllustrations\n(a) A is employed by B, residing in London, to recover at Bombay a debt due to B. A may adopt any legal process necessary for the purpose of recovering the debt, and may give a valid discharge for the same.\n(b) A constitutes B his agent to carry on his business of a ship-builder. B may purchase timber and other materials, and hire workmen, for the purpose of carrying on the business.",
+      "key_terms": [
+        "agent",
+        "authority",
+        "incidental powers"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 188 gives an agent's stated authority a reasonable, practical scope: authority to do a specific act includes authority to do whatever lawful things are necessary to accomplish it, and authority to run a business includes authority for everything necessary or customary in running that kind of business — no need for the principal to spell out every incidental power.",
+        "essential_elements": [
+          "The agent holds authority to do a particular act or to carry on a business.",
+          "He then also has authority to do every lawful thing necessary to accomplish that act.",
+          "For running a business specifically, authority extends to every lawful thing necessary for, or usually done in the course of, that business."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the agency-law version of an 'implied powers' doctrine — courts read a sensible, businesslike scope into an agent's mandate rather than confining him to the literal words of his instructions."
+      }
+    },
+    {
+      "number": "189",
+      "title": "Agent's authority in an emergency",
+      "raw_text": "An agent has authority, in an emergency, to do all such acts for the purpose of protecting his principal from loss as would be done by a person of ordinary prudence, in his own case, under similar circumstances.\n\nIllustrations\n(a) An agent for sale may have goods repaired if it be necessary.\n(b) A consigns provisions to B at Calcutta, with directions to send them immediately to C, at Cuttack. B may sell the provisions at Calcutta, if they will not bear the journey to Cuttack without spoiling.",
+      "key_terms": [
+        "agent",
+        "emergency",
+        "ordinary prudence"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 189 grants an agent emergency powers beyond his ordinary instructions — in a genuine emergency, he may take whatever action a person of ordinary prudence would take to protect his own similar interests, even if that departs from his literal instructions, as in illustration (b), where selling locally (rather than following the direction to forward the goods) is justified by the risk of spoilage.",
+        "essential_elements": [
+          "A genuine emergency arises.",
+          "The agent acts for the purpose of protecting the principal from loss.",
+          "The action taken is what a person of ordinary prudence would do in his own similar case."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section shows the Act balancing fidelity to instructions against practical necessity — an agent isn't expected to watch the principal's property spoil or be lost just because an emergency wasn't anticipated in his original instructions."
+      }
+    },
+    {
+      "number": "190",
+      "title": "When agent cannot delegate",
+      "raw_text": "An agent cannot lawfully employ another to perform acts which he has expressly or impliedly undertaken to perform personally, unless by the ordinary custom of trade a sub-agent may, or, from the nature of the agency, a sub-agent must, be employed.",
+      "key_terms": [
+        "agent",
+        "delegate",
+        "sub-agent"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 190 opens the sub-agency sub-chapter with the default rule against delegation: if an agent has undertaken (expressly or impliedly) to act personally, he generally cannot pass the job to someone else. The two recognized exceptions are trade custom permitting delegation, or the very nature of the task requiring it.",
+        "essential_elements": [
+          "The agent has expressly or impliedly undertaken to perform the acts personally.",
+          "He generally cannot then delegate performance to another.",
+          "Exception: the ordinary custom of the trade permits a sub-agent, or the nature of the agency requires one."
+        ],
+        "exceptions_and_qualifications": [
+          "Delegation is permitted where trade custom allows a sub-agent, or where the nature of the agency makes employing one necessary."
+        ],
+        "how_to_read": "The Latin maxim delegatus non potest delegare ('a delegate cannot further delegate') captures this section's default rule — the principal chose this particular agent, generally expecting personal performance, unless custom or necessity says otherwise."
+      }
+    },
+    {
+      "number": "191",
+      "title": "\"Sub-agent\" defined",
+      "raw_text": "A \"sub-agent\" is a person employed by, and acting under the control of, the original agent in the business of the agency.",
+      "key_terms": [
+        "sub-agent",
+        "agent"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 191 defines a sub-agent as someone the original agent himself employs and controls, to help carry out the business of the agency — a sub-agent works for and under the agent, not directly under the principal.",
+        "essential_elements": [
+          "The sub-agent is employed by the original agent.",
+          "The sub-agent acts under the control of the original agent.",
+          "The sub-agent's work is in the business of the agency."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The defining feature is control — a sub-agent answers to the agent, which is what distinguishes him from a substituted agent under Section 194, who instead becomes a direct agent of the principal."
+      }
+    },
+    {
+      "number": "192",
+      "title": "Representation of principal by sub-agent properly appointed",
+      "raw_text": "Where a sub-agent is properly appointed, the principal is, so far as regards third persons, represented by the sub-agent, and is bound by and responsible for his acts, as if he were an agent originally appointed by the principal.\n\nAgent's responsibility for sub-agent.—The agent is responsible to the principal for the acts of the sub-agent.\n\nSub-agent's responsibility.—The sub-agent is responsible for his acts to the agent, but not to the principal, except in cases of fraud or wilful wrong.",
+      "key_terms": [
+        "sub-agent",
+        "principal",
+        "fraud",
+        "wilful wrong"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 192 sets out the chain of responsibility when a sub-agent is properly (validly) appointed. Toward outsiders, the principal is bound exactly as if the sub-agent were his own directly appointed agent. But internally, the sub-agent answers to the agent (not the principal), and the agent in turn answers to the principal for the sub-agent's conduct — unless the sub-agent has committed fraud or wilful wrong, in which case the sub-agent becomes directly answerable to the principal too.",
+        "essential_elements": [
+          "The sub-agent must be properly appointed (i.e., within the Section 190 exceptions).",
+          "As regards third persons, the principal is bound by and responsible for the sub-agent's acts, as if he were an originally appointed agent.",
+          "The agent is responsible to the principal for the sub-agent's acts.",
+          "The sub-agent is responsible to the agent (not the principal), except in cases of fraud or wilful wrong, where he becomes directly responsible to the principal."
+        ],
+        "exceptions_and_qualifications": [
+          "The sub-agent's direct responsibility to the principal is limited to cases of fraud or wilful wrong; for ordinary negligence, only the agent is answerable to the principal."
+        ],
+        "how_to_read": "Picture three tiers: principal ↔ agent ↔ sub-agent. Outward-facing liability (to third parties) treats the sub-agent as if he were the principal's own agent; inward-facing liability (between the three of them) generally respects the chain, except fraud/wilful wrong pierces straight through to the principal."
+      }
+    },
+    {
+      "number": "193",
+      "title": "Agent's responsibility for sub-agent appointed without authority",
+      "raw_text": "Where an agent, without having authority to do so, has appointed a person to act as a sub-agent, the agent stands towards such person in the relation of a principal to an agent, and is responsible for his acts both to the principal and to third persons; the principal is not represented, by or responsible for the acts of the person so employed, nor is that person responsible to the principal.",
+      "key_terms": [
+        "sub-agent",
+        "unauthorized appointment"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 193 covers the flip side of Section 192: when an agent appoints a sub-agent without authority (outside the Section 190 exceptions), that unauthorized appointment doesn't bind the principal at all. Instead, the agent himself effectively becomes a mini-principal for that unauthorized sub-agent, bearing full personal responsibility both to the real principal and to third persons for whatever that person does.",
+        "essential_elements": [
+          "The agent appoints a sub-agent without having authority to do so.",
+          "The agent then stands in a principal-agent relationship with that person himself.",
+          "The agent is responsible for that person's acts both to the real principal and to third persons.",
+          "The real principal is not bound by or responsible for that person's acts, and that person has no direct responsibility to the real principal."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section punishes unauthorized delegation by keeping the true principal completely insulated — the agent who overstepped bears all the risk of his unauthorized choice."
+      }
+    },
+    {
+      "number": "194",
+      "title": "Relation between principal and person duly appointed by agent to act in business of agency",
+      "raw_text": "Where an agent, holding an express or implied authority to name another person to act for the principal in the business of the agency, has named another person accordingly, such person is not a sub-agent, but an agent of the principal for such part of the business of the agency as is entrusted to him.\n\nIllustrations\n(a) A directs B, his solicitor, to sell his estate by auction, and to employ an auctioneer for the purpose. B names C, an auctioneer, to conduct the sale. C is not a sub-agent, but is A's agent for the conduct of the sale.\n(b) A authorizes B, a merchant in Calcutta, to recover the moneys due to A from C & Co. B instructs D, a solicitor, to take legal proceedings against C & Co. for the recovery of the money. D is not a sub-agent, but is solicitor for A.",
+      "key_terms": [
+        "substituted agent",
+        "sub-agent"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 194 introduces the concept later called a 'substituted agent': when the agent's authority itself includes the power to name someone else to handle part of the business, the person so named is not a sub-agent under the agent's control — he becomes a direct agent of the principal for that part of the work, as in the auctioneer or solicitor examples.",
+        "essential_elements": [
+          "The agent holds express or implied authority to name another person to act for the principal.",
+          "The agent names such a person accordingly.",
+          "That named person becomes the principal's own agent for that entrusted part of the business, not a sub-agent."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The key distinction from a sub-agent (Section 191) is who that third person ultimately answers to: a sub-agent answers to the original agent, while a person appointed under this section answers directly to the principal, as his own agent."
+      }
+    },
+    {
+      "number": "195",
+      "title": "Agent's duty in naming such person",
+      "raw_text": "In selecting such agent for his principal, an agent is bound to exercise the same amount of discretion as a man of ordinary prudence would exercise in his own case; and, if he does this, he is not responsible to the principal for the acts or negligence of the agent so selected.\n\nIllustrations\n(a) A instructs B, a merchant, to buy a ship for him. B employs a ship-surveyor of good reputation to choose a ship for A. The surveyor makes the choice negligently and the ship turns out to be unseaworthy and is lost. B is not, but the surveyor is, responsible to A.\n(b) A consigns goods to B, a merchant, for sale. B, in due course, employs an auctioneer in good credit to sell the goods of A, and allows the auctioneer to receive the proceeds of the sale. The auctioneer afterwards becomes insolvent without having accounted for the proceeds. B is not responsible to A for the proceeds.",
+      "key_terms": [
+        "substituted agent",
+        "ordinary prudence",
+        "discretion"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 195 sets the standard the agent must meet when exercising his Section 194 power to name a substituted agent: ordinary prudence in the selection. If he selects carefully — a reputable surveyor, a trustworthy auctioneer — he is not personally liable for that substituted agent's own later negligence or default, since that person is the principal's own agent, not the original agent's responsibility.",
+        "essential_elements": [
+          "The agent selects a person to act as the principal's agent under Section 194.",
+          "The agent must exercise the discretion of a person of ordinary prudence in making that selection.",
+          "If he does so, he is not responsible to the principal for the acts or negligence of the person selected."
+        ],
+        "exceptions_and_qualifications": [
+          "This protection only covers careful selection — if the agent was careless in choosing (e.g. ignoring known red flags), he could still be liable for that failure of care itself."
+        ],
+        "how_to_read": "Read alongside Section 194: that section decides who the substituted agent legally works for (the principal); this section decides what the original agent must do to escape liability for that person's later mistakes (exercise ordinary care in the selection itself)."
+      }
+    },
+    {
+      "number": "196",
+      "title": "Right of person as to acts done for him without his authority; effect of ratification",
+      "raw_text": "Where acts are done by one person on behalf of another, but without his knowledge or authority, he may elect to ratify or to disown such acts. If he ratify them, the same effects will follow as if they had been performed by his authority.",
+      "key_terms": [
+        "ratification",
+        "unauthorized act"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 196 opens the ratification sub-chapter: if someone acts on your behalf without your knowledge or authorization, you get to choose afterward — accept (ratify) the act, or reject (disown) it. If you ratify, the law treats it exactly as if you had authorized it from the start.",
+        "essential_elements": [
+          "An act is done by one person on behalf of another, without that other's knowledge or authority.",
+          "The person on whose behalf it was done may elect to ratify or disown the act.",
+          "If ratified, the act has the same legal effect as if originally authorized."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Ratification is retroactive — think of it as authority granted backward in time, which is why the sections that follow (197-200) carefully police when and how that retroactive effect is allowed to operate."
+      }
+    },
+    {
+      "number": "197",
+      "title": "Ratification may be expressed or implied",
+      "raw_text": "Ratification may be expressed or may be implied in the conduct of the person on whose behalf the acts are done.\n\nIllustrations\n(a) A, without authority, buys goods for B. Afterwards B sells them to C on his own account; B's conduct implies a ratification of the purchase made for him by A.\n(b) A, without B's authority, lends B's money to C. Afterwards B accepts interest on the money from C. B's conduct implies a ratification of the loan.",
+      "key_terms": [
+        "ratification",
+        "implied ratification"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 197 confirms ratification can happen through conduct, not just an explicit statement — if the principal, knowing the facts, acts in a way consistent only with treating the unauthorized act as his own (like selling goods bought for him, or accepting interest on a loan made in his name), that conduct itself amounts to ratification.",
+        "essential_elements": [
+          "Ratification may be express (a direct statement of approval).",
+          "Or it may be implied from the conduct of the person on whose behalf the act was done."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The illustrations both show the same pattern: the principal, after the fact, deals with the results of the unauthorized act as though it were his own — that's the behavioural signature of implied ratification."
+      }
+    },
+    {
+      "number": "198",
+      "title": "Knowledge requisite for valid ratification",
+      "raw_text": "No valid ratification can be made by a person whose knowledge of the facts of the case is materially defective.",
+      "key_terms": [
+        "ratification",
+        "material knowledge"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 198 protects the integrity of ratification: you can't validly ratify something you didn't fully understand. If the person's knowledge of the material facts surrounding the unauthorized act is seriously deficient, any purported ratification is not valid.",
+        "essential_elements": [
+          "The person ratifying must have full and accurate knowledge of the material facts of the case.",
+          "If that knowledge is materially defective, the ratification is not valid."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This mirrors the free-consent logic running throughout the Act — just as genuine consent to a contract requires full knowledge, genuine ratification of someone else's unauthorized act requires the same."
+      }
+    },
+    {
+      "number": "199",
+      "title": "Effect of ratifying unauthorized act forming part of a transaction",
+      "raw_text": "A person ratifying any unauthorized act done on his behalf ratifies the whole of the transaction of which such act formed a part.",
+      "key_terms": [
+        "ratification",
+        "transaction"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 199 prevents selective, cherry-picking ratification: you can't approve just the convenient parts of an unauthorized transaction while disowning the inconvenient parts — ratifying any part of a transaction ratifies the whole of it.",
+        "essential_elements": [
+          "The unauthorized act ratified formed part of a larger transaction.",
+          "Ratifying that act ratifies the entire transaction of which it was a part."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is an 'all or nothing' rule protecting fairness to the other side of the transaction — a person can't accept the benefits while disclaiming the burdens of the very same deal."
+      }
+    },
+    {
+      "number": "200",
+      "title": "Ratification of unauthorized act cannot injure third person",
+      "raw_text": "An act done by one person on behalf of another, without such other person's authority, which, if done with authority, would have the effect of subjecting a third person to damages, or of terminating any right or interest of a third person, cannot, by ratification, be made to have such effect.\n\nIllustrations\n(a) A, not being authorized thereto by B, demands, on behalf of B, the delivery of a chattel, the property of B, from C, who is in possession of it. This demand cannot be ratified by B, so as to make C liable for damages for his refusal to deliver.\n(b) A holds a lease from B, terminable on three months' notice. C, an unauthorized person, gives notice of termination to A. The notice cannot be ratified by B, so as to be binding on A.",
+      "key_terms": [
+        "ratification",
+        "third person"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 200 draws a firm outer boundary on ratification's retroactive power: it cannot be used to harm an innocent third person — for example, exposing them to damages or cutting off their existing rights — in a way that wouldn't have been fair even if the act had been authorized from the start.",
+        "essential_elements": [
+          "An unauthorized act, if it had been authorized, would subject a third person to damages or terminate a right/interest of theirs.",
+          "Such an act cannot be given that damaging effect merely through later ratification."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section closes the ratification sub-chapter on a protective note: the whole point of ratification is to validate the principal's own position retroactively, not to manufacture new liabilities or forfeitures for strangers to the arrangement."
+      }
+    },
+    {
+      "number": "201",
+      "title": "Termination of agency",
+      "raw_text": "An agency is terminated by the principal revoking his authority; or by the agent renouncing the business of the agency; or by the business of the agency being completed; or by either the principal or agent dying or becoming of unsound mind; or by the principal being adjudicated an insolvent under the provisions of any Act for the time being in force for the relief of insolvent debtors.",
+      "key_terms": [
+        "termination of agency",
+        "revocation",
+        "renunciation",
+        "insolvent"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 201 opens the revocation sub-chapter with a checklist of every way an agency can end: the principal revokes it, the agent renounces it, the agency's business is completed, either party dies or becomes of unsound mind, or the principal is declared insolvent.",
+        "essential_elements": [
+          "Revocation of authority by the principal.",
+          "Renunciation of the agency business by the agent.",
+          "Completion of the business of the agency.",
+          "Death or unsoundness of mind of either the principal or the agent.",
+          "Adjudication of the principal as insolvent under the law relating to insolvent debtors."
+        ],
+        "exceptions_and_qualifications": [
+          "Section 202 (agency coupled with interest) overrides several of these grounds where the agent has his own interest in the subject-matter."
+        ],
+        "how_to_read": "Treat this as the master list; the sections immediately following (202-208) qualify, elaborate, or set procedural conditions around several of these termination grounds."
+      }
+    },
+    {
+      "number": "202",
+      "title": "Termination of agency, where agent has an interest in subject-matter",
+      "raw_text": "Where the agent has himself an interest in the property which forms the subject-matter of the agency, the agency cannot, in the absence of an express contract, be terminated to the prejudice of such interest.\n\nIllustrations\n(a) A gives authority to B to sell A's land, and to pay himself, out of the proceeds, the debts due to him from A. A cannot revoke this authority, nor can it be terminated by his insanity or death.\n(b) A consigns 1,000 bales of cotton to B, who has made advances to him on such cotton, and desires B to sell the cotton, and to repay himself out of the price, the amount of his own advances. A cannot revoke this authority, nor is it terminated by his insanity or death.",
+      "key_terms": [
+        "agency coupled with interest",
+        "revocation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 202 creates the important 'agency coupled with interest' exception: where the agent's own financial interest is tied up in the subject-matter (like a creditor-agent authorized to sell property and repay himself from the proceeds), the principal cannot revoke that authority to the agent's prejudice — and remarkably, it doesn't even terminate on the principal's death or insanity, unlike ordinary agency under Section 201.",
+        "essential_elements": [
+          "The agent has his own interest in the property forming the subject-matter of the agency.",
+          "No express contract says otherwise.",
+          "Then the agency cannot be terminated to the prejudice of that interest — surviving even events that would otherwise end an ordinary agency, such as the principal's death or insanity."
+        ],
+        "exceptions_and_qualifications": [
+          "This protection can be displaced by an express contract between the parties providing otherwise."
+        ],
+        "how_to_read": "This is a frequently tested exception: 'agency coupled with interest' is the standard phrase for this situation, and its hallmark is that it survives death/insanity of the principal, unlike a normal agency under Section 201."
+      }
+    },
+    {
+      "number": "203",
+      "title": "When principal may revoke agent's authority",
+      "raw_text": "The principal may, save as is otherwise provided by the last preceding section, revoke the authority given to his agent at any time before the authority has been exercised so as to bind the principal.",
+      "key_terms": [
+        "revocation",
+        "principal"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 203 confirms the principal's default right to revoke an agent's authority at will, at any point before that authority has actually been exercised in a way that binds the principal — subject always to the Section 202 exception for agency coupled with interest.",
+        "essential_elements": [
+          "The agency is not one coupled with interest under Section 202.",
+          "The authority has not yet been exercised so as to bind the principal.",
+          "The principal may revoke the authority at any time before that point."
+        ],
+        "exceptions_and_qualifications": [
+          "Section 202's agency-coupled-with-interest exception limits this general power to revoke."
+        ],
+        "how_to_read": "The critical timing cutoff here is 'before the authority has been exercised so as to bind the principal' — once that line is crossed, revocation is restricted, as detailed in Section 204."
+      }
+    },
+    {
+      "number": "204",
+      "title": "Revocation where authority has been partly exercised",
+      "raw_text": "The principal cannot revoke the authority given to his agent after the authority has been partly exercised, so far as regards such acts and obligations as arise from acts already done in the agency.\n\nIllustrations\n(a) A authorizes B to buy 1,000 bales of cotton on account of A, and to pay for it out of A's moneys remaining in B's hands. B buys 1,000 bales of cotton in his own name, so as to make himself personally liable for the price. A cannot revoke B's authority so far as regards payment for the cotton.\n(b) A authorizes B to buy 1,000 bales of cotton on account of A, and to pay for it out of A's moneys remaining in B's hands. B buys 1,000 bales of cotton in A's name, and so as not to render himself personally liable for the price. A can revoke B's authority to pay for the cotton.",
+      "key_terms": [
+        "revocation",
+        "partly exercised"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 204 protects acts already completed under an agency: once the agent has partly exercised his authority, the principal cannot revoke as to the obligations already arising from what's already been done — though he can still revoke as to what remains undone. The illustrations show this turns on whether the agent personally bound himself (illustration (a), can't revoke as to payment) versus acted purely in the principal's name (illustration (b), can revoke).",
+        "essential_elements": [
+          "The agent's authority has been partly exercised.",
+          "The principal cannot revoke as to acts and obligations already arising from what's been done so far.",
+          "Revocation remains possible for the unexecuted remainder of the authority."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a completed-acts protection, not a blanket bar on revocation — it only freezes what's already happened; the principal retains the power to stop anything not yet done."
+      }
+    },
+    {
+      "number": "205",
+      "title": "Compensation for revocation by principal, or renunciation by agent",
+      "raw_text": "Where there is an express or implied contract that the agency should be continued for any period of time, the principal must make compensation to the agent, or the agent to the principal, as the case may be, for any previous revocation or renunciation of the agency without sufficient cause.",
+      "key_terms": [
+        "compensation",
+        "revocation",
+        "renunciation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 205 recognizes that while a principal can generally revoke, and an agent can generally renounce, at will, doing so without sufficient cause — when there was an express or implied agreement that the agency would last for a defined period — triggers a duty to compensate the other side for that premature ending.",
+        "essential_elements": [
+          "An express or implied contract exists that the agency should continue for a defined period of time.",
+          "One party revokes (principal) or renounces (agent) the agency before that period, without sufficient cause.",
+          "That party must compensate the other for the resulting loss."
+        ],
+        "exceptions_and_qualifications": [
+          "Compensation is only due where the revocation/renunciation is without sufficient cause — a justified early exit does not trigger this liability."
+        ],
+        "how_to_read": "This is the agency-law analogue of damages for breach of contract: the power to revoke/renounce exists regardless (agency is never specifically enforceable), but exercising that power without cause, in breach of an agreed duration, has a price."
+      }
+    },
+    {
+      "number": "206",
+      "title": "Notice of revocation or renunciation",
+      "raw_text": "Reasonable notice must be given of such revocation or renunciation, otherwise the damage thereby resulting to the principal or the agent, as the case may be, must be made good to the one by the other.",
+      "key_terms": [
+        "reasonable notice",
+        "revocation",
+        "renunciation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 206 imposes a fair-warning obligation: whichever party ends the agency — principal or agent — must give reasonable notice, or else compensate the other side for any resulting damage caused by the abruptness.",
+        "essential_elements": [
+          "The agency is revoked (by the principal) or renounced (by the agent).",
+          "Reasonable notice of that revocation/renunciation must be given.",
+          "Failing that, any resulting damage must be made good to the affected party."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This complements Section 205: that section addresses ending the agency without sufficient cause; this one addresses ending it without adequate notice — the two can overlap, but a party could comply with one and still fall foul of the other."
+      }
+    },
+    {
+      "number": "207",
+      "title": "Revocation and renunciation may be expressed or implied",
+      "raw_text": "Revocation and renunciation may be expressed or may be implied in the conduct of the principal or agent respectively.\n\nIllustration\nA empowers B to let A's house. Afterwards A lets it himself. This is an implied revocation of B's authority.",
+      "key_terms": [
+        "revocation",
+        "renunciation",
+        "implied revocation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 207 mirrors Section 197's approach to ratification: ending an agency, too, doesn't require formal words — conduct inconsistent with the agency's continuation, like the principal personally doing the very thing he'd authorized the agent to do, implies revocation just as effectively as an explicit statement would.",
+        "essential_elements": [
+          "Revocation (by the principal) or renunciation (by the agent) may be express.",
+          "Or it may be implied from the conduct of the principal or agent respectively."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section and Section 197 form a matched pair across the Act's agency chapter — both ratification and revocation/renunciation can be read from conduct, not just words, keeping the law responsive to how people actually behave."
+      }
+    },
+    {
+      "number": "208",
+      "title": "When termination of agent's authority takes effect as to agent, and as to third persons",
+      "raw_text": "The termination of the authority of an agent does not, so far as regards the agent, take effect before it becomes known to him, or, so far as regards third persons, before it becomes known to them.\n\nIllustrations\n(a) A directs B to sell goods for him, and agrees to give B five per cent. commission on the price fetched by the goods. A afterwards, by letter, revokes B's authority. B, after the letter is sent, but before he receives it, sells the goods for 100 rupees. The sale is binding on A, and B is entitled to five rupees as his commission.\n(b) A, at Madras, by letter, directs B to sell for him some cotton lying in a warehouse in Bombay, and afterwards, by letter, revokes his authority to sell, and directs B to send the cotton to Madras. B, after receiving the second letter, enters into a contract with C, who knows of the first letter, but not of the second, for the sale to him of the cotton. C pays B the money, with which B absconds. C's payment is good as against A.\n(c) A directs B, his agent, to pay certain money to C. A dies, and D takes out probate to his will. B, after A's death, but before hearing of it, pays the money to C. The payment is good as against D, the executor.",
+      "key_terms": [
+        "termination of agency",
+        "knowledge",
+        "third persons"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 208 closes the agency-revocation chapter with a crucial timing rule: termination of an agent's authority isn't effective against the agent until he actually knows of it, and isn't effective against third persons until they know of it either. All three illustrations show acts done in ignorance of a revocation (by the agent, or by an innocent third party) still being treated as valid and binding.",
+        "essential_elements": [
+          "The agent's authority has been terminated (by revocation, renunciation, death, etc.).",
+          "As against the agent, termination takes effect only once it becomes known to him.",
+          "As against third persons, termination takes effect only once it becomes known to them."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is a real-world fairness safeguard — legal termination of authority can happen instantly on paper (e.g. the moment a revocation letter is written), but its practical, binding effect is delayed until the relevant person actually learns of it, protecting those who acted in good-faith ignorance."
       }
     }
   ]
