@@ -78,7 +78,16 @@
     "penalty": "A sum of money, or other stipulation, named in a contract as payable on breach that is not a genuine pre-estimate of loss but is intended to punish or deter the defaulting party — Indian law caps recovery under such a clause at reasonable compensation, regardless of the sum named.",
     "liquidated damages": "A sum fixed in advance by the contracting parties as the compensation payable on a specified breach — under Section 74, Indian courts treat this the same as a penalty clause and award only reasonable compensation up to that sum.",
     "remote and indirect loss": "Loss or damage flowing from a breach of contract that is too distant, speculative, or indirect a consequence of the breach to be recoverable as compensation under Section 73.",
-    "compensation": "A monetary payment awarded to make good the loss or damage a party has suffered — whether from breach of contract, a quasi-contractual obligation, or another party's default."
+    "compensation": "A monetary payment awarded to make good the loss or damage a party has suffered — whether from breach of contract, a quasi-contractual obligation, or another party's default.",
+    "contract of indemnity": "A contract by which one party (the indemnifier) promises to save the other (the indemnity-holder) from loss caused by the indemnifier's own conduct or by the conduct of a third person.",
+    "indemnity-holder": "The promisee under a contract of indemnity — the person protected against loss, entitled to recover damages, costs, and reasonable settlement sums from the indemnifier once the covered loss materialises.",
+    "contract of guarantee": "A contract to perform the promise, or discharge the liability, of a third person (the principal debtor) in case of his default; may be oral or written.",
+    "principal debtor": "The person whose debt or duty is guaranteed by a surety, and in respect of whose default the guarantee is given.",
+    "creditor": "The person to whom a guarantee is given — the party entitled to enforce the guaranteed debt or duty against either the principal debtor or the surety.",
+    "continuing guarantee": "A guarantee that extends to an open-ended series of transactions (such as ongoing credit supply), rather than being limited to a single specific transaction.",
+    "co-sureties": "Two or more sureties who have each guaranteed the same debt or duty, whether under the same contract or separate ones, and whether or not they know of each other — they owe each other a duty of equal contribution by default.",
+    "subrogation": "The legal mechanism by which a surety who pays off a guaranteed debt automatically steps into the creditor's shoes, acquiring all the rights (and the benefit of any security) the creditor had against the principal debtor.",
+    "concealment": "A creditor's silence as to material circumstances bearing on the risk a surety is asked to guarantee — unlike ordinary contracting parties, a creditor's concealment of such circumstances can itself invalidate the resulting guarantee."
   },
   "sections": [
     {
@@ -1605,6 +1614,487 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Section 75 should always be read together with Section 39 (repudiation gives the promisee an election to end the contract) and Section 73 (the general damages measure) — this section confirms that exercising the Section 39 election to terminate does not waive the Section 73 damages claim; both remedies are available together to the wronged party, as the singer illustration (mirrored from Section 39) makes explicit."
+      }
+    },
+    {
+      "number": "124",
+      "title": "\"Contract of indemnity\" defined",
+      "raw_text": "124. \"Contract of indemnity\" defined.—A contract by which one party promises to save the other from loss caused to him by the conduct of the promisor himself, or by the conduct of any other person, is called a \"contract of indemnity\".\n\nIllustration\n\nA contracts to indemnify B against the consequences of any proceedings which C may take against B in respect of a certain sum of 200 rupees. This is a contract of indemnity.",
+      "key_terms": [
+        "contract of indemnity"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 124 opens Chapter VIII with the definition of a contract of indemnity: one party (the indemnifier) promises to make good any loss caused to the other (the indemnified/indemnity-holder), whether that loss is caused by the indemnifier's own conduct or by the conduct of some third person — the classic example being insurance-style protection against a specified risk.",
+        "essential_elements": [
+          "One party (the promisor/indemnifier) promises to save the other (the promisee/indemnity-holder) from loss.",
+          "That loss may be caused either by the promisor's own conduct, or by the conduct of any other (third) person.",
+          "Such a contract is called a \"contract of indemnity\"."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This definition is narrower than commercial usage might suggest — the Act's definition covers only loss caused by \"conduct\" (of the promisor or a third person), and Indian courts have historically read this literally, though modern courts increasingly also recognise indemnities against loss from events/circumstances beyond conduct as valid contracts under the general law even if not strictly within Section 124's own wording. Always check whether the specific indemnity clause you are drafting or construing needs to reach beyond \"conduct\"-caused loss (e.g. loss from accidents, market events) and draft accordingly rather than relying on Section 124 alone."
+      }
+    },
+    {
+      "number": "125",
+      "title": "Rights of indemnity-holder when sued",
+      "raw_text": "125. Rights of indemnity-holder when sued.—The promisee in a contract of indemnity, acting within the scope of his authority, is entitled to recover from the promisor—\n\n(1) all damages which he may be compelled to pay in any suit in respect of any matter to which the promise to indemnify applies;\n\n(2) all costs which he may be compelled to pay in any such suit if, in bringing or defending it, he did not contravene the orders of the promisor, and acted as it would have been prudent for him to act in the absence of any contract of indemnity, or if the promisor authorized him to bring or defend the suit;\n\n(3) all sums which he may have paid under the terms of any compromise of any such suit, if the compromise was not contrary to the orders of the promisor, and was one which it would have been prudent for the promisee to make in the absence of any contract of indemnity, or if the promisor authorized him to compromise the suit.",
+      "key_terms": [
+        "contract of indemnity",
+        "indemnity-holder"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 125 spells out exactly what an indemnity-holder can recover once he is sued by a third party on a matter covered by the indemnity: not just the damages actually awarded against him, but also his defence costs and any reasonable settlement sum — provided in each case he acted prudently (as he would have without the indemnity) and did not defy the indemnifier's instructions, or the indemnifier had actually authorised the specific step.",
+        "essential_elements": [
+          "The claimant is the promisee (indemnity-holder) under a contract of indemnity, acting within the scope of his authority.",
+          "He was compelled to pay damages in a suit relating to a matter the indemnity covers — these are always recoverable.",
+          "Costs of bringing/defending the suit are recoverable if he didn't contravene the promisor's orders and acted prudently (or was authorised).",
+          "Amounts paid under a compromise are recoverable on the same prudence/authorisation condition."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Clauses (2) and (3) share an identical structural test — \"prudent conduct absent the indemnity, OR the promisor's authorisation\" — so when advising an indemnity-holder on recovering costs or a settlement sum, always plead in the alternative: first that the specific step was objectively prudent, and separately/alternatively that the indemnifier expressly sanctioned it; either route alone suffices."
+      }
+    },
+    {
+      "number": "126",
+      "title": "\"Contract of guarantee\", \"surety\", \"principal debtor\" and \"creditor\"",
+      "raw_text": "126. \"Contract of guarantee\", \"surety\", \"principal debtor\" and \"creditor\".—A \"contract of guarantee\" is a contract to perform the promise, or discharge the liability, of a third person in case of his default. The person who gives the guarantee is called the \"surety\"; the person in respect of whose default the guarantee is given is called the \"principal debtor\", and the person to whom the guarantee is given is called the \"creditor\". A guarantee may be either oral or written.",
+      "key_terms": [
+        "contract of guarantee",
+        "surety",
+        "principal debtor",
+        "creditor"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 126 opens the Guarantee sub-chapter by naming the three parties to every guarantee — the surety (who gives the guarantee), the principal debtor (whose obligation is guaranteed), and the creditor (to whom the guarantee runs) — and defining the guarantee itself as a promise to perform or make good the principal debtor's obligation if he defaults. Unlike some other legal systems, Indian law imposes no writing requirement: an oral guarantee is fully valid.",
+        "essential_elements": [
+          "There are three parties: the surety, the principal debtor, and the creditor.",
+          "The surety promises to perform the principal debtor's promise, or discharge his liability, if he defaults.",
+          "The guarantee may be given orally or in writing — no particular form is legally required."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The tripartite structure introduced here (surety / principal debtor / creditor) is the vocabulary used throughout Sections 126-147 — always identify which of the three roles each party occupies before applying any later section, since the rights and discharges that follow (Sections 133-147) all turn on this three-way relationship. Also flag to clients that oral guarantees, while legally valid, are far harder to prove — always recommend written guarantees in practice despite Section 126's permissive rule."
+      }
+    },
+    {
+      "number": "127",
+      "title": "Consideration for guarantee",
+      "raw_text": "127. Consideration for guarantee.—Anything done, or any promise made, for the benefit of the principal debtor, may be a sufficient consideration to the surety for giving the guarantee.\n\nIllustrations\n\n(a) B requests A to sell and deliver to him goods on credit. A agrees to do so, provided C will guarantee the payment of the price of the goods. C promises to guarantee the payment in consideration of A's promise to deliver the goods. This is a sufficient consideration for C's promise.\n\n(b) A sells and delivers goods to B. C afterwards requests A to forbear to sue B for the debt for a year, and promises that, if he does so, C will pay for them in default of payment by B. A agrees to forbear as requested. This is a sufficient consideration for C's promise.\n\n(c) A sells and delivers goods to B. C afterwards, without consideration, agrees to pay for them in default of B. The agreement is void.",
+      "key_terms": [
+        "consideration",
+        "contract of guarantee",
+        "surety"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 127 answers a puzzle that the general consideration rule (Section 2(d)) might otherwise create: since the surety himself receives nothing directly, what counts as consideration for his promise to guarantee? The answer — a benefit conferred on the principal debtor (goods sold on credit, forbearance to sue) is sufficient consideration for the surety's promise, even though the surety personally gains nothing from it.",
+        "essential_elements": [
+          "The surety makes a promise of guarantee.",
+          "Something is done, or promised, for the benefit of the principal debtor (not necessarily the surety himself) — e.g. extending credit, or forbearing to sue.",
+          "That benefit to the principal debtor is sufficient consideration to support the surety's promise."
+        ],
+        "exceptions_and_qualifications": [
+          "If the guarantee is given after the transaction is already complete, with nothing further done or promised at the time of the guarantee (illustration (c) — goods already delivered, no forbearance or fresh benefit given), there is no consideration and the guarantee is void as a bare, gratuitous promise."
+        ],
+        "how_to_read": "Illustration (c) is the critical trap for drafters: a guarantee given as an afterthought, with no fresh consideration flowing at the time it is given (no forbearance, no extension of credit, nothing contemporaneous), is unenforceable for want of consideration — always ensure a guarantee is either given at the time of the underlying transaction, or is supported by some fresh, contemporaneous benefit/forbearance to the principal debtor when given later."
+      }
+    },
+    {
+      "number": "128",
+      "title": "Surety's liability",
+      "raw_text": "128. Surety's liability.—The liability of the surety is co-extensive with that of the principal debtor, unless it is otherwise provided by the contract.\n\nIllustration\n\nA guarantees to B the payment of a bill of exchange by C, the acceptor. The bill is dishonoured by C. A is liable, not only for the amount of the bill, but also for any interest and charges which may have become due on it.",
+      "key_terms": [
+        "surety",
+        "principal debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 128 fixes the default scope of a surety's liability as \"co-extensive\" with the principal debtor's — meaning the surety is on the hook for the full extent of what the principal debtor owes, including interest and other charges that accrue, not just the bare principal sum, unless the guarantee contract itself limits the surety's exposure.",
+        "essential_elements": [
+          "There is a principal debtor's liability to the creditor.",
+          "The surety's own liability, by default, extends exactly as far as the principal debtor's liability — no more, no less.",
+          "This default can be narrowed or otherwise varied by the express terms of the guarantee contract."
+        ],
+        "exceptions_and_qualifications": [
+          "The co-extensiveness rule applies only in the absence of a contrary provision in the contract — a guarantee can be drafted to cap the surety's liability at a fixed sum or specific scope."
+        ],
+        "how_to_read": "\"Co-extensive\" is the single most important word in this section for drafting purposes — a surety who wants his exposure capped (e.g. to the principal sum only, excluding interest/costs) must say so expressly in the guarantee; absent such a cap, courts will hold him liable for the full extent of the principal debtor's default, as illustrated by the interest-and-charges outcome here."
+      }
+    },
+    {
+      "number": "129",
+      "title": "\"Continuing guarantee\"",
+      "raw_text": "129. \"Continuing guarantee\".—A guarantee which extends to a series of transactions, is called a \"continuing guarantee\".\n\nIllustrations\n\n(a) A, in consideration that B will employ C in collecting the rent of B's zamindari, promises B to be responsible, to the amount of 5,000 rupees, for the due collection and payment by C of those rents. This is a continuing guarantee.\n\n(b) A guarantees payment to B, a tea-dealer, to the amount of 100 pounds, for any tea he may from time to time supply to C. B supplies C with tea to above the value of 100 pounds, and C pays B for it. Afterwards, B supplies C with tea to the value of 200 pounds. C fails to pay. The guarantee given by A was a continuing guarantee, and he is accordingly liable to B to the extent of 100 pounds.\n\n(c) A guarantees payment to B of the price of five sacks of flour to be delivered by B to C and to be paid for in a month. B delivers five sacks to C. C pays for them. Afterwards B delivers four sacks to C, which C does not pay for. The guarantee given by A was not a continuing guarantee, and accordingly he is not liable for the price of the four sacks.",
+      "key_terms": [
+        "continuing guarantee",
+        "surety"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 129 distinguishes a \"continuing guarantee\" (covering an open-ended series of transactions, like ongoing supply to a customer, illustration (b)) from a guarantee limited to a single, specific transaction (illustration (c), a one-off delivery of five sacks) — the label matters because it determines how much total exposure the surety carries and, as later sections show, how the guarantee can be revoked.",
+        "essential_elements": [
+          "The guarantee, by its terms, extends to a series of transactions (not just one).",
+          "Each transaction within that series is covered up to the guarantee's stated limit.",
+          "A guarantee tied to one specific, self-contained transaction is NOT a continuing guarantee, even if that transaction involves multiple partial deliveries (illustration (c))."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Correctly classifying a guarantee as continuing or not is the essential first step before applying Sections 130-131 (revocation of continuing guarantees) — a non-continuing guarantee simply expires once its single covered transaction is complete and needs no separate revocation; always read the guarantee's own language (open-ended supply vs. one fixed transaction) rather than assuming from the presence of multiple instalments alone."
+      }
+    },
+    {
+      "number": "130",
+      "title": "Revocation of continuing guarantee",
+      "raw_text": "130. Revocation of continuing guarantee.—A continuing guarantee may at any time be revoked by the surety, as to future transactions, by notice to the creditor.\n\nIllustrations\n\n(a) A, in consideration of B's discounting, at A's request, bills of exchange for C, guarantees to B, for twelve months, the due payment of all such bills to the extent of 5,000 rupees. B discounts bills for C to the extent of 2,000 rupees. Afterwards, at the end of three months, A revokes the guarantee. This revocation discharges A from all liability to B for any subsequent discount. But A is liable to B for the 2,000 rupees, on default of C.\n\n(b) A guarantees to B, to the extent of 10,000 rupees, that C shall pay all the bills that B shall draw upon him. B draws upon C. C accepts the bill. A gives notice of revocation. C dishonours the bill at maturity. A is liable upon his guarantee.",
+      "key_terms": [
+        "continuing guarantee",
+        "surety",
+        "revocation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 130 gives the surety a unilateral exit from a continuing guarantee's future exposure: by giving notice to the creditor, he can revoke the guarantee as to transactions not yet undertaken, while remaining fully liable for whatever was already covered before the revocation took effect (illustration (a)'s already-discounted 2,000 rupees, and illustration (b)'s already-accepted bill).",
+        "essential_elements": [
+          "There is a continuing guarantee covering a series of future transactions.",
+          "The surety gives notice of revocation to the creditor.",
+          "The revocation discharges the surety only as to transactions entered into AFTER the notice — liability for transactions already undertaken before revocation survives."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The timing line drawn by illustration (b) is critical: revocation stops future liability, but if the underlying transaction (the bill) was already accepted before the notice, the surety remains bound on it even though it matures/is dishonoured afterward — always pin down precisely when the specific transaction was entered into relative to the revocation notice, not merely when the loss crystallised."
+      }
+    },
+    {
+      "number": "131",
+      "title": "Revocation of continuing guarantee by surety's death",
+      "raw_text": "131. Revocation of continuing guarantee by surety's death.—The death of the surety operates, in the absence of any contract to the contrary, as a revocation of a continuing guarantee, so far as regards future transactions.",
+      "key_terms": [
+        "continuing guarantee",
+        "surety",
+        "revocation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 131 supplies an automatic revocation trigger: a surety's death itself operates as revocation of a continuing guarantee for future transactions, without requiring any notice to be given (since the surety obviously cannot give one) — his estate remains liable only for what had already accrued before death, unless the guarantee contract says the guarantee should survive.",
+        "essential_elements": [
+          "There is a continuing guarantee.",
+          "The surety dies.",
+          "His death automatically revokes the guarantee as to future transactions, without any notice being required.",
+          "This default rule applies unless the contract of guarantee itself provides otherwise (e.g. that it binds the surety's estate for future transactions too)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "When a creditor learns of a surety's death, he should treat the continuing guarantee as closed for any new transactions from that point — extending further fresh credit in reliance on a deceased surety's guarantee (absent a contrary contractual term) leaves the creditor unprotected for that fresh exposure, since Section 131 revokes automatically without any notice mechanism to rely on."
+      }
+    },
+    {
+      "number": "132",
+      "title": "Liability of two persons, primarily liable, not affected by arrangement between them that one shall be surety on other's default",
+      "raw_text": "132. Liability of two persons, primarily liable, not affected by arrangement between them that one shall be surety on other's default.—Where two persons contract with a third person to undertake a certain liability, and also contract with each other that one of them shall be liable only on the default of the other, the third person not being a party to such contract, the liability of each of such two persons to the third person under the first contract is not affected by the existence of the second contract, although such third person may have been aware of its existence.\n\nIllustration\n\nA and B make a joint and several promissory note to C. A makes it, in fact, as surety for B, and C knows this at the time when the note is made. The fact that A, to the knowledge of C, made the note as surety for B, is no answer to a suit by C against A upon the note.",
+      "key_terms": [
+        "surety",
+        "principal debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 132 protects a creditor who is not party to a private side-arrangement between two joint obligors about which of them is \"really\" the surety: as far as the creditor's own rights under the main contract go, both remain fully and primarily liable to him, and the private internal arrangement (even if the creditor knew of it) does not weaken the creditor's claim against either of them.",
+        "essential_elements": [
+          "Two persons jointly contract with a third person (the creditor) to undertake a liability.",
+          "Those same two persons separately agree between themselves that one shall be liable to the other only on default (an internal surety-style arrangement).",
+          "The creditor is not a party to this second, internal agreement.",
+          "The creditor's rights under the first (main) contract against either of the two obligors are unaffected by the second agreement, even if the creditor knew about it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section prevents joint obligors from unilaterally downgrading the creditor's rights through a private side-deal — a creditor suing on a joint-and-several note can recover from either maker in full, regardless of any internal principal/surety understanding between the makers, even where the creditor had actual knowledge of that internal arrangement, as the illustration makes explicit."
+      }
+    },
+    {
+      "number": "133",
+      "title": "Discharge of surety by variance in terms of contract",
+      "raw_text": "133. Discharge of surety by variance in terms of contract.—Any variance, made without the surety's consent, in the terms of the contract between the principal debtor and the creditor, discharges the surety as to transactions subsequent to the variance.\n\nIllustrations\n\n(a) A becomes surety to C for B's conduct as a manager in C's bank. Afterwards, B and C contract, without A's consent, that B's salary shall be raised, and that he shall become liable for one-fourth of the losses on overdrafts. B allows a customer to overdraw, and the bank loses a sum of money. A is discharged from his suretyship by the variance made without his consent, and is not liable to make good this loss.\n\n(b) A guarantees C against the misconduct of B in an office to which B is appointed by C, and of which the duties are defined by an Act of the Legislature. By a subsequent Act, the nature of the office is materially altered. Afterwards, B misconducts himself. A is discharged by the change from future liability under his guarantee, though the misconduct of B is in respect of a duty not affected by the later Act.\n\n(c) C agrees to appoint B as his clerk to sell goods at a yearly salary, upon A's becoming surety to C for B's duly accounting for moneys received by him as such clerk. Afterwards, without A's knowledge or consent, C and B agree that B should be paid by a commission on the goods sold by him and not by a fixed salary. A is not liable for subsequent misconduct of B.\n\n(d) A gives to C a continuing guarantee to the extent of 3,000 rupees for any oil supplied by C to B on credit. Afterwards B becomes embarrassed, and, without the knowledge of A, B and C contract that C shall continue to supply B with oil for ready money, and that the payments shall be applied to the then-existing debts between B and C. A is not liable on his guarantee for any goods supplied after this new arrangement.",
+      "key_terms": [
+        "surety",
+        "principal debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 133 opens a run of surety-discharge provisions (Sections 133-139): if the creditor and principal debtor vary the terms of their underlying contract without the surety's consent, the surety is discharged for everything after that variance — the rationale being that the surety only agreed to guarantee a specific bargain, and a materially different bargain is not what he consented to underwrite.",
+        "essential_elements": [
+          "There is a contract between the principal debtor and the creditor, guaranteed by the surety.",
+          "The principal debtor and creditor vary the terms of that contract.",
+          "The surety did not consent to the variance.",
+          "The surety is discharged as to transactions occurring after (subsequent to) the variance — not necessarily as to transactions already completed before it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a strict, protective rule for sureties — even a variance that seems favourable or neutral to the surety's risk can trigger discharge, since courts will not weigh whether the variance actually increased the surety's risk; consent (or its absence) is what matters. Always advise creditors to obtain the surety's express written consent before varying any term of the underlying guaranteed contract, however minor it may appear."
+      }
+    },
+    {
+      "number": "134",
+      "title": "Discharge of surety by release or discharge of principal debtor",
+      "raw_text": "134. Discharge of surety by release or discharge of principal debtor.—The surety is discharged by any contract between the creditor and the principal debtor, by which the principal debtor is released, or by any act or omission of the creditor, the legal consequence of which is the discharge of the principal debtor.\n\nIllustrations\n\n(a) A gives a guarantee to C for goods to be supplied by C to B. C supplies goods to B, and afterwards B becomes embarrassed and contracts with his creditors (including C) to assign to them his property in consideration of their releasing him from their demands. Here B is released from his debt by the contract with C, and A is discharged from his suretyship.\n\n(b) A contracts with B to grow a crop of indigo on A's land and to deliver it to B at a fixed rate, and C guarantees A's performance of this contract. B diverts a stream of water which is necessary for the irrigation of A's land and thereby prevents him from raising the indigo. C is no longer liable on his guarantee.\n\n(c) A contracts with B for a fixed price to build a house for B within a stipulated time, B supplying the necessary timber. C guarantees A's performance of the contract. B omits to supply the timber. C is discharged from his suretyship.",
+      "key_terms": [
+        "surety",
+        "principal debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 134 discharges the surety whenever the principal debtor himself is released from liability — whether through an explicit release agreement with the creditor (illustration (a)), or because the creditor's own act or omission has the legal effect of discharging the principal debtor (illustrations (b) and (c), where the creditor's own conduct prevented the principal debtor from performing).",
+        "essential_elements": [
+          "The principal debtor is released from his liability by a contract with the creditor, OR",
+          "The principal debtor is discharged as a legal consequence of the creditor's own act or omission.",
+          "In either case, the surety is discharged as well."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Illustrations (b) and (c) are the more subtle trigger: the creditor need not formally \"release\" the principal debtor for Section 134 to apply — if the creditor's own conduct (obstructing performance, failing to supply agreed materials) legally excuses the principal debtor from performing (invoking, e.g., Section 67's own-fault excuse), that excusal automatically discharges the surety too, since the surety's obligation is derivative of the principal debtor's."
+      }
+    },
+    {
+      "number": "135",
+      "title": "Discharge of surety when creditor compounds with, gives time to, or agrees not to sue, principal debtor",
+      "raw_text": "135. Discharge of surety when creditor compounds with, gives time to, or agrees not to sue, principal debtor.—A contract between the creditor and the principal debtor, by which the creditor makes a composition with, or promises to give time to, or not to sue, the principal debtor, discharges the surety, unless the surety assents to such contract.",
+      "key_terms": [
+        "surety",
+        "principal debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 135 discharges the surety when the creditor privately strikes a more lenient deal with the principal debtor — a composition (settling for less), an extension of time, or a promise not to sue — because such an arrangement, made without the surety's assent, changes the risk profile and timeline the surety originally agreed to underwrite.",
+        "essential_elements": [
+          "The creditor and principal debtor enter into a contract involving composition, an extension of time, or a promise not to sue.",
+          "The surety does not assent to that contract.",
+          "The surety is discharged as a result."
+        ],
+        "exceptions_and_qualifications": [
+          "If the surety assents to the composition/extension/forbearance arrangement, he remains bound — his consent removes the discharge."
+        ],
+        "how_to_read": "Section 135 (a contract between creditor and principal debtor to give time) must be distinguished sharply from Sections 136 and 137, which follow immediately — always check first whether the arrangement is a genuine contract directly with the principal debtor (Section 135, discharges the surety) versus a mere unilateral forbearance or an arrangement with a third party (Sections 136-137, does NOT discharge the surety); this trio is a classic examination trap."
+      }
+    },
+    {
+      "number": "136",
+      "title": "Surety not discharged when agreement made with third person to give time to principal debtor",
+      "raw_text": "136. Surety not discharged when agreement made with third person to give time to principal debtor.—Where a contract to give time to the principal debtor is made by the creditor with a third person, and not with the principal debtor, the surety is not discharged.\n\nIllustration\n\nC, the holder of an overdue bill of exchange drawn by A as surety for B, and accepted by B, contracts with M to give time to B. A is not discharged.",
+      "key_terms": [
+        "surety",
+        "principal debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 136 is the pointed contrast to Section 135: if the creditor's time-extension agreement is made not with the principal debtor himself but with some third person (who has no authority to bind the principal debtor), the principal debtor's own liability is legally untouched — and since the surety's discharge under Section 135 depends on the principal debtor being genuinely bound by a new arrangement, no such binding arrangement means no discharge for the surety either.",
+        "essential_elements": [
+          "The creditor agrees to give time to the principal debtor.",
+          "That agreement is made with a third person, not with the principal debtor himself.",
+          "The surety is NOT discharged, because the principal debtor's own contract with the creditor remains unchanged."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The dividing line between Sections 135 and 136 is simply: who is the counterparty to the time-extension agreement? An agreement directly with the principal debtor discharges the surety (Section 135); an agreement with some third party who cannot bind the principal debtor leaves the surety fully exposed (Section 136) — always identify the actual contracting parties to the forbearance arrangement before advising on discharge."
+      }
+    },
+    {
+      "number": "137",
+      "title": "Creditor's forbearance to sue does not discharge surety",
+      "raw_text": "137. Creditor's forbearance to sue does not discharge surety.—Mere forbearance on the part of the creditor to sue the principal debtor or to enforce any other remedy against him does not, in the absence of any provision in the guarantee to the contrary, discharge the surety.\n\nIllustration\n\nB owes to C a debt guaranteed by A. The debt becomes payable. C does not sue B for a year after the debt has become payable. A is not discharged from his suretyship.",
+      "key_terms": [
+        "surety",
+        "principal debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 137 completes the trio with the passive case: simply not suing the principal debtor promptly, without any positive contract to forbear, does not by itself discharge the surety — a creditor is under no obligation to chase the principal debtor immediately, and mere delay/inaction is legally different from the contractual \"promise not to sue\" that triggers Section 135.",
+        "essential_elements": [
+          "The creditor merely forbears (delays or declines) to sue the principal debtor, or to enforce another remedy against him.",
+          "There is no positive contract to forbear, and the guarantee itself contains no clause making such forbearance a discharge.",
+          "The surety is NOT discharged by this mere inaction."
+        ],
+        "exceptions_and_qualifications": [
+          "This default rule can be displaced by an express provision in the guarantee itself making prompt action by the creditor a condition of the surety's continued liability."
+        ],
+        "how_to_read": "Sections 135-137 form a deliberate escalating sequence that examiners and drafters love to test together: a contractual promise not to sue the principal debtor discharges the surety (135); an agreement to that effect with an unrelated third party does not (136); and mere silent inaction/delay, with no promise at all, also does not (137) — always classify the creditor's conduct precisely into one of these three categories before concluding on discharge."
+      }
+    },
+    {
+      "number": "138",
+      "title": "Release of one co-surety does not discharge others",
+      "raw_text": "138. Release of one co-surety does not discharge others.—Where there are co-sureties, a release by the creditor of one of them does not discharge the others; neither does it free the surety so released from his responsibility to the other sureties.",
+      "key_terms": [
+        "surety",
+        "co-sureties"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 138 mirrors Section 44's rule for joint promisors, applied specifically to co-sureties: releasing one co-surety from the creditor's claim does not let the remaining co-sureties off the hook, and the released co-surety himself remains liable to contribute to the others if they end up paying more than their share.",
+        "essential_elements": [
+          "There are two or more co-sureties for the same debt.",
+          "The creditor releases one of them.",
+          "The remaining co-sureties are not thereby discharged from their own liability to the creditor.",
+          "The released co-surety remains liable to the other co-sureties for his share of contribution."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read this together with Section 146 (co-sureties' mutual duty to contribute equally) — a release from the creditor only affects the creditor-surety relationship; it does not touch the internal contribution obligations owed among the co-sureties themselves, exactly as Section 44 preserves internal contribution among joint promisors despite a release by the promisee."
+      }
+    },
+    {
+      "number": "139",
+      "title": "Discharge of surety by creditor's act or omission impairing surety's eventual remedy",
+      "raw_text": "139. Discharge of surety by creditor's act or omission impairing surety's eventual remedy.—If the creditor does any act which is inconsistent with the rights of the surety, or omits to do any act which his duty to the surety requires him to do, and the eventual remedy of the surety himself against the principal debtor is thereby impaired, the surety is discharged.\n\nIllustrations\n\n(a) B contracts to build a ship for C for a given sum, to be paid by instalments as the work reaches certain stages. A becomes surety to C for B's due performance of the contract. C, without the knowledge of A, prepays to B the last two instalments. A is discharged by this prepayment.\n\n(b) C lends money to B on the security of a joint and several promissory note made in C's favour by B, and by A as surety for B, together with a bill of sale of B's furniture, which gives power to C to sell the furniture, and apply the proceeds in discharge of the note. Subsequently, C sells the furniture, but, owing to his misconduct and wilful negligence, only a small price is realized. A is discharged from liability on the note.\n\n(c) A puts M as apprentice to B, and gives a guarantee to B for M's fidelity. B promises on his part that he will, at least once a month, see M make up the cash. B omits to see this done as promised, and M embezzles. A is not liable to B on his guarantee.",
+      "key_terms": [
+        "surety",
+        "principal debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 139 is the broadest of the discharge grounds: any act or omission by the creditor that is inconsistent with the surety's rights, or that impairs the surety's own eventual remedy against the principal debtor (his right of subrogation/reimbursement under Section 140), discharges the surety — even where the creditor's misstep is careless rather than deliberate (illustration (b)'s \"misconduct and wilful negligence\" in realizing security).",
+        "essential_elements": [
+          "The creditor does an act inconsistent with the surety's rights, or omits an act his duty to the surety requires.",
+          "That act or omission impairs the surety's eventual remedy against the principal debtor.",
+          "The surety is discharged as a result."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a catch-all safety-net provision, broader than Sections 133-138's specific triggers — always ask, whenever a creditor has done anything unusual with the underlying security or debt (early payment, careless disposal of collateral, failure to observe agreed monitoring/safeguard mechanisms as in illustration (c)), whether it has weakened the surety's own future right to step into the creditor's shoes and recover from the principal debtor; if so, Section 139 likely discharges the surety even though none of the more specific sections technically fit."
+      }
+    },
+    {
+      "number": "140",
+      "title": "Rights of surety on payment or performance",
+      "raw_text": "140. Rights of surety on payment or performance.—Where a guaranteed debt has become due, or default of the principal debtor to perform a guaranteed duty has taken place, the surety upon payment or performance of all that he is liable for, is invested with all the rights which the creditor had against the principal debtor.",
+      "key_terms": [
+        "surety",
+        "principal debtor",
+        "subrogation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 140 grants the surety a right of subrogation: once he pays off the guaranteed debt (or performs the guaranteed duty), he steps directly into the creditor's shoes, automatically acquiring all the rights the creditor had against the principal debtor — including, typically, the benefit of any security the creditor held (reinforced further by Section 141).",
+        "essential_elements": [
+          "A guaranteed debt has become due, or the principal debtor has defaulted on a guaranteed duty.",
+          "The surety pays, or performs, everything he is liable for under the guarantee.",
+          "Upon doing so, the surety is automatically invested with all the rights the creditor had against the principal debtor."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This subrogation right is what makes suretyship commercially workable — a surety who pays the debt does not need a fresh cause of action or a separate assignment from the creditor; Section 140 operates automatically by force of law the moment payment/performance is complete, letting the surety sue the principal debtor (or enforce security) exactly as the creditor could have."
+      }
+    },
+    {
+      "number": "141",
+      "title": "Surety's right to benefit of creditor's securities",
+      "raw_text": "141. Surety's right to benefit of creditor's securities.—A surety is entitled to the benefit of every security which the creditor has against the principal debtor at the time when the contract of suretyship is entered into, whether the surety knows of the existence of such security or not; and if the creditor loses, or, without the consent of the surety, parts with such security, the surety is discharged to the extent of the value of the security.\n\nIllustrations\n\n(a) C, advances to B, his tenant, 2,000 rupees on the guarantee of A. C has also a further security for the 2,000 rupees by a mortgage of B's furniture. C cancels the mortgage. B becomes insolvent and C sues A on his guarantee. A is discharged from liability to the amount of the value of the furniture.\n\n(b) C, a creditor, whose advance to B is secured by a decree, receives also a guarantee for that advance from A. C afterwards takes B's goods in execution under the decree, and then, without the knowledge of A, withdraws the execution. A is discharged.\n\n(c) A, as surety for B, makes a bond jointly with B to C, to secure a loan from C to B. Afterwards, C obtains from B a further security for the same debt. Subsequently, C gives up the further security. A is not discharged.",
+      "key_terms": [
+        "surety",
+        "principal debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 141 strengthens Section 140's subrogation right by fixing it in time: the surety automatically gets the benefit of every security the creditor already held against the principal debtor at the moment the guarantee was entered into, whether or not the surety even knew of it — and if the creditor later carelessly loses or releases that security without the surety's consent, the surety is discharged pro tanto (to the extent of the lost security's value), not entirely.",
+        "essential_elements": [
+          "The creditor holds security against the principal debtor at the time the guarantee is entered into.",
+          "The surety is entitled to the benefit of that security, regardless of whether he knew of its existence when giving the guarantee.",
+          "If the creditor loses the security, or parts with it without the surety's consent, the surety is discharged only to the extent of the security's value — not necessarily in full."
+        ],
+        "exceptions_and_qualifications": [
+          "Illustration (c) shows the rule is limited to security existing at the time of the guarantee — a security obtained later, and subsequently released, does not trigger this discharge, since Section 141 protects only pre-existing security the surety was entitled to rely on from the outset."
+        ],
+        "how_to_read": "Note the partial-discharge measure here (contrast with Section 139's full discharge for impairing the surety's remedy generally): under Section 141 specifically, the surety's liability is reduced only by the value of the lost security, so always plead and prove that value precisely rather than assuming a security-loss claim wipes out the whole guarantee."
+      }
+    },
+    {
+      "number": "142",
+      "title": "Guarantee obtained by misrepresentation invalid",
+      "raw_text": "142. Guarantee obtained by misrepresentation invalid.—Any guarantee which has been obtained by means of misrepresentation made by the creditor, or with his knowledge and assent, concerning a material part of the transaction, is invalid.",
+      "key_terms": [
+        "contract of guarantee",
+        "misrepresentation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 142 applies the ordinary vitiating-factor logic (misrepresentation, Sections 18-19) specifically to guarantees: if the creditor himself (or someone with his knowledge and assent) misrepresents a material fact about the transaction in order to induce the surety to give the guarantee, the resulting guarantee is invalid altogether.",
+        "essential_elements": [
+          "A guarantee was obtained by means of misrepresentation.",
+          "The misrepresentation was made by the creditor, or made with his knowledge and assent.",
+          "The misrepresentation concerned a material part of the transaction.",
+          "The guarantee is invalid as a result."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 142 and 143 together (misrepresentation and concealment) recognise that a surety's decision to guarantee depends heavily on the creditor's candour about the underlying transaction — a surety defending a claim on the guarantee should always investigate what the creditor knew and disclosed about the principal debtor's circumstances at the time the guarantee was sought, since either defect independently invalidates the guarantee."
+      }
+    },
+    {
+      "number": "143",
+      "title": "Guarantee obtained by concealment invalid",
+      "raw_text": "143. Guarantee obtained by concealment invalid.—Any guarantee which the creditor has obtained by means of keeping silence as to material circumstances, is invalid.\n\nIllustrations\n\n(a) A engages B as clerk to collect money for him. B fails to account for some of his receipts, and A in consequence calls upon him to furnish security for his duly accounting. C gives his guarantee for B's duly accounting. A does not acquaint C with B's previous conduct. B afterwards makes default. The guarantee is invalid.\n\n(b) A guarantees to C payment for iron to be supplied by him to B to the amount of 2,000 tons. B and C have privately agreed that B should pay five rupees per ton beyond the market price, such excess to be applied in liquidation of an old debt. This agreement is concealed from A. A is not liable as a surety.",
+      "key_terms": [
+        "contract of guarantee",
+        "concealment"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 143 goes further than ordinary contract law's usual tolerance of silence (compare Section 17's \"mere silence is not fraud\" rule): in the specific context of guarantees, a creditor's silence as to material circumstances relevant to the risk the surety is undertaking (such as the principal debtor's known dishonesty, illustration (a), or a hidden side-arrangement inflating the guaranteed debt, illustration (b)) is enough to invalidate the guarantee — a positive disclosure duty is imposed on the creditor.",
+        "essential_elements": [
+          "The creditor obtains a guarantee by keeping silent as to material circumstances relevant to the transaction/risk.",
+          "The undisclosed circumstances are material to the surety's decision to guarantee.",
+          "The guarantee is invalid as a result of that concealment."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a rare instance in the Act where mere silence is itself treated as legally significant (unlike Section 17's general rule for ordinary contracting parties) — guarantee contracts are treated as requiring a species of good faith / uberrimae fidei-like disclosure from the creditor, so when acting for a creditor seeking a guarantee, always proactively disclose anything materially bearing on the principal debtor's reliability or the true structure of the underlying transaction, rather than relying on the surety to ask."
+      }
+    },
+    {
+      "number": "144",
+      "title": "Guarantee on contract that creditor shall not act on it until co-surety joins",
+      "raw_text": "144. Guarantee on contract that creditor shall not act on it until co-surety joins.—Where a person gives a guarantee upon a contract that the creditor shall not act upon it until another person has joined in it as co-surety, the guarantee is not valid if that other person does not join.",
+      "key_terms": [
+        "contract of guarantee",
+        "co-sureties"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 144 protects a surety who conditions his guarantee on a co-surety also joining: if that expected co-surety never actually joins, the whole guarantee fails and cannot be enforced against the surety who gave it on that condition — the creditor cannot hold the first surety to a bargain he only agreed to on the footing that the risk would be shared.",
+        "essential_elements": [
+          "A person gives a guarantee, but on the express condition that the creditor will not act upon it until another person joins as co-surety.",
+          "That other, expected co-surety does not join.",
+          "The guarantee is not valid — it cannot be enforced against the surety who gave it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a conditional-guarantee rule — always check whether a guarantee document, or the surrounding negotiations, made joinder of a named or contemplated co-surety a condition of the guarantee taking effect at all; if so, and that co-surety never signs, the creditor has no valid guarantee to enforce against the surety who did sign, regardless of how the transaction between creditor and principal debtor otherwise proceeded."
+      }
+    },
+    {
+      "number": "145",
+      "title": "Implied promise to indemnify surety",
+      "raw_text": "145. Implied promise to indemnify surety.—In every contract of guarantee there is an implied promise by the principal debtor to indemnify the surety, and the surety is entitled to recover from the principal debtor whatever sum he has rightfully paid under the guarantee, but no sums which he has paid wrongfully.\n\nIllustrations\n\n(a) B is indebted to C, and A is surety for the debt. C demands payment from A, and on his refusal sues him for the amount. A defends the suit, having reasonable grounds for doing so, but is compelled to pay the amount of the debt with costs. He can recover from B the amount paid by him for costs, as well as the principal debt.\n\n(b) C lends B a sum of money, and A, at the request of B, accepts a bill of exchange drawn by B upon A to secure the amount. C, the holder of the bill, demands payment of it from A, and, on A's refusal to pay, sues him upon the bill. A, not having reasonable grounds for so doing, defends the suit, and has to pay the amount of the bill and costs. He can recover from B the amount of the bill, but not the sum paid for costs, as there was no real ground for defending the action.\n\n(c) A guarantees to C, to the extent of 2,000 rupees, payment for rice to be supplied by C to B. C supplies to B rice to a less amount than 2,000 rupees, but obtains from A payment of the sum of 2,000 rupees in respect of the rice supplied. A cannot recover from B more than the price of the rice actually supplied.",
+      "key_terms": [
+        "surety",
+        "principal debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 145 supplies, by implication of law, the surety's right to be indemnified by the principal debtor for whatever he \"rightfully\" pays under the guarantee — including reasonable defence costs where he had genuine grounds to contest the claim (illustration (a)), but not costs incurred defending a hopeless case (illustration (b)), and never more than what was actually, properly due under the guaranteed transaction (illustration (c)).",
+        "essential_elements": [
+          "There is a contract of guarantee.",
+          "The law implies a promise by the principal debtor to indemnify the surety.",
+          "The surety can recover whatever sum he has \"rightfully\" paid under the guarantee.",
+          "He cannot recover sums paid \"wrongfully\" — e.g. costs of an unreasonably-defended suit, or amounts exceeding what was actually properly due."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The rightfully/wrongfully distinction is fact-intensive and turns on reasonableness at the time the surety acted — always assess, before advising a surety on his indemnity claim against the principal debtor, whether the specific payment (principal, costs, or compromise sum) was one a prudent person would have made on the facts as they stood, mirroring the same prudence test already seen in Section 125's indemnity-holder provisions."
+      }
+    },
+    {
+      "number": "146",
+      "title": "Co-sureties liable to contribute equally",
+      "raw_text": "146. Co-sureties liable to contribute equally.—Where two or more persons are co-sureties for the same debt or duty, either jointly or severally, and whether under the same or different contracts, and whether with or without the knowledge of each other, the co-sureties, in the absence of any contract to the contrary, are liable, as between themselves, to pay each an equal share of the whole debt, or of that part of it which remains unpaid by the principal debtor.\n\nIllustrations\n\n(a) A, B and C are sureties to D for the sum of 3,000 rupees lent to E. E makes default in payment. A, B and C are liable, as between themselves, to pay 1,000 rupees each.\n\n(b) A, B and C are sureties to D for the sum of 1,000 rupees lent to E, and there is a contract between A, B and C that A is to be responsible to the extent of one-quarter, B to the extent of one-quarter, and C to the extent of one-half. E makes default in payment. As between the sureties, A is liable to pay 250 rupees, B 250 rupees, and C 500 rupees.",
+      "key_terms": [
+        "co-sureties",
+        "contribution"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 146 fixes the default rule for co-sureties' mutual contribution: regardless of whether they signed the same document or different ones, and regardless of whether they even knew of each other's existence, co-sureties for the same debt must bear the loss equally between themselves once the principal debtor defaults — unless they have expressly agreed on a different split (illustration (b)).",
+        "essential_elements": [
+          "Two or more persons are co-sureties for the same debt or duty (jointly or severally, under the same or different contracts, with or without mutual knowledge).",
+          "The principal debtor defaults.",
+          "As between the co-sureties themselves, each must pay an equal share of the whole debt (or the unpaid balance) — unless a contract between them fixes different shares."
+        ],
+        "exceptions_and_qualifications": [
+          "This equal-sharing default is displaced by an express agreement among the co-sureties fixing different proportions, as in illustration (b)."
+        ],
+        "how_to_read": "The remarkable breadth here is that mutual knowledge is irrelevant — sureties who signed entirely separate guarantees, unaware of each other, can still be co-sureties owing each other contribution under Section 146, so long as they guaranteed the same debt; always investigate whether other guarantees exist for the same underlying debt before advising a surety on his full contribution exposure or entitlement."
+      }
+    },
+    {
+      "number": "147",
+      "title": "Liability of co-sureties bound in different sums",
+      "raw_text": "147. Liability of co-sureties bound in different sums.—Co-sureties who are bound in different sums are liable to pay equally as far as the limits of their respective obligations permit.\n\nIllustrations\n\n(a) A, B and C, as sureties for D, enter into three several bonds, each in a different penalty, namely, A in the penalty of 10,000 rupees, B in that of 20,000 rupees, C in that of 40,000 rupees, conditioned for D's duly accounting to E. D makes default to the extent of 30,000 rupees. A, B and C are each liable to pay 10,000 rupees.\n\n(b) A, B and C, as sureties for D, enter into three several bonds, each in a different penalty, namely, A in the penalty of 10,000 rupees, B in that of 20,000 rupees, C in that of 40,000 rupees, conditioned for D's duly accounting to E. D makes default to the extent of 40,000 rupees. A is liable to pay 10,000 rupees, and B and C 15,000 rupees each.\n\n(c) A, B and C, as sureties for D, enter into three several bonds, each in a different penalty, namely, A in the penalty of 10,000 rupees, B in that of 20,000 rupees, C in that of 40,000 rupees, conditioned for D's duly accounting to E. D makes default to the extent of 70,000 rupees. A, B and C have to pay each the full penalty of his bond.",
+      "key_terms": [
+        "co-sureties",
+        "contribution"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 147 refines Section 146's equal-sharing rule for the common real-world case where co-sureties are bound in different maximum amounts (different bond \"penalties\"): they still pay as equally as possible, but capped at each one's own individual limit — so the equal-division math is applied first, and only if that would exceed a particular surety's cap does the excess shift to co-sureties with higher limits (illustration (b)), until, at the extreme, everyone simply pays their full individual maximum (illustration (c)).",
+        "essential_elements": [
+          "Co-sureties for the same debt are bound in different maximum sums (different bond penalties).",
+          "Contribution between them is calculated to be as equal as possible, subject to each surety's own individual limit.",
+          "Where equal division would exceed a lower-bound surety's limit, that surety pays only up to his limit, and the remaining excess is spread among the co-sureties whose limits allow it.",
+          "If total default reaches or exceeds the sum of all limits, each co-surety simply pays his own full bonded amount."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Work through the three illustrations numerically when advising on a real dispute — they represent a smooth continuum (default within the lowest surety's limit, default between the lowest and middle limits, default at or beyond the combined limits) and the correct contribution shares change mechanically at each threshold; this is one of the more calculation-heavy provisions in the Act and merits doing the arithmetic explicitly rather than reasoning only in the abstract."
       }
     }
   ]
