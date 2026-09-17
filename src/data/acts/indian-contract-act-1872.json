@@ -51,7 +51,21 @@
     "restraint of legal proceedings": "A contract term that blocks a party from going to court, or artificially shortens their time to sue, or strips their rights merely because time has passed — void under Section 28, apart from the arbitration exceptions.",
     "arbitration": "A private dispute-resolution process, agreed to by contract, in which a neutral arbitrator decides the dispute instead of a court — expressly protected from Section 28's general bar on restraining legal proceedings.",
     "uncertainty": "A degree of vagueness in an agreement's terms that cannot be resolved even by looking at context, trade custom, or an agreed mechanism — Section 29 voids only agreements this vague.",
-    "wager": "A bet — an agreement where each side's gain or loss depends purely on the outcome of an uncertain event, with no other stake in that outcome. Wagering agreements are void and unenforceable in court under Section 30."
+    "wager": "A bet — an agreement where each side's gain or loss depends purely on the outcome of an uncertain event, with no other stake in that outcome. Wagering agreements are void and unenforceable in court under Section 30.",
+    "contingent contract": "A contract to do or not do something if an uncertain future event, collateral to the contract, does or does not happen — e.g. an insurance policy that pays only if a specified event occurs.",
+    "performance": "Actually carrying out what a party promised under a contract — paying money owed, delivering goods, rendering a service, etc.",
+    "representatives": "A deceased person's legal heirs or executors/administrators, who step into the deceased's shoes to enforce or bear the obligations of contracts the deceased had entered into.",
+    "tender of performance": "A valid, properly-made offer to perform a contractual obligation (unconditional, at the proper time/place, with a reasonable opportunity to verify) which, if refused by the other side, discharges the person who made the offer from liability for non-performance.",
+    "joint promisees": "Two or more persons to whom a single promise is made together, who must generally act jointly to enforce it.",
+    "repudiation": "A clear refusal by a party, through words or conduct, to perform his contractual obligations at all.",
+    "acquiescence": "Accepting or going along with a state of affairs (such as continued performance after a breach) by words or conduct, which can result in losing the right to treat the contract as terminated.",
+    "joint promise": "A promise made by two or more persons together, making them jointly answerable to the promisee unless the contract says otherwise.",
+    "contribution": "The right of a person who has paid more than his share of a joint obligation to recover the excess proportionately from his co-obligors.",
+    "surety": "A person who guarantees the performance of another's (the principal debtor's) obligation, and who becomes liable if the principal fails to perform.",
+    "release": "A promisee's act of giving up or discharging his claim against one of several parties who owe him an obligation.",
+    "reasonable time": "A flexible, fact-specific standard used when a contract fixes no deadline for performance — determined by the nature of the obligation, trade custom, and the parties' circumstances, not a fixed legal period.",
+    "agreement": "Every promise, or set of reciprocal promises, forming the consideration for each other — the broader category of which a legally enforceable \"contract\" is a subset (Section 2(e), (h)).",
+    "mistake": "An erroneous belief held by one or both parties about a fact or law relevant to the agreement at the time of contracting — see \"mistake of fact\" and \"mistake of law\" for how the Act treats each differently."
   },
   "sections": [
     {
@@ -697,6 +711,394 @@
           "The Section 30 exception for horse-racing prizes does not override or legalise conduct that is independently an offence under IPC Section 294A (public gaming houses / instruments of gaming)."
         ],
         "how_to_read": "Section 30 is unusual among void-agreement provisions because it also bars the remedy, not just the underlying obligation — even collateral agreements (e.g. a loan specifically taken to place a wager, where the lender knew the purpose) can be tainted and unenforceable depending on how closely they are tied to the wager itself. Always separately check any applicable State gaming/gambling legislation, since several States regulate wagering more strictly than the central Act, and modern disputes increasingly involve online/fantasy-sports platforms where classification as a \"game of skill\" versus a \"wager\" is the central battleground."
+      }
+    },
+    {
+      "number": "31",
+      "title": "\"Contingent contract\" defined",
+      "raw_text": "31. \"Contingent contract\" defined.—A \"contingent contract\" is a contract to do or not to do something, if some event, collateral to such contract, does or does not happen.\n\nIllustration\n\nA contracts to pay B Rs. 10,000 if B's house is burnt. This is a contingent contract.",
+      "key_terms": [
+        "contingent contract"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 31 opens a new chapter dealing with contracts whose performance depends on an uncertain future event that is collateral to the contract itself — not the performance promised, but some outside event (like a fire, a marriage, or a ship's return) that triggers or defeats the obligation.",
+        "essential_elements": [
+          "There must be a contract to do or not do something.",
+          "Performance is made conditional on an event.",
+          "That event must be collateral to the contract — separate from the promised performance itself, not the performance itself made conditional on the promisor's own will."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 32-36 that follow all elaborate this single definition — treat Section 31 as the doorway, then match your fact pattern to the specific rule: event happening (Section 32), event not happening (Section 33), a living person's future conduct (Section 34), fixed-time contingencies (Section 35), or an impossible event (Section 36)."
+      }
+    },
+    {
+      "number": "32",
+      "title": "Enforcement of contracts contingent on an event happening",
+      "raw_text": "32. Enforcement of contracts contingent on an event happening.—Contingent contracts to do or not to do anything if an uncertain future event happens cannot be enforced by law unless and until that event has happened. If the event becomes impossible, such contracts become void.\n\nIllustrations\n\n(a) A makes a contract with B to buy B's horse if A survives C. This contract cannot be enforced by law unless and until C dies in A's lifetime.\n\n(b) A makes a contract with B to sell a horse to B at a specified price, if C, to whom the horse has been offered, refuses to buy him. The contract cannot be enforced by law unless and until C refuses to buy the horse.\n\n(c) A contracts to pay B a sum of money when B marries C. C dies without being married to B. The contract becomes void.",
+      "key_terms": [
+        "contingent contract",
+        "void"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 32 governs the \"if this happens\" type of contingent contract: it stays unenforceable in limbo until the triggering event actually occurs, and if the event becomes impossible instead, the contract is void outright rather than remaining suspended indefinitely.",
+        "essential_elements": [
+          "The contract is contingent on an uncertain future event happening.",
+          "It cannot be enforced unless and until that event actually happens.",
+          "If the event becomes impossible, the contract becomes void rather than staying dormant."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The two-track outcome is the key exam and drafting point: \"event happens\" leads to enforceability, \"event becomes impossible\" leads to automatic voidness — there is no third, ongoing state once impossibility is established (illustration (c), where C's death without marrying B makes the triggering event permanently impossible)."
+      }
+    },
+    {
+      "number": "33",
+      "title": "Enforcement of contracts contingent on an event not happening",
+      "raw_text": "33. Enforcement of contracts contingent on an event not happening.—Contingent contracts to do or not to do anything if an uncertain future event does not happen can be enforced when the happening of that event becomes impossible, and not before.\n\nIllustration\n\nA agrees to pay B a sum of money if a certain ship does not return. The ship is sunk. The contract can be enforced when the ship sinks.",
+      "key_terms": [
+        "contingent contract"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 33 is the mirror image of Section 32: for an \"if this does NOT happen\" contingent contract, enforceability arises the moment the event becomes impossible (guaranteeing it will never happen) — not merely when it fails to happen by some point in time.",
+        "essential_elements": [
+          "The contract is contingent on an uncertain future event NOT happening.",
+          "It becomes enforceable only once the happening of that event becomes impossible.",
+          "It cannot be enforced merely because the event has not yet happened, while it remains still possible."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read Sections 32 and 33 as a matched pair testing opposite conditions (event happening vs. not happening) — the common thread is that both require certainty (event has happened, or has become impossible) before the contract can be enforced; mere non-occurrence so far is not enough under Section 33."
+      }
+    },
+    {
+      "number": "34",
+      "title": "When event on which contract is contingent to be deemed impossible, if it is the future conduct of a living person",
+      "raw_text": "34. When event on which contract is contingent to be deemed impossible, if it is the future conduct of a living person.—If the future event on which a contract is contingent is the way in which a person will act at an unspecified time, the event shall be considered to become impossible when such person does anything which renders it impossible that he should so act within any definite time, or otherwise than under further contingencies.\n\nIllustration\n\nA agrees to pay B a sum of money if B marries C. C marries D. The marriage of B to C must now be considered impossible, although it is possible that D may die and that C may afterwards marry B.",
+      "key_terms": [
+        "contingent contract"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 34 applies the \"impossibility\" concept from Section 32/33 specifically to contingencies tied to a living person's future conduct: once that person acts in a way that rules out the specified conduct within any definite time (barring further remote contingencies), the event is treated as impossible even though a highly improbable chain of events could theoretically still bring it about.",
+        "essential_elements": [
+          "The contingency depends on how a living person will act at some unspecified time.",
+          "That person does something that rules out acting in the specified way within any definite time frame, except through further contingencies.",
+          "The event is then deemed impossible from that point, triggering Section 32's or 33's consequences."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The illustration is the standard teaching example: C's marriage to D makes \"B marries C\" impossible in the law's eyes immediately, even though D's hypothetical death could theoretically reopen the possibility — Section 34 tells you not to wait around for remote, contingency-upon-contingency scenarios before treating the event as impossible."
+      }
+    },
+    {
+      "number": "35",
+      "title": "When contracts become void which are contingent on happening of specified event within fixed time",
+      "raw_text": "35. When contracts become void which are contingent on happening of specified event within fixed time.—Contingent contracts to do or not to do anything if a specified uncertain event happens within a fixed time become void if, at the expiration of the time fixed, such event has not happened, or if, before the time fixed, such event becomes impossible.\n\nWhen contracts may be enforced, which are contingent on specified event not happening within fixed time.—Contingent contracts to do or not to do anything, if a specified uncertain event does not happen within a fixed time may be enforced by law when the time fixed has expired and such event has not happened or, before the time fixed has expired, if it becomes certain that such event will not happen.\n\nIllustrations\n\n(a) A promises to pay B a sum of money if a certain ship returns within a year. The contract may be enforced if the ship returns within the year, and becomes void if the ship is burnt within the year.\n\n(b) A promises to pay B a sum of money if a certain ship does not return within a year. The contract may be enforced if the ship does not return within the year, or is burnt within the year.",
+      "key_terms": [
+        "contingent contract",
+        "void"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 35 adds a time limit to Sections 32 and 33's rules. For \"happens within fixed time\" contracts, the contract voids if the deadline passes without the event happening, or if the event becomes impossible before the deadline. For \"does not happen within fixed time\" contracts, the contract becomes enforceable once the deadline passes without the event happening, or once it becomes certain before the deadline that it never will.",
+        "essential_elements": [
+          "First paragraph: a fixed-time \"event happens\" contract becomes void if the time expires without the event happening, or if the event becomes impossible before the time expires.",
+          "Second paragraph: a fixed-time \"event does not happen\" contract becomes enforceable once the time expires without the event happening, or once it becomes certain (even before expiry) that the event will not happen."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always identify two variables before applying Section 35: which type of contingency (happening vs. not happening) and whether a fixed time is specified at all — if no time is fixed, fall back to Sections 32/33's simpler impossibility test instead of Section 35's time-bound version."
+      }
+    },
+    {
+      "number": "36",
+      "title": "Agreement contingent on impossible events void",
+      "raw_text": "36. Agreement contingent on impossible events void.—Contingent agreements to do or not to do anything, if an impossible event happens, are void, whether the impossibility of the event is known or not to the parties to the agreement at the time when it is made.\n\nIllustrations\n\n(a) A agrees to pay B 1,000 rupees if two straight lines should enclose a space. The agreement is void.\n\n(b) A agrees to pay B 1,000 rupees if B will marry A's daughter C. C was dead at the time of the agreement. The agreement is void.",
+      "key_terms": [
+        "void",
+        "contingent contract"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 36 closes the contingent-contract chapter with the most extreme case: if the triggering event was already impossible at the very moment the agreement was made — a geometric impossibility, or a fact already false, like C being already dead — the agreement is void from inception, regardless of whether either party knew of the impossibility.",
+        "essential_elements": [
+          "The agreement is contingent on the happening of an event.",
+          "That event is impossible — either inherently (illustration (a)) or because of a fact already true at the time of agreement (illustration (b)).",
+          "The agreement is void regardless of the parties' knowledge of the impossibility."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Distinguish Section 36 (event was already impossible at formation) from Section 32's second limb (event becomes impossible only later, after a validly formed contingent contract) — the timing of when impossibility arises determines whether the agreement was ever valid at all (Section 36) versus validly formed but subsequently voided (Section 32)."
+      }
+    },
+    {
+      "number": "37",
+      "title": "Obligation of parties to contracts",
+      "raw_text": "37. Obligation of parties to contracts.—The parties to a contract must either perform, or offer to perform, their respective promises, unless such performance is dispensed with or excused under the provisions of this Act, or of any other law.\n\nPromises bind the representatives of the promisors in case of the death of such promisors before performance, unless a contrary intention appears from the contract.\n\nIllustrations\n\n(a) A promises to deliver goods to B on a certain day on payment of Rs. 1,000. A dies before that day. A's representatives are bound to deliver the goods to B, and B is bound to pay the Rs. 1,000 to A's representatives.\n\n(b) A promises to paint a picture for B by a certain day, at a certain price. A dies before the day. The contract cannot be enforced either by A's representatives or by B.",
+      "key_terms": [
+        "performance",
+        "representatives"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 37 opens the Performance chapter with the basic obligation: parties must actually perform, or at least offer to perform, unless the Act or another law excuses them. It also fixes the default survivorship rule — a promisor's death before performance passes the obligation to his legal representatives, unless the contract shows a contrary intention (as with personal, non-transferable skills like painting a picture).",
+        "essential_elements": [
+          "Each party must perform, or offer to perform, their respective promise.",
+          "Non-performance is excused only where dispensed with or excused under this Act or another law.",
+          "On a promisor's death before performance, the obligation generally passes to his representatives — unless the contract shows the promise was intended to be personal to him."
+        ],
+        "exceptions_and_qualifications": [
+          "A contract's own terms, or the personal/non-delegable nature of the promised performance (e.g. painting a picture, illustration (b)), can show a contrary intention that the obligation does not survive the promisor's death."
+        ],
+        "how_to_read": "Illustrations (a) and (b) together demonstrate the personal-service exception: money and goods obligations bind the estate, but obligations requiring unique personal skill or judgment die with the promisor. Always characterise the promised performance first (fungible/transferable vs. personal) before advising on whether an estate is bound after death."
+      }
+    },
+    {
+      "number": "38",
+      "title": "Effect of refusal to accept offer of performance",
+      "raw_text": "38. Effect of refusal to accept offer of performance.—Where a promisor has made an offer of performance to the promisee, and the offer has not been accepted, the promisor is not responsible for non-performance, nor does he thereby lose his rights under the contract.\n\nEvery such offer must fulfil the following conditions:—\n\n(1) it must be unconditional;\n\n(2) it must be made at a proper time and place, and under such circumstances that the person to whom it is made may have a reasonable opportunity of ascertaining that the person by whom it is made is able and willing there and then to do the whole of what he is bound by his promise to do;\n\n(3) if the offer is an offer to deliver anything to the promisee, the promisee must have a reasonable opportunity of seeing that the thing offered is the thing which the promisor is bound by his promise to deliver.\n\nAn offer to one of several joint promisees has the same legal consequences as an offer to all of them.\n\nIllustration\n\nA contracts to deliver to B at his warehouse, on the 1st March, 1873, 100 bales of cotton of a particular quality. In order to make an offer of a performance with the effect stated in this section, A must bring the cotton to B's warehouse, on the appointed day, under such circumstances that B may have a reasonable opportunity of satisfying himself that the thing offered is cotton of the quality contracted for, and that there are 100 bales.",
+      "key_terms": [
+        "tender of performance",
+        "joint promisees"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 38 is the statutory foundation for \"tender of performance\" (attempted performance, refused by the other side): a valid, properly-made offer to perform that the promisee rejects fully discharges the promisor from liability for non-performance and preserves all his rights under the contract, exactly as if he had actually performed.",
+        "essential_elements": [
+          "The promisor makes an offer of performance to the promisee.",
+          "The offer must be unconditional.",
+          "It must be made at a proper time and place, giving the promisee a reasonable opportunity to verify the promisor is able and willing to perform in full.",
+          "If it involves delivering something, the promisee must have a reasonable opportunity to inspect that it matches the contract.",
+          "An offer to one of several joint promisees counts as an offer to all."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A \"tender\" that fails any of the three conditions (unconditional, proper time/place/opportunity to verify, opportunity to inspect goods) is not a valid tender at all under this section and gives the promisor no protection — plead and prove each condition specifically rather than asserting generally that \"performance was offered.\""
+      }
+    },
+    {
+      "number": "39",
+      "title": "Effect of refusal of party to perform promise wholly",
+      "raw_text": "39. Effect of refusal of party to perform promise wholly.—When a party to a contract has refused to perform, or disabled himself from performing, his promise in its entirety, the promisee may put an end to the contract, unless he has signified, by words or conduct, his acquiescence in its continuance.\n\nIllustrations\n\n(a) A, a singer, enters into a contract with B, the manager of a theatre, to sing at his theatre two nights in every week during the next two months, and B engages to pay her 100 rupees for each night's performance. On the sixth night A wilfully absents herself from the theatre. B is at liberty to put an end to the contract.\n\n(b) A, a singer, enters into a contract with B, the manager of a theatre, to sing at his theatre two nights in every week during the next two months, and B engages to pay her at the rate of 100 rupees for each night. On the sixth night, A wilfully absents herself. With the assent of B, A sings on the seventh night. B has signified his acquiescence in the continuance of the contract, and cannot now put an end to it, but is entitled to compensation for the damage sustained by him through A's failure to sing on the sixth night.",
+      "key_terms": [
+        "repudiation",
+        "acquiescence"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 39 is the statutory root of the doctrine of repudiatory breach: when a party refuses to perform, or makes performance impossible by his own act, the innocent party gets an election — put an end to the contract entirely, or accept continued performance (acquiescence), in which case the contract survives but the innocent party can still claim damages for the earlier breach.",
+        "essential_elements": [
+          "A party refuses to perform, or disables himself from performing, his promise in its entirety (not merely partially or defectively).",
+          "The promisee then has the option to put an end to the contract.",
+          "That option is lost only if the promisee signifies, by words or conduct, acquiescence in the contract's continuance."
+        ],
+        "exceptions_and_qualifications": [
+          "Even where the promisee acquiesces and keeps the contract alive (illustration (b)), he does not thereby forfeit his right to compensation for the damage already caused by the earlier breach."
+        ],
+        "how_to_read": "This is the origin of the \"affirm or terminate\" election central to breach-of-contract practice — the moment of refusal/disablement gives the innocent party a choice, and continued acceptance of performance (as in illustration (b)) is conduct that can waive the termination right, so advise clients to expressly reserve rights to damages if they choose to continue accepting performance after a breach, rather than staying silent."
+      }
+    },
+    {
+      "number": "40",
+      "title": "Person by whom promise is to be performed",
+      "raw_text": "40. Person by whom promise is to be performed.—If it appears from the nature of the case that it was the intention of the parties to any contract that any promise contained in it should be performed by the promisor himself, such promise must be performed by the promisor. In other cases, the promisor or his representatives may employ a competent person to perform it.\n\nIllustrations\n\n(a) A promises to pay B a sum of money. A may perform this promise, either by personally paying the money to B or by causing it to be paid to B by another; and, if A dies before the time appointed for payment, his representatives must perform the promise, or employ some proper person to do so.\n\n(b) A promises to paint a picture for B. A must perform this promise personally.",
+      "key_terms": [
+        "performance",
+        "representatives"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 40 decides who may actually carry out a promised performance: where the parties intended personal performance by the promisor (judged from the nature of the promise), only the promisor himself can perform it; otherwise the promisor or his representatives are free to delegate performance to any competent person.",
+        "essential_elements": [
+          "Determine, from the nature of the contract, whether personal performance by the promisor was intended.",
+          "If so, the promisor alone can validly perform (delegation is not permitted).",
+          "If not, the promisor (or his representatives, after his death) may employ any competent person to perform on his behalf."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section supplies the general delegability rule that Section 37's survivorship rule (illustrations (a) vs. (b)) ultimately rests on — contrast a purely financial obligation (delegable, survives death) against a promise resting on personal skill or judgment like painting a picture (non-delegable, dies with the promisor)."
+      }
+    },
+    {
+      "number": "41",
+      "title": "Effect of accepting performance from third person",
+      "raw_text": "41. Effect of accepting performance from third person.—When a promisee accepts performance of the promise from a third person, he cannot afterwards enforce it against the promisor.",
+      "key_terms": [
+        "performance"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 41 is a short but consequential rule: once a promisee knowingly accepts performance from someone other than the promisor, he is barred from later turning around and suing the promisor for the same performance — acceptance from the third party discharges the promisor entirely.",
+        "essential_elements": [
+          "A third person (not the promisor) performs the promise.",
+          "The promisee accepts that performance.",
+          "The promisee is thereafter barred from enforcing the same promise against the original promisor."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is frequently pleaded as a defence of discharge — if a defendant can show the claimant already accepted equivalent performance from someone else (e.g. a third party paid the debt on the defendant's behalf and the creditor took the money), that alone defeats a fresh claim against the original promisor for the identical obligation."
+      }
+    },
+    {
+      "number": "42",
+      "title": "Devolution of joint liabilities",
+      "raw_text": "42. Devolution of joint liabilities.—When two or more persons have made a joint promise, then, unless a contrary intention appears by the contract, all such persons, during their joint lives, and, after the death of any of them, his representative jointly with the survivor or survivors, and, after the death of the last survivor, the representatives of all jointly, must fulfil the promise.",
+      "key_terms": [
+        "joint promise",
+        "representatives"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 42 fixes the default rule for how a joint promise (made by two or more promisors together) survives the death of any of them: the obligation passes down a defined chain — surviving joint promisors together with the deceased's representative, and eventually to the joint representatives of all once every original promisor has died — unless the contract itself says otherwise.",
+        "essential_elements": [
+          "Two or more persons made a joint promise.",
+          "During their joint lives, all of them together must fulfil it.",
+          "After any one dies, his representative steps in jointly with the survivor(s).",
+          "After the last survivor dies, the representatives of all the original promisors must jointly fulfil the promise."
+        ],
+        "exceptions_and_qualifications": [
+          "This entire devolution scheme applies only in default of a contrary intention appearing from the contract — parties can and often do contract around it."
+        ],
+        "how_to_read": "Section 42 supplies the background default; Section 43 then tells you what the promisee can actually do about it in practice (compel any one joint promisor for the whole). Always check the contract's own wording first for language addressing survivorship (e.g. \"joint and several\" clauses) before falling back on this default rule."
+      }
+    },
+    {
+      "number": "43",
+      "title": "Any one of joint promisors may be compelled to perform",
+      "raw_text": "43. Any one of joint promisors may be compelled to perform.—When two or more persons make a joint promise, the promisee may, in the absence of express agreement to the contrary, compel any one or more of such joint promisors to perform the whole of the promise.\n\nEach promisor may compel contribution.—Each of two or more joint promisors may compel every other joint promisor to contribute equally with himself to the performance of the promise, unless a contrary intention appears from the contract.\n\nSharing of loss by default in contribution.—If any one of two or more joint promisors makes default in such contribution, the remaining joint promisors must bear the loss arising from such default in equal shares.\n\nExplanation.—Nothing in this section shall prevent a surety from recovering from his principal, payments made by the surety on behalf of the principal, or entitle the principal to recover anything from the surety on account of payments made by the principal.\n\nIllustrations\n\n(a) A, B and C jointly promise to pay D 3,000 rupees. D may compel either A or B or C to pay him 3,000 rupees.\n\n(b) A, B and C jointly promise to pay D the sum of 3,000 rupees. C is compelled to pay the whole. A is insolvent, but his assets are sufficient to pay one-half of his debts. C is entitled to receive 500 rupees from A's estate, and 1,250 rupees from B.\n\n(c) A, B and C are under a joint promise to pay D 3,000 rupees. C is unable to pay anything, and A is compelled to pay the whole. A is entitled to receive 1,500 rupees from B.\n\n(d) A, B and C are under a joint promise to pay D 3,000 rupees, A and B being only sureties for C. C fails to pay. A and B are compelled to pay the whole sum. They are entitled to recover it from C.",
+      "key_terms": [
+        "joint promise",
+        "contribution",
+        "surety"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 43 gives joint promisors' liability real teeth: the promisee can force any single joint promisor to pay the whole debt (not just his proportionate share), and that promisor can then recover equal contribution from his co-promisors — with any shortfall from an insolvent co-promisor shared equally among the rest, and a special saving for sureties, who can still recover in full from their principal.",
+        "essential_elements": [
+          "Two or more persons made a joint promise (no express agreement to the contrary).",
+          "The promisee can compel any one or more of them to perform the whole promise.",
+          "The promisor who pays can then compel equal contribution from the other joint promisors.",
+          "If a co-promisor defaults on contribution, the loss from that default is shared equally among the remaining promisors.",
+          "A surety among the joint promisors can still recover in full from his principal (and the principal cannot claim contribution from the surety)."
+        ],
+        "exceptions_and_qualifications": [
+          "All of this operates only in the absence of an express agreement to the contrary — parties can contractually limit liability to several (proportionate) shares instead."
+        ],
+        "how_to_read": "Illustrations (b) and (c) together demonstrate the loss-sharing mechanics precisely — work through them numerically when advising a client on exposure as a joint promisor, since the \"equal shares\" default can produce non-intuitive results when one co-promisor is insolvent. Illustration (d) and the Explanation flag the separate surety relationship, which this section deliberately preserves rather than folding into the ordinary contribution rule (see also Sections 140 and 145 on a surety's rights)."
+      }
+    },
+    {
+      "number": "44",
+      "title": "Effect of release of one joint promisor",
+      "raw_text": "44. Effect of release of one joint promisor.—Where two or more persons have made a joint promise, a release of one of such joint promisors by the promisee does not discharge the other joint promisor or joint promisors; neither does it free the joint promisor so released from responsibility to the other joint promisor or joint promisors.",
+      "key_terms": [
+        "joint promise",
+        "release"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 44 protects the promisee's and the co-promisors' positions when one joint promisor is released: releasing one promisor does not let the others off the hook, and — just as importantly — the released promisor still remains answerable to his co-promisors for his share of contribution, even though the promisee can no longer sue him directly.",
+        "essential_elements": [
+          "Two or more persons made a joint promise.",
+          "The promisee releases one of them from liability.",
+          "The remaining joint promisor(s) are not thereby discharged — they remain fully liable to the promisee.",
+          "The released promisor remains liable to his co-promisors for contribution, despite being released from the promisee's claim."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section prevents a promisee's release of one debtor from becoming a windfall escape route for that debtor's contribution obligations to his co-debtors — when negotiating a release/settlement with one of several joint obligors, always flag to the client that the release does not, by itself, resolve the released party's internal contribution liability to the others."
+      }
+    },
+    {
+      "number": "45",
+      "title": "Devolution of joint rights",
+      "raw_text": "45. Devolution of joint rights.—When a person has made a promise to two or more persons jointly, then, unless a contrary intention appears from the contract, the right to claim performance rests, as between him and them, with them during their joint lives, and, after the death of any of them, with the representative of such deceased person jointly with the survivor or survivors, and, after the death of the last survivor, with the representatives of all jointly.\n\nIllustration\n\nA, in consideration of 5,000 rupees, lent to him by B and C, promises B and C jointly to repay them that sum with interest on a day specified. B dies. The right to claim performance rests with B's representative jointly with C during C's life, and after the death of C with the representatives of B and C jointly.",
+      "key_terms": [
+        "joint promise",
+        "representatives"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 45 is the mirror image of Section 42, applied to the right side of a joint promise rather than the liability side: when a promise is made to two or more persons jointly, the right to enforce it survives death along the same chain — joint promisees together, then a deceased promisee's representative jointly with the survivors, and eventually the joint representatives of all.",
+        "essential_elements": [
+          "A promise was made to two or more persons jointly.",
+          "During their joint lives, the right to claim performance rests with them together.",
+          "After any one dies, his representative holds the right jointly with the survivor(s).",
+          "After the last survivor dies, the representatives of all the original promisees hold the right jointly."
+        ],
+        "exceptions_and_qualifications": [
+          "This default devolution scheme applies unless a contrary intention appears from the contract."
+        ],
+        "how_to_read": "Sections 42 and 45 are a deliberate mirror pair — liabilities (42) and rights (45) devolve identically down a joint-representative chain. When a joint obligee dies mid-contract (as in the illustration), always join the deceased's representative together with the surviving obligee(s) in any suit to enforce performance; suing in the survivor's name alone is technically incomplete."
+      }
+    },
+    {
+      "number": "46",
+      "title": "Time for performance of promise, when no application is to be made and no time is specified",
+      "raw_text": "46. Time for performance of promise, when no application is to be made and no time is specified.—Where, by the contract, a promisor is to perform his promise without application by the promisee, and no time for performance is specified, the engagement must be performed within a reasonable time.\n\nExplanation.—The question \"what is a reasonable time\" is, in each particular case, a question of fact.",
+      "key_terms": [
+        "reasonable time"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 46 fills the gap left when a contract requires no demand from the promisee and fixes no deadline: the law implies a \"reasonable time\" requirement instead, with the Explanation making clear this is always a factual question, assessed against the specific contract's circumstances rather than any fixed legal period.",
+        "essential_elements": [
+          "The promisor is to perform without any application/demand by the promisee.",
+          "No time for performance is specified in the contract.",
+          "Performance must then occur within a reasonable time, assessed as a question of fact."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "\"Reasonable time\" recurs across this chapter (also in Section 6(2) for lapse of a proposal) and is always evidence-driven — plead and lead evidence on trade custom, the nature of the subject matter, and the parties' prior dealings, rather than arguing for an abstract fixed period, since courts decide this issue case by case."
+      }
+    },
+    {
+      "number": "47",
+      "title": "Time and place for performance of promise, where time is specified and no application to be made",
+      "raw_text": "47. Time and place for performance of promise, where time is specified and no application to be made.—When a promise is to be performed on a certain day, and the promisor has undertaken to perform it without application by the promisee, the promisor may perform it at any time during the usual hours of business on such day and at the place at which the promise ought to be performed.\n\nIllustration\n\nA promises to deliver goods at B's warehouse on the first January. On that day A brings the goods to B's warehouse, but after the usual hour for closing it, and they are not received. A has not performed his promise.",
+      "key_terms": [
+        "performance"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 47 narrows \"on a certain day\" performance to the usual business hours of that day at the proper place — showing up after closing hours, even if technically still on the correct calendar date, is not valid performance, as the illustration makes explicit.",
+        "essential_elements": [
+          "The promise is to be performed on a specified day.",
+          "The promisor need not wait for the promisee's application/demand.",
+          "Performance must occur during the usual hours of business on that day, at the proper place."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The illustration is a direct warning against last-minute or after-hours \"performance\" — a party tendering performance close to a deadline should build in a margin within ordinary business hours, since late-in-the-day delivery outside business hours is treated in law exactly as non-performance on that date."
+      }
+    },
+    {
+      "number": "48",
+      "title": "Application for performance on certain day to be at proper time and place",
+      "raw_text": "48. Application for performance on certain day to be at proper time and place.—When a promise is to be performed on a certain day, and the promisor has not undertaken to perform it without application by the promisee, it is the duty of the promisee to apply for performance at a proper place and within the usual hours of business.\n\nExplanation.—The question \"what is a proper time and place\" is, in each particular case, a question of fact.",
+      "key_terms": [
+        "performance"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 48 is the promisee-side counterpart to Section 47: where the promisor has not undertaken to perform without being asked, the burden shifts to the promisee to actually apply for performance, and to do so at a proper place and within usual business hours — again a fact-specific inquiry per the Explanation.",
+        "essential_elements": [
+          "The promise is to be performed on a certain day.",
+          "The promisor has not undertaken to perform without an application from the promisee.",
+          "The promisee must then apply for performance at a proper place and within usual business hours."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 46-49 form a coherent scheme allocating the burden of initiating performance — always check first whether the contract obliges the promisor to perform proactively (Section 47) or requires the promisee to apply/demand it (Section 48), since a promisee's failure to apply under Section 48 can itself be a defence to a claim of non-performance."
+      }
+    },
+    {
+      "number": "49",
+      "title": "Place for performance of promise, where no application to be made and no place fixed for performance",
+      "raw_text": "49. Place for performance of promise, where no application to be made and no place fixed for performance.—When a promise is to be performed without application by the promisee, and no place is fixed for the performance of it, it is the duty of the promisor to apply to the promisee to appoint a reasonable place for the performance of the promise, and to perform it at such place.\n\nIllustration\n\nA undertakes to deliver a thousand maunds of jute to B on a fixed day. A must apply to B to appoint a reasonable place for the purpose of receiving it, and must deliver it to him at such place.",
+      "key_terms": [
+        "performance"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 49 fills the gap where a contract requires no demand from the promisee but also fixes no place for performance: the promisor must proactively ask the promisee to nominate a reasonable place, and then perform there — the initiative-taking burden matches Section 47's pattern (promisor performs proactively) but adds the missing place through a nomination request.",
+        "essential_elements": [
+          "Performance is due without application by the promisee.",
+          "No place is fixed for performance in the contract.",
+          "The promisor must apply to the promisee to appoint a reasonable place, and perform there."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A promisor cannot simply sit on an undated, place-less obligation and later claim the promisee never told him where to perform — Section 49 places the burden of initiating the place-fixing process on the promisor himself, so failure to make this application can itself amount to non-performance."
+      }
+    },
+    {
+      "number": "50",
+      "title": "Performance in manner or at time prescribed or sanctioned by promisee",
+      "raw_text": "50. Performance in manner or at time prescribed or sanctioned by promisee.—The performance of any promise may be made in any manner, or at any time which the promisee prescribes or sanctions.\n\nIllustrations\n\n(a) B owes A 2,000 rupees. A desires B to pay the amount to A's account with C, a banker. B, who also banks with C, orders the amount to be transferred from his account to A's credit, and this is done by C. Afterwards, and before A knows of the transfer, C fails. There has been a good payment by B.\n\n(b) A and B are mutually indebted. A and B settle an account by setting off one item against another, and B pays A the balance found to be due from him upon such settlement. This amounts to a payment by A and B, respectively, of the sums which they owed to each other.\n\n(c) A owes B 2,000 rupees. B accepts some of A's goods in reduction of the debt. The delivery of goods operates as a part payment.\n\n(d) A desires B, who owes him Rs. 100, to send him a note for Rs. 100 by post. The debt is discharged as soon as B puts into the post a letter containing the note duly addressed to A.",
+      "key_terms": [
+        "performance"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 50 lets the promisee override the default time/manner/place rules of Sections 46-49 simply by prescribing or sanctioning a different mode of performance — once the promisee directs or approves a particular manner (bank transfer, set-off, goods in lieu of cash, posting a note), performance in that manner discharges the promisor, even if something later goes wrong through no fault of the promisor (illustration (a), the banker's failure after a good transfer).",
+        "essential_elements": [
+          "The promisee prescribes, or sanctions, a particular manner or time of performance.",
+          "The promisor performs accordingly.",
+          "That performance is valid and discharges the obligation, displacing the Section 46-49 default rules."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Illustration (a) is a key risk-allocation point: once the promisee-directed mode of payment is completed on the promisor's end (the transfer to the promisee's account with the banker), any subsequent loss (the banker's failure) falls on the promisee, not the promisor — advise clients that directing a specific payment channel shifts post-performance risk onto the party who chose that channel."
       }
     }
   ]
