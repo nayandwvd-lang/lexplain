@@ -65,7 +65,20 @@
     "release": "A promisee's act of giving up or discharging his claim against one of several parties who owe him an obligation.",
     "reasonable time": "A flexible, fact-specific standard used when a contract fixes no deadline for performance — determined by the nature of the obligation, trade custom, and the parties' circumstances, not a fixed legal period.",
     "agreement": "Every promise, or set of reciprocal promises, forming the consideration for each other — the broader category of which a legally enforceable \"contract\" is a subset (Section 2(e), (h)).",
-    "mistake": "An erroneous belief held by one or both parties about a fact or law relevant to the agreement at the time of contracting — see \"mistake of fact\" and \"mistake of law\" for how the Act treats each differently."
+    "mistake": "An erroneous belief held by one or both parties about a fact or law relevant to the agreement at the time of contracting — see \"mistake of fact\" and \"mistake of law\" for how the Act treats each differently.",
+    "time is of the essence": "A contractual term meaning that a stated deadline for performance is strictly binding — missing it entitles the innocent party to treat the contract as voidable, rather than merely claim compensation for delay.",
+    "impossibility": "A supervening event, occurring after a contract is validly made, that renders the promised performance impossible or unlawful — this doctrine (sometimes called frustration) can render the contract void from the point impossibility arises.",
+    "novation": "Substituting an entirely new contract for an existing one — often by replacing one of the original parties with a new party — by mutual agreement of everyone involved, discharging the original contract.",
+    "rescission": "Cancelling or setting aside a contract, either because it is voidable at one party's option, or by the parties' mutual agreement, so that it no longer needs to be performed.",
+    "restitution": "Restoring a benefit received under a contract or agreement (or paying its value) to the person from whom it was received, typically because the underlying agreement is void, voidable and rescinded, or otherwise unenforceable.",
+    "appropriation of payment": "The process of deciding which of several debts owed by the same debtor to the same creditor a particular payment is credited against.",
+    "quasi-contract": "An obligation the law imposes on a person even though no real contract exists between the parties, in order to prevent one person from being unjustly enriched at another's expense.",
+    "necessaries": "Goods or services suited to a person's actual condition and station in life that are reasonably essential for his (or his dependants') support — a special category relevant when supplied to a person legally incapable of contracting.",
+    "bailee": "A person to whom goods are delivered by another (the bailor) for some purpose, under a contract that the goods will be returned or disposed of as directed once that purpose is accomplished.",
+    "penalty": "A sum of money, or other stipulation, named in a contract as payable on breach that is not a genuine pre-estimate of loss but is intended to punish or deter the defaulting party — Indian law caps recovery under such a clause at reasonable compensation, regardless of the sum named.",
+    "liquidated damages": "A sum fixed in advance by the contracting parties as the compensation payable on a specified breach — under Section 74, Indian courts treat this the same as a penalty clause and award only reasonable compensation up to that sum.",
+    "remote and indirect loss": "Loss or damage flowing from a breach of contract that is too distant, speculative, or indirect a consequence of the breach to be recoverable as compensation under Section 73.",
+    "compensation": "A monetary payment awarded to make good the loss or damage a party has suffered — whether from breach of contract, a quasi-contractual obligation, or another party's default."
   },
   "sections": [
     {
@@ -1099,6 +1112,499 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Illustration (a) is a key risk-allocation point: once the promisee-directed mode of payment is completed on the promisor's end (the transfer to the promisee's account with the banker), any subsequent loss (the banker's failure) falls on the promisee, not the promisor — advise clients that directing a specific payment channel shifts post-performance risk onto the party who chose that channel."
+      }
+    },
+    {
+      "number": "51",
+      "title": "Promisor not bound to perform, unless reciprocal promisee ready and willing to perform",
+      "raw_text": "51. Promisor not bound to perform, unless reciprocal promisee ready and willing to perform.—When a contract consists of reciprocal promises to be simultaneously performed, no promisor need perform his promise unless the promisee is ready and willing to perform his reciprocal promise.\n\nIllustrations\n\n(a) A and B contract that A shall deliver goods to B to be paid for by B on delivery. A need not deliver the goods, unless B is ready and willing to pay for the goods on delivery. B need not pay for the goods, unless A is ready and willing to deliver them on payment.\n\n(b) A and B contract that A shall deliver goods to B at a price to be paid by instalments, the first instalment to be paid on delivery. A need not deliver, unless B is ready and willing to pay the first instalment on delivery. B need not pay the first instalment, unless A is ready and willing to deliver the goods on payment of the first instalment.",
+      "key_terms": [
+        "reciprocal promises"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 51 opens the sub-chapter on reciprocal promises (promises exchanged as the price of each other) meant to be performed simultaneously: neither side has to perform first — each promisor's obligation is conditional on the other being ready and willing to perform his own side at the same time.",
+        "essential_elements": [
+          "The contract consists of reciprocal promises.",
+          "Those promises are to be performed simultaneously.",
+          "A promisor need not perform unless the promisee is ready and willing to perform his own reciprocal promise."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "\"Ready and willing\" is a term of art carried into civil procedure generally (it recurs in specific performance pleadings): a party must plead and prove both financial/practical capacity (ready) and genuine intent (willing) to perform, not merely one or the other, before he can insist on the other side's performance."
+      }
+    },
+    {
+      "number": "52",
+      "title": "Order of performance of reciprocal promises",
+      "raw_text": "52. Order of performance of reciprocal promises.—Where the order in which reciprocal promises are to be performed is expressly fixed by the contract, they shall be performed in that order; and where the order is not expressly fixed by the contract, they shall be performed in that order which the nature of the transaction requires.\n\nIllustrations\n\n(a) A and B contract that A shall build a house for B at a fixed price. A's promise to build the house must be performed before B's promise to pay for it.\n\n(b) A and B contract that A shall make over his stock-in-trade to B at a fixed price, and B promises to give security for the payment of the money. A's promise need not be performed until the security is given, for the nature of the transaction requires that A should have security before he delivers up his stock.",
+      "key_terms": [
+        "reciprocal promises"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 52 fixes the sequencing rule for reciprocal promises that are not meant to be simultaneous: follow the order the contract expressly states, and if the contract is silent, follow whatever order the nature of the transaction itself demands (illustrations (a) and (b) show how the practical logic of the deal supplies the missing order).",
+        "essential_elements": [
+          "The contract contains reciprocal promises not meant to be performed simultaneously.",
+          "If the contract expressly fixes an order of performance, that order governs.",
+          "If the contract is silent on order, the order is determined by the nature of the transaction."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always check the contract's express terms first; only fall back on \"nature of the transaction\" reasoning (as in illustration (b), where security logically precedes handover) when the contract itself is truly silent — do not import an inferred order where the parties have already specified one."
+      }
+    },
+    {
+      "number": "53",
+      "title": "Liability of party preventing event on which the contract is to take effect",
+      "raw_text": "53. Liability of party preventing event on which the contract is to take effect.—When a contract contains reciprocal promises, and one party to the contract prevents the other from performing his promise, the contract becomes voidable at the option of the party so prevented; and he is entitled to compensation from the other party for any loss which he may sustain in consequence of the non-performance of the contract.\n\nIllustration\n\nA and B contract that B shall execute certain work for A for a thousand rupees. B is ready and willing to execute the work accordingly, but A prevents him from doing so. The contract is voidable at the option of B; and, if he elects to rescind it, he is entitled to recover from A compensation for any loss which he has incurred by its non-performance.",
+      "key_terms": [
+        "reciprocal promises",
+        "voidable contract",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 53 penalises a party who himself obstructs the other side's performance: the contract becomes voidable at the option of the prevented party (he can elect to rescind or continue), and either way he is entitled to compensation for any loss caused by the resulting non-performance.",
+        "essential_elements": [
+          "The contract contains reciprocal promises.",
+          "One party prevents the other from performing his promise.",
+          "The contract becomes voidable at the option of the party so prevented.",
+          "The prevented party is entitled to compensation for loss sustained from the non-performance."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a straightforward application of the general principle that a party cannot take advantage of his own wrong — a defendant who blocks the claimant's performance and then complains the claimant did not perform will find Section 53 turned squarely against him; plead prevention specifically and quantify the resulting loss."
+      }
+    },
+    {
+      "number": "54",
+      "title": "Effect of default as to that promise which should be first performed, in contract consisting of reciprocal promises",
+      "raw_text": "54. Effect of default as to that promise which should be first performed, in contract consisting of reciprocal promises.—When a contract consists of reciprocal promises, such that one of them cannot be performed, or that its performance cannot be claimed till the other has been performed, and the promisor of the promise last mentioned fails to perform it, such promisor cannot claim the performance of the reciprocal promise, and must make compensation to the other party to the contract for any loss which such other party may sustain by the non-performance of the contract.\n\nIllustrations\n\n(a) A hires B's ship to take in and convey, from Calcutta to the Mauritius, a cargo to be provided by A, B receiving a certain freight for its conveyance. A does not provide any cargo for the ship. A cannot claim the performance of B's promise, and must make compensation to B for the loss which B sustains by the non-performance of the contract.\n\n(b) A contracts with B to execute certain builder's work for a fixed price, B supplying the scaffolding and timber necessary for the work. B refuses to furnish any scaffolding or timber, and the work cannot be executed. A need not execute the work, and B is bound to make compensation to A for any loss caused to him by the non-performance of the contract.\n\n(c) A contracts with B to deliver to him, at a specified price, certain merchandise on board a ship which cannot arrive for a month, and B engages to pay for the merchandise within a week from the date of the contract. B does not pay within the week. A's promise to deliver need not be performed, and B must make compensation.\n\n(d) A promises B to sell him one hundred bales of merchandise, to be delivered next day, and B promises A to pay for them within a month. A does not deliver according to his promise. B's promise to pay need not be performed, and A must make compensation.",
+      "key_terms": [
+        "reciprocal promises",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 54 handles sequential reciprocal promises where one promise must be performed before the other can even be claimed: if the promisor who was supposed to go first defaults, he loses his right to demand the other side's performance and must instead compensate the other party for the resulting loss.",
+        "essential_elements": [
+          "The contract has reciprocal promises in a required sequence — one cannot be performed, or claimed, until the other is performed first.",
+          "The promisor whose promise comes first fails to perform it.",
+          "He cannot claim performance of the other side's (later) reciprocal promise.",
+          "He must compensate the other party for any loss caused by the resulting non-performance."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 54 is Section 52's natural consequence: once you have determined (under Section 52) which promise must come first, Section 54 tells you what happens if that first promisor defaults — he forfeits his own claim to the other's performance and becomes liable in compensation instead; the four illustrations each show a different type of sequenced obligation (cargo before shipping, materials before work, payment before delivery, delivery before payment)."
+      }
+    },
+    {
+      "number": "55",
+      "title": "Effect of failure to perform at fixed time, in contract in which time is essential",
+      "raw_text": "55. Effect of failure to perform at fixed time, in contract in which time is essential.—When a party to a contract promises to do a certain thing at or before a specified time, or certain things at or before specified times, and fails to do any such thing at or before the specified time, the contract, or so much of it as has not been performed, becomes voidable at the option of the promisee, if the intention of the parties was that time should be of the essence of the contract.\n\nEffect of such failure when time is not essential.—If it was not the intention of the parties that time should be of the essence of the contract, the contract does not become voidable by the failure to do such thing at or before the specified time; but the promisee is entitled to compensation from the promisor for any loss occasioned to him by such failure.\n\nEffect of acceptance of performance at time other than that agreed upon.—If, in case of a contract voidable on account of the promisor's failure to perform his promise at the time agreed, the promisee accepts performance of such promise at any time other than that agreed, the promisee cannot claim compensation for any loss occasioned by the non-performance of the promise at the time agreed, unless, at the time of such acceptance, he gives notice to the promisor of his intention to do so.",
+      "key_terms": [
+        "time is of the essence",
+        "voidable contract",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 55 governs the classic \"time is of the essence\" question. If the parties intended strict timeliness, a missed deadline makes the contract voidable at the promisee's option. If timeliness was not essential, the contract survives a late performance, but the promisee can still claim compensation for the delay. And if the promisee later accepts a delayed performance, he loses his right to claim delay-compensation unless he expressly reserves that right by notice at the time of acceptance.",
+        "essential_elements": [
+          "A party promised to do something at or before a specified time.",
+          "He failed to do it by that time.",
+          "If time was intended to be of the essence, the contract (or the unperformed part) becomes voidable at the promisee's option.",
+          "If time was not of the essence, the contract survives, but the promisee can claim compensation for the delay.",
+          "Where the promisee later accepts late performance, he must give notice of his intention to claim delay-compensation at the time of acceptance, or he loses that claim."
+        ],
+        "exceptions_and_qualifications": [
+          "Whether time is \"of the essence\" is itself a question of the parties' intention, drawn from the contract's terms and the nature of the transaction — not automatically true just because a date is mentioned."
+        ],
+        "how_to_read": "This section is the single most litigated provision on commercial timeliness — always start by characterising whether time was of the essence on the specific facts (courts routinely hold it is NOT essential in contracts for sale of immovable property, absent clear words to the contrary) before reaching for the voidability remedy; and if your client accepts a late tender, insist that the acceptance notice expressly reserve the right to claim compensation, per the third paragraph's notice requirement."
+      }
+    },
+    {
+      "number": "56",
+      "title": "Agreement to do impossible act",
+      "raw_text": "56. Agreement to do impossible act.—An agreement to do an act impossible in itself is void.\n\nContract to do an act afterwards becoming impossible or unlawful.—A contract to do an act which, after the contract is made, becomes impossible, or, by reason of some event which the promisor could not prevent, unlawful, becomes void when the act becomes impossible or unlawful.\n\nCompensation for loss through non-performance of act known to be impossible or unlawful.—Where one person has promised to do something which he knew, or, with reasonable diligence, might have known, and which the promisee did not know, to be impossible or unlawful, such promisor must make compensation to such promisee for any loss which such promisee sustains through the non-performance of the promise.\n\nIllustrations\n\n(a) A agrees with B to discover treasure by magic. The agreement is void.\n\n(b) A and B contract to marry each other. Before the time fixed for the marriage, A goes mad. The contract becomes void.\n\n(c) A contracts to marry B, being already married to C, and being forbidden by the law to which he is subject to practise polygamy, A must make compensation to B for the loss caused to her by the non-performance of his promise.\n\n(d) A contracts to take in cargo for B at a foreign port. A's Government afterwards declares war against the country in which the port is situated. The contract becomes void when war is declared.\n\n(e) A contracts to act at a theatre for six months in consideration of a sum paid in advance by B. On several occasions A is too ill to act. The contract to act on those occasions becomes void.",
+      "key_terms": [
+        "void",
+        "impossibility",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 56 codifies the doctrine of frustration/impossibility in three limbs: (1) an agreement impossible from the very outset is void from birth; (2) a contract that becomes impossible or unlawful later, through no fault of the promisor, becomes void at that point (subsequent/supervening impossibility); and (3) if a promisor knew (or should have known) of the impossibility while the promisee did not, the promisor must still compensate the promisee, even though the underlying agreement is void.",
+        "essential_elements": [
+          "Limb 1: the act promised was impossible at the very time of agreement — void ab initio (illustration (a)).",
+          "Limb 2: the act was possible when contracted, but later becomes impossible or unlawful due to an event the promisor could not prevent — void from that later point (illustrations (b), (d), (e)).",
+          "Limb 3: the promisor knew, or with reasonable diligence could have known, the act was impossible/unlawful, while the promisee did not know — the promisor must compensate the promisee despite the agreement being void."
+        ],
+        "exceptions_and_qualifications": [
+          "Limb 2's voidness only applies where the supervening impossibility/unlawfulness arises from an event the promisor could not prevent — self-induced impossibility does not attract this protection."
+        ],
+        "how_to_read": "This is the Act's codification of what English common law calls \"frustration of contract\" — always identify which of the three limbs applies: initial impossibility (limb 1, no compensation at all since neither party could have known), supervening impossibility (limb 2, prospective voidness only), or one-sided knowledge of impossibility (limb 3, compensation despite voidness, effectively a damages claim resting on implied misrepresentation of capacity to perform)."
+      }
+    },
+    {
+      "number": "57",
+      "title": "Reciprocal promise to do things legal, and also other things illegal",
+      "raw_text": "57. Reciprocal promise to do things legal, and also other things illegal.—Where persons reciprocally promise, firstly, to do certain things which are legal, and, secondly, under specified circumstances, to do certain other things which are illegal, the first set of promises is a contract, but the second is a void agreement.\n\nIllustration\n\nA and B agree that A shall sell B a house for 10,000 rupees, but that, if B uses it as a gambling house, he shall pay A 50,000 rupees for it. The first set of reciprocal promises, namely, to sell the house and to pay 10,000 rupees for it, is a contract. The second set is for an unlawful object, namely, that B may use the house as a gambling house, and is a void agreement.",
+      "key_terms": [
+        "reciprocal promises",
+        "void"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 57 lets a single instrument be severed into its lawful and unlawful parts: where reciprocal promises bundle a legal transaction together with a conditional, illegal one, the legal part stands as an enforceable contract while the illegal part is simply void and unenforceable — the illegality does not automatically contaminate the whole instrument.",
+        "essential_elements": [
+          "Persons reciprocally promise to do certain lawful things, and also, under specified circumstances, certain unlawful things.",
+          "The lawful set of promises is treated as a valid, enforceable contract.",
+          "The unlawful set of promises is a void agreement, unenforceable on its own."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 57 is a severability rule — always separate a composite bargain into its lawful and unlawful strands before advising on enforceability; the illustration's gambling-house penalty clause is the classic example of an unlawful \"sweetener\" riding on an otherwise valid sale, and only the sweetener falls away."
+      }
+    },
+    {
+      "number": "58",
+      "title": "Alternative promise, one branch being illegal",
+      "raw_text": "58. Alternative promise, one branch being illegal.—In the case of an alternative promise, one branch of which is legal and the other illegal, the legal branch alone can be enforced.\n\nIllustration\n\nA and B agree that A shall pay B 1,000 rupees, for which B shall afterwards deliver to A either rice or smuggled opium. This is a valid contract to deliver rice, and a void agreement as to the opium.",
+      "key_terms": [
+        "void"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 58 applies the same severability logic as Section 57 to an alternative promise (a single promise offering a choice between two ways of performing): if one branch of the alternative is legal and the other illegal, only the legal branch can be enforced — the illegal branch simply drops away rather than voiding the whole bargain.",
+        "essential_elements": [
+          "A single promise offers alternative modes of performance.",
+          "One branch/mode of that alternative is legal; the other is illegal.",
+          "Only the legal branch can be enforced."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 57 and 58 form a natural pair (severability of reciprocal promises vs. severability of a single alternative promise) — in both, the guiding principle is the same: courts enforce what can lawfully be enforced and simply strike out what cannot, rather than voiding the entire bargain for partial illegality."
+      }
+    },
+    {
+      "number": "59",
+      "title": "Application of payment where debt to be discharged is indicated",
+      "raw_text": "59. Application of payment where debt to be discharged is indicated.—Where a debtor, owing several distinct debts to one person, makes a payment to him, either with express intimation, or under circumstances implying, that the payment is to be applied to the discharge of some particular debt, the payment, if accepted, must be applied accordingly.\n\nIllustrations\n\n(a) A owes B, among other debts, 1,000 rupees upon a promissory note which falls due on the first June. He owes B no other debt of that amount. On the first June, A pays to B 1,000 rupees. The payment is to be applied to the discharge of the promissory note.\n\n(b) A owes to B, among other debts, the sum of 567 rupees. B writes to A and demands payment of this sum. A sends to B 567 rupees. This payment is to be applied to the discharge of the debt of which B had demanded payment.",
+      "key_terms": [
+        "appropriation of payment"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 59 opens the \"appropriation of payments\" sub-chapter, governing which of several debts a payment is credited against: where the debtor makes his intention clear — expressly or through the surrounding circumstances — about which particular debt he is paying, and the creditor accepts the payment, it must be applied to that specific debt.",
+        "essential_elements": [
+          "A debtor owes several distinct debts to the same creditor.",
+          "He makes a payment with express intimation, or under circumstances implying, that it is meant for a particular debt.",
+          "The creditor accepts the payment.",
+          "The payment must then be applied to discharge that particular debt."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 59-61 form a clear decision tree for appropriation of payments: first ask whether the debtor indicated (expressly or by clear implication) which debt he is paying (Section 59) — if not, the creditor gets to choose (Section 60) — and if neither party appropriates, the law applies a default chronological rule (Section 61). Always establish which of the three sections governs before assuming a payment discharges any particular debt."
+      }
+    },
+    {
+      "number": "60",
+      "title": "Application of payment where debt to be discharged is not indicated",
+      "raw_text": "60. Application of payment where debt to be discharged is not indicated.—Where the debtor has omitted to intimate and there are no other circumstances indicating to which debt the payment is to be applied, the creditor may apply it at his discretion to any lawful debt actually due and payable to him from the debtor, whether its recovery is or is not barred by the law in force for the time being as to the limitation of suits.",
+      "key_terms": [
+        "appropriation of payment"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 60 hands the discretion to the creditor when the debtor gives no indication of which debt a payment should discharge: the creditor may apply the payment to any lawful debt actually due, and — notably — this includes even a time-barred debt (one that could no longer be sued upon), so long as it is a genuine, lawful debt.",
+        "essential_elements": [
+          "The debtor has not indicated, expressly or by implication, which debt the payment is meant for.",
+          "The creditor may then apply the payment, at his own discretion, to any lawful debt actually due and payable.",
+          "This discretion extends even to a debt whose recovery by suit would otherwise be barred by limitation."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The limitation-barred-debt rule is the sharpest practical point here: a creditor holding several debts from the same debtor, one of which is time-barred, can lawfully apply an unallocated payment to revive value from the time-barred debt first — debtors who want to control where their money goes must say so at the time of payment (triggering Section 59 instead), not leave it to the creditor's discretion."
+      }
+    },
+    {
+      "number": "61",
+      "title": "Application of payment where neither party appropriates",
+      "raw_text": "61. Application of payment where neither party appropriates.—Where neither party makes any appropriation, the payment shall be applied in discharge of the debts in order of time, whether they are or are not barred by the law in force for the time being as to the limitation of suits. If the debts are of equal standing, the payment shall be applied in discharge of each proportionably.",
+      "key_terms": [
+        "appropriation of payment"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 61 is the final default rule in the appropriation chain, triggered only when neither the debtor nor the creditor has appropriated a payment to any particular debt: the law itself appropriates it chronologically, applying it to the oldest debts first (again regardless of limitation), and splitting proportionately among debts of equal age.",
+        "essential_elements": [
+          "Neither the debtor nor the creditor has appropriated the payment to any particular debt.",
+          "The payment is applied to the debts in order of time, oldest first, regardless of limitation.",
+          "If two or more debts are of equal standing (same age), the payment is divided among them proportionately."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the residual, automatic rule — it only kicks in once you have ruled out Sections 59 (debtor indicated) and 60 (creditor chose) applying; in practice, litigants should always appropriate a disputed payment explicitly (in a covering letter or receipt) rather than leaving the chronological default of Section 61 to operate, since it may not match either party's actual preference."
+      }
+    },
+    {
+      "number": "62",
+      "title": "Effect of novation, rescission, and alteration of contract",
+      "raw_text": "62. Effect of novation, rescission, and alteration of contract.—If the parties to a contract agree to substitute a new contract for it, or to rescind or alter it, the original contract need not be performed.\n\nIllustrations\n\n(a) A owes money to B under a contract. It is agreed between A, B and C that B shall thenceforth accept C as his debtor, instead of A. The old debt of A to B is at an end, and a new debt from C to B has been contracted.\n\n(b) A owes B 10,000 rupees. A enters into an arrangement with B and gives B a mortgage of his (A's) estate for 5,000 rupees in place of the debt of 10,000 rupees. This is a new contract and extinguishes the old.\n\n(c) A owes B 1,000 rupees under a contract. B owes C 1,000 rupees. B orders A to credit C with 1,000 rupees in his books, but C does not assent to the arrangement. B still owes C 1,000 rupees, and no new contract has been entered into.",
+      "key_terms": [
+        "novation",
+        "rescission"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 62 recognises three distinct ways parties can consensually discharge an existing contract without performing it: novation (substituting an entirely new contract, possibly with a new party as in illustration (a)), rescission (cancelling it outright), or alteration (varying its terms, as in illustration (b)) — in every case, mutual agreement lets the parties walk away from the original obligation.",
+        "essential_elements": [
+          "There is an existing contract between the parties.",
+          "The parties mutually agree to substitute a new contract for it (novation), OR to rescind it, OR to alter its terms.",
+          "Once such agreement is reached, the original contract need not be performed."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Illustration (c) is the critical negative example: novation involving a new party (substituting C for A as debtor) requires the assent of ALL parties involved, including the incoming party — B's unilateral instruction to credit C, without C's assent, changes nothing and the original debt between A and B (and separately between B and C) survives untouched. Always verify tripartite consent before treating a purported substitution-of-debtor as effective."
+      }
+    },
+    {
+      "number": "63",
+      "title": "Promisee may dispense with or remit performance of promise",
+      "raw_text": "63. Promisee may dispense with or remit performance of promise.—Every promisee may dispense with or remit, wholly or in part, the performance of the promise made to him, or may extend the time for such performance, or may accept instead of it any satisfaction which he thinks fit.\n\nIllustrations\n\n(a) A promises to paint a picture for B. B afterwards forbids him to do so. A is no longer bound to perform the promise.\n\n(b) A owes B 5,000 rupees. A pays to B, and B accepts, in satisfaction of the whole debt, 2,000 rupees paid at the time and place at which the 5,000 rupees were payable. The whole debt is discharged.\n\n(c) A owes B 5,000 rupees. C pays to B 1,000 rupees, and B accepts them, in satisfaction of his claim on A. This payment is a discharge of the whole claim.\n\n(d) A owes B, under a contract, a sum of money, the amount of which has not been ascertained. A, without ascertaining the amount, gives to B, and B, in satisfaction thereof, accepts, the sum of 2,000 rupees. This is a discharge of the whole debt, whatever may be its amount.\n\n(e) A owes B 2,000 rupees, and is also indebted to other creditors. A makes an arrangement with his creditors, including B, to pay them a composition of eight annas in the rupee upon their respective demands. Payment to B of 1,000 rupees is a discharge of B's demand.",
+      "key_terms": [
+        "performance",
+        "promisee"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 63 gives the promisee wide freedom to unilaterally let the promisor off the hook, in whole or in part: he may waive performance altogether, extend the deadline, or accept some other form of satisfaction he considers adequate (even something worth less than the original promise, illustrations (b)-(e)) — and once he does, the promisor is discharged accordingly, with no fresh consideration required from the promisor's side for this discharge.",
+        "essential_elements": [
+          "There is a promise owed to the promisee.",
+          "The promisee may dispense with performance entirely, remit part of it, extend the time for performance, or accept a different satisfaction in its place.",
+          "Whatever the promisee chooses, once accepted, the promisor's original obligation is discharged to that extent."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is the Act's answer to the common-law puzzle of accepting part-payment in full satisfaction of a larger debt (illustration (b)) — under Indian law this is expressly valid without needing separate consideration for the promisor's benefit, unlike the stricter English \"rule in Pinnel's Case\" position; illustration (c) further confirms even a third party's part-payment, if accepted by the creditor in full satisfaction, discharges the whole claim."
+      }
+    },
+    {
+      "number": "64",
+      "title": "Consequences of rescission of voidable contract",
+      "raw_text": "64. Consequences of rescission of voidable contract.—When a person at whose option a contract is voidable rescinds it, the other party thereto need not perform any promise therein contained in which he is promisor. The party rescinding a voidable contract shall, if he have received any benefit thereunder from another party to such contract, restore such benefit, so far as may be, to the person from whom it was received.",
+      "key_terms": [
+        "voidable contract",
+        "rescission",
+        "restitution"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 64 spells out the mutual consequences once a voidable contract is actually rescinded by the party entitled to do so: the other party is released from his own obligations under it, but fairness cuts both ways — the rescinding party must also give back any benefit he had already received under the contract, so neither side is left unjustly enriched.",
+        "essential_elements": [
+          "A contract is voidable at the option of one party.",
+          "That party exercises the option and rescinds the contract.",
+          "The other party is then released from performing his own promises under the contract.",
+          "The rescinding party must restore, so far as possible, any benefit he had already received under the contract."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rescission under Section 64 is not a one-way escape hatch — always advise a client considering rescission of a voidable contract (e.g. one induced by fraud or coercion) that he must simultaneously restore whatever he has already received under it; this restitutionary obligation is frequently overlooked and can affect the practical value of pursuing rescission versus damages."
+      }
+    },
+    {
+      "number": "65",
+      "title": "Obligation of person who has received advantage under void agreement, or contract that becomes void",
+      "raw_text": "65. Obligation of person who has received advantage under void agreement, or contract that becomes void.—When an agreement is discovered to be void, or when a contract becomes void, any person who has received any advantage under such agreement or contract is bound to restore it, or to make compensation for it to the person from whom he received it.\n\nIllustrations\n\n(a) A pays B 1,000 rupees in consideration of B's promising to marry C, A's daughter. C is dead at the time of the promise. The agreement is void, but B must repay A the 1,000 rupees.\n\n(b) A contracts with B to deliver to him 250 maunds of rice before the first of May. A delivers 130 maunds only before that day, and none after. B retains the 130 maunds after the first of May. He is bound to pay A for them.\n\n(c) A, a singer, contracts with B, the manager of a theatre, to sing at his theatre for two nights in every week during the next two months, and B engages to pay her a hundred rupees for each night's performance. On the sixth night, A wilfully absents herself from the theatre, and B, in consequence, rescinds the contract. B must pay A for the five nights on which she had sung.\n\n(d) A contracts to sing for B at a concert for 1,000 rupees, which are paid in advance. A is too ill to sing. A is not bound to make compensation to B for the loss of the profits which B would have made if A had been able to sing, but must refund to B the 1,000 rupees paid in advance.",
+      "key_terms": [
+        "void",
+        "restitution",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 65 is the Act's general restitution rule for void agreements and contracts that later become void: anyone who has already received a benefit under such an agreement must give it back, or pay its value, to the person from whom he received it — this covers both agreements void from the outset (illustration (a)) and contracts validly formed but later becoming void (illustration (d)).",
+        "essential_elements": [
+          "An agreement is discovered to be void, OR a validly-formed contract subsequently becomes void.",
+          "A person has received some advantage/benefit under that agreement or contract.",
+          "He is bound to restore that advantage, or make compensation for it, to the person from whom he received it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 65 and Section 64 work together but are not identical — Section 64 governs a voidable contract actively rescinded by the party who had the option; Section 65 is broader and applies to agreements void from inception (no rescission needed — the law already treats it as void) and to contracts that become void by supervening impossibility under Section 56. Illustration (d) is a key exam point: no compensation for lost profit (since illness excuses non-performance) but the advance payment must still be refunded as restitution for an advantage received under a since-voided contract."
+      }
+    },
+    {
+      "number": "66",
+      "title": "Mode of communicating or revoking rescission of voidable contract",
+      "raw_text": "66. Mode of communicating or revoking rescission of voidable contract.—The rescission of a voidable contract may be communicated or revoked in the same manner, and subject to the same rules, as apply to the communication or revocation of a proposal.",
+      "key_terms": [
+        "voidable contract",
+        "rescission",
+        "revocation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 66 keeps the mechanics simple by cross-referring back to the proposal rules (Sections 3-5): communicating a decision to rescind a voidable contract, or revoking that rescission, follows exactly the same rules that govern how a proposal is communicated or revoked in the first place.",
+        "essential_elements": [
+          "A party wishes to communicate rescission of a voidable contract, or to revoke a rescission already communicated.",
+          "The same rules that govern communication/revocation of a proposal (Sections 3-5) apply equally here."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Do not treat rescission as needing its own separate procedural law — trace back to Sections 3 (modes of communication), 4 (when communication is complete), and 5 (when revocation may be made) whenever a dispute arises about whether, or when, a rescission was validly communicated or revoked."
+      }
+    },
+    {
+      "number": "67",
+      "title": "Effect of neglect of promisee to afford promisor reasonable facilities for performance",
+      "raw_text": "67. Effect of neglect of promisee to afford promisor reasonable facilities for performance.—If any promisee neglects or refuses to afford the promisor reasonable facilities for the performance of his promise, the promisor is excused by such neglect or refusal as to any non-performance caused thereby.\n\nIllustration\n\nA contracts with B to repair B's house. B neglects or refuses to point out to A the places in which his house requires repair. A is excused for the non-performance of the contract if it is caused by such neglect or refusal.",
+      "key_terms": [
+        "performance"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 67 closes the Performance chapter with a fairness rule: a promisor is excused from non-performance to the extent that it was actually caused by the promisee's own neglect or refusal to provide the reasonable facilities the promisor needed in order to perform — the promisee cannot create the obstacle and then complain of the resulting non-performance.",
+        "essential_elements": [
+          "The promisor needs reasonable facilities from the promisee in order to perform.",
+          "The promisee neglects or refuses to provide those reasonable facilities.",
+          "The promisor's resulting non-performance is excused, to the extent caused by that neglect or refusal."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the performance-chapter's version of the \"prevention principle\" already seen in Section 53 (which deals with reciprocal-promise contracts becoming voidable) — Section 67 instead simply excuses non-performance without necessarily making the contract voidable; when a defendant is sued for non-performance, always check whether the claimant's own neglect in providing facilities (access, information, materials, instructions) was the real cause."
+      }
+    },
+    {
+      "number": "68",
+      "title": "Claim for necessaries supplied to person incapable of contracting, or on his account",
+      "raw_text": "68. Claim for necessaries supplied to person incapable of contracting, or on his account.—If a person, incapable of entering into a contract, or any one whom he is legally bound to support, is supplied by another person with necessaries suited to his condition in life, the person who has furnished such supplies is entitled to be reimbursed from the property of such incapable person.\n\nIllustrations\n\n(a) A supplies B, a lunatic, with necessaries suitable to his condition in life. A is entitled to be reimbursed from B's property.\n\n(b) A supplies the wife and children of B, a lunatic, with necessaries suitable to their condition in life. A is entitled to be reimbursed from B's property.",
+      "key_terms": [
+        "quasi-contract",
+        "necessaries"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 68 opens Chapter V, \"Of certain relations resembling those created by contract\" (quasi-contracts) — obligations the law imposes even without a genuine agreement, to prevent unjust enrichment. It ensures that someone who supplies \"necessaries\" (essentials suited to a person's station in life) to a person legally incapable of contracting (e.g. a minor or a person of unsound mind), or to that incapable person's dependants, can still recover the cost — from the incapable person's property, not from him personally.",
+        "essential_elements": [
+          "The recipient (or his dependant) is a person incapable of entering into a contract.",
+          "Another person supplies him (or his legally-dependent family) with necessaries suited to his condition in life.",
+          "The supplier is entitled to be reimbursed, but only out of the incapable person's property — not as a personal contractual debt of the incapable person."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read this alongside Section 11 (who is competent to contract) and the rule that a minor's/lunatic's agreement is void — Section 68 is the deliberate safety valve preventing that voidness from leaving genuine suppliers of life essentials with no recourse at all; the remedy is quasi-contractual (against the property) rather than a true personal contractual liability, so a claimant must trace and proceed against the incapable person's specific property, not sue on the \"agreement\" itself."
+      }
+    },
+    {
+      "number": "69",
+      "title": "Reimbursement of person paying money due by another, in payment of which he is interested",
+      "raw_text": "69. Reimbursement of person paying money due by another, in payment of which he is interested.—A person who is interested in the payment of money which another is bound by law to pay, and who therefore pays it, is entitled to be reimbursed by the other.\n\nIllustration\n\nB holds land in Bengal, on a lease granted by A, the zamindar. The revenue payable by A to the Government being in arrear, his land is advertised for sale by the Government. Under the revenue law, the consequence of such sale will be the annulment of B's lease. B, to prevent the sale and the consequent annulment of his own lease, pays to the Government the sum due from A. A is bound to make good to B the amount so paid.",
+      "key_terms": [
+        "quasi-contract"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 69 lets a person who pays off someone else's legal debt, because he has a genuine interest in seeing it paid (here, protecting his own leasehold from being wiped out by the landlord's default), recover that payment from the person who was actually bound to pay it.",
+        "essential_elements": [
+          "Money is due, and another person is bound by law to pay it.",
+          "The claimant has an interest in seeing that payment made.",
+          "The claimant, because of that interest, pays the money himself.",
+          "The claimant is entitled to be reimbursed by the person who was actually bound to pay."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The \"interest\" requirement is the key gatekeeper — a stranger with no connection to the underlying obligation who volunteers to pay someone else's debt does not automatically get Section 69 reimbursement; the illustration's tenant-protecting-his-lease scenario is the textbook example of a genuine, legally-recognised interest that justifies the payment and the resulting right of recovery."
+      }
+    },
+    {
+      "number": "70",
+      "title": "Obligation of person enjoying benefit of non-gratuitous act",
+      "raw_text": "70. Obligation of person enjoying benefit of non-gratuitous act.—Where a person lawfully does anything for another person, or delivers anything to him, not intending to do so gratuitously, and such other person enjoys the benefit thereof, the latter is bound to make compensation to the former in respect of, or to restore, the thing so done or delivered.\n\nIllustrations\n\n(a) A, a tradesman, leaves goods at B's house by mistake. B treats the goods as his own. He is bound to pay A for them.\n\n(b) A saves B's property from fire. A is not entitled to compensation from B, if the circumstances show that he intended to act gratuitously.",
+      "key_terms": [
+        "quasi-contract"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 70 is the broad, general quasi-contractual remedy against unjust enrichment: if someone lawfully does something for another, or delivers something to him, without intending it as a gift, and the recipient knowingly enjoys the benefit, the recipient must pay for it or return it — but there is no claim at all if the act was genuinely intended as gratuitous (illustration (b)).",
+        "essential_elements": [
+          "A person lawfully does something for another, or delivers something to him.",
+          "He does not intend to act gratuitously (i.e. he expects payment or return).",
+          "The other person enjoys the benefit of that act or delivery, typically with knowledge of it.",
+          "The recipient is then bound to compensate for, or restore, the thing done or delivered."
+        ],
+        "exceptions_and_qualifications": [
+          "No claim arises if the circumstances show the act was genuinely intended to be gratuitous (a true gift or volunteer act), as in illustration (b) — a person who saves another's burning property with no expectation of payment cannot later demand compensation."
+        ],
+        "how_to_read": "Section 70 is one of the most frequently invoked quasi-contract provisions in Indian commercial litigation — e.g. for work done under a void or unenforceable contract that the other side nonetheless accepted the benefit of. Always establish, and plead, (i) non-gratuitous intention at the time of the act, and (ii) the recipient's knowing enjoyment of the benefit — both elements are independently required and are frequently contested at trial."
+      }
+    },
+    {
+      "number": "71",
+      "title": "Responsibility of finder of goods",
+      "raw_text": "71. Responsibility of finder of goods.—A person who finds goods belonging to another, and takes them into his custody, is subject to the same responsibility as a bailee.",
+      "key_terms": [
+        "quasi-contract",
+        "bailee"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 71 treats a finder of lost goods who takes them into his custody as if he were a bailee (someone entrusted with another's property under Chapter IX of the Act) — meaning the finder owes the true owner the same duties of care, and has broadly the same rights (such as a lien for expenses), as a person who received the goods under an actual bailment contract.",
+        "essential_elements": [
+          "A person finds goods belonging to another.",
+          "He takes those goods into his own custody.",
+          "He is then subject to the same duties and responsibilities as a bailee under the Act's bailment provisions."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This short section is the bridge between the quasi-contract chapter and the bailment chapter (Sections 148-181) — once you establish someone is a \"finder\" under Section 71, go straight to the bailee provisions (duty of care under Section 151, the finder's specific rights under Sections 168-169) to work out his exact obligations and entitlements, rather than treating finding as a standalone regime."
+      }
+    },
+    {
+      "number": "72",
+      "title": "Liability of person to whom money is paid, or thing delivered, by mistake or under coercion",
+      "raw_text": "72. Liability of person to whom money is paid, or thing delivered, by mistake or under coercion.—A person to whom money has been paid, or anything delivered, by mistake or under coercion, must repay or return it.\n\nIllustrations\n\n(a) A and B jointly owe 100 rupees to C. A alone pays the amount to C, and B, not knowing this fact, pays 100 rupees over again to C. C is bound to repay the amount to B.\n\n(b) A railway company refuses to deliver up certain goods to the consignee, except upon the payment of an illegal charge for carriage. The consignee pays the sum charged in order to obtain the goods. He is entitled to recover so much of the charge as was illegally excessive.",
+      "key_terms": [
+        "quasi-contract",
+        "coercion",
+        "mistake"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 72 closes the quasi-contract chapter with the mistaken/coerced payment remedy: anyone who receives money or property because of the payer's mistake, or because the payer was coerced into paying, must give it back — including, per illustration (b), the illegally excessive portion of a charge extracted under commercial coercion (such as a carrier withholding goods pending an unlawful demand).",
+        "essential_elements": [
+          "Money has been paid, or something delivered, to a person.",
+          "That payment or delivery was made by mistake, or under coercion.",
+          "The recipient must repay the money or return the thing."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Illustration (b) is important beyond ordinary \"mistake\" cases — it shows Section 72 also reaches payments extracted through practical/commercial coercion (withholding goods pending an unlawful surcharge), not only coercion in the Section 15 sense; a party forced to pay an unlawful demand to secure delivery of goods can recover the illegal excess under this section even without proving the strict ingredients of Section 15 coercion."
+      }
+    },
+    {
+      "number": "73",
+      "title": "Compensation for loss or damage caused by breach of contract",
+      "raw_text": "73. Compensation for loss or damage caused by breach of contract.—When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.\n\nCompensation for failure to discharge obligation resembling those created by contract.—When an obligation resembling those created by contract has been incurred and has not been discharged, any person injured by the failure to discharge it is entitled to receive the same compensation from the party in default, as if such person had contracted to discharge it and had broken his contract.\n\nExplanation.—In estimating the loss or damage arising from a breach of contract, the means which existed of remedying the inconvenience caused by the non-performance of the contract must be taken into account.",
+      "key_terms": [
+        "compensation",
+        "remote and indirect loss"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 73 is the Act's foundational damages provision, opening Chapter VI, \"Of the Consequences of Breach of Contract.\" It entitles the innocent party to compensation for loss naturally arising from the breach in the ordinary course of things, or loss the parties actually contemplated as a likely result at the time of contracting — while expressly excluding remote and indirect loss. The Explanation adds a mitigation-style principle: the innocent party's available means of reducing his own loss must be factored into the damages calculation.",
+        "essential_elements": [
+          "A contract has been broken.",
+          "The innocent party suffers loss or damage from the breach.",
+          "That loss must either (i) naturally arise in the usual course of things from the breach, or (ii) be loss the parties knew, at the time of contracting, was likely to result from the breach.",
+          "Remote and indirect loss is excluded from compensation altogether.",
+          "In estimating the loss, the means available to remedy/mitigate the inconvenience must be taken into account (the Explanation).",
+          "The same compensation principle applies to breach of quasi-contractual obligations (the second paragraph)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section codifies the same two-limb test as the English case Hadley v Baxendale (general/natural damages, and special damages within the parties' contemplation) — practitioners should organise pleadings around these two limbs specifically, and always address mitigation under the Explanation, since failing to mitigate reduces recoverable compensation. The eighteen illustrations to this section (not reproduced in the statutory text itself but published alongside it) are frequently cited in argument for analogous fact patterns — always locate the closest illustration to anchor a damages submission."
+      }
+    },
+    {
+      "number": "74",
+      "title": "Compensation for breach of contract where penalty stipulated for",
+      "raw_text": "74. Compensation for breach of contract where penalty stipulated for.—When a contract has been broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the contract contains any other stipulation by way of penalty, the party complaining of the breach is entitled, whether or not actual damage or loss is proved to have been caused thereby, to receive from the party who has broken the contract reasonable compensation not exceeding the amount so named or, as the case may be, the penalty stipulated for.\n\nExplanation.—A stipulation for increased interest from the date of default may be a stipulation by way of penalty.\n\nException.—When any person enters into any bail-bond, recognizance or other instrument of the same nature, or, under the provisions of any law, or under the orders of the Central Government or of any State Government, gives any bond for the performance of any public duty or act in which the public are interested, he shall be liable, upon breach of the condition of any such instrument, to pay the whole sum mentioned therein.\n\nExplanation.—A person who enters into a contract with Government does not necessarily thereby undertake any public duty, or promise to do an act in which the public are interested.\n\nIllustrations\n\n(a) A contracts with B to pay B Rs. 1,000, if he fails to pay B Rs. 500 on a given day. A fails to pay B Rs. 500 on that day. B is entitled to recover from A such compensation, not exceeding Rs. 1,000, as the Court considers reasonable.\n\n(b) A contracts with B that, if A practises as a surgeon within Calcutta, he will pay B Rs. 5,000. A practises as a surgeon in Calcutta. B is entitled to such compensation, not exceeding Rs. 5,000, as the Court considers reasonable.\n\n(c) A gives a recognizance binding him in a penalty of Rs. 500 to appear in Court on a certain day. He forfeits his recognizance. He is liable to pay the whole penalty.\n\n(d) A gives B a bond for the repayment of Rs. 1,000 with interest at 12 per cent. at the end of six months, with a stipulation that, in case of default, interest shall be payable at the rate of 75 per cent. from the date of default. This is a stipulation by way of penalty, and B is only entitled to recover from A such compensation as the Court considers reasonable.\n\n(e) A, who owes money to B a money-lender, undertakes to repay him by delivering to him 10 maunds of grain on a certain date, and stipulates that, in the event of his not delivering the stipulated amount by the stipulated date, he shall be liable to deliver 20 maunds. This is a stipulation by way of penalty, and B is only entitled to reasonable compensation in case of breach.\n\n(f) A undertakes to repay B a loan of Rs. 1,000 by five equal monthly instalments, with a stipulation that in default of payment of any instalment, the whole shall become due. This stipulation is not by way of penalty, and the contract may be enforced according to its terms.\n\n(g) A borrows Rs. 100 from B and gives him a bond for Rs. 200 payable by five yearly instalments of Rs. 40, with a stipulation that, in default of payment of any instalment, the whole shall become due. This is a stipulation by way of penalty.",
+      "key_terms": [
+        "penalty",
+        "liquidated damages",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 74 is India's distinctive approach to liquidated-damages/penalty clauses — unlike English law's rigid liquidated-damages-vs-penalty distinction, Indian law treats every named sum or penalty stipulation the same way: the innocent party can recover reasonable compensation up to (but not exceeding) the stipulated amount, without needing to prove actual loss at all — the court has the power to scale the sum down to what is reasonable, but never to award more than what was stipulated.",
+        "essential_elements": [
+          "A contract has been broken.",
+          "The contract names a sum payable on breach, or contains some other penalty stipulation.",
+          "The complaining party may recover reasonable compensation up to that named/stipulated amount — without needing to prove actual damage or loss.",
+          "The court determines what is \"reasonable,\" capped at the stipulated figure."
+        ],
+        "exceptions_and_qualifications": [
+          "The bail-bond/recognizance/public-duty-bond Exception: for these specific instruments, the whole sum named is recoverable, not merely reasonable compensation (illustration (c)).",
+          "A stipulation is not treated as a penalty at all if it merely accelerates an already-existing, non-penal obligation (illustration (f), where default simply advances the due date of instalments already owed) — contrast illustration (g), where the \"acceleration\" actually inflates the principal amount owed and is therefore struck down as a penalty."
+        ],
+        "how_to_read": "This is one of the most commercially significant sections in the entire Act (heavily litigated in construction, loan, and franchise disputes) — always distinguish a genuine acceleration clause (illustration (f), enforceable in full) from a disguised penalty dressed up as acceleration (illustration (g), capped at reasonable compensation); and remember a claimant under Section 74 need not lead evidence of actual loss to recover reasonable compensation, though evidence of actual loss helps persuade the court what \"reasonable\" means on the facts, and a complete absence of loss can still result in only nominal compensation being awarded."
+      }
+    },
+    {
+      "number": "75",
+      "title": "Party rightfully rescinding contract, entitled to compensation",
+      "raw_text": "75. Party rightfully rescinding contract, entitled to compensation.—A person who rightfully rescinds a contract is entitled to compensation for any damage which he has sustained through the non-fulfilment of the contract.\n\nIllustration\n\nA, a singer, contracts with B, the manager of a theatre, to sing at his theatre for two nights in every week during the next two months, and B engages to pay her 100 rupees for each night's performance. On the sixth night, A wilfully absents herself from the theatre, and B, in consequence, rescinds the contract. B is entitled to claim compensation for the damage which he has sustained through the non-fulfilment of the contract.",
+      "key_terms": [
+        "rescission",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 75 closes the Consequences-of-Breach chapter by confirming that rescinding a contract rightfully (i.e. in response to the other party's breach, as under Section 39's repudiation rule) does not forfeit the innocent party's right to damages — he can rescind the contract AND still claim compensation for the loss the breach caused him, rather than having to choose one remedy to the exclusion of the other.",
+        "essential_elements": [
+          "A party rightfully rescinds a contract — i.e. he had valid legal grounds to do so (such as the other party's breach/repudiation).",
+          "He is entitled to compensation for any damage sustained through the contract's non-fulfilment, in addition to the rescission itself."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 75 should always be read together with Section 39 (repudiation gives the promisee an election to end the contract) and Section 73 (the general damages measure) — this section confirms that exercising the Section 39 election to terminate does not waive the Section 73 damages claim; both remedies are available together to the wronged party, as the singer illustration (mirrored from Section 39) makes explicit."
       }
     }
   ]
