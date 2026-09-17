@@ -12,7 +12,7 @@
     "void": "Having no legal effect at all — a void agreement cannot be enforced by either party in any court, as if it never created any rights or obligations.",
     "age of majority": "The age at which a person is legally treated as an adult. Under the Indian Majority Act, 1875, this is ordinarily 18 years (or 21 years if a guardian has been appointed for the person or their property).",
     "sound mind": "The mental capacity, at the moment of contracting, to understand the agreement's terms and to form a rational judgment about how it will affect one's own interests. This is tested at the time of the transaction, not as a permanent label on the person.",
-    "unsound mind": "A temporary or permanent state in which a person cannot understand an agreement or judge its effect on their interests — for example due to lunacy, intoxication, or illness. It does not automatically bar a person from ever contracting; capacity is judged at the specific moment of the transaction.",
+    "unsound mind": "A mental state in which a person is incapable of understanding the nature and consequences of their acts.",
     "rational judgment": "The ability to weigh how an agreement will help or harm one's own interests, not merely the ability to understand its words.",
     "saving clause": "A provision that protects certain existing rights, laws, or practices from being affected by a new statute, so they continue to operate unless expressly overridden.",
     "proposal": "An offer — one person signalling to another their willingness to do or not do something, in order to get that other person's agreement to it. Called a 'promise' once accepted.",
@@ -26,18 +26,18 @@
     "communication of proposal": "The point at which an offer, acceptance, or its revocation legally takes effect — governed by precise rules in Sections 3 to 5, since a proposal, an acceptance, and a revocation can each become 'complete' at a different moment for each party.",
     "communication when complete": "The specific moment at which a proposal, acceptance, or revocation becomes legally effective — which can differ depending on whether you are the sender or the receiver.",
     "revocation": "Withdrawing a proposal or an acceptance before it becomes legally binding. Once communication is 'complete' against a party, that party can no longer revoke.",
-    "express promise": "A promise made in words, spoken or written.",
-    "implied promise": "A promise inferred from a person's conduct, without the need for any words.",
+    "express promise": "A promise stated explicitly, in words, whether oral or written.",
+    "implied promise": "A promise inferred from conduct or circumstances rather than stated explicitly.",
     "consent": "Agreement between two or more people on the very same thing, understood in the very same sense by both.",
     "consensus ad idem": "Latin for 'agreement as to the same thing' — the legal requirement that both parties understand the terms of their agreement identically.",
     "coercion": "Forcing someone into an agreement by committing or threatening an act that the criminal law forbids, or by unlawfully detaining or threatening to detain their property.",
     "undue influence": "Using a position of dominance over someone's will — such as authority, a fiduciary relationship, or their impaired mental state — to obtain an unfair advantage from them in a contract.",
     "fiduciary relation": "A relationship of trust and confidence (such as trustee-beneficiary, guardian-ward, or doctor-patient) in which one party is expected to act in the other's best interests.",
     "unconscionable": "So one-sided or unfair that it shocks the conscience of the court — a key trigger under Section 16(3) for shifting the burden of proof onto the dominant party.",
-    "fraud": "Dishonestly deceiving someone into a contract — by a false statement not believed to be true, active concealment, a promise never meant to be kept, or any other deliberately deceptive act.",
+    "fraud": "A dishonest act intended to deceive another and induce them to act to their detriment.",
     "active concealment": "Deliberately hiding a fact one knows or believes to be true, in order to deceive the other party — distinct from mere silence.",
     "mere silence": "Simply not volunteering information. Under Section 17's Explanation, silence alone is not fraud unless there was a duty to speak, or the silence was itself equivalent to a false statement.",
-    "misrepresentation": "An untrue statement made honestly (without any intent to deceive), which still misleads the other party into the contract or into a mistaken belief about its subject matter.",
+    "misrepresentation": "A false statement of fact made by one party that induces another to enter into a contract.",
     "coercion, fraud or misrepresentation": "The three consent-vitiating grounds under Section 19 that make a contract voidable at the option of the wronged party.",
     "mistake of fact": "A false belief about a factual matter essential to the agreement — for example, believing goods still exist when they have already been destroyed.",
     "common mistake": "A mistake of fact shared by both parties to the agreement — under Section 20, this voids the agreement entirely if the fact was essential to it.",
@@ -54,7 +54,7 @@
     "wager": "A bet — an agreement where each side's gain or loss depends purely on the outcome of an uncertain event, with no other stake in that outcome. Wagering agreements are void and unenforceable in court under Section 30.",
     "contingent contract": "A contract to do or not do something if an uncertain future event, collateral to the contract, does or does not happen — e.g. an insurance policy that pays only if a specified event occurs.",
     "performance": "Actually carrying out what a party promised under a contract — paying money owed, delivering goods, rendering a service, etc.",
-    "representatives": "A deceased person's legal heirs or executors/administrators, who step into the deceased's shoes to enforce or bear the obligations of contracts the deceased had entered into.",
+    "representatives": "Persons who legally stand in the place of a deceased or incapacitated person, such as heirs, executors, or guardians.",
     "tender of performance": "A valid, properly-made offer to perform a contractual obligation (unconditional, at the proper time/place, with a reasonable opportunity to verify) which, if refused by the other side, discharges the person who made the offer from liability for non-performance.",
     "joint promisees": "Two or more persons to whom a single promise is made together, who must generally act jointly to enforce it.",
     "repudiation": "A clear refusal by a party, through words or conduct, to perform his contractual obligations at all.",
@@ -78,7 +78,7 @@
     "penalty": "A sum of money, or other stipulation, named in a contract as payable on breach that is not a genuine pre-estimate of loss but is intended to punish or deter the defaulting party — Indian law caps recovery under such a clause at reasonable compensation, regardless of the sum named.",
     "liquidated damages": "A sum fixed in advance by the contracting parties as the compensation payable on a specified breach — under Section 74, Indian courts treat this the same as a penalty clause and award only reasonable compensation up to that sum.",
     "remote and indirect loss": "Loss or damage flowing from a breach of contract that is too distant, speculative, or indirect a consequence of the breach to be recoverable as compensation under Section 73.",
-    "compensation": "A monetary payment awarded to make good the loss or damage a party has suffered — whether from breach of contract, a quasi-contractual obligation, or another party's default.",
+    "compensation": "A payment made to make good a loss or injury suffered by another.",
     "contract of indemnity": "A contract by which one party (the indemnifier) promises to save the other (the indemnity-holder) from loss caused by the indemnifier's own conduct or by the conduct of a third person.",
     "indemnity-holder": "The promisee under a contract of indemnity — the person protected against loss, entitled to recover damages, costs, and reasonable settlement sums from the indemnifier once the covered loss materialises.",
     "contract of guarantee": "A contract to perform the promise, or discharge the liability, of a third person (the principal debtor) in case of his default; may be oral or written.",
@@ -107,7 +107,7 @@
     "material fault": "A defect in goods that meaningfully interferes with their intended use or exposes the user to extraordinary risk, as opposed to a trivial or harmless flaw.",
     "ordinary prudence": "The level of care and caution that a reasonable, sensible person would exercise in looking after his own property.",
     "standard of care": "The degree of caution and diligence a person is legally required to exercise in a given situation.",
-    "special contract": "An agreement between the parties that varies the default rules the law would otherwise apply — for example, one setting a stricter or different standard of care than Section 151's default.",
+    "special contract": "A specific agreement between parties that varies or displaces a default statutory rule.",
     "avoidable": "Capable of being treated as void, at the option of one party, rather than being automatically void or continuing to bind both parties.",
     "inconsistent act": "An act by the bailee regarding the bailed goods that departs from the conditions on which the bailment was made.",
     "unauthorized use": "Use of bailed goods in a manner not permitted by the conditions of the bailment.",
@@ -116,14 +116,14 @@
     "separation": "The physical dividing of mixed goods back into the distinct portions originally belonging to each party.",
     "necessary expenses": "Reasonable, ordinary costs genuinely required for the purpose of a bailment or pledge, such as the upkeep of the goods.",
     "borrower": "A person who receives a thing from another (the lender) for temporary use, under a loan.",
-    "indemnify": "To compensate a person for a loss or expense they have suffered, making them whole again.",
+    "indemnify": "To compensate a person for loss or damage they have suffered or may suffer.",
     "return of goods": "The bailee's act of giving the bailed goods back to the bailor, or dealing with them as the bailor directs, once the bailment ends.",
     "default": "A failure to perform an obligation by the time or in the manner required, such as failing to pay a debt or return goods on time.",
     "responsibility": "Legal liability for loss, damage, or harm arising from one's own act, omission, or default.",
     "termination": "The ending of a legal relationship or obligation, such as a bailment.",
     "increase or profit": "Any natural growth, produce, or benefit generated by bailed property while it is in the bailee's custody, such as the offspring of a bailed animal.",
     "joint owners": "Two or more persons who together own the same property, each holding an undivided interest in it.",
-    "good faith": "Honesty in fact — acting sincerely and without knowledge of any defect, fraud, or lack of authority.",
+    "good faith": "Honest intention and genuine belief in the propriety of one's actions, without knowledge of any defect or fraud.",
     "title": "A person's legal right of ownership over property.",
     "third person": "Someone who is not a party to the bailment or contract in question, such as a stranger asserting a competing claim to bailed goods.",
     "specific reward": "A particular, identified reward publicly offered by an owner for the return of lost property.",
@@ -151,7 +151,7 @@
     "incidental powers": "Powers an agent is taken to have by necessary implication, even without express mention, because they are necessary to carry out an authorized act or business.",
     "emergency": "A sudden, unforeseen situation requiring urgent action, in which an agent may act beyond his ordinary instructions to protect the principal from loss.",
     "delegate": "To hand over performance of a task or duty to another person.",
-    "sub-agent": "A person employed by, and acting under the control of, the original agent in the business of the agency.",
+    "sub-agent": "A person employed by, and acting under the control of, an original agent in the business of the agency.",
     "wilful wrong": "A deliberate, knowing act of wrongdoing, as opposed to mere carelessness or negligence.",
     "unauthorized appointment": "The appointment of a sub-agent or substitute by an agent who lacked the authority to make such an appointment.",
     "substituted agent": "A person named by an agent, under express or implied authority to do so, who becomes a direct agent of the principal (not a sub-agent under the original agent's control) for the part of the business entrusted to him.",
@@ -161,7 +161,7 @@
     "implied ratification": "Ratification inferred from a person's conduct after an unauthorized act was done on their behalf, rather than from an express statement of approval.",
     "material knowledge": "Full and accurate awareness of the significant facts relevant to a transaction or act, required for a valid ratification.",
     "transaction": "A dealing or set of connected acts between parties, such as a purchase, loan, or sale.",
-    "termination of agency": "The ending of the legal relationship of agency between principal and agent, whether by revocation, renunciation, completion, death, unsound mind, or insolvency.",
+    "termination of agency": "The ending of an agent's authority to act for the principal, by any of the modes in Sections 201-210.",
     "renunciation": "The act of the agent giving up or abandoning the business of the agency.",
     "insolvent": "A person who is legally adjudicated unable to pay his debts, under the law relating to relief of insolvent debtors.",
     "agency coupled with interest": "An agency in which the agent has his own financial interest in the subject-matter, which as a result cannot be revoked to the agent's prejudice, and does not terminate on the principal's death or unsoundness of mind, absent a contrary contract.",
@@ -171,7 +171,104 @@
     "knowledge": "Actual awareness of a fact — here, of the termination of an agent's authority — which determines when that termination becomes legally effective as against the agent or third persons.",
     "agency": "The legal relationship in which one person (the agent) is empowered to act for, or represent, another person (the principal) in dealings with third parties.",
     "authority": "The power given to an agent, expressly or impliedly, to act on behalf of the principal.",
-    "third persons": "Persons who are not parties to the principal-agent relationship itself, but who deal with the agent in the course of the agency's business."
+    "third persons": "Persons who are not parties to the principal-agent relationship itself, but who deal with the agent in the course of the agency's business.",
+    "reasonable steps": "The actions a prudent person would take in the circumstances to protect an interest, judged objectively.",
+    "protection and preservation": "Steps taken to safeguard property or interests from loss, damage, or deterioration.",
+    "termination of authority": "The point at which an agent (or sub-agent) ceases to have the power to bind the principal.",
+    "derivative authority": "Authority that exists only because, and to the extent that, another person's (the agent's) authority exists.",
+    "directions": "Instructions given by the principal to the agent as to how the agency business is to be conducted.",
+    "custom of trade": "The established, generally recognized practice followed in a particular kind of business at a particular place.",
+    "loss sustained": "Financial or other detriment suffered as a result of an act or omission.",
+    "profit accrues": "A gain or benefit that arises or results from a transaction.",
+    "account for": "To report and hand over money or benefit received on another's behalf, rather than keep it.",
+    "reasonable diligence": "The degree of care and attention that an ordinarily prudent person would exercise in the circumstances.",
+    "direct consequences": "Results that flow immediately and proximately from an act, without an intervening cause.",
+    "remote consequences": "Results that are too indirect, speculative, or distant from the act to be legally attributed to it.",
+    "neglect": "A failure to exercise the care that a reasonable person would exercise in the circumstances.",
+    "want of skill": "A deficiency in the competence or expertise ordinarily expected in a given trade or profession.",
+    "misconduct": "Improper, unlawful, or negligent conduct in the performance of one's duties.",
+    "render accounts": "To prepare and present a statement of receipts, payments, and dealings.",
+    "on demand": "As soon as requested, without need for further notice or delay.",
+    "cases of difficulty": "Situations arising during the agency where the agent faces an unexpected problem or uncertainty.",
+    "instructions": "Directions given by the principal as to how the agent should act.",
+    "dealing on own account": "An agent transacting the business of the agency for his own personal benefit rather than the principal's.",
+    "material circumstances": "Facts significant enough that knowledge of them could reasonably affect a party's decision.",
+    "repudiate": "To reject or refuse to be bound by a transaction, treating it as not binding.",
+    "dishonestly concealed": "Deliberately hidden with an intention to deceive or gain unfair advantage.",
+    "disadvantageous": "Resulting in an unfavourable or unfair outcome for a party.",
+    "without knowledge of principal": "Occurring without the principal being aware of the act or transaction.",
+    "own account": "For one's own benefit, rather than as agent for another.",
+    "claim benefit": "To assert a right to receive a gain or advantage obtained by another.",
+    "right of retainer": "The right of an agent to deduct and keep sums owed to him before remitting the balance to the principal.",
+    "advances": "Sums of money paid out by the agent on the principal's behalf, in anticipation of reimbursement.",
+    "expenses properly incurred": "Costs reasonably and legitimately spent by the agent in conducting the agency business.",
+    "remuneration": "Payment or reward due to the agent for services rendered as agent.",
+    "deductions": "Amounts subtracted from a sum before the remainder is paid over.",
+    "sums received": "Money collected or obtained by the agent in the course of the agency business.",
+    "pay to principal": "The agent's obligation to remit money collected on the principal's behalf.",
+    "completion of act": "The point at which the task the agent was engaged to perform has been fully carried out.",
+    "detain moneys": "To hold back and retain money that has been received, pending settlement of what is owed.",
+    "goods consigned": "Goods delivered to an agent for the purpose of sale on the principal's behalf.",
+    "remuneration forfeited": "The loss of entitlement to payment as a consequence of misconduct.",
+    "apportionment of remuneration": "Dividing remuneration between properly performed and improperly performed parts of a task.",
+    "agent's lien": "The right of an agent to retain the principal's property in his possession until sums due to him are paid.",
+    "goods, papers and other property": "Tangible items, documents, and other assets belonging to the principal that come into the agent's possession.",
+    "commission": "A fee payable to an agent, usually calculated as a percentage of the value of business transacted.",
+    "disbursements": "Sums of money paid out by the agent on behalf of the principal in the course of the agency.",
+    "contract to the contrary": "An agreement between the parties that displaces or varies a default statutory rule.",
+    "lawful acts": "Acts that are permitted by, and not contrary to, the law.",
+    "exercise of authority": "Acting within the scope of the power conferred by the principal.",
+    "employer of agent": "The principal, who engages and directs the agent.",
+    "injury to rights of third persons": "Harm caused to the legal rights or interests of a person who is not a party to the agency relationship.",
+    "criminal act": "An act that is punishable as an offence under the law.",
+    "non-liability": "The absence of a legal obligation to compensate or answer for a consequence.",
+    "injury": "Harm or damage suffered by a person, whether physical or otherwise.",
+    "principal's neglect": "A failure by the principal to exercise reasonable care, causing harm to the agent.",
+    "enforce contracts": "To compel performance of, or claim remedies for breach of, a binding agreement.",
+    "legal consequences": "The rights, duties, and liabilities that the law attaches to an act or transaction.",
+    "as if principal in person": "Treated in law exactly as though the principal himself had acted, without an intermediary.",
+    "exceeds authority": "An agent acting beyond the scope of the power conferred by the principal.",
+    "separable": "Capable of being divided into distinct parts that can be treated independently.",
+    "binding": "Legally enforceable and imposing an obligation on a party.",
+    "excess of authority": "The portion of an agent's act that goes beyond the authority actually conferred.",
+    "not separable": "Incapable of being cleanly divided into an authorized part and an unauthorized part.",
+    "repudiate whole transaction": "To reject an entire transaction as non-binding, rather than only part of it.",
+    "scope of authority": "The boundaries of the power that a principal has conferred on an agent.",
+    "notice to agent": "Information or notification communicated to the agent in the course of the agency business.",
+    "imputed knowledge": "Knowledge legally attributed to a principal because the agent acquired it in the course of the agency.",
+    "course of business": "The ordinary conduct of the transactions that the agent was engaged to carry out.",
+    "third parties": "Persons who are not parties to the principal-agent relationship but deal with the agent.",
+    "personally enforce": "To sue in one's own right to compel performance of a contract.",
+    "personally bound": "Subject to personal liability under a contract, in one's own right.",
+    "presumption of contract to contrary": "A legal presumption, in specified situations, that the parties intended to displace the default non-liability rule for agents.",
+    "merchant resident abroad": "A trading principal who resides outside the country where the contract is made.",
+    "undisclosed principal": "A principal whose existence or identity is not revealed by the agent to the other contracting party.",
+    "principal cannot be sued": "A situation where the disclosed principal is, for some legal reason, immune from suit.",
+    "reason to suspect": "Circumstances that would put a reasonably attentive person on notice of a fact, even without actual knowledge.",
+    "same rights as against agent": "The legal position of the other party is preserved as though the agent, not the principal, were the contracting party.",
+    "refuse to fulfil": "To decline to carry out one's obligations under a contract, where legally justified.",
+    "subject to rights and obligations": "Bound by, and limited by, the legal rights and duties already existing between other parties.",
+    "set-off": "A right to deduct a sum owed by the other party from a sum claimed by them, reducing the net amount payable.",
+    "supposed to be principal": "A situation where the other contracting party believes, without cause for suspicion, that they are dealing with a principal, not an agent.",
+    "personally liable": "Subject to being sued and held responsible in one's individual capacity.",
+    "hold liable": "To pursue a legal claim against a person, making them answerable for an obligation.",
+    "either or both": "A choice available to a claimant to proceed against one party, the other, or both together.",
+    "induces belief": "Causes another person to form a genuine understanding or expectation through words or conduct.",
+    "exclusively liable": "Solely and only responsible, to the exclusion of any other party.",
+    "cannot afterwards hold liable": "Barred, typically by estoppel, from later pursuing a claim against a party previously excluded by one's own conduct.",
+    "pretended agent": "A person who falsely claims to be the authorized agent of another.",
+    "untruly representing": "Making a statement that is false, whether knowingly or not.",
+    "alleged employer": "The person whom a pretended agent falsely claims to represent.",
+    "ratify": "To adopt and confirm, after the fact, an act done without prior authority, making it binding as though originally authorized.",
+    "falsely contracting as agent": "Entering into a contract while claiming to act as an agent, when in reality acting for oneself.",
+    "not entitled to performance": "Barred from claiming the other party's performance of a contract.",
+    "without authority": "Acting beyond, or without, any power conferred by the principal.",
+    "words or conduct": "Statements or behaviour by which a person communicates or represents something to others.",
+    "apparent authority": "Authority that a third party reasonably believes an agent possesses, based on the principal's own words or conduct, even if not actually granted.",
+    "induced belief": "A conviction or understanding created in another person's mind by words or conduct.",
+    "bound": "Legally obligated to honour and perform.",
+    "matters not within authority": "Subjects or transactions falling outside the scope of power conferred on the agent.",
+    "voidable": "Valid until one party, entitled by law, elects to avoid (cancel) the contract."
   },
   "sections": [
     {
@@ -3441,6 +3538,649 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This section is a real-world fairness safeguard — legal termination of authority can happen instantly on paper (e.g. the moment a revocation letter is written), but its practical, binding effect is delayed until the relevant person actually learns of it, protecting those who acted in good-faith ignorance."
+      }
+    },
+    {
+      "number": "209",
+      "title": "Agent's duty on termination of agency by principal's death or insanity",
+      "raw_text": "When an agency is terminated by the principal dying or becoming of unsound mind, the agent is bound to take, on behalf of the representatives of his late principal, all reasonable steps for the protection and preservation of the interests entrusted to him.",
+      "key_terms": [
+        "termination of agency",
+        "unsound mind",
+        "representatives",
+        "reasonable steps",
+        "protection and preservation"
+      ],
+      "breakdown": {
+        "plain_summary": "Even though the principal's death or insanity automatically ends the agency (Section 201), the agent does not get to simply walk away. The law imposes one last duty: take reasonable care of whatever was entrusted to the agent until the principal's representatives (heirs, executors, or a guardian) can take over.",
+        "essential_elements": [
+          "Agency terminated by principal's death or unsoundness of mind",
+          "Agent bound to act on behalf of the late/incapacitated principal's representatives",
+          "Duty is limited to reasonable steps for protection and preservation of entrusted interests"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a residual, winding-up duty — it does not revive the agency or authorize the agent to transact new business on the principal's behalf"
+        ],
+        "how_to_read": "A bridging obligation: the agency ends, but the agent's care of the principal's property does not end abruptly — read it as a duty of safekeeping until a representative steps in."
+      }
+    },
+    {
+      "number": "210",
+      "title": "Termination of sub-agent's authority",
+      "raw_text": "The termination of the authority of an agent causes the termination (subject to the rules herein contained regarding the termination of an agent's authority) of the authority of all sub-agents appointed by him.",
+      "key_terms": [
+        "sub-agent",
+        "termination of authority",
+        "derivative authority"
+      ],
+      "breakdown": {
+        "plain_summary": "A sub-agent's authority is derivative — it flows from the agent who appointed them. So when the agent's own authority ends, every sub-agent appointed by that agent also loses authority, subject to the same termination rules (e.g., reasonable notice) that apply to agents generally.",
+        "essential_elements": [
+          "Termination of an agent's authority automatically terminates sub-agents appointed by him",
+          "Subject to the same termination rules that govern agents (Sections 201-208)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A chain-reaction rule: pull the agent's authority out from under a sub-agent, and the sub-agent's authority collapses with it."
+      }
+    },
+    {
+      "number": "211",
+      "title": "Agent's duty in conducting principal's business",
+      "raw_text": "An agent is bound to conduct the business of his principal according to the directions given by the principal, or, in the absence of any such directions, according to the custom which prevails in doing business of the same kind at the place where the agent conducts such business. When the agent acts otherwise, if any loss be sustained, he must make it good to his principal, and if any profit accrues, he must account for it.\n\nIllustrations\n(a) A, an agent engaged in carrying on for B a business, in which it is the custom to invest from time to time, at interest, the moneys which may be in hand, omits to make such investment. A must make good to B the interest usually obtained by such investments.\n(b) B, a broker, in whose business it is not the custom to sell on credit, sells goods of A on credit to C, whose credit at the time was very high. C, before payment, becomes insolvent. B must make good the loss to A.",
+      "key_terms": [
+        "directions",
+        "custom of trade",
+        "loss sustained",
+        "profit accrues",
+        "account for"
+      ],
+      "breakdown": {
+        "plain_summary": "The agent must follow the principal's instructions to the letter. If the principal has not given instructions on a point, the agent must follow the customary practice of that kind of business at that place. Deviating from either — instructions or custom — makes the agent liable for any loss, and any profit made by the deviation must be handed over to the principal, not kept.",
+        "essential_elements": [
+          "Agent bound by principal's directions, or by trade custom absent directions",
+          "Deviation causing loss makes the agent liable to make it good",
+          "Deviation yielding profit requires the agent to account for (hand over) that profit"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Two-tier standard: directions first, custom second. Then a symmetric consequence — loss is compensated, profit is surrendered — regardless of which way the deviation cut."
+      }
+    },
+    {
+      "number": "212",
+      "title": "Skill and diligence required from agent",
+      "raw_text": "An agent is bound to conduct the business of the agency with as much skill as is generally possessed by persons engaged in similar business, unless the principal has notice of his want of skill. The agent is always bound to act with reasonable diligence, and to use such skill as he possesses; and to make compensation to his principal in respect of the direct consequences of his own neglect, want of skill, or misconduct, but not in respect of loss or damage which are indirectly or remotely caused by such neglect, want of skill, or misconduct.\n\nIllustrations\n(a) A, a merchant in Calcutta, has an agent, B, in London, to whom a sum of money is paid on A's account, with orders to remit. B retains the money for a considerable time. A, in consequence of not receiving the money, becomes insolvent. B is liable for the money and interest from the day on which it ought to have been paid, according to the usual rate, and for any further direct loss-as, e.g., by variation of rate of exchange-but not further.\n(b) A, an agent for the sale of goods, having authority to sell on credit, sells to B on credit, without making the proper and usual enquiries as to the solvency of B. B, at the time of such sale, is insolvent. A must make compensation to his principal in respect of any loss thereby sustained.\n(c) A, an insurance-broker employed by B to effect an insurance on a ship, omits to see that the usual clauses are inserted in the policy. The ship is afterwards lost. In consequence of the omission of the clauses nothing can be recovered from the underwriters. A is bound to make good the loss to B.\n(d) A, a merchant in England, directs B, his agent at Bombay, who accepts the agency, to send him 100 bales of cotton by a certain ship. B, having it in his power to send the cotton, omits to do so. The ship arrives safely in England. Soon after her arrival the price of cotton rises. B is bound to make good to A the profit which he might have made by the 100 bales of cotton at the time the ship arrived, but not any profit he might have made by the subsequent rise.",
+      "key_terms": [
+        "reasonable diligence",
+        "direct consequences",
+        "remote consequences",
+        "neglect",
+        "want of skill",
+        "misconduct",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "The agent's skill standard is objective — the general standard of persons in that line of business — unless the principal already knew the agent lacked that skill. Diligence, however, is always required, and the agent must always use whatever skill he does possess. Liability for failing this standard is capped at direct, proximate losses — not speculative or remote consequences.",
+        "essential_elements": [
+          "Skill measured by the general standard in similar business, unless principal had notice of a shortfall",
+          "Reasonable diligence and use of the agent's own actual skill always required",
+          "Compensation owed only for direct consequences of neglect, want of skill, or misconduct",
+          "No liability for indirect or remote loss/damage"
+        ],
+        "exceptions_and_qualifications": [
+          "If the principal already knew of the agent's limited skill (notice), the general-standard benchmark does not apply to that extent"
+        ],
+        "how_to_read": "A negligence-style standard with a built-in remoteness limit — first ask what standard of skill applied, then ask whether the loss claimed was a direct or merely remote consequence of falling short of it."
+      }
+    },
+    {
+      "number": "213",
+      "title": "Agent's accounts",
+      "raw_text": "An agent is bound to render proper accounts to his principal on demand.",
+      "key_terms": [
+        "render accounts",
+        "on demand"
+      ],
+      "breakdown": {
+        "plain_summary": "The agent must keep and produce proper accounts of the agency business whenever the principal asks for them.",
+        "essential_elements": [
+          "Duty to render proper accounts",
+          "Triggered on the principal's demand"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Short and absolute — no qualifying conditions, just a standing duty of transparency."
+      }
+    },
+    {
+      "number": "214",
+      "title": "Agent's duty to communicate with principal",
+      "raw_text": "It is the duty of an agent, in cases of difficulty, to use all reasonable diligence in communicating with his principal, and in seeking to obtain his instructions.",
+      "key_terms": [
+        "cases of difficulty",
+        "reasonable diligence",
+        "instructions"
+      ],
+      "breakdown": {
+        "plain_summary": "When the agent hits an unexpected problem or difficult situation while carrying out the agency, he must not just guess or act unilaterally — he should make a reasonably diligent effort to reach the principal and get fresh instructions before proceeding.",
+        "essential_elements": [
+          "Applies in cases of difficulty arising during the agency",
+          "Agent must use reasonable diligence to communicate with the principal",
+          "Purpose is to obtain the principal's instructions"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A consultation duty — before improvising through a difficulty, the agent should try to check back with the principal."
+      }
+    },
+    {
+      "number": "215",
+      "title": "Right of principal when agent deals, on his own account, in business of agency without principal's consent",
+      "raw_text": "If an agent deals on his own account in the business of the agency, without first obtaining the consent of his principal and acquainting him with all material circumstances which have come to his own knowledge on the subject, the principal may repudiate the transaction, if the case shows, either that any material fact has been dishonestly concealed from him by the agent, or that the dealings of the agent have been disadvantageous to him.\n\nIllustrations\n(a) A directs B to sell A's estate. B buys the estate for himself in the name of C. A, on discovering that B has bought the estate for himself, may repudiate the sale, if he can show that B has dishonestly concealed any material fact, or that the sale has been disadvantageous to him.\n(b) A directs B to sell A's estate. B, on looking over the estate before selling it, finds a mine on the estate which is unknown to A. B informs A that he wishes to buy the estate for himself, but conceals the discovery of the mine. A allows B to buy, in ignorance of the existence of the mine. A, on discovering that B knew of the mine at the time he bought the estate, may either repudiate or adopt the sale at his option.",
+      "key_terms": [
+        "dealing on own account",
+        "material circumstances",
+        "repudiate",
+        "dishonestly concealed",
+        "disadvantageous"
+      ],
+      "breakdown": {
+        "plain_summary": "This targets self-dealing: an agent secretly buying/selling for himself instead of genuinely acting for the principal. Unless the agent gets the principal's consent up front and discloses every material fact known to him, the principal can undo (repudiate) the deal — provided the principal can show either dishonest concealment of a material fact, or that the deal was disadvantageous.",
+        "essential_elements": [
+          "Agent deals on his own account in the business of the agency",
+          "Without first obtaining the principal's consent and disclosing all material circumstances",
+          "Principal may repudiate on proof of dishonest concealment of a material fact, OR",
+          "Principal may repudiate on proof that the dealing was disadvantageous to him"
+        ],
+        "exceptions_and_qualifications": [
+          "Consent plus full disclosure of material circumstances up front cures the problem — the principal cannot then repudiate merely because the agent also benefited"
+        ],
+        "how_to_read": "A self-dealing check: consent and disclosure are the escape hatch; without them, either dishonesty or disadvantage (either one, not both) is enough for the principal to unwind the transaction."
+      }
+    },
+    {
+      "number": "216",
+      "title": "Principal's right to benefit gained by agent dealing on his own account in business of agency",
+      "raw_text": "If an agent, without the knowledge of his principal, deals in the business of the agency on his own account instead of on account of his principal, the principal is entitled to claim from the agent any benefit which may have resulted to him from the transaction.\n\nIllustration A directs B, his agent, to buy a certain house for him. B tells A it cannot be bought, and buys the house for himself. A may, on discovering that B has bought the house, compel him to sell it to A at the price he gave for it.",
+      "key_terms": [
+        "without knowledge of principal",
+        "own account",
+        "claim benefit"
+      ],
+      "breakdown": {
+        "plain_summary": "This goes further than Section 215's repudiation remedy: if the agent secretly self-deals, the principal doesn't just get to cancel the deal — the principal can actually claim the benefit that resulted, for example forcing the agent to hand over property the agent secretly bought for himself, at the price the agent paid.",
+        "essential_elements": [
+          "Agent deals in the business of the agency on his own account",
+          "Without the principal's knowledge",
+          "Principal entitled to claim any resulting benefit from the transaction"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A disgorgement remedy — instead of merely voiding the secret deal, the law lets the principal step into the agent's shoes and take the benefit for himself."
+      }
+    },
+    {
+      "number": "217",
+      "title": "Agent's right of retainer out of sums received on principal's account",
+      "raw_text": "An agent may retain, out of any sums received on account of the principal in the business of the agency, all moneys due to himself in respect of advances made or expenses properly incurred by him in conducting such business, and also such remuneration as may be payable to him for acting as agent.",
+      "key_terms": [
+        "right of retainer",
+        "advances",
+        "expenses properly incurred",
+        "remuneration"
+      ],
+      "breakdown": {
+        "plain_summary": "Before handing over money collected on the principal's behalf, the agent can first deduct (retain) whatever the principal owes him — advances he made, proper expenses he incurred, and his agreed remuneration — and pass on only the balance.",
+        "essential_elements": [
+          "Right to retain out of sums received on the principal's account",
+          "Covers: advances made, expenses properly incurred, and remuneration payable"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A self-help set-off — the agent doesn't need to sue separately for reimbursement; he can simply deduct it from money passing through his hands."
+      }
+    },
+    {
+      "number": "218",
+      "title": "Agent's duty to pay sums received for principal",
+      "raw_text": "Subject to such deductions, the agent is bound to pay to his principal all sums received on his account.",
+      "key_terms": [
+        "deductions",
+        "sums received",
+        "pay to principal"
+      ],
+      "breakdown": {
+        "plain_summary": "After making the permitted deductions under Section 217, the agent must hand over the rest of the money received on the principal's behalf.",
+        "essential_elements": [
+          "Subject to the Section 217 deductions",
+          "Agent must pay over all sums received on the principal's account"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The other half of the retainer coin — deduct what's owed to you, then remit the rest; don't hold back more than the permitted deductions."
+      }
+    },
+    {
+      "number": "219",
+      "title": "When agent's remuneration becomes due",
+      "raw_text": "In the absence of any special contract, payment for the performance of any act is not due to the agent until the completion of such act; but an agent may detain moneys received by him on account of goods sold, although the whole of the goods consigned to him for sale may not have been sold, or although the sale may not be actually complete.",
+      "key_terms": [
+        "special contract",
+        "completion of act",
+        "detain moneys",
+        "goods consigned"
+      ],
+      "breakdown": {
+        "plain_summary": "Absent a special agreement fixing when payment is due, the default rule is that the agent's remuneration is only payable once he has completed the act he was engaged to do. However, as a practical carve-out for sale agents, he may still hold back proportionate money already received from partial sales, even before the whole consignment is sold.",
+        "essential_elements": [
+          "Default rule: remuneration due only on completion of the act, absent a special contract",
+          "Carve-out: agent may detain moneys received for goods already sold even if the full consignment is not yet sold or the sale is not fully complete"
+        ],
+        "exceptions_and_qualifications": [
+          "A special contract between principal and agent can displace the default completion-based timing"
+        ],
+        "how_to_read": "Default timing rule, softened by a practical exception for partial sales of consigned goods."
+      }
+    },
+    {
+      "number": "220",
+      "title": "Agent not entitled to remuneration for business misconducted",
+      "raw_text": "An agent who is guilty of misconduct in the business of the agency, is not entitled to any remuneration in respect of that part of the business which he has misconducted.\n\nIllustrations\n(a) A employs B to recover, 1,00,000 rupees from C, and to lay it out on good security. B recovers the 1,00,000 rupees; and lays out 90,000 rupees on good security, but lays out 10,000 rupees on security which he ought to have known to be bad, whereby A loses 2,000 rupees. B is entitled to remuneration for recovering the 1,00,000 rupees and for investing the 90,000 rupees. He is not entitled to any remuneration for investing the 10,000 rupees, and he must make good the 2,000 rupees to B.\n(b) A employs B to recover 1,000 rupees from C. Through B's misconduct the money is not recovered. B is entitled to no remuneration for his services, and must make good the loss.",
+      "key_terms": [
+        "misconduct",
+        "remuneration forfeited",
+        "apportionment of remuneration"
+      ],
+      "breakdown": {
+        "plain_summary": "Misconduct in one part of the agency work forfeits remuneration for that part specifically — the agent doesn't lose remuneration for work he did properly, but he gets nothing (and may owe damages) for the part he bungled.",
+        "essential_elements": [
+          "Agent guilty of misconduct in part of the agency business",
+          "Loses remuneration only for that misconducted part",
+          "Remains entitled to remuneration for properly performed parts"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "An apportionment rule, illustrated concretely: split the business into the well-done part and the misconducted part, and dock remuneration only for the latter."
+      }
+    },
+    {
+      "number": "221",
+      "title": "Agent's lien on principal's property",
+      "raw_text": "In the absence of any contract to the contrary, an agent is entitled to retain goods, papers and other property, whether movable or immovable of the principal received by him, until the amount due to himself for commission, disbursements and services in respect of the same has been paid or accounted for to him.",
+      "key_terms": [
+        "agent's lien",
+        "goods, papers and other property",
+        "commission",
+        "disbursements",
+        "contract to the contrary"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the agent's counterpart to a bailee's lien (Sections 170-171): absent a contrary agreement, the agent can hold on to the principal's goods, papers, or other property that came into his hands, until he is paid what is due to him for commission, disbursements, and services connected with that property.",
+        "essential_elements": [
+          "Applies to goods, papers, and other property (movable or immovable) of the principal received by the agent",
+          "Secures amounts due for commission, disbursements, and services",
+          "Default rule — displaced by a contract to the contrary"
+        ],
+        "exceptions_and_qualifications": [
+          "Does not apply if there is a contract to the contrary"
+        ],
+        "how_to_read": "A security-interest rule — the agent's lien is a leverage device, letting him hold property hostage until paid, unless the parties agreed otherwise."
+      }
+    },
+    {
+      "number": "222",
+      "title": "Agent to be indemnified against consequences of lawful acts",
+      "raw_text": "The employer of an agent is bound to indemnify him against the consequences of all lawful acts done by such agent in exercise of the authority conferred upon him.\n\nIllustrations\n(a) B, at Singapur, under instructions from A of Calcutta, contracts with C to deliver certain goods to him. A does not send the goods to B, and C sues B for breach of contract. B informs A of the suit, and A authorizes him to defend the suit. B defends the suit, and is compelled to pay damages and costs, and incurs expenses. A is liable to B for such damages, costs and expenses.\n(b) B, a broker at Calcutta, by the orders of A, a merchant there, contracts with C for the purchase of 10 casks of oil for A. Afterwards A refuses to receive the oil, and C sues B. B informs A, who repudiates the contract altogether. B defends, but unsuccessfully, and has to pay damages and costs and incurs expenses. A is liable to B for such damages, costs and expenses.",
+      "key_terms": [
+        "indemnify",
+        "lawful acts",
+        "exercise of authority",
+        "employer of agent"
+      ],
+      "breakdown": {
+        "plain_summary": "If the agent, acting within his authority, does something lawful and it ends up costing him money (damages, costs, expenses), the principal must reimburse him. This protects agents from bearing the financial fallout of properly authorized conduct.",
+        "essential_elements": [
+          "Applies to lawful acts done by the agent in exercise of conferred authority",
+          "Principal (employer) bound to indemnify the agent against the consequences"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A baseline protection for agents: act lawfully and within authority, and the principal absorbs the downstream cost."
+      }
+    },
+    {
+      "number": "223",
+      "title": "Agent to be indemnified against consequences of acts done in good faith",
+      "raw_text": "Where one person employs another to do an act, and the agent does the act in good faith, the employer is liable to indemnify the agent against the consequences of that act, though it cause an injury to the rights of third persons.\n\nIllustrations\n(a) A, a decree-holder and entitled to execution of B's goods, requires the officer of the Court to seize certain goods, representing them to be the goods of B. The officer seizes the goods, and is sued by C, the true owner of the goods. A is liable to indemnify the officer for the sum which he is compelled to pay to C, in consequence of obeying A's directions.\n(b) B, at the request of A, sells goods in the possession of A, but which A had no right to dispose of, B does not know this, and hands over the proceeds of the sale to A. Afterwards C, the true owner of the goods, sues B and recovers the value of the goods and costs. A is liable to indemnify B for what he has been compelled to pay to C, and for B's own expenses.",
+      "key_terms": [
+        "good faith",
+        "injury to rights of third persons",
+        "indemnify"
+      ],
+      "breakdown": {
+        "plain_summary": "Even where the agent's good-faith act ends up injuring some third person's rights (e.g., the principal turns out not to have had the right to the goods), the principal must still indemnify the agent for the resulting liability and expenses — as long as the agent acted in good faith on the principal's instructions.",
+        "essential_elements": [
+          "Agent does the act in good faith",
+          "Act causes injury to the rights of a third person",
+          "Employer/principal is liable to indemnify the agent against the consequences"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Good faith is the key qualifier here — it extends indemnity protection even to acts that turn out to wrong a third party, so long as the agent didn't know better."
+      }
+    },
+    {
+      "number": "224",
+      "title": "Non-liability of employer of agent to do a criminal act",
+      "raw_text": "Where one person employs another to do an act which is criminal, the employer is not liable to the agent, either upon an express or an implied promise, to indemnify him against the consequences of that act.\n\nIllustrations\n(a) A employs B to beat C, and agrees to indemnify him against all consequences of the act. B thereupon beats C, and has to pay damages to C for so doing. A is not liable to indemnify B for those damages.\n(b) B, the proprietor of a newspaper, publishes, at A's request, a libel upon C in the paper, and A agrees to indemnify B against the consequences of the publication, and all costs and damages of any action in respect thereof. B is sued by C and has to pay damages, and also incurs expenses. A is not liable to B upon the indemnity.",
+      "key_terms": [
+        "criminal act",
+        "express promise",
+        "implied promise",
+        "non-liability"
+      ],
+      "breakdown": {
+        "plain_summary": "The indemnity protections of Sections 222 and 223 have a hard limit: if the act the agent was employed to do is itself criminal, the principal cannot be forced to indemnify the agent for the consequences — even if the principal expressly promised to do so. Courts will not enforce an indemnity for crime.",
+        "essential_elements": [
+          "Act employed to be done is criminal",
+          "Employer not liable to indemnify — even under an express promise to do so",
+          "Also excludes indemnity arising by implied promise"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A public-policy override — no indemnity for criminal acts, express agreement notwithstanding; this is the counterpoint to Sections 222-223's general indemnity rules."
+      }
+    },
+    {
+      "number": "225",
+      "title": "Compensation to agent for injury caused by principal's neglect",
+      "raw_text": "The principal must make compensation to his agent in respect of injury caused to such agent by the principal's neglect or want of skill.\n\nIllustration A employs B as a bricklayer in building a house, and puts up the scaffolding himself. The scaffolding is unskilfully put up, and B is in consequence hurt. A must make compensation to B.",
+      "key_terms": [
+        "injury",
+        "principal's neglect",
+        "want of skill",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "The duty of care runs both ways: just as the agent owes the principal skill and diligence, the principal owes the agent compensation if the principal's own neglect or lack of skill causes the agent physical or other injury while carrying out the agency.",
+        "essential_elements": [
+          "Injury caused to the agent",
+          "Caused by the principal's neglect or want of skill",
+          "Principal must compensate the agent"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A mirror-image duty to Section 212 — this time it is the principal's carelessness that triggers compensation, owed to the agent."
+      }
+    },
+    {
+      "number": "226",
+      "title": "Enforcement and consequences of agent's contracts",
+      "raw_text": "Contracts entered into through an agent, and obligations arising from acts done by an agent, may be enforced in the same manner, and will have the same legal consequences, as if the contracts had been entered into and the acts done by the principal in person.\n\nIllustrations\n(a) A buys goods from B, knowing that he is an agent for their sale, but not knowing who is the principal. B's principal is the person entitled to claim from A the price of the goods, and A cannot, in a suit by the principal, set-off against that claim a debt due to himself from B.\n(b) A, being B's agent, with authority to receive money on his behalf, receives from C a sum of money due to B. C is discharged of his obligation to pay the sum in question to B.",
+      "key_terms": [
+        "enforce contracts",
+        "legal consequences",
+        "as if principal in person"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the foundational rule of agency law: a contract made through a duly authorized agent binds and benefits the principal exactly as if the principal had personally entered into it. It can be enforced by or against the principal, and third parties are bound in dealing with the agent as they would be in dealing directly with the principal.",
+        "essential_elements": [
+          "Contracts entered into through an agent",
+          "Obligations arising from the agent's acts",
+          "Enforced in the same manner, with the same legal consequences, as if the principal acted in person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the master rule underlying the entire chapter — agency 'transmits' legal effect from agent to principal as though there were no intermediary at all."
+      }
+    },
+    {
+      "number": "227",
+      "title": "Principal how far bound, when agent exceeds authority",
+      "raw_text": "When an agent does more than he is authorized to do, and when the part of what he does, which is within his authority, can be separated from the part which is beyond his authority, so much only of what he does as is within his authority is binding as between him and his principal.\n\nIllustration A, being owner of a ship and cargo, authorizes B to procure an insurance for 4,000 rupees on the ship. B procures a policy for 4,000 rupees on the ship, and another for the like sum on the cargo. A is bound to pay the premium for the policy on the ship, but not the premium for the policy on the cargo.",
+      "key_terms": [
+        "exceeds authority",
+        "separable",
+        "binding",
+        "excess of authority"
+      ],
+      "breakdown": {
+        "plain_summary": "If the agent's excess act can be cleanly separated from the authorized act, the principal is bound only by the authorized part; the unauthorized excess simply doesn't bind the principal, but the valid part stands on its own.",
+        "essential_elements": [
+          "Agent does more than authorized",
+          "Authorized and unauthorized parts are separable",
+          "Only the authorized part binds the principal"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The first half of a two-part rule (paired with Section 228) turning on separability — sever what you can, and hold the principal only to the authorized slice."
+      }
+    },
+    {
+      "number": "228",
+      "title": "Principal not bound when excess of agent's authority is not separable",
+      "raw_text": "Where an agent does more than he is authorized to do, and what he does beyond the scope of his authority cannot be separated from what is within it, the principal is not bound to recognize the transaction.\n\nIllustration A authorizes B to buy 500 sheep for him. B buys 500 sheep and 200 lambs for one sum of 6,000 rupees. A may repudiate the whole transaction.",
+      "key_terms": [
+        "not separable",
+        "repudiate whole transaction",
+        "scope of authority"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the excess cannot be cleanly severed from the authorized part (e.g., a single lump-sum deal covering both), the principal is entitled to reject the entire transaction — not just the excess portion.",
+        "essential_elements": [
+          "Agent exceeds authority",
+          "Excess is not separable from the authorized part",
+          "Principal not bound to recognize the transaction at all"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The flip side of Section 227 — when you cannot cleanly split authorized from unauthorized, the whole deal falls, and the principal may repudiate it entirely."
+      }
+    },
+    {
+      "number": "229",
+      "title": "Consequences of notice given to agent",
+      "raw_text": "Any notice given to or information obtained by the agent, provided it be given or obtained in the course of the business transacted by him for the principal, shall, as between the principal and third parties, have the same legal consequences as if it had been given to or obtained by the principal.\n\nIllustrations\n(a) A is employed by B to buy from C certain goods, of which C is the apparent owner, and buys them accordingly. In the course of the treaty for the sale, A learns that the goods really belonged to D, but B is ignorant of that fact. B is not entitled to set-off a debt owing to him from C against the price of the goods.\n(b) A is employed by B to buy from C goods of which C is the apparent owner. A was, before he was so employed, a servant of C, and then learnt that the goods really belonged to D, but B is ignorant of that fact. In spite of the knowledge of his agent, B may set-off against the price of the goods a debt owing to him from C.",
+      "key_terms": [
+        "notice to agent",
+        "imputed knowledge",
+        "course of business",
+        "third parties"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the doctrine of imputed notice: knowledge the agent picks up while transacting the principal's business is treated, as against third parties, as if the principal himself knew it — even if the principal in fact had no idea. But knowledge the agent acquired outside that course of business (e.g., from an earlier, unrelated role, as in Illustration (b)) is not imputed.",
+        "essential_elements": [
+          "Notice given to, or information obtained by, the agent",
+          "Must be in the course of the business transacted for the principal",
+          "Treated as if given to or obtained by the principal himself, as against third parties"
+        ],
+        "exceptions_and_qualifications": [
+          "Knowledge acquired by the agent outside the course of the relevant agency business is not imputed to the principal (Illustration (b))"
+        ],
+        "how_to_read": "An imputation rule — trace whether the agent's knowledge arose inside or outside the specific agency transaction; only 'inside' knowledge binds the principal."
+      }
+    },
+    {
+      "number": "230",
+      "title": "Agent cannot personally enforce, nor be bound by, contracts on behalf of principal",
+      "raw_text": "In the absence of any contract to that effect, an agent cannot personally enforce contracts entered into by him on behalf of his principal, nor is he personally bound by them.\n\nPresumption of contract to contrary—Such a contract shall be presumed to exist in the following cases:—\n(1) where the contract is made by an agent for the sale or purchase of goods for a merchant resident abroad;\n(2) where the agent does not disclose the name of his principal;\n(3) where the principal, though disclosed, cannot be sued.",
+      "key_terms": [
+        "personally enforce",
+        "personally bound",
+        "presumption of contract to contrary",
+        "merchant resident abroad",
+        "undisclosed principal",
+        "principal cannot be sued"
+      ],
+      "breakdown": {
+        "plain_summary": "The default rule is that the agent is merely a conduit — he can neither sue on, nor be sued on, contracts he made for the principal. But the section flags three situations where the opposite is presumed: the principal is a foreign merchant, the agent doesn't name the principal, or the disclosed principal cannot be sued (e.g., diplomatic immunity). In these cases, the agent is presumed personally liable/entitled unless shown otherwise.",
+        "essential_elements": [
+          "Default: agent cannot personally sue or be sued on the principal's contracts",
+          "Displaced by an actual contract to the contrary",
+          "Also presumed displaced in three situations: foreign-resident merchant principal, undisclosed principal, or a disclosed principal who cannot be sued"
+        ],
+        "exceptions_and_qualifications": [
+          "The three listed situations are themselves presumptions, rebuttable by evidence of a contrary intention"
+        ],
+        "how_to_read": "Default non-liability of the agent, with three statutory presumptions flipping that default — treat the list as situations practitioners must specifically check for when deciding whom to sue."
+      }
+    },
+    {
+      "number": "231",
+      "title": "Rights of parties to a contract made by agent not disclosed",
+      "raw_text": "If an agent makes a contract with a person who neither knows, nor has reason to suspect, that he is an agent, his principal may require the performance of the contract; but the other contracting party has, as against the principal, the same rights as he would have had as against the agent if the agent had been principal. If the principal discloses himself before the contract is completed, the other contracting party may refuse to fulfil the contract, if he can show that, if he had known who was the principal in the contract, or if he had known that the agent was not a principal, he would not have entered into the contract.",
+      "key_terms": [
+        "undisclosed principal",
+        "reason to suspect",
+        "same rights as against agent",
+        "refuse to fulfil"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the other party has no idea (and no reason to suspect) they're dealing with an agent, the real principal can still step in and demand performance — but the other party keeps all the defences/rights they would have had against the agent personally. And if the principal reveals himself before the deal is done, the other party can back out if they can show they would never have contracted had they known the true principal, or known it wasn't a principal-to-principal deal.",
+        "essential_elements": [
+          "Agent contracts with a party unaware (and with no reason to suspect) that he is an agent",
+          "Principal may require performance of the contract",
+          "Other party retains, against the principal, the same rights as against the agent",
+          "If principal discloses before completion, other party may refuse performance on proof that knowledge of the true principal (or of the agency) would have changed their decision to contract"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Balances the undisclosed principal's right to step in against the other party's reliance interest — the other party is not worse off than if they'd known they were dealing with an agent from the start."
+      }
+    },
+    {
+      "number": "232",
+      "title": "Performance of contract with agent supposed to be principal",
+      "raw_text": "Where one man makes a contract with another, neither knowing nor having reasonable ground to suspect that the other is an agent, the principal, if he requires the performance of the contract, can only obtain such performance subject to the rights and obligations subsisting between the agent and the other party to the contract.\n\nIllustration A, who owes 500 rupees to B, sells 1,000 rupees worth of rice to B. A is acting as agent for C in the transaction, but B has no knowledge nor reasonable ground of suspicion that such is the case. C cannot compel B to take the rice without allowing him to set-off A's debt.",
+      "key_terms": [
+        "subject to rights and obligations",
+        "set-off",
+        "supposed to be principal"
+      ],
+      "breakdown": {
+        "plain_summary": "When the undisclosed principal wants to step in and enforce the contract, he takes it subject to any rights (like a set-off) that had already accrued between the agent and the other party — the principal cannot claim a cleaner position than the agent himself had.",
+        "essential_elements": [
+          "Contract made without knowledge or reasonable suspicion of agency",
+          "Principal enforcing the contract takes it subject to rights/obligations already existing between the agent and the other party"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A step-into-the-agent's-shoes rule — the principal's enforcement right is capped by whatever equities (like set-offs) already existed between the agent and the third party."
+      }
+    },
+    {
+      "number": "233",
+      "title": "Right of person dealing with agent personally liable",
+      "raw_text": "In cases where the agent is personally liable, a person dealing with him may hold either him or his principal, or both of them, liable.\n\nIllustration A enters into a contract with B to sell him 100 bales of cotton, and afterwards discovers that B was acting as agent for C. A may sue either B or C, or both, for the price of the cotton.",
+      "key_terms": [
+        "personally liable",
+        "hold liable",
+        "either or both"
+      ],
+      "breakdown": {
+        "plain_summary": "Where circumstances make the agent personally liable (per the exceptions in Section 230), the other party isn't forced to choose only one target — they may sue the agent, the principal, or both.",
+        "essential_elements": [
+          "Applies only where the agent is personally liable in the first place",
+          "Other party may hold the agent, the principal, or both liable"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A procedural flexibility rule for the claimant — options, not an either/or election, when the agent happens to be personally liable."
+      }
+    },
+    {
+      "number": "234",
+      "title": "Consequence of inducing agent or principal to act on belief that principal or agent will be held exclusively liable",
+      "raw_text": "When a person who has made a contract with an agent induces the agent to act upon the belief that the principal only will be held liable, or induces the principal to act upon the belief that the agent only will be held liable, he cannot afterwards hold liable the agent or principal respectively.",
+      "key_terms": [
+        "induces belief",
+        "exclusively liable",
+        "cannot afterwards hold liable"
+      ],
+      "breakdown": {
+        "plain_summary": "This is an estoppel-style rule: if the third party deliberately leads the agent to believe only the principal will be pursued (or leads the principal to believe only the agent will be pursued), the third party is then held to that representation and loses the right to later go after the party they excluded.",
+        "essential_elements": [
+          "Third party induces agent to believe only the principal will be held liable, OR induces principal to believe only the agent will be held liable",
+          "Third party thereafter cannot hold liable the party he induced to be excluded"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "An estoppel check on Section 233's flexibility — the freedom to sue either or both is lost if the claimant already committed, by conduct, to pursuing only one of them."
+      }
+    },
+    {
+      "number": "235",
+      "title": "Liability of pretended agent",
+      "raw_text": "A person untruly representing himself to be the authorized agent of another, and thereby inducing a third person to deal with him as such agent, is liable, if his alleged employer does not ratify his acts, to make compensation to the other in respect of any loss or damage which he has incurred by so dealing.",
+      "key_terms": [
+        "pretended agent",
+        "untruly representing",
+        "alleged employer",
+        "ratify",
+        "compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "Someone who falsely claims to be another person's authorized agent, and thereby gets a third party to deal with them on that false basis, is personally liable to compensate that third party for any loss — unless the person they claimed to represent chooses to ratify (adopt) the unauthorized acts after the fact.",
+        "essential_elements": [
+          "Untrue representation of being an authorized agent",
+          "Induces a third person to deal with the pretender as such an agent",
+          "No ratification by the alleged employer",
+          "Pretender liable to compensate the third party for loss or damage"
+        ],
+        "exceptions_and_qualifications": [
+          "If the alleged employer ratifies the pretended agent's acts, the pretender escapes this liability"
+        ],
+        "how_to_read": "A fraud-adjacent liability rule for fake agents, with ratification (Sections 196-200) as the escape valve if the supposed principal chooses to adopt the acts anyway."
+      }
+    },
+    {
+      "number": "236",
+      "title": "Person falsely contracting as agent not entitled to performance",
+      "raw_text": "A person with whom a contract has been entered into in the character of agent, is not entitled to require the performance of it, if he was in reality acting, not as agent, but on his own account.",
+      "key_terms": [
+        "falsely contracting as agent",
+        "own account",
+        "not entitled to performance"
+      ],
+      "breakdown": {
+        "plain_summary": "If someone pretends to contract as an agent for another, but was actually acting for himself all along, he cannot later turn around and demand performance of that contract in his own right — his false representation of agency bars him from enforcing it as a principal.",
+        "essential_elements": [
+          "Contract entered into in the character of an agent",
+          "Person was in reality acting on his own account, not as agent",
+          "Not entitled to require performance of the contract"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A companion to Section 235, from the other direction — this bars the false 'agent' from claiming performance for himself, rather than making him liable to a third party."
+      }
+    },
+    {
+      "number": "237",
+      "title": "Liability of principal inducing belief that agent's unauthorized acts were authorized",
+      "raw_text": "When an agent has, without authority, done acts or incurred obligations to third persons on behalf of his principal, the principal is bound by such acts or obligations, if he has by his words or conduct induced such third persons to believe that such acts and obligations were within the scope of the agent's authority.\n\nIllustrations\n(a) A consigns goods to B for sale, and gives him instructions not to sell under a fixed price. C, being ignorant of B's instructions, enters into a contract with B to buy the goods at a price lower than the reserved price. A is bound by the contract.\n(b) A entrusts B with negotiable instruments endorsed in blank. B sells them to C in violation of private orders from A. The sale is good.",
+      "key_terms": [
+        "without authority",
+        "words or conduct",
+        "apparent authority",
+        "induced belief",
+        "bound"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the doctrine of apparent (or 'ostensible') authority: even where the agent secretly exceeded his actual private instructions, the principal is still bound if the principal's own words or conduct made it reasonably appear to third parties that the agent had that authority. The third party's ignorance of secret internal limits is protected.",
+        "essential_elements": [
+          "Agent acts without actual authority, or incurs obligations, on the principal's behalf",
+          "Principal, by words or conduct, induced third persons to believe the act was within the agent's authority",
+          "Principal bound by such acts/obligations"
+        ],
+        "exceptions_and_qualifications": [
+          "Private, undisclosed instructions limiting the agent's authority do not bind third parties who reasonably believed the agent had full authority"
+        ],
+        "how_to_read": "The apparent-authority doctrine — look at what the principal outwardly held out to the world, not just the private instructions given to the agent behind the scenes."
+      }
+    },
+    {
+      "number": "238",
+      "title": "Effect, on agreement, of misrepresentation or fraud, by agent",
+      "raw_text": "Misrepresentation made, or frauds committed, by agents acting in the course of their business for their principals, have the same effect on agreements made by such agents as if such misrepresentations or frauds had been made or committed by the principals; but misrepresentations made, or frauds committed, by agents, in matters which do not fall within their authority, do not affect their principals.\n\nIllustrations\n(a) A, being B's agent for the sale of goods, induces C to buy them by a misrepresentation, which he was not authorized by B to make. The contract is voidable, as between B and C, at the option of C.\n(b) A, the captain of B's ship, signs bills of lading without having received on board the goods mentioned therein. The bills of lading are void as between B and the pretended cosignor.",
+      "key_terms": [
+        "misrepresentation",
+        "fraud",
+        "course of business",
+        "matters not within authority",
+        "voidable"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes out the Agency chapter by fixing how an agent's dishonesty or false statements affect the principal. If the agent's misrepresentation or fraud happens in the course of doing the principal's business, it is treated exactly as if the principal made it — even if the principal did not authorize that specific misstatement (Illustration (a) shows the resulting contract is voidable at the innocent third party's option). But fraud or misrepresentation in matters entirely outside the agent's authority does not bind the principal at all.",
+        "essential_elements": [
+          "Misrepresentation or fraud committed by the agent in the course of business for the principal",
+          "Treated as if committed by the principal himself",
+          "Exception: misrepresentation/fraud in matters not falling within the agent's authority does not affect the principal"
+        ],
+        "exceptions_and_qualifications": [
+          "The 'course of business' boundary is the operative line — acts genuinely outside that scope do not taint the principal"
+        ],
+        "how_to_read": "The final rule of the Agency chapter: attribute the agent's course-of-business dishonesty to the principal, but draw the line at matters genuinely outside the agent's authority."
       }
     }
   ]
