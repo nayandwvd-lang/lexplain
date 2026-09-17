@@ -1,0 +1,80 @@
+{
+  "act_title": "The Indian Contract Act, 1872",
+  "act_number": "Act No. 9 of 1872",
+  "enactment_date": "25 April 1872",
+  "preamble": "An Act to define and amend certain parts of the law relating to contracts. Preamble: WHEREAS it is expedient to define and amend certain parts of the law relating to contracts; It is hereby enacted as follows:—",
+  "glossary": {
+    "agreements": "A mutual understanding between two or more parties about their rights and duties. Not every agreement is legally enforceable — only those meeting the tests in Section 10 become contracts.",
+    "free consent": "Agreement given without being forced, tricked, pressured, or mistaken. Section 14 lists five things that can spoil consent: coercion, undue influence, fraud, misrepresentation, and mistake.",
+    "competent to contract": "Legally capable of entering into a binding agreement. Section 11 sets three requirements: the person must have reached the age of majority, be of sound mind, and not be barred by any other law.",
+    "lawful consideration": "Something of value — money, a promise, an object, or an act — exchanged between the parties, as long as it isn't illegal, immoral, or against public policy.",
+    "lawful object": "The purpose of the agreement must not be forbidden by law, fraudulent, injurious to another person or their property, immoral, or against public policy.",
+    "void": "Having no legal effect at all — a void agreement cannot be enforced by either party in any court, as if it never created any rights or obligations.",
+    "age of majority": "The age at which a person is legally treated as an adult. Under the Indian Majority Act, 1875, this is ordinarily 18 years (or 21 years if a guardian has been appointed for the person or their property).",
+    "sound mind": "The mental capacity, at the moment of contracting, to understand the agreement's terms and to form a rational judgment about how it will affect one's own interests. This is tested at the time of the transaction, not as a permanent label on the person.",
+    "unsound mind": "A temporary or permanent state in which a person cannot understand an agreement or judge its effect on their interests — for example due to lunacy, intoxication, or illness. It does not automatically bar a person from ever contracting; capacity is judged at the specific moment of the transaction.",
+    "rational judgment": "The ability to weigh how an agreement will help or harm one's own interests, not merely the ability to understand its words."
+  },
+  "sections": [
+    {
+      "number": "10",
+      "title": "What agreements are contracts",
+      "raw_text": "10. What agreements are contracts.—All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.\n\nNothing herein contained shall affect any law in force in India and not hereby expressly repealed, by which any contract is required to be made in writing or in the presence of witnesses, or any law relating to the registration of documents.",
+      "key_terms": ["agreements", "free consent", "competent to contract", "lawful consideration", "lawful object", "void"],
+      "breakdown": {
+        "plain_summary": "Section 10 is the master checklist for turning a plain agreement into a legally enforceable contract. An agreement becomes a contract only when five conditions are satisfied together: free consent, competent parties, lawful consideration, a lawful object, and the agreement is not one that the Act itself declares void.",
+        "essential_elements": [
+          "There must be an agreement between two or more parties (offer + acceptance).",
+          "Consent must be free — not caused by coercion, undue influence, fraud, misrepresentation, or mistake (Section 14).",
+          "All parties must be competent to contract under Section 11 (age of majority, sound mind, not disqualified by law).",
+          "There must be lawful consideration flowing between the parties.",
+          "The object of the agreement must be lawful.",
+          "The agreement must not fall into any category expressly declared void elsewhere in the Act (e.g. Sections 24–30)."
+        ],
+        "exceptions_and_qualifications": [
+          "The second paragraph is a savings clause: it does not create new formality requirements, but preserves any existing Indian law that requires a particular contract to be in writing, attested by witnesses, or registered (e.g. gift deeds, certain leases under the Transfer of Property Act, or the Registration Act, 1908).",
+          "Section 10 does not itself require writing or registration for a contract to be valid — oral contracts are generally enforceable unless another statute says otherwise for that specific type of transaction."
+        ],
+        "how_to_read": "Read Section 10 as the general validity test, then cross-refer outward: 'free consent' sends you to Section 14, 'competent to contract' sends you to Section 11, and 'not expressly declared void' sends you to the specific void-agreement provisions (Sections 20, 23–30, 56). Section 10 rarely operates alone in argument — it is almost always pleaded together with the specific section that the opposing side is alleged to have breached."
+      }
+    },
+    {
+      "number": "11",
+      "title": "Who are competent to contract",
+      "raw_text": "11. Who are competent to contract.—Every person is competent to contract who is of the age of majority according to the law to which he is subject, and who is of sound mind, and is not disqualified from contracting by any law to which he is subject.",
+      "key_terms": ["age of majority", "sound mind", "competent to contract"],
+      "breakdown": {
+        "plain_summary": "Section 11 defines exactly who is legally allowed to enter into a binding contract. A person qualifies only if they satisfy all three tests: they have reached adulthood under the law that applies to them, they are mentally capable of understanding the deal, and no other law specifically bars them from contracting.",
+        "essential_elements": [
+          "Age of majority: ordinarily 18 years under the Indian Majority Act, 1875 (21 years where a court-appointed guardian manages the minor's person or property).",
+          "Soundness of mind: the person must, at the time of contracting, satisfy the Section 12 test.",
+          "No legal disqualification: the person must not be barred from contracting by any other applicable law (e.g. certain restrictions on alien enemies, insolvents, or convicts under specific statutes)."
+        ],
+        "exceptions_and_qualifications": [
+          "A minor's agreement is not merely voidable — it is void ab initio (settled by Mohori Bibee v. Dharmodas Ghose), which is a stronger consequence than the ordinary voidability rules that apply to other incompetent persons.",
+          "Persons of unsound mind can still contract during lucid intervals — incapacity is assessed at the moment of the transaction, not as a permanent status (see Section 12)."
+        ],
+        "how_to_read": "Section 11 is a three-part conjunctive test — all three limbs (age, mind, no disqualification) must be met; failing any one limb makes the party incompetent. When drafting a plaint or defence, always plead competency as of the date the contract was made, not the date of the suit."
+      }
+    },
+    {
+      "number": "12",
+      "title": "What is a sound mind for the purposes of contracting",
+      "raw_text": "12. What is a sound mind for the purposes of contracting.—A person is said to be of sound mind for the purpose of making a contract if, at the time when he makes it, he is capable of understanding it and of forming a rational judgment as to its effect upon his interests.\n\nA person who is usually of unsound mind, but occasionally of sound mind, may make a contract when he is of sound mind.\n\nA person who is usually of sound mind, but occasionally of unsound mind, may not make a contract when he is of unsound mind.",
+      "key_terms": ["sound mind", "unsound mind", "rational judgment"],
+      "breakdown": {
+        "plain_summary": "Section 12 supplies the working test for 'sound mind' referenced in Section 11. It is a functional, moment-in-time test — not a diagnostic or permanent label. What matters is whether the person, at the exact moment they signed or agreed, could understand the contract's terms and judge how it would affect their own interests.",
+        "essential_elements": [
+          "Capacity to understand the terms of the contract itself.",
+          "Capacity to form a rational judgment about how the contract affects one's own interests.",
+          "Both capacities must exist at the precise time the contract is made — not before or after."
+        ],
+        "exceptions_and_qualifications": [
+          "A person usually of unsound mind (e.g. someone with a diagnosed mental illness) can validly contract during a lucid interval when they meet the test.",
+          "A person usually of sound mind cannot validly contract during a temporary episode of unsoundness (e.g. delirium, severe intoxication, or a psychotic episode) even if that episode is brief."
+        ],
+        "how_to_read": "Section 12 should always be read together with Section 11 — Section 11 says sound mind is required, Section 12 defines it. In court, the burden typically falls on the party alleging unsoundness to prove incapacity existed specifically at the moment of contracting; medical evidence about the person's general condition is relevant but not conclusive by itself."
+      }
+    }
+  ]
+}

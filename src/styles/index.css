@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+body {
+  font-family: "Lora", "Merriweather", serif;
+}
+
+.font-sans {
+  font-family: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+.font-serif {
+  font-family: "Lora", "Merriweather", serif;
+}
