@@ -71,8 +71,10 @@ def parse_and_enrich(
     for i, m in enumerate(matches[:limit] if limit else matches):
         sec_num, title = m.group(1).strip(), m.group(2).strip()
         end_pos = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-        raw_body = m.group(3) + text[m.end():end_pos]
-        raw_text = f"{sec_num}. {title}—{raw_body.strip()}"
+        # Slice the original source verbatim rather than reconstructing with a
+        # hardcoded "—" separator — the source's actual title/body separator
+        # (e.g. ".—") varies, and reconstructing it risked doubling the dash.
+        raw_text = text[m.start():end_pos].strip()
 
         resp = client.messages.create(
             model=MODEL_ID,

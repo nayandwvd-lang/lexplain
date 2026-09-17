@@ -13,14 +13,248 @@
     "age of majority": "The age at which a person is legally treated as an adult. Under the Indian Majority Act, 1875, this is ordinarily 18 years (or 21 years if a guardian has been appointed for the person or their property).",
     "sound mind": "The mental capacity, at the moment of contracting, to understand the agreement's terms and to form a rational judgment about how it will affect one's own interests. This is tested at the time of the transaction, not as a permanent label on the person.",
     "unsound mind": "A temporary or permanent state in which a person cannot understand an agreement or judge its effect on their interests — for example due to lunacy, intoxication, or illness. It does not automatically bar a person from ever contracting; capacity is judged at the specific moment of the transaction.",
-    "rational judgment": "The ability to weigh how an agreement will help or harm one's own interests, not merely the ability to understand its words."
+    "rational judgment": "The ability to weigh how an agreement will help or harm one's own interests, not merely the ability to understand its words.",
+    "saving clause": "A provision that protects certain existing rights, laws, or practices from being affected by a new statute, so they continue to operate unless expressly overridden.",
+    "proposal": "An offer — one person signalling to another their willingness to do or not do something, in order to get that other person's agreement to it. Called a 'promise' once accepted.",
+    "acceptance": "The offeree's clear agreement to a proposal, given in the manner asked for (or a reasonable manner). It must exactly match the proposal — any change turns it into a counter-offer instead.",
+    "promisor": "The person who makes a proposal that is accepted, and who therefore owes the resulting promise.",
+    "promisee": "The person who accepts a proposal, and who is therefore owed the resulting promise.",
+    "consideration": "What each side gives or promises in exchange for the other's promise — money, an act, forbearance, or another promise — done at the desire of the promisor.",
+    "reciprocal promises": "Promises that form the consideration, or part of the consideration, for each other — each side's promise is the price of the other's.",
+    "contract": "An agreement that the law will enforce.",
+    "voidable contract": "A contract that remains fully valid and binding unless and until the wronged party chooses to cancel it — unlike a void agreement, which was never enforceable at all.",
+    "communication of proposal": "The point at which an offer, acceptance, or its revocation legally takes effect — governed by precise rules in Sections 3 to 5, since a proposal, an acceptance, and a revocation can each become 'complete' at a different moment for each party.",
+    "communication when complete": "The specific moment at which a proposal, acceptance, or revocation becomes legally effective — which can differ depending on whether you are the sender or the receiver.",
+    "revocation": "Withdrawing a proposal or an acceptance before it becomes legally binding. Once communication is 'complete' against a party, that party can no longer revoke.",
+    "express promise": "A promise made in words, spoken or written.",
+    "implied promise": "A promise inferred from a person's conduct, without the need for any words.",
+    "consent": "Agreement between two or more people on the very same thing, understood in the very same sense by both.",
+    "consensus ad idem": "Latin for 'agreement as to the same thing' — the legal requirement that both parties understand the terms of their agreement identically.",
+    "coercion": "Forcing someone into an agreement by committing or threatening an act that the criminal law forbids, or by unlawfully detaining or threatening to detain their property.",
+    "undue influence": "Using a position of dominance over someone's will — such as authority, a fiduciary relationship, or their impaired mental state — to obtain an unfair advantage from them in a contract.",
+    "fiduciary relation": "A relationship of trust and confidence (such as trustee-beneficiary, guardian-ward, or doctor-patient) in which one party is expected to act in the other's best interests.",
+    "unconscionable": "So one-sided or unfair that it shocks the conscience of the court — a key trigger under Section 16(3) for shifting the burden of proof onto the dominant party.",
+    "fraud": "Dishonestly deceiving someone into a contract — by a false statement not believed to be true, active concealment, a promise never meant to be kept, or any other deliberately deceptive act.",
+    "active concealment": "Deliberately hiding a fact one knows or believes to be true, in order to deceive the other party — distinct from mere silence.",
+    "mere silence": "Simply not volunteering information. Under Section 17's Explanation, silence alone is not fraud unless there was a duty to speak, or the silence was itself equivalent to a false statement.",
+    "misrepresentation": "An untrue statement made honestly (without any intent to deceive), which still misleads the other party into the contract or into a mistaken belief about its subject matter.",
+    "coercion, fraud or misrepresentation": "The three consent-vitiating grounds under Section 19 that make a contract voidable at the option of the wronged party.",
+    "mistake of fact": "A false belief about a factual matter essential to the agreement — for example, believing goods still exist when they have already been destroyed.",
+    "common mistake": "A mistake of fact shared by both parties to the agreement — under Section 20, this voids the agreement entirely if the fact was essential to it.",
+    "unilateral mistake": "A mistake of fact held by only one of the two parties — under Section 22, this alone does not make the contract voidable.",
+    "mistake of law": "A false belief about what the law provides. A mistake about Indian law gives no relief; a mistake about foreign law is treated the same as a mistake of fact.",
+    "public policy": "The body of interests that courts protect against private bargains — such as preventing corruption, protecting the administration of justice, and safeguarding personal freedoms like marriage and trade.",
+    "natural love and affection": "The emotional bond between close relatives, which Section 25 recognises as a valid basis for an enforceable gift-like promise, but only if the promise is also in writing and registered.",
+    "restraint of marriage": "A contract term that limits or penalises a person's freedom to marry — void under Section 26 for any person who is not a minor.",
+    "restraint of trade": "A contract term restricting a person's ability to carry on a lawful profession, trade, or business — void under Section 27 except for the narrow good-will exception.",
+    "good-will": "The reputation and customer loyalty attached to a business, which can be sold along with a valid, reasonably limited promise by the seller not to compete with the buyer.",
+    "restraint of legal proceedings": "A contract term that blocks a party from going to court, or artificially shortens their time to sue, or strips their rights merely because time has passed — void under Section 28, apart from the arbitration exceptions.",
+    "arbitration": "A private dispute-resolution process, agreed to by contract, in which a neutral arbitrator decides the dispute instead of a court — expressly protected from Section 28's general bar on restraining legal proceedings.",
+    "uncertainty": "A degree of vagueness in an agreement's terms that cannot be resolved even by looking at context, trade custom, or an agreed mechanism — Section 29 voids only agreements this vague.",
+    "wager": "A bet — an agreement where each side's gain or loss depends purely on the outcome of an uncertain event, with no other stake in that outcome. Wagering agreements are void and unenforceable in court under Section 30."
   },
   "sections": [
+    {
+      "number": "1",
+      "title": "Short title, extent and commencement",
+      "raw_text": "1. Short title.—This Act may be called the Indian Contract Act, 1872.\n\nExtent, Commencement.—It extends to the whole of India; and it shall come into force on the first day of September, 1872.\n\nSaving.—Nothing herein contained shall affect the provisions of any Statute, Act or Regulation not hereby expressly repealed, nor any usage or custom of trade, nor any incident of any contract, not inconsistent with the provisions of this Act.",
+      "key_terms": [
+        "saving clause"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 1 is the Act's own identity card: it names the statute, fixes its territorial reach (the whole of India), and its commencement date (1 September 1872). The closing \"saving\" clause is a non-obstante-style protection running the other way — it tells courts this Act is not meant to wipe out other laws, trade customs, or contract-specific incidents unless it expressly says so.",
+        "essential_elements": [
+          "The short title by which the Act is cited is \"the Indian Contract Act, 1872\".",
+          "The Act extends to the whole of India and commenced on 1 September 1872.",
+          "Any other Statute, Act or Regulation not expressly repealed by this Act survives untouched.",
+          "Trade usages and customs, and incidents of a contract, remain effective so long as they are not inconsistent with the Act."
+        ],
+        "exceptions_and_qualifications": [
+          "The saving clause only protects what is not inconsistent with the Act — an express provision of the Contract Act always overrides a conflicting usage or custom."
+        ],
+        "how_to_read": "Treat Section 1 as background, not a live pleading point — it is almost never cited on its own in argument. Its only real practical use is the saving clause: when opposing counsel argues a trade custom or another statute is displaced by the Contract Act, check first whether the Act expressly repeals it or is merely silent, since silence favours the custom/other law surviving."
+      }
+    },
+    {
+      "number": "2",
+      "title": "Interpretation-clause",
+      "raw_text": "2. Interpretation-clause.—In this Act the following words and expressions are used in the following senses, unless a contrary intention appears from the context:—\n\n(a) When one person signifies to another his willingness to do or to abstain from doing anything, with a view to obtaining the assent of that other to such act or abstinence, he is said to make a proposal;\n\n(b) When the person to whom the proposal is made signifies his assent thereto, the proposal is said to be accepted. A proposal, when accepted, becomes a promise;\n\n(c) The person making the proposal is called the \"promisor\", and the person accepting the proposal is called the \"promisee\";\n\n(d) When, at the desire of the promisor, the promisee or any other person has done or abstained from doing, or does or abstains from doing, or promises to do or to abstain from doing, something, such act or abstinence or promise is called a consideration for the promise;\n\n(e) Every promise and every set of promises, forming the consideration for each other, is an agreement;\n\n(f) Promises which form the consideration or part of the consideration for each other are called reciprocal promises;\n\n(g) An agreement not enforceable by law is said to be void;\n\n(h) An agreement enforceable by law is a contract;\n\n(i) An agreement which is enforceable by law at the option of one or more of the parties thereto, but not at the option of the other or others, is a voidable contract;\n\n(j) A contract which ceases to be enforceable by law becomes void when it ceases to be enforceable.",
+      "key_terms": [
+        "proposal",
+        "acceptance",
+        "promisor",
+        "promisee",
+        "consideration",
+        "agreement",
+        "reciprocal promises",
+        "void",
+        "contract",
+        "voidable contract"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 2 is the Act's dictionary — every other section relies on these ten defined terms. It builds a chain: a proposal (offer) that is accepted becomes a promise; a promise (or set of promises) forming consideration for each other is an agreement; and an agreement enforceable by law is a contract. It also separately defines the two defective categories — void (never enforceable) and voidable (enforceable only at one party's option).",
+        "essential_elements": [
+          "Proposal (offer): a signified willingness to do or abstain from something, aimed at obtaining another's assent.",
+          "Acceptance: the offeree's signified assent to the proposal, which converts it into a promise.",
+          "Consideration: something done, not done, or promised at the desire of the promisor, by the promisee or any other person.",
+          "Agreement: every promise, or set of reciprocal promises, forming the consideration for each other.",
+          "Void agreement: one not enforceable by law at all.",
+          "Contract: an agreement enforceable by law.",
+          "Voidable contract: enforceable at the option of one or more parties, but not the other(s)."
+        ],
+        "exceptions_and_qualifications": [
+          "These definitions apply \"unless a contrary intention appears from the context\" — a contextual reading can displace the literal definition in an unusual case."
+        ],
+        "how_to_read": "Section 2 is a lookup table, not a rule of decision — pleadings should cite it only to anchor terminology, then move to the operative section (e.g. Section 10 for contract formation, Section 2(g)/(j) alongside Sections 24-30 for void agreements). Note the deliberate distinction between clause (g) \"void\" and clause (i) \"voidable\": a void agreement was never enforceable, while a voidable contract was enforceable until the aggrieved party elects to avoid it — conflating the two is a common and costly drafting error."
+      }
+    },
+    {
+      "number": "3",
+      "title": "Communication, acceptance and revocation of proposals",
+      "raw_text": "3. Communication, acceptance and revocation of proposals.—The communication of proposals, the acceptance of proposals, and the revocation of proposals and acceptances, respectively, are deemed to be made by any act or omission of the party proposing, accepting or revoking by which he intends to communicate such proposal, acceptance or revocation, or which has the effect of communicating it.",
+      "key_terms": [
+        "communication of proposal",
+        "revocation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 3 defines how communication itself happens for the purposes of proposals, acceptances, and revocations. It is deliberately broad: any act or omission that either is intended to communicate, or actually has the effect of communicating, counts — conduct (not just words) can communicate a proposal, an acceptance, or a revocation.",
+        "essential_elements": [
+          "Communication can occur by act or by omission (silence in context can, exceptionally, communicate).",
+          "Intent to communicate is one sufficient route.",
+          "Even without intent, an act that has the effect of communicating still counts."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 3 is the general mechanism provision; Section 4 then supplies the precise moment each type of communication is treated as \"complete\". Always read the two together — Section 3 answers \"does this count as communication at all\", Section 4 answers \"and if so, exactly when did it take legal effect\"."
+      }
+    },
+    {
+      "number": "4",
+      "title": "Communication when complete",
+      "raw_text": "4. Communication when complete.—The communication of a proposal is complete when it comes to the knowledge of the person to whom it is made.\n\nThe communication of an acceptance is complete,—\nas against the proposer, when it is put in a course of transmission to him, so as to be out of the power of the acceptor;\nas against the acceptor, when it comes to the knowledge of the proposer.\n\nThe communication of a revocation is complete,—\nas against the person who makes it, when it is put into a course of transmission to the person to whom it is made, so as to be out of the power of the person who makes it;\nas against the person to whom it is made, when it comes to his knowledge.\n\nIllustrations\n\n(a) A proposes, by letter, to sell a house to B at a certain price. The communication of the proposal is complete when B receives the letter.\n\n(b) B accepts A's proposal by a letter sent by post. The communication of the acceptance is complete, as against A when the letter is posted; as against B, when the letter is received by A.\n\n(c) A revokes his proposal by telegram. The revocation is complete as against A when the telegram is despatched. It is complete as against B when B receives it. B revokes his acceptance by telegram. B's revocation is complete as against B when the telegram is despatched, and as against A when it reaches him.",
+      "key_terms": [
+        "communication when complete",
+        "revocation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 4 pins down the exact moment at which a proposal, an acceptance, and a revocation each become legally complete — and, critically, an acceptance is complete against the two parties at two different moments. This asymmetry (the famous \"postal rule\") is what lets Section 5 fix the window during which a proposal or an acceptance can still be revoked.",
+        "essential_elements": [
+          "A proposal is complete only when it reaches the knowledge of the offeree.",
+          "An acceptance is complete against the proposer the moment it is posted/transmitted (out of the acceptor's power) — the proposer is bound from that instant even before he learns of it.",
+          "An acceptance is complete against the acceptor only when it actually reaches the proposer's knowledge.",
+          "A revocation follows the same two-stage pattern: complete against its sender on transmission, complete against its recipient only on receipt."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the classic examination and drafting trap: because acceptance binds the proposer on posting but binds the acceptor only on receipt, there is a window (between posting and delivery) where the proposer is bound but the acceptor is not yet — during which only the acceptor, not the proposer, can still revoke. Always work out separately \"complete as against whom\" before answering any fact pattern involving post, telegram, or electronic transmission delays."
+      }
+    },
+    {
+      "number": "5",
+      "title": "Revocation of proposals and acceptances",
+      "raw_text": "5. Revocation of proposals and acceptances.—A proposal may be revoked at any time before the communication of its acceptance is complete as against the proposer, but not afterwards.\n\nAn acceptance may be revoked at any time before the communication of the acceptance is complete as against the acceptor, but not afterwards.\n\nIllustration\n\nA proposes, by a letter sent by post, to sell his house to B. B accepts the proposal by a letter sent by post. A may revoke his proposal at any time before or at the moment when B posts his letter of acceptance, but not afterwards. B may revoke his acceptance at any time before or at the moment when the letter communicating it reaches A, but not afterwards.",
+      "key_terms": [
+        "revocation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 5 sets the deadline for revoking a proposal and for revoking an acceptance, by cross-referring to the two different \"complete\" moments fixed in Section 4. A proposer's right to revoke dies the instant the acceptor posts acceptance; an acceptor's right to revoke survives a little longer — until the acceptance actually reaches the proposer.",
+        "essential_elements": [
+          "A proposal can be revoked only up to the moment acceptance is posted/put in a course of transmission by the acceptor — not after.",
+          "An acceptance can be revoked only up to the moment it actually reaches the proposer — even though it may already be in transit."
+        ],
+        "exceptions_and_qualifications": [
+          "State amendments exist for this section in some States (e.g. Uttar Pradesh has inserted a proviso deeming certain time-bound offers irrevocable) — always check the applicable State amendment before advising on revocation timing outside the central Act."
+        ],
+        "how_to_read": "Pair Section 5 directly with Section 4's illustrations — the deadline language (\"before... complete as against\") only makes sense once you have already fixed the two separate completion moments. In practice this section decides last-minute telegram/email revocation disputes: the question is always whether the revocation reached its target before the relevant completion moment for the proposal or acceptance it seeks to undo."
+      }
+    },
+    {
+      "number": "6",
+      "title": "Revocation, how made",
+      "raw_text": "6. Revocation how made.—A proposal is revoked—\n\n(1) by the communication of notice of revocation by the proposer to the other party;\n\n(2) by the lapse of the time prescribed in such proposal for its acceptance, or, if no time is so prescribed, by the lapse of a reasonable time, without communication of the acceptance;\n\n(3) by the failure of the acceptor to fulfil a condition precedent to acceptance; or\n\n(4) by the death or insanity of the proposer, if the fact of his death or insanity comes to the knowledge of the acceptor before acceptance.",
+      "key_terms": [
+        "revocation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 6 lists the four exhaustive ways a proposal comes to an end by revocation: an express notice, expiry of a stated or reasonable time, non-fulfilment of a condition precedent to acceptance, or the proposer's death/insanity (but only if the acceptor knows of it before accepting).",
+        "essential_elements": [
+          "Express notice of revocation communicated to the offeree.",
+          "Lapse of the time fixed in the proposal for acceptance (or a reasonable time, if none is fixed).",
+          "Failure of the acceptor to satisfy any condition precedent attached to acceptance.",
+          "Death or insanity of the proposer — but only revokes the proposal if the acceptor learns of it before accepting."
+        ],
+        "exceptions_and_qualifications": [
+          "If the acceptor accepts without knowledge of the proposer's death or insanity, the acceptance can still validly complete the contract — clause (4) only bars acceptance made with knowledge."
+        ],
+        "how_to_read": "\"Reasonable time\" under clause (2) is a question of fact, not a fixed period — assess it against the subject matter (perishable goods vs. real estate) and the mode of communication used. Clause (4) is a frequent examination trap: the death/insanity revokes the offer only prospectively from the acceptor's knowledge, so a valid acceptance made in ignorance of the proposer's death can still bind the estate."
+      }
+    },
+    {
+      "number": "7",
+      "title": "Acceptance must be absolute",
+      "raw_text": "7. Acceptance must be absolute.—In order to convert a proposal into a promise, the acceptance must—\n\n(1) be absolute and unqualified;\n\n(2) be expressed in some usual and reasonable manner, unless the proposal prescribes the manner in which it is to be accepted. If the proposal prescribes a manner in which it is to be accepted, and the acceptance is not made in such manner, the proposer may, within a reasonable time after the acceptance is communicated to him, insist that his proposal shall be accepted in the prescribed manner, and not otherwise; but if he fails to do so, he accepts the acceptance.",
+      "key_terms": [
+        "acceptance"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 7 lays down the two conditions an acceptance must meet to actually convert a proposal into a binding promise: it must mirror the proposal exactly (absolute and unqualified — a qualified \"acceptance\" is really a counter-proposal), and it must be communicated in a reasonable manner, or in whatever manner the proposal specifically demanded.",
+        "essential_elements": [
+          "The acceptance must match the proposal exactly, with no variation, condition, or addition (the \"mirror image\" rule).",
+          "Absent a prescribed manner, acceptance must be communicated in some usual and reasonable way given the circumstances.",
+          "If the proposal prescribes a manner and the offeree departs from it, the proposer must object within a reasonable time or is deemed to have accepted the acceptance as given."
+        ],
+        "exceptions_and_qualifications": [
+          "The proposer's failure to promptly object to a non-prescribed mode of acceptance operates as a waiver — silence beyond a reasonable time cures the defect."
+        ],
+        "how_to_read": "A \"qualified\" or conditional acceptance is not an acceptance at all under this section — it is a fresh proposal (a counter-offer) that itself now requires acceptance by the original proposer to form a contract. Plead departures from a prescribed acceptance mode carefully: the proposer must show he objected promptly, or the acceptance stands despite the departure."
+      }
+    },
+    {
+      "number": "8",
+      "title": "Acceptance by performing conditions, or receiving consideration",
+      "raw_text": "8. Acceptance by performing conditions, or receiving consideration.—Performance of the conditions of a proposal, or the acceptance of any consideration for a reciprocal promise which may be offered with a proposal, is an acceptance of the proposal.",
+      "key_terms": [
+        "acceptance",
+        "reciprocal promises"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 8 recognises that acceptance need not be a spoken or written \"yes\" — conduct itself can be an acceptance. Doing what the proposal asked for, or taking the benefit offered along with a reciprocal promise, counts as accepting the proposal without any separate communication of assent.",
+        "essential_elements": [
+          "Performing the exact conditions stipulated in the proposal amounts to acceptance (e.g. a reward-for-return-of-lost-property offer accepted by actually returning the property).",
+          "Accepting consideration offered alongside a reciprocal promise likewise operates as acceptance."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 8 is the statutory basis for \"unilateral contract\" fact patterns (reward notices, general offers to the public) — the classic Carlill-style problem. Plead performance of the stipulated act itself as the acceptance; there is no additional need to separately notify the offeror of assent before performing."
+      }
+    },
+    {
+      "number": "9",
+      "title": "Promises, express and implied",
+      "raw_text": "9. Promises, express and implied.—In so far as the proposal or acceptance of any promise is made in words, the promise is said to be express. In so far as such proposal or acceptance is made otherwise than in words, the promise is said to be implied.",
+      "key_terms": [
+        "express promise",
+        "implied promise"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 9 draws the line between an express promise (made in words, spoken or written) and an implied promise (inferred from conduct, without words). Both are equally valid ways of proposing or accepting — the Act does not privilege one form over the other.",
+        "essential_elements": [
+          "A promise made in words (oral or written) is express.",
+          "A promise inferred from conduct, without words, is implied."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Use Section 9 whenever a party denies any contract exists purely because nothing was written or spoken — conduct (boarding a bus, ordering at a restaurant, continuing to accept deliveries) can itself constitute a proposal or acceptance under this section, forming an implied contract with the same legal force as an express one."
+      }
+    },
     {
       "number": "10",
       "title": "What agreements are contracts",
       "raw_text": "10. What agreements are contracts.—All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.\n\nNothing herein contained shall affect any law in force in India and not hereby expressly repealed, by which any contract is required to be made in writing or in the presence of witnesses, or any law relating to the registration of documents.",
-      "key_terms": ["agreements", "free consent", "competent to contract", "lawful consideration", "lawful object", "void"],
+      "key_terms": [
+        "agreements",
+        "free consent",
+        "competent to contract",
+        "lawful consideration",
+        "lawful object",
+        "void"
+      ],
       "breakdown": {
         "plain_summary": "Section 10 is the master checklist for turning a plain agreement into a legally enforceable contract. An agreement becomes a contract only when five conditions are satisfied together: free consent, competent parties, lawful consideration, a lawful object, and the agreement is not one that the Act itself declares void.",
         "essential_elements": [
@@ -29,20 +263,24 @@
           "All parties must be competent to contract under Section 11 (age of majority, sound mind, not disqualified by law).",
           "There must be lawful consideration flowing between the parties.",
           "The object of the agreement must be lawful.",
-          "The agreement must not fall into any category expressly declared void elsewhere in the Act (e.g. Sections 24–30)."
+          "The agreement must not fall into any category expressly declared void elsewhere in the Act (e.g. Sections 24-30)."
         ],
         "exceptions_and_qualifications": [
           "The second paragraph is a savings clause: it does not create new formality requirements, but preserves any existing Indian law that requires a particular contract to be in writing, attested by witnesses, or registered (e.g. gift deeds, certain leases under the Transfer of Property Act, or the Registration Act, 1908).",
           "Section 10 does not itself require writing or registration for a contract to be valid — oral contracts are generally enforceable unless another statute says otherwise for that specific type of transaction."
         ],
-        "how_to_read": "Read Section 10 as the general validity test, then cross-refer outward: 'free consent' sends you to Section 14, 'competent to contract' sends you to Section 11, and 'not expressly declared void' sends you to the specific void-agreement provisions (Sections 20, 23–30, 56). Section 10 rarely operates alone in argument — it is almost always pleaded together with the specific section that the opposing side is alleged to have breached."
+        "how_to_read": "Read Section 10 as the general validity test, then cross-refer outward: 'free consent' sends you to Section 14, 'competent to contract' sends you to Section 11, and 'not expressly declared void' sends you to the specific void-agreement provisions (Sections 20, 23-30, 56). Section 10 rarely operates alone in argument — it is almost always pleaded together with the specific section that the opposing side is alleged to have breached."
       }
     },
     {
       "number": "11",
       "title": "Who are competent to contract",
       "raw_text": "11. Who are competent to contract.—Every person is competent to contract who is of the age of majority according to the law to which he is subject, and who is of sound mind, and is not disqualified from contracting by any law to which he is subject.",
-      "key_terms": ["age of majority", "sound mind", "competent to contract"],
+      "key_terms": [
+        "age of majority",
+        "sound mind",
+        "competent to contract"
+      ],
       "breakdown": {
         "plain_summary": "Section 11 defines exactly who is legally allowed to enter into a binding contract. A person qualifies only if they satisfy all three tests: they have reached adulthood under the law that applies to them, they are mentally capable of understanding the deal, and no other law specifically bars them from contracting.",
         "essential_elements": [
@@ -61,7 +299,11 @@
       "number": "12",
       "title": "What is a sound mind for the purposes of contracting",
       "raw_text": "12. What is a sound mind for the purposes of contracting.—A person is said to be of sound mind for the purpose of making a contract if, at the time when he makes it, he is capable of understanding it and of forming a rational judgment as to its effect upon his interests.\n\nA person who is usually of unsound mind, but occasionally of sound mind, may make a contract when he is of sound mind.\n\nA person who is usually of sound mind, but occasionally of unsound mind, may not make a contract when he is of unsound mind.",
-      "key_terms": ["sound mind", "unsound mind", "rational judgment"],
+      "key_terms": [
+        "sound mind",
+        "unsound mind",
+        "rational judgment"
+      ],
       "breakdown": {
         "plain_summary": "Section 12 supplies the working test for 'sound mind' referenced in Section 11. It is a functional, moment-in-time test — not a diagnostic or permanent label. What matters is whether the person, at the exact moment they signed or agreed, could understand the contract's terms and judge how it would affect their own interests.",
         "essential_elements": [
@@ -74,6 +316,387 @@
           "A person usually of sound mind cannot validly contract during a temporary episode of unsoundness (e.g. delirium, severe intoxication, or a psychotic episode) even if that episode is brief."
         ],
         "how_to_read": "Section 12 should always be read together with Section 11 — Section 11 says sound mind is required, Section 12 defines it. In court, the burden typically falls on the party alleging unsoundness to prove incapacity existed specifically at the moment of contracting; medical evidence about the person's general condition is relevant but not conclusive by itself."
+      }
+    },
+    {
+      "number": "13",
+      "title": "\"Consent\" defined",
+      "raw_text": "13. \"Consent\" defined.—Two or more persons are said to consent when they agree upon the same thing in the same sense.",
+      "key_terms": [
+        "consent",
+        "consensus ad idem"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 13 defines bare \"consent\" as consensus ad idem — a true meeting of minds where both parties understand the agreement identically. This is distinct from Section 14's \"free consent\"; Section 13 asks whether the parties agreed on the same thing in the same sense at all, before Section 14 asks whether that agreement was obtained fairly.",
+        "essential_elements": [
+          "There must be agreement between two or more persons.",
+          "That agreement must be upon the same thing.",
+          "Both parties must understand it in the same sense (no cross-purposes)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 13 underlies \"mistake\" cases (Sections 20-22): if the parties were never actually ex idem — each meant something materially different by the agreement — there may be no consent at all, and hence no agreement to found a contract on, quite apart from any question of free consent under Section 14."
+      }
+    },
+    {
+      "number": "14",
+      "title": "\"Free consent\" defined",
+      "raw_text": "14. \"Free consent\" defined.—Consent is said to be free when it is not caused by—\n\n(1) coercion, as defined in section 15, or\n\n(2) undue influence, as defined in section 16, or\n\n(3) fraud, as defined in section 17, or\n\n(4) misrepresentation, as defined in section 18, or\n\n(5) mistake, subject to the provisions of sections 20, 21 and 22.\n\nConsent is said to be so caused when it would not have given but for the existence of such coercion, undue influence, fraud, misrepresentation or mistake.",
+      "key_terms": [
+        "free consent",
+        "coercion",
+        "undue influence",
+        "fraud",
+        "misrepresentation",
+        "mistake"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 14 is the gateway provision for Section 10's \"free consent\" requirement — it lists the five vitiating factors (coercion, undue influence, fraud, misrepresentation, mistake) and defines when consent is \"caused\" by any of them: whenever the consent would not have been given but for that factor (a but-for causation test).",
+        "essential_elements": [
+          "Consent is free only if none of the five listed vitiating factors caused it.",
+          "Causation is tested by a but-for standard: would this consent have been given absent the coercion/undue influence/fraud/misrepresentation/mistake?"
+        ],
+        "exceptions_and_qualifications": [
+          "Mistake is expressly made \"subject to\" Sections 20-22 — its effect on consent is narrower and more conditional than the other four factors."
+        ],
+        "how_to_read": "Section 14 is a checklist, not a standalone cause of action — always plead the specific vitiating factor (Sections 15-18, or 20-22 for mistake) with its own ingredients, then invoke Section 14 only to establish that it caused the consent, and Section 19/19A/20 for the legal consequence (voidable or void)."
+      }
+    },
+    {
+      "number": "15",
+      "title": "\"Coercion\" defined",
+      "raw_text": "15. \"Coercion\" defined.—\"Coercion\" is the committing, or threatening to commit, any act forbidden by the Indian Penal Code (45 of 1860), or the unlawful detaining, or threatening to detain, any property, to the prejudice of any person whatever, with the intention of causing any person to enter into an agreement.\n\nExplanation.—It is immaterial whether the Indian Penal Code (45 of 1860) is or is not in force in the place where the coercion is employed.\n\nIllustration\n\nA, on board an English ship on the high seas, causes B to enter into an agreement by an act amounting to criminal intimidation under the Indian Penal Code (45 of 1860). A afterwards sues B for breach of contract at Calcutta. A has employed coercion, although his act is not an offence by the law of England, and although section 506 of the Indian Penal Code (45 of 1860) was not in force at the time when or place where the act was done.",
+      "key_terms": [
+        "coercion"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 15 defines coercion as either committing/threatening any act forbidden by the Indian Penal Code, or unlawfully detaining/threatening to detain property, done to any person's prejudice with intent to force them into an agreement. The Explanation deliberately detaches coercion from where the IPC actually applies — it is enough that the act would be IPC-forbidden in principle.",
+        "essential_elements": [
+          "An act (or threat of an act) that is forbidden by the Indian Penal Code, OR",
+          "Unlawful detaining (or threat to detain) of any property,",
+          "Done to the prejudice of any person whatsoever,",
+          "With the intention of causing a person to enter into an agreement."
+        ],
+        "exceptions_and_qualifications": [
+          "The coercion need not be directed at the contracting party personally — it can prejudice \"any person whatever\".",
+          "It is immaterial whether the IPC was actually in force in the place the coercion was employed (per the Explanation and illustration)."
+        ],
+        "how_to_read": "Coercion under Section 15 is broader than the everyday sense of physical force — property-detention threats and acts against third parties both qualify. Always test the impugned act against the IPC's definitions of an offence (e.g. criminal intimidation) as the anchor, since Section 15 borrows its content from IPC-forbidden conduct rather than defining a freestanding test."
+      }
+    },
+    {
+      "number": "16",
+      "title": "\"Undue influence\" defined",
+      "raw_text": "16. \"Undue influence\" defined.—(1) A contract is said to be induced by \"undue influence\" where the relations subsisting between the parties are such that one of the parties is in a position to dominate the will of the other and uses that position to obtain an unfair advantage over the other.\n\n(2) In particular and without prejudice to the generality of the foregoing principle, a person is deemed to be in a position to dominate the will of another—\n\n(a) where he holds a real or apparent authority over the other, or where he stands in a fiduciary relation to the other; or\n\n(b) where he makes a contract with a person whose mental capacity is temporarily or permanently affected by reason of age, illness, or mental or bodily distress.\n\n(3) Where a person who is in a position to dominate the will of another, enters into a contract with him, and the transaction appears, on the face of it or on the evidence adduced, to be unconscionable, the burden of proving that such contract was not induced by undue influence shall lie upon the person in a position to dominate the will of the other. Nothing in this sub-section shall affect the provisions of section 111 of the Indian Evidence Act, 1872 (1 of 1872).\n\nIllustrations\n\n(a) A having advanced money to his son, B, during his minority, upon B's coming of age obtains, by misuse of parental influence, a bond from B for a greater amount than the sum due in respect of the advance. A employs undue influence.\n\n(b) A, a man enfeebled by disease or age, is induced, by B's influence over him as his medical attendant, to agree to pay B an unreasonable sum for his professional services. B employs undue influence.\n\n(c) A, being in debt to B, the money-lender of his village, contracts a fresh loan on terms which appear to be unconscionable. It lies on B to prove that the contract was not induced by undue influence.\n\n(d) A applies to a banker for a loan at a time when there is stringency in the money market. The banker declines to make the loan except at an unusually high rate of interest. A accepts the loan on these terms. This is a transaction in the ordinary course of business, and the contract is not induced by undue influence.",
+      "key_terms": [
+        "undue influence",
+        "fiduciary relation",
+        "unconscionable"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 16 defines undue influence as the abuse of a dominant relational position to extract an unfair advantage. Sub-section (2) gives two deemed categories of domination (real/apparent authority or fiduciary relations; and contracting with someone whose mental capacity is impaired), and sub-section (3) is a powerful burden-shifting rule: once dominance plus an unconscionable transaction is shown, the burden flips to the dominant party to prove undue influence was absent.",
+        "essential_elements": [
+          "A relationship in which one party is in a position to dominate the other's will.",
+          "That dominant position is actually used to secure an unfair advantage.",
+          "Dominance is deemed to exist where there is real/apparent authority, a fiduciary relation, or the other party's mental capacity is impaired by age, illness, or distress.",
+          "Once dominance and an unconscionable transaction are shown, the burden shifts to the dominant party to disprove undue influence."
+        ],
+        "exceptions_and_qualifications": [
+          "Ordinary hard bargains struck in the normal course of business (e.g. a bank charging a high interest rate during a liquidity crunch, illustration (d)) are not undue influence merely because one side had more bargaining power.",
+          "Sub-section (3)'s burden-shift does not displace Section 111 of the Indian Evidence Act, 1872."
+        ],
+        "how_to_read": "Plead undue influence in two clean stages, mirroring the section's own structure: first establish the dominant relationship (using the deemed categories in sub-section (2) if possible, since they save you proving dominance from scratch), then show the transaction is on its face unconscionable to trigger the sub-section (3) burden-shift — at that point the evidentiary burden moves to the defendant, a major strategic advantage for the plaintiff."
+      }
+    },
+    {
+      "number": "17",
+      "title": "\"Fraud\" defined",
+      "raw_text": "17. \"Fraud\" defined.—\"Fraud\" means and includes any of the following acts committed by a party to a contract, or with his connivance, or by his agent, with intent to deceive another party thereto or his agent, or to induce him to enter into the contract:—\n\n(1) the suggestion, as a fact, of that which is not true, by one who does not believe it to be true;\n\n(2) the active concealment of a fact by one having knowledge or belief of the fact;\n\n(3) a promise made without any intention of performing it;\n\n(4) any other act fitted to deceive;\n\n(5) any such act or omission as the law specially declares to be fraudulent.\n\nExplanation.—Mere silence as to facts likely to affect the willingness of a person to enter into a contract is not fraud, unless the circumstances of the case are such that, regard being had to them, it is the duty of the person keeping silence to speak, or unless his silence is, in itself, equivalent to speech.",
+      "key_terms": [
+        "fraud",
+        "active concealment",
+        "mere silence"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 17 lists five categories of fraudulent conduct — a false suggestion of fact, active concealment, a promise never intended to be kept, any other deceptive act, and anything the law separately calls fraudulent — all requiring an intent to deceive or to induce entry into the contract. The Explanation carves out the important \"mere silence is not fraud\" rule, with two exceptions: a duty to speak, or silence that is itself equivalent to speech.",
+        "essential_elements": [
+          "One of the five listed acts (false suggestion of fact, active concealment, promise without intention to perform, any other deceptive act, or an act/omission the law declares fraudulent).",
+          "Committed by a contracting party, someone with his connivance, or his agent.",
+          "With intent to deceive the other party (or his agent), or to induce him to enter the contract."
+        ],
+        "exceptions_and_qualifications": [
+          "Mere silence about facts is not fraud by default.",
+          "Silence becomes fraud only where there is a duty to speak (e.g. uberrimae fidei relationships such as insurance, or fiduciary relations) or where the silence is itself equivalent to an active representation."
+        ],
+        "how_to_read": "Distinguish fraud (Section 17) from misrepresentation (Section 18) purely on intent/belief: fraud requires knowledge of falsity or reckless disregard for truth plus an intent to deceive, while misrepresentation can be entirely innocent. This distinction matters practically — fraud can additionally support a claim in tort/deceit and can defeat the \"means of discovering the truth\" defence under the Section 19 proviso in some circumstances, whereas innocent misrepresentation cannot."
+      }
+    },
+    {
+      "number": "18",
+      "title": "\"Misrepresentation\" defined",
+      "raw_text": "18. \"Misrepresentation\" defined.—\"Misrepresentation\" means and includes—\n\n(1) the positive assertion, in a manner not warranted by the information of the person making it, of that which is not true, though he believes it to be true;\n\n(2) any breach of duty which, without an intent to deceive, gains an advantage to the person committing it, or any one claiming under him, by misleading another to his prejudice, or to the prejudice of any one claiming under him;\n\n(3) causing, however innocently, a party to an agreement to make a mistake as to the substance of the thing which is the subject of the agreement.",
+      "key_terms": [
+        "misrepresentation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 18 defines misrepresentation as an innocent (non-deceitful) false statement or conduct — a positive but unwarranted assertion honestly believed to be true, an unintentional breach of duty that still misleads another to their prejudice, or innocently causing a mistake about the substance of the contract's subject matter.",
+        "essential_elements": [
+          "A positive assertion of an untrue fact, made without adequate warrant for believing it, even though honestly believed true; or",
+          "A breach of duty gaining an advantage by misleading another to their prejudice, without any intent to deceive; or",
+          "Innocently causing the other party to mistake the substance of the subject-matter of the agreement."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Because misrepresentation (unlike fraud) requires no dishonest intent, it is the easier — but also weaker — ground to plead: it renders the contract merely voidable under Section 19, and is fully defeated if the party had the means to discover the truth with ordinary diligence (the Section 19 proviso applies to misrepresentation but only to fraudulent silence, not fraud generally, so check the proviso's exact scope before relying on it)."
+      }
+    },
+    {
+      "number": "19",
+      "title": "Voidability of agreements without free consent",
+      "raw_text": "19. Voidability of agreements without free consent.—When consent to an agreement is caused by coercion, fraud or misrepresentation, the agreement is a contract voidable at the option of the party whose consent was so caused.\n\nA party to a contract whose consent was caused by fraud or misrepresentation, may, if he thinks fit, insist that the contract shall be performed, and that he shall be put in the position in which he would have been if the representations made had been true.\n\nException.—If such consent was caused by misrepresentation or by silence, fraudulent within the meaning of section 17, the contract, nevertheless, is not voidable, if the party whose consent was so caused had the means of discovering the truth with ordinary diligence.\n\nExplanation.—A fraud or misrepresentation which did not cause the consent to a contract of the party on whom such fraud was practised, or to whom such misrepresentation was made, does not render a contract voidable.\n\nIllustrations\n\n(a) A, intending to deceive B, falsely represents that five hundred maunds of indigo are made annually at A's factory, and thereby induces B to buy the factory. The contract is voidable at the option of B.\n\n(b) A, by a misrepresentation, leads B erroneously to believe that, five hundred maunds of indigo are made annually at A's factory. B examines the accounts of the factory, which show that only four hundred maunds of indigo have been made. After this B buys the factory. The contract is not voidable on account of A's misrepresentation.\n\n(c) A fraudulently informs B that A's estate is free from incumbrance. B thereupon buys the estate. The estate is subject to a mortgage. B may either avoid the contract, or may insist on its being carried out and the mortgage debt redeemed.\n\n(d) B, having discovered a vein of ore on the estate of A, adopts means to conceal, and does conceal, the existence of the ore from A. Through A's ignorance B is enabled to buy the estate at an under-value. The contract is voidable at the option of A.\n\n(e) A is entitled to succeed to an estate at the death of B; B dies: C, having received intelligence of B's death, prevents the intelligence reaching A, and thus induces A to sell him his interest in the estate. The sale is voidable at the option of A.",
+      "key_terms": [
+        "voidable contract",
+        "free consent",
+        "coercion",
+        "fraud",
+        "misrepresentation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 19 supplies the consequence for the three consent-vitiating factors of coercion, fraud, and misrepresentation: the resulting contract is voidable at the option of the party wronged, who may instead choose to affirm it and insist on being put in the position promised. But the Exception withdraws this remedy — for misrepresentation or fraudulent silence only — if the wronged party could have discovered the truth with ordinary diligence.",
+        "essential_elements": [
+          "Consent to the agreement was caused by coercion, fraud, or misrepresentation.",
+          "The resulting contract is voidable (not automatically void) at the option of the party whose consent was so caused.",
+          "That party may alternatively affirm the contract and insist on receiving what was represented."
+        ],
+        "exceptions_and_qualifications": [
+          "The Exception denies voidability for misrepresentation or fraudulent silence (not fraud generally) where the wronged party had the means to discover the truth with ordinary diligence (illustration (b)).",
+          "The Explanation requires actual causation — fraud or misrepresentation that did not in fact cause the consent does not make the contract voidable."
+        ],
+        "how_to_read": "Section 19 deliberately omits undue influence and mistake from its own text — undue influence's parallel voidability rule sits in Section 19A, and mistake is governed separately by Sections 20-22, with materially different consequences (void, not voidable, for common mistake of fact). When drafting a plaint seeking rescission, always specify which of the three Section 19 factors is relied on and plead the causation Explanation expressly, since a fraud/misrepresentation that did not actually influence the decision to contract gives no relief under this section."
+      }
+    },
+    {
+      "number": "20",
+      "title": "Agreement void where both parties are under mistake as to matter of fact",
+      "raw_text": "20. Agreement void where both parties are under mistake as to matter of fact.—Where both the parties to an agreement are under a mistake as to a matter of fact essential to the agreement, the agreement is void.\n\nExplanation.—An erroneous opinion as to the value of the thing which forms the subject-matter of the agreement, is not to be deemed a mistake as to a matter of fact.\n\nIllustrations\n\n(a) A agrees to sell to B a specific cargo of goods supposed to be on its way from England to Bombay. It turns out that, before the day of the bargain, the ship conveying the cargo had been cast away and the goods lost. Neither party was aware of these facts. The agreement is void.\n\n(b) A agrees to buy from B a certain horse. It turns out that the horse was dead at the time of the bargain, though neither party was aware of the fact. The agreement is void.\n\n(c) A, being entitled to an estate for the life of B, agrees to sell it to C. B was dead at the time of the agreement, but both parties were ignorant of the fact. The agreement is void.",
+      "key_terms": [
+        "void",
+        "mistake of fact",
+        "common mistake"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 20 governs common (bilateral) mistake of fact: where both parties share the same false belief about a fact essential to the agreement — most famously, that its subject matter still exists — the agreement is void from the outset, not merely voidable. A mistaken opinion about value, however, is expressly excluded and does not void the agreement.",
+        "essential_elements": [
+          "Both parties (not just one) share the same mistaken belief.",
+          "The mistake concerns a matter of fact (not law, and not mere opinion/valuation).",
+          "That fact must be essential to the agreement — going to its very foundation (e.g. existence of the subject matter)."
+        ],
+        "exceptions_and_qualifications": [
+          "An erroneous opinion about the value of the subject-matter is not a mistake of fact under this section, however wrong it turns out to be."
+        ],
+        "how_to_read": "Section 20 requires the mistake to be bilateral and essential — contrast this with Section 22, where only one party is mistaken and the contract survives. In court, marshal the facts to show the mistaken belief went to the very existence or identity of the subject matter (as in the classic \"dead horse\"/\"lost cargo\" illustrations), not merely its quality, price, or value, or the void-agreement argument will fail."
+      }
+    },
+    {
+      "number": "21",
+      "title": "Effect of mistakes as to law",
+      "raw_text": "21. Effect of mistakes as to law.—A contract is not voidable because it was caused by a mistake as to any law in force in India; but a mistake as to a law not in force in India has the same effect as a mistake of fact.\n\nIllustration\n\nA and B make a contract grounded on the erroneous belief that a particular debt is barred by the Indian Law of Limitation: the contract is not voidable.",
+      "key_terms": [
+        "mistake of law"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 21 applies the maxim \"ignorance of the law is no excuse\" to contracts: a mistake about Indian law in force does not affect the contract's validity at all. But a mistake about foreign law (law not in force in India) is treated exactly like a mistake of fact — meaning Sections 20 and 22 apply to it.",
+        "essential_elements": [
+          "Mistake as to Indian law in force does not make a contract voidable.",
+          "Mistake as to foreign law (law not in force in India) is treated as a mistake of fact, attracting Sections 20 or 22 as applicable."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always classify the mistake first: Indian law (no relief under Section 21, full stop), foreign law (treated as fact — check Section 20 for bilateral mistake or Section 22 for unilateral), or fact (Sections 20/22 directly). A common drafting error is invoking \"mistake\" generically without first pinning down which of these three categories the impugned belief actually falls into."
+      }
+    },
+    {
+      "number": "22",
+      "title": "Contract caused by mistake of one party as to matter of fact",
+      "raw_text": "22. Contract caused by mistake of one party as to matter of fact.—A contract is not voidable merely because it was caused by one of the parties to it being under a mistake as to a matter of fact.",
+      "key_terms": [
+        "mistake of fact",
+        "unilateral mistake"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 22 closes off unilateral mistake as a ground for avoiding a contract: if only one party, not both, was mistaken about a fact, that alone does not make the contract voidable. This deliberately contrasts with Section 20, where a shared (bilateral) mistake voids the agreement.",
+        "essential_elements": [
+          "The mistake as to a matter of fact was held by only one of the two parties.",
+          "That unilateral mistake, standing alone, does not affect the contract's validity."
+        ],
+        "exceptions_and_qualifications": [
+          "This section only addresses mistake of fact by itself — if the other party's conduct also amounts to fraud or misrepresentation that caused the mistake, relief may still be available under Section 19, independent of Section 22."
+        ],
+        "how_to_read": "Section 22 is most useful as a defence: if a party who made a bad bargain later claims they were personally mistaken about some fact, and the other party did nothing to cause or exploit that mistake, Section 22 defeats any attempt to avoid the contract on that ground alone. Always check separately whether the non-mistaken party's conduct crosses into fraud or misrepresentation, since that reopens relief under Section 19 despite Section 22."
+      }
+    },
+    {
+      "number": "23",
+      "title": "What considerations and objects are lawful, and what not",
+      "raw_text": "23. What considerations and objects are lawful, and what not.—The consideration or object of an agreement is lawful, unless—\nit is forbidden by law; or\nis of such a nature that, if permitted, it would defeat the provisions of any law; or\nis fraudulent; or\ninvolves or implies injury to the person or property of another; or\nthe Court regards it as immoral, or opposed to public policy.\n\nIn each of these cases, the consideration or object of an agreement is said to be unlawful. Every agreement of which the object or consideration is unlawful is void.\n\nIllustrations\n\n(a) A agrees to sell his house to B for 10,000 rupees. Here B's promise to pay the sum of 10,000 rupees is the consideration for A's promise to sell the house, and A's promise to sell the house is the consideration for B's promise to pay the 10,000 rupees. These are lawful considerations.\n\n(b) A promises to pay B 1,000 rupees at the end of six months, if C, who owes that sum to B, fails to pay it. B promises to grant time to C accordingly. Here, the promise of each party is the consideration for the promise of the other party, and they are lawful considerations.\n\n(c) A promises, for a certain sum paid to him by B, to make good to B the value of his ship if it is wrecked on a certain voyage. Here, A's promise is the consideration for B's payment and B's payment is the consideration for A's promise and these are lawful considerations.\n\n(d) A promises to maintain B's child, and B promises to pay A 1,000 rupees yearly for the purpose. Here, the promise of each party is the consideration for the promise of the other party. They are lawful considerations.\n\n(e) A, B and C enter into an agreement for the division among them of gains acquired or to be acquired, by them by fraud. The agreement is void, as its object is unlawful.\n\n(f) A promises to obtain for B an employment in the public service and B promises to pay 1,000 rupees to A. The agreement is void, as the consideration for it is unlawful.\n\n(g) A, being agent for a landed proprietor, agrees for money, without the knowledge of his principal, to obtain for B a lease of land belonging to his principal. The agreement between A and B is void, as it implies a fraud by concealment, by A, on his principal.\n\n(h) A promises B to drop a prosecution which he has instituted against B for robbery, and B promises to restore the value of the things taken. The agreement is void, as its object is unlawful.\n\n(i) A's estate is sold for arrears of revenue under the provisions of an Act of the Legislature, by which the defaulter is prohibited from purchasing the estate. B, upon an understanding with A, becomes the purchaser, and agrees to convey the estate to A upon receiving from him the price which B has paid. The agreement is void, as it renders the transaction, in effect, a purchase by the defaulter, and would so defeat the object of the law.\n\n(j) A, who is B's mukhtar, promises to exercise his influence, as such, with B in favour of C, and C promises to pay 1,000 rupees to A. The agreement is void, because it is immoral.\n\n(k) A agrees to let her daughter to hire to B for concubinage. The agreement is void, because it is immoral, though the letting may not be punishable under the Indian Penal Code (45 of 1860).",
+      "key_terms": [
+        "lawful consideration",
+        "lawful object",
+        "public policy",
+        "void"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 23 is the master test for illegality: consideration or object is unlawful if it is forbidden by law, would defeat any law's provisions if permitted, is fraudulent, injures a person or their property, or is immoral or opposed to public policy in the Court's view. Any agreement whose object or consideration is unlawful is void in its entirety, not merely voidable.",
+        "essential_elements": [
+          "The consideration OR the object of the agreement falls into one of five unlawful categories: forbidden by law; would defeat any law if permitted; fraudulent; injurious to person or property; or immoral/against public policy.",
+          "If any single category is met, the whole agreement is void — there is no partial saving for the lawful part if only one consideration/object is at stake (contrast Section 24 for agreements with several considerations or objects)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "\"Public policy\" and \"immorality\" are open-textured heads — courts apply them narrowly and by reference to settled categories (e.g. agreements to stifle prosecution, trafficking in public offices, marriage brokerage) rather than at large, so always ground an illegality argument in an established category or a specific statute, not a free-floating appeal to morality. When drafting around Section 23, isolate exactly which limb is invoked (forbidden by law vs. defeats a law vs. fraudulent vs. injurious vs. immoral/public-policy) since each has a different evidentiary threshold."
+      }
+    },
+    {
+      "number": "24",
+      "title": "Agreements void, if considerations and objects unlawful in part",
+      "raw_text": "24. Agreements void, if considerations and objects unlawful in part.—If any part of a single consideration for one or more objects, or any one or any part of any one of several considerations for a single object, is unlawful, the agreement is void.\n\nIllustration\n\nA promises to superintend, on behalf of B, a legal manufacture of indigo, and an illegal traffic in other articles. B promises to pay to A a salary of 10,000 rupees a year. The agreement is void, the object of A's promise, and the consideration for B's promise, being in part unlawful.",
+      "key_terms": [
+        "void",
+        "lawful consideration"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 24 extends Section 23's illegality rule to composite bargains: where consideration or object is only partly unlawful — whether it is one consideration covering multiple objects, or one of several considerations for a single object — the entire agreement is void, because the Act treats the bargain as indivisible.",
+        "essential_elements": [
+          "A single consideration supports one or more objects, and any part of either is unlawful; or",
+          "There are several considerations for a single object, and any one of them (or part of one) is unlawful.",
+          "In either case, the whole agreement fails — courts will not sever the lawful part and enforce it alone."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 24 defeats the common defence \"sever the illegal part and enforce the rest\" — under this Act, illegality in any part of an indivisible bargain infects the whole. Advise clients structuring composite consideration (e.g. one payment for several services) to keep any lawful and unlawful elements in genuinely separate, independently-enforceable agreements if severability is intended."
+      }
+    },
+    {
+      "number": "25",
+      "title": "Agreement without consideration, void, unless it is in writing and registered, or is a promise to compensate for something done, or is a promise to pay a debt barred by limitation law",
+      "raw_text": "25. Agreement without consideration, void, unless it is in writing and registered, or is a promise to compensate for something done, or is a promise to pay a debt barred by limitation law.—An agreement made without consideration is void, unless—\n\n(1) it is expressed in writing and registered under the law for the time being in force for the registration of documents, and is made on account of natural love and affection between parties standing in a near relation to each other; or unless\n\n(2) it is a promise to compensate, wholly or in part, a person who has already voluntarily done something for the promisor, or something which the promisor was legally compellable to do; or unless\n\n(3) it is a promise, made in writing and signed by the person to be charged therewith, or by his agent generally or specially authorized in that behalf, to pay wholly or in part a debt of which the creditor might have enforced payment but for the law for the limitation of suits.\n\nIn any of these cases, such an agreement is a contract.\n\nExplanation 1.—Nothing in this section shall affect the validity, as between the donor and donee, of any gift actually made.\n\nExplanation 2.—An agreement to which the consent of the promisor is freely given is not void merely because the consideration is inadequate; but the inadequacy of the consideration may be taken into account by the Court in determining the question whether the consent of the promisor was freely given.\n\nIllustrations\n\n(a) A promises, for no consideration, to give to B Rs. 1,000. This is a void agreement.\n\n(b) A, for natural love and affection, promises to give his son, B, Rs. 1,000. A puts his promise to B into writing and registers it. This is a contract.\n\n(c) A finds B's purse and gives it to him. B promises to give A Rs. 50. This is a contract.\n\n(d) A supports B's infant son. B promises to pay A's expenses in so doing. This is a contract.\n\n(e) A owes B Rs. 1,000, but the debt is barred by the Limitation Act. A signs a written promise to pay B Rs. 500 on account of the debt. This is a contract.\n\n(f) A agrees to sell a horse worth Rs. 1,000 for Rs. 10. A's consent to the agreement was freely given. The agreement is a contract notwithstanding the inadequacy of the consideration.\n\n(g) A agrees to sell a horse worth Rs. 1,000 for Rs. 10. A denies that his consent to the agreement was freely given. The inadequacy of the consideration is a fact which the Court should take into account in considering whether or not A's consent was freely given.",
+      "key_terms": [
+        "void",
+        "natural love and affection",
+        "consideration"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 25 states the general rule that \"no consideration, no contract\" — but then carves out three well-defined exceptions where an agreement is binding despite lacking consideration: a registered written promise from natural love and affection between near relatives, a promise to compensate someone for a past voluntary act (or a legally compellable one), and a written, signed promise to pay a time-barred debt.",
+        "essential_elements": [
+          "General rule: an agreement without consideration is void.",
+          "Exception 1: written and registered, made from natural love and affection, between parties in a near relation.",
+          "Exception 2: a promise to compensate a person who has already voluntarily done something for the promisor (or something the promisor was legally compellable to do).",
+          "Exception 3: a written promise, signed by the debtor (or his authorised agent), to pay a debt otherwise barred by the law of limitation."
+        ],
+        "exceptions_and_qualifications": [
+          "Explanation 1 preserves a completed gift as between donor and donee even without satisfying any of the three exceptions — Section 25 governs unperformed promises, not gifts already made.",
+          "Explanation 2 confirms inadequacy of consideration alone does not void a contract if consent was freely given, though inadequacy is evidence relevant to whether consent was in fact free."
+        ],
+        "how_to_read": "Treat the three exceptions as a closed list — courts have consistently refused to expand them by analogy, so any \"no consideration\" defence should be met only by fitting the facts squarely into (1), (2), or (3), not by general fairness arguments. For Exception 1, insist on strict compliance with both writing and registration, and genuine near relation; for Exception 3, the promise must be in writing and signed, an oral revival of a time-barred debt does not qualify."
+      }
+    },
+    {
+      "number": "26",
+      "title": "Agreement in restraint of marriage, void",
+      "raw_text": "26. Agreement in restraint of marriage, void.—Every agreement in restraint of the marriage of any person, other than a minor, is void.",
+      "key_terms": [
+        "void",
+        "restraint of marriage"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 26 voids any agreement that restrains an adult's freedom to marry — the law treats the freedom to marry (or not marry, or remarry) as a matter of fundamental public policy that private contracts cannot curtail, whether the restraint is total or partial.",
+        "essential_elements": [
+          "An agreement that restrains the marriage of a person.",
+          "That person must not be a minor (agreements restraining a minor's marriage are outside this section's void rule, though other provisions/guardianship law may apply)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Courts read Section 26 strictly and broadly against restraint — even a partial restraint (e.g. restricting marriage to a particular community or for a particular period, or imposing a financial penalty for marrying) has generally been struck down, not just an absolute prohibition on marrying at all. This is one of the few Section 23-adjacent void categories with its own dedicated section, signalling especially strong public policy."
+      }
+    },
+    {
+      "number": "27",
+      "title": "Agreement in restraint of trade, void",
+      "raw_text": "27. Agreement in restraint of trade, void.—Every agreement by which any one is restrained from exercising a lawful profession, trade or business of any kind, is to that extent void.\n\nException 1.—Saving of agreement not to carry on business of which good-will is sold.—One who sells the good-will of a business may agree with the buyer to refrain from carrying on a similar business, within specified local limits, so long as the buyer, or any person deriving title to the good-will from him, carries on a like business therein, provided that such limits appear to the Court reasonable, regard being had to the nature of the business.",
+      "key_terms": [
+        "restraint of trade",
+        "void",
+        "good-will"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 27 voids restraint-of-trade clauses as a general rule, reflecting the public interest in free competition and a person's right to earn a livelihood — unlike English common law, Indian law does not ask whether the restraint is \"reasonable\" in general; it is void unless it falls within the one statutory exception carved out here.",
+        "essential_elements": [
+          "An agreement restrains a person from exercising a lawful profession, trade, or business.",
+          "The agreement is void only \"to that extent\" — i.e. severable if the restraint is just one clause within a larger, otherwise valid agreement."
+        ],
+        "exceptions_and_qualifications": [
+          "Exception 1: a seller of a business's good-will may validly agree not to carry on a similar business within specified local limits, for as long as the buyer (or his successor in title to the good-will) carries on a like business there — but only if the Court finds those limits reasonable given the nature of the business.",
+          "Courts have carved further, narrower exceptions by interpretation for partnership-related restraints and certain employment non-competition clauses operating only during (not after) employment — but these are treated as not being a \"restraint\" at all rather than as new statutory exceptions."
+        ],
+        "how_to_read": "Non-compete clauses in employment contracts are the recurring practitioner battleground here: a restriction operating during employment is generally upheld (framed as protecting the employer's interest, not restraining trade), but a post-employment non-compete is almost always struck down as void under Section 27 in India, unlike in many common-law jurisdictions — always check whether the restraint in question operates during or after the relationship before advising on enforceability."
+      }
+    },
+    {
+      "number": "28",
+      "title": "Agreements in restraint of legal proceedings, void",
+      "raw_text": "28. Agreements in restraint of legal proceedings, void.—Every agreement,—\n\n(a) by which any party thereto is restricted absolutely from enforcing his rights under or in respect of any contract, by the usual legal proceedings in the ordinary tribunals, or which limits the time within which he may thus enforce his rights; or\n\n(b) which extinguishes the rights of any party thereto, or discharges any party thereto, from any liability, under or in respect of any contract on the expiry of a specified period so as to restrict any party from enforcing his rights,\n\nis void to that extent.\n\nException 1.—Saving of contract to refer to arbitration dispute that may arise.—This section shall not render illegal a contract, by which two or more persons agree that any dispute which may arise between them in respect of any subject or class of subjects shall be referred to arbitration, and that only the amount awarded in such arbitration shall be recoverable in respect of the dispute so referred.\n\nException 2.—Saving of contract to refer questions that have already arisen.—Nor shall this section render illegal any contract in writing, by which two or more persons agree to refer to arbitration any question between them which has already arisen, or affect any provision of any law in force for the time being as to references to arbitration.",
+      "key_terms": [
+        "restraint of legal proceedings",
+        "void",
+        "arbitration"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 28 voids two kinds of clauses: those that absolutely bar a party from going to the ordinary courts (or artificially shorten the limitation period), and those that extinguish a party's rights or liability purely because a specified period has elapsed — again restricting access to legal remedies. Both arbitration clauses (future disputes and already-arisen disputes) are expressly saved as exceptions.",
+        "essential_elements": [
+          "Clause (a): a total bar on approaching ordinary tribunals, or any clause artificially curtailing the statutory limitation period, is void to that extent.",
+          "Clause (b): a clause that extinguishes rights or discharges liability merely upon expiry of a specified period (functioning as a private, contractual limitation bar) is likewise void to that extent."
+        ],
+        "exceptions_and_qualifications": [
+          "Exception 1: an agreement to refer future disputes to arbitration, recovering only the arbitral award amount, is valid and not caught by this section.",
+          "Exception 2: a written agreement to refer an already-arisen dispute to arbitration is equally valid, as is any other law currently in force governing arbitration references."
+        ],
+        "how_to_read": "Distinguish carefully between a clause that ousts the court's jurisdiction altogether (void under clause (a)) and a clause that merely selects one among several courts that already have jurisdiction (a valid exclusive-jurisdiction clause, untouched by Section 28) — this is a frequently litigated line. Likewise, clause (b) is the statutory basis for striking down \"claim must be made within X days or is forfeited\" clauses that are shorter than the law allows, a common insurance- and commercial-contract drafting pitfall."
+      }
+    },
+    {
+      "number": "29",
+      "title": "Agreements void for uncertainty",
+      "raw_text": "29. Agreements void for uncertainty.—Agreements, the meaning of which is not certain, or capable of being made certain, are void.\n\nIllustrations\n\n(a) A agrees to sell to B \"a hundred tons of oil\". There is nothing whatever to show what kind of oil was intended. The agreement is void for uncertainty.\n\n(b) A agrees to sell to B one hundred tons of oil of a specified description, known as an article of commerce. There is no uncertainty here to make the agreement void.\n\n(c) A, who is a dealer in cocoanut-oil only, agrees to sell to B \"one hundred tons of oil\". The nature of A's trade affords an indication of the meaning of the words, and A has entered into a contract for the sale of one hundred tons of cocoanut-oil.\n\n(d) A agrees to sell to B \"all the grain in my granary at Ramnagar\". There is no uncertainty here to make the agreement void.\n\n(e) A agrees to sell B \"one thousand maunds of rice at a price to be fixed by C\". As the price is capable of being made certain, there is no uncertainty here to make the agreement void.\n\n(f) A agrees to sell to B \"my white horse for rupees five hundred or rupees one thousand\". There is nothing to show which of the two prices was to be given. The agreement is void.",
+      "key_terms": [
+        "void",
+        "uncertainty"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 29 voids agreements whose terms are too vague to be given legal effect — but the test is disjunctive: an agreement survives if its meaning is either already certain, or merely capable of being made certain (e.g. by reference to trade context, prior dealings, or a mechanism for fixing a term). Only genuine, irresolvable vagueness voids the agreement.",
+        "essential_elements": [
+          "The subject matter, price, quantity, or other essential term of the agreement is not certain on its face, AND",
+          "It is also not capable of being made certain by resort to context, custom, trade usage, or any mechanism the agreement itself supplies."
+        ],
+        "exceptions_and_qualifications": [
+          "Extrinsic context (e.g. the seller's trade being exclusively in one commodity, illustration (c)) can resolve apparent vagueness and save the agreement.",
+          "A price (or other term) left to be fixed by an agreed third party or formula is \"capable of being made certain\" and is not void (illustration (e))."
+        ],
+        "how_to_read": "Section 29 is rarely a winning ground on its own — courts strain to find agreements certain wherever a workable mechanism or reliable context exists (illustrations (c) and (e) both show terms rescued from apparent vagueness), so a Section 29 challenge succeeds only where truly no external material can resolve the ambiguity, as in illustration (f)'s alternative, unresolved pricing."
+      }
+    },
+    {
+      "number": "30",
+      "title": "Agreements by way of wager, void",
+      "raw_text": "30. Agreements by way of wager void.—Agreements by way of wager are void; and no suit shall be brought for recovering anything alleged to be won on any wager, or entrusted to any person to abide the result of any game or other uncertain event on which any wager is made.\n\nException in favour of certain prizes for horse-racing.—This section shall not be deemed to render unlawful a subscription or contribution, or agreement to subscribe or contribute, made or entered into for or toward any plate, prize or sum of money, of the value or amount of five hundred rupees or upwards, to be awarded to the winner or winners of any horse-race.\n\nSection 294A of the Indian Penal Code not affected.—Nothing in this section shall be deemed to legalize any transaction connected with horse-racing, to which the provisions of section 294A of the Indian Penal Code (45 of 1860) apply.",
+      "key_terms": [
+        "wager",
+        "void"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 30 voids wagering agreements outright and, going further than ordinary void-agreement provisions, bars courts entirely from entertaining a suit to recover wager winnings or stakes entrusted pending the outcome of an uncertain event. A narrow carve-out preserves horse-race prize subscriptions of Rs. 500 or more, without disturbing the separate criminal law on gaming/betting under IPC Section 294A.",
+        "essential_elements": [
+          "An agreement is \"by way of wager\": each side stands to win or lose purely on the outcome of an uncertain future event, with no other interest in that outcome.",
+          "No suit lies to recover anything won on a wager, or any stake entrusted to a stakeholder to abide the result."
+        ],
+        "exceptions_and_qualifications": [
+          "Horse-race prize subscriptions/contributions of Rs. 500 or more remain valid and enforceable.",
+          "The Section 30 exception for horse-racing prizes does not override or legalise conduct that is independently an offence under IPC Section 294A (public gaming houses / instruments of gaming)."
+        ],
+        "how_to_read": "Section 30 is unusual among void-agreement provisions because it also bars the remedy, not just the underlying obligation — even collateral agreements (e.g. a loan specifically taken to place a wager, where the lender knew the purpose) can be tainted and unenforceable depending on how closely they are tied to the wager itself. Always separately check any applicable State gaming/gambling legislation, since several States regulate wagering more strictly than the central Act, and modern disputes increasingly involve online/fantasy-sports platforms where classification as a \"game of skill\" versus a \"wager\" is the central battleground."
       }
     }
   ]
