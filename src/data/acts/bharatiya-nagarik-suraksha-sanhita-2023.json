@@ -246,7 +246,12 @@
     "revision": "The supervisory jurisdiction of a superior Court to examine the record of a subordinate Court's proceeding to correct errors of jurisdiction, law, or procedure, without being a full-fledged appeal on facts; section 380(2) specifically excludes orders under sections 379-380 from revision, making the appellate Court's decision on whether to lodge a complaint for offences against the administration of justice final and not open to further supervisory challenge.",
     "costs": "The expenses of litigation -- process-fees, witness expenses, advocate's fees, and similar prosecution or application expenses -- that a Court may order one party to pay to another as part of its order; under section 381 a Court may award costs on a section 379 complaint application or section 380 appeal as it thinks just, distinct from the separate cost-shifting power in section 400 for non-cognizable-offence prosecutions.",
     "false evidence": "Evidence given by a witness that he knows or believes to be untrue, or evidence (including a document or other material) fabricated with the intention that it be used as genuine in a judicial proceeding; section 383 lets the very Court before which such evidence was knowingly or wilfully given or fabricated try the witness summarily for it immediately upon delivering judgment in the underlying case, without needing a separate complaint process.",
-    "contempt": "Conduct that disrespects, obstructs, or undermines the authority and dignity of a Court -- here, the specific set of offences against public justice (insult, interruption, or intentional obstruction of judicial proceedings, among others under the Bharatiya Nyaya Sanhita, 2023) that section 384 allows a Civil, Criminal, or Revenue Court to punish summarily and on the spot when committed in its own view or presence, without the ordinary complaint-and-trial process."
+    "contempt": "Conduct that disrespects, obstructs, or undermines the authority and dignity of a Court -- here, the specific set of offences against public justice (insult, interruption, or intentional obstruction of judicial proceedings, among others under the Bharatiya Nyaya Sanhita, 2023) that section 384 allows a Civil, Criminal, or Revenue Court to punish summarily and on the spot when committed in its own view or presence, without the ordinary complaint-and-trial process.",
+    "registrar": "An officer appointed under the Registration Act, 1908 to register documents (such as sale deeds, mortgages, and wills) within a defined jurisdiction, verifying execution and maintaining the official record of registered instruments; section 386 lets the State Government deem a Registrar a Civil Court for the limited purpose of exercising the contempt-handling powers under sections 384 and 385 over misconduct occurring in his registration proceedings.",
+    "sub-registrar": "A subordinate registering officer under the Registration Act, 1908, exercising registration functions (typically at the taluka/sub-district level) under a Registrar's superintendence; like a Registrar, a Sub-Registrar can be deemed a Civil Court under section 386 when the State Government so directs, solely for handling contempt under sections 384-385.",
+    "apology": "An offender's expression of regret and submission to a Court's order or requisition, tendered to the Court's satisfaction; section 387 lets a Court that has punished someone under section 384 (in-Court contempt) or forwarded him for trial under section 385, discharge him or remit his punishment entirely at its discretion once he submits to the Court's requirement or offers a satisfactory apology.",
+    "warrant": "A written order issued by a Magistrate or Judge, under his own hand, authorising a specified officer to take a named person into custody -- here, used under section 388 to commit a witness or document-holder who refuses without reasonable excuse to answer questions or produce a document/thing to the custody of a court officer for up to seven days, as an alternative to a direct sentence of simple imprisonment.",
+    "court of small causes": "A specialised civil court of limited pecuniary jurisdiction that tries small-value money claims through a simplified, speedy procedure, with normally very limited rights of appeal on the civil side; section 390(3) carves out a specific criminal-appeal route for BNSS summary convictions (sections 383, 384, 388, 389) handed down by such a Court, sending the appeal to the Court of Session for that sessions division rather than following the ordinary civil appellate hierarchy."
   },
   "sections": [
     {
@@ -8841,6 +8846,106 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Read sections 384 and 385 together as a graduated-severity pair -- section 384 caps a Court's own summary power at a modest fine (imprisonment only in default), and section 385 is the mandatory referral route the moment the Court believes the misconduct deserves more serious punishment than that cap allows."
+      }
+    },
+    {
+      "number": "386",
+      "title": "When Registrar or Sub-Registrar to be deemed a Civil Court",
+      "raw_text": "386. When Registrar or Sub-Registrar to be deemed a Civil Court.—When the State Government\nso directs, any Registrar or any Sub-Registrar appointed under the Registration Act, 1908 (16 of 1908),\nshall be deemed to be a Civil Court within the meaning of sections 384 and 385.",
+      "key_terms": [
+        "registrar",
+        "sub-registrar"
+      ],
+      "breakdown": {
+        "plain_summary": "Registration proceedings before a Registrar or Sub-Registrar are not ordinarily judicial proceedings before a \"Court,\" so without this section, sections 384-385's in-view contempt powers wouldn't apply to misconduct happening in front of them. This section lets the State Government extend that deeming fiction by direction -- once made, the Registrar/Sub-Registrar is treated as a Civil Court solely for the purposes of sections 384 and 385, letting them summarily handle contempt-type offences committed during registration proceedings, or refer serious cases to a Magistrate.",
+        "essential_elements": [
+          "Requires a direction by the State Government.",
+          "Applies to any Registrar or Sub-Registrar appointed under the Registration Act, 1908.",
+          "Once directed, such an officer is deemed a Civil Court, but only within the meaning of sections 384 and 385 (not for all purposes)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a narrow, purpose-specific deeming provision -- always check whether the relevant State Government has actually issued the section 386 direction before assuming a Registrar/Sub-Registrar can exercise sections 384-385 powers; absent that direction, they have no such contempt-handling authority."
+      }
+    },
+    {
+      "number": "387",
+      "title": "Discharge of offender on submission of apology",
+      "raw_text": "387. Discharge of offender on submission of apology.—When any Court has under section 384\nadjudged an offender to punishment, or has under section 385 forwarded him to a Magistrate for trial, for\nrefusing or omitting to do anything which he was lawfully required to do or for any intentional insult or\ninterruption, the Court may, in its discretion, discharge the offender or remit the punishment on his\nsubmission to the order or requisition of such Court, or on apology being made to its satisfaction.",
+      "key_terms": [
+        "apology"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the Court an off-ramp after it has already punished (under section 384) or forwarded (under section 385) someone for refusing/omitting a lawfully required act, or for intentional insult or interruption: at its discretion, the Court may discharge the offender or remit his punishment if he now submits to the Court's order/requisition, or offers an apology that satisfies the Court. This is a purely discretionary mercy provision, not a right the offender can claim.",
+        "essential_elements": [
+          "Applies where a Court has adjudged punishment under section 384, or forwarded the offender for trial under section 385, for refusing/omitting a lawfully required act, or for intentional insult or interruption.",
+          "The Court may, in its discretion, discharge the offender or remit the punishment.",
+          "The basis is the offender's submission to the Court's order/requisition, or a satisfactory apology."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Practitioners defending a contempt-type charge under sections 384-385 should treat a prompt, sincere apology or compliance as a genuine mitigation strategy -- the Court's discretion here is broad and there's no requirement that the apology precede sentencing, only that it satisfy the Court after the fact."
+      }
+    },
+    {
+      "number": "388",
+      "title": "Imprisonment or committal of person refusing to answer or produce document",
+      "raw_text": "388. Imprisonment or committal of person refusing to answer or produce document.—If any\nwitness or person called to produce a document or thing before a Criminal Court refuses to answer such\nquestions as are put to him or to produce any document or thing in his possession or power which the Court\nrequires him to produce, and does not, after a reasonable opportunity has been given to him so to do, offer\nany reasonable excuse for such refusal, such Court may, for reasons to be recorded in writing, sentence him\nto simple imprisonment, or by warrant under the hand of the Presiding Magistrate or Judge commit him to\nthe custody of an officer of the Court for any term not exceeding seven days, unless in the meantime, such\nperson consents to be examined and to answer, or to produce the document or thing and in the event of his\npersisting in his refusal, he may be dealt with according to the provisions of section 384 or section 385.",
+      "key_terms": [
+        "warrant"
+      ],
+      "breakdown": {
+        "plain_summary": "A witness or a person summoned to produce a document/thing before a Criminal Court cannot simply refuse without reasonable excuse: after being given a fair chance to explain the refusal, the Court may (recording its reasons in writing) either sentence him directly to simple imprisonment, or commit him by warrant to a court officer's custody for up to seven days -- a coercive, not purely punitive, detention that ends the moment he agrees to answer or produce the item. If he keeps refusing even then, the Court can fall back on the sections 384-385 contempt machinery for a more conclusive resolution.",
+        "essential_elements": [
+          "Applies to a witness, or a person called to produce a document/thing, before a Criminal Court.",
+          "The refusal must be to answer questions put, or to produce a document/thing in his possession or power that the Court requires.",
+          "The person must be given a reasonable opportunity to offer an excuse, and must fail to offer a reasonable one.",
+          "The Court must record its reasons in writing before acting.",
+          "It may sentence him to simple imprisonment, or commit him by warrant to a court officer's custody for up to seven days.",
+          "Committal ends early if he consents to answer/produce during that period.",
+          "Continued refusal after this may instead be dealt with under section 384 or section 385.",
+          "Options are discretionary; the reasoned discretion is available given persistent unjustified refusal."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The seven-day committal is deliberately coercive rather than punitive -- its purpose is to pressure compliance, not to punish, which is why it self-terminates the instant the witness relents; the harsher sections 384/385 route is reserved for genuinely persistent refusal."
+      }
+    },
+    {
+      "number": "389",
+      "title": "Summary procedure for punishment for non-attendance by a witness in obedience to summons",
+      "raw_text": "389. Summary procedure for punishment for non-attendance by a witness in obedience to\nsummons.—(1) If any witness being summoned to appear before a Criminal Court is legally bound to\nappear at a certain place and time in obedience to the summons and without just excuse neglects or refuses\nto attend at that place or time or departs from the place where he has to attend before the time at which it is\nlawful for him to depart, and the Court before which the witness is to appear is satisfied that it is expedient\nin the interests of justice that such a witness should be tried summarily, the Court may take cognizance of\nthe offence and after giving the offender an opportunity of showing cause why he should not be punished\nunder this section, sentence him to fine not exceeding five hundred rupees.\n    (2) In every such case the Court shall follow, as nearly as may be practicable, the procedure prescribed\nfor summary trials.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This targets simple witness no-shows: if a legally-bound, validly summoned witness, without just excuse, fails to attend at the required place/time, or leaves early, the Criminal Court awaiting him may -- if it thinks summary trial is expedient in the interests of justice -- take cognizance itself, give the witness a chance to show cause, and fine him up to five hundred rupees, following the ordinary summary-trial procedure as nearly as practicable.",
+        "essential_elements": [
+          "Applies to a witness legally bound to appear before a Criminal Court in obedience to a summons.",
+          "Covers neglecting/refusing to attend at the required place/time, or departing early without lawful cause.",
+          "The failure must be without just excuse.",
+          "The Court must be satisfied summary trial is expedient in the interest of justice.",
+          "The offender must be given an opportunity to show cause before sentencing.",
+          "Maximum punishment: fine not exceeding five hundred rupees.",
+          "The ordinary summary-trial procedure applies as nearly as practicable."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the lightest-touch of the Chapter's summary punishment tools (fine only, capped at Rs. 500, no imprisonment) -- reflecting that mere non-attendance, without more, is treated as a lesser lapse than perjury (section 383) or in-Court contempt (section 384)."
+      }
+    },
+    {
+      "number": "390",
+      "title": "Appeals from convictions under sections 383, 384, 388 and 389",
+      "raw_text": "390. Appeals from convictions under sections 383, 384, 388 and 389.—(1) Any person sentenced by\nany Court other than a High Court under section 383, section 384, section 388, or section 389 may,\nnotwithstanding anything contained in this Sanhita appeal to the Court to which decrees or orders made in\nsuch Court are ordinarily appealable.\n    (2) The provisions of Chapter XXXI shall, so far as they are applicable, apply to appeals under this\nsection, and the Appellate Court may alter or reverse the finding, or reduce or reverse the sentence appealed\nagainst.\n    (3) An appeal from such conviction by a Court of Small Causes shall lie to the Court of Session for the\nsessions division within which such Court is situate.\n    (4) An appeal from such conviction by any Registrar or Sub-Registrar deemed to be a Civil Court by\nvirtue of a direction issued under section 386 shall lie to the Court of Session for the sessions division\nwithin which the office of such Registrar or Sub-Registrar is situate.",
+      "key_terms": [
+        "court of small causes"
+      ],
+      "breakdown": {
+        "plain_summary": "This supplies a uniform appeal route for all four summary-punishment powers in this Chapter (perjury under 383, in-Court contempt under 384, refusal-to-answer/produce under 388, and witness non-attendance under 389), overriding whatever the normal BNSS appeal provisions would otherwise say: the convicted person appeals to whichever Court ordinarily hears appeals from decrees/orders of the convicting Court (since many of these convicting authorities, like Civil Courts, aren't ordinarily criminal-appeal forums), applying Chapter XXXI's appellate procedure as far as applicable, with the Appellate Court empowered to alter/reverse the finding or reduce/reverse the sentence. Two special routings are carved out: convictions by a Court of Small Causes go to the Court of Session for that sessions division, and convictions by a Registrar/Sub-Registrar deemed a Civil Court under section 386 likewise go to the Court of Session for the division where that office sits.",
+        "essential_elements": [
+          "Applies to any person sentenced under section 383, 384, 388, or 389 by a Court other than a High Court.",
+          "The appeal lies to the Court to which decrees/orders of the convicting Court are ordinarily appealable.",
+          "Chapter XXXI's appeal provisions apply as far as applicable; the Appellate Court may alter/reverse the finding or reduce/reverse the sentence.",
+          "Convictions by a Court of Small Causes are appealable specifically to the Court of Session for that sessions division.",
+          "Convictions by a Registrar/Sub-Registrar deemed a Civil Court under section 386 are likewise appealable to the Court of Session for the division of that office."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The routing logic here follows the convicting authority's own ordinary appellate hierarchy rather than the usual criminal-appeal chain, because several of the authorities exercising these summary powers (Civil, Revenue Courts, Registrars) sit outside the normal criminal court structure -- always check which specific track (ordinary appellate route, or the two Court-of-Session carve-outs) applies to the particular convicting authority."
       }
     }
   ]
