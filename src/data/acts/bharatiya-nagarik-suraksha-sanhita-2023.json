@@ -243,7 +243,7 @@
     "mental health review board": "A quasi-judicial body constituted under the Mental Healthcare Act, 2017 to review and safeguard the rights of persons receiving mental healthcare, including reviewing admission and detention in mental health establishments; where a section 369 detainee is held in a public mental health establishment rather than a jail, it is this Board -- not the Inspector-General of Prisons -- that certifies capacity to stand trial under section 376.",
     "bind over": "To require a person, by a formal court order backed by a bond or security, to do (or refrain from doing) a specified act -- most commonly, to appear and give evidence at a future date; section 379 empowers a Court to bind over witnesses to appear before the Magistrate to whom it forwards a complaint regarding offences against the administration of justice.",
     "commission": "A body of designated persons formally appointed by an authority (here, the State Government) to investigate a specific question and report back, rather than the authority deciding the matter itself in the first instance; section 377(1) allows the State Government, when transferring a detained person to a public mental health establishment, to appoint a three-member Commission -- one Judicial officer and two medical officers -- to formally inquire into that person's state of mind and report a recommendation on release or detention.",
-    "revision": "The supervisory jurisdiction of a superior Court to examine the record of a subordinate Court's proceeding to correct errors of jurisdiction, law, or procedure, without being a full-fledged appeal on facts; section 380(2) specifically excludes orders under sections 379-380 from revision, making the appellate Court's decision on whether to lodge a complaint for offences against the administration of justice final and not open to further supervisory challenge.",
+    "revision": "The supervisory jurisdiction of a superior Court -- the High Court or a Sessions Judge -- to call for and examine the record of a subordinate/inferior Criminal Court's proceeding, to correct errors of jurisdiction, law, or procedure (correctness, legality, or propriety of a finding, sentence, or order, and the regularity of the proceedings), without being a full-fledged appeal on facts (section 438). It cannot be exercised over interlocutory orders (section 438(2)), and is subject to a one-application rule: once a person applies to either the High Court or a Sessions Judge, no further application by that same person will be entertained by the other (sections 438(3), 440(3)). Section 380(2) specifically excludes orders under sections 379-380 from revision, making the appellate Court's decision on whether to lodge a complaint for offences against the administration of justice final and not open to further supervisory challenge.",
     "costs": "The expenses of litigation -- process-fees, witness expenses, advocate's fees, and similar prosecution or application expenses -- that a Court may order one party to pay to another as part of its order; under section 381 a Court may award costs on a section 379 complaint application or section 380 appeal as it thinks just, distinct from the separate cost-shifting power in section 400 for non-cognizable-offence prosecutions.",
     "false evidence": "Evidence given by a witness that he knows or believes to be untrue, or evidence (including a document or other material) fabricated with the intention that it be used as genuine in a judicial proceeding; section 383 lets the very Court before which such evidence was knowingly or wilfully given or fabricated try the witness summarily for it immediately upon delivering judgment in the underlying case, without needing a separate complaint process.",
     "contempt": "Conduct that disrespects, obstructs, or undermines the authority and dignity of a Court -- here, the specific set of offences against public justice (insult, interruption, or intentional obstruction of judicial proceedings, among others under the Bharatiya Nyaya Sanhita, 2023) that section 384 allows a Civil, Criminal, or Revenue Court to punish summarily and on the spot when committed in its own view or presence, without the ordinary complaint-and-trial process.",
@@ -279,7 +279,9 @@
     "summary dismissal": "An Appellate Court's power under section 425 to dismiss an appeal at the threshold, without a full hearing, if it finds no sufficient ground for interfering after examining the petition of appeal and judgment copy -- subject to safeguards: an appellant under section 423 must get a reasonable hearing opportunity first, a jailed appellant under section 424 must generally get one too (unless the appeal is frivolous or producing him would be disproportionately inconvenient), and no section 424 appeal can be summarily dismissed before the appeal-filing period has expired.",
     "enhancement of sentence": "An appellate outcome where a sentence originally imposed is increased -- available only on an appeal specifically brought for that purpose (typically a State/Central Government appeal under section 418), and only after giving the accused an opportunity to show cause against the proposed enhancement (section 427's first proviso); the Appellate Court also cannot inflict a punishment greater than what the original Court could have imposed for the offence it finds was actually committed (section 427's second proviso).",
     "additional evidence": "New evidence introduced at the appellate stage, beyond what was recorded at trial; section 432 lets the Appellate Court take such evidence itself, or direct a Magistrate (or, if the Appellate Court is a High Court, a Court of Session or Magistrate) to take it, provided the Appellate Court records its reasons for finding it necessary and the accused/his advocate has the right to be present when it is taken.",
-    "abatement of appeal": "The automatic lapsing of an appeal, without any decision on its merits, typically triggered by the death of the relevant party; section 435 provides that a State/Central Government appeal (sections 418, 419) finally abates on the accused's death, and any other appeal (except a fine-sentence appeal) finally abates on the appellant's death -- subject to a proviso letting a near relative apply within thirty days for leave to continue a death/imprisonment-sentence appeal."
+    "abatement of appeal": "The automatic lapsing of an appeal, without any decision on its merits, typically triggered by the death of the relevant party; section 435 provides that a State/Central Government appeal (sections 418, 419) finally abates on the accused's death, and any other appeal (except a fine-sentence appeal) finally abates on the appellant's death -- subject to a proviso letting a near relative apply within thirty days for leave to continue a death/imprisonment-sentence appeal.",
+    "reference": "A procedure by which a subordinate Court, doubting the validity of a law it must apply to decide a pending case, formally states its opinion and reasons and refers the question to the High Court for decision, rather than deciding the validity question itself (section 436); distinct from an 'appeal' (which challenges an already-decided outcome) in that a reference happens mid-case, before the subordinate Court has itself ruled on the point.",
+    "interlocutory order": "An order passed at an intermediate stage of a case, without finally deciding the rights of the parties or disposing of the matter -- section 438(2) expressly places interlocutory orders passed in any appeal, inquiry, trial, or other proceeding outside the scope of the revisional power, meaning parties generally cannot use revision to challenge routine intermediate rulings and must wait for the final order or judgment."
   },
   "sections": [
     {
@@ -9825,6 +9827,99 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Practitioners for the family of a deceased appellant should treat the thirty-day window as a hard, easily-missed deadline -- the right to continue a serious conviction appeal (and thereby clear the deceased's name or protect estate consequences) is lost if no near relative applies for leave within that period."
+      }
+    },
+    {
+      "number": "436",
+      "title": "Reference to High Court",
+      "raw_text": "436. Reference to High Court.—(1) Where any Court is satisfied that a case pending before it involves\na question as to the validity of any Act, Ordinance or Regulation or of any provision contained in an Act,\nOrdinance or Regulation, the determination of which is necessary for the disposal of the case, and is of\nopinion that such Act, Ordinance, Regulation or provision is invalid or inoperative, but has not been so\ndeclared by the High Court to which that Court is subordinate or by the Supreme Court, the Court shall\nstate a case setting out its opinion and the reasons therefor, and refer the same for the decision of the High\nCourt.\n    Explanation.—In this section, \"Regulation\" means any Regulation as defined in the General Clauses\nAct, 1897 (10 of 1897), or in the General Clauses Act of a State.\n    (2) A Court of Session may, if it thinks fit in any case pending before it to which the provisions of sub-\nsection (1) do not apply, refer for the decision of the High Court any question of law arising in the hearing\nof such case.\n   (3) Any Court making a reference to the High Court under sub-section (1) or sub-section (2) may,\npending the decision of the High Court thereon, either commit the accused to jail or release him on bail to\nappear when called upon.",
+      "key_terms": [
+        "reference"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XXXII by giving a Court facing a genuine legal-validity doubt a formal escape hatch instead of ruling on that doubt itself. If a Court hearing a pending case believes a statute, Ordinance, Regulation, or provision it must apply is invalid or inoperative -- and no controlling High Court or Supreme Court has already so declared -- it must state a case (its opinion plus reasons) and refer the validity question to the High Court, rather than deciding it unilaterally. Separately, a Court of Session has a broader, purely discretionary power to refer any question of law (not just validity questions) to the High Court in a pending case. While either kind of reference is pending, the referring Court may commit the accused to jail or release him on bail to appear when called upon, keeping the underlying case from stalling entirely.",
+        "essential_elements": [
+          "Sub-section (1): mandatory reference where a Court believes a law/provision it must apply to a pending case is invalid or inoperative, and no High Court/Supreme Court has already so declared -- the Court must state its opinion and reasons and refer it to the High Court.",
+          "Explanation: 'Regulation' takes the General Clauses Act, 1897 (or a State's General Clauses Act) definition.",
+          "Sub-section (2): a Court of Session may, at its discretion, refer any other question of law arising in a pending case to the High Court.",
+          "Sub-section (3): pending the High Court's decision on a reference, the referring Court may commit the accused to jail or release him on bail to appear when called upon."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The mandatory-versus-discretionary split matters -- a subordinate Court has no choice but to refer a genuine validity question under sub-section (1), while a Court of Session's sub-section (2) power over other legal questions is purely optional, so counsel should not assume every doubtful legal question automatically gets referred."
+      }
+    },
+    {
+      "number": "437",
+      "title": "Disposal of case according to decision of High Court",
+      "raw_text": "437. Disposal of case according to decision of High Court.—(1) When a question has been so\nreferred, the High Court shall pass such order thereon as it thinks fit, and shall cause a copy of such order\nto be sent to the Court by which the reference was made, which shall dispose of the case conformably to\nthe said order.\n    (2) The High Court may direct by whom the costs of such reference shall be paid.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This closes the reference loop: once the High Court decides the referred question, it passes whatever order it thinks fit and sends a copy back to the referring Court, which must then dispose of the underlying case in conformity with that order. The High Court also has the power to direct who bears the costs of the reference itself.",
+        "essential_elements": [
+          "The High Court passes such order on the referred question as it thinks fit.",
+          "A copy of that order is sent to the referring Court, which must dispose of the case conformably to it.",
+          "The High Court may direct by whom the reference costs shall be paid."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The referring Court has no discretion to depart from the High Court's answer -- once the order comes back, disposal 'conformably' to it is mandatory, making the reference genuinely binding rather than merely advisory."
+      }
+    },
+    {
+      "number": "438",
+      "title": "Calling for records to exercise powers of revision",
+      "raw_text": "438. Calling for records to exercise powers of revision.—(1) The High Court or any Sessions Judge\nmay call for and examine the record of any proceeding before any inferior Criminal Court situate within its\nor his local jurisdiction for the purpose of satisfying itself or himself as to the correctness, legality or\npropriety of any finding, sentence or order, recorded or passed, and as to the regularity of any proceedings\nof such inferior Court, and may, when calling, for such record, direct that the execution of any sentence or\norder be suspended, and if the accused is in confinement that he be released on his own bond or bail bond\npending the examination of the record.\n    Explanation.—All Magistrates, whether Executive or Judicial, and whether exercising original or\nappellate jurisdiction, shall be deemed to be inferior to the Sessions Judge for the purposes of this sub-\nsection and of section 439.\n    (2) The powers of revision conferred by sub-section (1) shall not be exercised in relation to any\ninterlocutory order passed in any appeal, inquiry, trial or other proceeding.\n    (3) If an application under this section has been made by any person either to the High Court or to the\nSessions Judge, no further application by the same person shall be entertained by the other of them.",
+      "key_terms": [
+        "revision",
+        "interlocutory order"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the core grant of revisional jurisdiction: the High Court or any Sessions Judge may call for and examine the record of any proceeding before an inferior Criminal Court within its/his local jurisdiction, to check the correctness, legality, or propriety of any finding, sentence, or order, and the regularity of the proceedings generally. While calling for the record, the reviewing authority can suspend execution of a sentence/order and, if the accused is confined, release him on his own bond or bail bond pending the record's examination. The Explanation clarifies that all Magistrates -- Executive or Judicial, original or appellate -- count as 'inferior' to the Sessions Judge for this purpose. Two important limits apply: revision cannot touch interlocutory orders passed in any appeal, inquiry, trial, or other proceeding, and once a person has applied to either the High Court or a Sessions Judge under this section, that same person cannot make a further application to the other of them -- a one-shot rule against forum-shopping between the two revisional authorities.",
+        "essential_elements": [
+          "The High Court, or any Sessions Judge, may call for and examine the record of any proceeding before an inferior Criminal Court within its/his local jurisdiction.",
+          "Purpose: to check correctness, legality, or propriety of any finding, sentence, or order, and the regularity of proceedings.",
+          "The reviewing authority may suspend execution of a sentence/order and release a confined accused on bond/bail bond pending the record's examination.",
+          "Explanation: all Magistrates (Executive/Judicial, original/appellate) are deemed inferior to the Sessions Judge for this section and section 439.",
+          "Sub-section (2): revisional power cannot be exercised over interlocutory orders passed in any appeal, inquiry, trial, or other proceeding.",
+          "Sub-section (3): if a person has applied to either the High Court or the Sessions Judge under this section, no further application by that same person will be entertained by the other."
+        ],
+        "exceptions_and_qualifications": [
+          "Interlocutory orders are excluded from revisional scrutiny.",
+          "A person cannot apply to both the High Court and the Sessions Judge under this section -- only one, not both."
+        ],
+        "how_to_read": "The one-application rule in sub-section (3) is a critical strategic checkpoint -- practitioners must choose carefully whether to approach the Sessions Judge or go straight to the High Court, since an unsuccessful application to one forecloses trying the other on the same matter."
+      }
+    },
+    {
+      "number": "439",
+      "title": "Power to order inquiry",
+      "raw_text": "439. Power to order inquiry.—On examining any record under section 438 or otherwise, the High\nCourt or the Sessions Judge may direct the Chief Judicial Magistrate by himself or by any of the Magistrates\nsubordinate to him to make, and the Chief Judicial Magistrate may himself make or direct any subordinate\nMagistrate to make, further inquiry into any complaint which has been dismissed under section 226 or sub-\nsection (4) of section 227, or into the case of any person accused of an offence who has been discharged:\n    Provided that no Court shall make any direction under this section for inquiry into the case of any\nperson who has been discharged unless such person has had an opportunity of showing cause why such\ndirection should not be made.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This gives the revisional authorities a specific corrective tool for premature dismissals and discharges: after examining a record (whether under section 438 or otherwise), the High Court or Sessions Judge may direct the Chief Judicial Magistrate -- himself or through a subordinate Magistrate -- to conduct further inquiry into a complaint that was dismissed under section 226 or section 227(4), or into the case of an accused who was discharged. The Chief Judicial Magistrate can also make this direction on his own initiative or through a subordinate Magistrate. But a discharged person cannot be subjected to a further-inquiry direction without first getting a chance to show cause against it.",
+        "essential_elements": [
+          "Applies on examination of a record under section 438 or otherwise.",
+          "The High Court or Sessions Judge may direct the Chief Judicial Magistrate (himself or via a subordinate Magistrate) to make further inquiry into a complaint dismissed under section 226 or section 227(4), or into a discharged accused's case.",
+          "The Chief Judicial Magistrate may also himself make, or direct a subordinate Magistrate to make, such further inquiry.",
+          "Proviso: no direction for further inquiry into a discharged person's case may be made without giving that person an opportunity to show cause against it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a narrow, targeted revisional remedy -- it only reopens complaint dismissals and discharges, not full-blown acquittals or convictions, and always with the discharged person's show-cause right as a mandatory procedural safeguard."
+      }
+    },
+    {
+      "number": "440",
+      "title": "Sessions Judge's powers of revision",
+      "raw_text": "440. Sessions Judge's powers of revision.—(1) In the case of any proceeding the record of which has\nbeen called for by himself, the Sessions Judge may exercise all or any of the powers which may be exercised\nby the High Court under sub-section (1) of section 442.\n    (2) Where any proceeding by way of revision is commenced before a Sessions Judge under\nsub-section (1), the provisions of sub-sections (2), (3), (4) and (5) of section 442 shall, so far as may be,\napply to such proceeding and references in the said sub-sections to the High Court shall be construed as\nreferences to the Sessions Judge.\n    (3) Where any application for revision is made by or on behalf of any person before the Sessions Judge,\nthe decision of the Sessions Judge thereon in relation to such person shall be final and no further proceeding\nby way of revision at the instance of such person shall be entertained by the High Court or any other Court.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This equips the Sessions Judge with the same substantive revisional powers the High Court has under section 442(1), for any proceeding whose record the Sessions Judge has himself called for -- and applies section 442's procedural sub-sections (2) through (5) to Sessions Judge-level revision proceedings, reading those provisions' references to the High Court as references to the Sessions Judge instead. Crucially, once a person's revision application has been decided by the Sessions Judge, that decision is final as to that person, and no further revision at that same person's instance can be entertained by the High Court or any other Court -- reinforcing the one-shot rule already set out in section 438(3) from the other direction.",
+        "essential_elements": [
+          "The Sessions Judge may exercise all or any of the High Court's section 442(1) revisional powers, for proceedings whose record he has himself called for.",
+          "Section 442(2)-(5)'s procedural provisions apply to Sessions Judge-level revision, with 'High Court' read as 'Sessions Judge'.",
+          "A Sessions Judge's decision on a person's revision application is final as to that person; no further revision at that person's instance may be entertained by the High Court or any other Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 438(3) and 440(3) work together as a matched pair enforcing the same finality principle from both ends -- once a litigant has chosen and exhausted the Sessions Judge route, section 440(3) independently blocks any further attempt at the High Court, even setting aside section 438(3)'s prior-application bar."
       }
     }
   ]
