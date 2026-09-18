@@ -4,12 +4,12 @@
   "enactment_date": "25 December 2023",
   "preamble": "An Act to consolidate and amend the law relating to Criminal Procedure.",
   "glossary": {
-    "audio-video electronic means": "Includes the use of any communication device for purposes such as video conferencing, recording identification/search/seizure/evidence processes, and transmitting electronic communication, as the State Government may prescribe by rules.",
+    "audio-video electronic means": "Use of any communication device for video conferencing, recording identification/search/seizure processes or evidence, and transmitting electronic communication, as defined in Section 2(1)(a).",
     "bail": "Release of a person accused or suspected of an offence from custody, on conditions imposed by an officer or Court, on execution of a bond or bail bond.",
     "bailable offence": "An offence shown as bailable in the First Schedule, or made bailable by any other law in force.",
     "non-bailable offence": "Any offence that is not a bailable offence.",
-    "bail bond": "An undertaking for release with surety.",
-    "bond": "A personal bond or an undertaking for release without surety.",
+    "bail bond": "An undertaking for release supported by surety, as defined in Section 2(1)(d).",
+    "bond": "A personal undertaking for release without surety, as defined in Section 2(1)(e).",
     "charge": "Includes any head of charge when the charge contains more than one head.",
     "cognizable offence": "An offence for which a police officer may arrest without a warrant, as shown in the First Schedule or under any other law in force.",
     "cognizable case": "A case involving a cognizable offence.",
@@ -51,9 +51,9 @@
     "sub-divisional judicial magistrate": "A Judicial Magistrate of the first class designated to supervise Judicial Magistrates within a sub-division.",
     "special judicial magistrate": "A government post-holder conferred Judicial Magistrate powers by the High Court for particular cases or areas, for a term not exceeding one year at a time.",
     "special court": "A Court of Judicial Magistrates established for a particular case or class of cases, with exclusive jurisdiction over that category in its local area.",
-    "district magistrate": "The senior Executive Magistrate of a district, appointed by the State Government.",
+    "district magistrate": "The senior executive Magistrate heading a district, to whom warrantless-arrest reports are made under Section 59 and who exercises wide executive-magistracy powers under the Sanhita.",
     "additional district magistrate": "An Executive Magistrate appointed to exercise some or all powers of the District Magistrate.",
-    "sub-divisional magistrate": "An Executive Magistrate placed in charge of a sub-division by the State Government.",
+    "sub-divisional magistrate": "An Executive Magistrate exercising authority over a sub-division of a district, who may receive warrantless-arrest reports under Section 59 if the District Magistrate so directs.",
     "special executive magistrate": "An Executive Magistrate or senior police officer (Superintendent of Police rank or above) appointed for particular areas or functions, for a fixed term.",
     "commissioner of police": "A senior police officer who may, under other laws, be conferred some or all powers of an Executive Magistrate.",
     "additional public prosecutor": "A law officer appointed to assist or act alongside the Public Prosecutor.",
@@ -79,13 +79,19 @@
     "reasons in writing": "A police officer's documented justification, required under Section 35, for making or not making an arrest in specified circumstances.",
     "notice of appearance": "A written direction issued by a police officer under Section 35(3) requiring a person to appear before him instead of being arrested.",
     "memorandum of arrest": "A written record of an arrest, prepared by the arresting officer, attested by a witness and countersigned by the person arrested.",
-    "designated police officer": "An officer, of at least Assistant Sub-Inspector rank, responsible for maintaining and displaying arrest-related information in a police station or district.",
+    "designated police officer": "A police officer, appointed under Section 37, responsible for maintaining and prominently displaying up-to-date information about arrested persons and the police officers who arrested/hold them, and for receiving arrest-notification information under Section 48.",
     "police control room": "A facility established by the State Government at the district and State level to coordinate and record policing information, including arrests.",
     "citizen's arrest": "The power of a private person to arrest another who commits a non-bailable and cognizable offence in his presence, or who is a proclaimed offender.",
     "surety": "A person who undertakes responsibility for ensuring another person's compliance with bail or bond conditions.",
     "armed forces of the union": "The military forces of the Union of India, whose members enjoy a special protection from arrest for official-duty acts absent Central Government consent.",
     "submission to custody": "An arrested person's acknowledgment of arrest by word or conduct, which may substitute for actual physical touch or confinement.",
-    "free ingress": "Unobstructed entry into a place, which an occupier must afford to an arresting officer or warrant-holder on demand."
+    "free ingress": "Unobstructed entry into a place, which an occupier must afford to an arresting officer or warrant-holder on demand.",
+    "registered medical practitioner": "A medical practitioner holding a medical qualification recognised under the National Medical Commission Act, 2019, whose name is entered in the National Medical Register or a State Medical Register.",
+    "medical officer": "A doctor in the service of the Central Government or a State Government, the primary examiner responsible for checking every arrested person's physical condition soon after arrest under Section 53.",
+    "dna profiling": "A modern forensic technique for identifying individuals from biological material (blood, semen, hair, etc.), expressly included within 'examination' for the purposes of Sections 51 to 53.",
+    "twenty-four hours": "The maximum period, exclusive of journey time to the Magistrate's Court, that a person arrested without warrant may be held in police custody without a Magistrate's special order under Section 187 (Section 58).",
+    "special order": "A specific judicial order by a Magistrate under Section 187 authorising continued police custody of an arrested person beyond the ordinary 24-hour limit.",
+    "lawful custody": "Custody that is legally authorised — for example, custody following a valid arrest or under a court order — as distinguished from unlawful detention."
   },
   "sections": [
     {
@@ -1146,6 +1152,355 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This section only authorises pursuit, not an independent arrest power — the officer's underlying authority to arrest without warrant must already exist (typically under Section 35) before this cross-jurisdictional pursuit right comes into play."
+      }
+    },
+    {
+      "number": "46",
+      "title": "No unnecessary restraint",
+      "raw_text": "The person arrested shall not be subjected to more restraint than is necessary to prevent his escape.",
+      "key_terms": [
+        "unnecessary restraint"
+      ],
+      "breakdown": {
+        "plain_summary": "A one-line but important safeguard: once a person is arrested, the police may restrain them only to the extent needed to stop them from escaping — nothing more. Excess force or restraint beyond what escape-prevention requires is unlawful, even against a validly arrested person.",
+        "essential_elements": [
+          "Applies to any person arrested (regardless of the arrest's legal basis).",
+          "Restraint permitted only 'to prevent his escape' — that is the sole justification.",
+          "Any restraint beyond this necessity threshold is impermissible."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a general principle, not a specific procedure — its practical content is filled in by later provisions (e.g., Section 43's rules on handcuffing) and by constitutional/human-rights jurisprudence on custodial treatment."
+        ],
+        "how_to_read": "A short but frequently pleaded provision in custodial-torture or excessive-force complaints — cite it alongside Section 43(3)'s handcuffing restrictions and Article 21 case law when restraint clearly exceeded escape-prevention."
+      }
+    },
+    {
+      "number": "47",
+      "title": "Person arrested to be informed of grounds of arrest and of right to bail",
+      "raw_text": "(1) Every police officer or other person arresting any person without warrant shall forthwith communicate to him full particulars of the offence for which he is arrested or other grounds for such arrest.\n(2) Where a police officer arrests without warrant any person other than a person accused of a non-bailable offence, he shall inform the person arrested that he is entitled to be released on bail and that he may arrange for sureties on his behalf.",
+      "key_terms": [
+        "non-bailable offence",
+        "bail",
+        "surety"
+      ],
+      "breakdown": {
+        "plain_summary": "Two distinct duties on the arresting officer, both immediate ('forthwith'): first, always tell the person exactly why they are being arrested — the specific offence or grounds, not a vague label. Second, if the offence is bailable, also tell them they have a right to bail and may arrange sureties. This second duty does not apply to non-bailable offences (where bail isn't a matter of right).",
+        "essential_elements": [
+          "Sub-section (1) applies to every warrantless arrest, for any offence — full particulars of the offence/grounds must be communicated immediately.",
+          "Sub-section (2) applies only where the offence is NOT non-bailable — the arrested person must additionally be told of the bail right and the option to arrange sureties.",
+          "Both duties fall on 'every police officer or other person' making the arrest — including private persons making a citizen's arrest under Section 40."
+        ],
+        "exceptions_and_qualifications": [
+          "The right to be told of the bail option is expressly carved out for non-bailable offences — no such disclosure duty arises there, since bail is discretionary, not automatic."
+        ],
+        "how_to_read": "Failure to communicate grounds of arrest is a well-established ground for challenging the legality of custody (habeas corpus/Article 22 territory) — this section is the statutory backbone for that constitutional guarantee. Always check the arrest memo/case diary for a contemporaneous record of this communication."
+      }
+    },
+    {
+      "number": "48",
+      "title": "Obligation of person making arrest to inform about arrest, etc., to relative or friend",
+      "raw_text": "(1) Every police officer or other person making any arrest under this Sanhita shall forthwith give the information regarding such arrest and place where the arrested person is being held to any of his relatives, friends or such other persons as may be disclosed or nominated by the arrested person for the purpose of giving such information and also to the designated police officer in the district.\n(2) The police officer shall inform the arrested person of his rights under sub-section (1) as soon as he is brought to the police station.\n(3) An entry of the fact as to who has been informed of the arrest of such person shall be made in a book to be kept in the police station in such form as the State Government may, by rules, provide.\n(4) It shall be the duty of the Magistrate before whom such arrested person is produced, to satisfy himself that the requirements of sub-section (2) and sub-section (3) have been complied with in respect of such arrested person.",
+      "key_terms": [
+        "designated police officer",
+        "case diary"
+      ],
+      "breakdown": {
+        "plain_summary": "This codifies the D.K. Basu right-to-inform safeguard: someone nominated by the arrested person (and the district's designated police officer under Section 37) must be told immediately of the arrest and where the person is being held. The person must be told of this right as soon as they reach the station, the disclosure must be logged in a register, and the Magistrate before whom they are produced must actively verify these steps were followed — not just take it on trust.",
+        "essential_elements": [
+          "Information goes to whoever the arrested person discloses/nominates (relative, friend, or other), plus the designated police officer in the district.",
+          "The arrested person must be informed of this right as soon as they are brought to the station.",
+          "A register entry recording who was informed is mandatory.",
+          "The Magistrate has an affirmative duty to satisfy themselves that sub-sections (2) and (3) were complied with — this is a judicial check, not just a police obligation."
+        ],
+        "exceptions_and_qualifications": [
+          "No express exception in the text — the duty is unconditional once an arrest under the Sanhita is made."
+        ],
+        "how_to_read": "Magistrates should be pressed at first production to record on file that they specifically verified compliance with sub-sections (2)-(3); defence counsel should demand the station register entry as documentary proof where custodial notification is disputed."
+      }
+    },
+    {
+      "number": "49",
+      "title": "Search of arrested person",
+      "raw_text": "(1) Whenever—\n(i) a person is arrested by a police officer under a warrant which does not provide for the taking of bail, or under a warrant which provides for the taking of bail but the person arrested cannot furnish bail; and\n(ii) a person is arrested without warrant, or by a private person under a warrant, and cannot legally be admitted to bail, or is unable to furnish bail, the officer making the arrest or, when the arrest is made by a private person, the police officer to whom he makes over the person arrested, may search such person, and place in safe custody all articles, other than necessary wearing-apparel, found upon him and where any article is seized from the arrested person, a receipt showing the articles taken in possession by the police officer shall be given to such person.\n(2) Whenever it is necessary to cause a female to be searched, the search shall be made by another female with strict regard to decency.",
+      "key_terms": [
+        "safe custody",
+        "necessary wearing-apparel"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a person cannot be released on bail (either because the warrant blocks it or they simply can't furnish it), the arresting officer may search them and take all their belongings into safe custody — except the clothes they need to wear. Anything seized must be receipted. A woman being searched must be searched only by another woman, with strict regard to decency.",
+        "essential_elements": [
+          "Search power is conditional on the person NOT being released on bail — either warrant-blocked or unable to furnish bail.",
+          "Only non-wearing-apparel articles may be seized and held in safe custody.",
+          "A receipt must be given for any article seized.",
+          "Female searches must be conducted by a female officer/person, with strict decency."
+        ],
+        "exceptions_and_qualifications": [
+          "If the person is admitted to bail, this search-and-seizure power under this section does not apply."
+        ],
+        "how_to_read": "Insist on the seizure receipt in every case — its absence is a common and effective challenge to the integrity of the property/recovery trail in a later trial. The female-search safeguard is non-negotiable and its breach independently taints the search."
+      }
+    },
+    {
+      "number": "50",
+      "title": "Power to seize offensive weapons",
+      "raw_text": "The police officer or other person making any arrest under this Sanhita may, immediately after the arrest is made, take from the person arrested any offensive weapons which he has about his person, and shall deliver all weapons so taken to the Court or officer before which or whom the officer or person making the arrest is required by this Sanhita to produce the person arrested.",
+      "key_terms": [
+        "offensive weapons"
+      ],
+      "breakdown": {
+        "plain_summary": "Immediately upon arrest, any weapons found on the person may be seized — and must then be handed over to whichever Court or officer the arrested person is required to be produced before. This is a mandatory chain-of-custody step, not discretionary once weapons are found.",
+        "essential_elements": [
+          "Seizure is permitted 'immediately after the arrest is made.'",
+          "Applies to 'offensive weapons' found on the person.",
+          "Weapons seized MUST be delivered to the Court/officer before whom the arrested person is to be produced — this part is mandatory ('shall')."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A clean weapon-seizure and hand-over trail (seizure memo, delivery record to the producing Court/officer) is often decisive in weapon-related offences — gaps here are a standard defence attack point."
+      }
+    },
+    {
+      "number": "51",
+      "title": "Examination of accused by medical practitioner at request of police officer",
+      "raw_text": "(1) When a person is arrested on a charge of committing an offence of such a nature and alleged to have been committed under such circumstances that there are reasonable grounds for believing that an examination of his person will afford evidence as to the commission of an offence, it shall be lawful for a registered medical practitioner, acting at the request of any police officer, and for any person acting in good faith in his aid and under his direction, to make such an examination of the person arrested as is reasonably necessary in order to ascertain the facts which may afford such evidence, and to use such force as is reasonably necessary for that purpose.\n(2) Whenever the person of a female is to be examined under this section, the examination shall be made only by, or under the supervision of, a female registered medical practitioner.\n(3) The registered medical practitioner shall, without any delay, forward the examination report to the investigating officer.\nExplanation.—In this section and sections 52 and 53,—\n(a) \"examination\" shall include the examination of blood, blood stains, semen, swabs in case of sexual offences, sputum and sweat, hair samples and finger nail clippings by the use of modern and scientific techniques including DNA profiling and such other tests which the registered medical practitioner thinks necessary in a particular case;\n(b) \"registered medical practitioner\" means a medical practitioner who possesses any medical qualification recognised under the National Medical Commission Act, 2019 (30 of 2019) and whose name has been entered in the National Medical Register or a State Medical Register under that Act.",
+      "key_terms": [
+        "registered medical practitioner",
+        "examination",
+        "reasonable force"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the circumstances of the alleged offence make it likely that a medical examination of the accused's body will yield evidence, a registered doctor may examine the arrested person at police request — using reasonable force if needed. 'Examination' expressly covers modern forensic techniques including DNA profiling. If the accused is female, only a female doctor (or examination under her supervision) is permitted. The report must go promptly to the investigating officer.",
+        "essential_elements": [
+          "Threshold: 'reasonable grounds for believing' the examination will afford evidence of the offence — not a mere fishing expedition.",
+          "Only a registered medical practitioner (or someone acting in good faith under their direction) may conduct it.",
+          "Reasonable force may be used to carry out the examination.",
+          "Female accused persons must be examined only by, or under supervision of, a female registered medical practitioner.",
+          "'Examination' is defined broadly to include DNA profiling and other modern scientific techniques.",
+          "Report must be forwarded to the investigating officer without delay."
+        ],
+        "exceptions_and_qualifications": [
+          "The 'reasonable force' power is itself bounded by reasonableness — it is not unlimited force."
+        ],
+        "how_to_read": "This is the general medical-examination-of-accused power (distinct from Section 52's rape-specific procedure and Section 53's arrival medical check) — useful wherever bodily evidence (injuries, bite marks, biological trace evidence) is relevant to proving the offence, not just in sexual-offence cases."
+      }
+    },
+    {
+      "number": "52",
+      "title": "Examination of person accused of rape by medical practitioner",
+      "raw_text": "(1) When a person is arrested on a charge of committing an offence of rape or an attempt to commit rape and there are reasonable grounds for believing that an examination of his person will afford evidence as to the commission of such offence, it shall be lawful for a registered medical practitioner employed in a hospital run by the Government or by a local authority and in the absence of such a practitioner within the radius of sixteen kilometres from the place where the offence has been committed, by any other registered medical practitioner, acting at the request of any police officer, and for any person acting in good faith in his aid and under his direction, to make such an examination of the arrested person and to use such force as is reasonably necessary for that purpose.\n(2) The registered medical practitioner conducting such examination shall, without any delay, examine such person and prepare a report of his examination giving the following particulars, namely:—\n(i) the name and address of the accused and of the person by whom he was brought;\n(ii) the age of the accused;\n(iii) marks of injury, if any, on the person of the accused;\n(iv) the description of material taken from the person of the accused for DNA profiling; and\n(v) other material particulars in reasonable detail.\n(3) The report shall state precisely the reasons for each conclusion arrived at.\n(4) The exact time of commencement and completion of the examination shall also be noted in the report.\n(5) The registered medical practitioner shall, without any delay, forward the report to the investigating officer, who shall forward it to the Magistrate referred to in section 193 as part of the documents referred to in clause (a) of sub-section (6) of that section.",
+      "key_terms": [
+        "registered medical practitioner",
+        "DNA profiling"
+      ],
+      "breakdown": {
+        "plain_summary": "A specialised version of Section 51 for rape/attempted-rape accusations: the examining doctor should ordinarily be a government/local-authority hospital doctor, with a private registered practitioner as fallback only if none is available within 16 km. The report is far more detailed than the general Section 51 report — name/address, age, injury marks, DNA-profiling material description, and reasoned conclusions with exact examination timing — and it must be routed through the investigating officer to the Magistrate as part of the Section 193 chargesheet documents.",
+        "essential_elements": [
+          "Applies specifically to persons arrested on a charge of rape or attempt to commit rape.",
+          "Preferred examiner: a registered medical practitioner employed at a government/local-authority hospital.",
+          "Fallback to any other registered medical practitioner only if no such government-employed practitioner is within 16 km of the offence location.",
+          "The report must contain the five specified particulars, precise reasons for each conclusion, and exact start/end times.",
+          "The report must ultimately reach the Magistrate under Section 193 as part of the investigation documents."
+        ],
+        "exceptions_and_qualifications": [
+          "The 16-kilometre proximity rule is the sole trigger for using a non-government practitioner — it is a geographic, not a convenience-based, exception."
+        ],
+        "how_to_read": "Defence counsel routinely scrutinise this report for compliance with the mandatory particulars and timing — a report missing DNA-material description or exact examination times is vulnerable to challenge on reliability grounds. Prosecutors should ensure the chain to Section 193 documents is unbroken."
+      }
+    },
+    {
+      "number": "53",
+      "title": "Examination of arrested person by medical officer",
+      "raw_text": "(1) When any person is arrested, he shall be examined by a medical officer in the service of the Central Government or a State Government, and in case the medical officer is not available, by a registered medical practitioner soon after the arrest is made:\nProvided that if the medical officer or the registered medical practitioner is of the opinion that one more examination of such person is necessary, he may do so:\nProvided further that where the arrested person is a female, the examination of the body shall be made only by or under the supervision of a female medical officer, and in case the female medical officer is not available, by a female registered medical practitioner.\n(2) The medical officer or a registered medical practitioner so examining the arrested person shall prepare the record of such examination, mentioning therein any injuries or marks of violence upon the person arrested, and the approximate time when such injuries or marks may have been inflicted.\n(3) Where an examination is made under sub-section (1), a copy of the report of such examination shall be furnished by the medical officer or registered medical practitioner, as the case may be, to the arrested person or the person nominated by such arrested person.",
+      "key_terms": [
+        "medical officer",
+        "registered medical practitioner"
+      ],
+      "breakdown": {
+        "plain_summary": "Unlike Sections 51-52 (which are evidence-gathering examinations requested by police for a specific offence), this is a baseline, mandatory arrival check for every arrested person, meant to document their physical condition at the point of custody — a key safeguard against later custodial abuse. Government medical officers are examiners of first choice, with private registered practitioners as fallback, and female arrestees must be examined by/under a female practitioner. A copy of the report goes to the arrested person or their nominee — giving them documentary proof of their condition on entering custody.",
+        "essential_elements": [
+          "Applies to every arrested person, without any offence-specific trigger — this is a general, mandatory custodial-entry examination.",
+          "Primary examiner: a government (Central or State) medical officer; registered medical practitioner as fallback if unavailable.",
+          "A further examination may be conducted if the examining practitioner considers it necessary.",
+          "Female arrestees: examination only by, or under supervision of, a female medical officer/practitioner.",
+          "The record must note injuries or marks of violence and their approximate time of infliction.",
+          "A copy of the report must be given to the arrested person or their nominee."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This report, taken at the point of arrest, is the single most important documentary defence against later custodial-violence allegations against police — always obtain and preserve the copy given under sub-section (3); its absence or a mismatch with a later medical report is strong evidence of custodial mistreatment."
+      }
+    },
+    {
+      "number": "54",
+      "title": "Identification of person arrested",
+      "raw_text": "Where a person is arrested on a charge of committing an offence and his identification by any other person or persons is considered necessary for the purpose of investigation of such offence, the Court, having jurisdiction may, on the request of the officer in charge of a police station, direct the person so arrested to subject himself to identification by any person or persons in such manner as the Court may deem fit:\nProvided that if the person identifying the person arrested is mentally or physically disabled, such process of identification shall take place under the supervision of a Magistrate who shall take appropriate steps to ensure that such person identifies the person arrested using methods that person is comfortable with and the identification process shall be recorded by any audio-video electronic means.",
+      "key_terms": [
+        "identification",
+        "audio-video electronic means"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the statutory basis for what is commonly called a Test Identification Parade (TIP) — the Court, on the police's request, may direct the arrested person to be identified by witnesses. Where the identifying witness has a mental or physical disability, the process gets extra judicial protection: it must be Magistrate-supervised, adapted to methods the witness is comfortable with, and video-recorded.",
+        "essential_elements": [
+          "Trigger: identification by another person/persons is 'considered necessary' for the investigation.",
+          "Only the Court (having jurisdiction), acting on the police's request, can direct the identification.",
+          "The manner of identification is left to the Court's discretion, subject to the proviso.",
+          "Where the identifying witness is mentally or physically disabled: Magistrate supervision, comfortable methods, and mandatory audio-video recording."
+        ],
+        "exceptions_and_qualifications": [
+          "The disabled-witness safeguards in the proviso are additional procedural protections, not a bar on holding the identification at all."
+        ],
+        "how_to_read": "A properly conducted TIP under this section (with fair line-up composition and, where relevant, video recording) substantially strengthens an identification-based prosecution case; a TIP conducted in violation of the proviso's safeguards for a disabled witness is a ready ground of challenge to that evidence's reliability."
+      }
+    },
+    {
+      "number": "55",
+      "title": "Procedure when police officer deputes subordinate to arrest without warrant",
+      "raw_text": "(1) When any officer in charge of a police station or any police officer making an investigation under Chapter XIII requires any officer subordinate to him to arrest without a warrant (otherwise than in his presence) any person who may lawfully be arrested without a warrant, he shall deliver to the officer required to make the arrest an order in writing, specifying the person to be arrested and the offence or other cause for which the arrest is to be made and the officer so required shall, before making the arrest, notify to the person to be arrested the substance of the order and, if so required by such person, shall show him the order.\n(2) Nothing in sub-section (1) shall affect the power of a police officer to arrest a person under section 35.",
+      "key_terms": [
+        "order in writing",
+        "subordinate officer"
+      ],
+      "breakdown": {
+        "plain_summary": "If a senior police officer wants a subordinate to make a warrantless arrest without the senior being physically present, the delegation must be documented: a written order naming the person to be arrested and the offence/cause, which the subordinate must disclose (and show, if asked) to the person before arresting them. This does not cut down the ordinary Section 35 power to arrest without warrant on the spot.",
+        "essential_elements": [
+          "Applies only when the deputing officer will NOT be present at the arrest.",
+          "A written order specifying the person and the offence/cause is mandatory.",
+          "The subordinate officer must notify the substance of the order to the person before arrest, and show the written order itself if the person asks.",
+          "Sub-section (2) preserves the independent Section 35 arrest power untouched."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Where an arrest is challenged as an improper delegation, demand production of the written order under sub-section (1) — its absence, when the deputing officer was admittedly not present, is a clean procedural defect."
+      }
+    },
+    {
+      "number": "56",
+      "title": "Health and safety of arrested person",
+      "raw_text": "It shall be the duty of the person having the custody of an accused to take reasonable care of the health and safety of the accused.",
+      "key_terms": [
+        "custody",
+        "reasonable care"
+      ],
+      "breakdown": {
+        "plain_summary": "A general, continuing duty on whoever holds an arrested/accused person in custody — not just at the moment of arrest, but throughout custody — to take reasonable care of their health and safety.",
+        "essential_elements": [
+          "Duty-holder: 'the person having the custody' — covers police custody as well as any other custodial arrangement under the Sanhita.",
+          "Standard is 'reasonable care,' a continuing obligation, not a one-time check."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read together with Section 53's arrival medical check — Section 53 documents the baseline condition, Section 56 is the ongoing duty that makes any deterioration in that condition during custody legally significant."
+      }
+    },
+    {
+      "number": "57",
+      "title": "Person arrested to be taken before Magistrate or officer in charge of police station",
+      "raw_text": "A police officer making an arrest without warrant shall, without unnecessary delay and subject to the provisions herein contained as to bail, take or send the person arrested before a Magistrate having jurisdiction in the case, or before the officer in charge of a police station.",
+      "key_terms": [
+        "without unnecessary delay"
+      ],
+      "breakdown": {
+        "plain_summary": "After a warrantless arrest, the police must produce the person before a Magistrate with jurisdiction, or before the station house officer, without unnecessary delay — this is the procedural gateway into the 24-hour production requirement of Section 58 and Article 22 of the Constitution.",
+        "essential_elements": [
+          "Applies to warrantless arrests.",
+          "Standard: 'without unnecessary delay' — not a fixed number of hours by itself (that comes from Section 58), but delay must be justified by circumstance.",
+          "Production is either before a jurisdictional Magistrate or the officer in charge of a police station."
+        ],
+        "exceptions_and_qualifications": [
+          "Subject to bail provisions — if the person is released on bail before production becomes due, this obligation is correspondingly affected."
+        ],
+        "how_to_read": "Read Sections 57 and 58 together as a single production-and-time-limit safeguard — an unexplained gap between arrest and production, even within the 24-hour outer limit, can still be challenged as 'unnecessary delay' under this section."
+      }
+    },
+    {
+      "number": "58",
+      "title": "Person arrested not to be detained more than twenty-four hours",
+      "raw_text": "No police officer shall detain in custody a person arrested without warrant for a longer period than under all the circumstances of the case is reasonable, and such period shall not, in the absence of a special order of a Magistrate under section 187, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court, whether having jurisdiction or not.",
+      "key_terms": [
+        "twenty-four hours",
+        "special order"
+      ],
+      "breakdown": {
+        "plain_summary": "The constitutional 24-hour rule in statutory form: police custody without a Magistrate's order cannot exceed 24 hours, and travel time to the Magistrate's Court doesn't count against that limit. Only a special order of a Magistrate under Section 187 (police custody/remand) can extend detention beyond 24 hours.",
+        "essential_elements": [
+          "Outer limit: 24 hours of police custody without judicial authorisation.",
+          "Travel time from the place of arrest to the Magistrate's Court is excluded from the 24-hour count.",
+          "Extension beyond 24 hours requires a special order of a Magistrate under Section 187.",
+          "The 'reasonable under the circumstances' standard applies even within the 24-hour ceiling — the ceiling is a maximum, not an entitlement to use the full time."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the single most litigated custodial-timeline provision — always calculate the exact arrest time versus production time, and cross-check whether any journey-time exclusion is genuinely justified rather than a pretext for extended interrogation."
+      }
+    },
+    {
+      "number": "59",
+      "title": "Police to report apprehensions",
+      "raw_text": "Officers in charge of police stations shall report to the District Magistrate, or, if he so directs, to the Sub-divisional Magistrate, the cases of all persons arrested without warrant, within the limits of their respective stations, whether such persons have been admitted to bail or otherwise.",
+      "key_terms": [
+        "District Magistrate",
+        "Sub-divisional Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "A supervisory/oversight reporting duty: station house officers must report every warrantless-arrest case within their jurisdiction to the District Magistrate (or the Sub-divisional Magistrate, if the DM so directs) — regardless of whether the arrested person was granted bail.",
+        "essential_elements": [
+          "Applies to all warrantless arrests within the station's territorial limits.",
+          "Reporting is to the District Magistrate by default, or the Sub-divisional Magistrate if the DM directs reporting there instead.",
+          "Bail status of the arrested person is irrelevant to the reporting duty — both bailed and non-bailed cases must be reported."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A useful oversight mechanism to invoke in cases of suspected mass or arbitrary arrests — the DM/SDM reporting trail can be sought via RTI or court direction to establish patterns of police conduct in a locality."
+      }
+    },
+    {
+      "number": "60",
+      "title": "Discharge of person apprehended",
+      "raw_text": "No person who has been arrested by a police officer shall be discharged except on his bond, or bail bond, or under the special order of a Magistrate.",
+      "key_terms": [
+        "bond",
+        "bail bond",
+        "discharge"
+      ],
+      "breakdown": {
+        "plain_summary": "An arrested person cannot simply be let go informally — release must happen through one of three defined channels: execution of a bond, execution of a bail bond, or a Magistrate's special order.",
+        "essential_elements": [
+          "Applies to release/discharge of any person arrested by a police officer.",
+          "Only three valid discharge routes: bond, bail bond, or special Magistrate's order."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If a person is released without any of these three formalities being completed (or re-arrested despite one being in place), that irregularity itself can be raised as a procedural defect."
+      }
+    },
+    {
+      "number": "61",
+      "title": "Power, on escape, to pursue and retake",
+      "raw_text": "(1) If a person in lawful custody escapes or is rescued, the person from whose custody he escaped or was rescued may immediately pursue and arrest him in any place in India.\n(2) The provisions of section 44 shall apply to arrests under sub-section (1) although the person making any such arrest is not acting under a warrant and is not a police officer having authority to arrest.",
+      "key_terms": [
+        "lawful custody",
+        "pursuit"
+      ],
+      "breakdown": {
+        "plain_summary": "If a lawfully-held person escapes (or is rescued by others), whoever had custody of them may chase and re-arrest them anywhere in India, without needing a fresh warrant. Section 44's rules on entering premises to make an arrest apply equally here, even though the pursuer may not otherwise be a police officer with arrest authority.",
+        "essential_elements": [
+          "Trigger: escape from, or rescue out of, lawful custody.",
+          "The pursuer is the person from whose custody the escape/rescue occurred.",
+          "Pursuit and re-arrest are permitted anywhere in India — no territorial limit.",
+          "Section 44's search-of-premises procedure applies to this pursuit-arrest even for a non-police pursuer."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section, read with Section 45 (hot pursuit across jurisdictions for ordinary arrests), completes the Sanhita's cross-jurisdictional pursuit scheme — useful when custody-escape cases raise territorial-jurisdiction objections to the re-arrest."
+      }
+    },
+    {
+      "number": "62",
+      "title": "Arrest to be made strictly according to Sanhita",
+      "raw_text": "No arrest shall be made except in accordance with the provisions of this Sanhita or any other law for the time being in force providing for arrest.",
+      "key_terms": [
+        "strictly according to Sanhita"
+      ],
+      "breakdown": {
+        "plain_summary": "The closing provision of the Arrest of Persons chapter: a blanket rule that every arrest must conform either to the Sanhita's own procedure or to whatever other specific law authorises the arrest in question (e.g., special/local statutes). It is the statutory anchor for arguing that any deviation from the prescribed arrest procedure renders the arrest itself unlawful.",
+        "essential_elements": [
+          "Applies to all arrests, under the Sanhita or under any other law currently in force that provides for arrest.",
+          "Compliance must be 'strictly according to' the applicable provisions — not merely substantial or good-faith compliance."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the natural closing citation for any arrest-procedure challenge — after establishing which specific safeguard (Sections 35-61) was breached, cite Section 62 to argue the breach renders the whole arrest non-compliant with the Sanhita, not just a technical slip."
       }
     }
   ]
