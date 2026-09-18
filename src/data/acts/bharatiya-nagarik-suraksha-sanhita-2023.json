@@ -28,7 +28,7 @@
     "place": "Includes a house, building, tent, vehicle and vessel.",
     "police report": "A report forwarded by a police officer to a Magistrate under sub-section (3) of section 193.",
     "police station": "Any post or place declared by the State Government to be a police station, including any local area so specified.",
-    "public prosecutor": "A law officer appointed by the Central or State Government to conduct prosecutions, appeals, or other proceedings on the government's behalf in the High Court or a district.",
+    "public prosecutor": "The government-appointed law officer conducting prosecutions on behalf of the State; for the specially protected category of defamation complaints under section 222(2), only the Public Prosecutor (not a private complainant) may set the case in motion before a Court of Session, and only with prior government sanction.",
     "sub-division": "A territorial sub-unit of a district, created by the State Government after consultation with the High Court.",
     "summons-case": "A case relating to an offence not punishable with death, imprisonment for life, or imprisonment exceeding two years, triable by the simpler summons procedure rather than the warrant procedure.",
     "victim": "A person who has suffered loss or injury from an offence, including the guardian or legal heir of such a person.",
@@ -165,7 +165,10 @@
     "criminal conspiracy": "An agreement between two or more persons to commit an illegal act, or a legal act by illegal means, itself treated as a distinct offence under the Bharatiya Nyaya Sanhita even if the planned act is never carried out.",
     "contempt of lawful authority": "A category of offences (BNS Chapter X-type provisions) punishing disobedience to, or obstruction of, the lawful orders and processes of public servants and courts.",
     "proclamation under article 356": "The Constitutional mechanism (President's Rule) by which the President of India assumes the functions of a State Government when satisfied that the State's governance cannot be carried on in accordance with the Constitution.",
-    "preliminary investigation": "A limited, sanction-preceding police inquiry ordered by government before deciding whether to accord sanction or consent to prosecute, distinct from a full investigation under Chapter XIII."
+    "preliminary investigation": "A limited, sanction-preceding police inquiry ordered by government before deciding whether to accord sanction or consent to prosecute, distinct from a full investigation under Chapter XIII.",
+    "aggrieved person": "The person directly harmed by an offence, whose complaint (or, in specified circumstances, a permitted relative's or representative's complaint) is legally required before certain offences can be prosecuted.",
+    "prima facie": "On the face of it; a standard requiring enough apparent evidence to make out a case at first glance, without yet weighing it against a defence — used here as the threshold a Magistrate/Court must find before taking cognizance in specified sensitive offences.",
+    "commanding officer": "The officer in charge of a member of the Armed Forces of the Union, whose certification and countersignature are required for that member's spouse to authorise someone else to file a complaint on their behalf when the member cannot obtain leave."
   },
   "sections": [
     {
@@ -5137,6 +5140,103 @@
           "The third proviso's exemption list is a deliberate victim-protective override — sanction delays cannot be used to stall prosecution of these serious offences."
         ],
         "how_to_read": "Read sub-section (1) as the general framework (who sanctions, when Centre substitutes for State, the 120-day deadline, and the no-sanction-needed exemption list), and sub-sections (2)-(4) as the parallel, largely mirrored scheme for armed and public-order forces — sub-section (5) then applies across both schemes to control how any sanctioned prosecution is actually run."
+      }
+    },
+    {
+      "number": "219",
+      "title": "Prosecution for offences against marriage",
+      "raw_text": "219. Prosecution for offences against marriage.—(1) No Court shall take cognizance of an offence\n    punishable under sections 81 to 84 (both inclusive) of the Bharatiya Nyaya Sanhita, 2023 except upon a\n    complaint made by some person aggrieved by the offence:\n    Provided that—\n        (a) where such person is a child, or is of unsound mind or is having intellectual disability requiring\n    higher support needs, or is from sickness or infirmity unable to make a complaint, or is a woman who,\n    according to the local customs and manners, ought not to be compelled to appear in public, some other\n    person may, with the leave of the Court, make a complaint on his or her behalf;\n        (b) where such person is the husband and he is serving in any of the Armed Forces of the Union\n    under conditions which are certified by his Commanding Officer as precluding him from obtaining\n    leave of absence to enable him to make a complaint in person, some other person authorised by the\n    husband in accordance with the provisions of sub-section (4) may make a complaint on his behalf;\n        (c) where the person aggrieved by an offence punishable under section 82 of the Bharatiya Nyaya\n    Sanhita, 2023 is the wife, complaint may be made on her behalf by her father, mother, brother, sister,\n    son or daughter or by her father's or mother's brother or sister, or, with the leave of the Court, by any\n    other person related to her by blood, marriage or adoption.\n    (2) For the purposes of sub-section (1), no person other than the husband of the woman shall be deemed\n    to be aggrieved by any offence punishable under section 84 of the Bharatiya Nyaya Sanhita, 2023.\n    (3) When in any case falling under clause (a) of the proviso to sub-section (1), the complaint is sought\n    to be made on behalf of a child or of a person of unsound mind by a person who has not been appointed or\n    declared by a competent authority to be the guardian of the child, or of the person of unsound mind, and\n    the Court is satisfied that there is a guardian so appointed or declared, the Court shall, before granting the\n    application for leave, cause notice to be given to such guardian and give him a reasonable opportunity of\n    being heard.\n    (4) The authorisation referred to in clause (b) of the proviso to sub-section (1), shall be in writing, shall\n    be signed or otherwise attested by the husband, shall contain a statement to the effect that he has been\n    informed of the allegations upon which the complaint is to be founded, shall be countersigned by his\n    Commanding Officer, and shall be accompanied by a certificate signed by that Officer to the effect that\n    leave of absence for the purpose of making a complaint in person cannot for the time being be granted to\n    the husband.\n    (5) Any document purporting to be such an authorisation and complying with the provisions of\n    sub-section (4), and any document purporting to be a certificate required by that sub-section shall, unless\n    the contrary is proved, be presumed to be genuine and shall be received in evidence.\n    (6) No Court shall take cognizance of an offence under section 64 of the Bharatiya Nyaya Sanhita,\n    2023, where such offence consists of sexual intercourse by a man with his own wife, the wife being under\n    eighteen years of age, if more than one year has elapsed from the date of the commission of the offence.",
+      "key_terms": [
+        "aggrieved person",
+        "commanding officer",
+        "cognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "This section governs who may set prosecution in motion for offences against marriage (BNS sections 81-84, covering things like bigamy-type offences and dishonestly inducing a woman to believe she is lawfully married). The default rule is strict complainant-standing: only the person actually aggrieved by the offence may complain — no third party or police-initiated case will do. But the proviso builds in sensible flexibility: if the aggrieved person is a child, of unsound mind, has an intellectual disability, is physically unable to complain, or is a woman whom local custom shields from appearing in public, someone else may complain on their behalf with the Court's leave. A special rule handles a serving military husband who cannot get leave to appear — his Commanding Officer's certification lets someone else, formally authorised in writing, complain for him. For the specific offence under section 82, the wife's own family members (a defined list) can complain on her behalf. Sub-section (2) restricts standing for section 84 offences to the husband alone. Sub-section (3) adds a natural-justice safeguard: if someone without formal guardianship status tries to complain for a child or person of unsound mind, and a proper guardian actually exists, that guardian must be notified and heard before leave is granted. Sub-sections (4)-(5) set out the paperwork requirements for a serving husband's authorised representative, with a presumption of genuineness to ease proof. Sub-section (6) imposes a firm one-year limitation period on prosecuting a man for consummating a marriage with his wife when she is under eighteen — after one year, cognizance is barred entirely regardless of complainant.",
+        "essential_elements": [
+          "General rule: only the aggrieved person may complain of a BNS sections 81-84 offence",
+          "Exception (a): another person may complain with Court's leave, for children, persons of unsound mind, persons with intellectual disability, the physically unable, or women shielded by local custom",
+          "Exception (b): for a husband serving in the Armed Forces unable to get leave, a formally authorised representative (with Commanding Officer certification) may complain",
+          "Exception (c): for section 82 offences, the wife's listed family members may complain on her behalf",
+          "Sub-section (2): only the husband is deemed 'aggrieved' for section 84 offences",
+          "Sub-section (3): existing guardians must be notified and heard before leave is granted to a non-guardian complainant",
+          "Sub-section (6): one-year limitation bar on cognizance of section 64 offences involving a wife under eighteen"
+        ],
+        "exceptions_and_qualifications": [
+          "The one-year bar in sub-section (6) is an absolute cognizance bar, not merely a defence — the Court cannot take cognizance at all once the period lapses.",
+          "Authorisation documents meeting sub-section (4)'s formal requirements enjoy a rebuttable presumption of genuineness under sub-section (5), easing the evidentiary burden at the cognizance stage."
+        ],
+        "how_to_read": "Treat sub-section (1) and its three-clause proviso as the core standing rules, sub-sections (2)-(5) as supporting mechanics for specific proviso clauses, and sub-section (6) as a wholly separate, freestanding limitation bar tacked onto the same section because it also concerns marital offences under BNS Chapter VI."
+      }
+    },
+    {
+      "number": "220",
+      "title": "Prosecution of offences under section 85 of Bharatiya Nyaya Sanhita, 2023",
+      "raw_text": "220. Prosecution of offences under section 85 of Bharatiya Nyaya Sanhita, 2023.— No Court shall\n    take cognizance of an offence punishable under section 85 of the Bharatiya Nyaya Sanhita, 2023 except\n    upon a police report of facts which constitute such offence or upon a complaint made by the person\n    aggrieved by the offence or by her father, mother, brother, sister or by her father's or mother's brother or\n    sister or, with the leave of the Court, by any other person related to her by blood, marriage or adoption.",
+      "key_terms": [
+        "aggrieved person",
+        "cognizance",
+        "police report"
+      ],
+      "breakdown": {
+        "plain_summary": "BNS section 85 punishes cruelty by a husband or his relatives towards a wife (the successor to the familiar matrimonial-cruelty offence). This section broadens standing beyond the strict aggrieved-person-only rule seen in section 219: cognizance can be taken either on a full police report (meaning the police can investigate and formally report the matter, functioning like any ordinary cognizable-offence pathway) or on a complaint by the aggrieved wife herself, or by a defined circle of her close relatives (parents, siblings, or her parents' siblings), or, with the Court's leave, by any other person related to her by blood, marriage, or adoption. This wider circle reflects the practical reality that victims of domestic cruelty are often unable or unwilling to personally initiate a complaint, so trusted family members are given standing to act for her.",
+        "essential_elements": [
+          "Two independent pathways to cognizance: a police report, OR a complaint",
+          "Complaint may be made by the aggrieved wife, her father, mother, brother, sister, or her parents' siblings",
+          "With the Court's leave, any other blood/marriage/adoption relative may also complain"
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike section 219's default (aggrieved-person-only, with narrow exceptions), section 220 opens a police-report route and a much wider family-complainant circle from the outset."
+        ],
+        "how_to_read": "Note the structural contrast with section 219 immediately preceding it — section 220 is deliberately more permissive about who can trigger prosecution, in recognition of the practical barriers facing victims of domestic cruelty."
+      }
+    },
+    {
+      "number": "221",
+      "title": "Cognizance of offence",
+      "raw_text": "221. Cognizance of offence.— No Court shall take cognizance of an offence punishable under\n    section 67 of the Bharatiya Nyaya Sanhita, 2023 where the persons are in a marital relationship, except\n    upon prima facie satisfaction of the facts which constitute the offence upon a complaint having been filed\n    or made by the wife against the husband.",
+      "key_terms": [
+        "prima facie",
+        "cognizance",
+        "aggrieved person"
+      ],
+      "breakdown": {
+        "plain_summary": "BNS section 67 addresses sexual intercourse by a husband with his wife during separation (that is, without her consent while they are living apart, short of marriage having ended) — a narrowly defined offence within the marital context. This section sets a two-part gate before a Court can take cognizance in such a case: the complaint must be filed or made specifically by the wife against the husband (no one else can trigger this prosecution), and the Court must reach prima facie satisfaction that the facts constituting the offence are actually made out before proceeding — a slightly heightened threshold compared with the routine cognizance standard, reflecting the sensitivity of prosecuting conduct within an ongoing marital relationship.",
+        "essential_elements": [
+          "Applies specifically to BNS section 67 offences where the parties are in a marital relationship",
+          "Complaint must be filed or made by the wife against the husband — no other complainant is competent",
+          "The Court must find prima facie satisfaction of the constituent facts before taking cognizance"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a narrower, more tightly gated cognizance rule than either section 219 or 220 — both complainant identity and an evidentiary threshold are fixed by statute."
+        ],
+        "how_to_read": "Read this as a deliberately cautious cognizance filter: standing is restricted strictly to the wife, and the Court must do more than passively receive the complaint — it must satisfy itself prima facie that the offence is made out before the case can proceed."
+      }
+    },
+    {
+      "number": "222",
+      "title": "Prosecution for defamation",
+      "raw_text": "222. Prosecution for defamation.—(1) No Court shall take cognizance of an offence punishable under\n    section 356 of the Bharatiya Nyaya Sanhita, 2023 except upon a complaint made by some person aggrieved\n    by the offence:\n    Provided that where such person is a child, or is of unsound mind or is having intellectual disability or\n    is from sickness or infirmity unable to make a complaint, or is a woman who, according to the local customs\n    and manners, ought not to be compelled to appear in public, some other person may, with the leave of the\n    Court, make a complaint on his or her behalf.\n    (2) Notwithstanding anything contained in this Sanhita, when any offence falling under section 356 of\n    the Bharatiya Nyaya Sanhita, 2023 is alleged to have been committed against a person who, at the time of\n    such commission, is the President of India, the Vice-President of India, the Governor of a State, the\n    Administrator of a Union territory or a Minister of the Union or of a State or of a Union territory, or any\n    other public servant employed in connection with the affairs of the Union or of a State in respect of his\n    conduct in the discharge of his public functions, a Court of Session may take cognizance of such offence,\n    without the case being committed to it, upon a complaint in writing made by the Public Prosecutor.\n    (3) Every complaint referred to in sub-section (2) shall set forth the facts which constitute the offence\n    alleged, the nature of such offence and such other particulars as are reasonably sufficient to give notice to\n    the accused of the offence alleged to have been committed by him.\n    (4) No complaint under sub-section (2) shall be made by the Public Prosecutor except with the previous\n    sanction—\n        (a) of the State Government,—\n            (i) in the case of a person who is or has been the Governor of that State or a Minister of that\n        Government;\n            (ii) in the case of any other public servant employed in connection with the affairs of the State;\n        (b) of the Central Government, in any other case.\n    (5) No Court of Session shall take cognizance of an offence under sub-section (2) unless the complaint\n    is made within six months from the date on which the offence is alleged to have been committed.\n    (6) Nothing in this section shall affect the right of the person against whom the offence is alleged to\n    have been committed, to make a complaint in respect of that offence before a Magistrate having jurisdiction\n    or the power of such Magistrate to take cognizance of the offence upon such complaint.",
+      "key_terms": [
+        "aggrieved person",
+        "public prosecutor",
+        "sanction"
+      ],
+      "breakdown": {
+        "plain_summary": "This section, which closes Chapter XV, governs prosecutions for defamation (BNS section 356) through two distinct tracks. The ordinary track (sub-section (1)) mirrors the pattern seen throughout this Chapter: only the aggrieved person may complain, with the same familiar proviso allowing someone else to complain on their behalf (with Court leave) if they are a child, of unsound mind, disabled, unwell, or a woman shielded by local custom. The special track (sub-sections (2)-(5)) is reserved for defamation of very high constitutional and public office-holders — the President, Vice-President, Governors, Administrators, Union/State/Union-territory Ministers, and other public servants (regarding their official conduct). For this category, a Court of Session can take cognizance directly — skipping the normal committal-by-Magistrate requirement of section 213 — but only on a written complaint by the Public Prosecutor, not the office-holder personally, and only with prior government sanction (State Government for a Governor/State Minister or State public servant, Central Government for anyone else). This complaint must plead the facts, the offence, and enough particulars for the accused to understand the case, and is subject to a strict six-month limitation period from the date of the alleged offence. Sub-section (6) preserves the underlying individual's own right, alongside this special track, to instead go the ordinary route and complain directly to a Magistrate — the special Public Prosecutor track is an additional option, not an exclusive or mandatory substitute.",
+        "essential_elements": [
+          "Sub-section (1): ordinary defamation prosecution — aggrieved person complains, with the standard vulnerable-complainant proviso",
+          "Sub-section (2): special track for defamation of the President, Vice-President, Governors, Administrators, and Ministers/public servants regarding official conduct — Court of Session may take direct cognizance (no committal needed) on the Public Prosecutor's written complaint",
+          "Sub-section (3): the Public Prosecutor's complaint must set out the facts, offence, and particulars sufficient to give the accused notice",
+          "Sub-section (4): the Public Prosecutor needs prior government sanction — State Government for Governors/State Ministers/State public servants, Central Government otherwise",
+          "Sub-section (5): six-month limitation period for the special-track complaint",
+          "Sub-section (6): the aggrieved office-holder retains the independent right to complain to an ordinary Magistrate instead"
+        ],
+        "exceptions_and_qualifications": [
+          "The special track under sub-section (2) is an alternative, not exclusive, remedy — sub-section (6) expressly preserves the ordinary Magistrate-complaint route for the same person.",
+          "The Court of Session's direct cognizance power here is a notable departure from section 213's general committal requirement, justified by the public-office context."
+        ],
+        "how_to_read": "Read sub-section (1) as the default rule (consistent with the rest of this Chapter), and sub-sections (2)-(5) as a self-contained special procedure for high-office defamation, with sub-section (6) confirming the special procedure supplements rather than displaces the ordinary one. This section completes Chapter XV; Chapter XVI (Complaints to Magistrates) follows."
       }
     }
   ]
