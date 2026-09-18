@@ -129,7 +129,12 @@
     "sufficient means": "The financial capacity of a person to provide maintenance to a dependant, a threshold that must be proved before a maintenance order can be made under section 144.",
     "just ground": "A legally sufficient reason recognised by the Magistrate for a wife's refusal to resume living with her husband, such as his having contracted another marriage or keeping a mistress.",
     "interim maintenance": "A monthly allowance and proceeding expenses ordered by the Magistrate to a dependant while a maintenance application under section 144 is still pending, meant to provide urgent relief before the case is finally decided.",
-    "wilfully avoiding service": "Deliberately evading being served with legal process, a ground on which a Magistrate may proceed to hear and decide a maintenance case ex parte."
+    "wilfully avoiding service": "Deliberately evading being served with legal process, a ground on which a Magistrate may proceed to hear and decide a maintenance case ex parte.",
+    "unlawful assembly": "An assembly of five or more persons with a common object that falls within the categories made unlawful under the Bharatiya Nyaya Sanhita, 2023 (e.g., to overawe by criminal force, commit mischief, or use criminal force to achieve an unlawful common object). Section 148 also extends dispersal powers to any assembly of five or more persons merely likely to disturb the public peace, even before it becomes technically 'unlawful.'",
+    "public nuisance": "An act, omission, or state of affairs that causes injury, danger, or annoyance to the public or to people generally who dwell or occupy property in the vicinity, or that obstructs the public's lawful use of a way, river, channel, or public place. Chapter XI Part B (sections 152-162) gives Magistrates summary powers to order removal or regulation of public nuisances.",
+    "sanction": "Prior governmental approval that must be obtained before a prosecution can be instituted against certain categories of persons (such as public servants or armed-forces personnel) for acts done in their official capacity. Under section 151, prosecution for acts under sections 148-150 needs Central Government sanction for armed-forces personnel, or State Government sanction in any other case.",
+    "conditional order": "An order made under section 152 that is not yet final — it directs the person concerned either to perform a specified act (such as removing an obstruction) within a fixed time, or to appear and show cause why the order should not be made absolute.",
+    "absolute order": "The final, binding form that a conditional order under section 152 takes once the person against whom it is made either defaults entirely (triggering section 155) or appears, shows cause, and fails to satisfy the Magistrate that the order is unreasonable (section 157)."
   },
   "sections": [
     {
@@ -3316,6 +3321,304 @@
           "The cancellation-date rule for receipt of the full settlement sum (sub-section (3)(b)) varies depending on timing: from the order date if the sum was paid before the order, or from the expiry of the period maintenance was actually paid if paid after."
         ],
         "how_to_read": "Treat sub-sections (1)-(2) as the general variation/deference rules and sub-section (3) as a specific divorced-wife checklist — three distinct triggers, each cancelling the order from a different calculated date. Sub-section (4) is the anti-double-recovery coordination clause worth flagging whenever a civil maintenance/dowry decree follows an existing Section 144 order."
+      }
+    },
+    {
+      "number": "147",
+      "title": "Enforcement of order of maintenance",
+      "raw_text": "147. Enforcement of order of maintenance.—A copy of the order of maintenance or interim\nmaintenance and expenses of proceedings, as the case may be, shall be given without payment to the person\nin whose favour it is made, or to his guardian, if any, or to the person to whom the allowance for the\nmaintenance or the allowance for the interim maintenance and expenses of proceeding, as the case may be,\nis to be paid; and such order may be enforced by any Magistrate in any place where the person against\nwhom it is made may be, on such Magistrate being satisfied as to the identity of the parties and the\nnon-payment of the allowance, or as the case may be, expenses, due.",
+      "key_terms": [
+        "free copy of order",
+        "enforcement by any Magistrate",
+        "identity of parties",
+        "non-payment"
+      ],
+      "breakdown": {
+        "plain_summary": "This section closes out Chapter X by making a maintenance order actually enforceable wherever the defaulting person happens to be, not just in the court that passed it. The person who is entitled to receive the money (or their guardian, or whoever collects it on their behalf) gets a free copy of the order — no court fee. If the husband, father, or son who was ordered to pay moves to another district, the claimant doesn't have to chase him back to the original court: any Magistrate in the place where he currently is can enforce the order, as long as that Magistrate is satisfied about two things — that the parties are who they say they are, and that the allowance really is unpaid.",
+        "essential_elements": [
+          "A certified copy of the maintenance order (or interim maintenance and expenses order) is supplied free of cost",
+          "The copy goes to the person entitled to the money, their guardian, or the person authorised to collect the payment on their behalf",
+          "The order can be enforced by any Magistrate — not only the Magistrate who originally passed it — in whatever place the defaulter is found",
+          "Enforcement requires the enforcing Magistrate to be satisfied on two points: identity of the parties, and non-payment of the allowance/expenses due"
+        ],
+        "exceptions_and_qualifications": [
+          "The section only authorises enforcement (recovery of what's due) — it does not let a new Magistrate re-open or vary the amount of maintenance fixed by the original order",
+          "The 'free of payment' rule applies only to the copy of the order itself, not to other litigation costs"
+        ],
+        "how_to_read": "Pair this with Section 144(3), which is the actual enforcement mechanism — a warrant to levy the amount as a fine, backstopped by up to one month's imprisonment per default. Section 147 is the portability rule that lets that machinery be triggered by whichever Magistrate the defaulter is presently within reach of, which matters enormously in practice since maintenance defaulters often relocate precisely to frustrate recovery."
+      }
+    },
+    {
+      "number": "148",
+      "title": "Dispersal of assembly by use of civil force",
+      "raw_text": "148. Dispersal of assembly by use of civil force.—(1) Any Executive Magistrate or officer in charge\nof a police station or, in the absence of such officer in charge, any police officer, not below the rank of a\nsub-inspector, may command any unlawful assembly, or any assembly of five or more persons likely to\ncause a disturbance of the public peace, to disperse; and it shall thereupon be the duty of the members of\nsuch assembly to disperse accordingly.\n    (2) If, upon being so commanded, any such assembly does not disperse, or if, without being so\ncommanded, it conducts itself in such a manner as to show a determination not to disperse, any Executive\nMagistrate or police officer referred to in sub-section (1), may proceed to disperse such assembly by force,\nand may require the assistance of any person, not being an officer or member of the armed forces and acting\nas such, for the purpose of dispersing such assembly, and, if necessary, arresting and confining the persons\nwho form part of it, in order to disperse such assembly or that they may be punished according to law.",
+      "key_terms": [
+        "unlawful assembly",
+        "Executive Magistrate",
+        "officer in charge of a police station",
+        "five or more persons",
+        "disperse"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XI's scheme for handling assemblies that threaten public order, and it's meant to be a graduated response — force is the last resort, not the first. An Executive Magistrate, or the senior police officer at a station (or, if that officer isn't around, any sub-inspector-or-above), can order an unlawful assembly — or even a lawful gathering of five or more people that looks likely to cause a disturbance — to disperse. Once that command is given, every member of the crowd is legally obliged to leave. Only if the crowd ignores the order, or is visibly refusing to break up even without being told to, does sub-section (2) kick in: the Magistrate or officer may then use civil force to physically disperse the assembly, and can rope in ordinary members of the public to help — though not soldiers acting in their military capacity — including, where necessary, arresting people from the crowd.",
+        "essential_elements": [
+          "The power to command dispersal belongs to an Executive Magistrate, the officer in charge of a police station, or (in that officer's absence) any police officer of sub-inspector rank or above",
+          "It applies to any 'unlawful assembly' as well as to any assembly of five or more persons that is likely to disturb the public peace, even if not technically unlawful yet",
+          "Once commanded, dispersal becomes a legal duty of every member of the assembly",
+          "Force may be used only if the assembly fails to disperse after being commanded, or shows a clear determination not to disperse even without a command",
+          "Civilian assistance can be requisitioned for dispersal and, if needed, arrest — but this assistance may not be drawn from armed-forces personnel acting in that capacity"
+        ],
+        "exceptions_and_qualifications": [
+          "Force is a second-stage power — it cannot be used as the first response unless the assembly has already shown a determination not to disperse",
+          "The civilian-assistance power expressly excludes officers or members of the armed forces acting as such; the armed forces route is separately governed by sections 149 and 150"
+        ],
+        "how_to_read": "Section 148 is the civil-force tier of a three-tier escalation ladder that runs through sections 149 and 150 (armed-forces assistance) and is capped by section 151 (good-faith protection from prosecution). When examining any dispersal action, first check whether a clear command to disperse was given and disobeyed (or manifest defiance shown) before force was used — that sequencing is the crux of whether the action was lawful."
+      }
+    },
+    {
+      "number": "149",
+      "title": "Use of armed forces to disperse assembly",
+      "raw_text": "149. Use of armed forces to disperse assembly.—(1) If any assembly referred to in sub-section (1) of\nsection 148 cannot otherwise be dispersed, and it is necessary for the public security that it should be\ndispersed, the District Magistrate or any other Executive Magistrate authorised by him, who is present, may\ncause it to be dispersed by the armed forces.\n    (2) Such Magistrate may require any officer in command of any group of persons belonging to the\narmed forces to disperse the assembly with the help of the armed forces under his command, and to arrest\nand confine such persons forming part of it as the Executive Magistrate may direct, or as it may be necessary\nto arrest and confine in order to disperse the assembly or to have them punished according to law.\n    (3) Every such officer of the armed forces shall obey such requisition in such manner as he thinks fit,\nbut in so doing he shall use as little force, and do as little injury to person and property, as may be consistent\nwith dispersing the assembly and arresting and detaining such persons.",
+      "key_terms": [
+        "armed forces",
+        "District Magistrate",
+        "public security",
+        "requisition",
+        "least force"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the next rung up the ladder from Section 148: when civil force alone can't break up the assembly and public security genuinely demands it, the District Magistrate — or another Executive Magistrate he has authorised, and who is actually present at the scene — can call in the armed forces. The Magistrate directs an officer commanding a unit to disperse the crowd and, if needed, arrest people from it. The armed-forces officer decides the tactical 'how,' but is bound by a built-in restraint: use the minimum force and cause the least possible injury to people and property that is still consistent with actually getting the job done.",
+        "essential_elements": [
+          "Triggered only when the assembly cannot otherwise be dispersed and public security necessitates dispersal",
+          "The calling authority must be the District Magistrate, or another Executive Magistrate specifically authorised by him, and that Magistrate must be present",
+          "The Magistrate requisitions an armed-forces officer in command of a group to disperse the assembly and arrest/confine persons as directed or as necessary",
+          "The armed-forces officer has tactical discretion on method, but is legally bound to use as little force and cause as little injury to person and property as is consistent with achieving dispersal and arrest"
+        ],
+        "exceptions_and_qualifications": [
+          "This power is conditional on civil-force dispersal under section 148 having failed or being plainly inadequate — it is not a freestanding first option",
+          "Presence of the authorising Magistrate at the scene is a precondition, distinguishing this from section 150 which applies precisely when no Magistrate can be reached"
+        ],
+        "how_to_read": "Read sections 148-150 as one continuum of escalating force, each stage gated by the failure or unavailability of the previous one, and read all three against section 151's good-faith immunity — which is the practical mechanism that shields officers acting under this section from criminal prosecution provided they stayed within the 'least force necessary' constraint."
+      }
+    },
+    {
+      "number": "150",
+      "title": "Power of certain armed force officers to disperse assembly",
+      "raw_text": "150. Power of certain armed force officers to disperse assembly.—When the public security is\nmanifestly endangered by any such assembly and no Executive Magistrate can be communicated with, any\ncommissioned or gazetted officer of the armed forces may disperse such assembly with the help of the\narmed forces under his command, and may arrest and confine any persons forming part of it, in order to\ndisperse such assembly or that they may be punished according to law; but if, while he is acting under this\nsection, it becomes practicable for him to communicate with an Executive Magistrate, he shall do so, and\nshall thenceforward obey the instructions of the Magistrate, as to whether he shall or shall not continue such\naction.",
+      "key_terms": [
+        "commissioned officer",
+        "gazetted officer",
+        "manifestly endangered",
+        "no Executive Magistrate available"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the emergency, no-Magistrate-available fallback. If public security is obviously and seriously threatened by an assembly, and genuinely no Executive Magistrate can be reached in time, a commissioned or gazetted officer of the armed forces can act on his own authority — disperse the crowd and arrest people from it — without waiting for civilian sign-off. But this independent authority is temporary by design: the moment it becomes practically possible for him to get in touch with an Executive Magistrate, he must do so, and from that point on he has to follow the Magistrate's instructions on whether to keep going or stand down.",
+        "essential_elements": [
+          "Applies only when public security is manifestly (obviously, seriously) endangered by the assembly",
+          "Applies only when no Executive Magistrate can be communicated with at that time",
+          "The acting officer must be commissioned or gazetted (not any lower-ranking officer)",
+          "He may disperse the assembly and arrest/confine members of it using the armed forces under his command",
+          "As soon as communication with an Executive Magistrate becomes practicable, he must establish it and thereafter obey the Magistrate's instructions on continuing or discontinuing the action"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a stopgap power that yields automatically to civilian magisterial control the instant that control becomes reachable — it is not a standing parallel authority",
+          "Unlike section 149, no advance requisition from a Magistrate is needed here precisely because none is available; that is the whole justification for the provision"
+        ],
+        "how_to_read": "Section 150 exists for genuine command-and-control gaps — remote areas, communication breakdowns, or a sudden crisis. The key fact question in any dispute over this section is almost always whether a Magistrate truly could not be reached, and, if reached mid-operation, whether the officer promptly deferred to the Magistrate's instructions as required."
+      }
+    },
+    {
+      "number": "151",
+      "title": "Protection against prosecution for acts done under sections 148, 149 and 150",
+      "raw_text": "151. Protection against prosecution for acts done under sections 148, 149 and 150.—(1) No\nprosecution against any person for any act purporting to be done under section 148, section 149 or\nsection 150 shall be instituted in any Criminal Court except—\n       (a) with the sanction of the Central Government where such person is an officer or member of the\n    armed forces;\n        (b) with the sanction of the State Government in any other case.\n    (2) (a) No Executive Magistrate or police officer acting under any of the said sections in good faith;\n    (b) no person doing any act in good faith in compliance with a requisition under section 148 or\nsection 149;\n    (c) no officer of the armed forces acting under section 150 in good faith;\n   (d) no member of the armed forces doing any act in obedience to any order which he was bound to\nobey,\nshall be deemed to have thereby committed an offence.\n    (3) In this section and in the preceding sections of this Chapter,—\n        (a) the expression \"armed forces\" means the army, naval and air forces, operating as land forces\n    and includes any other armed forces of the Union so operating;\n        (b) \"officer\", in relation to the armed forces, means a person commissioned, gazetted or in pay as\n    an officer of the armed forces and includes a junior commissioned officer, a warrant officer, a petty\n    officer, a non-commissioned officer and a non-gazetted officer;\n        (c) \"member\", in relation to the armed forces, means a person in the armed forces other than an\n    officer.",
+      "key_terms": [
+        "sanction for prosecution",
+        "good faith",
+        "Central Government sanction",
+        "State Government sanction",
+        "armed forces (defined)"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the accountability valve for the dispersal powers in sections 148-150 — it doesn't grant blanket immunity, but it does erect two separate protections. First, a procedural bar: nobody can even be prosecuted for something done (or purporting to be done) under those sections unless the Central Government sanctions it (if the person is armed-forces personnel) or the State Government sanctions it (in every other case) — so a criminal case can't be launched against a Magistrate, police officer, or soldier without that government-level gatekeeping first. Second, a substantive shield: acts genuinely done in good faith under these sections — by a Magistrate or police officer, by a civilian who was requisitioned to help, by an armed-forces officer acting under section 150, or by any armed-forces member simply obeying a lawful order he was bound to obey — are deemed not to be offences at all. Sub-section (3) then locks down the definitions of 'armed forces,' 'officer,' and 'member' used throughout this Part, so there's no ambiguity about who these protections cover.",
+        "essential_elements": [
+          "Prosecution for acts under sections 148, 149, or 150 requires prior sanction: Central Government sanction if the accused is an armed-forces officer/member, State Government sanction in any other case",
+          "Good-faith acts by an Executive Magistrate or police officer under any of these sections are deemed not to be offences",
+          "Good-faith compliance by a civilian requisitioned under section 148 or 149 is likewise deemed not an offence",
+          "Good-faith acts by an armed-forces officer under section 150 are deemed not an offence",
+          "An armed-forces member simply obeying an order he was bound to obey is deemed not to have committed an offence",
+          "'Armed forces' is defined as army, naval and air forces operating as land forces, plus any other Union armed forces so operating; 'officer' and 'member' are correspondingly defined to cover the full rank spectrum"
+        ],
+        "exceptions_and_qualifications": [
+          "The good-faith protection in sub-section (2) is not automatic — good faith must actually be established; it is not a licence for excessive or malicious force",
+          "The sanction requirement in sub-section (1) is a bar to institution of prosecution, not a bar to investigation or a permanent immunity — sanction can still be granted after due consideration"
+        ],
+        "how_to_read": "Always read section 151 together with whichever of 148/149/150 is actually invoked — it is the safety net that makes the escalation ladder workable in practice, but its protection is conditional on good faith, and prosecution (even if barred without sanction) is not permanently foreclosed, only gated behind government sanction. This mirrors the classic Indian criminal-procedure device of requiring 'previous sanction' before prosecuting public servants and armed-forces personnel for official acts."
+      }
+    },
+    {
+      "number": "152",
+      "title": "Conditional order for removal of nuisance",
+      "raw_text": "152. Conditional order for removal of nuisance.—(1) Whenever a District Magistrate or a\nSub-divisional Magistrate or any other Executive Magistrate specially empowered in this behalf by the\nState Government, on receiving the report of a police officer or other information and on taking such\nevidence (if any) as he thinks fit, considers—\n       (a) that any unlawful obstruction or nuisance should be removed from any public place or from any\n    way, river or channel which is or may be lawfully used by the public; or\n        (b) that the conduct of any trade or occupation, or the keeping of any goods or merchandise, is\n    injurious to the health or physical comfort of the community, and that in consequence such trade or\n    occupation should be prohibited or regulated or such goods or merchandise should be removed or the\n    keeping thereof regulated; or\n        (c) that the construction of any building, or, the disposal of any substance, as is likely to occasion\n    conflagration or explosion, should be prevented or stopped; or\n         (d) that any building, tent or structure, or any tree is in such a condition that it is likely to fall and\n    thereby cause injury to persons living or carrying on business in the neighbourhood or passing by, and\n    that in consequence the removal, repair or support of such building, tent or structure, or the removal or\n    support of such tree, is necessary; or\n        (e) that any tank, well or excavation adjacent to any such way or public place should be fenced in\n    such manner as to prevent danger arising to the public; or\n        (f) that any dangerous animal should be destroyed, confined or otherwise disposed of,\nsuch Magistrate may make a conditional order requiring the person causing such obstruction or nuisance,\nor carrying on such trade or occupation, or keeping any such goods or merchandise, or owning, possessing\nor controlling such building, tent, structure, substance, tank, well or excavation, or owning or possessing\nsuch animal or tree, within a time to be fixed in the order—\n        (i) to remove such obstruction or nuisance; or\n        (ii) to desist from carrying on, or to remove or regulate in such manner as may be directed, such\n    trade or occupation, or to remove such goods or merchandise, or to regulate the keeping thereof in such\n    manner as may be directed; or\n        (iii) to prevent or stop the construction of such building, or to alter the disposal of such\n    substance; or\n        (iv) to remove, repair or support such building, tent or structure, or to remove or support such\n    trees; or\n        (v) to fence such tank, well or excavation; or\n        (vi) to destroy, confine or dispose of such dangerous animal in the manner provided in the said\n    order, or, if he objects so to do, to appear before himself or some other Executive Magistrate subordinate\n    to him at a time and place to be fixed by the order, and show cause, in the manner hereinafter provided,\n    why the order should not be made absolute.\n    (2) No order duly made by a Magistrate under this section shall be called in question in any Civil Court.\n    Explanation.—A \"public place\" includes also property belonging to the State, camping grounds and\ngrounds left unoccupied for sanitary or recreative purposes.",
+      "key_terms": [
+        "conditional order",
+        "public nuisance",
+        "obstruction",
+        "show cause",
+        "public place (defined)"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Part B of Chapter XI, the public-nuisance machinery — a fast, summary way for a Magistrate to order a public nuisance fixed without waiting for a full civil suit. A District Magistrate, Sub-divisional Magistrate, or specially-empowered Executive Magistrate, acting on a police report or other information, can make a 'conditional order' covering six kinds of situations: obstructions blocking a public way/river/channel; a trade, occupation, or stored goods harming public health or comfort; construction or storage that risks fire or explosion; a building, tent, structure, or tree at risk of collapsing on people; an unfenced tank/well/excavation next to a public place; or a dangerous animal. The order tells the responsible person to either fix the problem within a set time, or — if they object — show up in court and explain why the order shouldn't be made permanent ('absolute'). Crucially, sub-section (2) insulates these orders from being challenged in a civil court — the whole point is speed, with the built-in show-cause hearing (sections 156-157) as the safeguard instead of parallel civil litigation.",
+        "essential_elements": [
+          "The empowered Magistrates are the District Magistrate, Sub-divisional Magistrate, or an Executive Magistrate specially empowered by the State Government",
+          "The order can be triggered by a police report or any other information, plus whatever evidence the Magistrate chooses to take",
+          "Six categories of situations are covered: (a) obstruction/nuisance on a public way; (b) unhealthy trade or goods; (c) fire/explosion risk from construction or substances; (d) collapsing building/tent/structure/tree; (e) unfenced dangerous tank/well/excavation; (f) dangerous animals",
+          "The order is 'conditional': it directs the responsible person either to act (remove, desist, fence, destroy, etc.) within a fixed time, or to appear and show cause why the order should not be made absolute",
+          "Such an order cannot be challenged in any Civil Court",
+          "'Public place' is defined broadly by the Explanation to include State property, camping grounds, and grounds kept vacant for sanitary or recreational purposes"
+        ],
+        "exceptions_and_qualifications": [
+          "The order is only 'conditional' at this stage — it only becomes final and binding ('absolute') after the show-cause process in sections 154-157 runs its course",
+          "The civil-court ouster in sub-section (2) bars challenging the order itself, but does not eliminate the statutory show-cause remedy built into this very Chapter"
+        ],
+        "how_to_read": "Section 152 is the trigger; sections 153-158 are the machinery that turns the conditional order into either an absolute order or a dropped proceeding. Map each of the six paragraphs (a)-(f) to real fact patterns — encroachments, polluting factories, fire hazards, unsafe structures, open wells, stray dangerous animals — since practitioners typically plead this section by pointing to the exact paragraph that matches their facts."
+      }
+    },
+    {
+      "number": "153",
+      "title": "Service or notification of order",
+      "raw_text": "153. Service or notification of order.—(1) The order shall, if practicable, be served on the person\nagainst whom it is made, in the manner herein provided for service of summons.\n    (2) If such order cannot be so served, it shall be notified by proclamation published in such manner as\nthe State Government may, by rules, direct, and a copy thereof shall be stuck up at such place or places as\nmay be fittest for conveying the information to such person.",
+      "key_terms": [
+        "service of order",
+        "proclamation",
+        "manner of summons service"
+      ],
+      "breakdown": {
+        "plain_summary": "This tells the Magistrate how to actually get the Section 152 order to the person it's aimed at. The default is personal service, done the same way a summons would be served. But if that's not practicable — the person can't be found, is evading service, or is simply unknown — the order is instead publicised by proclamation, in whatever manner the State Government has prescribed by rules, with a copy physically posted at whichever location is most likely to actually reach the person (for example, at the site of the nuisance itself).",
+        "essential_elements": [
+          "Primary mode: service on the person, following the same procedure used for serving a summons",
+          "Fallback mode, used only if personal service isn't practicable: proclamation published per State Government rules, plus a copy stuck up at the most effective location for reaching that person"
+        ],
+        "exceptions_and_qualifications": [
+          "The fallback is only available when personal service is genuinely impracticable — it is not an alternative of first choice"
+        ],
+        "how_to_read": "This is a purely procedural section but matters a great deal in practice: if the order was never properly served or proclaimed, the entire downstream obey-or-show-cause obligation in section 154 cannot attach, and any consequential absolute order is vulnerable to challenge for want of notice."
+      }
+    },
+    {
+      "number": "154",
+      "title": "Person to whom order is addressed to obey or show cause",
+      "raw_text": "154. Person to whom order is addressed to obey or show cause.—The person against whom such\norder is made shall—\n    (a) perform, within the time and in the manner specified in the order, the act directed thereby; or\n    (b) appear in accordance with such order and show cause against the same; and such appearance or\nhearing may be permitted through audio-video conferencing.",
+      "key_terms": [
+        "obey or show cause",
+        "audio-video conferencing"
+      ],
+      "breakdown": {
+        "plain_summary": "Once served with (or proclaimed) a Section 152 order, the person named in it has exactly two lawful options: comply with what it directs, doing the act within the specified time and manner, or turn up and contest it by showing cause against the order. A modernising touch in the BNSS: the appearance or hearing to show cause can now be conducted through audio-video conferencing, so the person doesn't necessarily have to travel to appear in person.",
+        "essential_elements": [
+          "Option one: perform the directed act within the time and manner the order specifies",
+          "Option two: appear and show cause against the order",
+          "Appearance/hearing for showing cause may be conducted via audio-video conferencing"
+        ],
+        "exceptions_and_qualifications": [
+          "There is no third option of simply ignoring the order — failure to do either triggers the penalty in section 155"
+        ],
+        "how_to_read": "This is the fork in the road that determines what happens next: compliance ends the matter, while showing cause routes the case into the inquiry procedure of sections 156-157. The audio-video conferencing option is a practical BNSS-era convenience worth flagging for clients who are far from the court."
+      }
+    },
+    {
+      "number": "155",
+      "title": "Penalty for failure to comply with section 154",
+      "raw_text": "155. Penalty for failure to comply with section 154.—If the person against whom an order is made\nunder section 154 does not perform such act or appear and show cause, he shall be liable to the penalty\nspecified in that behalf in section 223 of the Bharatiya Nyaya Sanhita, 2023, and the order shall be made\nabsolute.",
+      "key_terms": [
+        "penalty",
+        "Bharatiya Nyaya Sanhita 2023, section 223",
+        "order made absolute"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the consequence for doing neither of the two things section 154 requires. If the person neither performs the directed act nor shows up to contest it, two things happen automatically: they become liable to the penalty prescribed in Section 223 of the Bharatiya Nyaya Sanhita, 2023 (the substantive criminal offence for disobeying an order promulgated by a public servant), and — separately — the conditional order itself is made absolute, meaning it now has full binding force.",
+        "essential_elements": [
+          "Applies only where the person has done neither of the two things required by section 154 — neither complied nor appeared to show cause",
+          "Triggers criminal liability under section 223 of the Bharatiya Nyaya Sanhita, 2023",
+          "Also converts the conditional order automatically into an absolute order"
+        ],
+        "exceptions_and_qualifications": [
+          "This is distinct from the outcome under section 157, where the person does appear and show cause but the Magistrate is not satisfied — that follows a different (evidentiary) route to an absolute order"
+        ],
+        "how_to_read": "Section 155 rewards default with the harshest combined consequence — criminal liability plus an automatically finalised order, with no evidentiary inquiry at all. This is precisely why section 154's audio-video conferencing option matters: it removes travel-distance as an excuse for total default."
+      }
+    },
+    {
+      "number": "156",
+      "title": "Procedure where existence of public right is denied",
+      "raw_text": "156. Procedure where existence of public right is denied.— (1) Where an order is made under\nsection 152 for the purpose of preventing obstruction, nuisance or danger to the public in the use of any\nway, river, channel or place, the Magistrate shall, on the appearance before him of the person against whom\nthe order was made, question him as to whether he denies the existence of any public right in respect of the\nway, river, channel or place, and if he does so, the Magistrate shall, before proceeding under section 157,\ninquire into the matter.\n    (2) If in such inquiry the Magistrate finds that there is any reliable evidence in support of such denial,\nhe shall stay the proceedings until the matter of the existence of such right has been decided by a competent\nCourt; and, if he finds that there is no such evidence, he shall proceed as laid down in section 157.\n    (3) A person who has, on being questioned by the Magistrate under sub-section (1), failed to deny the\nexistence of a public right of the nature therein referred to, or who, having made such denial, has failed to\nadduce reliable evidence in support thereof, shall not in the subsequent proceedings be permitted to make\nany such denial.",
+      "key_terms": [
+        "denial of public right",
+        "stay of proceedings",
+        "competent Court",
+        "reliable evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "This section handles a special wrinkle that can arise specifically in the public-way/river/channel category of Section 152 order (paragraph (a)): what if the person served with the order says there's no public right over that way, river, channel, or place at all — i.e., the public was never entitled to use it in the first place? When such a person appears, the Magistrate must specifically ask them whether they deny the existence of that public right. If they do deny it, the Magistrate has to pause and inquire into that specific question before moving to the ordinary show-cause hearing under section 157. If there's reliable evidence backing the denial, the whole proceeding is stayed until a competent civil court decides the public-right question definitively. If there's no reliable evidence for the denial, the Magistrate proceeds straight to section 157. And there's a use-it-or-lose-it rule: anyone who was asked and didn't deny the public right, or denied it but couldn't back it up with reliable evidence, is barred from raising that denial later in the proceedings.",
+        "essential_elements": [
+          "Applies specifically to orders made under section 152 to prevent obstruction/nuisance/danger in the use of a way, river, channel, or place",
+          "On the person's appearance, the Magistrate must ask whether he denies the existence of any public right in that way/river/channel/place",
+          "If denied, the Magistrate must inquire into the denial before proceeding under section 157",
+          "If reliable evidence supports the denial, the proceedings are stayed pending a competent Court's decision on the existence of the right",
+          "If no reliable evidence supports the denial, the Magistrate proceeds directly under section 157",
+          "A person who fails to deny the right when asked, or denies it without adducing reliable evidence, is barred from raising that denial in later proceedings"
+        ],
+        "exceptions_and_qualifications": [
+          "This procedure is triggered only by an actual denial from the person — the Magistrate doesn't investigate public-right questions unprompted",
+          "The stay under sub-section (2) is not indefinite dismissal — it simply parks the criminal/summary proceeding until the civil question of the right's existence is resolved by a competent court"
+        ],
+        "how_to_read": "Treat this as a jurisdictional screening step unique to public-way nuisance cases: it prevents a Magistrate exercising summary powers from having to conclusively adjudicate genuinely disputed questions of public right, which properly belong before a civil court, while also preventing endless unsubstantiated denials from derailing the summary process."
+      }
+    },
+    {
+      "number": "157",
+      "title": "Procedure where person against whom order is made under section 152 appears to show cause",
+      "raw_text": "157. Procedure where person against whom order is made under section 152 appears to show\ncause.—(1) If the person against whom an order under section 152 is made appears and shows cause against\nthe order, the Magistrate shall take evidence in the matter as in a summons-case.\n     (2) If the Magistrate is satisfied that the order, either as originally made or subject to such modification\nas he considers necessary, is reasonable and proper, the order shall be made absolute without modification\nor, as the case may be, with such modification.\n    (3) If the Magistrate is not so satisfied, no further proceedings shall be taken in the case:\n    Provided that the proceedings under this section shall be completed, as soon as possible, within a period\nof ninety days, which may be extended for the reasons to be recorded in writing, to one hundred and twenty\ndays.",
+      "key_terms": [
+        "summons-case evidence",
+        "order made absolute",
+        "ninety days",
+        "one hundred and twenty days"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the substantive show-cause hearing itself. If the person appears and contests the order (rather than defaulting under section 155, or being routed to a civil court under section 156), the Magistrate takes evidence following summons-case procedure — the same relatively streamlined evidentiary process used for less serious criminal cases. Based on that evidence, if the Magistrate is satisfied the order (as originally framed, or as modified) is reasonable and proper, it's made absolute, either unmodified or with whatever modification the Magistrate thinks fit. If the Magistrate isn't satisfied, the proceedings simply end there — no order is made absolute. There's also a built-in time discipline: the whole show-cause proceeding should wrap up within 90 days, extendable to a hard cap of 120 days, and only for reasons recorded in writing.",
+        "essential_elements": [
+          "Triggered when the person appears and shows cause against a section 152 order",
+          "Evidence is taken following summons-case procedure",
+          "If satisfied the order (original or modified) is reasonable and proper, the Magistrate makes it absolute, with or without modification as warranted",
+          "If not satisfied, no further proceedings are taken — the matter simply drops",
+          "The proceedings must be completed within 90 days, extendable to a maximum of 120 days, and only for written reasons"
+        ],
+        "exceptions_and_qualifications": [
+          "The 90/120-day timeline is a statutory discipline on the process, not a limitation period barring the original order — its breach affects how long the show-cause matter can run, not whether the underlying nuisance order was valid",
+          "'Modification' power lets the Magistrate tailor the final absolute order rather than being locked into an all-or-nothing choice between the original order and no order at all"
+        ],
+        "how_to_read": "This is the standard outcome-determining hearing for public-nuisance orders and the natural stage at which most contested Section 152 orders are finally resolved. Note the deliberate contrast with section 156: section 157 handles the merits of the nuisance/obstruction itself, while section 156 handles the threshold question of whether a public right existed at all."
+      }
+    },
+    {
+      "number": "158",
+      "title": "Power of Magistrate to direct local investigation and examination of an expert",
+      "raw_text": "158. Power of Magistrate to direct local investigation and examination of an expert.—The\nMagistrate may, for the purposes of an inquiry under section 156 or section 157—\n        (a) direct a local investigation to be made by such person as he thinks fit; or\n        (b) summon and examine an expert.",
+      "key_terms": [
+        "local investigation",
+        "expert examination"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the Magistrate two practical evidence-gathering tools to use during either the public-right inquiry (section 156) or the show-cause hearing (section 157): ordering a local investigation by a person of the Magistrate's choosing (for instance, sending someone to physically inspect a disputed encroachment, structure, or water channel), or calling in and examining an expert witness (for example, an engineer to assess whether a building is genuinely at risk of collapse).",
+        "essential_elements": [
+          "Available specifically for inquiries under section 156 (public right denial) or section 157 (show-cause hearing)",
+          "Option one: direct a local investigation, carried out by whichever person the Magistrate thinks fit to appoint",
+          "Option two: summon and examine an expert witness"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a discretionary evidentiary power, not a mandatory step — the Magistrate may proceed on the evidence already before him without invoking it"
+        ],
+        "how_to_read": "This closing section of the first sub-batch equips the Magistrate to resolve genuinely technical or on-the-ground factual disputes — precisely the kind that arise in nuisance cases involving structural safety, encroachment boundaries, or watercourse rights — without having to rely solely on the parties' own competing evidence."
       }
     }
   ]
