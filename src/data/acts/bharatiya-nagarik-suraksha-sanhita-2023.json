@@ -10889,6 +10889,110 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "This is the drafting-mechanics section for every bond executed in this Chapter -- counsel preparing a bail bond should ensure every condition actually granted by the Court is expressly recorded in the bond document itself, since sub-section (2) makes this a requirement, not a formality."
       }
+    },
+    {
+      "number": "486",
+      "title": "Declaration by sureties",
+      "raw_text": "486. Declaration by sureties.—Every person standing surety to an accused person for his release on\nbail, shall make a declaration before the Court as to the number of persons to whom he has stood surety\nincluding the accused, giving therein all the relevant particulars.",
+      "key_terms": [
+        "surety",
+        "sureties"
+      ],
+      "breakdown": {
+        "plain_summary": "A transparency safeguard against a single surety over-committing himself across multiple accused persons without the Court's knowledge: every person standing surety for an accused's bail release must declare before the Court how many persons (including this accused) he has stood surety for, along with all relevant particulars. This lets the Court properly assess whether the surety genuinely has the financial capacity to answer for everyone he has undertaken to guarantee.",
+        "essential_elements": [
+          "Every surety standing bail for an accused must declare before the Court the total number of persons he has stood surety for, including the present accused.",
+          "The declaration must include all relevant particulars."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This works with section 485(4)'s fitness/sufficiency enquiry -- a surety's declaration under this section gives the Court the raw information it needs to assess whether that surety is genuinely fit and sufficient once his other outstanding surety commitments are factored in."
+      }
+    },
+    {
+      "number": "487",
+      "title": "Discharge from custody",
+      "raw_text": "487. Discharge from custody.—(1) As soon as the bond or bail bond has been executed, the person\nfor whose appearance it has been executed shall be released; and, when he is in jail, the court admitting him\nto bail shall issue an order of release to the officer in charge of the jail, and such officer on receipt of the\norders shall release him.\n    (2) Nothing in this section, section 478 or section 480, shall be deemed to require the release of any\nperson liable to be detained for some matter other than that in respect of which the bond or bail bond was\nexecuted.",
+      "key_terms": [
+        "bond",
+        "bail bond"
+      ],
+      "breakdown": {
+        "plain_summary": "This ensures bail execution translates promptly into actual release: as soon as the bond or bail bond is executed, the person for whose appearance it was given must be released, and if he's in jail, the Court admitting him to bail must issue a release order to the jail's officer in charge, who must release him on receiving it -- no further delay or additional formality is contemplated. Sub-section (2) is an important limiting clarification: this release duty, and the similar ones in sections 478 and 480, only cover the specific matter for which the bond was executed -- if the person is also liable to be detained for some other, separate matter (e.g., a different pending case or a different order of detention), this section does not require his release from that other detention.",
+        "essential_elements": [
+          "Once a bond/bail bond is executed, the person must be released; if in jail, the admitting Court issues a release order to the officer in charge, who must release him on receipt.",
+          "This release duty does not extend to detention for any other matter beyond the one for which the bond was executed."
+        ],
+        "exceptions_and_qualifications": [
+          "The multiple-matter carve-out in sub-section (2) prevents a bail order in one case from being read as securing release from an entirely separate, unrelated detention."
+        ],
+        "how_to_read": "Practitioners should always check whether their client has any other outstanding detention basis before assuming a bail order in one case will result in actual physical release -- sub-section (2) makes clear it will not, if a separate liability to detention exists."
+      }
+    },
+    {
+      "number": "488",
+      "title": "Power to order sufficient bail when that first taken is insufficient",
+      "raw_text": "488. Power to order sufficient bail when that first taken is insufficient.—If, through mistake,\nfraud or otherwise, insufficient sureties have been accepted, or if they afterwards become insufficient, the\nCourt may issue a warrant of arrest directing that the person released on bail be brought before it and may\norder him to find sufficient sureties, and, on his failing so to do, may commit him to jail.",
+      "key_terms": [
+        "surety",
+        "sureties",
+        "warrant of arrest"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the Court a corrective mechanism where the sureties backing someone's bail turn out to be, or later become, insufficient -- whether due to mistake, fraud, or any other reason. The Court may issue a warrant of arrest to bring the released person back before it, and then order him to find sufficient sureties. If he fails to do so, the Court may commit him to jail -- effectively reversing the earlier bail release because the security underpinning it has failed.",
+        "essential_elements": [
+          "Applies where sureties accepted for bail are, or later become, insufficient -- whether through mistake, fraud, or otherwise.",
+          "The Court may issue a warrant of arrest to bring the person back before it.",
+          "The Court may order him to find sufficient sureties.",
+          "Failure to find sufficient sureties allows the Court to commit him to jail."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the mechanism to invoke when a surety's fraud or later-discovered insufficiency comes to light after bail has already been granted -- it is not a general power to revisit a bail decision on the merits, only to fix a defect in the security backing it."
+      }
+    },
+    {
+      "number": "489",
+      "title": "Discharge of sureties",
+      "raw_text": "489. Discharge of sureties.—(1) All or any sureties for the attendance and appearance of a person\nreleased on bail may at any time apply to a Magistrate to discharge the bond, either wholly or so far as\nrelates to the applicants.\n    (2) On such application being made, the Magistrate shall issue his warrant of arrest directing that the\nperson so released be brought before him.\n    (3) On the appearance of such person pursuant to the warrant, or on his voluntary surrender, the\nMagistrate shall direct the bond to be discharged either wholly or so far as relates to the applicants, and\nshall call upon such person to find other sufficient sureties, and, if he fails to do so, may commit him to jail.",
+      "key_terms": [
+        "surety",
+        "sureties",
+        "magistrate",
+        "warrant of arrest",
+        "voluntary surrender"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives sureties themselves an exit route from an ongoing bail obligation: all or any of the sureties for a released person's attendance may apply to a Magistrate at any time to be discharged from the bond, wholly or just as it relates to the applicant sureties. Once such an application is made, the Magistrate must issue a warrant of arrest to bring the released person before him -- the surety's application to be let go triggers the accused's compelled re-appearance, since the surety was the mechanism ensuring he'd show up. On the person's appearance (whether pursuant to that warrant or by voluntarily surrendering himself), the Magistrate discharges the bond as requested and then calls on the person to find other sufficient sureties; if he fails to do so, the Magistrate may commit him to jail.",
+        "essential_elements": [
+          "Any or all sureties for a released person's bail may apply to a Magistrate at any time to be discharged from the bond, wholly or partially.",
+          "Such an application triggers a warrant of arrest to bring the released person before the Magistrate.",
+          "On appearance (via warrant or voluntary surrender), the Magistrate discharges the bond as applied for and calls on the person to find fresh sufficient sureties.",
+          "Failure to find fresh sureties allows the Magistrate to commit the person to jail."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the counterpart to section 488 -- there the Court acts on its own initiative when sureties prove insufficient; here the sureties themselves initiate their own release from the ongoing obligation, but the practical consequence for the accused (re-appearance, need for fresh sureties, possible jail on failure) is functionally similar."
+      }
+    },
+    {
+      "number": "490",
+      "title": "Deposit instead of recognizance",
+      "raw_text": "490. Deposit instead of recognizance.—When any person is required by any Court or officer to\nexecute a bond or bail bond, such Court or officer may, except in the case of a bond for good behaviour,\npermit him to deposit a sum of money or Government promissory notes to such amount as the Court or\nofficer may fix in lieu of executing such bond.",
+      "key_terms": [
+        "bond",
+        "bail bond",
+        "recognizance",
+        "good behaviour"
+      ],
+      "breakdown": {
+        "plain_summary": "This offers an alternative to the surety-based bond mechanism: instead of executing a bond (which typically requires finding sureties), a person required to execute a bond or bail bond may, at the Court's or officer's discretion, simply deposit a sum of money or Government promissory notes of an amount the Court/officer fixes. This can be a simpler, faster route for someone who can afford the cash deposit but struggles to arrange acceptable sureties. The one express exclusion is a bond for good behaviour -- that specific category of bond cannot be satisfied by a cash/promissory-note deposit in lieu of the bond itself, presumably because good-behaviour bonds are about ongoing conduct assurance rather than a purely financial guarantee.",
+        "essential_elements": [
+          "A person required to execute a bond or bail bond may be permitted to deposit money or Government promissory notes instead, in an amount the Court/officer fixes.",
+          "Exception: this deposit-in-lieu option does not apply to a bond for good behaviour."
+        ],
+        "exceptions_and_qualifications": [
+          "The good-behaviour-bond exclusion is an express carve-out from an otherwise general deposit-in-lieu option."
+        ],
+        "how_to_read": "This is a practical relief provision -- counsel for a client who can access liquid funds but not sureties should specifically request this deposit option, while noting it is unavailable if the underlying bond is specifically one for good behaviour."
+      }
     }
   ]
 }
