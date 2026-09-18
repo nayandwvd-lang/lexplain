@@ -91,7 +91,15 @@
     "dna profiling": "A modern forensic technique for identifying individuals from biological material (blood, semen, hair, etc.), expressly included within 'examination' for the purposes of Sections 51 to 53.",
     "twenty-four hours": "The maximum period, exclusive of journey time to the Magistrate's Court, that a person arrested without warrant may be held in police custody without a Magistrate's special order under Section 187 (Section 58).",
     "special order": "A specific judicial order by a Magistrate under Section 187 authorising continued police custody of an arrested person beyond the ordinary 24-hour limit.",
-    "lawful custody": "Custody that is legally authorised — for example, custody following a valid arrest or under a court order — as distinguished from unlawful detention."
+    "lawful custody": "Custody that is legally authorised — for example, custody following a valid arrest or under a court order — as distinguished from unlawful detention.",
+    "presiding officer": "The judge or Magistrate in charge of a Court, whose signature (or that of an officer the High Court authorises) is required on a summons or warrant issued by that Court.",
+    "digital signature": "An electronic form of signature recognised as equivalent to a physical signature for authenticating an encrypted or electronic summons or warrant under the Sanhita.",
+    "due diligence": "Genuine, reasonable effort — as opposed to a token or perfunctory attempt — required before a Court or officer may resort to a substituted mode of service (family-member service or affixation) instead of personal service.",
+    "conspicuous part": "A visible, noticeable location on a house or homestead (such as a main door) where a summons duplicate is affixed as a last-resort mode of service under Section 67.",
+    "affidavit": "A written statement made on oath or affirmation, here used as admissible evidence that a summons has been duly served when the serving officer cannot attend the hearing.",
+    "escaped convict": "A person who has broken out of lawful custody after conviction, against whom a Chief Judicial Magistrate or first-class Magistrate may direct a warrant to any person under Section 75.",
+    "thirty kilometres": "The proximity threshold under Section 82 within which a person arrested outside the issuing Court's district may be produced directly before that Court instead of the local Executive Magistrate/DSP/Commissioner.",
+    "removal in custody": "The process of transferring an arrested person, under police escort, from the place/authority of arrest to the Court that issued the warrant against them."
   },
   "sections": [
     {
@@ -1501,6 +1509,414 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This is the natural closing citation for any arrest-procedure challenge — after establishing which specific safeguard (Sections 35-61) was breached, cite Section 62 to argue the breach renders the whole arrest non-compliant with the Sanhita, not just a technical slip."
+      }
+    },
+    {
+      "number": "63",
+      "title": "Form of summons",
+      "raw_text": "Every summons issued by a Court under this Sanhita shall be—\n(i) in writing, in duplicate, signed by the presiding officer of such Court or by such other officer as the High Court may, from time to time, by rule direct, and shall bear the seal of the Court; or\n(ii) in an encrypted or any other form of electronic communication and shall bear the image of the seal of the Court or digital signature.",
+      "key_terms": [
+        "summons",
+        "presiding officer",
+        "digital signature"
+      ],
+      "breakdown": {
+        "plain_summary": "Opens Chapter VI's scheme for compelling a person's appearance before Court. Every summons must be in writing, made in duplicate, and signed by the presiding officer (or a High-Court-authorised officer), bearing the Court's seal — a genuinely new BNSS feature is that a summons can now equally be issued electronically, bearing an image of the seal or a digital signature, formally recognising e-summons as valid.",
+        "essential_elements": [
+          "Two valid forms: (i) written, duplicate, signed, sealed paper summons, or (ii) encrypted/electronic summons bearing the seal's image or a digital signature.",
+          "Must be signed by the presiding officer, or an officer the High Court has authorised by rule."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The explicit electronic-summons option is a significant procedural modernisation over the old CrPC — practitioners should check the applicable High Court rules on the manner/form of digital signature and electronic service before challenging an e-summons's validity."
+      }
+    },
+    {
+      "number": "64",
+      "title": "Summons how served",
+      "raw_text": "(1) Every summons shall be served by a police officer, or subject to such rules as the State Government may make in this behalf, by an officer of the Court issuing it or other public servant:\nProvided that the police station or the registrar in the Court shall maintain a register to enter the address, email address, phone number and such other details as the State Government may, by rules, provide.\n(2) The summons shall, if practicable, be served personally on the person summoned, by delivering or tendering to him one of the duplicates of the summons:\nProvided that summons bearing the image of Court's seal may also be served by electronic communication in such form and in such manner, as the State Government may, by rules, provide.\n(3) Every person on whom a summons is so served personally shall, if so required by the serving officer, sign a receipt therefor on the back of the other duplicate.",
+      "key_terms": [
+        "personal service",
+        "register"
+      ],
+      "breakdown": {
+        "plain_summary": "Personal service is the default and preferred method — a duplicate handed or tendered directly to the summoned person, who may be asked to sign a receipt. Police officers, court officers, or other public servants may serve it. A new BNSS layer allows electronic service of a sealed summons per State Government rules, and mandates a register capturing address, email, and phone details to support that.",
+        "essential_elements": [
+          "Personal service ('if practicable') is the primary mode — delivering/tendering a duplicate directly to the person.",
+          "Electronic service of a summons bearing the Court seal's image is now expressly permitted, per State Government rules.",
+          "A register of contact details (address, email, phone) must be maintained at the police station or Court registry.",
+          "The summoned person may be required to sign a receipt on the other duplicate."
+        ],
+        "exceptions_and_qualifications": [
+          "Personal service is required only 'if practicable' — where impracticable, the later sections (65-71) provide alternative service modes."
+        ],
+        "how_to_read": "This is the entry point for the whole service-of-summons cascade (Sections 64-71) — always check which specific mode was actually used and whether its preconditions (impracticability, due diligence, etc.) were genuinely satisfied before accepting service as valid."
+      }
+    },
+    {
+      "number": "65",
+      "title": "Service of summons on corporate bodies, firms, and societies",
+      "raw_text": "(1) Service of a summons on a company or corporation may be effected by serving it on the Director, Manager, Secretary or other officer of the company or corporation, or by letter sent by registered post addressed to the Director, Manager, Secretary or other officer of the company or corporation in India, in which case the service shall be deemed to have been effected when the letter would arrive in ordinary course of post.\nExplanation.—In this section, \"company\" means a body corporate and \"corporation\" means an incorporated company or other body corporate registered under the Companies Act, 2013 (18 of 2013) or a society registered under the Societies Registration Act, 1860 (21 of 1860).\n(2) Service of a summons on a firm or other association of individuals may be effected by serving it on any partner of such firm or association, or by letter sent by registered post addressed to such partner, in which case the service shall be deemed to have been effected when the letter would arrive in ordinary course of post.",
+      "key_terms": [
+        "company",
+        "corporation",
+        "registered post"
+      ],
+      "breakdown": {
+        "plain_summary": "Sets out how to summon organisations rather than individuals: for companies/corporations, service on a Director/Manager/Secretary/other officer, or registered post to such a person, suffices — with a deeming rule that registered-post service is complete when the letter would ordinarily arrive, not when actually received. Firms/associations follow the same pattern via any partner.",
+        "essential_elements": [
+          "Two alternative modes for companies/corporations: direct service on a named category of officer, or registered post addressed to such an officer.",
+          "'Company'/'corporation' expressly includes Companies Act, 2013 entities and Societies Registration Act, 1860 registered societies.",
+          "Registered-post service is deemed effected on ordinary-course arrival — an evidentiary presumption, not proof of actual receipt.",
+          "Firms/associations: service on any partner, personally or by registered post to that partner."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The 'deemed service' rule on ordinary-course-of-post arrival is important — it shifts the burden onto the entity to show non-receipt was NOT due to ordinary postal course, rather than the prosecution having to prove actual receipt."
+      }
+    },
+    {
+      "number": "66",
+      "title": "Service when persons summoned cannot be found",
+      "raw_text": "Where the person summoned cannot, by the exercise of due diligence, be found, the summons may be served by leaving one of the duplicates for him with some adult member of his family residing with him, and the person with whom the summons is so left shall, if so required by the serving officer, sign a receipt therefor on the back of the other duplicate.\nExplanation.—A servant is not a member of the family within the meaning of this section.",
+      "key_terms": [
+        "due diligence",
+        "adult member of family"
+      ],
+      "breakdown": {
+        "plain_summary": "The first fallback when the person can't be personally found despite genuine effort: leave a duplicate with an adult family member residing with them. The Explanation deliberately excludes servants from counting as 'family' — service on domestic staff does not satisfy this provision.",
+        "essential_elements": [
+          "Precondition: the person cannot be found despite 'due diligence' — a genuine, not token, search effort.",
+          "Service must be on an ADULT member of the family who resides WITH the summoned person.",
+          "A servant is expressly excluded from being treated as 'family' for this purpose."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Challenges to substituted service under this section often turn on whether 'due diligence' was genuinely exercised before resorting to family-member service, and whether the recipient was truly an adult family member residing with the person (not a servant, neighbour, or non-resident relative)."
+      }
+    },
+    {
+      "number": "67",
+      "title": "Procedure when service cannot be effected as before provided",
+      "raw_text": "If service cannot by the exercise of due diligence be effected as provided in section 64, section 65 or section 66, the serving officer shall affix one of the duplicates of the summons to some conspicuous part of the house or homestead in which the person summoned ordinarily resides; and thereupon the Court, after making such inquiries as it thinks fit, may either declare that the summons has been duly served or order fresh service in such manner as it considers proper.",
+      "key_terms": [
+        "conspicuous part",
+        "affix"
+      ],
+      "breakdown": {
+        "plain_summary": "The second and final fallback — 'affixation' or 'pasting' service: if none of Sections 64-66 work, the officer pastes a duplicate on a visible part of the person's usual residence. This does not automatically count as valid service — the Court must independently inquire and either confirm it as duly served or order the process to be tried again differently.",
+        "essential_elements": [
+          "Available only after due-diligence attempts under Sections 64, 65, and 66 have all failed.",
+          "Affixation must be to a conspicuous part of the house/homestead where the person ORDINARILY resides.",
+          "The Court retains an independent gatekeeping role — it must inquire and decide whether to declare service valid or order fresh service."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Affixation ('paste') service is the most commonly challenged mode — always check whether the address was genuinely the person's ordinary residence and whether the Court actually conducted the required inquiry before declaring service valid, rather than mechanically accepting the officer's report."
+      }
+    },
+    {
+      "number": "68",
+      "title": "Service on Government servant",
+      "raw_text": "(1) Where the person summoned is in the active service of the Government, the Court issuing the summons shall ordinarily send it in duplicate to the head of the office in which such person is employed; and such head shall thereupon cause the summons to be served in the manner provided by section 64, and shall return it to the Court under his signature with the endorsement required by that section.\n(2) Such signature shall be evidence of due service.",
+      "key_terms": [
+        "head of office",
+        "endorsement"
+      ],
+      "breakdown": {
+        "plain_summary": "A special routing rule for government servants: rather than the usual direct service, the Court ordinarily channels the summons through the head of the employee's office, who serves it per Section 64 and returns it endorsed. The head's signature on that endorsement is itself treated as evidence that service was duly completed.",
+        "essential_elements": [
+          "Applies where the summoned person is in active Government service.",
+          "Routing is via the head of the employing office, not direct service by the Court's own officer.",
+          "The head of office must serve per Section 64's method and return the summons endorsed and signed.",
+          "The head's signature is evidence of due service — a documentary shortcut for proving service."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Useful where a government-servant accused disputes receipt of a summons — the office head's signed endorsement is strong, near-conclusive documentary proof of service under sub-section (2)."
+      }
+    },
+    {
+      "number": "69",
+      "title": "Service of summons outside local limits",
+      "raw_text": "When a Court desires that a summons issued by it shall be served at any place outside its local jurisdiction, it shall ordinarily send such summons in duplicate to a Magistrate within whose local jurisdiction the person summoned resides, or is, to be there served.",
+      "key_terms": [
+        "local jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "Cross-jurisdiction service: a Court cannot itself serve a summons outside its own territorial limits — it must route the duplicate summons to the Magistrate whose jurisdiction covers where the person resides or is, so that local Magistrate arranges service.",
+        "essential_elements": [
+          "Applies whenever the place of intended service is outside the issuing Court's own local jurisdiction.",
+          "Routing is to the Magistrate with local jurisdiction over the person's residence or present location."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Combine with Section 70 (proof of out-of-jurisdiction service) when tracking the paper trail for a summons served through another jurisdiction's Magistrate."
+      }
+    },
+    {
+      "number": "70",
+      "title": "Proof of service in such cases and when serving officer not present",
+      "raw_text": "(1) When a summons issued by a Court is served outside its local jurisdiction, and in any case where the officer who has served a summons is not present at the hearing of the case, an affidavit, purporting to be made before a Magistrate, that such summons has been served, and a duplicate of the summons purporting to be endorsed (in the manner provided by section 64 or section 66) by the person to whom it was delivered or tendered or with whom it was left, shall be admissible in evidence, and the statements made therein shall be deemed to be correct unless and until the contrary is proved.\n(2) The affidavit mentioned in this section may be attached to the duplicate of the summons and returned to the Court.\n(3) All summons served through electronic communication under sections 64 to 71 (both inclusive) shall be considered as duly served and a copy of such summons shall be attested and kept as a proof of service of summons.",
+      "key_terms": [
+        "affidavit",
+        "endorsed"
+      ],
+      "breakdown": {
+        "plain_summary": "A practical evidence rule so cases aren't stalled waiting for the serving officer to personally testify every time: an affidavit before a Magistrate, plus an endorsed duplicate summons, is admissible proof of service, presumed correct unless disproved. Electronic-service summons under Sections 64-71 are treated as duly served once an attested copy is kept as proof.",
+        "essential_elements": [
+          "Applies to out-of-jurisdiction service, or whenever the serving officer is unavailable at the hearing.",
+          "The affidavit + endorsed duplicate together are admissible evidence of service.",
+          "A rebuttable presumption of correctness attaches to the affidavit's statements ('unless and until the contrary is proved').",
+          "Electronically served summons are deemed duly served upon attestation and retention of a copy as proof."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The presumption of correctness is rebuttable, not conclusive — a person genuinely disputing service can still lead evidence to displace the affidavit's presumption; this section eases the prosecution's evidentiary burden but does not foreclose challenge."
+      }
+    },
+    {
+      "number": "71",
+      "title": "Service of summons on witness",
+      "raw_text": "(1) Notwithstanding anything contained in the preceding sections of this Chapter, a Court issuing a summons to a witness may, in addition to and simultaneously with the issue of such summons, direct a copy of the summons to be served by electronic communication or by registered post addressed to the witness at the place where he ordinarily resides or carries on business or personally works for gain.\n(2) When an acknowledgement purporting to be signed by the witness or an endorsement purporting to be made by a postal employee that the witness refused to take delivery of the summons has been received or on the proof of delivery of summons under sub-section (3) of section 70 by electronic communication to the satisfaction of the Court, the Court issuing summons may deem that the summons has been duly served.",
+      "key_terms": [
+        "witness",
+        "acknowledgement"
+      ],
+      "breakdown": {
+        "plain_summary": "A witness-specific fast track: the Court can send a parallel copy of the witness summons by electronic communication or registered post, on top of the usual modes. If a signed acknowledgement comes back, or the postal employee notes a refusal to accept delivery, or electronic delivery is proved under Section 70(3), the Court may treat the summons as duly served — a practical mechanism to speed up witness attendance without waiting for personal service to succeed or fail.",
+        "essential_elements": [
+          "Available specifically for witness summonses (not accused-person summonses generally).",
+          "Operates 'in addition to and simultaneously with' the ordinary summons — a parallel, not exclusive, channel.",
+          "Deemed service arises from: a signed acknowledgement, a postal refusal endorsement, or proved electronic delivery under Section 70(3).",
+          "Closes Part A of Chapter VI (Summons); Part B (Warrant of Arrest) follows from Section 72."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Useful where a witness is evading personal service — the parallel electronic/registered-post channel under this section, once acknowledgement or proved delivery is shown, lets the Court proceed without waiting indefinitely for personal service."
+      }
+    },
+    {
+      "number": "72",
+      "title": "Form of warrant of arrest and duration",
+      "raw_text": "(1) Every warrant of arrest issued by a Court under this Sanhita shall be in writing, signed by the presiding officer of such Court and shall bear the seal of the Court.\n(2) Every such warrant shall remain in force until it is cancelled by the Court which issued it, or until it is executed.",
+      "key_terms": [
+        "warrant of arrest",
+        "seal of the Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Opens Part B (Warrant of Arrest). A warrant must be written, signed by the presiding officer, and sealed. Unlike a summons that may lapse, a warrant is open-ended in duration — it stays valid indefinitely until the issuing Court cancels it or it is actually executed, whichever comes first.",
+        "essential_elements": [
+          "Formal requirements: writing, signature of the presiding officer, Court seal.",
+          "Duration: continuously in force, with no expiry date, until cancellation by the issuing Court or execution."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Because a warrant doesn't expire on its own, an old, unexecuted warrant can resurface years later — always check the case record for whether it was ever formally cancelled before assuming it has lapsed."
+      }
+    },
+    {
+      "number": "73",
+      "title": "Power to direct security to be taken",
+      "raw_text": "(1) Any Court issuing a warrant for the arrest of any person may in its discretion direct by endorsement on the warrant that, if such person executes a bail bond with sufficient sureties for his attendance before the Court at a specified time and thereafter until otherwise directed by the Court, the officer to whom the warrant is directed shall take such security and shall release such person from custody.\n(2) The endorsement shall state—\n(a) the number of sureties;\n(b) the amount in which they and the person for whose arrest the warrant is issued, are to be respectively bound;\n(c) the time at which he is to attend before the Court.\n(3) Whenever security is taken under this section, the officer to whom the warrant is directed shall forward the bond to the Court.",
+      "key_terms": [
+        "endorsement",
+        "bail bond",
+        "sureties"
+      ],
+      "breakdown": {
+        "plain_summary": "Lets a Court build a release-on-bail mechanism directly into the warrant itself: an endorsement on the warrant can direct the executing officer to release the arrested person immediately upon their furnishing a bail bond with sufficient sureties, without needing to wait for a separate Court appearance. The endorsement must specify the number of sureties, the bound amount, and the attendance time.",
+        "essential_elements": [
+          "This is discretionary ('may'), not mandatory, on the issuing Court.",
+          "The endorsement must specify: number of sureties, the amount each (and the arrested person) is bound in, and the attendance time.",
+          "The executing officer, upon receiving the bond, must forward it to the Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A 'bailable warrant' endorsement under this section is a practical tool to avoid unnecessary custody for persons the Court is willing to release on conditions — check any arrest warrant for such an endorsement before assuming custody is mandatory pending Court appearance."
+      }
+    },
+    {
+      "number": "74",
+      "title": "Warrants to whom directed",
+      "raw_text": "(1) A warrant of arrest shall ordinarily be directed to one or more police officers; but the Court issuing such a warrant may, if its immediate execution is necessary and no police officer is immediately available, direct it to any other person or persons, and such person or persons shall execute the same.\n(2) When a warrant is directed to more officers or persons than one, it may be executed by all, or by any one or more of them.",
+      "key_terms": [
+        "directed"
+      ],
+      "breakdown": {
+        "plain_summary": "The default executor of a warrant is a police officer, but the Court has a fallback power to direct it to any other person if urgent execution is needed and no police officer is immediately available. Where multiple officers/persons are named, any one or more of them (not necessarily all) can carry out the execution.",
+        "essential_elements": [
+          "Default: directed to one or more police officers.",
+          "Fallback to non-police persons requires both urgency (immediate execution necessary) and unavailability of a police officer.",
+          "Multiple addressees may execute jointly or individually — execution by any one or more suffices."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The non-police fallback is genuinely exceptional — challenge any warrant executed by a private person where the urgency/unavailability preconditions are not documented."
+      }
+    },
+    {
+      "number": "75",
+      "title": "Warrant may be directed to any person",
+      "raw_text": "(1) The Chief Judicial Magistrate or a Magistrate of the first class may direct a warrant to any person within his local jurisdiction for the arrest of any escaped convict, proclaimed offender or of any person who is accused of a non-bailable offence and is evading arrest.\n(2) Such person shall acknowledge in writing the receipt of the warrant, and shall execute it if the person for whose arrest it was issued, is in, or enters on, any land or other property under his charge.\n(3) When the person against whom such warrant is issued is arrested, he shall be made over with the warrant to the nearest police officer, who shall cause him to be taken before a Magistrate having jurisdiction in the case, unless security is taken under section 73.",
+      "key_terms": [
+        "escaped convict",
+        "proclaimed offender",
+        "evading arrest"
+      ],
+      "breakdown": {
+        "plain_summary": "A narrower, higher-threshold version of the private-person warrant power: only a Chief Judicial Magistrate or first-class Magistrate can invoke it, and only for specific hard categories of person — escaped convicts, proclaimed offenders, or non-bailable-offence accused persons who are evading arrest. The directed person must acknowledge the warrant in writing and executes it only if the target is on land/property under their charge, then hands the arrested person over with the warrant to the nearest police officer.",
+        "essential_elements": [
+          "Issuing authority limited to CJM or first-class Magistrate, acting within their local jurisdiction.",
+          "Target categories are specific: escaped convicts, proclaimed offenders, or evading non-bailable-offence accused.",
+          "The directed person must acknowledge receipt of the warrant in writing.",
+          "Execution power is triggered only when the target is on, or enters, land/property under the directed person's charge.",
+          "After arrest, the person must be made over with the warrant to the nearest police officer for production before a jurisdictional Magistrate (unless Section 73 security is taken)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a targeted tool for landholders/persons-in-charge of property against whom an escapee or proclaimed offender may take refuge — distinct from the general Section 74 fallback, and correspondingly narrower in scope."
+      }
+    },
+    {
+      "number": "76",
+      "title": "Warrant directed to police officer",
+      "raw_text": "A warrant directed to any police officer may also be executed by any other police officer whose name is endorsed upon the warrant by the officer to whom it is directed or endorsed.",
+      "key_terms": [
+        "endorsed"
+      ],
+      "breakdown": {
+        "plain_summary": "Allows onward delegation within the police: an officer who receives a warrant can pass execution authority to another named officer simply by endorsing that officer's name onto the warrant — no fresh Court order is needed for this internal transfer.",
+        "essential_elements": [
+          "Delegation chain: original addressee officer endorses another officer's name; that new officer may then execute.",
+          "The endorsement chain can continue — 'the officer to whom it is directed or endorsed' can itself further endorse."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Check the endorsement chain on the physical/digital warrant when an arrest is executed by an officer other than the one originally named — a missing or improper endorsement is a technical defect worth raising."
+      }
+    },
+    {
+      "number": "77",
+      "title": "Notification of substance of warrant",
+      "raw_text": "The police officer or other person executing a warrant of arrest shall notify the substance thereof to the person to be arrested, and, if so required, shall show him the warrant.",
+      "key_terms": [
+        "substance of warrant"
+      ],
+      "breakdown": {
+        "plain_summary": "Mirrors the disclosure duty for summons-delegation (Section 55) but for warrants generally: the executing officer must tell the person the substance of the warrant, and show the actual warrant document if the person asks.",
+        "essential_elements": [
+          "Disclosure of the substance of the warrant is mandatory in every execution.",
+          "Showing the physical/digital warrant itself is required only if the arrested person asks for it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A failure to notify the substance of the warrant, especially where the person specifically demanded to see it and was refused, is a clean procedural irregularity to raise on the legality of the arrest."
+      }
+    },
+    {
+      "number": "78",
+      "title": "Person arrested to be brought before Court without delay",
+      "raw_text": "The police officer or other person executing a warrant of arrest shall (subject to the provisions of section 73 as to security) without unnecessary delay bring the person arrested before the Court before which he is required by law to produce such person:\nProvided that such delay shall not, in any case, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.",
+      "key_terms": [
+        "without unnecessary delay"
+      ],
+      "breakdown": {
+        "plain_summary": "The warrant-arrest counterpart to Sections 57-58's production and 24-hour rules for warrantless arrests: production before the Court must happen without unnecessary delay, and in any event within 24 hours (excluding travel time) — unless the person was released on Section 73 security instead.",
+        "essential_elements": [
+          "Applies to arrests made under a warrant.",
+          "Subject to Section 73 — if security/bail bond was taken and the person released, this production duty doesn't require custodial production.",
+          "Outer limit: 24 hours, exclusive of journey time, mirroring Section 58's warrantless-arrest rule."
+        ],
+        "exceptions_and_qualifications": [
+          "The 24-hour clock is displaced entirely where Section 73 security has already resulted in release."
+        ],
+        "how_to_read": "This confirms the 24-hour production discipline applies uniformly whether the arrest is with or without a warrant (Sections 58 and 78 read together) — a useful symmetry to cite when challenging any prolonged pre-production custody regardless of arrest type."
+      }
+    },
+    {
+      "number": "79",
+      "title": "Where warrant may be executed",
+      "raw_text": "A warrant of arrest may be executed at any place in India.",
+      "key_terms": [
+        "executed"
+      ],
+      "breakdown": {
+        "plain_summary": "A short but important jurisdictional rule: a warrant is not confined to the issuing Court's own territory — it can be executed anywhere in India, subject to the endorsement/forwarding mechanics of Sections 80-81 for out-of-jurisdiction execution.",
+        "essential_elements": [
+          "No territorial limit on where a warrant may be executed within India."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Pair with Sections 80 and 81, which set out the specific mechanics (forwarding, endorsement) for actually executing a warrant outside the issuing Court's jurisdiction."
+      }
+    },
+    {
+      "number": "80",
+      "title": "Warrant forwarded for execution outside jurisdiction",
+      "raw_text": "(1) When a warrant is to be executed outside the local jurisdiction of the Court issuing it, such Court may, instead of directing the warrant to a police officer within its jurisdiction, forward it by post or otherwise to any Executive Magistrate or District Superintendent of Police or Commissioner of Police within the local limits of whose jurisdiction it is to be executed; and the Executive Magistrate or District Superintendent or Commissioner shall endorse his name thereon, and if practicable, cause it to be executed in the manner hereinbefore provided.\n(2) The Court issuing a warrant under sub-section (1) shall forward, along with the warrant, the substance of the information against the person to be arrested together with such documents, if any, as may be sufficient to enable the Court acting under section 83 to decide whether bail should or should not be granted to the person.",
+      "key_terms": [
+        "Executive Magistrate",
+        "District Superintendent of Police",
+        "Commissioner of Police"
+      ],
+      "breakdown": {
+        "plain_summary": "One method of cross-jurisdiction execution: the issuing Court forwards the warrant to an Executive Magistrate, District Superintendent of Police, or Commissioner of Police in the execution district, who endorses it and arranges execution. Crucially, the issuing Court must also forward the case information and supporting documents so that the Section 83 Magistrate at the other end can make an informed bail decision.",
+        "essential_elements": [
+          "Applies when execution must happen outside the issuing Court's local jurisdiction.",
+          "Forwarding target: Executive Magistrate, District Superintendent of Police, or Commissioner of Police of the execution district.",
+          "The receiving officer endorses the warrant and, if practicable, arranges execution.",
+          "The issuing Court MUST forward case information/documents sufficient for a bail decision under Section 83 — a mandatory information-sharing duty."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If bail is refused or delayed at the Section 83 stage because the receiving officer lacked adequate information, check whether the issuing Court actually complied with its sub-section (2) documentation duty — a lapse here can be a basis to expedite or reconsider bail."
+      }
+    },
+    {
+      "number": "81",
+      "title": "Warrant directed to police officer for execution outside jurisdiction",
+      "raw_text": "(1) When a warrant directed to a police officer is to be executed beyond the local jurisdiction of the Court issuing the same, he shall ordinarily take it for endorsement either to an Executive Magistrate or to a police officer not below the rank of an officer in charge of a police station, within the local limits of whose jurisdiction the warrant is to be executed.\n(2) Such Magistrate or police officer shall endorse his name thereon and such endorsement shall be sufficient authority to the police officer to whom the warrant is directed to execute the same, and the local police shall, if so required, assist such officer in executing such warrant.\n(3) Whenever there is reason to believe that the delay occasioned by obtaining the endorsement of the Magistrate or police officer within whose local jurisdiction the warrant is to be executed will prevent such execution, the police officer to whom it is directed may execute the same without such endorsement in any place beyond the local jurisdiction of the Court which issued it.",
+      "key_terms": [
+        "endorsement"
+      ],
+      "breakdown": {
+        "plain_summary": "A second, officer-carried method of cross-jurisdiction execution (as opposed to Section 80's Court-forwarded method): the police officer holding the warrant personally takes it to the local Executive Magistrate or a station-house-officer-or-above ranked police officer for endorsement, which then authorises execution with local police assistance. An urgency exception lets the officer skip the endorsement entirely if waiting for it would defeat execution.",
+        "essential_elements": [
+          "Applies specifically where the warrant is directed to a police officer who must execute it outside the issuing Court's jurisdiction.",
+          "Endorsement is sought from either an Executive Magistrate or a police officer of officer-in-charge rank or above, local to the execution area.",
+          "The endorsement authorises execution and entitles the officer to local police assistance if needed.",
+          "Urgency exception: if the endorsement delay would defeat execution, the officer may execute without it anywhere beyond the issuing Court's jurisdiction."
+        ],
+        "exceptions_and_qualifications": [
+          "The urgency exception in sub-section (3) is a genuine departure from the normal endorsement requirement, not merely a convenience option."
+        ],
+        "how_to_read": "Where a warrant is executed without endorsement under the urgency exception, the 'reason to believe' delay-would-defeat-execution standard should be scrutinised — it is the sole legal basis for bypassing the ordinarily mandatory endorsement step."
+      }
+    },
+    {
+      "number": "82",
+      "title": "Procedure on arrest of person against whom warrant issued",
+      "raw_text": "(1) When a warrant of arrest is executed outside the district in which it was issued, the person arrested shall, unless the Court which issued the warrant is within thirty kilometres of the place of arrest or is nearer than the Executive Magistrate or District Superintendent of Police or Commissioner of Police within the local limits of whose jurisdiction the arrest was made, or unless security is taken under section 73, be taken before such Magistrate or District Superintendent or Commissioner.\n(2) On the arrest of any person referred to in sub-section (1), the police officer shall forthwith give the information regarding such arrest and the place where the arrested person is being held to the designated police officer in the district and to such officer of another district where the arrested person normally resides.",
+      "key_terms": [
+        "thirty kilometres",
+        "designated police officer"
+      ],
+      "breakdown": {
+        "plain_summary": "Governs what happens right after an out-of-district warrant arrest: ordinarily the person is taken before the local Executive Magistrate/DSP/Commissioner rather than all the way back to the issuing Court — unless the issuing Court is actually closer (within 30 km or nearer than the local officer), or Section 73 security has already been taken. The arrest must also be immediately reported to the designated police officer both in the arrest district and in the person's home district.",
+        "essential_elements": [
+          "Default: production before the local Executive Magistrate/DSP/Commissioner of the arrest district.",
+          "Exception 1: issuing Court is within 30 km of the arrest place, or nearer than the local officer — then production may go directly to the issuing Court instead.",
+          "Exception 2: Section 73 security already taken — no custodial production required.",
+          "Mandatory dual notification: designated police officer of the arrest district AND of the arrested person's normal-residence district."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The dual-district notification duty under sub-section (2) is a genuinely new BNSS safeguard (linked to Section 37's designated-officer/control-room scheme) aimed at making arrest information traceable to family/counsel even when the arrest happens far from home — check both notifications were made where custody location is disputed."
+      }
+    },
+    {
+      "number": "83",
+      "title": "Procedure by Magistrate before whom such person arrested is brought",
+      "raw_text": "(1) The Executive Magistrate or District Superintendent of Police or Commissioner of Police shall, if the person arrested appears to be the person intended by the Court which issued the warrant, direct his removal in custody to such Court:\nProvided that, if the offence is bailable, and such person is ready and willing to give bail bond to the satisfaction of such Magistrate, District Superintendent or Commissioner, or a direction has been endorsed under section 73 on the warrant and such person is ready and willing to give the security required by such direction, the Magistrate, District Superintendent or Commissioner shall take such bail bond or security, as the case may be, and forward the bond, to the Court which issued the warrant:\nProvided further that if the offence is a non-bailable one, it shall be lawful for the Chief Judicial Magistrate (subject to the provisions of section 480), or the Sessions Judge, of the district in which the arrest is made on consideration of the information and the documents referred to in sub-section (2) of section 80, to release such person on bail.\n(2) Nothing in this section shall be deemed to prevent a police officer from taking security under section 73.",
+      "key_terms": [
+        "removal in custody",
+        "bail"
+      ],
+      "breakdown": {
+        "plain_summary": "Closes Part B (Warrant of Arrest). The receiving Magistrate/DSP/Commissioner must first confirm identity, then ordinarily order custodial removal to the issuing Court — but two provisos create local bail routes instead: if the offence is bailable and the person is willing to furnish bail (or a Section 73 endorsement already covers it), bail is taken locally and the bond forwarded to the issuing Court; and even for a non-bailable offence, the local Chief Judicial Magistrate or Sessions Judge may grant bail based on the information/documents the issuing Court forwarded under Section 80(2).",
+        "essential_elements": [
+          "Identity confirmation ('appears to be the person intended by the Court') is the threshold step.",
+          "Default outcome: custodial removal to the issuing Court.",
+          "First proviso: bailable offence + willingness to furnish bail (or existing Section 73 direction) → local bail bond taken and forwarded, no custodial removal needed.",
+          "Second proviso: even non-bailable offences allow local bail by the CJM (subject to Section 480) or Sessions Judge, based on the Section 80(2) forwarded documents.",
+          "Sub-section (2) preserves the independent Section 73 security-taking power for police officers."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The second proviso's local-bail-even-for-non-bailable-offences route is a significant practical relief mechanism for persons arrested far from the issuing Court — always check whether the issuing Court actually forwarded adequate Section 80(2) documentation, since the local Magistrate's bail decision depends entirely on that information reaching them."
       }
     }
   ]
