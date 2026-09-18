@@ -29,7 +29,9 @@
     "dying declaration": "A statement by a person as to the cause of their death, or as to circumstances of the transaction resulting in their death, made relevant under section 26(a) in any proceeding where the cause of that person's death is in question -- whether or not the person was, at the time, under an expectation of death.",
     "books of account": "Regularly kept business records (including in electronic form) that are relevant under section 28 whenever they bear on a matter the Court must inquire into -- but, standing alone, they are never sufficient by themselves to fix a person with liability; independent corroborating evidence is always required.",
     "cognizance": "The formal act by which a Court takes judicial notice of an offence or a case in order to proceed with it. Section 34 makes the existence of a judgment, order, or decree that legally bars a Court from taking cognizance of a suit, or holding a trial, a relevant fact whenever the question is whether that Court ought to take cognizance or hold the trial.",
-    "legal character": "A person's legal status or standing -- such as being an heir, executor, spouse, or insolvent -- as opposed to their rights over a specific thing. Section 35 makes certain final judgments in probate, matrimonial, admiralty, or insolvency jurisdiction conclusive proof of when a legal character accrued, was declared, or ceased."
+    "legal character": "A person's legal status or standing -- such as being an heir, executor, spouse, or insolvent -- as opposed to their rights over a specific thing. Section 35 makes certain final judgments in probate, matrimonial, admiralty, or insolvency jurisdiction conclusive proof of when a legal character accrued, was declared, or ceased.",
+    "expert": "A person specially skilled in foreign law, science, art, or any other field, or in questions of handwriting or finger-impression identity, whose opinion on a point within that field is relevant under section 39. The Examiner of Electronic Evidence under the Information Technology Act, 2000 is deemed an expert for opinions on electronic/digital information.",
+    "character": "Under sections 46, 47, 49 and 50, 'character' includes both reputation (what others think of a person) and disposition (a person's actual nature). Except where section 49 permits otherwise, only evidence of general reputation and general disposition may be given -- not evidence of particular acts said to show that reputation or disposition."
   },
   "sections": [
     {
@@ -877,6 +879,255 @@
           "This is the safety valve against sections 34-36's otherwise strong evidentiary effect (including section 35's conclusive proof) -- competence and fraud/collusion attacks are always open, no matter how conclusive the judgment would otherwise be."
         ],
         "how_to_read": "Always keep this section in reserve when facing an adverse judgment relied on under sections 34-36 -- even section 35's 'conclusive proof' status yields to a successful showing of incompetent Court or fraud/collusion in obtaining it."
+      }
+    },
+    {
+      "number": "39",
+      "title": "Opinions of experts",
+      "raw_text": "39. (1) When the Court has to form an opinion upon a point of foreign law or of science or art, or any other field, or as to identity of handwriting or finger impressions, the opinions upon that point of persons specially skilled in such foreign law, science or art, or any other field, or in questions as to identity of handwriting or finger impressions are relevant facts and such persons are called experts.\nIllustrations.\n(a) The question is, whether the death of A was caused by poison. The opinions of experts as to the symptoms produced by the poison by which A is supposed to have died, are relevant.\n(b) The question is, whether A, at the time of doing a certain act, was, by reason of unsoundness of mind, incapable of knowing the nature of the act, or that he was doing what was either wrong or contrary to law. The opinions of experts upon the question whether the symptoms exhibited by A commonly show unsoundness of mind, and whether such unsoundness of mind usually renders persons incapable of knowing the nature of the acts which they do, or of knowing that what they do is either wrong or contrary to law, are relevant.\n(c) The question is, whether a certain document was written by A. Another document is produced which is proved or admitted to have been written by A. The opinions of experts on the question whether the two documents were written by the same person or by different persons, are relevant.\n(2) When in a proceeding, the court has to form an opinion on any matter relating to any information transmitted or stored in any computer resource or any other electronic or digital form, the opinion of the Examiner of Electronic Evidence referred to in section 79A of the Information Technology Act, 2000, is a relevant fact.\nExplanation.—For the purposes of this sub-section, an Examiner of Electronic Evidence shall be an expert.",
+      "key_terms": [
+        "expert",
+        "unsoundness of mind",
+        "Examiner of Electronic Evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "This section opens the opinion-evidence chapter. Ordinarily a witness may only testify to facts, not opinions -- but when the Court must decide a point of foreign law, science, art, or any other specialised field, or the identity of handwriting or finger impressions, the opinions of specially skilled persons (experts) on that point become relevant. Subsection (2) extends 'expert' status specifically to the statutory Examiner of Electronic Evidence for opinions on computer/electronic/digital information.",
+        "essential_elements": [
+          "The Court must be forming an opinion on a point of foreign law, science, art, or any other field, or on identity of handwriting or finger impressions.",
+          "The opinion must be that of a person specially skilled in the relevant subject -- an expert.",
+          "Subsection (2): for electronic/digital information matters, the Examiner of Electronic Evidence under the IT Act, 2000 is deemed an expert."
+        ],
+        "exceptions_and_qualifications": [
+          "This section is the statutory exception to the general rule against opinion evidence -- it does not make every opinion relevant, only expert opinion within the listed specialised categories."
+        ],
+        "how_to_read": "This is the gateway provision for the entire expert-witness practice -- forensic, medical, handwriting, and digital-forensic testimony all trace their relevance back to this section; always confirm the witness's special skill matches the specific field in question."
+      }
+    },
+    {
+      "number": "40",
+      "title": "Facts bearing upon opinions of experts",
+      "raw_text": "40. Facts, not otherwise relevant, are relevant if they support or are inconsistent with the opinions of experts, when such opinions are relevant.\nIllustrations.\n(a) The question is, whether A was poisoned by a certain poison. The fact that other persons, who were poisoned by that poison, exhibited certain symptoms which experts affirm or deny to be the symptoms of that poison, is relevant.\n(b) The question is, whether an obstruction to a harbour is caused by a certain sea-wall. The fact that other harbours similarly situated in other respects, but where there were no such sea-walls, began to be obstructed at about the same time, is relevant.",
+      "key_terms": [
+        "expert opinion",
+        "inconsistent"
+      ],
+      "breakdown": {
+        "plain_summary": "Facts that would otherwise have no independent relevance become relevant if they either support or contradict an expert opinion that is itself relevant under section 39 -- letting parties test or corroborate expert testimony with comparative real-world data.",
+        "essential_elements": [
+          "The fact in question must not otherwise be relevant on its own.",
+          "It becomes relevant because it either supports or is inconsistent with a relevant expert opinion."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a companion, evidence-testing provision to section 39 -- it only operates where an expert opinion is already relevant; it does not independently create relevance for comparative facts in the absence of expert opinion evidence."
+        ],
+        "how_to_read": "Use this section to bring in comparative or corroborative data points (e.g. how other similarly-poisoned persons reacted, or how comparable harbours behaved) to strengthen or challenge an expert's opinion already before the Court."
+      }
+    },
+    {
+      "number": "41",
+      "title": "Opinion as to handwriting and signature, when relevant",
+      "raw_text": "41. (1) When the Court has to form an opinion as to the person by whom any document was written or signed, the opinion of any person acquainted with the handwriting of the person by whom it is supposed to be written or signed that it was or was not written or signed by that person, is a relevant fact.\nExplanation.—A person is said to be acquainted with the handwriting of another person when he has seen that person write, or when he has received documents purporting to be written by that person in answer to documents written by himself or under his authority and addressed to that person, or when, in the ordinary course of business, documents purporting to be written by that person have been habitually submitted to him.\nIllustration.\nThe question is, whether a given letter is in the handwriting of A, a merchant in Itanagar. B is a merchant in Bengaluru, who has written letters addressed to A and received letters purporting to be written by him. C, is B's clerk whose duty it was to examine and file B's correspondence. D is B's broker, to whom B habitually submitted the letters purporting to be written by A for the purpose of advising him thereon. The opinions of B, C and D on the question whether the letter is in the handwriting of A are relevant, though neither B, C nor D ever saw A write.\n(2) When the Court has to form an opinion as to the electronic signature of any person, the opinion of the Certifying Authority which has issued the Electronic Signature Certificate is a relevant fact.",
+      "key_terms": [
+        "acquainted with the handwriting",
+        "Certifying Authority",
+        "electronic signature"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a specific, lay-witness route to identifying a document's author -- someone who is 'acquainted' with a person's handwriting (in any of three ways defined by the Explanation) can give a relevant opinion on whether they wrote or signed a document, without needing to be a handwriting expert. Subsection (2) is the digital equivalent: for electronic signatures, the Certifying Authority that issued the Electronic Signature Certificate gives the relevant opinion.",
+        "essential_elements": [
+          "The Court must be forming an opinion on who wrote or signed a document.",
+          "The opinion-giver must be 'acquainted with the handwriting' as defined by the Explanation -- having seen the person write, having corresponded with them, or having habitually received their documents in the ordinary course of business.",
+          "For electronic signatures, the relevant opinion is that of the Certifying Authority that issued the Electronic Signature Certificate."
+        ],
+        "exceptions_and_qualifications": [
+          "This is distinct from section 39's expert-opinion route -- the illustration shows that none of B, C, or D ever saw A write, yet their opinions are still relevant because they satisfy one of the Explanation's three alternative bases for 'acquaintance'."
+        ],
+        "how_to_read": "This is the everyday route to proving authorship of a letter or signature without engaging a forensic handwriting expert -- test any proposed witness against the Explanation's three routes to 'acquaintance' before relying on their opinion."
+      }
+    },
+    {
+      "number": "42",
+      "title": "Opinion as to existence of general custom or right, when relevant",
+      "raw_text": "42. When the Court has to form an opinion as to the existence of any general custom or right, the opinions, as to the existence of such custom or right, of persons who would be likely to know of its existence if it existed, are relevant.\nExplanation.—The expression “general custom or right” includes customs or rights common to any considerable class of persons.\nIllustration.\nThe right of the villagers of a particular village to use the water of a particular well is a general right within the meaning of this section.",
+      "key_terms": [
+        "general custom or right"
+      ],
+      "breakdown": {
+        "plain_summary": "When a custom or right shared by a considerable class of persons is in question, the opinions of people who would likely know about it if it existed are relevant -- a practical route to proving customs that are, by nature, rarely documented formally.",
+        "essential_elements": [
+          "The Court must be forming an opinion on the existence of a general custom or right.",
+          "The opinion-giver must be someone who would likely know of the custom or right's existence, if it existed.",
+          "Explanation: 'general custom or right' covers customs or rights common to any considerable class of persons."
+        ],
+        "exceptions_and_qualifications": [
+          "Relevance turns on the witness's likely proximity to knowledge of the custom, not on any formal qualification -- unlike the expert-opinion route under section 39."
+        ],
+        "how_to_read": "Commonly invoked in village/community rights disputes (grazing rights, water rights, rights of way) where no documentary record exists -- the witness's community positioning, not credentials, is what establishes relevance here."
+      }
+    },
+    {
+      "number": "43",
+      "title": "Opinion as to usages, tenets, etc., when relevant",
+      "raw_text": "43. When the Court has to form an opinion as to—\n(i) the usages and tenets of any body of men or family;\n(ii) the constitution and governance of any religious or charitable foundation; or\n(iii) the meaning of words or terms used in particular districts or by particular classes of people,\nthe opinions of persons having special means of knowledge thereon, are relevant facts.",
+      "key_terms": [
+        "usages and tenets",
+        "special means of knowledge"
+      ],
+      "breakdown": {
+        "plain_summary": "Extends the opinion-evidence principle to three further specialised categories: the customs/beliefs of a group or family, the internal governance of a religious or charitable institution, and local or class-specific meanings of words or terms -- in each case, the opinion of someone with special means of knowledge on the point is relevant.",
+        "essential_elements": [
+          "The opinion must concern one of three listed categories: (i) usages/tenets of a body of men or family, (ii) constitution/governance of a religious or charitable foundation, or (iii) local/class-specific meaning of words or terms.",
+          "The opinion-giver must have special means of knowledge on that specific point."
+        ],
+        "exceptions_and_qualifications": [
+          "This section is narrower than section 39's general expert-opinion rule -- it applies only to the three specifically enumerated categories, each requiring the more modest threshold of 'special means of knowledge' rather than formal expert skill."
+        ],
+        "how_to_read": "Useful in disputes over religious trust administration, community customary practice, or regional/dialectal word meanings -- confirm the witness's special means of knowledge is tied to the specific category invoked."
+      }
+    },
+    {
+      "number": "44",
+      "title": "Opinion on relationship, when relevant",
+      "raw_text": "44. When the Court has to form an opinion as to the relationship of one person to another, the opinion, expressed by conduct, as to the existence of such relationship, of any person who, as a member of the family or otherwise, has special means of knowledge on the subject, is a relevant fact:\nProvided that such opinion shall not be sufficient to prove a marriage in proceedings under the Divorce Act, 1869, or in prosecution under sections 82 and 84 of the Bharatiya Nyaya Sanhita, 2023.\nIllustrations.\n(a) The question is, whether A and B were married. The fact that they were usually received and treated by their friends as husband and wife, is relevant.\n(b) The question is, whether A was the legitimate son of B. The fact that A was always treated as such by members of the family, is relevant.",
+      "key_terms": [
+        "opinion expressed by conduct",
+        "legitimate son"
+      ],
+      "breakdown": {
+        "plain_summary": "When a family relationship (marriage, parentage, etc.) is in question, the conduct-expressed opinion of someone with special means of knowledge -- typically a family member -- is relevant, as shown by the illustrations' 'usually treated as' pattern. But the proviso caps this: such opinion evidence alone cannot suffice to prove a marriage in Divorce Act proceedings, or in prosecutions under BNS sections 82 (bigamy-type offence) and 84 (marriage by deception/without lawful marriage).",
+        "essential_elements": [
+          "The Court must be forming an opinion on the relationship of one person to another.",
+          "The relevant opinion is one expressed through conduct, by a person with special means of knowledge (typically a family member).",
+          "Proviso: such opinion evidence is not, by itself, sufficient to prove a marriage in Divorce Act proceedings or in BNS sections 82/84 prosecutions -- stricter proof is required there."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso is a deliberate heightened-proof carve-out for marriage-specific proceedings -- conduct-based 'reputation of marriage' evidence that would suffice for an ordinary civil relationship question is not enough on its own in those specific contexts."
+        ],
+        "how_to_read": "Distinguish general relationship questions (where conduct-based family opinion suffices) from marriage validity in Divorce Act or BNS 82/84 proceedings (where this section's proviso demands more than reputation-style evidence)."
+      }
+    },
+    {
+      "number": "45",
+      "title": "Grounds of opinion, when relevant",
+      "raw_text": "45. Whenever the opinion of any living person is relevant, the grounds on which such opinion is based are also relevant.\nIllustration.\nAn expert may give an account of experiments performed by him for the purpose of forming his opinion.",
+      "key_terms": [
+        "grounds of opinion"
+      ],
+      "breakdown": {
+        "plain_summary": "Wherever a living person's opinion is relevant under any of the preceding opinion-evidence sections, the reasoning and basis behind that opinion is also relevant -- letting the Court and opposing parties test not just the conclusion but the methodology behind it.",
+        "essential_elements": [
+          "The opinion in question must be that of a living person and must itself be relevant (under sections 39 to 44).",
+          "The grounds on which that opinion is based are then also relevant."
+        ],
+        "exceptions_and_qualifications": [
+          "This is the evidentiary hook for cross-examining experts and opinion witnesses on their methodology -- without it, only the bare conclusion, not its foundation, would be fair game."
+        ],
+        "how_to_read": "Always pair any admitted opinion evidence with an inquiry into its grounds under this section -- it is the primary route to testing an expert's methodology, data, or reasoning in cross-examination."
+      }
+    },
+    {
+      "number": "46",
+      "title": "In civil cases character to prove conduct imputed, irrelevant",
+      "raw_text": "46. In civil cases the fact that the character of any person concerned is such as to render probable or improbable any conduct imputed to him, is irrelevant, except in so far as such character appears from facts otherwise relevant.",
+      "key_terms": [
+        "character",
+        "conduct imputed"
+      ],
+      "breakdown": {
+        "plain_summary": "In civil litigation, a person's character cannot be used to argue that conduct imputed to them is more or less probable -- character evidence for this purpose is barred, unless the character happens to emerge from facts that are independently relevant on some other ground.",
+        "essential_elements": [
+          "Applies in civil cases.",
+          "General rule: a person's character, offered to show that imputed conduct is probable or improbable, is irrelevant.",
+          "Exception: relevant only insofar as the character appears from facts that are otherwise relevant anyway."
+        ],
+        "exceptions_and_qualifications": [
+          "Contrast sharply with section 47 (criminal cases): civil cases exclude character evidence of this kind almost entirely, while criminal cases specifically admit good character for the accused."
+        ],
+        "how_to_read": "Do not attempt to introduce a civil litigant's general character or reputation to argue they probably did or didn't do the imputed act -- it is barred unless it rides in through independently relevant facts."
+      }
+    },
+    {
+      "number": "47",
+      "title": "In criminal cases previous good character relevant",
+      "raw_text": "47. In criminal proceedings the fact that the person accused is of a good character, is relevant.",
+      "key_terms": [
+        "good character"
+      ],
+      "breakdown": {
+        "plain_summary": "Unlike the civil-case bar in section 46, an accused person's good character is affirmatively relevant in criminal proceedings -- a long-standing protection allowing the defence to put the accused's reputation before the Court.",
+        "essential_elements": [
+          "Applies in criminal proceedings.",
+          "The fact that the accused is of good character is relevant."
+        ],
+        "exceptions_and_qualifications": [
+          "This relevance is one-directional at the defence's initiative -- section 49 governs when the prosecution may respond with bad-character evidence once good character has been put in issue."
+        ],
+        "how_to_read": "A standard defence tool -- but be aware that invoking it under section 47 opens the door to the prosecution's rebuttal under section 49's 'except in reply' clause."
+      }
+    },
+    {
+      "number": "48",
+      "title": "Evidence of character or previous sexual experience not relevant in certain cases",
+      "raw_text": "48. In a prosecution for an offence under section 64, section 65, section 66, section 67, section 68, section 69, section 70, section 71, section 74, section 75, section 76, section 77 or section 78 of the Bharatiya Nyaya Sanhita, 2023 or for attempt to commit any such offence, where the question of consent is in issue, evidence of the character of the victim or of such person's previous sexual experience with any person shall not be relevant on the issue of such consent or the quality of consent.",
+      "key_terms": [
+        "consent",
+        "previous sexual experience"
+      ],
+      "breakdown": {
+        "plain_summary": "In prosecutions for the listed sexual-offence provisions of the Bharatiya Nyaya Sanhita (and attempts to commit them) where consent is in issue, the victim's character or their previous sexual history with anyone is barred from being used as evidence on the question of consent or its quality -- a victim-protective exclusion rule.",
+        "essential_elements": [
+          "Must be a prosecution under one of the specifically listed BNS sections (64-71, 74-78), or an attempt to commit such an offence.",
+          "The question of consent must be in issue.",
+          "Evidence of the victim's character, or of their previous sexual experience with any person, is not relevant on the question of consent or its quality."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a categorical exclusion, not merely a weight-limiting rule -- such evidence is inadmissible outright on the consent question, regardless of how probative a party might argue it to be."
+        ],
+        "how_to_read": "A critical protective provision in sexual-offence trials -- character and sexual-history evidence of the complainant cannot be used to argue consent, closing off a line of cross-examination that was historically misused to attack victim credibility."
+      }
+    },
+    {
+      "number": "49",
+      "title": "Previous bad character not relevant, except in reply",
+      "raw_text": "49. In criminal proceedings, the fact that the accused has a bad character, is irrelevant, unless evidence has been given that he has a good character, in which case it becomes relevant.\nExplanation 1.—This section does not apply to cases in which the bad character of any person is itself a fact in issue.\nExplanation 2.—A previous conviction is relevant as evidence of bad character.",
+      "key_terms": [
+        "bad character",
+        "previous conviction"
+      ],
+      "breakdown": {
+        "plain_summary": "The accused's bad character is generally irrelevant in a criminal proceeding -- but the moment the defence puts good character in evidence under section 47, the door opens and bad character becomes relevant in reply. Explanation 1 clarifies this bar does not apply where bad character is itself a fact in issue. Explanation 2 confirms a previous conviction counts as evidence of bad character.",
+        "essential_elements": [
+          "Default rule: the accused's bad character is irrelevant in criminal proceedings.",
+          "Exception: once evidence of the accused's good character has been given, bad character becomes relevant in reply.",
+          "Explanation 1: the section does not apply where bad character is itself a fact in issue.",
+          "Explanation 2: a previous conviction is relevant as evidence of bad character."
+        ],
+        "exceptions_and_qualifications": [
+          "This is the direct counterpart to section 47 -- invoking good character is a calculated risk for the defence, since it is what triggers the prosecution's right to introduce bad-character evidence, including prior convictions under Explanation 2."
+        ],
+        "how_to_read": "Always advise that raising good character under section 47 is a door that swings both ways -- the prosecution's reply rights under this section, especially the prior-conviction route in Explanation 2, can outweigh the benefit of raising it."
+      }
+    },
+    {
+      "number": "50",
+      "title": "Character as affecting damages",
+      "raw_text": "50. In civil cases, the fact that the character of any person is such as to affect the amount of damages which he ought to receive, is relevant.\nExplanation.—In this section and sections 46, 47 and 49, the word “character” includes both reputation and disposition; but, except as provided in section 49, evidence may be given only of general reputation and general disposition, and not of particular acts by which reputation or disposition has been shown.",
+      "key_terms": [
+        "character",
+        "damages"
+      ],
+      "breakdown": {
+        "plain_summary": "In civil cases, a person's character is relevant if it bears on the quantum of damages they ought to receive. The Explanation is the unifying definitional provision for this entire character sub-topic: 'character' means both reputation and disposition, but -- except where section 49 permits otherwise (bad character in reply, including prior convictions) -- only general reputation and general disposition may be proved, never particular acts offered as illustrations of that reputation or disposition.",
+        "essential_elements": [
+          "Applies in civil cases.",
+          "A person's character, insofar as it affects the amount of damages they ought to receive, is relevant.",
+          "Explanation: 'character' covers both reputation and disposition across sections 46, 47, 49 and 50.",
+          "Explanation: only general reputation and general disposition may be proved -- not particular acts -- except as section 49 separately allows."
+        ],
+        "exceptions_and_qualifications": [
+          "The Explanation's particular-acts bar is the key practical limit across the entire character sub-topic -- even where character evidence is otherwise admissible, specific incident-by-incident proof is barred in favour of general reputation and disposition testimony only."
+        ],
+        "how_to_read": "Read this Explanation as the closing definitional anchor for sections 46-50 as a whole -- it is what stops character evidence, wherever admissible, from turning into a trial about specific past incidents rather than general reputation."
       }
     }
   ]
