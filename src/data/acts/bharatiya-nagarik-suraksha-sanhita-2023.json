@@ -10,7 +10,7 @@
     "non-bailable offence": "Any offence that is not a bailable offence.",
     "bail bond": "A written undertaking executed by an accused person (and, where required, sureties) to secure their release from custody, promising appearance before the court as directed.",
     "bond": "A written undertaking, with or without sureties, by which a person binds themselves to appear before a court or officer when required, or to perform some other stated obligation.",
-    "charge": "Includes any head of charge when the charge contains more than one head.",
+    "charge": "The formal, written accusation framed by a Court stating the specific offence (and the law/section under which it is punishable) that an accused must answer at trial — the document that fixes the boundaries of what the prosecution must prove and what the accused must defend against.",
     "cognizable offence": "An offence for which a police officer may arrest without a warrant and start an investigation without prior permission of a Magistrate — typically the more serious category of offence, as classified in the First Schedule to this Sanhita.",
     "cognizable case": "A case involving a cognizable offence.",
     "complaint": "An oral or written allegation to a Magistrate that a person has committed an offence, with a view to the Magistrate taking action, but not including a police report.",
@@ -175,7 +175,8 @@
     "petty offence": "An offence punishable only with a fine not exceeding five thousand rupees, excluding Motor Vehicles Act offences and other offences whose law already allows conviction in absentia on a guilty plea — eligible for the simplified special-summons procedure.",
     "process-fees": "Statutory fees payable for the issuance of court process (such as summons or warrants); non-payment within a reasonable time can lead to dismissal of the complaint.",
     "compounding (of offence)": "The legally permitted settlement of certain offences between the complainant/victim and the accused, which brings the criminal proceeding to an end without a full trial, available only for offences the Sanhita specifically designates as compoundable.",
-    "complaint case": "A criminal proceeding instituted otherwise than on a police report — that is, begun directly on a private or authorised complaint, or on the Magistrate's own information/knowledge — as distinguished from a police-report (chargesheet) case."
+    "complaint case": "A criminal proceeding instituted otherwise than on a police report — that is, begun directly on a private or authorised complaint, or on the Magistrate's own information/knowledge — as distinguished from a police-report (chargesheet) case.",
+    "illustration": "A short hypothetical example appended to a statutory provision to show how the rule applies in practice — illustrations are not independent law but aids to interpreting the section they accompany."
   },
   "sections": [
     {
@@ -5505,6 +5506,140 @@
           "The merger outcome specifically requires cognizance being taken against someone who is already an accused in the complaint case — a report implicating only unrelated persons does not trigger merger."
         ],
         "how_to_read": "Think of this as a procedural traffic-control mechanism: pause first to avoid parallel-track conflict, then either merge the two proceedings (if the police track catches up to implicate the same accused) or simply resume the original complaint case unchanged. This completes Chapter XVII; Chapter XVIII (The Charge) follows at Section 234."
+      }
+    },
+    {
+      "number": "234",
+      "title": "Contents of charge",
+      "raw_text": "234. Contents of charge.—(1) Every charge under this Sanhita shall state the offence with which the\n    accused is charged.\n        (2) If the law which creates the offence gives it any specific name, the offence may be described in the\n    charge by that name only.\n        (3) If the law which creates the offence does not give it any specific name, so much of the definition of\n    the offence must be stated as to give the accused notice of the matter with which he is charged.\n       (4) The law and section of the law against which the offence is said to have been committed shall be\n    mentioned in the charge.\n        (5) The fact that the charge is made is equivalent to a statement that every legal condition required by\n    law to constitute the offence charged was fulfilled in the particular case.\n        (6) The charge shall be written in the language of the Court.\n         (7) If the accused, having been previously convicted of any offence, is liable, by reason of such previous\n    conviction, to enhanced punishment, or to punishment of a different kind, for a subsequent offence, and it\n    is intended to prove such previous conviction for the purpose of affecting the punishment which the Court\n    may think fit, to award for the subsequent offence, the fact, date and place of the previous conviction shall\n    be stated in the charge; and if such statement has been omitted, the Court may add it at any time before\n    sentence is passed.\n                                                       Illustrations.\n         (a) A is charged with the murder of B. This is equivalent to a statement that A's act fell within the\n    definition of murder given in sections 100 and 101 of the Bharatiya Nyaya Sanhita, 2023; that it did not fall\n    within any of the general exceptions of the said Sanhita; and that it did not fall within any of the five\n    exceptions to section 101 thereof, or that, if it did fall within Exception 1, one or other of the three provisos\n    to that exception applied to it.\n         (b) A is charged under sub-section (2) of section 118 of the Bharatiya Nyaya Sanhita, 2023, with\n    voluntarily causing grievous hurt to B by means of an instrument for shooting. This is equivalent to a\n    statement that the case was not provided for by sub-section (2) of section 122 of the said Sanhita, and that\n    the general exceptions did not apply to it.\n        (c) A is accused of murder, cheating, theft, extortion, or criminal intimidation, or using a false property-\n    mark. The charge may state that A committed murder, or cheating, or theft, or extortion, or criminal\n    intimidation, or that he used a false propertymark, without reference to the definitions, of those crimes\n    contained in the Bharatiya Nyaya Sanhita, 2023; but the sections under which the offence is punishable\n    must, in each instance be referred to in the charge.\n        (d) A is charged under section 219 of the Bharatiya Nyaya Sanhita, 2023, with intentionally obstructing\n    a sale of property offered for sale by the lawful authority of a public servant. The charge should be in those\n    words.",
+      "key_terms": [
+        "charge",
+        "illustration",
+        "cognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "This section opens Chapter XVIII ('The Charge', sub-heading 'A.—Form of charges') by laying down the baseline content every charge must contain, regardless of what offence is alleged. At its core, a charge must tell the accused what offence he is being tried for: if the offence has a specific statutory name (like 'murder' or 'theft'), naming it is enough; if it has no specific name, the charge must state enough of the statutory definition to give real notice of what is alleged. Either way, the charge must always cite the specific law and section under which the offence falls, and must be written in the language of the Court so the accused (or their advocate) can actually read it. Sub-section (5) contains an important legal fiction: merely framing the charge is treated as an implicit statement that every legal condition needed to constitute that offence was, in fact, satisfied — the prosecution doesn't need to separately recite each element in the charge itself; the charge's mere existence carries that assertion. Sub-section (7) deals specially with enhanced-punishment charges based on prior convictions: if the prosecution intends to rely on the accused's earlier conviction to seek a higher or different punishment this time, the fact, date, and place of that prior conviction must be stated in the charge — though if this was accidentally left out, the Court can still add it any time before sentencing (i.e., it doesn't have to be pleaded at the very start, only before punishment is decided). The illustrations show the section operating in practice: charging someone with 'murder' silently invokes the entire BNS definition and its exceptions and provisos; naming a generic crime like theft or cheating is fine without reciting BNS definitions, but the specific punishing section must always be cited.",
+        "essential_elements": [
+          "(1)-(3): Charge must state the offence — by specific name if the law gives one, or by enough of the definition to give real notice if it does not",
+          "(4): Charge must cite the specific law and section under which the offence is punishable",
+          "(5): Framing the charge is deemed to assert that every legal condition constituting the offence was fulfilled",
+          "(6): Charge must be written in the language of the Court",
+          "(7): Where enhanced/different punishment is sought based on a prior conviction, the charge must state the fact, date, and place of that conviction — omission is curable by the Court adding it any time before sentence"
+        ],
+        "exceptions_and_qualifications": [
+          "The section (5) legal fiction means the prosecution need not separately plead each ingredient of the offence in the charge itself — naming the offence (or its statutory definition) carries that assertion automatically.",
+          "The prior-conviction requirement in (7) is specifically about proving the conviction for punishment-enhancement purposes — its omission from the original charge does not void the trial; the Court retains power to cure it before sentence."
+        ],
+        "how_to_read": "Read sub-sections (1)-(6) as the mandatory content checklist for any charge, and (7) as a special add-on rule only relevant when enhanced punishment is sought based on a prior conviction. The illustrations are the practical proof of how much (or how little) legal detail a valid charge actually needs to contain."
+      }
+    },
+    {
+      "number": "235",
+      "title": "Particulars as to time, place and person",
+      "raw_text": "235. Particulars as to time, place and person.—(1) The charge shall contain such particulars as to\n    the time and place of the alleged offence, and the person (if any) against whom, or the thing (if any) in\n    respect of which, it was committed, as are reasonably sufficient to give the accused notice of the matter\n    with which he is charged.\n        (2) When the accused is charged with criminal breach of trust or dishonest misappropriation of money\n    or other movable property, it shall be sufficient to specify the gross sum or, as the case may be, describe\n    the movable property in respect of which the offence is alleged to have been committed, and the dates\n    between which the offence is alleged to have been committed, without specifying particular items or exact\n    dates, and the charge so framed shall be deemed to be a charge of one offence within the meaning of\n    section 242:\n        Provided that the time included between the first and last of such dates shall not exceed one year.",
+      "key_terms": [
+        "charge",
+        "criminal breach of trust",
+        "dishonest misappropriation"
+      ],
+      "breakdown": {
+        "plain_summary": "This section adds the specific 'who, when, where' particulars a charge must contain on top of section 234's baseline content requirements — but calibrated to what is 'reasonably sufficient' to give real notice, not to an impossible standard of pinpoint precision. For most offences, the charge must specify the time and place of the alleged offence and identify the victim/person or the property/thing involved, to the extent reasonably needed for the accused to understand what he must defend against. Sub-section (2) carves out a practical accommodation for financial offences — criminal breach of trust and dishonest misappropriation of money or movable property — which by their nature often involve numerous small transactions or an ongoing course of dealing that can't realistically be itemised. There, it is enough to state the gross sum (or describe the property generally) and give a date range within which the misappropriation occurred, without listing every individual item or exact date; such a charge is still treated as a charge of a single offence for the 'one offence per charge' rule in section 242. The only constraint on this relaxed pleading is the proviso: the date range spanned by the charge cannot exceed one year, preventing prosecutors from bundling years of alleged misappropriation into one vague, hard-to-defend charge.",
+        "essential_elements": [
+          "(1): Charge must give reasonably sufficient particulars of time, place, and the person/thing involved, to put the accused on notice",
+          "(2): For criminal breach of trust / dishonest misappropriation, a gross sum (or general property description) plus a date range suffices — no need for itemised amounts or exact dates",
+          "Such a relaxed-particulars charge still counts as a single offence under section 242",
+          "Proviso: the date range in such a charge cannot exceed one year"
+        ],
+        "exceptions_and_qualifications": [
+          "The relaxation in (2) is offence-specific — it applies only to criminal breach of trust and dishonest misappropriation, not to financial offences generally.",
+          "The one-year cap on the date range is an absolute ceiling regardless of how many transactions are actually involved."
+        ],
+        "how_to_read": "Treat (1) as the general notice standard for every charge's particulars, and (2) plus its proviso as a deliberate, narrowly-scoped exception for ongoing financial misappropriation offences — practical relief on itemisation, capped by a hard one-year time-span limit."
+      }
+    },
+    {
+      "number": "236",
+      "title": "When manner of committing offence must be stated",
+      "raw_text": "236. When manner of committing offence must be stated.—When the nature of the case is such that\n    the particulars mentioned in sections 234 and 235 do not give the accused sufficient notice of the matter\n    with which he is charged, the charge shall also contain such particulars of the manner in which the alleged\n    offence was committed as will be sufficient for that purpose.\n                                                    Illustrations.\n        (a) A is accused of the theft of a certain article at a certain time and place. The charge need not set out\n    the manner in which the theft was effected.\n       (b) A is accused of cheating B at a given time and place. The charge must set out the manner in which\n    A cheated B.\n         (c) A is accused of giving false evidence at a given time and place. The charge must set out that portion\n    of the evidence given by A which is alleged to be false.\n        (d) A is accused of obstructing B, a public servant, in the discharge of his public functions at a given\n    time and place. The charge must set out the manner in which A obstructed B in the discharge of his\n    functions.\n       (e) A is accused of the murder of B at a given time and place. The charge need not state the manner in\n    which A murdered B.\n       (f) A is accused of disobeying a direction of the law with intent to save B from punishment. The charge\n    must set out the disobedience charged and the law infringed.",
+      "key_terms": [
+        "charge",
+        "illustration"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is a fallback notice-sufficiency rule that kicks in only when sections 234 and 235's baseline particulars (offence description plus time/place/person) still leave the accused without real notice of what he's alleged to have done. In those cases, the charge must additionally spell out the manner in which the offence was allegedly committed. The dividing line, illustrated concretely, tracks whether the 'how' is inherent in and obvious from the offence's basic description, or whether it's a separate, essential fact the accused genuinely needs spelled out to defend himself. Theft and murder don't need the manner stated — knowing a theft or murder occurred at a given time/place is, by itself, enough notice for the accused to mount a defence, because the manner isn't what's contested at the notice stage. But cheating requires setting out exactly how the deception worked (since cheating's essence lies in the specific deceptive act), false evidence requires quoting the specific portion of testimony alleged to be false (otherwise the accused wouldn't know which part of a potentially long statement is under attack), obstruction of a public servant requires describing exactly how the obstruction was carried out, and disobedience of a legal direction requires specifying which disobedience and which law was infringed.",
+        "essential_elements": [
+          "Trigger: sections 234-235's particulars alone don't give the accused sufficient notice",
+          "Response: the charge must also state the manner in which the offence was allegedly committed, to whatever extent is needed for real notice",
+          "Illustrations mark a practical line: offences like theft and murder generally don't need manner stated; offences like cheating, false evidence, obstruction, and disobedience of legal directions generally do"
+        ],
+        "exceptions_and_qualifications": [
+          "This is not a universal requirement — it is conditional, triggered only where the bare offence-plus-particulars description leaves a genuine notice gap."
+        ],
+        "how_to_read": "Read this as the third and final layer of the charge-content ladder: section 234 (what offence), section 235 (when/where/who), and section 236 (how, but only if still needed for adequate notice) — each layer adding detail only to the extent the accused would otherwise be left guessing what he must defend against."
+      }
+    },
+    {
+      "number": "237",
+      "title": "Words in charge taken in sense of law under which offence is punishable",
+      "raw_text": "237. Words in charge taken in sense of law under which offence is punishable.—In every charge\n    words used in describing an offence shall be deemed to have been used in the sense attached to them\n    respectively by the law under which such offence is punishable.",
+      "key_terms": [
+        "charge"
+      ],
+      "breakdown": {
+        "plain_summary": "This short interpretive rule ensures that a charge is read using the technical legal meaning of its words, not their everyday colloquial meaning. Whenever a charge uses a term to describe an offence, that term is deemed to carry the specific meaning given to it by the law that actually punishes the offence — typically the Bharatiya Nyaya Sanhita's definitional provisions or another special statute's own defined terms. This avoids disputes about a charge being 'vague' or 'incorrect' merely because a word, taken in its ordinary dictionary sense, might seem to say something different from what the statutory definition actually covers; the governing law's definition controls.",
+        "essential_elements": [
+          "Words used to describe an offence in a charge are deemed to carry the meaning assigned to them by the law that punishes that offence",
+          "This overrides any ordinary/dictionary meaning that might otherwise be read into the charge's language"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A brief but important interpretive anchor: whenever a charge's wording is disputed, look first to the definitional provisions of the substantive law creating the offence (e.g., the Bharatiya Nyaya Sanhita), not to general usage, to determine what the charge actually alleges."
+      }
+    },
+    {
+      "number": "238",
+      "title": "Effect of errors",
+      "raw_text": "238. Effect of errors.—No error in stating either the offence or the particulars required to be stated in\n    the charge, and no omission to state the offence or those particulars, shall be regarded at any stage of the\n    case as material, unless the accused was in fact misled by such error or omission, and it has occasioned a\n    failure of justice.\n                                                    Illustrations.\n        (a) A is charged under section 180 of the Bharatiya Nyaya Sanhita, 2023, with \"having been in\n    possession of counterfeit coin, having known at the time when he became possessed thereof that such coin\n    was counterfeit,\" the word \"fraudulently\" being omitted in the charge. Unless it appears that A was in fact\n    misled by this omission, the error shall not be regarded as material.\n         (b) A is charged with cheating B, and the manner in which he cheated B is not set out in the charge or\n    is set out incorrectly. A defends himself, calls witnesses and gives his own account of the transaction. The\n    Court may infer from this that the omission to set out the manner of the cheating is not material.\n        (c) A is charged with cheating B, and the manner in which he cheated B is not set out in the charge.\n    There were many transactions between A and B, and A had no means of knowing to which of them the\n    charge referred, and offered no defence. The Court may infer from such facts that the omission to set out\n    the manner of the cheating was, in the case, a material error.\n         (d) A is charged with the murder of Khoda Baksh on the 21st January, 2023. In fact, the murdered\n    person's name was Haidar Baksh, and the date of the murder was the 20th January, 2023. A was never\n    charged with any murder but one, and had heard the inquiry before the Magistrate, which referred\n    exclusively to the case of Haidar Baksh. The Court may infer from these facts that A was not misled, and\n    that the error in the charge was immaterial.\n         (e) A was charged with murdering Haidar Baksh on the 20th January, 2023, and Khoda Baksh (who\n    tried to arrest him for that murder) on the 21st January, 2023. When charged for the murder of Haidar\n    Baksh, he was tried for the murder of Khoda Baksh. The witnesses present in his defence were witnesses\n    in the case of Haidar Baksh. The Court may infer from this that A was misled, and that the error was\n    material.",
+      "key_terms": [
+        "charge",
+        "illustration",
+        "failure of justice"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the safety-valve provision that prevents the whole elaborate charge-drafting scheme of sections 234-237 from becoming a trap for hyper-technical objections. The governing test is not whether the charge was perfectly drafted, but whether any error or omission in stating the offence or its required particulars actually misled the accused AND caused a failure of justice — both conditions must be met before an error is treated as material (i.e., fatal). A charge riddled with technical imperfections that nonetheless gave the accused genuine, functional notice of the case against him — as shown, for instance, by his mounting a full defence with witnesses — will not be struck down or lead to reversal on that basis alone. The five illustrations map the spectrum precisely: omitting the word 'fraudulently,' or getting a victim's name and the exact date one day wrong, are typically immaterial where the accused clearly understood and contested the real allegation; but an omission that left the accused genuinely unable to identify which of several transactions he was defending against, or that caused him to defend the wrong case with the wrong witnesses entirely, is material and fatal, because real prejudice and failure of justice resulted.",
+        "essential_elements": [
+          "General rule: no error/omission in stating the offence or required particulars is material unless BOTH (i) it actually misled the accused, AND (ii) it occasioned a failure of justice",
+          "Both conditions are conjunctive — an error that misled the accused but caused no real failure of justice (or vice versa) does not vitiate the charge",
+          "Whether the accused was actually misled is assessed practically — e.g., by how he in fact conducted his defence, called witnesses, and understood the case"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a curative, prejudice-based standard, not a pure technical-compliance standard — it deliberately shifts focus away from formal charge-drafting perfection toward real-world fairness to the accused."
+        ],
+        "how_to_read": "Read this as the practical corrective to sections 234-237: those sections tell you what a charge should contain, but section 238 tells you that falling short of that ideal only matters if it actually prejudiced the accused's defence and led to a failure of justice — the illustrations are the best guide to where that line falls in practice."
+      }
+    },
+    {
+      "number": "239",
+      "title": "Court may alter charge",
+      "raw_text": "239. Court may alter charge.—(1) Any Court may alter or add to any charge at any time before\n    judgment is pronounced.\n        (2) Every such alteration or addition shall be read and explained to the accused.\n         (3) If the alteration or addition to a charge is such that proceeding immediately with the trial is not\n    likely, in the opinion of the Court, to prejudice the accused in his defence or the prosecutor in the conduct\n    of the case, the Court may, in its discretion, after such alteration or addition has been made, proceed with\n    the trial as if the altered or added charge had been the original charge.\n         (4) If the alteration or addition is such that proceeding immediately with the trial is likely, in the opinion\n    of the Court, to prejudice the accused or the prosecutor as aforesaid, the Court may either direct a new trial\n    or adjourn the trial for such period as may be necessary.\n         (5) If the offence stated in the altered or added charge is one for the prosecution of which previous\n    sanction is necessary, the case shall not be proceeded with until such sanction is obtained, unless sanction\n    has been already obtained for a prosecution on the same facts as those on which the altered or added charge\n    is founded.",
+      "key_terms": [
+        "charge",
+        "sanction",
+        "cognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "This section gives the trial Court broad, ongoing power to correct or expand a charge as the trial progresses — recognising that the true shape of the case often only becomes fully clear once evidence starts coming in, and that rigidly locking the charge at the framing stage would either force acquittals on technicalities or force entirely fresh prosecutions for what is really the same transaction. Any Court may alter or add to a charge at any point up until judgment is pronounced — a deliberately wide window. But this power comes with real procedural safeguards for the accused: every alteration or addition must be read out and explained to him, so he always knows exactly what he currently stands charged with. The Court then has to make a prejudice assessment: if continuing the trial immediately, on the altered charge, is unlikely to prejudice either the accused's defence or the prosecution's conduct of the case, the Court may simply carry on as though the altered charge had been the original one — no do-over needed. But if immediate continuation would likely cause real prejudice to either side, the Court must either order a new trial altogether or adjourn for whatever period is necessary to let both sides adjust (e.g., recall witnesses, gather fresh evidence, or prepare a different defence strategy). Finally, sub-section (5) closes an important gap: if the altered or added charge now states an offence that legally requires prior sanction for prosecution (as under Chapter XV's sanction provisions), the case cannot proceed on that altered charge until that sanction is actually obtained — unless sanction was already secured earlier for a prosecution grounded in the same underlying facts, in which case no fresh sanction round is needed.",
+        "essential_elements": [
+          "(1): Any Court may alter/add to a charge any time before judgment",
+          "(2): Every alteration/addition must be read and explained to the accused",
+          "(3): If no likely prejudice to either side, the Court may proceed on the altered charge without restarting the trial",
+          "(4): If likely prejudice to either side, the Court must either order a new trial or adjourn for as long as necessary",
+          "(5): If the altered/added charge needs prior sanction, proceedings must halt until sanction is obtained — unless sanction was already obtained on the same underlying facts"
+        ],
+        "exceptions_and_qualifications": [
+          "The prejudice assessment in (3)/(4) is the Court's discretionary call, made specifically about the practical effect of proceeding immediately — not a blanket rule either way.",
+          "The sanction requirement in (5) is not triggered merely because a charge changed — only where the newly altered/added offence is itself a sanction-requiring offence, and no equivalent sanction already covers those facts."
+        ],
+        "how_to_read": "Read (1)-(2) as the Court's power plus its mandatory transparency obligation to the accused, (3)-(4) as the prejudice-driven fork between continuing seamlessly versus restarting/adjourning, and (5) as a sanction safety-check that applies specifically when the altered charge crosses into sanction-requiring territory."
       }
     }
   ]
