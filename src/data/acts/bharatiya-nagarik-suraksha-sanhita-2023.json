@@ -168,7 +168,10 @@
     "preliminary investigation": "A limited, sanction-preceding police inquiry ordered by government before deciding whether to accord sanction or consent to prosecute, distinct from a full investigation under Chapter XIII.",
     "aggrieved person": "The person directly harmed by an offence, whose complaint (or, in specified circumstances, a permitted relative's or representative's complaint) is legally required before certain offences can be prosecuted.",
     "prima facie": "On the face of it; a standard requiring enough apparent evidence to make out a case at first glance, without yet weighing it against a defence — used here as the threshold a Magistrate/Court must find before taking cognizance in specified sensitive offences.",
-    "commanding officer": "The officer in charge of a member of the Armed Forces of the Union, whose certification and countersignature are required for that member's spouse to authorise someone else to file a complaint on their behalf when the member cannot obtain leave."
+    "commanding officer": "The officer in charge of a member of the Armed Forces of the Union, whose certification and countersignature are required for that member's spouse to authorise someone else to file a complaint on their behalf when the member cannot obtain leave.",
+    "examination on oath": "The Magistrate's recording of sworn statements from a complainant and any witnesses present, taken to establish a preliminary basis before the case proceeds, distinct from the fuller trial-stage examination.",
+    "process (issue of)": "A court's formal act of compelling an accused person's appearance or the production of evidence, typically by summons or warrant, marking the start of active proceedings against the accused.",
+    "sufficient ground for proceeding": "The threshold finding a Magistrate must reach — based on the complainant's sworn statement, witness statements, and any inquiry or investigation — before issuing process against an accused; absence of this ground requires dismissal of the complaint."
   },
   "sections": [
     {
@@ -5237,6 +5240,96 @@
           "The Court of Session's direct cognizance power here is a notable departure from section 213's general committal requirement, justified by the public-office context."
         ],
         "how_to_read": "Read sub-section (1) as the default rule (consistent with the rest of this Chapter), and sub-sections (2)-(5) as a self-contained special procedure for high-office defamation, with sub-section (6) confirming the special procedure supplements rather than displaces the ordinary one. This section completes Chapter XV; Chapter XVI (Complaints to Magistrates) follows."
+      }
+    },
+    {
+      "number": "223",
+      "title": "Examination of complainant",
+      "raw_text": "223. Examination of complainant.—(1) A Magistrate having jurisdiction while taking cognizance of\n    an offence on complaint shall examine upon oath the complainant and the witnesses present, if any, and the\n    substance of such examination shall be reduced to writing and shall be signed by the complainant and the\n    witnesses, and also by the Magistrate:\n    Provided that no cognizance of an offence shall be taken by the Magistrate without giving the accused\n    an opportunity of being heard:\n    Provided further that when the complaint is made in writing, the Magistrate need not examine the\n    complainant and the witnesses—\n        (a) if a public servant acting or purporting to act in the discharge of his official duties or a Court\n    has made the complaint; or\n        (b) if the Magistrate makes over the case for inquiry or trial to another Magistrate under\n    section 212:\n    Provided also that if the Magistrate makes over the case to another Magistrate under section 212 after\n    examining the complainant and the witnesses, the latter Magistrate need not re-examine them.\n    (2) A Magistrate shall not take cognizance on a complaint against a public servant for any offence\n    alleged to have been committed in course of the discharge of his official functions or duties unless—\n        (a) such public servant is given an opportunity to make assertions as to the situation that led to the\n    incident so alleged; and\n        (b) a report containing facts and circumstances of the incident from the officer superior to such\n    public servant is received.",
+      "key_terms": [
+        "examination on oath",
+        "cognizance",
+        "public servant"
+      ],
+      "breakdown": {
+        "plain_summary": "This section opens Chapter XVI and lays down the Magistrate's first procedural act on a complaint case: sworn examination. Ordinarily, the Magistrate must put the complainant and any present witnesses on oath, record the substance of what they say in writing, and have it signed by the complainant, the witnesses, and the Magistrate — creating a formal record before the case proceeds further. A cross-cutting safeguard requires that the accused be given a hearing opportunity before cognizance is taken at all. Three practical exceptions relieve the Magistrate of re-doing this examination: when the complaint is written and comes from a public servant or a Court (institutional complainants are presumed reliable), when the case is simply being transferred to another Magistrate under section 212 (no need to examine twice), and — specifically — when the receiving Magistrate under such a transfer inherits an already-completed examination. Sub-section (2) adds a distinct, important safeguard for complaints against public servants regarding their official conduct: cognizance cannot be taken unless that public servant is first given a chance to explain the circumstances, and a report is obtained from their superior officer — protecting officials from being hauled into court on unverified allegations about their official acts.",
+        "essential_elements": [
+          "Default rule: Magistrate examines complainant and present witnesses on oath, records it in writing, signed by all",
+          "Cross-cutting safeguard: no cognizance without giving the accused a hearing opportunity",
+          "Exception: no re-examination needed for written complaints from a public servant or a Court",
+          "Exception: no examination needed when the case is simply made over to another Magistrate under section 212",
+          "Exception: the receiving Magistrate in a section 212 transfer need not repeat an examination already done",
+          "Sub-section (2): complaints against a public servant regarding official conduct require the public servant's own input and a superior officer's report before cognizance"
+        ],
+        "exceptions_and_qualifications": [
+          "The hearing-opportunity safeguard for the accused (first proviso) is a general requirement layered onto the examination process, not merely an exception affecting specific complainant types.",
+          "Sub-section (2)'s protection is specific to allegations arising from a public servant's official functions or duties — it does not shield purely private conduct."
+        ],
+        "how_to_read": "Separate the section into its examination mechanics (sub-section (1) and its three provisos) and its distinct public-servant safeguard (sub-section (2)) — the latter operates as an additional precondition layered on top of, not a substitute for, the general examination process."
+      }
+    },
+    {
+      "number": "224",
+      "title": "Procedure by Magistrate not competent to take cognizance of case",
+      "raw_text": "224. Procedure by Magistrate not competent to take cognizance of case.—If the complaint is made\n    to a Magistrate who is not competent to take cognizance of the offence, he shall,—\n        (a) if the complaint is in writing, return it for presentation to the proper Court with an endorsement\n    to that effect;\n        (b) if the complaint is not in writing, direct the complainant to the proper Court.",
+      "key_terms": [
+        "cognizance",
+        "local jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "A simple traffic-direction rule for complaints filed at the wrong address. If a complainant mistakenly brings their complaint to a Magistrate who lacks competence to take cognizance of that particular offence (whether for territorial, pecuniary, or subject-matter reasons), the Magistrate does not simply reject or sit on the complaint. For a written complaint, the Magistrate returns it with an endorsement noting the lack of competence, so it can be presented to the correct Court without needing to be redrafted. For an oral complaint, the Magistrate simply directs the complainant to the correct Court. Either way, the complainant is pointed toward the right forum rather than being turned away empty-handed.",
+        "essential_elements": [
+          "Written complaint at the wrong Magistrate: returned with an endorsement, for presentation to the proper Court",
+          "Oral complaint at the wrong Magistrate: complainant is directed to the proper Court"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short administrative-mechanics section — read it as ensuring a complainant's mistake about forum doesn't cost them their complaint, only their time in redirecting it."
+      }
+    },
+    {
+      "number": "225",
+      "title": "Postponement of issue of process",
+      "raw_text": "225. Postponement of issue of process.—(1) Any Magistrate, on receipt of a complaint of an offence\n    of which he is authorised to take cognizance or which has been made over to him under section 212, may,\n    if he thinks fit, and shall, in a case where the accused is residing at a place beyond the area in which he\n    exercises his jurisdiction, postpone the issue of process against the accused, and either inquire into the case\n    himself or direct an investigation to be made by a police officer or by such other person as he thinks fit, for\n    the purpose of deciding whether or not there is sufficient ground for proceeding:\n    Provided that no such direction for investigation shall be made,—\n        (a) where it appears to the Magistrate that the offence complained of is triable exclusively by the\n    Court of Session; or\n        (b) where the complaint has not been made by a Court, unless the complainant and the witnesses\n    present (if any) have been examined on oath under section 223.\n    (2) In an inquiry under sub-section (1), the Magistrate may, if he thinks fit, take evidence of witnesses\n    on oath:\n    Provided that if it appears to the Magistrate that the offence complained of is triable exclusively by the\n    Court of Session, he shall call upon the complainant to produce all his witnesses and examine them on oath.\n    (3) If an investigation under sub-section (1) is made by a person not being a police officer, he shall\n    have for that investigation all the powers conferred by this Sanhita on an officer in charge of a police station\n    except the power to arrest without warrant.",
+      "key_terms": [
+        "process (issue of)",
+        "sufficient ground for proceeding",
+        "investigation"
+      ],
+      "breakdown": {
+        "plain_summary": "This section gives the Magistrate a screening tool before formally hauling an accused into court: the power (and, in one specific circumstance, the duty) to postpone issuing process and first inquire into or investigate the complaint to check whether there's actually sufficient ground to proceed. The postponement is discretionary generally, but becomes mandatory whenever the accused resides outside the Magistrate's own jurisdiction — protecting distant accused persons from being summoned to a far-off court on a complaint that hasn't even been screened yet. The Magistrate can either inquire personally or direct a police officer or any other suitable person to investigate. Two provisos restrict when a Magistrate can direct someone else to investigate: not for offences exclusively triable by a Court of Session (these need the Magistrate's own closer scrutiny), and not for non-Court complaints unless the complainant and witnesses have already been examined on oath under section 223 (ensuring some sworn basis exists first). Sub-section (2) lets the Magistrate take witness evidence on oath during this inquiry, and mandates it — requiring the complainant to produce and have examined all witnesses — specifically for Sessions-triable offences. Sub-section (3) equips a non-police investigator with an officer-in-charge's investigative powers, but withholds the power to arrest without warrant — a deliberate limit on delegating coercive power to non-police investigators.",
+        "essential_elements": [
+          "Postponement of process is discretionary generally, but mandatory when the accused resides outside the Magistrate's jurisdiction",
+          "The Magistrate may inquire personally or direct investigation by a police officer or other suitable person",
+          "No investigation-direction where the offence is exclusively Court of Session-triable, or (for non-Court complaints) before section 223 sworn examination has occurred",
+          "Sub-section (2): witness evidence may be taken on oath; mandatory full witness examination for Sessions-triable offences",
+          "Sub-section (3): a non-police investigator gets officer-in-charge powers except the power of warrantless arrest"
+        ],
+        "exceptions_and_qualifications": [
+          "The mandatory-postponement trigger (accused residing outside jurisdiction) is purely about the accused's residence, independent of the offence's seriousness.",
+          "The withheld warrantless-arrest power for non-police investigators is a deliberate check on delegating coercive authority outside the police force."
+        ],
+        "how_to_read": "Track the two axes of variation: when postponement is discretionary versus mandatory (turns on the accused's residence), and when direction-to-investigate is available versus barred or converted into a mandatory full witness examination (turns on whether the offence is Sessions-exclusive and whether a sworn examination has already occurred)."
+      }
+    },
+    {
+      "number": "226",
+      "title": "Dismissal of complaint",
+      "raw_text": "226. Dismissal of complaint.—If, after considering the statements on oath (if any) of the complainant\n    and of the witnesses and the result of the inquiry or investigation (if any) under section 225, the Magistrate\n    is of opinion that there is no sufficient ground for proceeding, he shall dismiss the complaint, and in every\n    such case he shall briefly record his reasons for so doing.",
+      "key_terms": [
+        "sufficient ground for proceeding",
+        "cognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "This section closes Chapter XVI by giving the Magistrate an explicit off-ramp: if, after weighing the sworn statements of the complainant and witnesses and the outcome of any section 225 inquiry or investigation, the Magistrate concludes there simply isn't sufficient ground to proceed, the complaint must be dismissed — this isn't optional once that conclusion is reached. Critically, the Magistrate cannot just dismiss silently; reasons, even if brief, must be recorded in every such case. This reasoned-dismissal requirement matters practically because it creates a record that a complainant can point to (and potentially challenge, e.g., through revision) if they believe the dismissal was wrong.",
+        "essential_elements": [
+          "Trigger: Magistrate's opinion, after considering sworn statements and any section 225 inquiry/investigation result, that there is no sufficient ground for proceeding",
+          "Consequence: the complaint must be dismissed",
+          "Mandatory requirement: reasons for dismissal must be briefly recorded in every case"
+        ],
+        "exceptions_and_qualifications": [
+          "The reason-recording duty is unconditional ('in every such case') — there's no shortcut allowing a bare, unreasoned dismissal."
+        ],
+        "how_to_read": "Treat this as the natural end-point of the screening machinery in sections 223-225: if the process, examination, and any inquiry/investigation together fail to establish sufficient ground, dismissal (with recorded reasons) is the mandatory result. This completes Chapter XVI; Chapter XVII (Commencement of Proceedings before Magistrates) follows at Section 227."
       }
     }
   ]
