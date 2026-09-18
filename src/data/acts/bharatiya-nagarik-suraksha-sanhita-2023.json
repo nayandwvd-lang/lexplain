@@ -267,7 +267,11 @@
     "probation of offenders act": "The Probation of Offenders Act, 1958 -- a separate central statute enabling release of certain offenders on probation instead of sentencing them to prison, operating alongside (not displaced by) section 401's own probation/admonition powers; section 401(10) and section 402 both expressly preserve its application.",
     "juvenile justice act": "The Juvenile Justice (Care and Protection of Children) Act, 2015 -- the special statute governing the treatment, training, and rehabilitation of children in conflict with law, whose application section 401(10) expressly preserves alongside BNSS's own probation and admonition provisions, and whose availability a Court must record special reasons for not using under section 402.",
     "confirmation": "The High Court's formal approval of a death sentence passed by a Court of Session, without which the sentence cannot be executed; section 407 makes such submission to the High Court mandatory and automatic, and section 409 sets out the High Court's options on confirmation -- confirm, pass a different lawful sentence, annul the conviction, or acquit.",
-    "annul": "To formally cancel or invalidate a conviction, as if it had not been passed, while leaving open the possibility of convicting the accused afresh of a lawful offence or ordering a new trial; section 409(b) gives the High Court this power when reviewing a Court of Session's death sentence submitted for confirmation."
+    "annul": "To formally cancel or invalidate a conviction, as if it had not been passed, while leaving open the possibility of convicting the accused afresh of a lawful offence or ordering a new trial; section 409(b) gives the High Court this power when reviewing a Court of Session's death sentence submitted for confirmation.",
+    "bench": "A panel of two or more Judges of a High Court (or other Court) sitting together to hear and decide a case, as distinct from a Single Judge; section 411 addresses what happens when a death-sentence-confirmation Bench is equally divided in opinion, routing the case to the special procedure in section 433.",
+    "appeal": "A statutory right to have a higher Court review a lower Court's judgment, order, or sentence -- available only where this Sanhita or another law specifically provides for it (section 413), with numerous carve-outs and conditions (guilty pleas, petty sentences, victim's right to appeal against acquittal/inadequate compensation, State/Central Government appeals against inadequate sentences, and special leave requirements for acquittal appeals) set out across Chapter XXXI.",
+    "extraordinary original criminal jurisdiction": "A High Court's power to try certain criminal cases itself as a Court of first instance (rather than only hearing appeals/revisions), historically confined to the three Presidency High Courts (Calcutta, Bombay, Madras) over serious offences within city limits; section 415(1) gives a person convicted on such a trial a direct right of appeal to the Supreme Court.",
+    "supreme court": "India's apex Court and final court of appeal, established under Article 124 of the Constitution; within this Sanhita's appellate ladder, it is the direct appeal forum for convictions from a High Court's extraordinary original criminal jurisdiction (section 415(1)) and, separately, for certain High Court reversals of acquittal into a death/life/ten-year-plus sentence (section 420)."
   },
   "sections": [
     {
@@ -9352,6 +9356,97 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This is why death-confirmation matters are institutionally routed to a Division Bench rather than a Single Judge -- practitioners should check Bench composition as a threshold procedural point in any confirmation reference."
+      }
+    },
+    {
+      "number": "411",
+      "title": "Procedure in case of difference of opinion",
+      "raw_text": "411. Procedure in case of difference of opinion.—Where any such case is heard before a Bench of\nJudges and such Judges are equally divided in opinion, the case shall be decided in the manner provided by\nsection 433.",
+      "key_terms": [
+        "bench"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes a procedural gap for death-sentence confirmation cases heard by an evenly-numbered Bench: if the Judges are equally divided in opinion on confirming/annulling the sentence, the matter doesn't stall -- it is resolved using the general tie-breaking mechanism set out in section 433 (typically referral to another Judge), ensuring a definitive outcome even in a capital case.",
+        "essential_elements": [
+          "Applies where a death-sentence confirmation case is heard by a Bench of Judges.",
+          "Applies specifically where the Judges are equally divided in opinion.",
+          "The case is then decided per the procedure in section 433."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This cross-references section 433's general difference-of-opinion mechanism rather than creating a separate rule -- practitioners should read the two sections together when a confirmation Bench splits evenly."
+      }
+    },
+    {
+      "number": "412",
+      "title": "Procedure in cases submitted to High Court for confirmation",
+      "raw_text": "412. Procedure in cases submitted to High Court for confirmation.—In cases submitted by the\nCourt of Session to the High Court for the confirmation of a sentence of death, the proper officer of the\nHigh Court shall, without delay, after the order of confirmation or other order has been made by the High\nCourt, send either physically, or through electronic means, a copy of the order, under the seal of the High\nCourt and attested with his official signature, to the Court of Session.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This closes the confirmation-process loop: once the High Court has decided a death-sentence confirmation reference (whichever way it goes -- confirmation or any other order under section 409), the High Court's proper officer must, without delay, send a sealed and signed copy of that order back to the Court of Session, either physically or electronically, so the trial-level Court has the authoritative record of the final outcome.",
+        "essential_elements": [
+          "Applies to death-sentence confirmation cases submitted by the Court of Session to the High Court.",
+          "After the High Court makes its order (confirmation or otherwise), its proper officer must send a copy to the Court of Session without delay.",
+          "The copy must be under the High Court's seal and attested with the officer's official signature.",
+          "Transmission may be physical or electronic."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The explicit allowance for electronic transmission reflects the same digitization push seen in section 392's judgment-upload requirements -- practitioners should not assume physical dispatch is the only compliant method."
+      }
+    },
+    {
+      "number": "413",
+      "title": "No appeal to lie unless otherwise provided",
+      "raw_text": "413. No appeal to lie unless otherwise provided.—No appeal shall lie from any judgment or order of\na Criminal Court except as provided for by this Sanhita or by any other law for the time being in force:\n    Provided that the victim shall have a right to prefer an appeal against any order passed by the Court\nacquitting the accused or convicting for a lesser offence or imposing inadequate compensation, and such\nappeal shall lie to the Court to which an appeal ordinarily lies against the order of conviction of such Court.",
+      "key_terms": [
+        "appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XXXI with the foundational rule that appeal is a creature of statute, not an inherent right: no appeal lies from any Criminal Court judgment/order unless this Sanhita or some other law specifically creates that right. The significant BNSS-era addition is the proviso: a victim now has an express, independent right to appeal against an acquittal, a conviction for a lesser offence than charged, or inadequate compensation -- routed to whichever Court would ordinarily hear an appeal against that Court's conviction orders. This gives victims direct standing to challenge outcomes they consider too lenient, without depending on the State to appeal on their behalf.",
+        "essential_elements": [
+          "General rule: no appeal lies from a Criminal Court judgment/order except where specifically provided by this Sanhita or another law.",
+          "Proviso: a victim has a right to appeal against an order acquitting the accused, convicting for a lesser offence, or imposing inadequate compensation.",
+          "The victim's appeal lies to the Court to which an appeal ordinarily lies against that Court's conviction orders."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The victim's independent appeal right under the proviso is a notable BNSS-era empowerment -- previously victims largely depended on the State/Public Prosecutor to challenge an inadequate outcome; now a victim's advocate can directly draft and file that appeal without waiting on prosecutorial discretion."
+      }
+    },
+    {
+      "number": "414",
+      "title": "Appeal from orders requiring security or refusal to accept or rejecting surety for keeping peace or good behavior",
+      "raw_text": "414. Appeal from orders requiring security or refusal to accept or rejecting surety for keeping\npeace or good behavior.—Any person, —\n        (i) who has been ordered under section 136 to give security for keeping the peace or for good\n    behaviour; or\n        (ii) who is aggrieved by any order refusing to accept or rejecting a surety under section 140,\nmay appeal against such order to the Court of Session:\n    Provided that nothing in this section shall apply to persons the proceedings against whom are laid before\na Sessions Judge in accordance with the provisions of sub-section (2) or sub-section (4) of section 141.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This creates a specific appeal route for the peace/good-behaviour security regime: a person ordered under section 136 to furnish security, or one aggrieved by a section 140 order refusing to accept or rejecting his surety, may appeal to the Court of Session. This does not apply where the proceedings were already laid before a Sessions Judge directly under section 141(2)/(4), since there the Sessions Judge is already the decision-maker and no further appeal within this route is needed.",
+        "essential_elements": [
+          "Available to a person ordered under section 136 to give security for keeping the peace or good behaviour.",
+          "Available to a person aggrieved by a section 140 order refusing to accept or rejecting a surety.",
+          "The appeal lies to the Court of Session."
+        ],
+        "exceptions_and_qualifications": [
+          "Does not apply to persons whose proceedings were laid before a Sessions Judge under section 141(2) or 141(4)."
+        ],
+        "how_to_read": "This is the appellate counterpart to the section 136/140/141 preventive-security scheme -- practitioners handling a security-for-good-behaviour matter should treat section 414 as the default appeal route unless the case was already escalated to a Sessions Judge at first instance."
+      }
+    },
+    {
+      "number": "415",
+      "title": "Appeals from convictions",
+      "raw_text": "415. Appeals from convictions.—(1) Any person convicted on a trial held by a High Court in its\nextraordinary original criminal jurisdiction may appeal to the Supreme Court.\n    (2) Any person convicted on a trial held by a Sessions Judge or an Additional Sessions Judge or on a\ntrial held by any other Court in which a sentence of imprisonment for more than seven years has been\npassed against him or against any other person convicted at the same trial, may appeal to the High Court.\n    (3) Save as otherwise provided in sub-section (2), any person,--\n        (a) convicted on a trial held by Magistrate of the first class, or of the second class; or\n        (b) sentenced under section 364; or\n        (c) in respect of whom an order has been made or a sentence has been passed under section 401 by\n    any Magistrate,\nmay appeal to the Court of Session.\n    (4) When an appeal has been filed against a sentence passed under section 64, section 65,\nsection 66, section 67, section 68, section 70 or section 71 of the Bharatiya Nyaya Sanhita, 2023, the appeal\nshall be disposed of within a period of six months from the date of filing of such appeal.",
+      "key_terms": [
+        "extraordinary original criminal jurisdiction",
+        "supreme court"
+      ],
+      "breakdown": {
+        "plain_summary": "This lays out the core appellate ladder by trial forum. A conviction from a High Court's extraordinary original criminal jurisdiction goes straight to the Supreme Court. A conviction by a Sessions Judge/Additional Sessions Judge, or any Court that has imposed more than seven years' imprisonment (on the appellant or any co-accused at the same trial), goes to the High Court. Everything else by default -- Magistrate of the first or second class convictions, section 364 sentences, or section 401 probation/admonition orders -- goes to the Court of Session. A special fast-track applies to appeals against sentences for specified serious offences (BNS sections 64, 65, 66, 67, 68, 70, 71 -- broadly sexual offences), which must be disposed of within six months of filing, reflecting the urgency of resolving such matters for victims and accused alike.",
+        "essential_elements": [
+          "High Court extraordinary original criminal jurisdiction convictions: appeal to the Supreme Court.",
+          "Sessions Judge/Additional Sessions Judge convictions, or any conviction with a sentence exceeding seven years (on the appellant or a co-accused at the same trial): appeal to the High Court.",
+          "Default route (Magistrate first/second class convictions, section 364 sentences, section 401 orders): appeal to the Court of Session.",
+          "Appeals against sentences under BNS sections 64, 65, 66, 67, 68, 70, or 71 must be disposed of within six months of filing."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The six-month disposal mandate for sexual-offence sentence appeals is a hard timeline worth flagging proactively in case management -- practitioners on either side should track this deadline and be prepared to raise delay as a live issue if the appellate Court is not moving the matter along."
       }
     }
   ]
