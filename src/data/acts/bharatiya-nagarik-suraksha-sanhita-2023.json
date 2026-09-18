@@ -132,7 +132,7 @@
     "wilfully avoiding service": "Deliberately evading being served with legal process, a ground on which a Magistrate may proceed to hear and decide a maintenance case ex parte.",
     "unlawful assembly": "An assembly of five or more persons with a common object that falls within the categories made unlawful under the Bharatiya Nyaya Sanhita, 2023 (e.g., to overawe by criminal force, commit mischief, or use criminal force to achieve an unlawful common object). Section 148 also extends dispersal powers to any assembly of five or more persons merely likely to disturb the public peace, even before it becomes technically 'unlawful.'",
     "public nuisance": "An act, omission, or state of affairs that causes injury, danger, or annoyance to the public or to people generally who dwell or occupy property in the vicinity, or that obstructs the public's lawful use of a way, river, channel, or public place. Chapter XI Part B (sections 152-162) gives Magistrates summary powers to order removal or regulation of public nuisances.",
-    "sanction": "Formal prior permission, typically from the Central or State Government, required by law before certain prosecutions (e.g., against public servants, or for offences committed outside India) may be initiated.",
+    "sanction": "Formal prior authorisation or approval required from a specified higher authority before a particular action (such as prosecution or a particular procedural step) may be taken.",
     "conditional order": "An order made under section 152 that is not yet final — it directs the person concerned either to perform a specified act (such as removing an obstruction) within a fixed time, or to appear and show cause why the order should not be made absolute.",
     "absolute order": "The final, binding form that a conditional order under section 152 takes once the person against whom it is made either defaults entirely (triggering section 155) or appears, shows cause, and fails to satisfy the Magistrate that the order is unreasonable (section 157).",
     "easement": "A legal right to use land or water belonging to someone else in a specific limited way — for example, a right of way, a right to draw water, or a right of passage — without owning it.",
@@ -190,7 +190,8 @@
     "cross-examine": "To question a witness called by the opposing party, typically to test, challenge, or undermine the witness's earlier testimony given in examination-in-chief.",
     "re-examination": "The further questioning of a witness by the party who originally called them, conducted after cross-examination, generally limited to clarifying matters raised during cross-examination.",
     "complainant": "The person who sets criminal proceedings in motion by lodging a complaint before a Magistrate, alleging that an offence has been committed.",
-    "compound": "To settle or resolve a criminal case by private agreement between the complainant/victim and the accused, permitted only for certain offences specified by law, resulting in acquittal of the accused."
+    "compound": "To settle or resolve a criminal case by private agreement between the complainant/victim and the accused, permitted only for certain offences specified by law, resulting in acquittal of the accused.",
+    "summary trial": "An abbreviated trial procedure (Chapter XXII) for certain minor offences, in which the Magistrate follows summons-case procedure but with a simplified, condensed record and judgment, and a maximum sentence of three months' imprisonment."
   },
   "sections": [
     {
@@ -6594,6 +6595,185 @@
           "In multi-accused cases, withdrawal can be selective -- against all accused or only some -- giving the complainant (subject to Magistrate approval) flexibility to continue pursuing some accused while releasing others."
         ],
         "how_to_read": "Read this as the summons-case complainant's counterpart to the multi-headed-charge withdrawal mechanism of section 247 -- both give a form of case-narrowing control (subject to the Court's oversight) that results in acquittal-level finality for the accused as to the withdrawn portion of the case."
+      }
+    },
+    {
+      "number": "281",
+      "title": "Power to stop proceedings in certain cases",
+      "raw_text": "281. Power to stop proceedings in certain cases.—In any summons-case instituted otherwise than\n    upon complaint, a Magistrate of the first class or, with the previous sanction of the Chief Judicial Magistrate,\n    any other Judicial Magistrate, may, for reasons to be recorded by him, stop the proceedings at any stage\n    without pronouncing any judgment and where such stoppage of proceedings is made after the evidence of\n    the principal witnesses has been recorded, pronounce a judgment of acquittal, and in any other case, release\n    the accused, and such release shall have the effect of discharge.",
+      "key_terms": [
+        "summons-case",
+        "sanction",
+        "acquittal",
+        "discharge"
+      ],
+      "breakdown": {
+        "plain_summary": "This section grants a discretionary case-management power to stop a summons-case that was instituted otherwise than upon complaint (i.e., on police information or Magistrate's own cognizance, not a private complaint). The power belongs to a Magistrate of the first class, or, for any other Judicial Magistrate, only with the Chief Judicial Magistrate's prior sanction -- a deliberate seniority/oversight check on who may exercise it. The Magistrate must record reasons and may stop proceedings at any stage without pronouncing a judgment. The consequence then depends on timing: if the stoppage occurs after the principal witnesses' evidence has already been recorded, the Magistrate must pronounce a judgment of acquittal (since enough evidence exists to assess the merits); in any other case (stopped before that point), the Magistrate instead releases the accused, with that release carrying the legal effect of a discharge (a lower-finality outcome, appropriate where the merits were never substantially tested).",
+        "essential_elements": [
+          "Applies only to summons-cases instituted otherwise than upon complaint",
+          "Exercisable by a Magistrate of the first class, or by any other Judicial Magistrate only with the Chief Judicial Magistrate's prior sanction",
+          "The Magistrate must record reasons and may stop proceedings at any stage without pronouncing judgment",
+          "If stopped after principal witnesses' evidence has been recorded: judgment of acquittal",
+          "If stopped at any other (earlier) stage: release of the accused, having the effect of a discharge"
+        ],
+        "exceptions_and_qualifications": [
+          "The consequence of stoppage is not uniform -- it depends entirely on whether the principal witnesses had already testified, distinguishing a merits-tested acquittal from an earlier-stage discharge-equivalent release.",
+          "Any Judicial Magistrate other than a first-class Magistrate needs the Chief Judicial Magistrate's prior sanction to exercise this power -- it is not freely available to every Magistrate."
+        ],
+        "how_to_read": "Read this as the final provision addressing case-termination options within Chapter XXI's summons-case procedure -- a practical, discretionary tool for closing out cases that are unlikely to proceed usefully, with the acquittal/discharge fork calibrated to how much evidentiary testing has actually occurred."
+      }
+    },
+    {
+      "number": "282",
+      "title": "Power of Court to convert summons-cases into warrant-cases",
+      "raw_text": "282. Power of Court to convert summons-cases into warrant-cases.—When in the course of the trial\n    of a summons-case relating to an offence punishable with imprisonment for a term exceeding six months,\n    it appears to the Magistrate that in the interests of justice, the offence should be tried in accordance with\n    the procedure for the trial of warrant-cases, such Magistrate may proceed to re-hear the case in the manner\n    provided by this Sanhita for the trial of warrant-cases and may recall any witness who may have been\n    examined.",
+      "key_terms": [
+        "summons-case",
+        "warrant-case"
+      ],
+      "breakdown": {
+        "plain_summary": "This section closes Chapter XXI by giving the Magistrate a mid-trial upgrade power: where a summons-case concerns an offence punishable with imprisonment exceeding six months, and it appears to the Magistrate, in the interests of justice, that the case really warrants the more elaborate procedural protections of a warrant-case trial, the Magistrate may switch tracks -- re-hearing the case under warrant-case procedure, and recalling any witness already examined under the summons-case procedure so that the fuller warrant-case safeguards (such as formal charge-framing) can be properly applied to their evidence.",
+        "essential_elements": [
+          "Applies to a summons-case relating to an offence punishable with imprisonment exceeding six months",
+          "Trigger: it appears to the Magistrate, in the interests of justice, that warrant-case procedure should apply",
+          "The Magistrate may re-hear the case under warrant-case procedure and recall any witness already examined"
+        ],
+        "exceptions_and_qualifications": [
+          "This conversion power is confined to offences punishable with imprisonment exceeding six months -- it is not available for every summons-case regardless of severity.",
+          "The 'interests of justice' trigger is not self-executing -- it requires the Magistrate's own judgment call, typically prompted by the case's complexity or gravity becoming apparent only as the trial unfolds."
+        ],
+        "how_to_read": "Read this as the safety valve counterpart to section 282's inverse: rather than starting a case incorrectly as a warrant-case, this section instead allows correcting course mid-trial where a summons-case turns out to warrant heavier procedural machinery. This completes Chapter XXI (Trial of Summons-Cases by Magistrates, Sections 274-282) in full; Chapter XXII (Summary Trials) follows at Section 283."
+      }
+    },
+    {
+      "number": "283",
+      "title": "Power to try summarily",
+      "raw_text": "283. Power to try summarily.—(1) Notwithstanding anything contained in this Sanhita—\n            (a) any Chief Judicial Magistrate;\n            (b) Magistrate of the first class,\n    shall try in a summary way all or any of the following offences:—\n           (i) theft, under sub-section (2) of section 303, section 305 or section 306 of the Bharatiya Nyaya\n        Sanhita, 2023 where the value of the property stolen does not exceed twenty thousand rupees;\n           (ii) receiving or retaining stolen property, under sub-section (2) of section 317 of the Bharatiya\n        Nyaya Sanhita, 2023, where the value of the property does not exceed twenty thousand rupees;\n            (iii) assisting in the concealment or disposal of stolen property under sub-section (5) of section 317\n        of the Bharatiya Nyaya Sanhita, 2023, where the value of such property does not exceed twenty\n        thousand rupees;\n            (iv) offences under sub-sections (2) and (3) of section 331 of the Bharatiya Nyaya Sanhita, 2023;\n           (v) insult with intent to provoke a breach of the peace, under section 352, and criminal intimidation,\n        under sub-sections (2) and (3) of section 351 of the Bharatiya Nyaya Sanhita, 2023;\n            (vi) abetment of any of the foregoing offences;\n            (vii) an attempt to commit any of the foregoing offences, when such attempt is an offence;\n            (viii) any offence constituted by an act in respect of which a complaint may be made under\n        section 20 of the Cattle-trespass Act, 1871 (1 of 1871).\n        (2) The Magistrate may, after giving the accused a reasonable opportunity of being heard, for reasons\n    to be recorded in writing, try in a summary way all or any of the offences not punishable with death or\n    imprisonment for life or imprisonment for a term exceeding three years:\n        Provided that no appeal shall lie against the decision of a Magistrate to try a case in a summary way\n    under this sub-section.\n        (3) When, in the course of a summary trial it appears to the Magistrate that the nature of the case is\n    such that it is undesirable to try it summarily, the Magistrate shall recall any witnesses who may have been\n    examined and proceed to re-hear the case in the manner provided by this Sanhita.",
+      "key_terms": [
+        "summary trial",
+        "abetment",
+        "attempt"
+      ],
+      "breakdown": {
+        "plain_summary": "This section opens Chapter XXII (Summary Trials) -- the Sanhita's fastest trial track, designed for a defined list of comparatively minor, high-volume offences. Sub-section (1) creates a mandatory ('shall') category: a Chief Judicial Magistrate or a Magistrate of the first class must try summarily a specific enumerated list of offences drawn from the Bharatiya Nyaya Sanhita -- theft, receiving/retaining stolen property, and assisting in concealment/disposal of stolen property, each capped at a twenty-thousand-rupee property-value threshold; certain offences under BNS section 331(2)-(3) (house-trespass/breaking-related offences); insult intended to provoke breach of peace and criminal intimidation under specified BNS provisions; abetment of any of the foregoing; attempts to commit any of the foregoing (where the attempt itself is an offence); and offences under the Cattle-trespass Act, 1871. Sub-section (2) then creates a second, broader, discretionary category: the Magistrate may, after giving the accused a reasonable hearing opportunity and recording reasons in writing, elect to summarily try any offence not punishable with death, life imprisonment, or imprisonment exceeding three years -- a much wider net than sub-section (1)'s fixed list, but subject to a proviso completely barring any appeal against the Magistrate's decision to try the case summarily (though this does not bar appeal against the ultimate conviction/sentence itself). Sub-section (3) provides an off-ramp: if, once underway, the summary trial's nature reveals it to be undesirable to try summarily, the Magistrate must recall any witnesses already examined and re-hear the case under ordinary procedure -- much like the summons-to-warrant conversion mechanism of section 282.",
+        "essential_elements": [
+          "Sub-section (1): a defined, mandatory list of offences (low-value theft, stolen property receipt/concealment/disposal, certain BNS 331 offences, insult/criminal intimidation, abetment/attempt of these, and Cattle-trespass Act offences) that a Chief Judicial Magistrate or first-class Magistrate must try summarily",
+          "Sub-section (2): a broader, discretionary category covering any offence not punishable with death, life imprisonment, or imprisonment exceeding three years, exercisable after a hearing opportunity and with recorded reasons",
+          "Proviso to sub-section (2): no appeal lies against the Magistrate's decision to try a case summarily under that sub-section",
+          "Sub-section (3): if summary trial proves undesirable given the case's nature, the Magistrate must recall witnesses and re-hear the case under ordinary procedure"
+        ],
+        "exceptions_and_qualifications": [
+          "The mandatory list in sub-section (1) is capped by monetary thresholds for property offences (twenty thousand rupees) -- exceeding that value takes the offence outside the mandatory-summary-trial category.",
+          "The appeal bar in the sub-section (2) proviso is narrowly confined to the decision to try summarily -- it does not, by its own terms, extend to barring appeal against the eventual conviction or sentence."
+        ],
+        "how_to_read": "Read sub-sections (1) and (2) as two distinct gateways into summary trial -- one mandatory and list-bound, the other discretionary and severity-bound -- with sub-section (3) providing symmetry to section 282's conversion logic by allowing a summary trial to be abandoned mid-course if it proves unsuitable."
+      }
+    },
+    {
+      "number": "284",
+      "title": "Summary trial by Magistrate of second class",
+      "raw_text": "284. Summary trial by Magistrate of second class.—The High Court may confer on any Magistrate\n    invested with the powers of a Magistrate of the second class power to try summarily any offence which is\n    punishable only with fine or with imprisonment for a term not exceeding six months with or without fine,\n    and any abetment of or attempt to commit any such offence.",
+      "key_terms": [
+        "summary trial",
+        "abetment",
+        "attempt"
+      ],
+      "breakdown": {
+        "plain_summary": "This section extends summary-trial power downward to second-class Magistrates, but only where the High Court has specifically conferred that power, and only for a narrower category of truly minor offences -- those punishable solely by fine, or by imprisonment not exceeding six months (with or without fine), plus abetment or attempt of any such offence. This reflects a graduated trust structure: second-class Magistrates, generally exercising more limited sentencing powers than their first-class counterparts, are entrusted with summary-trial power only for the least serious offences, and only upon the High Court's specific conferral.",
+        "essential_elements": [
+          "The High Court may confer summary-trial power on a Magistrate invested with second-class Magistrate powers",
+          "The conferred power is limited to offences punishable only with fine, or with imprisonment not exceeding six months (with or without fine)",
+          "The power extends to abetment of, or attempt to commit, any such offence"
+        ],
+        "exceptions_and_qualifications": [
+          "This power does not arise automatically from a Magistrate's second-class status -- it requires a specific conferral by the High Court.",
+          "The offence-severity ceiling here (fine-only or up to six months' imprisonment) is markedly lower than the broader discretionary category available to first-class Magistrates under section 283(2) (up to three years)."
+        ],
+        "how_to_read": "Read this alongside section 283 as completing the summary-trial jurisdictional hierarchy: Chief Judicial Magistrates and first-class Magistrates get both a mandatory list and a broad discretionary category (section 283), while second-class Magistrates get access only to a narrow, fine-or-short-imprisonment category, and only when the High Court specifically confers it."
+      }
+    },
+    {
+      "number": "285",
+      "title": "Procedure for summary trials",
+      "raw_text": "285. Procedure for summary trials.—(1) In trials under this Chapter, the procedure specified in this\n    Sanhita for the trial of summons-case shall be followed except as hereinafter mentioned.\n        (2) No sentence of imprisonment for a term exceeding three months shall be passed in the case of any\n    conviction under this Chapter.",
+      "key_terms": [
+        "summary trial",
+        "sentence"
+      ],
+      "breakdown": {
+        "plain_summary": "This section fixes summary trials firmly within the summons-case procedural framework (Chapter XXI) as the default, departing from it only where this Chapter (XXII) specifically says otherwise (such as the record-keeping requirements of sections 286-288). Sub-section (2) then imposes summary trial's defining sentencing ceiling: regardless of what the underlying offence might otherwise carry, no sentence of imprisonment exceeding three months may be passed upon any conviction obtained through a summary trial -- a hard cap reflecting the deliberately abbreviated, lower-stakes nature of this trial track.",
+        "essential_elements": [
+          "The procedure for summons-case trials applies to summary trials by default, except where this Chapter provides otherwise",
+          "No sentence of imprisonment exceeding three months may be passed on any conviction obtained under this Chapter"
+        ],
+        "exceptions_and_qualifications": [
+          "The three-month sentencing cap is absolute for summary-trial convictions, regardless of what punishment the underlying offence might otherwise carry if tried under ordinary procedure."
+        ],
+        "how_to_read": "Read this as the anchor provision for the whole of Chapter XXII: it explains why the Chapter does not need to restate summons-case procedure wholesale (it simply borrows it by reference) and supplies the hard sentencing ceiling that makes summary trials a genuinely lower-stakes, faster-moving track."
+      }
+    },
+    {
+      "number": "286",
+      "title": "Record in summary trials",
+      "raw_text": "286. Record in summary trials.—In every case tried summarily, the Magistrate shall enter, in such\n    form as the State Government may direct, the following particulars, namely:—\n            (a) the serial number of the case;\n            (b) the date of the commission of the offence;\n            (c) the date of the report or complaint;\n            (d) the name of the complainant (if any);\n            (e) the name, parentage and residence of the accused;\n            (f) the offence complained of and the offence (if any) proved, and in cases coming under clause (i),\n        clause (ii) or clause (iii) of sub-section (1) of section 283, the value of the property in respect of which\n        the offence has been committed;\n            (g) the plea of the accused and his examination (if any);\n            (h) the finding;\n            (i) the sentence or other final order;\n            (j) the date on which proceedings terminated.",
+      "key_terms": [
+        "summary trial",
+        "complainant"
+      ],
+      "breakdown": {
+        "plain_summary": "This section prescribes the condensed recordkeeping format that is one of the defining efficiency features of summary trials: rather than a full trial record, the Magistrate need only enter a fixed set of essential particulars, in a form the State Government directs, covering the case's identifying details (serial number, offence date, report/complaint date, complainant's name), the accused's identity (name, parentage, residence), the offence charged versus proved (with property value noted for the theft/stolen-property offences under section 283(1)(i)-(iii)), the plea and examination, the finding, the sentence or other final order, and the termination date. This structured checklist replaces the more elaborate judgment and deposition requirements of ordinary trials.",
+        "essential_elements": [
+          "Applies to every case tried summarily under this Chapter",
+          "The Magistrate must enter ten specified particulars (serial number through termination date) in a State-Government-directed form",
+          "For theft/stolen-property offences under section 283(1)(i)-(iii), the value of the property involved must also be recorded"
+        ],
+        "exceptions_and_qualifications": [
+          "This condensed record-format requirement applies uniformly regardless of the plea outcome -- it is not confined to contested cases (compare section 287, which imposes an additional judgment-writing duty specifically where the accused does not plead guilty)."
+        ],
+        "how_to_read": "Read this as the procedural embodiment of the summary trial's efficiency purpose -- a fixed checklist replacing a full narrative record, with section 287 adding a further requirement only for the subset of cases that are actually contested (no guilty plea)."
+      }
+    },
+    {
+      "number": "287",
+      "title": "Judgment in cases tried summarily",
+      "raw_text": "287. Judgment in cases tried summarily.—In every case tried summarily in which the accused does\n    not plead guilty, the Magistrate shall record the substance of the evidence and a judgment containing a brief\n    statement of the reasons for the finding.",
+      "key_terms": [
+        "summary trial",
+        "judgment"
+      ],
+      "breakdown": {
+        "plain_summary": "This section adds a supplementary requirement to section 286's basic record, applicable only where the accused does not plead guilty (i.e., contested summary trials). In such cases, the mere checklist of particulars under section 286 is not enough -- the Magistrate must also record the substance of the evidence led, and write a judgment containing a brief statement of reasons for the finding reached. This ensures contested summary-trial outcomes remain reviewable (on appeal or revision) even though the overall procedure is abbreviated, while guilty-plea cases (where the accused has admitted the offence) do not require this additional evidentiary/reasoning record.",
+        "essential_elements": [
+          "Applies specifically to summarily tried cases in which the accused does not plead guilty",
+          "The Magistrate must record the substance of the evidence",
+          "The Magistrate must also write a judgment containing a brief statement of reasons for the finding"
+        ],
+        "exceptions_and_qualifications": [
+          "This requirement is triggered only by a non-guilty plea -- summary trials ending in a guilty-plea conviction are governed solely by section 286's particulars, without this additional evidence-and-reasons record.",
+          "The reasoning requirement is explicitly for a 'brief' statement -- consistent with summary trial's efficiency goal, this is not meant to replicate the depth of an ordinary trial judgment."
+        ],
+        "how_to_read": "Read this as calibrating the summary trial's abbreviated recordkeeping specifically to preserve reviewability where the case was actually contested -- a proportionate middle ground between full ordinary-trial judgments and the bare particulars checklist of section 286."
+      }
+    },
+    {
+      "number": "288",
+      "title": "Language of record and judgment",
+      "raw_text": "288. Language of record and judgment.—(1) Every such record and judgment shall be written in the\n    language of the Court.\n        (2) The High Court may authorise any Magistrate empowered to try offences summarily to prepare the\n    aforesaid record or judgment or both by means of an officer appointed in this behalf by the Chief Judicial\n    Magistrate, and the record or judgment so prepared shall be signed by such Magistrate.",
+      "key_terms": [
+        "summary trial",
+        "judgment"
+      ],
+      "breakdown": {
+        "plain_summary": "This section closes Chapter XXII with two practical implementation rules. Sub-section (1) requires the section 286 record and section 287 judgment to be written in the language of the Court -- ensuring accessibility and consistency with the Court's ordinary language of record. Sub-section (2) permits a delegation-of-drafting arrangement: the High Court may authorise a Magistrate empowered to try cases summarily to have the record or judgment (or both) actually prepared by an officer appointed for that purpose by the Chief Judicial Magistrate -- a practical concession to the high volume of summary trials -- but the Magistrate must still personally sign whatever record or judgment is so prepared, preserving ultimate judicial accountability for its accuracy and content.",
+        "essential_elements": [
+          "The record and judgment in summary trials must be written in the language of the Court",
+          "The High Court may authorise a Magistrate to have the record/judgment prepared by an officer appointed by the Chief Judicial Magistrate",
+          "Any record or judgment so prepared must still be signed by the Magistrate"
+        ],
+        "exceptions_and_qualifications": [
+          "The delegation of preparation under sub-section (2) does not delegate final responsibility -- the Magistrate's personal signature remains mandatory, preserving accountability even where drafting assistance is used."
+        ],
+        "how_to_read": "Read this as a practical volume-management accommodation appropriate to summary trials' high caseload character, balanced against the need to preserve judicial accountability through the mandatory signature requirement. This completes Chapter XXII (Summary Trials, Sections 283-288) in full; Chapter XXIII (Plea Bargaining) follows at Section 289."
       }
     }
   ]
