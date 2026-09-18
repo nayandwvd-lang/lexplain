@@ -21,7 +21,10 @@
     "relevant": "Defined in section 2(1)(k): a fact is “relevant” to another when it is connected to it in one of the specific ways described in this Adhiniyam's provisions on relevancy of facts (sections 3 onward) -- relevance is not a matter of general logic or common sense alone, but of falling within one of these codified categories of connection.",
     "conspiracy": "An agreement or common design between two or more persons to commit an offence or an actionable wrong. Section 8 makes anything said, done, or written by any one conspirator in reference to their common intention relevant against every other person believed to be part of the conspiracy, even if that person was unaware of the specific act or a stranger to the person who did it.",
     "state of mind": "A person's intention, knowledge, good faith, negligence, rashness, ill-will, or goodwill towards someone -- an internal, mental fact. Section 12 makes facts showing the existence of a relevant state of mind (or of body/bodily feeling) relevant, but Explanation 1 requires the state of mind shown to relate specifically to the matter in question, not merely to a general disposition or character trait.",
-    "admission": "A statement -- oral, documentary, or in electronic form -- that suggests an inference as to a fact in issue or relevant fact, made by specified categories of persons under specified circumstances. Section 15 opens the Adhiniyam's dedicated sub-topic on admissions, which governs when such statements can be used as evidence against the person who (or whose privy) made them."
+    "admission": "A statement -- oral, documentary, or in electronic form -- that suggests an inference as to a fact in issue or relevant fact, made by specified categories of persons under specified circumstances. Section 15 opens the Adhiniyam's dedicated sub-topic on admissions, which governs when such statements can be used as evidence against the person who (or whose privy) made them.",
+    "confession": "A species of admission made by an accused person in a criminal proceeding, acknowledging guilt. Sections 22 to 25 govern when a confession is irrelevant (e.g. induced, threatened, or coerced by a person in authority) or barred outright (e.g. made to a police officer or while in police custody, subject to specific exceptions).",
+    "person in authority": "Someone whose position gives their inducement, threat, or promise real weight in the accused's mind in relation to the charge against them -- typically a person connected with the prosecution, arrest, examination, or custody of the accused (e.g. a police officer, magistrate, or jailor). A confession tainted by such a person's inducement, threat, coercion, or promise is irrelevant under section 22.",
+    "secondary evidence": "Evidence of a document's contents other than the original document itself -- for example, a certified copy or oral account of its contents. It is generally admissible only where the Adhiniyam's rules permit it in place of the original (primary) document."
   },
   "sections": [
     {
@@ -343,6 +346,179 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This section underlies routine 'presumption of regularity' arguments -- proof of a standing office practice (like a mailroom routine) supports an inference that the specific act in question followed that same routine, without needing direct testimony about that one instance."
+      }
+    },
+    {
+      "number": "15",
+      "title": "Admission defined",
+      "raw_text": "15. An admission is a statement, oral or documentary or contained in electronic form, which suggests any inference as to any fact in issue or relevant fact, and which is made by any of the persons, and under the circumstances, hereinafter mentioned.",
+      "key_terms": [
+        "admission",
+        "electronic form"
+      ],
+      "breakdown": {
+        "plain_summary": "This section opens the Adhiniyam's dedicated sub-topic on admissions. An admission is any statement -- spoken, written, or electronic -- that suggests an inference about a fact in issue or a relevant fact. But the definition is deliberately incomplete on its own: it only counts as an admission if made by one of the specific categories of persons, and under the specific circumstances, that sections 16 to 18 go on to list.",
+        "essential_elements": [
+          "A statement -- oral, documentary, or in electronic form.",
+          "The statement must suggest an inference as to a fact in issue or a relevant fact.",
+          "The maker and the circumstances must fall within the categories specified in sections 16 to 18."
+        ],
+        "exceptions_and_qualifications": [
+          "This section is purely definitional; the operative categories of who counts as an admission-maker are supplied by sections 16 to 18, and the rules on who may prove an admission are supplied by section 19."
+        ],
+        "how_to_read": "Read section 15 as the umbrella definition and sections 16-18 as the closed list of qualifying makers -- a statement that suggests the right inference but comes from someone outside that list is not an 'admission' for evidentiary purposes."
+      }
+    },
+    {
+      "number": "16",
+      "title": "Admission by party to proceeding or his agent",
+      "raw_text": "16. (1) Statements made by a party to the proceeding, or by an agent to any such party, whom the Court regards, under the circumstances of the case, as expressly or impliedly authorised by him to make them, are admissions.\n(2) Statements made by—\n(i) parties to suits suing or sued in a representative character, are not admissions, unless they were made while the party making them held that character; or\n(ii) (a) persons who have any proprietary or pecuniary interest in the subject matter of the proceeding, and who make the statement in their character of persons so interested; or\n(b) persons from whom the parties to the suit have derived their interest in the subject matter of the suit,\nare admissions, if they are made during the continuance of the interest of the persons making the statements.",
+      "key_terms": [
+        "representative character",
+        "proprietary interest",
+        "pecuniary interest"
+      ],
+      "breakdown": {
+        "plain_summary": "Subsection (1) makes a party's own statements, or an authorised agent's statements, admissions against that party. Subsection (2) handles the trickier case of persons suing or sued in a representative capacity (e.g. as trustee or executor): their personal statements are admissions only if made while they held that representative character. Persons with a proprietary or pecuniary interest in the subject matter, or predecessors in interest, count as admission-makers only for statements made while their interest existed.",
+        "essential_elements": [
+          "A party's own statement, or a statement by their expressly or impliedly authorised agent, is an admission.",
+          "A representative party's statement is an admission only if made while acting in that representative character.",
+          "A person with a proprietary or pecuniary interest, or a predecessor in interest, counts as an admission-maker only for statements made during the continuance of that interest."
+        ],
+        "exceptions_and_qualifications": [
+          "The timing qualifier is the trap: a statement made before a person acquired the representative character or the relevant interest, or after they ceased to hold it, falls outside this section even if the content is otherwise damaging."
+        ],
+        "how_to_read": "Treat subsection (1) as the default rule for parties and agents, and subsection (2) as a carve-out clarifying that representative-capacity and interest-based admissions are time-bound to the period the character or interest actually existed."
+      }
+    },
+    {
+      "number": "17",
+      "title": "Admissions by persons whose position must be proved as against party to suit",
+      "raw_text": "17. Statements made by persons whose position or liability, it is necessary to prove as against any party to the suit, are admissions, if such statements would be relevant as against such persons in relation to such position or liability in a suit brought by or against them, and if they are made whilst the person making them occupies such position or is subject to such liability.\nIllustration.\nA undertakes to collect rents for B. B sues A for not collecting rent due from C to B. A denies that rent was due from C to B. A statement by C that he owed B rent is an admission, and is a relevant fact as against A, if A denies that C did owe rent to B.",
+      "key_terms": [
+        "position",
+        "liability"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a party's case depends on proving a third person's position or liability, that third person's own statements about their position or liability can be used as an admission -- but only if the statement would have been relevant against that third person themselves in a suit, and only if made while they actually held that position or liability.",
+        "essential_elements": [
+          "The proceeding must require proof of a third person's position or liability as against a party to the suit.",
+          "The third person's statement must be one that would be relevant against them in a suit concerning that position or liability.",
+          "The statement must have been made while the third person occupied that position or was subject to that liability."
+        ],
+        "exceptions_and_qualifications": [
+          "This section is narrower than it looks -- it does not let a party introduce any statement by any third person; the statement must independently satisfy the relevance test that would apply if the third person were themselves the party."
+        ],
+        "how_to_read": "Use the illustration as the template: C's admission of a debt to B becomes usable evidence against A only because A's whole defence turns on whether C's liability to B existed."
+      }
+    },
+    {
+      "number": "18",
+      "title": "Admissions by persons expressly referred to by party to suit",
+      "raw_text": "18. Statements made by persons to whom a party to the suit has expressly referred for information in reference to a matter in dispute are admissions.\nIllustration.\nThe question is, whether a horse sold by A to B is sound.\nA says to B—“Go and ask C, C knows all about it”. C's statement is an admission.",
+      "key_terms": [
+        "expressly referred"
+      ],
+      "breakdown": {
+        "plain_summary": "If a party tells the other side to go verify a disputed fact with a named third person, that third person's resulting statement is treated as the referring party's own admission -- the referral itself is what binds them to the answer.",
+        "essential_elements": [
+          "A party to the suit must have expressly referred another person to a named third party for information on a matter in dispute.",
+          "The third party's statement on that matter then counts as an admission by the referring party."
+        ],
+        "exceptions_and_qualifications": [
+          "The reference must be express -- a party cannot be bound by a third person's statement merely because that third person happens to have relevant knowledge; the party must have actually pointed the other side toward them."
+        ],
+        "how_to_read": "This section punishes parties for vouching for a third person's knowledge -- once you say 'ask C, C knows all about it', C's answer becomes evidence against you, not just against C."
+      }
+    },
+    {
+      "number": "19",
+      "title": "Proof of admissions against persons making them, and by or on their behalf",
+      "raw_text": "19. Admissions are relevant and may be proved as against the person who makes them, or his representative in interest; but they cannot be proved by or on behalf of the person who makes them or by his representative in interest, except in the following cases, namely:—\n(1) an admission may be proved by or on behalf of the person making it, when it is of such a nature that, if the person making it were dead, it would be relevant as between third persons under section 26;\n(2) an admission may be proved by or on behalf of the person making it, when it consists of a statement of the existence of any state of mind or body, relevant or in issue, made at or about the time when such state of mind or body existed, and is accompanied by conduct rendering its falsehood improbable;\n(3) an admission may be proved by or on behalf of the person making it, if it is relevant otherwise than as an admission.\nIllustrations.\n(a) The question between A and B is, whether a certain deed is or is not forged. A affirms that it is genuine, B that it is forged. A may prove a statement by B that the deed is genuine, and B may prove a statement by A that deed is forged; but A cannot prove a statement by himself that the deed is genuine, nor can B prove a statement by himself that the deed is forged.\n(b) A, the captain of a ship, is tried for casting her away. Evidence is given to show that the ship was taken out of her proper course. A produces a book kept by him in the ordinary course of his business showing observations alleged to have been taken by him from day to day, and indicating that the ship was not taken out of her proper course. A may prove these statements, because they would be admissible between third parties, if he were dead, under clause (b) of section 26.\n(c) A is accused of a crime committed by him at Kolkata. He produces a letter written by himself and dated at Chennai on that day, and bearing the Chennai post-mark of that day. The statement in the date of the letter is admissible, because, if A were dead, it would be admissible under clause (b) of section 26.\n(d) A is accused of receiving stolen goods knowing them to be stolen. He offers to prove that he refused to sell them below their value. A may prove these statements, though they are admissions, because they are explanatory of conduct influenced by facts in issue.\n(e) A is accused of fraudulently having in his possession counterfeit currency which he knew to be counterfeit. He offers to prove that he asked a skilful person to examine the currency as he doubted whether it was counterfeit or not, and that person did examine it and told him it was genuine. A may prove these facts.",
+      "key_terms": [
+        "representative in interest",
+        "state of mind"
+      ],
+      "breakdown": {
+        "plain_summary": "The default rule is one-sided: an admission can be used against the person who made it, but that person cannot introduce their own prior statement to help themselves -- self-serving statements are not evidence merely because the speaker later repeats them in court. Three narrow exceptions let a person prove their own admission: (1) statements that would qualify as relevant dying-declaration-type statements under section 26 if the maker were dead; (2) contemporaneous statements of state of mind or body accompanied by conduct that makes falsehood improbable; and (3) statements relevant for some reason other than being an admission at all.",
+        "essential_elements": [
+          "General rule: an admission may be proved against its maker or their representative in interest.",
+          "General rule: an admission may not be proved by or on behalf of the person who made it, or their representative in interest.",
+          "Exception 1: provable by the maker if it would be relevant under section 26 as between third persons were the maker dead.",
+          "Exception 2: provable by the maker if it is a contemporaneous statement of state of mind or body accompanied by falsehood-rendering-improbable conduct.",
+          "Exception 3: provable by the maker if it is relevant on some ground other than being an admission."
+        ],
+        "exceptions_and_qualifications": [
+          "Illustration (a) is the clean statement of the general bar: neither party can prove their own prior consistent statement, only the opposing party's admission.",
+          "Illustrations (b)-(e) show the exceptions operating: business records made in the ordinary course, a dated letter's circumstantial reliability, and conduct-explaining statements all escape the general bar because they satisfy one of the three carve-outs."
+        ],
+        "how_to_read": "This is the codified rule against self-serving statements -- when a client wants to rely on their own prior statement, test it against all three exceptions before assuming it is barred; conduct-corroborated state-of-mind statements and section 26-type statements are the most commonly invoked escape routes."
+      }
+    },
+    {
+      "number": "20",
+      "title": "When oral admissions as to contents of documents are relevant",
+      "raw_text": "20. Oral admissions as to the contents of a document are not relevant, unless and until the party proposing to prove them shows that he is entitled to give secondary evidence of the contents of such document under the rules hereinafter contained, or unless the genuineness of a document produced is in question.",
+      "key_terms": [
+        "secondary evidence",
+        "genuineness"
+      ],
+      "breakdown": {
+        "plain_summary": "You generally cannot use someone's spoken admission about what a document says as a substitute for the document itself. An oral admission about a document's contents only becomes relevant if the party is already entitled to give secondary evidence of that document under the Adhiniyam's document-evidence rules, or if the document's genuineness itself is the point in dispute.",
+        "essential_elements": [
+          "The general rule bars oral admissions as to a document's contents from being relevant.",
+          "Exception: relevant if the party is entitled to give secondary evidence of the document's contents under the rules elsewhere in the Adhiniyam.",
+          "Exception: relevant if the genuineness of a produced document is itself in question."
+        ],
+        "exceptions_and_qualifications": [
+          "This section anticipates and defers to the later chapter on documentary evidence and secondary evidence -- it cannot be applied in isolation without checking whether the secondary-evidence conditions are actually met."
+        ],
+        "how_to_read": "This is a specific application of the best-evidence principle to admissions: the document itself (or properly admissible secondary evidence of it) trumps a witness's spoken recollection of what it said."
+      }
+    },
+    {
+      "number": "21",
+      "title": "Admissions in civil cases when relevant",
+      "raw_text": "21. In civil cases no admission is relevant, if it is made either upon an express condition that evidence of it is not to be given, or under circumstances from which the Court can infer that the parties agreed together that evidence of it should not be given.\nExplanation.—Nothing in this section shall be taken to exempt any advocate from giving evidence of any matter of which he may be compelled to give evidence under sub-sections (1) and (2) of section 132.",
+      "key_terms": [
+        "express condition"
+      ],
+      "breakdown": {
+        "plain_summary": "In civil litigation, statements made on the express condition that they will not be used in evidence -- or made under circumstances showing the parties agreed evidence of them would not be given (the basis for 'without prejudice' settlement talk) -- are not relevant as admissions. The Explanation clarifies this protection does not override an advocate's separate, distinct obligations to give evidence under section 132 where compellable.",
+        "essential_elements": [
+          "Applies only in civil cases.",
+          "An admission made on an express condition that evidence of it is not to be given is not relevant.",
+          "An admission made under circumstances from which the Court can infer an agreement not to give evidence of it is likewise not relevant.",
+          "Explanation: this protection does not exempt an advocate from evidence they may be compelled to give under section 132(1) and (2)."
+        ],
+        "exceptions_and_qualifications": [
+          "This is the statutory foundation for 'without prejudice' settlement negotiations in civil matters -- but the protection depends on proving the express condition or the inferable agreement, it is not automatic merely because a party later claims the conversation was confidential."
+        ],
+        "how_to_read": "Practitioners invoke this section to keep settlement-negotiation statements out of evidence; always pair it with a check of section 132's advocate-communication rules, since the Explanation expressly preserves those separately."
+      }
+    },
+    {
+      "number": "22",
+      "title": "Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding",
+      "raw_text": "22. A confession made by an accused person is irrelevant in a criminal proceeding, if the making of the confession appears to the Court to have been caused by any inducement, threat, coercion or promise having reference to the charge against the accused person, proceeding from a person in authority and sufficient, in the opinion of the Court, to give the accused person grounds which would appear to him reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him:\nProvided that if the confession is made after the impression caused by any such inducement, threat, coercion or promise has, in the opinion of the Court, been fully removed, it is relevant:\nProvided further that if such a confession is otherwise relevant, it does not become irrelevant merely because it was made under a promise of secrecy, or in consequence of a deception practised on the accused person for the purpose of obtaining it, or when he was drunk, or because it was made in answer to questions which he need not have answered, whatever may have been the form of those questions, or because he was not warned that he was not bound to make such confession, and that evidence of it might be given against him.",
+      "key_terms": [
+        "confession",
+        "person in authority",
+        "inducement"
+      ],
+      "breakdown": {
+        "plain_summary": "A confession is irrelevant in a criminal case if the Court finds it was caused by inducement, threat, coercion, or promise connected to the charge, coming from a person in authority, and substantial enough to give the accused reasonable grounds to believe confessing would bring an advantage or avoid harm. The first proviso restores relevance if the tainting impression was later fully removed before the confession was made. The second proviso is a list of things that do NOT by themselves taint a confession: a promise of secrecy, deception used to obtain it, drunkenness, answering questions one need not have answered, or the absence of a warning that the accused was not bound to speak.",
+        "essential_elements": [
+          "The confession must be shown, in the Court's view, to have been caused by inducement, threat, coercion, or promise referencing the charge.",
+          "That inducement, threat, coercion, or promise must proceed from a person in authority.",
+          "It must be sufficient to give the accused reasonable grounds to believe confessing would secure a temporal advantage or avoid a temporal evil in relation to the proceedings.",
+          "Proviso 1: if the tainting impression was, in the Court's opinion, fully removed before the confession, the confession is relevant.",
+          "Proviso 2: a confession otherwise relevant does not become irrelevant merely because of a secrecy promise, deception, drunkenness, unnecessary questions answered, or absence of a warning."
+        ],
+        "exceptions_and_qualifications": [
+          "This section is the primary statutory filter for coerced or induced confessions in criminal trials -- the four-part test (inducement/threat/coercion/promise + reference to the charge + person in authority + reasonable grounds for temporal advantage/evil) must all be satisfied for the confession to be excluded, and the exclusion can still be cured under the first proviso."
+        ],
+        "how_to_read": "Run every contested confession through this section first: identify the specific inducement/threat/coercion/promise, confirm it came from a 'person in authority', and test whether the taint was removed before the confession was actually made -- the second proviso's list is a checklist of arguments that will NOT succeed in excluding a confession on their own."
       }
     }
   ]
