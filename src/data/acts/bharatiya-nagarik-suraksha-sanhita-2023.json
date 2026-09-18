@@ -300,7 +300,9 @@
     "superintendent of jail": "The officer in charge of a jail, who under section 472 bears specific procedural duties in death sentence cases: informing the convict of the dismissal of his appeal/review/special leave or of death-sentence confirmation (triggering the thirty-day mercy-petition window), ensuring every convict in a multi-convict case files a mercy petition, and forwarding case records to the government where a convict fails to do so, plus receiving communication of the President's final order within forty-eight hours.",
     "appropriate government": "As defined in section 473(7), either the Central Government (where the sentence/order relates to a matter within the Union's executive power) or the State Government (in other cases) -- whichever government holds the power under sections 473 and 474 to suspend, remit, or commute a sentence in a given case.",
     "suspension": "The temporary deferral of a sentence's execution, without altering its underlying character or duration -- as distinct from remission (permanent reduction of the term) and commutation (substitution of a different, lesser kind of punishment). Section 473 empowers the appropriate Government to suspend a sentence's execution, with or without conditions.",
-    "remission": "A reduction of the whole or part of the punishment to which a person has been sentenced, without changing its character -- as distinct from commutation (substituting a different kind of punishment) and suspension (temporary deferral without reduction). Section 473 empowers the appropriate Government to remit a sentence, subject to conditions it may impose and to the restrictions in section 475 for certain life-imprisonment cases."
+    "remission": "A reduction of the whole or part of the punishment to which a person has been sentenced, without changing its character -- as distinct from commutation (substituting a different kind of punishment) and suspension (temporary deferral without reduction). Section 473 empowers the appropriate Government to remit a sentence, subject to conditions it may impose and to the restrictions in section 475 for certain life-imprisonment cases.",
+    "indigent": "A person unable to furnish surety or afford a bail bond. Under section 478(1)'s proviso, an indigent person is to be discharged on executing a personal bond for appearance instead of a surety-backed bail bond; the Explanation creates a presumption of indigency if the person is unable to give a bail bond within a week of arrest.",
+    "under trial prisoner": "A person in custody during the investigation, inquiry, or trial of a case, not yet convicted. Section 479 caps how long an under trial prisoner may be detained by reference to the maximum sentence for the alleged offence -- ordinarily one-half, or one-third for first-time offenders -- subject to the Court's power to extend for recorded reasons and an absolute outer limit at the offence's maximum punishment."
   },
   "sections": [
     {
@@ -10624,6 +10626,144 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This fourteen-year floor is a frequently litigated benchmark in Indian sentencing practice -- always check whether a life sentence falls into one of these two triggering categories before assuming ordinary remission policies can shorten actual custody below fourteen years."
+      }
+    },
+    {
+      "number": "476",
+      "title": "Concurrent power of Central Government in case of death sentences",
+      "raw_text": "476. Concurrent power of Central Government in case of death sentences.—The powers conferred\nby sections 473 and 474 upon the State Government may, in the case of sentences of death, also be exercised\nby the Central Government.",
+      "key_terms": [
+        "central government",
+        "state government",
+        "commutation",
+        "suspension",
+        "remission"
+      ],
+      "breakdown": {
+        "plain_summary": "A short but important jurisdictional extension: the suspension/remission power (section 473) and the commutation power (section 474), which the definitions in section 473(7) generally assign to the 'appropriate Government' (Central or State depending on the matter), are both made concurrently exercisable by the Central Government specifically in death-sentence cases -- regardless of which government would otherwise be the 'appropriate' one. This gives the Union an additional, non-exclusive layer of clemency authority over the gravest class of sentence.",
+        "essential_elements": [
+          "The powers under sections 473 (suspend/remit) and 474 (commute) that belong to the State Government may, for death sentences specifically, also be exercised by the Central Government.",
+          "This is a concurrent power -- it supplements rather than displaces the State Government's own authority."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read alongside section 477, which imposes the reverse constraint -- requiring the State Government to secure the Central Government's concurrence before acting in certain other categories of cases -- together these two sections calibrate the Union-State balance of clemency power under this Chapter."
+      }
+    },
+    {
+      "number": "477",
+      "title": "State Government to act after concurrence with Central Government in certain cases",
+      "raw_text": "477. State Government to act after concurrence with Central Government in certain cases.—(1)\nThe powers conferred by sections 473 and 474 upon the State Government to remit or commute a sentence,\nin any case where the sentence is for an offence—\n        (a) which was investigated by any agency empowered to make investigation into an offence under\n    any Central Act other than this Sanhita; or\n        (b) which involved the misappropriation or destruction of, or damage to, any property belonging to\n    the Central Government; or\n        (c) which was committed by a person in the service of the Central Government while acting or\n    purporting to act in the discharge of his official duty,\nshall not be exercised by the State Government except after concurrence with the Central Government.\n    (2) No order of suspension, remission or commutation of sentences passed by the State Government in\nrelation to a person, who has been convicted of offences, some of which relate to matters to which the\nexecutive power of the Union extends, and who has been sentenced to separate terms of imprisonment\nwhich are to run concurrently, shall have effect unless an order for the suspension, remission or\ncommutation, as the case may be, of such sentences has also been made by the Central Government in\nrelation to the offences committed by such person with regard to matters to which the executive power of\nthe Union extends.",
+      "key_terms": [
+        "central government",
+        "state government",
+        "commutation",
+        "suspension",
+        "remission"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XXXIV Part E by fencing off three categories of cases where the State Government's ordinary section 473/474 power is not free-standing but requires the Central Government's concurrence first: (a) offences investigated by a Central-Act investigating agency other than this Sanhita (e.g., a CBI-type body), (b) offences involving misappropriation, destruction of, or damage to Central Government property, and (c) offences committed by a Central Government servant acting or purporting to act in official duty. Sub-section (2) handles a related concurrent-sentences scenario: where a person convicted of multiple offences -- some touching matters within the Union's executive power -- is serving concurrently-running separate terms, a State Government suspension/remission/commutation order has no effect at all unless the Central Government has made a matching order for the Union-related offences. In effect, the State cannot unilaterally free (or reduce the sentence of) someone whose concurrent sentence includes a Union-matter component, without the Centre's matching action.",
+        "essential_elements": [
+          "For offences in categories (a) investigated by a non-Sanhita Central-Act agency, (b) involving Central Government property, or (c) committed by a Central Government servant in official duty, the State Government's section 473/474 powers require prior Central Government concurrence.",
+          "Where a person is serving concurrently-running separate sentences, some relating to Union-executive-power matters, a State Government suspension/remission/commutation order takes effect only if the Central Government has made a matching order for the Union-related offences."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-section (1)'s three categories are cumulative constraints on the State Government's power, not a complete list of Central Government involvement -- section 476 separately gives the Central Government its own concurrent power in death-sentence cases."
+        ],
+        "how_to_read": "Practitioners seeking executive clemency in a case touching Central Government property, a Central investigating agency, or a Central Government employee's official conduct should anticipate a two-government approval process, not a single State-level application -- and where concurrent sentences straddle Union and State matters, relief on the Union-linked offence must be separately secured from the Centre for any State-level order to actually take effect."
+      }
+    },
+    {
+      "number": "478",
+      "title": "In what cases bail to be taken",
+      "raw_text": "478. In what cases bail to be taken.—(1) When any person other than a person accused of a non-\nbailable offence is arrested or detained without warrant by an officer in charge of a police station, or appears\nor is brought before a Court, and is prepared at any time while in the custody of such officer or at any stage\nof the proceeding before such Court to give bail, such person shall be released on bail:\n    Provided that such officer or Court, if he or it thinks fit, may, and shall, if such person is indigent and\nis unable to furnish surety, instead of taking bail bond from such person, discharge him on his executing a\nbond for his appearance as hereinafter provided.\n    Explanation.—Where a person is unable to give bail bond within a week of the date of his arrest, it\nshall be a sufficient ground for the officer or the Court to presume that he is an indigent person for the\npurposes of this proviso:\n    Provided further that nothing in this section shall be deemed to affect the provisions of sub-section (3)\nof section 135 or section 492.\n    (2) Notwithstanding anything in sub-section (1), where a person has failed to comply with the\nconditions of the bond or bail bond as regards the time and place of attendance, the Court may refuse to\nrelease him on bail, when on a subsequent occasion in the same case he appears before the Court or is\nbrought in custody and any such refusal shall be without prejudice to the powers of the Court to call upon\nany person bound by such bond or bail bond to pay the penalty thereof under section 491.",
+      "key_terms": [
+        "bail",
+        "bail bond",
+        "bond",
+        "non-bailable offence",
+        "indigent"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XXXV (Provisions as to Bail and Bonds) with the baseline rule for bailable offences: anyone other than a person accused of a non-bailable offence, if arrested/detained without warrant or brought before a Court, and prepared to give bail, shall be released on bail -- this is mandatory, not discretionary, for bailable offences. A protective proviso addresses indigency: an indigent person unable to furnish surety must be discharged on a personal bond instead of a surety-backed bail bond, so poverty alone cannot keep a bailable-offence accused in custody. The Explanation makes this practical by creating a presumption of indigency if the person cannot arrange a bail bond within a week of arrest -- officers and Courts don't need a formal indigency inquiry; the passage of a week without bail being furnished is itself sufficient. A further proviso preserves sections 135(3) and 492 untouched. Sub-section (2) is a conduct-based exception: if the person previously breached bond/bail-bond conditions on timing or place of attendance, the Court may refuse bail on a later appearance in the same case -- though this refusal doesn't affect the Court's separate power under section 491 to enforce the bond penalty against whoever was bound by it.",
+        "essential_elements": [
+          "For any person other than one accused of a non-bailable offence, arrested/detained without warrant or brought before a Court, and prepared to give bail: release on bail is mandatory.",
+          "An indigent person unable to furnish surety must instead be discharged on a personal bond for appearance.",
+          "Inability to furnish a bail bond within a week of arrest creates a presumption of indigency for this purpose.",
+          "Sections 135(3) and 492 remain unaffected by this section.",
+          "Exception: if the person previously breached bond/bail-bond attendance conditions, the Court may refuse bail on a subsequent appearance in the same case, without prejudice to the section 491 bond-penalty enforcement power."
+        ],
+        "exceptions_and_qualifications": [
+          "The indigency proviso and its week-long presumption soften the mandatory bail rule into a practical, surety-free release mechanism for those who cannot afford one.",
+          "The sub-section (2) conduct exception displaces the otherwise-mandatory bail entitlement where the person has a track record of non-compliance with attendance conditions in the same case."
+        ],
+        "how_to_read": "This is the default bailable-offence rule -- contrast with section 480's far more conditional non-bailable-offence framework; always first check whether the offence is bailable, since that single classification determines which of these two very different regimes applies."
+      }
+    },
+    {
+      "number": "479",
+      "title": "Maximum period for which under trial prisoner can be detained",
+      "raw_text": "479. Maximum period for which under trial prisoner can be detained.—(1) Where a person has,\nduring the period of investigation, inquiry or trial under this Sanhita of an offence under any law (not being\nan offence for which the punishment of death or life imprisonment has been specified as one of the\npunishments under that law) undergone detention for a period extending up to one-half of the maximum\nperiod of imprisonment specified for that offence under that law, he shall be released by the Court on bail:\n    Provided that where such person is a first-time offender (who has never been convicted of any offence\nin the past) he shall be released on bond by the Court, if he has undergone detention for the period extending\nup to one-third of the maximum period of imprisonment specified for such offence under that law:\n    Provided further that the Court may, after hearing the Public Prosecutor and for reasons to be recorded\nby it in writing, order the continued detention of such person for a period longer than one-half of the said\nperiod or release him on bail bond instead of his bond:\n    Provided also that no such person shall in any case be detained during the period of investigation,\ninquiry or trial for more than the maximum period of imprisonment provided for the said offence under that\nlaw.\n    Explanation.—In computing the period of detention under this section for granting bail, the period of\ndetention passed due to delay in proceeding caused by the accused shall be excluded.\n    (2) Notwithstanding anything in sub-section (1), and subject to the third proviso thereof, where an\ninvestigation, inquiry or trial in more than one offence or in multiple cases are pending against a person, he\nshall not be released on bail by the Court.\n    (3) The Superintendent of jail, where the accused person is detained, on completion of one-half or one-\nthird of the period mentioned in sub-section (1), as the case may be, shall forthwith make an application in\nwriting to the Court to proceed under sub-section (1) for the release of such person on bail.",
+      "key_terms": [
+        "bail",
+        "bond",
+        "bail bond",
+        "public prosecutor",
+        "superintendent of jail",
+        "under trial prisoner",
+        "first-time offender"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the significant default-bail-on-prolonged-detention safeguard for under trial prisoners, excluding offences carrying death or life imprisonment as one of their possible punishments. If pre-conviction detention during investigation, inquiry, or trial reaches one-half of the offence's maximum imprisonment period, the Court shall release the person on bail -- mandatory once that threshold is crossed. A more generous first proviso favors first-time offenders (never previously convicted of any offence): they must be released on bond once detention reaches just one-third of the maximum period. A second proviso lets the Court push past the one-half threshold, but only after hearing the Public Prosecutor and recording written reasons, and even then it may substitute a bail bond for a personal bond rather than outright continued detention. A third, absolute proviso caps detention at the offence's full maximum imprisonment period no matter what -- this ceiling cannot be extended by any Court order. An Explanation ensures fairness in computing the detention period: delay caused by the accused himself (e.g., seeking adjournments) is excluded from the count, so an accused can't manufacture entitlement to release by deliberately stalling. Sub-section (2) carves out multi-offence/multi-case defendants from this whole release scheme (subject to the absolute third-proviso cap still applying). Sub-section (3) places an affirmative duty on the jail Superintendent: on completion of the relevant one-half or one-third period, he must proactively apply in writing to the Court for the prisoner's release -- the safeguard isn't meant to depend on the accused or his counsel remembering to apply.",
+        "essential_elements": [
+          "Excludes offences for which death or life imprisonment is one of the specified punishments.",
+          "Default: detention reaching one-half of the offence's maximum imprisonment period triggers mandatory release on bail.",
+          "First-time offenders: detention reaching one-third of the maximum period triggers mandatory release on bond.",
+          "The Court may extend detention beyond one-half (after hearing the Public Prosecutor and recording reasons), or release on bail bond instead of personal bond.",
+          "Absolute cap: detention can never exceed the offence's maximum imprisonment period.",
+          "Delay caused by the accused is excluded when computing the detention period.",
+          "Persons facing investigation/inquiry/trial for more than one offence or in multiple cases are excluded from this release scheme, subject to the absolute cap still applying.",
+          "The jail Superintendent must proactively apply in writing to the Court for release once the relevant threshold period is completed."
+        ],
+        "exceptions_and_qualifications": [
+          "Death/life-imprisonment-eligible offences fall entirely outside this section's release mechanism.",
+          "The second proviso's extension power is conditioned on hearing the Public Prosecutor and recording written reasons -- it is not an unconditional discretion.",
+          "The third proviso's absolute cap cannot be overridden even by a reasoned Court order under the second proviso.",
+          "Sub-section (2) removes the release entitlement entirely for persons facing multiple pending offences/cases, though still subject to the absolute cap."
+        ],
+        "how_to_read": "This provision operationalizes the constitutional concern against indefinite pre-trial detention -- practitioners representing long-detained undertrial clients should track the detention clock precisely (excluding accused-caused delay) and be ready to invoke the Superintendent's independent section 479(3) duty to apply for release if defence counsel's own application has not yet been filed."
+      }
+    },
+    {
+      "number": "480",
+      "title": "When bail may be taken in case of non-bailable offence",
+      "raw_text": "480. When bail may be taken in case of non-bailable offence.—(1) When any person accused of, or\nsuspected of, the commission of any non-bailable offence is arrested or detained without warrant by an\nofficer in charge of a police station or appears or is brought before a Court other than the High Court or\nCourt of Session, he may be released on bail, but—\n       (i) such person shall not be so released if there appear reasonable grounds for believing that he has\n    been guilty of an offence punishable with death or imprisonment for life;\n        (ii) such person shall not be so released if such offence is a cognizable offence and he had been\n    previously convicted of an offence punishable with death, imprisonment for life or imprisonment for\n    seven years or more, or he had been previously convicted on two or more occasions of a cognizable\n    offence punishable with imprisonment for three years or more but less than seven years:\n    Provided that the Court may direct that a person referred to in clause (i) or clause (ii) be released on\nbail if such person is a child or is a woman or is sick or infirm:\n    Provided further that the Court may also direct that a person referred to in clause (ii) be released on bail\nif it is satisfied that it is just and proper so to do for any other special reason:\n    Provided also that the mere fact that an accused person may be required for being identified by\nwitnesses during investigation or for police custody beyond the first fifteen days shall not be sufficient\nground for refusing to grant bail if he is otherwise entitled to be released on bail and gives an undertaking\nthat he shall comply with such directions as may be given by the Court:\n    Provided also that no person shall, if the offence alleged to have been committed by him is punishable\nwith death, imprisonment for life, or imprisonment for seven years or more, be released on bail by the Court\nunder this sub-section without giving an opportunity of hearing to the Public Prosecutor.\n    (2) If it appears to such officer or Court at any stage of the investigation, inquiry or trial, as the case\nmay be, that there are not reasonable grounds for believing that the accused has committed a non-bailable\noffence, but that there are sufficient grounds for further inquiry into his guilt, the accused shall, subject to\nthe provisions of section 492 and pending such inquiry, be released on bail, or, at the discretion of such\nofficer or Court, on the execution by him of a bond for his appearance as hereinafter provided.\n    (3) When a person accused or suspected of the commission of an offence punishable with imprisonment\nwhich may extend to seven years or more or of an offence under Chapter VI, Chapter VII or Chapter XVII\nof the Bharatiya Nyaya Sanhita, 2023 or abetment of, or conspiracy or attempt to commit, any such offence,\nis released on bail under sub-section (1), the Court shall impose the conditions,--\n       (a) that such person shall attend in accordance with the conditions of the bond executed under this\n    Chapter;\n        (b) that such person shall not commit an offence similar to the offence of which he is accused, or\n    suspected, of the commission of which he is suspected; and\n        (c) that such person shall not directly or indirectly make any inducement, threat or promise to any\n    person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the\n    Court or to any police officer or tamper with the evidence,\nand may also impose, in the interests of justice, such other conditions as it considers necessary.\n    (4) An officer or a Court releasing any person on bail under sub-section (1) or sub-section (2), shall\nrecord in writing his or its reasons or special reasons for so doing.\n    (5) Any Court which has released a person on bail under sub-section (1) or sub-section (2), may, if it\nconsiders it necessary so to do, direct that such person be arrested and commit him to custody.\n    (6) If, in any case triable by a Magistrate, the trial of a person accused of any non-bailable offence is\nnot concluded within a period of sixty days from the first date fixed for taking evidence in the case, such\nperson shall, if he is in custody during the whole of the said period, be released on bail to the satisfaction\nof the Magistrate, unless for reasons to be recorded in writing, the Magistrate otherwise directs.\n    (7) If, at any time, after the conclusion of the trial of a person accused of a non-bailable offence and\nbefore judgment is delivered, the Court is of opinion that there are reasonable grounds for believing that\nthe accused is not guilty of any such offence, it shall release the accused, if he is in custody, on the execution\nby him of a bond for his appearance to hear judgment delivered.",
+      "key_terms": [
+        "bail",
+        "non-bailable offence",
+        "cognizable offence",
+        "public prosecutor",
+        "bond",
+        "bharatiya nyaya sanhita, 2023",
+        "magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the detailed, conditional non-bailable-offence bail framework -- the counterpart to section 478's largely mandatory bailable-offence rule. Sub-section (1) starts from discretionary 'may' release before a Court other than the High Court or Court of Session, but immediately carves out two categories where release is barred outright: (i) reasonable grounds of guilt for a death/life-imprisonment-punishable offence, and (ii) a cognizable offence where the accused has serious prior convictions (death/life/7+-years, or two-plus prior 3-to-7-year cognizable convictions). Four provisos soften this bar: courts may still release category (i)/(ii) persons who are children, women, sick, or infirm; may release category (ii) persons for other special reasons if just and proper; mere need for witness identification or extended police custody beyond fifteen days isn't itself sufficient to refuse bail (if otherwise entitled, with an undertaking to comply with Court directions); and for the most serious offences (death/life/7+-years) bail cannot be granted without first hearing the Public Prosecutor. Sub-section (2) covers the flip scenario -- insufficient grounds to believe the accused guilty of the non-bailable offence but grounds for further inquiry -- triggering release on bail or bond (subject to section 492) pending that inquiry. Sub-section (3) makes bail conditions mandatory (not merely permissible) for serious offences (7+-year imprisonment, or BNS Chapters VI/VII/XVII offences, or their abetment/conspiracy/attempt): attendance per the bond, no similar offence, and no witness inducement/threat/tampering, plus any other conditions the Court considers necessary in the interests of justice. Sub-section (4) requires written reasons for every release decision. Sub-section (5) lets the Court later re-arrest and re-commit a person it released, if it considers this necessary. Sub-section (6) is a speedy-trial safeguard for Magistrate-triable cases: if trial isn't concluded within sixty days from the first evidence-taking date, an in-custody accused must be released on bail unless the Magistrate records reasons otherwise. Sub-section (7) provides a pre-judgment release where the Court, after trial concludes but before delivering judgment, believes there are reasonable grounds the accused is not guilty -- the accused is released on bond pending the judgment itself.",
+        "essential_elements": [
+          "Sub-section (1): before a Court other than High Court/Court of Session, bail is discretionary for non-bailable offences, subject to bars for (i) reasonable grounds of a death/life-imprisonment offence and (ii) cognizable offences with specified serious prior convictions.",
+          "Four provisos soften the bars: release for children/women/sick/infirm persons; release for special reasons in category (ii); witness-identification/extended-custody needs alone don't justify refusal; mandatory Public Prosecutor hearing before bail in death/life/7+-year cases.",
+          "Sub-section (2): insufficient grounds of guilt but grounds for further inquiry triggers release on bail or bond pending inquiry, subject to section 492.",
+          "Sub-section (3): mandatory bail conditions (attendance, no similar offence, no witness tampering/inducement) for 7+-year offences and BNS Chapters VI/VII/XVII offences (and their abetment/conspiracy/attempt), plus any other conditions in the interests of justice.",
+          "Sub-section (4): written reasons required for every release under sub-sections (1) or (2).",
+          "Sub-section (5): the Court may later direct arrest and recommitment to custody of a person it had released.",
+          "Sub-section (6): Magistrate-triable case not concluded within sixty days of the first evidence date triggers mandatory bail for an in-custody accused, absent recorded reasons otherwise.",
+          "Sub-section (7): reasonable grounds of not-guilty after trial conclusion but before judgment triggers release on bond pending judgment."
+        ],
+        "exceptions_and_qualifications": [
+          "The category (i)/(ii) bars in sub-section (1) are themselves subject to four provisos permitting release in defined circumstances.",
+          "Sub-section (2)'s release-pending-inquiry route is expressly made subject to section 492.",
+          "Sub-section (6)'s sixty-day mandatory-bail rule can be displaced by the Magistrate recording reasons for continued detention."
+        ],
+        "how_to_read": "This section's seven sub-sections operate as a layered decision tree -- practitioners should work through it in sequence: first classify the offence's severity and the accused's prior record to locate which bar (if any) applies, then check whether a proviso reopens the door, before turning to the separate procedural safeguards in sub-sections (3) through (7) that apply once bail is actually granted or a trial drags on."
       }
     }
   ]
