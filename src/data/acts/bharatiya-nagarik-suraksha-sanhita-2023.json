@@ -147,7 +147,12 @@
     "self-incrimination": "The constitutional and evidentiary protection (reflected in section 180(2) and Article 20(3) of the Constitution) that a person questioned during investigation cannot be compelled to answer questions whose answers would expose them to a criminal charge, penalty, or forfeiture.",
     "examination-in-chief": "The first stage of questioning a witness at trial, conducted by the party who called that witness, before the witness is cross-examined by the opposing side. Under section 183(6)(b), a disabled victim's pre-recorded statement can substitute for a live examination-in-chief.",
     "case-diary": "The day-to-day record a police officer is required to maintain of the proceedings in an investigation, including grounds of belief, steps taken, and reasoning.",
-    "remand": "A Magistrate's order authorising the continued custody (police or judicial) of a person already arrested, pending further investigation or trial."
+    "remand": "A Magistrate's order authorising the continued custody (police or judicial) of a person already arrested, pending further investigation or trial.",
+    "case diary": "The day-by-day official record a police officer must maintain during an investigation, recording the time information was received, steps taken, places visited, and circumstances ascertained; distinct from a witness statement, and not itself evidence.",
+    "inquest": "A preliminary police or magisterial inquiry into the apparent cause of an unnatural or suspicious death, aimed at establishing how the death occurred before any formal offence investigation begins.",
+    "civil surgeon": "A government-appointed medical officer, typically heading district-level medical services, designated to conduct post-mortem and other medico-legal examinations under criminal procedure law.",
+    "further investigation": "Additional investigation conducted by police into an offence after a final report has already been forwarded to the Magistrate, upon discovery of fresh oral or documentary evidence.",
+    "chargesheet": "The common name for the police report filed under section 193 (the erstwhile 'charge-sheet') at the conclusion of investigation, stating whether an offence appears to have been committed and by whom, forming the basis for the Magistrate to take cognizance."
   },
   "sections": [
     {
@@ -4475,6 +4480,173 @@
           "The 'not in custody' proviso is significant — it means a person who was never arrested, but is implicated by sufficient investigation evidence, can still be brought into the process via a security bond rather than arrest."
         ],
         "how_to_read": "Read this as the standard closing act of a completed investigation with a positive result: accused (or security) forwarded, evidence forwarded, witnesses bound — everything needed to actually commence proceedings before the Magistrate is assembled in one section."
+      }
+    },
+    {
+      "number": "191",
+      "title": "Complainant and witnesses not to be required to accompany police officer and not to be subject to restraint",
+      "raw_text": "191. Complainant and witnesses not to be required to accompany police officer and not to be\n    subject to restraint.—No complainant or witness on his way to any Court shall be required to accompany\n    a police officer, or shall be subjected to unnecessary restraint or inconvenience, or required to give any\n    security for his appearance other than his own bond:\n    Provided that if any complainant or witness refuses to attend or to execute a bond as directed in section\n    190, the officer in charge of the police station may forward him in custody to the Magistrate, who may\n    detain him in custody until he executes such bond, or until the hearing of the case is completed.",
+      "key_terms": [
+        "complainant",
+        "witness",
+        "bond",
+        "restraint"
+      ],
+      "breakdown": {
+        "plain_summary": "This section protects ordinary complainants and witnesses from being treated like suspects. When they're on their way to court, police cannot force them to physically accompany an officer, subject them to needless restraint or inconvenience, or demand any security beyond their own personal bond (no sureties, no bail-like conditions). The only exception is narrow: if a complainant or witness simply refuses to attend court or refuses to execute the section 190 bond at all, the police may forward them into custody before the Magistrate, who can then detain them only until they execute the bond or until the case hearing concludes — a coercive last resort, not a routine practice.",
+        "essential_elements": [
+          "Applies to complainants and witnesses travelling to court, not to accused persons",
+          "No requirement to physically accompany a police officer",
+          "No unnecessary restraint or inconvenience may be imposed",
+          "Security for appearance, if any, is limited to the person's own bond — no sureties demanded",
+          "Exception: refusal to attend or execute the section 190 bond allows the police to forward the person in custody to the Magistrate",
+          "Magistrate may detain such a person only until the bond is executed or the hearing concludes"
+        ],
+        "exceptions_and_qualifications": [
+          "The custody power in the proviso is triggered only by outright refusal to cooperate, not by ordinary reluctance or scheduling difficulty."
+        ],
+        "how_to_read": "Read the main clause as the general rule (freedom from coercion for prosecution witnesses) and the proviso as the narrow enforcement mechanism against genuine non-cooperation, tying back to the bond obligation created under section 190."
+      }
+    },
+    {
+      "number": "192",
+      "title": "Diary of proceedings in investigation",
+      "raw_text": "192. Diary of proceedings in investigation.—(1) Every police officer making an investigation under\n    this Chapter shall day by day enter his proceedings in the investigation in a diary, setting forth the time at\n    which the information reached him, the time at which he began and closed his investigation, the place or\n    places visited by him, and a statement of the circumstances ascertained through his investigation.\n    (2) The statements of witnesses recorded during the course of investigation under section 180 shall be\n    inserted in the case diary.\n    (3) The diary referred to in sub-section (1) shall be a volume and duly paginated.\n    (4) Any Criminal Court may send for the police diaries of a case under inquiry or trial in such Court,\n    and may use such diaries, not as evidence in the case, but to aid it in such inquiry or trial.\n    (5) Neither the accused nor his agents shall be entitled to call for such diaries, nor shall he or they be\n    entitled to see them merely because they are referred to by the Court; but, if they are used by the police\n    officer who made them to refresh his memory, or if the Court uses them for the purpose of contradicting\n    such police officer, the provisions of section 148 or section 164, as the case may be, of the Bharatiya\n    Sakshya Adhiniyam, 2023, shall apply.",
+      "key_terms": [
+        "case diary",
+        "investigation",
+        "witness statement"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the case diary — a mandatory day-by-day investigation log every investigating officer must keep, recording when information arrived, when the investigation started and stopped each day, where the officer went, and what was found out. Section 180 witness statements get folded into this same diary. It must be a proper bound, paginated volume — not loose or reconstructible pages. Courts can call for and use the diary to help understand a case during inquiry or trial, but critically, it is not evidence in itself — it's a background aid for the court, not something either side can build their case on directly. The accused has no general right to see the diary just because the court referred to it; but if the police officer uses it to refresh their memory on the stand, or the court uses it to catch the officer contradicting themselves, then the ordinary evidence-law rules on refreshing memory (BSA section 148) or contradicting a witness (BSA section 164) kick in and open it up for that limited purpose.",
+        "essential_elements": [
+          "Every investigating officer must maintain a day-by-day diary of investigation proceedings",
+          "Must record: time information reached the officer, start/stop times of investigation, places visited, circumstances ascertained",
+          "Section 180 witness statements recorded during investigation are inserted into the case diary",
+          "The diary must be a properly bound, paginated volume",
+          "Criminal Courts may call for and use the diary to aid an inquiry or trial — but not as evidence",
+          "Accused/agents have no general right to see or call for the diary merely because the court referred to it",
+          "Exception: if the officer uses the diary to refresh memory, or the court uses it to contradict the officer, ordinary BSA rules on refreshing memory/contradiction apply"
+        ],
+        "exceptions_and_qualifications": [
+          "The diary's non-evidentiary status is the key protective feature — it prevents either side from using unverified daily notes as substantive proof, while still letting courts benefit from the officer's contemporaneous record.",
+          "The accused's access is need-based and rule-gated (BSA sections 148/164), not automatic."
+        ],
+        "how_to_read": "Read sub-sections (1)-(3) as the recording obligations, and (4)-(5) as the evidentiary status and access rules — the tension between judicial usefulness and non-evidentiary status is the section's core idea."
+      }
+    },
+    {
+      "number": "193",
+      "title": "Report of police officer on completion of investigation",
+      "raw_text": "193. Report of police officer on completion of investigation.—(1) Every investigation under this\n    Chapter shall be completed without unnecessary delay.\n    (2) The investigation in relation to an offence under sections 64, 65, 66, 67, 68, 70, 71 of the Bharatiya\n    Nyaya Sanhita, 2023 or under sections 4, 6, 8 or section 10 of the Protection of Children from Sexual\n    Offences Act, 2012 shall be completed within two months from the date on which the information was\n    recorded by the officer in charge of the police station.\n    (3) (i) As soon as the investigation is completed, the officer in charge of the police station shall forward,\n    including through electronic communication to a Magistrate empowered to take cognizance of the offence\n    on a police report, a report in the form as the State Government may, by rules provide, stating—\n        (a) the names of the parties;\n        (b) the nature of the information;\n        (c) the names of the persons who appear to be acquainted with the circumstances of the case;\n        (d) whether any offence appears to have been committed and, if so, by whom;\n        (e) whether the accused has been arrested;\n        (f) whether the accused has been released on his bond or bail bond;\n        (g) whether the accused has been forwarded in custody under section 190;\n        (h) whether the report of medical examination of the woman has been attached where investigation\n    relates to an offence under sections 64, 65, 66, 67, 68, 70 or section 71 of the Bharatiya Nyaya\n    Sanhita, 2023;\n        (i) the sequence of custody in case of electronic device;\n        (ii) the police officer shall, within a period of ninety days, inform the progress of the investigation\n    by any means including through electronic communication to the informant or the victim;\n        (iii) the officer shall also communicate, in such manner as the State Government may, by rules,\n    provide, the action taken by him, to the person, if any, by whom the information relating to the\n    commission of the offence was first given.\n    (4) Where a superior officer of police has been appointed under section 177, the report shall, in any\n    case in which the State Government by general or special order so directs, be submitted through that officer,\n    and he may, pending the orders of the Magistrate, direct the officer in charge of the police station to make\n    further investigation.\n    (5) Whenever it appears from a report forwarded under this section that the accused has been released\n    on his bond or bail bond, the Magistrate shall make such order for the discharge of such bond or bail bond\n    or otherwise as he thinks fit.\n    (6) When such report is in respect of a case to which section 190 applies, the police officer shall forward\n    to the Magistrate along with the report—\n        (a) all documents or relevant extracts thereof on which the prosecution proposes to rely other than\n    those already sent to the Magistrate during investigation;\n        (b) the statements recorded under section 180 of all the persons whom the prosecution proposes to\n    examine as its witnesses.\n    (7) If the police officer is of opinion that any part of any such statement is not relevant to the subject\n    matter of the proceedings or that its disclosure to the accused is not essential in the interests of justice and\n    is inexpedient in the public interest, he shall indicate that part of the statement and append a note requesting\n    the Magistrate to exclude that part from the copies to be granted to the accused and stating his reasons for\n    making such request.\n    (8) Subject to the provisions contained in sub-section (7), the police officer investigating the case shall\n    also submit such number of copies of the police report along with other documents duly indexed to the\n    Magistrate for supply to the accused as required under section 230:\n    Provided that supply of report and other documents by electronic communication shall be considered\n    as duly served.\n    (9) Nothing in this section shall be deemed to preclude further investigation in respect of an offence\n    after a report under sub-section (3) has been forwarded to the Magistrate and, where upon such\n    investigation, the officer in charge of the police station obtains further evidence, oral or documentary, he\n    shall forward to the Magistrate a further report or reports regarding such evidence in the form as the State\n    Government may, by rules, provide; and the provisions of sub-sections (3) to (8) shall, as far as may be,\n    apply in relation to such report or reports as they apply in relation to a report forwarded under\n    sub-section (3):\n    Provided that further investigation during the trial may be conducted with the permission of the Court\n    trying the case and the same shall be completed within a period of ninety days which may be extended with\n    the permission of the Court.",
+      "key_terms": [
+        "chargesheet",
+        "cognizance",
+        "further investigation",
+        "electronic communication"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the chargesheet section — the formal report police file to close out an investigation and hand the case to a Magistrate. Investigations generally must finish without unnecessary delay, and for specified serious sexual and child-abuse offences, there's a hard two-month deadline from when the FIR was recorded. The report itself is detailed: parties' names, the nature of the case, likely witnesses, whether an offence appears committed and by whom, the accused's custody/bail status, and — a new BNSS-era addition — the chain of custody for any electronic device seized. The investigating officer also has fresh victim-communication duties: informing the informant/victim of investigation progress within 90 days, and separately communicating what action was taken. If the case is going to trial (section 190 territory), the police must hand over all the evidence and witness statements the prosecution intends to rely on — but they can flag (with reasons) any part of a witness statement they think should be withheld from the accused's copy, subject to the Magistrate's oversight. Investigation doesn't have to stop just because a report was filed — the sub-section (9) 'further investigation' route lets police submit supplementary reports if new evidence turns up, even mid-trial, subject to the trial court's permission and (for the trial-stage version) a 90-day completion window.",
+        "essential_elements": [
+          "Investigation must be completed without unnecessary delay generally",
+          "Hard 2-month deadline for specified BNS sexual-offence sections and POCSO Act offences, from date information was recorded",
+          "Report must state parties, nature of information, likely witnesses, whether an offence appears committed and by whom, custody/bail status, and (for the listed offences) confirmation of the medical examination report",
+          "New requirement: the sequence of custody for any electronic device must be documented",
+          "Police must update the informant/victim on investigation progress within 90 days, and separately communicate action taken",
+          "For section 190 cases, the report must be accompanied by prosecution evidence/documents and all section 180 witness statements",
+          "Police may request exclusion of irrelevant or sensitive parts of a statement from the accused's copy, with reasons noted for the Magistrate",
+          "Copies of the report and documents must be supplied to the accused per section 230; electronic service counts as valid service",
+          "Filing a report doesn't bar further investigation; fresh evidence can be reported via supplementary reports",
+          "Further investigation during trial requires the trial court's permission and must generally finish within 90 days (extendable by the court)"
+        ],
+        "exceptions_and_qualifications": [
+          "The 2-month completion deadline applies only to the specifically listed sexual/child-offence provisions — not to investigations generally, which are subject only to the looser 'without unnecessary delay' standard.",
+          "Withholding part of a witness statement from the accused (sub-section 7) requires the Magistrate's concurrence — police cannot unilaterally decide what the defence sees.",
+          "Further investigation during an ongoing trial is not automatic — it needs the trial court's permission and is time-boxed to 90 days (extendable), unlike pre-cognizance further investigation."
+        ],
+        "how_to_read": "This is a long, structurally important section. Treat sub-sections (1)-(2) as the timing rules, (3) as the content of the report itself, (4)-(5) as administrative routing and bond-discharge consequences, (6)-(8) as the evidence-disclosure package for trial-track cases (the practical discovery mechanism for the defence), and (9) as the standing power to keep investigating and supplement the record even after the report is filed or the trial has begun."
+      }
+    },
+    {
+      "number": "194",
+      "title": "Police to enquire and report on suicide, etc.",
+      "raw_text": "194. Police to enquire and report on suicide, etc.—(1) When the officer in charge of a police station\n    or some other police officer specially empowered by the State Government in that behalf receives\n    information that a person has committed suicide, or has been killed by another or by an animal or by\n    machinery or by an accident, or has died under circumstances raising a reasonable suspicion that some other\n    person has committed an offence, he shall immediately give intimation thereof to the nearest Executive\n    Magistrate empowered to hold inquests, and, unless otherwise directed by any rule made by the State\n    Government, or by any general or special order of the District or Sub-divisional Magistrate, shall proceed\n    to the place where the body of such deceased person is, and there, in the presence of two or more respectable\n    inhabitants of the neighbourhood, shall make an investigation, and draw up a report of the apparent cause\n    of death, describing such wounds, fractures, bruises, and other marks of injury as may be found on the body,\n    and stating in what manner, or by what weapon or instrument (if any), such marks appear to have been\n    inflicted.\n    (2) The report shall be signed by such police officer and other persons, or by so many of them as concur\n    therein, and shall be forwarded to the District Magistrate or the Sub-divisional Magistrate within twenty-\n    four hours.\n    (3) When—\n        (i) the case involves suicide by a woman within seven years of her marriage; or\n        (ii) the case relates to the death of a woman within seven years of her marriage in any circumstances\n    raising a reasonable suspicion that some other person committed an offence in relation to such\n    woman; or\n        (iii) the case relates to the death of a woman within seven years of her marriage and any relative of\n    the woman has made a request in this behalf; or\n        (iv) there is any doubt regarding the cause of death; or\n        (v) the police officer for any other reason considers it expedient so to do,\n    he shall, subject to such rules as the State Government may prescribe in this behalf, forward the body, with\n    a view to its being examined, to the nearest Civil Surgeon, or other qualified medical person appointed in\n    this behalf by the State Government, if the state of the weather and the distance admit of its being so\n    forwarded without risk of such putrefaction on the road as would render such examination useless.\n    (4) The following Magistrates are empowered to hold inquests, namely, any District Magistrate or Sub-\n    divisional Magistrate and any other Executive Magistrate specially empowered in this behalf by the State\n    Government or the District Magistrate.",
+      "key_terms": [
+        "inquest",
+        "civil surgeon",
+        "unnatural death",
+        "Executive Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the inquest section — the procedure police follow for suicides, unnatural deaths, and deaths under suspicious circumstances (killed by another person, an animal, machinery, or accident). The officer must immediately notify the nearest inquest-empowered Executive Magistrate, then go to where the body is and, with at least two respectable local residents present as witnesses to the process, prepare a report on the apparent cause of death — noting wounds, fractures, bruises, and how they seem to have been caused. This report must reach the District or Sub-divisional Magistrate within 24 hours. Certain categories of death trigger a mandatory forwarding of the body for post-mortem examination by a Civil Surgeon: notably, any suicide or suspicious/requested death of a woman within seven years of marriage (echoing the dowry-death concerns embedded across criminal law), any case where the cause of death is doubtful, or simply where the officer thinks it's warranted — subject to a practical caveat that the body must actually be transportable without decomposing to the point of making the examination useless.",
+        "essential_elements": [
+          "Triggered by information of suicide, killing (by person/animal/machinery/accident), or death under suspicious circumstances",
+          "Officer must immediately notify the nearest inquest-empowered Executive Magistrate",
+          "Must proceed to the body's location and investigate with two or more respectable local inhabitants present",
+          "Must draw up a report on apparent cause of death, describing injuries and how they appear to have been inflicted",
+          "Report must be forwarded to the District/Sub-divisional Magistrate within 24 hours",
+          "Mandatory post-mortem forwarding for: a woman's suicide within 7 years of marriage; a woman's suspicious death within 7 years of marriage; such a death where a relative requests it; any doubtful cause of death; or wherever the officer considers it expedient",
+          "Forwarding for post-mortem is subject to practical feasibility (weather/distance risk of putrefaction)",
+          "Only District Magistrates, Sub-divisional Magistrates, and specially empowered Executive Magistrates may hold inquests"
+        ],
+        "exceptions_and_qualifications": [
+          "The seven-years-of-marriage categories mirror the special scrutiny given to suspicious deaths of married women elsewhere in Indian criminal law (evidentiary presumptions, dowry-death provisions) — this section is the investigative trigger for that scrutiny.",
+          "The body-forwarding duty is not absolute — it yields to genuine practical impossibility (distance/weather causing putrefaction), but that exception must be grounded in fact, not convenience."
+        ],
+        "how_to_read": "Read sub-sections (1)-(2) as the base inquest procedure and timeline, sub-section (3) as the mandatory post-mortem triggers (with the woman-within-seven-years-of-marriage categories as the most legally significant), and sub-section (4) as defining who counts as an inquest-empowered Magistrate."
+      }
+    },
+    {
+      "number": "195",
+      "title": "Power to summon persons",
+      "raw_text": "195. Power to summon persons.—(1) A police officer proceeding under section 194 may, by order in\n    writing, summon two or more persons as aforesaid for the purpose of the said investigation, and any other\n    person who appears to be acquainted with the facts of the case and every person so summoned shall be\n    bound to attend and to answer truly all questions other than questions the answers to which would have a\n    tendency to expose him to a criminal charge or to a penalty or forfeiture:\n    Provided that no male person under the age of fifteen years or above the age of sixty years or a woman\n    or a mentally or physically disabled person or a person with acute illness shall be required to attend at any\n    place other than the place where such person resides:\n    Provided further that if such person is willing to attend and answer at the police station, such person\n    may be permitted so to do.\n    (2) If the facts do not disclose a cognizable offence to which section 190 applies, such persons shall not\n    be required by the police officer to attend a Magistrate's Court.",
+      "key_terms": [
+        "summons",
+        "self-incrimination",
+        "inquest"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the officer conducting a section 194 death inquiry the power to summon the two-plus respectable local witnesses, plus anyone else who seems to know relevant facts, and compel their attendance and truthful answers — subject to the same self-incrimination exception found throughout this Chapter (section 180's witness-examination rule echoed here). The same protected-category exemptions apply as with ordinary witness-attendance rules elsewhere in the Sanhita: males under 15 or over 60, women, disabled persons, and the acutely ill cannot be compelled to attend anywhere but their own residence, though they may volunteer to attend the police station. Sub-section (2) adds an important limiter: if the inquiry doesn't actually disclose a cognizable offence that would go forward under section 190, these summoned persons cannot then be dragged further into a Magistrate's Court — their obligation is confined to the inquest-stage inquiry.",
+        "essential_elements": [
+          "Applies to a police officer conducting a section 194 death inquiry",
+          "May summon, by written order, the inquest witnesses and any other person acquainted with the facts",
+          "Summoned persons must attend and answer truly, except where answers would incriminate them or expose them to a penalty/forfeiture",
+          "Protected categories (males under 15/over 60, women, disabled persons, acutely ill) cannot be compelled to attend anywhere but their residence",
+          "Such protected persons may still voluntarily choose to attend at the police station",
+          "If no cognizable offence under section 190 is disclosed, summoned persons cannot be further required to attend a Magistrate's Court"
+        ],
+        "exceptions_and_qualifications": [
+          "This power is scoped specifically to section 194 death-inquiry investigations, not general criminal investigations — the latter are governed by sections 179-180."
+        ],
+        "how_to_read": "Read this alongside sections 179-180 (which it closely mirrors) as the inquest-specific version of the general witness-attendance and examination powers, with sub-section (2) marking the boundary between a mere death inquiry and a full cognizable-offence investigation."
+      }
+    },
+    {
+      "number": "196",
+      "title": "Inquiry by Magistrate into cause of death",
+      "raw_text": "196. Inquiry by Magistrate into cause of death.—(1) When the case is of the nature referred to in\n    clause (i) or clause (ii) of sub-section (3) of section 194, the nearest Magistrate empowered to hold inquests\n    shall, and in any other case mentioned in sub-section (1) of section 194, any Magistrate so empowered may\n    hold an inquiry into the cause of death either instead of, or in addition to, the investigation held by the\n    police officer; and if he does so, he shall have all the powers in conducting it which he would have in\n    holding an inquiry into an offence.\n    (2) Where,—\n        (a) any person dies or disappears; or\n        (b) rape is alleged to have been committed on any woman, while such person or woman is in the\n    custody of the police or in any other custody authorised by the Magistrate or the Court, under this\n    Sanhita in addition to the inquiry or investigation held by the police, an inquiry shall be held by the\n    Magistrate within whose local jurisdiction the offence has been committed.\n    (3) The Magistrate holding such an inquiry shall record the evidence taken by him in connection\n    therewith in any manner hereinafter specified according to the circumstances of the case.\n    (4) Whenever such Magistrate considers it expedient to make an examination of the dead body of any\n    person who has been already interred, in order to discover the cause of his death, the Magistrate may cause\n    the body to be disinterred and examined.\n    (5) Where an inquiry is to be held under this section, the Magistrate shall, wherever practicable, inform\n    the relatives of the deceased whose names and addresses are known, and shall allow them to remain present\n    at the inquiry.\n    (6) The Magistrate or the Executive Magistrate or the police officer holding an inquiry or investigation\n    under sub-section (2) shall, within twenty-four hours of the death of a person, forward the body with a view\n    to its being examined to the nearest Civil Surgeon or other qualified medical person appointed in this behalf\n    by the State Government, unless it is not possible to do so for reasons to be recorded in writing.\n    Explanation.—In this section, the expression \"relative\" means parents, children, brothers, sisters and\n    spouse.",
+      "key_terms": [
+        "inquest",
+        "custodial death",
+        "disinterment",
+        "civil surgeon"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XIII by adding a judicial layer on top of the police inquest of section 194. For the most serious categories — a woman's suicide or suspicious death within seven years of marriage — the nearest inquest-empowered Magistrate MUST personally hold an inquiry (not just may), either instead of or alongside the police investigation, wielding full offence-inquiry powers. For other section 194 deaths, the Magistrate has discretion to step in. A separate, especially serious trigger is custodial death or disappearance, or a custodial rape allegation — any death, disappearance, or alleged rape of someone in police or court-authorised custody automatically requires a Magistrate's inquiry, reflecting the heightened accountability owed by the State when someone is in its custody. The Magistrate can even order a buried body exhumed if that's needed to determine the cause of death, and must, wherever practical, notify and let the deceased's relatives (a defined list: parents, children, siblings, spouse) attend the inquiry. As with the police-level inquest, the body must generally reach a Civil Surgeon within 24 hours of death for examination, unless genuinely impossible, with reasons recorded. This section, together with section 194, forms the full unnatural-death/custodial-death accountability mechanism, before Chapter XIV opens with the ordinary rules on where offences are tried.",
+        "essential_elements": [
+          "Mandatory Magistrate inquiry for the seven-years-of-marriage suicide/suspicious-death categories under section 194(3)(i)-(ii)",
+          "Discretionary Magistrate inquiry for other section 194(1) deaths",
+          "Magistrate conducting such an inquiry has the full powers of an inquiry into an offence",
+          "Mandatory Magistrate inquiry for any death, disappearance, or alleged rape of a person in police or authorised custody",
+          "Magistrate may order disinterment and examination of an already-buried body if expedient",
+          "Relatives of the deceased (parents, children, siblings, spouse) must be informed and allowed to attend, wherever practicable",
+          "The body must generally be forwarded to a Civil Surgeon within 24 hours of death, absent recorded reasons for impossibility"
+        ],
+        "exceptions_and_qualifications": [
+          "The custodial-death/disappearance/rape trigger in sub-section (2) applies regardless of which section 194 category the case would otherwise fall into — custody status alone is enough to mandate a Magistrate's inquiry.",
+          "\"May\" for ordinary section 194(1) deaths versus \"shall\" for the seven-years-of-marriage and custodial categories is the key mandatory/discretionary distinction to note when advising on whether a judicial inquiry is legally compulsory."
+        ],
+        "how_to_read": "Read sub-section (1) as calibrating mandatory-versus-discretionary Magistrate involvement based on the type of section 194 death, sub-section (2) as the separate and especially weighty custodial-death/rape trigger, and sub-sections (3)-(6) as the procedural machinery (evidence recording, disinterment power, family notice, medical examination timeline) for conducting that inquiry once triggered."
       }
     }
   ]
