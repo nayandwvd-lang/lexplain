@@ -309,7 +309,12 @@
     "forfeited": "Declared void/breached and enforceable against the person bound, upon proof to the Court's satisfaction that a bond's condition has been broken (e.g., the accused failed to appear). Section 491 sets out the entire procedure that follows forfeiture of a bond, including recovery of the penalty and, on default, imprisonment in civil jail for the surety.",
     "confiscation": "The seizure of property by the State, extinguishing the owner's title to it. Sections 497 and 498 empower a Criminal Court or Magistrate to order confiscation of property connected with an offence, as one of the possible outcomes alongside destruction or delivery to a claimant.",
     "livestock": "Domesticated animals kept for use or profit (e.g., cattle). Section 498(4) exempts property that is livestock, or subject to speedy and natural decay, from the general two-month delay before a disposal order under that section can be carried out -- such property needs prompt handling.",
-    "restitution": "The return of property to the person entitled to its possession. Section 499 conditions an innocent purchaser's right to reclaim money taken from a convicted thief on the restitution of the stolen property itself to its rightful owner."
+    "restitution": "The return of property to the person entitled to its possession. Section 499 conditions an innocent purchaser's right to reclaim money taken from a convicted thief on the restitution of the stolen property itself to its rightful owner.",
+    "immovable property": "Property that cannot be moved -- land and things permanently attached to it (e.g., buildings). Section 502 empowers a Court, on convicting a person of dispossessing another of immovable property by force or intimidation, to order the property's possession restored, by force if necessary.",
+    "perishable property": "Property subject to speedy and natural decay, such as perishable goods. Section 505 permits a Magistrate to direct the sale of such property (or property whose owner is unknown/absent, or worth less than ten thousand rupees) even before any claimant is found, applying the sections 503-504 procedure to the sale proceeds instead of the property itself.",
+    "vitiate": "To impair the legal validity of something -- to make it void or invalid. Chapter XXXVII (sections 506-512) is titled 'Irregular Proceedings' and distinguishes irregularities that do NOT vitiate proceedings (section 506, curable defects) from irregularities that DO vitiate them (section 507, proceedings rendered void).",
+    "misjoinder of charges": "The improper combination of multiple, legally distinct charges against an accused in a single trial, where the joinder rules did not permit combining them. Section 510(1) treats a misjoinder of charges as one form of 'error, omission or irregularity in the charge' that does not automatically invalidate a finding, sentence, or order unless it has in fact occasioned a failure of justice.",
+    "quash": "To formally annul or set aside a conviction, order, or proceeding, treating it as void. Under section 510(2)'s proviso, if an appellate, confirmation, or revisional Court finds that no valid charge could ever have been framed against the accused on the facts actually proved, it must quash the conviction outright rather than order a retrial."
   },
   "sections": [
     {
@@ -11233,6 +11238,260 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This is the dedicated appellate safeguard specific to property-disposal orders under sections 498-499, distinct from section 495's appeal route for bond-forfeiture orders under section 491 -- keep the two appellate tracks separate since they attach to different underlying orders."
+      }
+    },
+    {
+      "number": "501",
+      "title": "Destruction of libellous and other matter",
+      "raw_text": "501. Destruction of libellous and other matter.—(1) On a conviction under section 294, section 295,\nor sub-sections (3) and (4) of section 356 of the Bharatiya Nyaya Sanhita, 2023, the Court may order the\ndestruction of all the copies of the thing in respect of which the conviction was had, and which are in the\ncustody of the Court or remain in the possession or power of the person convicted.\n    (2) The Court may, in like manner, on a conviction under section 274, section 275, section 276\nor section 277 of the Bharatiya Nyaya Sanhita, 2023, order the food, drink, drug or medical preparation in\nrespect of which the conviction was had, to be destroyed.",
+      "key_terms": [
+        "conviction"
+      ],
+      "breakdown": {
+        "plain_summary": "This lets the Court order physical elimination of the harmful material itself once a conviction is secured for specific offences under the Bharatiya Nyaya Sanhita, 2023. Sub-section (1) covers defamatory/obscene-type offences (BNS sections 294, 295, or 356(3)/(4)) -- the Court may order destroyed all copies of the offending thing, whether held in the Court's own custody or still in the possession/power of the convicted person, so the harm doesn't continue circulating after conviction. Sub-section (2) applies the same destruction power to adulterated food, drink, drugs, or medical preparations following a conviction under BNS sections 274-277 (adulteration-type offences) -- removing dangerous or unlawful substances from further use once guilt is established.",
+        "essential_elements": [
+          "On conviction under BNS section 294, 295, or 356(3)/(4), the Court may order destruction of all copies of the offending thing in Court custody or still with the convicted person.",
+          "On conviction under BNS section 274, 275, 276, or 277, the Court may similarly order destruction of the food, drink, drug, or medical preparation involved."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a remedial/preventive power tied to specific BNS offence categories -- treat it as a natural adjunct to sentencing on those particular convictions, not a general-purpose destruction power available for any offence."
+      }
+    },
+    {
+      "number": "502",
+      "title": "Power to restore possession of immovable property",
+      "raw_text": "502. Power to restore possession of immovable property.—(1) When a person is convicted of an\noffence by use of criminal force or show of force or by criminal intimidation, and it appears to the Court\nthat, by such use of force or show of force or intimidation, any person has been dispossessed of any\nimmovable property, the Court may, if it thinks fit, order that possession of the same be restored to that\nperson after evicting by force, if necessary, any other person who may be in possession of the property:\n   Provided that no such order shall be made by the Court more than one month after the date of the\nconviction.\n    (2) Where the Court trying the offence has not made an order under sub-section (1), the Court of appeal,\nconfirmation or revision may, if it thinks fit, make such order while disposing of the appeal, reference or\nrevision, as the case may be.\n    (3) Where an order has been made under sub-section (1), the provisions of section 500 shall apply in\nrelation thereto as they apply in relation to an order under section 499.\n    (4) No order made under this section shall prejudice any right or interest to or in such immovable\nproperty which any person may be able to establish in a civil suit.",
+      "key_terms": [
+        "immovable property",
+        "conviction",
+        "confirmation"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the criminal Court a quick restitution tool for forcible dispossession of land/buildings: where a person is convicted of an offence involving use of force, show of force, or criminal intimidation, and it appears the victim was thereby dispossessed of immovable property, the Court may order possession restored to him, evicting by force if necessary whoever is currently occupying it -- but only within one month of the conviction (sub-section (1)'s proviso). If the trial Court doesn't make such an order, an appellate, confirmation, or revisional Court may still make it while disposing of the appeal/reference/revision (sub-section (2)). An order under this section carries the same appeal rights as a section 499 order, via section 500's machinery (sub-section (3)). Crucially, sub-section (4) makes clear this is only a provisional, criminal-process remedy -- it does not prejudice or finally determine anyone's underlying civil right or interest in the property, which remains open to be established in a civil suit.",
+        "essential_elements": [
+          "Applies on conviction for an offence involving criminal force, show of force, or criminal intimidation that dispossessed someone of immovable property.",
+          "The Court may order possession restored, evicting the current occupant by force if necessary.",
+          "The order must be made within one month of the conviction.",
+          "If the trial Court doesn't make the order, an appellate, confirmation, or revisional Court may make it while disposing of the appeal/reference/revision.",
+          "Section 500's appeal machinery applies to an order under this section as it applies to a section 499 order.",
+          "The order does not prejudice any right or interest in the property that may be established in a civil suit."
+        ],
+        "exceptions_and_qualifications": [
+          "The one-month time limit in sub-section (1) is a strict outer bound on the trial Court's own power to make this order.",
+          "Sub-section (4) is an express reminder that this is a summary criminal-process remedy, not a final adjudication of civil title/possession rights."
+        ],
+        "how_to_read": "Always flag sub-section (4) to a client relying on this section -- restoration of possession here is fast and force-backed, but it settles nothing about underlying ownership or civil possessory rights, which must still be litigated separately if disputed."
+      }
+    },
+    {
+      "number": "503",
+      "title": "Procedure by police upon seizure of property",
+      "raw_text": "503. Procedure by police upon seizure of property.—(1) Whenever the seizure of property by any\npolice officer is reported to a Magistrate under the provisions of this Sanhita, and such property is not\nproduced before a Criminal Court during an inquiry or trial, the Magistrate may make such order as he\nthinks fit respecting the disposal of such property or the delivery of such property to the person entitled to\nthe possession thereof, or if such person cannot be ascertained, respecting the custody and production of\nsuch property.\n    (2) If the person so entitled is known, the Magistrate may order the property to be delivered to him on\nsuch conditions (if any) as the Magistrate thinks fit and if such person is unknown, the Magistrate may\ndetain it and shall, in such case, issue a proclamation specifying the articles of which such property consists,\nand requiring any person who may have a claim thereto, to appear before him and establish his claim within\nsix months from the date of such proclamation.",
+      "key_terms": [
+        "magistrate",
+        "criminal court",
+        "proclamation"
+      ],
+      "breakdown": {
+        "plain_summary": "This handles seized property that never actually reaches a Criminal Court during an inquiry or trial -- i.e., property a police officer seizes and reports to a Magistrate, but which stays outside the courtroom process. The Magistrate may order whatever disposition he thinks fit: delivery to the person entitled to possession, or, if that person can't be ascertained, custody and production arrangements pending identification. Sub-section (2) fleshes out the mechanics: if the entitled person is known, the Magistrate may order delivery to him on whatever conditions he thinks fit; if unknown, the Magistrate detains the property and must issue a proclamation describing the articles and calling on anyone with a claim to appear and establish it within six months.",
+        "essential_elements": [
+          "Applies to property seized by police and reported to a Magistrate, where the property is not produced before a Criminal Court during inquiry or trial.",
+          "The Magistrate may order disposal or delivery to the person entitled, or, if unascertainable, custody/production arrangements.",
+          "If the entitled person is known, delivery may be ordered on conditions the Magistrate thinks fit.",
+          "If unknown, the Magistrate detains the property and issues a proclamation, giving claimants six months to appear and establish their claim."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the entry point of a three-section unclaimed/unascertained-property sequence -- section 503 (initial procedure and proclamation), section 504 (what happens if no claimant appears within six months), and section 505 (power to sell perishable property faster) -- read all three together as a single continuous process."
+      }
+    },
+    {
+      "number": "504",
+      "title": "Procedure where no claimant appears within six months",
+      "raw_text": "504. Procedure where no claimant appears within six months.—(1) If no person within such period\nestablishes his claim to such property, and if the person in whose possession such property was found is\nunable to show that it was legally acquired by him, the Magistrate may by order direct that such property\nshall be at the disposal of the State Government and may be sold by that Government and the proceeds of\nsuch sale shall be dealt with in such manner as the State Government may, by rules, provide.\n   (2) An appeal shall lie against any such order to the Court to which appeals ordinarily lie from\nconvictions by the Magistrate.",
+      "key_terms": [
+        "magistrate",
+        "state government"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the fallback outcome when section 503's six-month proclamation window closes without any successful claimant: if no one establishes a claim, and the person found in possession of the property can't show it was legally acquired by him, the Magistrate may direct that the property go to the disposal of the State Government, which may sell it, with proceeds handled per State Government rules. Sub-section (2) guarantees an appeal against such an order, to the Court to which appeals ordinarily lie from that Magistrate's convictions -- ensuring the person in possession (even if unable to prove legal acquisition) isn't left without any recourse against a disposal order.",
+        "essential_elements": [
+          "Applies where no claimant establishes a claim within the section 503 six-month period.",
+          "The Magistrate must also find that the person in possession cannot show the property was legally acquired.",
+          "The Magistrate may direct the property to the State Government's disposal, which may sell it, proceeds handled per State Government rules.",
+          "An appeal lies against such an order to the Court to which appeals ordinarily lie from that Magistrate's convictions."
+        ],
+        "exceptions_and_qualifications": [
+          "Both conditions -- no successful claimant AND inability to show legal acquisition -- must be satisfied before the property goes to State disposal."
+        ],
+        "how_to_read": "The double condition here matters for defense strategy: a possessor who cannot identify a specific rightful owner may still resist a section 504 order by simply establishing legal acquisition (e.g., a purchase receipt), even without naming who he acquired it from."
+      }
+    },
+    {
+      "number": "505",
+      "title": "Power to sell perishable property",
+      "raw_text": "505. Power to sell perishable property.—If the person entitled to the possession of such property is\nunknown or absent and the property is subject to speedy and natural decay, or if the Magistrate to whom its\nseizure is reported is of opinion that its sale would be for the benefit of the owner, or that the value of such\nproperty is less than ten thousand rupees, the Magistrate may at any time direct it to be sold; and the\nprovisions of sections 503 and 504 shall, as nearly as may be practicable, apply to the net proceeds of such\nsale.",
+      "key_terms": [
+        "magistrate",
+        "perishable property"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes out the unclaimed/unascertained-property sequence by giving the Magistrate a fast-track sale power that bypasses the six-month waiting period of sections 503-504, in three alternative situations: the entitled person is unknown/absent and the property is perishable; the Magistrate believes sale would benefit the owner; or the property's value is under ten thousand rupees. In any of these, the Magistrate may direct sale at any time -- and once sold, sections 503 and 504's procedures (proclamation, six-month claim window, disposal-to-State-if-unclaimed) apply, as nearly as practicable, to the net sale proceeds instead of to the physical property itself.",
+        "essential_elements": [
+          "Applies where the entitled person is unknown/absent and the property is perishable, OR sale would benefit the owner in the Magistrate's opinion, OR the property's value is below ten thousand rupees.",
+          "The Magistrate may direct sale at any time under any of these three grounds.",
+          "Sections 503 and 504's procedures then apply, as nearly as practicable, to the net sale proceeds rather than the property itself."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a practical acceleration mechanism -- it substitutes money (sale proceeds) for the physical property as the thing subject to the claim/disposal procedure, recognizing that waiting six months would often destroy the property's value entirely."
+        ],
+        "how_to_read": "This closes Chapter XXXVI (Disposal of Property) in its entirety -- Chapter XXXVII (Irregular Proceedings) begins immediately after at section 506."
+      }
+    },
+    {
+      "number": "506",
+      "title": "Irregularities which do not vitiate proceedings",
+      "raw_text": "506. Irregularities which do not vitiate proceedings.—If any Magistrate not empowered by law to\ndo any of the following things, namely:—\n        (a) to issue a search-warrant under section 97;\n        (b) to order, under section 174, the police to investigate an offence;\n        (c) to hold an inquest under section 196;\n       (d) to issue process under section 207, for the apprehension of a person within his local jurisdiction\n    who has committed an offence outside the limits of such jurisdiction;\n        (e) to take cognizance of an offence under clause (a) or clause (b) of sub-section (1) of section 210;\n        (f) to make over a case under sub-section (2) of section 212;\n        (g) to tender a pardon under section 343;\n        (h) to recall a case and try it himself under section 450; or\n        (i) to sell property under section 504 or section 505, erroneously in good faith does that thing, his\n    proceedings shall not be set aside merely on the ground of his not being so empowered.",
+      "key_terms": [
+        "magistrate",
+        "search-warrant"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XXXVII's curative scheme by listing nine specific categories of Magistrate action (issuing a search warrant, ordering police investigation, holding an inquest, issuing process for extra-jurisdictional apprehension, taking cognizance under specific clauses, making over a case, tendering a pardon, recalling a case to try himself, or selling property under sections 504/505) where, if a Magistrate not actually empowered by law to do that thing nonetheless does it erroneously and in good faith, the resulting proceedings are NOT to be set aside merely because he lacked the power. This protects the validity of proceedings against a purely technical want-of-authority defect, so long as the error was made honestly rather than in bad faith.",
+        "essential_elements": [
+          "Lists nine specific categories of Magistrate action where lack of legal empowerment, if acted on erroneously and in good faith, does not vitiate the proceedings.",
+          "The categories span search warrants, investigation orders, inquests, extra-jurisdictional process, cognizance-taking, case transfers, pardons, case recall, and property sales.",
+          "The proceedings survive despite the want of power, provided the Magistrate acted erroneously and in good faith."
+        ],
+        "exceptions_and_qualifications": [
+          "The protection is conditional on good faith -- a Magistrate knowingly acting outside his power does not get this shelter.",
+          "This list is exhaustive of the specific categories covered -- contrast with section 507's separately listed categories that DO vitiate proceedings."
+        ],
+        "how_to_read": "Always read this section directly against section 507 -- together they form a deliberate, itemized allocation of which want-of-power defects are curable (here) versus fatal (507); nothing outside these two lists is directly governed by either, so classify any defect precisely into the right list before arguing its consequence."
+      }
+    },
+    {
+      "number": "507",
+      "title": "Irregularities which vitiate proceedings",
+      "raw_text": "507. Irregularities which vitiate proceedings.—If any Magistrate, not being empowered by law in\nthis behalf, does any of the following things, namely:—\n        (a) attaches and sells property under section 85;\n        (b) issues a search-warrant for a document, parcel or other things in the custody of a postal\n    authority;\n        (c) demands security to keep the peace;\n        (d) demands security for good behaviour;\n        (e) discharges a person lawfully bound to be of good behaviour;\n        (f) cancels a bond to keep the peace;\n        (g) makes an order for maintenance;\n        (h) makes an order under section 152 as to a local nuisance;\n        (i) prohibits, under section 162, the repetition or continuance of a public nuisance;\n        (j) makes an order under Part C or Part D of Chapter XI;\n        (k) takes cognizance of an offence under clause (c) of sub-section (1) of section 210;\n        (l) tries an offender;\n        (m) tries an offender summarily;\n        (n) passes a sentence, under section 364, on proceedings recorded by another Magistrate;\n        (o) decides an appeal;\n        (p) calls, under section 438, for proceedings; or\n        (q) revises an order passed under section 491,\nhis proceedings shall be void.",
+      "key_terms": [
+        "magistrate",
+        "void"
+      ],
+      "breakdown": {
+        "plain_summary": "This is section 506's mirror-image counterpart: for a different, separately enumerated list of seventeen categories of Magistrate action (attaching/selling property, issuing postal search warrants, demanding security to keep the peace or for good behaviour, discharging a good-behaviour bond, cancelling a peace bond, making maintenance orders, acting on local/public nuisances, acting under Chapter XI Parts C/D, taking cognizance under a specific clause, trying an offender (regularly or summarily), passing sentence on another Magistrate's recorded proceedings, deciding an appeal, calling for proceedings, or revising a section 491 order), if a Magistrate not empowered by law does any of these things, his proceedings are simply void -- no good-faith saving grace applies here as it does in section 506. These are treated as more fundamental jurisdictional defects going to the heart of judicial authority (trying offenders, deciding appeals, coercive security/property measures) rather than administrative missteps.",
+        "essential_elements": [
+          "Lists seventeen specific categories of Magistrate action where lack of legal empowerment renders the proceedings void, with no good-faith exception.",
+          "The categories include property attachment/sale, postal search warrants, peace/good-behaviour security demands, maintenance orders, nuisance orders, trying offenders (regular or summary), passing sentence on another Magistrate's proceedings, deciding appeals, and revising section 491 orders."
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike section 506, there is no good-faith savings clause here -- voidness follows automatically from the want of power for these categories."
+        ],
+        "how_to_read": "Practitioners challenging a Magistrate's order for want of jurisdiction should first check whether the specific act falls within this section's list (fatal, void) or section 506's list (curable if done in good faith) -- the categorization, not the Magistrate's intent, is generally what determines the outcome here."
+      }
+    },
+    {
+      "number": "508",
+      "title": "Proceedings in wrong place",
+      "raw_text": "508. Proceedings in wrong place.—No finding, sentence or order of any Criminal Court shall be set\naside merely on the ground that the inquiry, trial or other proceedings in the course of which it was arrived\nat or passed, took place in a wrong sessions division, district, sub-division or other local area, unless it\nappears that such error has in fact occasioned a failure of justice.",
+      "key_terms": [
+        "criminal court",
+        "sessions division"
+      ],
+      "breakdown": {
+        "plain_summary": "This protects proceedings from being invalidated on a purely territorial/venue technicality: a Criminal Court's finding, sentence, or order is not to be set aside merely because the underlying inquiry, trial, or proceedings happened in the wrong sessions division, district, sub-division, or other local area -- unless that venue error actually caused a failure of justice. The focus shifts from the formal correctness of venue to whether the mistake had any real prejudicial effect.",
+        "essential_elements": [
+          "A finding, sentence, or order is not to be set aside merely for having proceeded in the wrong sessions division, district, sub-division, or local area.",
+          "Setting aside is warranted only if the venue error has in fact occasioned a failure of justice."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is part of the same curative philosophy running through sections 506-511 -- technical/procedural defects (here, wrong venue) don't automatically doom a proceeding; the challenging party must show actual prejudice (failure of justice), not just the bare fact of the irregularity."
+      }
+    },
+    {
+      "number": "509",
+      "title": "Non-compliance with provisions of section 183 or section 316",
+      "raw_text": "509. Non-compliance with provisions of section 183 or section 316.—(1) If any Court before which\na confession or other statement of an accused person recorded, or purporting to be recorded under section\n183 or section 316, is tendered, or has been received, in evidence finds that any of the provisions of either\nof such sections have not been complied with by the Magistrate recording the statement, it may,\nnotwithstanding anything contained in section 94 of the Bharatiya Sakshya Adhiniyam, 2023, take evidence\nin regard to such non-compliance, and may, if satisfied that such non-compliance has not injured the\naccused in his defence on the merits and that he duly made the statement recorded, admit such statement.\n    (2) The provisions of this section apply to Courts of appeal, reference and revision.",
+      "key_terms": [
+        "confession",
+        "magistrate",
+        "evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "This provides a specific curative route for procedural defects in recording confessions/statements under sections 183 or 316. Where a confession or statement, recorded or purporting to be recorded under either section, is tendered or received in evidence, and the Court finds the recording Magistrate failed to comply with those sections' requirements, the Court may -- overriding the ordinary evidentiary bar in section 94 of the Bharatiya Sakshya Adhiniyam, 2023 -- take evidence specifically about that non-compliance. If satisfied both that the non-compliance did not injure the accused's defence on the merits, and that he genuinely did make the statement as recorded, the Court may admit the statement despite the procedural defect. Sub-section (2) extends this same curative power to appellate, reference, and revisional Courts, not just the trial Court.",
+        "essential_elements": [
+          "Applies where a confession/statement recorded or purporting to be recorded under section 183 or 316 is tendered/received in evidence, and the recording Magistrate did not comply with those sections' requirements.",
+          "The Court may take evidence about the non-compliance, notwithstanding section 94 of the Bharatiya Sakshya Adhiniyam, 2023.",
+          "The Court may admit the statement if satisfied the non-compliance did not injure the accused's defence on the merits and that he duly made the statement.",
+          "This power extends to Courts of appeal, reference, and revision."
+        ],
+        "exceptions_and_qualifications": [
+          "Admission is conditional on BOTH findings: no injury to the defence on the merits, AND genuine authorship of the statement as recorded."
+        ],
+        "how_to_read": "This is a narrow, fact-intensive curative gateway specific to confession/statement recording defects -- unlike sections 506-508's blanket rules, here the Court must affirmatively take evidence and make two specific findings before the defect is cured."
+      }
+    },
+    {
+      "number": "510",
+      "title": "Effect of omission to frame, or absence of, or error in, charge",
+      "raw_text": "510. Effect of omission to frame, or absence of, or error in, charge.—(1) No finding, sentence or\norder by a Court of competent jurisdiction shall be deemed invalid merely on the ground that no charge was\nframed or on the ground of any error, omission or irregularity in the charge including any misjoinder of\ncharges, unless, in the opinion of the Court of appeal, confirmation or revision, a failure of justice has in\nfact been occasioned thereby.\n    (2) If the Court of appeal, confirmation or revision, is of opinion that a failure of justice has in fact been\noccasioned, it may,—\n        (a) in the case of an omission to frame a charge, order that a charge be framed, and that the trial be\n    recommenced from the point immediately after the framing of the charge;\n        (b) in the case of an error, omission or irregularity in the charge, direct a new trial to be had upon\n    a charge framed in whatever manner it thinks fit:\n        Provided that if the Court is of opinion that the facts of the case are such that no valid charge could\n    be preferred against the accused in respect of the facts proved, it shall quash the conviction.",
+      "key_terms": [
+        "charge",
+        "misjoinder of charges",
+        "confirmation",
+        "quash"
+      ],
+      "breakdown": {
+        "plain_summary": "This extends the same failure-of-justice principle specifically to charge-framing defects: no finding, sentence, or order of a competent Court is invalid merely because no charge was framed at all, or because of any error, omission, or irregularity in the charge (including misjoinder of charges), unless the appellate, confirmation, or revisional Court considers that a failure of justice actually resulted. Where such a failure of justice IS found, sub-section (2) prescribes the specific remedies: for an omission to frame a charge, order that a charge be framed and the trial recommence from immediately after framing; for an error/omission/irregularity in the charge, direct an entirely new trial on a freshly framed charge. But the proviso caps this: if the Court concludes that no valid charge could ever be preferred against the accused on the facts actually proved, it must quash the conviction outright rather than order a re-trial that could never succeed.",
+        "essential_elements": [
+          "A charge-framing omission, error, or irregularity (including misjoinder) does not invalidate a finding/sentence/order unless it occasioned a failure of justice.",
+          "For an omission to frame a charge causing a failure of justice: the appellate/confirmation/revision Court orders a charge framed and the trial recommenced from that point.",
+          "For an error/omission/irregularity in the charge causing a failure of justice: the Court directs a new trial on a freshly framed charge.",
+          "If no valid charge could ever be framed on the facts proved, the conviction must be quashed rather than retried."
+        ],
+        "exceptions_and_qualifications": [
+          "The quash-instead-of-retry outcome under the proviso applies only where the underlying facts proved could never support any valid charge -- not merely where the original charge itself was defective."
+        ],
+        "how_to_read": "This section works as a direct, specialized application of the general failure-of-justice principle in sections 508 and 511 to the particular problem of charge defects -- always check whether the facts proved could support a valid charge at all before assuming a retry (rather than an outright quash) is the available remedy."
+      }
+    },
+    {
+      "number": "511",
+      "title": "Finding or sentence when reversible by reason of error, omission or irregularity",
+      "raw_text": "511. Finding or sentence when reversible by reason of error, omission or irregularity.—(1) Subject\nto the provisions hereinbefore contained, no finding, sentence or order passed by a Court of competent\njurisdiction shall be reversed or altered by a Court of appeal, confirmation of revision on account of any\nerror, omission or irregularity in the complaint, summons, warrant, proclamation, order, judgment or other\nproceedings before or during trial or in any inquiry or other proceedings under this Sanhita, or any error, or\nirregularity in any sanction for the prosecution, unless in the opinion of that Court, a failure of justice has\nin fact been occasioned thereby.\n    (2) In determining whether any error, omission or irregularity in any proceeding under this Sanhita, or\nany error, or irregularity in any sanction for the prosecution has occasioned a failure of justice, the Court\nshall have regard to the fact whether the objection could and should have been raised at an earlier stage in\nthe proceedings.",
+      "key_terms": [
+        "confirmation",
+        "sanction",
+        "proclamation"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the broadest, catch-all statement of the failure-of-justice principle running through the whole of Chapter XXXVII: subject to the earlier, more specific provisions of the Chapter, no finding, sentence, or order of a competent Court can be reversed or altered on appeal, confirmation, or revision merely because of an error, omission, or irregularity in the complaint, summons, warrant, proclamation, order, judgment, or other proceedings before or during trial (or in any inquiry/other proceeding), or any error/irregularity in a prosecution sanction -- unless the reviewing Court considers a failure of justice actually resulted. Sub-section (2) gives the Court a specific consideration when deciding that question: whether the objection could and should have been raised earlier in the proceedings -- a party who sat on a known defect and only raises it late faces an uphill battle showing real prejudice.",
+        "essential_elements": [
+          "No finding/sentence/order is reversed or altered on appeal, confirmation, or revision merely for an error, omission, or irregularity in listed documents/proceedings or in a prosecution sanction.",
+          "Reversal/alteration requires the reviewing Court's opinion that a failure of justice has in fact been occasioned.",
+          "In assessing failure of justice, the Court must consider whether the objection could and should have been raised earlier in the proceedings."
+        ],
+        "exceptions_and_qualifications": [
+          "This section operates subject to the more specific provisions earlier in the Chapter (sections 506-510) -- it is the residual/general rule, not an override of those specific rules."
+        ],
+        "how_to_read": "This is the master failure-of-justice principle for the whole Chapter -- sections 508, 509, and 510 are specific applications of it to particular defect types (venue, confession recording, charge framing), while section 511 mops up every other kind of procedural error/irregularity not separately addressed, always subject to the same late-objection consideration in sub-section (2)."
+      }
+    },
+    {
+      "number": "512",
+      "title": "Defect or error not to make attachment unlawful",
+      "raw_text": "512. Defect or error not to make attachment unlawful.—No attachment made under this Sanhita\nshall be deemed unlawful, nor shall any person making the same be deemed a trespasser, on account of any\ndefect or want of form in the summons, conviction, writ of attachment or other proceedings relating thereto.",
+      "key_terms": [
+        "attachment",
+        "trespasser"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XXXVII with a targeted protection for attachments carried out under the Sanhita: an attachment is not to be deemed unlawful, nor the person carrying it out treated as a trespasser, merely because of a defect or want of form in the summons, conviction, writ of attachment, or other related proceedings. Like the rest of the Chapter, this shields the substantive act (here, attachment) from being unwound purely on formal/technical grounds.",
+        "essential_elements": [
+          "An attachment under the Sanhita is not unlawful merely for a defect or want of form in the summons, conviction, writ of attachment, or related proceedings.",
+          "The person carrying out the attachment is not deemed a trespasser on that ground."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This closes Chapter XXXVII (Irregular Proceedings) in its entirety, sections 506-512, all built around the same theme: purely formal/technical defects don't unwind an otherwise valid proceeding or action unless real prejudice (failure of justice) resulted. Chapter XXXVIII (Limitation for Taking Cognizance of Certain Offences) begins immediately after at section 513."
       }
     }
   ]
