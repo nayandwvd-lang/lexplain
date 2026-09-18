@@ -24,7 +24,10 @@
     "admission": "A statement -- oral, documentary, or in electronic form -- that suggests an inference as to a fact in issue or relevant fact, made by specified categories of persons under specified circumstances. Section 15 opens the Adhiniyam's dedicated sub-topic on admissions, which governs when such statements can be used as evidence against the person who (or whose privy) made them.",
     "confession": "A species of admission made by an accused person in a criminal proceeding, acknowledging guilt. Sections 22 to 25 govern when a confession is irrelevant (e.g. induced, threatened, or coerced by a person in authority) or barred outright (e.g. made to a police officer or while in police custody, subject to specific exceptions).",
     "person in authority": "Someone whose position gives their inducement, threat, or promise real weight in the accused's mind in relation to the charge against them -- typically a person connected with the prosecution, arrest, examination, or custody of the accused (e.g. a police officer, magistrate, or jailor). A confession tainted by such a person's inducement, threat, coercion, or promise is irrelevant under section 22.",
-    "secondary evidence": "Evidence of a document's contents other than the original document itself -- for example, a certified copy or oral account of its contents. It is generally admissible only where the Adhiniyam's rules permit it in place of the original (primary) document."
+    "secondary evidence": "Evidence of a document's contents other than the original document itself -- for example, a certified copy or oral account of its contents. It is generally admissible only where the Adhiniyam's rules permit it in place of the original (primary) document.",
+    "estoppel": "A rule that prevents a person from denying or asserting something contrary to what they previously stated or represented, where another person relied on it. Section 25 clarifies that admissions are not themselves conclusive proof but may, independently, operate as an estoppel under the Adhiniyam's estoppel provisions.",
+    "dying declaration": "A statement by a person as to the cause of their death, or as to circumstances of the transaction resulting in their death, made relevant under section 26(a) in any proceeding where the cause of that person's death is in question -- whether or not the person was, at the time, under an expectation of death.",
+    "books of account": "Regularly kept business records (including in electronic form) that are relevant under section 28 whenever they bear on a matter the Court must inquire into -- but, standing alone, they are never sufficient by themselves to fix a person with liability; independent corroborating evidence is always required."
   },
   "sections": [
     {
@@ -519,6 +522,186 @@
           "This section is the primary statutory filter for coerced or induced confessions in criminal trials -- the four-part test (inducement/threat/coercion/promise + reference to the charge + person in authority + reasonable grounds for temporal advantage/evil) must all be satisfied for the confession to be excluded, and the exclusion can still be cured under the first proviso."
         ],
         "how_to_read": "Run every contested confession through this section first: identify the specific inducement/threat/coercion/promise, confirm it came from a 'person in authority', and test whether the taint was removed before the confession was actually made -- the second proviso's list is a checklist of arguments that will NOT succeed in excluding a confession on their own."
+      }
+    },
+    {
+      "number": "23",
+      "title": "Confession to police officer",
+      "raw_text": "23. (1) No confession made to a police officer shall be proved as against a person accused of any offence.\n(2) No confession made by any person while he is in the custody of a police officer, unless it is made in the immediate presence of a Magistrate shall be proved against him:\nProvided that when any fact is deposed to as discovered in consequence of information received from a person accused of any offence, in the custody of a police officer, so much of such information, whether it amounts to a confession or not, as relates distinctly to the fact discovered, may be proved.",
+      "key_terms": [
+        "police officer",
+        "custody",
+        "magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "Two absolute bars protect against unreliable police-extracted confessions: a confession made to a police officer can never be proved against the accused, and a confession made while in police custody can never be proved unless made in a Magistrate's immediate presence. The proviso carves out a narrow, separate exception -- the 'discovery' rule -- letting in only the part of a police-custody statement that distinctly relates to a fact actually discovered as a result of it.",
+        "essential_elements": [
+          "Subsection (1): a confession made to a police officer is never provable against the accused.",
+          "Subsection (2): a confession made in police custody is not provable unless made in the immediate presence of a Magistrate.",
+          "Proviso: where a fact is discovered as a consequence of information given by an accused in police custody, so much of that information as distinctly relates to the discovered fact may be proved, whether or not it amounts to a confession."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso is a genuine exception, not a loophole for the whole statement -- only the portion of the information distinctly connected to what was actually discovered is admissible; the rest of any accompanying confession remains barred."
+        ],
+        "how_to_read": "This is the constitutional-adjacent safeguard against coerced police confessions -- always check first whether the confession was to a police officer or in police custody, then separately test whether any part of it survives only through the narrow discovery-of-fact proviso."
+      }
+    },
+    {
+      "number": "24",
+      "title": "Consideration of proved confession affecting person making it and others jointly under trial for same offence",
+      "raw_text": "24. When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the Court may take into consideration such confession as against such other person as well as against the person who makes such confession.\nExplanation I.—“Offence”, as used in this section, includes the abetment of, or attempt to commit, the offence.\nExplanation II.—A trial of more persons than one held in the absence of the accused who has absconded or who fails to comply with a proclamation issued under section 84 of the Bharatiya Nagarik Suraksha Sanhita, 2023 shall be deemed to be a joint trial for the purpose of this section.\nIllustrations.\n(a) A and B are jointly tried for the murder of C. It is proved that A said—“B and I murdered C”. The Court may consider the effect of this confession as against B.\n(b) A is on his trial for the murder of C. There is evidence to show that C was murdered by A and B, and that B said—“A and I murdered C”. This statement may not be taken into consideration by the Court against A, as B is not being jointly tried.",
+      "key_terms": [
+        "joint trial",
+        "abetment",
+        "proclamation"
+      ],
+      "breakdown": {
+        "plain_summary": "When two or more people are jointly tried for the same offence, one co-accused's proved confession that implicates both himself and the other can be weighed by the Court against that other person too -- not just against the confessor. Explanation I extends 'offence' to cover abetment and attempt. Explanation II deems a trial held in a proclaimed absconder's absence to still be a 'joint trial' for this purpose.",
+        "essential_elements": [
+          "Two or more persons must be jointly tried for the same offence.",
+          "A confession by one of them, proved, must implicate both himself and the co-accused.",
+          "The Court may then consider that confession as evidence against the co-accused as well as the confessor.",
+          "Explanation I: 'offence' includes abetment of, or attempt to commit, the offence.",
+          "Explanation II: a trial held in the absence of an absconder under BNSS section 84 counts as a joint trial for this section."
+        ],
+        "exceptions_and_qualifications": [
+          "Illustration (b) marks the boundary: if the co-accused is not actually being jointly tried (a separate trial), the other person's confession cannot be used against the absent party at all."
+        ],
+        "how_to_read": "The word 'jointly' is doing all the work -- confirm the co-accused are genuinely being tried together (or deemed so under Explanation II) before treating one's confession as usable, even circumstantially, against the other."
+      }
+    },
+    {
+      "number": "25",
+      "title": "Admissions not conclusive proof, but may estop",
+      "raw_text": "25. Admissions are not conclusive proof of the matters admitted but they may operate as estoppels under the provisions hereinafter contained.",
+      "key_terms": [
+        "estoppel",
+        "conclusive proof"
+      ],
+      "breakdown": {
+        "plain_summary": "An admission is not automatically decisive -- the Court can still weigh other evidence against it. But separately, an admission can trigger an estoppel, permanently barring the person who made it from later denying it, if the Adhiniyam's estoppel provisions are satisfied.",
+        "essential_elements": [
+          "Admissions do not amount to conclusive proof of the matters they admit.",
+          "Admissions may nonetheless operate as an estoppel, but only under the estoppel provisions found elsewhere in the Adhiniyam."
+        ],
+        "exceptions_and_qualifications": [
+          "Do not conflate the evidentiary weight of an admission (which remains rebuttable) with the separate, stricter doctrine of estoppel (which can permanently bar a party from resiling from what they said) -- the two operate on different legal tracks."
+        ],
+        "how_to_read": "Keep 'admission as evidence' and 'admission as estoppel' analytically separate: this section is the bridge telling you the second doctrine exists but is governed by its own dedicated provisions, not by the admissions sub-topic itself."
+      }
+    },
+    {
+      "number": "26",
+      "title": "Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant",
+      "raw_text": "26. Statements, written or verbal, of relevant facts made by a person who is dead, or who cannot be found, or who has become incapable of giving evidence, or whose attendance cannot be procured without an amount of delay or expense which under the circumstances of the case appears to the Court unreasonable, are themselves relevant facts in the following cases, namely:—\nStatements by persons who cannot be called as witnesses\n(a) when the statement is made by a person as to the cause of his death, or as to any of the circumstances of the transaction which resulted in his death, in cases in which the cause of that person's death comes into question. Such statements are relevant whether the person who made them was or was not, at the time when they were made, under expectation of death, and whatever may be the nature of the proceeding in which the cause of his death comes into question;\n(b) when the statement was made by such person in the ordinary course of business, and in particular when it consists of any entry or memorandum made by him in books kept in the ordinary course of business, or in the discharge of professional duty; or of an acknowledgement written or signed by him of the receipt of money, goods, securities or property of any kind; or of a document used in commerce written or signed by him; or of the date of a letter or other document usually dated, written or signed by him;\n(c) when the statement is against the pecuniary or proprietary interest of the person making it, or when, if true, it would expose him or would have exposed him to a criminal prosecution or to a suit for damages;\n(d) when the statement gives the opinion of any such person, as to the existence of any public right or custom or matter of public or general interest, of the existence of which, if it existed, he would have been likely to be aware, and when such statement was made before any controversy as to such right, custom or matter had arisen;\n(e) when the statement relates to the existence of any relationship by blood, marriage or adoption between persons as to whose relationship by blood, marriage or adoption the person making the statement had special means of knowledge, and when the statement was made before the question in dispute was raised;\n(f) when the statement relates to the existence of any relationship by blood, marriage or adoption between persons deceased, and is made in any will or deed relating to the affairs of the family to which any such deceased person belonged, or in any family pedigree, or upon any tombstone, family portrait or other thing on which such statements are usually made, and when such statement was made before the question in dispute was raised;\n(g) when the statement is contained in any deed, will or other document which relates to any such transaction as is specified in clause (a) of section 11;\n(h) when the statement was made by a number of persons, and expressed feelings or impressions on their part relevant to the matter in question.\nIllustrations.\n(a) The question is, whether A was murdered by B; or A dies of injuries received in a transaction in the course of which she was raped. The question is whether she was raped by B; or the question is, whether A was killed by B under such circumstances that a suit would lie against B by A's widow. Statements made by A as to the cause of his or her death, referring respectively to the murder, the rape and the actionable wrong under consideration, are relevant facts.\n(b) The question is as to the date of A's birth. An entry in the diary of a deceased surgeon regularly kept in the course of business, stating that, on a given day he attended A's mother and delivered her of a son, is a relevant fact.\n(c) The question is, whether A was in Nagpur on a given day. A statement in the diary of a deceased solicitor, regularly kept in the course of business, that on a given day the solicitor attended A at a place mentioned, in Nagpur, for the purpose of conferring with him upon specified business, is a relevant fact.\n(d) The question is, whether a ship sailed from Mumbai harbour on a given day. A letter written by a deceased member of a merchant's firm by which she was chartered to their correspondents in Chennai, to whom the cargo was consigned, stating that the ship sailed on a given day from Mumbai port, is a relevant fact.\n(e) The question is, whether rent was paid to A for certain land. A letter from A's deceased agent to A, saying that he had received the rent on A's account and held it at A's orders is a relevant fact.\n(f) The question is, whether A and B were legally married. The statement of a deceased clergyman that he married them under such circumstances that the celebration would be a crime is relevant.\n(g) The question is, whether A, a person who cannot be found, wrote a letter on a certain day. The fact that a letter written by him is dated on that day is relevant.\n(h) The question is, what was the cause of the wreck of a ship. A protest made by the captain, whose attendance cannot be procured, is a relevant fact.\n(i) The question is, whether a given road is a public way. A statement by A, a deceased headman of the village, that the road was public, is a relevant fact.\n(j) The question is, what was the price of grain on a certain day in a particular market. A statement of the price, made by a deceased business person in the ordinary course of his business, is a relevant fact.\n(k) The question is, whether A, who is dead, was the father of B. A statement by A that B was his son, is a relevant fact.\n(l) The question is, what was the date of the birth of A. A letter from A's deceased father to a friend, announcing the birth of A on a given day, is a relevant fact.\n(m) The question is, whether, and when, A and B were married. An entry in a memorandum book by C, the deceased father of B, of his daughter's marriage with A on a given date, is a relevant fact.\n(n) A sues B for a libel expressed in a painted caricature exposed in a shop window. The question is as to the similarity of the caricature and its libellous character. The remarks of a crowd of spectators on these points may be proved.",
+      "key_terms": [
+        "dying declaration",
+        "ordinary course of business",
+        "pedigree"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is the Adhiniyam's main gateway for hearsay from unavailable declarants -- persons dead, untraceable, incapacitated, or whose attendance would cost unreasonable delay or expense. Their statements become relevant facts in eight defined categories: (a) dying declarations about the cause of death; (b) ordinary-course-of-business entries and commercial documents; (c) statements against the maker's own pecuniary, proprietary, or penal interest; (d) opinions on public rights/customs made before any controversy arose; (e) statements on blood/marriage/adoption relationships made by someone with special knowledge, before any dispute arose; (f) similar relationship statements found in wills, pedigrees, tombstones, or family portraits; (g) statements in deeds/wills relating to transactions under section 11(a); and (h) collective statements of feeling or impression by a group of people.",
+        "essential_elements": [
+          "The declarant must be dead, untraceable, incapable of giving evidence, or unreasonably difficult/expensive to produce.",
+          "The statement must fall within one of clauses (a) to (h) -- an exhaustive list of categories.",
+          "Clause (a) dying declarations require no expectation-of-death and apply in any type of proceeding, not just homicide trials.",
+          "Clauses (d) and (e) both require the statement to predate the rise of any controversy or dispute on the matter."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (a)'s dying declaration exception is notably broader than the general common-law notion -- it applies regardless of the declarant's expectation of death and regardless of whether the proceeding is criminal or civil.",
+          "The eight clauses are the exclusive gateways; a statement by an unavailable person that does not fit any of (a) to (h) remains inadmissible under this section."
+        ],
+        "how_to_read": "Work through the clauses like a checklist whenever a witness is unavailable: first confirm the unavailability ground, then match the statement's content precisely to one of the eight categories -- dying declarations (a) and business-record entries (b) are the two most frequently invoked in practice."
+      }
+    },
+    {
+      "number": "27",
+      "title": "Relevancy of certain evidence for proving, in subsequent proceeding, truth of facts therein stated",
+      "raw_text": "27. Evidence given by a witness in a judicial proceeding, or before any person authorised by law to take it, is relevant for the purpose of proving, in a subsequent judicial proceeding, or in a later stage of the same judicial proceeding, the truth of the facts which it states, when the witness is dead or cannot be found, or is incapable of giving evidence, or is kept out of the way by the adverse party, or if his presence cannot be obtained without an amount of delay or expense which, under the circumstances of the case, the Court considers unreasonable:\nProvided that the proceeding was between the same parties or their representatives in interest; that the adverse party in the first proceeding had the right and opportunity to cross-examine and the questions in issue were substantially the same in the first as in the second proceeding.\nExplanation.—A criminal trial or inquiry shall be deemed to be a proceeding between the prosecutor and the accused within the meaning of this section.",
+      "key_terms": [
+        "cross-examine",
+        "judicial proceeding"
+      ],
+      "breakdown": {
+        "plain_summary": "Prior testimony from an earlier judicial proceeding (or a stage of the same proceeding) can be used to prove the truth of what it states in a later proceeding, if the witness is now dead, untraceable, incapacitated, deliberately kept away by the adverse party, or unreasonably costly/delayed to produce. Three conditions in the proviso must all be met: same parties (or their privies), the adverse party had the right and opportunity to cross-examine the first time, and the issues were substantially the same in both proceedings.",
+        "essential_elements": [
+          "The evidence must have been given by a witness in a judicial proceeding, or before a person legally authorised to take evidence.",
+          "The witness must now be dead, untraceable, incapable of testifying, kept away by the adverse party, or unreasonably difficult/costly to produce.",
+          "Proviso condition 1: the two proceedings must be between the same parties or their representatives in interest.",
+          "Proviso condition 2: the adverse party in the earlier proceeding must have had the right and opportunity to cross-examine.",
+          "Proviso condition 3: the questions in issue must have been substantially the same in both proceedings.",
+          "Explanation: a criminal trial or inquiry is deemed a proceeding between prosecutor and accused for this section's purposes."
+        ],
+        "exceptions_and_qualifications": [
+          "'Kept out of the way by the adverse party' is itself a distinct unavailability ground -- a party cannot benefit from their own act of hiding a witness to block prior testimony from a first proceeding from being used.",
+          "All three proviso conditions are cumulative, not alternative; missing any one defeats reliance on this section."
+        ],
+        "how_to_read": "This is the mechanism for carrying forward testimony across proceedings (e.g. from committal to trial, or between related civil suits) -- always verify the cross-examination opportunity and substantial-sameness-of-issues conditions before assuming prior testimony can simply be read in."
+      }
+    },
+    {
+      "number": "28",
+      "title": "Entries in books of account when relevant",
+      "raw_text": "28. Entries in the books of account, including those maintained in an electronic form, regularly kept in the course of business are relevant whenever they refer to a matter into which the Court has to inquire, but such statements shall not alone be sufficient evidence to charge any person with liability.\nIllustration.\nA sues B for one thousand rupees, and shows entries in his account books showing B to be indebted to him to this amount. The entries are relevant, but are not sufficient, without other evidence, to prove the debt.",
+      "key_terms": [
+        "books of account",
+        "electronic form"
+      ],
+      "breakdown": {
+        "plain_summary": "Regularly-kept business account entries, including electronic ones, are relevant to any matter the Court is inquiring into. But they are never enough on their own to fix liability on a person -- some independent corroborating evidence is always required before a court can act on the entries alone.",
+        "essential_elements": [
+          "Entries must be in books of account, which may be maintained in electronic form.",
+          "The entries must be regularly kept in the course of business.",
+          "They are relevant whenever they refer to a matter under the Court's inquiry.",
+          "Standing alone, such entries are never sufficient evidence to charge any person with liability -- corroboration is required."
+        ],
+        "exceptions_and_qualifications": [
+          "The illustration is the working rule in every debt-recovery suit relying on account books: relevance is not the same as sufficiency, and a plaintiff must bring something more than their own ledger to prove the debt."
+        ],
+        "how_to_read": "Never treat a party's own account-book entries as self-proving -- they clear the relevance bar automatically but always need independent corroboration to actually carry the burden of proof."
+      }
+    },
+    {
+      "number": "29",
+      "title": "Relevancy of entry in public record or an electronic record made in performance of duty",
+      "raw_text": "29. An entry in any public or other official book, register or record or an electronic record, stating a fact in issue or relevant fact, and made by a public servant in the discharge of his official duty, or by any other person in performance of a duty specially enjoined by the law of the country in which such book, register or record or an electronic record, is kept, is itself a relevant fact.",
+      "key_terms": [
+        "public record",
+        "official duty",
+        "electronic record"
+      ],
+      "breakdown": {
+        "plain_summary": "An entry in an official book, register, record, or electronic record is itself a relevant fact if it states a fact in issue or relevant fact, and was made either by a public servant in the discharge of official duty, or by anyone else performing a duty that the law specifically requires of them.",
+        "essential_elements": [
+          "The entry must be in a public or official book, register, record, or electronic record.",
+          "It must state a fact in issue or a relevant fact.",
+          "It must have been made by a public servant in the discharge of official duty, or by another person performing a legally-enjoined duty."
+        ],
+        "exceptions_and_qualifications": [
+          "This section covers electronic official records on the same footing as paper ones, reflecting the Adhiniyam's general modernisation of the evidence framework for digital records."
+        ],
+        "how_to_read": "This is the standard route for admitting official records -- land registers, birth/death registers, government electronic databases -- as relevant facts without needing to call the recording official as a witness."
+      }
+    },
+    {
+      "number": "30",
+      "title": "Relevancy of statements in maps, charts and plans",
+      "raw_text": "30. Statements of facts in issue or relevant facts, made in published maps or charts generally offered for public sale, or in maps or plans made under the authority of the Central Government or any State Government, as to matters usually represented or stated in such maps, charts or plans, are themselves relevant facts.",
+      "key_terms": [
+        "published maps",
+        "government authority"
+      ],
+      "breakdown": {
+        "plain_summary": "Statements found in publicly-sold maps or charts, or in maps/plans made under Central or State Government authority, are themselves relevant facts -- but only as to the kind of matters such maps, charts, or plans ordinarily represent or state.",
+        "essential_elements": [
+          "The statement must appear in a published map or chart generally offered for public sale, or a map/plan made under Central or State Government authority.",
+          "The statement must concern a fact in issue or relevant fact.",
+          "The statement must be of a kind usually represented or stated in such maps, charts, or plans."
+        ],
+        "exceptions_and_qualifications": [
+          "The relevance is limited to the map's customary subject matter -- a government survey map is relevant as to boundaries or terrain it typically depicts, not for unrelated annotations that happen to appear on it."
+        ],
+        "how_to_read": "Useful for boundary and land-related disputes -- official survey maps or widely-sold published maps can be relied on directly for the facts they typically depict, without separately proving the mapmaker's personal knowledge."
       }
     }
   ]
