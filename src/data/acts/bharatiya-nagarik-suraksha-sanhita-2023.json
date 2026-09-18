@@ -217,7 +217,11 @@
     "warrant of commitment": "A formal document issued by a Court directing that a convicted person be taken into custody and detained in prison to undergo the sentence imposed, used here as one method of proving a previous conviction.",
     "successor officer": "The public servant, scientific expert, or medical officer who currently holds the post previously held by an officer who prepared a document or report but who has since been transferred, retired, died, or become otherwise unavailable -- the successor may give deposition on that document or report in the original officer's place.",
     "double jeopardy": "The legal principle, reflected in section 337, that a person once validly tried and convicted or acquitted of an offence by a competent Court cannot be tried again for the same offence (or substantially the same facts) while that conviction or acquittal stands -- subject to specific statutory exceptions.",
-    "autrefois acquit / autrefois convict": "Latin-derived pleas (\"previously acquitted\" / \"previously convicted\") that an accused may raise to bar a second trial for the same offence, embodying the double jeopardy protection codified in section 337."
+    "autrefois acquit / autrefois convict": "Latin-derived pleas (\"previously acquitted\" / \"previously convicted\") that an accused may raise to bar a second trial for the same offence, embodying the double jeopardy protection codified in section 337.",
+    "corporation": "As defined in section 342, an incorporated company or other body corporate, including a society registered under the Societies Registration Act, 1860 -- capable of being an accused and appointing a representative to stand in for it during an inquiry or trial.",
+    "tender of pardon": "A conditional offer by a Chief Judicial Magistrate or a first-class Magistrate to an accomplice, promising immunity from prosecution for a serious offence in exchange for a full and true disclosure of all facts known to him about the offence and everyone else involved -- the accomplice who accepts becomes an approver and must testify as a prosecution witness.",
+    "approver": "An accomplice who has accepted a tender of pardon under section 343 or 344 and, in exchange for immunity, is examined as a prosecution witness and must truthfully disclose everything he knows about the offence and all persons involved, on pain of being tried himself if he breaches the condition of pardon.",
+    "legal aid": "State-funded legal representation assigned to an accused person who is unrepresented and unable to afford an advocate, mandatory under section 341 once the Court identifies the need -- the practical mechanism giving effect to the constitutional right to a fair trial for indigent accused persons."
   },
   "sections": [
     {
@@ -7891,6 +7895,117 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "A concise but foundational fair-trial guarantee -- it anchors the right to counsel of choice, which section 341 (legal aid at State expense) supplements for those who cannot afford to exercise this right on their own."
+      }
+    },
+    {
+      "number": "341",
+      "title": "Legal aid to accused at State expense in certain cases",
+      "raw_text": "341. Legal aid to accused at State expense in certain cases.—(1) Where, in a trial or appeal before a\nCourt, the accused is not represented by an advocate, and where it appears to the Court that the accused has\nnot sufficient means to engage an advocate, the Court shall assign an advocate for his defence at the expense\nof the State.\n   (2) The High Court may, with the previous approval of the State Government, make rules providing\nfor—\n        (a) the mode of selecting advocates for defence under sub-section (1);\n        (b) the facilities to be allowed to such advocates by the Courts;\n        (c) the fees payable to such advocates by the Government, and generally, for carrying out the\n    purposes of sub-section (1).\n    (3) The State Government may, by notification, direct that, as from such date as may be specified in\nthe notification, the provisions of sub-sections (1) and (2) shall apply in relation to any class of trials before\nother Courts in the State as they apply in relation to trials before Courts of Session.",
+      "key_terms": [
+        "legal aid"
+      ],
+      "breakdown": {
+        "plain_summary": "If an accused person in a trial or appeal doesn't have an advocate and the Court thinks he cannot afford one, the Court must assign him an advocate for his defence at the State's expense -- this is mandatory, not optional. The High Court, with prior State Government approval, can make rules on how such advocates are selected, what facilities Courts give them, and what fees the Government pays them. The State Government can also extend this scheme, by notification, to other classes of trials beyond Sessions Courts.",
+        "essential_elements": [
+          "Trigger: the accused in a trial or appeal is unrepresented by an advocate, and the Court considers he lacks sufficient means to engage one.",
+          "On that trigger, the Court shall (mandatory duty) assign an advocate for his defence at State expense.",
+          "Sub-section (2): the High Court, with prior State Government approval, may make rules on advocate selection, Court-provided facilities, and Government-paid fees.",
+          "Sub-section (3): the State Government may, by notification, extend sub-sections (1)-(2) to other classes of trials beyond Courts of Session."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the operative machinery giving practical effect to the constitutional right to legal aid (Article 39A) and the free-legal-aid strand of Article 21's fair-trial guarantee -- section 340 establishes the right to counsel of choice, and this section ensures indigence doesn't defeat that right by making State-funded representation mandatory once the Court identifies the need."
+      }
+    },
+    {
+      "number": "342",
+      "title": "Procedure when corporation or registered society is an accused",
+      "raw_text": "342. Procedure when corporation or registered society is an accused.—(1) In this\nsection, \"corporation\" means an incorporated company or other body corporate, and includes a society\nregistered under the Societies Registration Act, 1860 (21 of 1860).\n\n    (2) Where a corporation is the accused person or one of the accused persons in an inquiry or trial, it\nmay appoint a representative for the purpose of the inquiry or trial and such appointment need not be under\nthe seal of the corporation.\n     (3) Where a representative of a corporation appears, any requirement of this Sanhita that anything shall\nbe done in the presence of the accused or shall be read or stated or explained to the accused, shall be\nconstrued as a requirement that that thing shall be done in the presence of the representative or read or\nstated or explained to the representative, and any requirement that the accused shall be examined shall be\nconstrued as a requirement that the representative shall be examined.\n    (4) Where a representative of a corporation does not appear, any such requirement as is referred to in\nsub-section (3) shall not apply.\n    (5) Where a statement in writing purporting to be signed by the managing director of the corporation\nor by any person duly authorised by him (by whatever name called) having, or being one of the persons\nhaving the management of the affairs of the corporation to the effect that the person named in the statement\nhas been appointed as the representative of the corporation for the purposes of this section, is filed, the\nCourt shall, unless the contrary is proved, presume that such person has been so appointed.\n    (6) If a question arises as to whether any person, appearing as the representative of a corporation in an\ninquiry or trial before a Court is or is not such representative, the question shall be determined by the Court.",
+      "key_terms": [
+        "corporation"
+      ],
+      "breakdown": {
+        "plain_summary": "When a corporation (which here includes registered societies) is accused of an offence, it appoints someone as its representative to stand in for it at the inquiry/trial -- no formal corporate seal is needed for that appointment. Once a representative appears, every procedural requirement that would normally apply directly to the accused (being present, having things read/explained to him, being examined) instead applies to the representative. If no representative shows up, those requirements simply don't apply. A signed statement from the managing director (or an authorised person managing the corporation's affairs) naming someone as the representative is presumed correct unless proven otherwise, and any dispute about whether someone genuinely is the corporation's representative is decided by the Court itself.",
+        "essential_elements": [
+          "Sub-section (1): \"corporation\" means an incorporated company or other body corporate, including a society registered under the Societies Registration Act, 1860.",
+          "Sub-section (2): a corporation accused (solely or jointly) may appoint a representative for the inquiry/trial, without needing the corporate seal.",
+          "Sub-section (3): once a representative appears, all Sanhita requirements normally directed at \"the accused\" (presence, matters read/explained, examination) are instead satisfied through the representative.",
+          "Sub-section (4): if no representative appears, those accused-directed requirements simply do not apply.",
+          "Sub-section (5): a signed statement from the managing director (or an authorised managing person) naming the representative creates a rebuttable presumption of valid appointment.",
+          "Sub-section (6): any dispute over whether a person is genuinely the corporation's representative is determined by the Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section adapts the entire accused-centric procedural framework of the Sanhita (presence requirements, examination, explanations) to the reality that a corporation cannot physically appear -- the representative becomes a legal stand-in, with a presumption mechanism (sub-section 5) that avoids needless satellite litigation over the representative's authority in the ordinary case."
+      }
+    },
+    {
+      "number": "343",
+      "title": "Tender of pardon to accomplice",
+      "raw_text": "343. Tender of pardon to accomplice.—(1) With a view to obtaining the evidence of any person\nsupposed to have been directly or indirectly concerned in or privy to an offence to which this section applies,\nthe Chief Judicial Magistrate at any stage of the investigation or inquiry into, or the trial of, the offence,\nand the Magistrate of the first class inquiring into or trying the offence, at any stage of the inquiry or trial,\nmay tender a pardon to such person on condition of his making a full and true disclosure of the whole of\nthe circumstances within his knowledge relative to the offence and to every other person concerned,\nwhether as principal or abettor, in the commission thereof.\n    (2) This section applies to—\n       (a) any offence triable exclusively by the Court of Session or by the Court of a Special Judge\n    appointed under any other law for the time being in force;\n        (b) any offence punishable with imprisonment which may extend to seven years or with a more\n    severe sentence.\n    (3) Every Magistrate who tenders a pardon under sub-section (1) shall record—\n        (a) his reasons for so doing;\n        (b) whether the tender was or was not accepted by the person to whom it was made, and shall, on\n    application made by the accused, furnish him with a copy of such record free of cost.\n    (4) Every person accepting a tender of pardon made under sub-section (1)—\n        (a) shall be examined as a witness in the Court of the Magistrate taking cognizance of the offence\n    and in the subsequent trial, if any;\n        (b) shall, unless he is already on bail, be detained in custody until the termination of the trial.\n    (5) Where a person has accepted a tender of pardon made under sub-section (1) and has been examined\nunder sub-section (4), the Magistrate taking cognizance of the offence shall, without making any further\ninquiry in the case—\n        (a) commit it for trial—\n            (i) to the Court of Session if the offence is triable exclusively by that Court or if the Magistrate\n        taking cognizance is the Chief Judicial Magistrate;\n            (ii) to a Court of Special Judge appointed under any other law for the time being in force, if the\n        offence is triable exclusively by that Court;\n       (b) in any other case, make over the case to the Chief Judicial Magistrate who shall try the case\n    himself.",
+      "key_terms": [
+        "tender of pardon",
+        "approver"
+      ],
+      "breakdown": {
+        "plain_summary": "To get the evidence of someone believed to be directly or indirectly involved in a serious offence, the Chief Judicial Magistrate (at any stage of investigation, inquiry, or trial) or a first-class Magistrate (at any stage of inquiry or trial) can offer that person a pardon -- conditional on him fully and truthfully disclosing everything he knows about the offence and everyone else involved, whether as principal or abettor. This tool is limited to serious offences: those exclusively triable by a Sessions Court or Special Judge's Court, or those punishable with up to seven years' imprisonment or worse. The Magistrate must record why the pardon was offered and whether it was accepted, and give the accused a free copy on request. Anyone who accepts must testify as a witness at the cognizance stage and any subsequent trial, and must be kept in custody until the trial ends (unless already out on bail). Once someone has accepted and testified, the Magistrate taking cognizance skips further inquiry and either commits the case for Sessions/Special Judge trial (if exclusively triable there, or if the Magistrate is the Chief Judicial Magistrate) or hands it to the Chief Judicial Magistrate to try himself.",
+        "essential_elements": [
+          "Purpose: to secure the evidence of a person believed directly or indirectly concerned in, or privy to, a qualifying offence.",
+          "Authority: the Chief Judicial Magistrate (at any stage of investigation, inquiry, or trial) or a first-class Magistrate (at any stage of inquiry or trial).",
+          "Condition of pardon: a full and true disclosure of everything known about the offence and all other persons involved (principal or abettor).",
+          "Sub-section (2): applies only to offences exclusively triable by a Court of Session/Special Judge, or punishable with imprisonment up to seven years or more.",
+          "Sub-section (3): the Magistrate must record his reasons and whether the tender was accepted, furnishing a free copy to the accused on application.",
+          "Sub-section (4): an accepting person must be examined as a witness (at cognizance and any subsequent trial) and must be detained in custody until trial ends, unless already on bail.",
+          "Sub-section (5): once accepted and the person examined, the Magistrate taking cognizance skips further inquiry and either commits for Sessions/Special Judge trial, or makes the case over to the Chief Judicial Magistrate for trial."
+        ],
+        "exceptions_and_qualifications": [
+          "Available only for offences meeting the seriousness threshold in sub-section (2) -- not a general-purpose tool for minor offences."
+        ],
+        "how_to_read": "This is the classic \"approver\" mechanism used to break conspiracies and gang crimes where insider testimony is otherwise unobtainable -- the detailed procedural safeguards (recorded reasons, mandatory custody, committal without further inquiry) both protect the process's integrity and ensure the approver actually delivers his testimony at trial."
+      }
+    },
+    {
+      "number": "344",
+      "title": "Power to direct tender of pardon",
+      "raw_text": "344. Power to direct tender of pardon.—At any time after commitment of a case but before judgment\nis passed, the Court to which the commitment is made may, with a view to obtaining at the trial the evidence\nof any person supposed to have been directly or indirectly concerned in, or privy to, any such offence,\ntender a pardon on the same condition to such person.",
+      "key_terms": [
+        "tender of pardon",
+        "approver"
+      ],
+      "breakdown": {
+        "plain_summary": "Even after a case has already been committed to a Court (but before judgment is delivered), that Court itself can offer a pardon -- on the same full-and-true-disclosure condition as section 343 -- to someone believed to be involved in the offence, in order to secure his evidence at trial.",
+        "essential_elements": [
+          "Applies at any time after commitment of a case, but before judgment is passed.",
+          "The committal Court itself may tender a pardon to a person supposed to be directly or indirectly concerned in, or privy to, the offence.",
+          "The condition is the same as under section 343: full and true disclosure."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This extends the approver mechanism beyond the pre-commitment Magistrate stage covered in section 343 -- ensuring the trial Court itself can still recruit an approver's testimony even after committal, so long as judgment hasn't yet been delivered."
+      }
+    },
+    {
+      "number": "345",
+      "title": "Trial of person not complying with conditions of pardon",
+      "raw_text": "345. Trial of person not complying with conditions of pardon.—(1) Where, in regard to a person\nwho has accepted a tender of pardon made under section 343 or section 344, the Public Prosecutor certifies\nthat in his opinion such person has, either by wilfully concealing anything essential or by giving false\nevidence, not complied with the condition on which the tender was made, such person may be tried for the\noffence in respect of which the pardon was so tendered or for any other offence of which he appears to have\nbeen guilty in connection with the same matter, and also for the offence of giving false evidence:\n    Provided that such person shall not be tried jointly with any of the other accused:\n    Provided further that such person shall not be tried for the offence of giving false evidence except with\nthe sanction of the High Court, and nothing contained in section 215 or section 379 shall apply to that\noffence.\n     (2) Any statement made by such person accepting the tender of pardon and recorded by a Magistrate\nunder section 183 or by a Court under sub-section (4) of section 343 may be given in evidence against him\nat such trial.\n    (3) At such trial, the accused shall be entitled to plead that he has complied with the condition upon\nwhich such tender was made; in which case it shall be for the prosecution to prove that the condition has\nnot been complied with.\n    (4) At such trial, the Court shall—\n        (a) if it is a Court of Session, before the charge is read out and explained to the accused;\n        (b) if it is the Court of a Magistrate, before the evidence of the witnesses for the prosecution is\n    taken,\nask the accused whether he pleads that he has complied with the conditions on which the tender of pardon\nwas made.\n    (5) If the accused does so plead, the Court shall record the plea and proceed with the trial and it shall,\nbefore passing judgment in the case, find whether or not the accused has complied with the conditions of\nthe pardon, and, if it finds that he has so complied, it shall, notwithstanding anything contained in this\nSanhita, pass judgment of acquittal.",
+      "key_terms": [
+        "tender of pardon",
+        "approver",
+        "Public Prosecutor"
+      ],
+      "breakdown": {
+        "plain_summary": "If the Public Prosecutor certifies that an approver (someone who accepted a pardon under section 343 or 344) broke the pardon's condition -- by wilfully hiding something essential or lying in his testimony -- that person can now be tried both for the original offence the pardon covered (or any related offence he appears guilty of) and for giving false evidence. He cannot be tried jointly with the other original accused, and the false-evidence charge specifically needs High Court sanction. His original pardon-acceptance statement can be used as evidence against him at this new trial. He's entitled to plead that he actually did comply with the pardon's conditions -- and if he does, the burden shifts to the prosecution to prove non-compliance. Before evidence begins (or before the charge is read, in a Sessions trial), the Court must specifically ask him whether he's making that compliance plea; if he does, the Court records it and, before judgment, must determine compliance -- if it finds he did comply, it must acquit him regardless of anything else in the Sanhita.",
+        "essential_elements": [
+          "Trigger: the Public Prosecutor certifies that a person who accepted a tender of pardon under section 343 or 344 has not complied with its condition -- via wilful concealment of something essential, or false evidence.",
+          "Consequence: that person may be tried for the original offence (or a related offence he appears guilty of) and additionally for giving false evidence.",
+          "Proviso 1: he cannot be tried jointly with the other accused.",
+          "Proviso 2: the false-evidence charge needs High Court sanction, and sections 215/379 do not apply to it.",
+          "Sub-section (2): his original pardon-acceptance statement (recorded under section 183 or section 343(4)) is admissible against him at this trial.",
+          "Sub-section (3): he may plead that he did comply with the pardon condition -- if so pleaded, the prosecution bears the burden of proving non-compliance.",
+          "Sub-section (4): the Court must specifically ask him about this compliance plea -- before the charge is read (Sessions Court) or before prosecution evidence is taken (Magistrate's Court).",
+          "Sub-section (5): if he pleads compliance, the Court records the plea, proceeds with trial, and must determine compliance before judgment -- a finding of compliance mandates acquittal, overriding anything else in the Sanhita."
+        ],
+        "exceptions_and_qualifications": [
+          "The mandatory-acquittal outcome in sub-section (5) is an unusually strong statutory command (\"notwithstanding anything contained in this Sanhita\") -- it protects an approver who genuinely kept his end of the bargain from being convicted regardless of other procedural considerations."
+        ],
+        "how_to_read": "This is the accountability backstop for the approver system in sections 343-344 -- it ensures the pardon is a real bargain with real consequences on both sides: honour it and be acquitted as a matter of law, breach it and face trial (with a burden-shifting compliance plea as the approver's chief procedural shield)."
       }
     }
   ]
