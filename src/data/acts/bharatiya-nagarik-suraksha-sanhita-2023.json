@@ -11,7 +11,7 @@
     "bail bond": "An undertaking for release with surety.",
     "bond": "A personal bond or an undertaking for release without surety.",
     "charge": "Includes any head of charge when the charge contains more than one head.",
-    "cognizable offence": "An offence for which a police officer may arrest without a warrant, in accordance with the First Schedule or any other law in force.",
+    "cognizable offence": "An offence for which a police officer may arrest without a warrant, as shown in the First Schedule or under any other law in force.",
     "cognizable case": "A case involving a cognizable offence.",
     "complaint": "An oral or written allegation to a Magistrate that a person has committed an offence, with a view to the Magistrate taking action, but not including a police report.",
     "electronic communication": "Communication of written, verbal, pictorial, or video content transmitted between persons or devices by means of an electronic device such as a phone, computer, or camera.",
@@ -69,7 +69,23 @@
     "community service": "Unremunerated work ordered by a Court as a form of punishment that benefits the community, available as a sentencing option to Magistrates.",
     "default imprisonment": "Imprisonment imposed in lieu of payment of a fine, subject to statutory caps under Section 24.",
     "consecutive sentences": "Sentences for multiple offences at one trial that run one after another, subject to statutory caps on the aggregate term.",
-    "concurrent sentences": "Sentences for multiple offences at one trial that run simultaneously."
+    "concurrent sentences": "Sentences for multiple offences at one trial that run simultaneously.",
+    "successor-in-office": "The person who succeeds a Judge or Magistrate in an office, and who may exercise the powers and duties of that office in ongoing proceedings.",
+    "superior officers of police": "Police officers ranked above the officer in charge of a police station, holding equivalent powers across their appointed local area.",
+    "breach of the peace": "A disturbance of public order or tranquillity.",
+    "proclaimed offender": "A person formally proclaimed as an offender by a Court or authority, including for certain acts committed outside the territory to which the Sanhita extends.",
+    "village headman": "The senior officer or functionary responsible for administration of a village, included within the meaning of an officer employed in connection with the affairs of a village.",
+    "panchayat": "The local self-government body of a village.",
+    "reasons in writing": "A police officer's documented justification, required under Section 35, for making or not making an arrest in specified circumstances.",
+    "notice of appearance": "A written direction issued by a police officer under Section 35(3) requiring a person to appear before him instead of being arrested.",
+    "memorandum of arrest": "A written record of an arrest, prepared by the arresting officer, attested by a witness and countersigned by the person arrested.",
+    "designated police officer": "An officer, of at least Assistant Sub-Inspector rank, responsible for maintaining and displaying arrest-related information in a police station or district.",
+    "police control room": "A facility established by the State Government at the district and State level to coordinate and record policing information, including arrests.",
+    "citizen's arrest": "The power of a private person to arrest another who commits a non-bailable and cognizable offence in his presence, or who is a proclaimed offender.",
+    "surety": "A person who undertakes responsibility for ensuring another person's compliance with bail or bond conditions.",
+    "armed forces of the union": "The military forces of the Union of India, whose members enjoy a special protection from arrest for official-duty acts absent Central Government consent.",
+    "submission to custody": "An arrested person's acknowledgment of arrest by word or conduct, which may substitute for actual physical touch or confinement.",
+    "free ingress": "Unobstructed entry into a place, which an occupier must afford to an arresting officer or warrant-holder on demand."
   },
   "sections": [
     {
@@ -678,6 +694,458 @@
           "The whole section operates subject to Section 9 of the Bharatiya Nyaya Sanhita, 2023 (the substantive-law provision on punishment for multiple offences)"
         ],
         "how_to_read": "Apply both caps in sub-section (2) independently — a sentence must satisfy both the absolute 20-year ceiling and the twice-the-single-offence-competence ceiling; whichever is lower actually controls in a given case."
+      }
+    },
+    {
+      "number": "26",
+      "title": "Mode of conferring powers",
+      "raw_text": "(1) In conferring powers under this Sanhita, the High Court or the State Government, as the case may be, may, by order, empower persons specially by name or in virtue of their offices or classes of officials generally be their official titles.\n(2) Every such order shall take effect from the date on which it is communicated to the person so empowered.",
+      "key_terms": [
+        "conferring powers",
+        "empowerment order",
+        "official titles"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is the mechanical rule for how the High Court or State Government actually hands out powers under the Sanhita: either by naming a specific individual, or more broadly by office/official title (empowering, say, “every Superintendent of Police” as a class, rather than naming each person). Critically, the power doesn't take effect the moment the order is signed — it only takes effect once it is actually communicated to the person being empowered.",
+        "essential_elements": [
+          "Powers may be conferred on named individuals, or generally on holders of a specified office/official title",
+          "Empowerment is by order of the High Court or State Government, as applicable",
+          "The order takes effect only from the date it is communicated to the empowered person, not from the date it is made"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Keep the communication-triggers-effect rule in mind whenever a person's exercise of a conferred power is challenged as premature — the operative date is receipt/communication, not issuance."
+      }
+    },
+    {
+      "number": "27",
+      "title": "Powers of officers appointed to an equal or higher office",
+      "raw_text": "Whenever any person holding an office in the service of Government who has been invested by the High Court or the State Government with any powers under this Sanhita throughout any local area is appointed to an equal or higher office of the same nature, within a like local area under the same State Government, he shall, unless the High Court or the State Government, as the case may be, otherwise directs, or has otherwise directed, exercise the same powers in the local area in which he is so appointed.",
+      "key_terms": [
+        "equal or higher office",
+        "same nature",
+        "default continuity of powers"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a continuity rule for government officers who get promoted or transferred within the same State: if an officer already holds Sanhita powers over one local area, and is then appointed to an equal or higher post of the same nature in a similarly-structured local area, he automatically keeps exercising the same powers in his new posting — by default, without needing a fresh empowerment order — unless the High Court or State Government specifically directs otherwise.",
+        "essential_elements": [
+          "Applies to an officer already invested with Sanhita powers in one local area",
+          "Who is then appointed to an equal or higher office of the same nature in a like local area under the same State Government",
+          "Default rule: the same powers continue automatically in the new posting",
+          "Displaced only by a specific contrary direction from the High Court or State Government"
+        ],
+        "exceptions_and_qualifications": [
+          "Only applies when moving to an equal or higher post of the same nature — a lateral move to a materially different kind of office is not automatically covered"
+        ],
+        "how_to_read": "This default-continuity rule saves re-empowerment paperwork on ordinary promotions/transfers — but always check whether the High Court or State Government has issued a contrary direction before assuming powers carried over automatically."
+      }
+    },
+    {
+      "number": "28",
+      "title": "Withdrawal of powers",
+      "raw_text": "(1) The High Court or the State Government, as the case may be, may withdraw all or any of the powers conferred by it under this Sanhita on any person or by any officer subordinate to it.\n(2) Any powers conferred by the Chief Judicial Magistrate or by the District Magistrate may be withdrawn by the respective Magistrate by whom such powers were conferred.",
+      "key_terms": [
+        "withdrawal of powers",
+        "subordinate officer",
+        "Chief Judicial Magistrate",
+        "District Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "The power to confer (Section 26) comes with a matching power to withdraw. The High Court or State Government can withdraw powers it granted directly, and also powers granted by any officer subordinate to it — a broad recall authority. Separately, the Chief Judicial Magistrate and District Magistrate each retain the power to withdraw powers they personally conferred.",
+        "essential_elements": [
+          "High Court/State Government may withdraw powers it conferred, or powers conferred by any subordinate officer",
+          "Chief Judicial Magistrate may withdraw powers he conferred",
+          "District Magistrate may withdraw powers he conferred"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read alongside Section 26 as a conferral/withdrawal pair — the authority that can grant a power generally retains, or is given, a corresponding authority to take it back."
+      }
+    },
+    {
+      "number": "29",
+      "title": "Powers of Judges and Magistrates exercisable by their successors-in-office",
+      "raw_text": "(1) Subject to the other provisions of this Sanhita, the powers and duties of a Judge or Magistrate may be exercised or performed by his successor-in-office.\n(2) When there is any doubt as to who is the successor-in-office, the Sessions Judge shall determine by order in writing the Judge who shall, for the purposes of this Sanhita or of any proceedings or order thereunder, be deemed to be the successor-in-office.\n(3) When there is any doubt as to who is the successor-in-office of any Magistrate, the Chief Judicial Magistrate, or the District Magistrate, as the case may be, shall determine by order in writing the Magistrate who shall, for the purpose of this Sanhita or of any proceedings or order thereunder, be deemed to be the successor-in-office of such Magistrate.",
+      "key_terms": [
+        "successor-in-office",
+        "Sessions Judge determination",
+        "Chief Judicial Magistrate determination"
+      ],
+      "breakdown": {
+        "plain_summary": "This section ensures judicial and magisterial business doesn't stall when a Judge or Magistrate leaves office (transfer, retirement, etc.) — the powers and duties simply pass to whoever succeeds them in that office. If it's unclear who that successor actually is, the Sessions Judge resolves the doubt for Judges, and the Chief Judicial Magistrate or District Magistrate resolves it for Magistrates, each by a written order that is deemed conclusive for Sanhita purposes.",
+        "essential_elements": [
+          "A Judge's or Magistrate's powers and duties devolve on his successor-in-office by default",
+          "Doubt about who is a Judge's successor: resolved by the Sessions Judge, by written order",
+          "Doubt about who is a Magistrate's successor: resolved by the Chief Judicial Magistrate or District Magistrate (as applicable), by written order"
+        ],
+        "exceptions_and_qualifications": [
+          "This devolution operates “subject to the other provisions of this Sanhita” — more specific rules elsewhere can displace the default succession"
+        ],
+        "how_to_read": "This section is what allows a pending case or unfinished proceeding to continue seamlessly with a new Judge/Magistrate rather than requiring the entire matter to restart from scratch on every transfer or vacancy."
+      }
+    },
+    {
+      "number": "30",
+      "title": "Powers of superior officers of police",
+      "raw_text": "Police officers superior in rank to an officer in charge of a police station may exercise the same powers, throughout the local area to which they are appointed, as may be exercised by such officer within the limits of his station.",
+      "key_terms": [
+        "superior officers of police",
+        "officer in charge of a police station",
+        "local area"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens the Chapter dealing with police and public duties. It is a simple rank-based power rule: any police officer senior to the officer in charge of a police station automatically holds the same powers as that station officer, but exercisable across the whole local area to which the senior officer is appointed (not just one station's limits) — reflecting the broader territorial charge that typically comes with seniority.",
+        "essential_elements": [
+          "A police officer superior in rank to a station house officer has the same powers as that officer",
+          "Exercisable throughout the senior officer's entire appointed local area, not just one station's jurisdiction"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Use this to confirm that a senior officer (e.g., a Superintendent or Deputy Superintendent) acting outside a specific station's four walls, but within his own charge, is validly exercising powers that formally belong to the station house officer."
+      }
+    },
+    {
+      "number": "31",
+      "title": "Public when to assist Magistrates and police",
+      "raw_text": "Every person is bound to assist a Magistrate or police officer reasonably demanding his aid—\n(a) in the taking or preventing the escape of any other person whom such Magistrate or police officer is authorised to arrest; or\n(b) in the prevention or suppression of a breach of the peace; or\n(c) in the prevention of any injury attempted to be committed to any public property.",
+      "key_terms": [
+        "duty to assist",
+        "breach of the peace",
+        "public property",
+        "reasonable demand"
+      ],
+      "breakdown": {
+        "plain_summary": "This section imposes a legal (not merely moral) duty on every member of the public to help a Magistrate or police officer when reasonably asked, in three specific situations: helping arrest, or stop the escape of, someone the officer is authorised to arrest; helping prevent or stop a breach of the peace; and helping prevent damage being attempted to public property. The demand for aid must be reasonable — this isn't an unlimited conscription power.",
+        "essential_elements": [
+          "Duty applies to every person, when aid is reasonably demanded by a Magistrate or police officer",
+          "Covers three situations: assisting a lawful arrest/preventing escape, preventing/suppressing a breach of the peace, and preventing an attempted injury to public property"
+        ],
+        "exceptions_and_qualifications": [
+          "The demand for assistance must itself be reasonable — an unreasonable demand does not trigger the duty"
+        ],
+        "how_to_read": "This duty has a penal backstop elsewhere in the substantive criminal law (refusal to assist a public servant is itself punishable) — read this section as defining the scope of the civic duty that such offences are built around."
+      }
+    },
+    {
+      "number": "32",
+      "title": "Aid to person, other than police officer, executing warrant",
+      "raw_text": "When a warrant is directed to a person other than a police officer, any other person may aid in the execution of such warrant, if the person to whom the warrant is directed be near at hand and acting in the execution of the warrant.",
+      "key_terms": [
+        "warrant directed to a private person",
+        "aid in execution"
+      ],
+      "breakdown": {
+        "plain_summary": "Warrants aren't always directed to police officers — occasionally the Sanhita allows a warrant to be directed to a private individual. This section allows bystanders to lawfully help that private person execute the warrant, but only if the warrant-holder is himself nearby and actively engaged in executing it — the aid is supplementary to, not a substitute for, the warrant-holder's own presence and action.",
+        "essential_elements": [
+          "Applies only where a warrant is directed to someone other than a police officer",
+          "Any other person may aid in its execution",
+          "Condition: the person to whom the warrant is directed must be near at hand and actively executing it"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a narrow enabling provision for the relatively unusual case of a private-person warrant — don't confuse it with the general public-duty-to-assist rule in Section 31, which applies to Magistrates and police officers, not private warrant-holders acting alone."
+      }
+    },
+    {
+      "number": "33",
+      "title": "Public to give information of certain offences",
+      "raw_text": "(1) Every person, aware of the commission of, or of the intention of any other person to commit, any offence punishable under any of the following sections of the Bharatiya Nyaya Sanhita, 2023, namely:—\n(i) sections 103 to 105 (both inclusive);\n(ii) sections 111 to 113 (both inclusive);\n(iii) sections 140 to 144 (both inclusive);\n(iv) sections 147 to 154 (both inclusive) and section 158;\n(v) sections 178 to 182 (both inclusive);\n(vi) sections 189 and 191;\n(vii) sections 274 to 280 (both inclusive);\n(viii) section 307;\n(ix) sections 309 to 312 (both inclusive);\n(x) sub-section (5) of section 316;\n(xi) sections 326 to 328 (both inclusive); and\n(xii) sections 331 and 332,\nupon the person so aware, forthwith give information to the nearest Magistrate or police officer of such commission or intention.\n(2) For the purposes of this section, the term “offence” includes any act committed at any place out of India which would constitute an offence if committed in India.",
+      "key_terms": [
+        "duty to give information",
+        "listed offences",
+        "forthwith",
+        "extraterritorial acts"
+      ],
+      "breakdown": {
+        "plain_summary": "This section imposes an affirmative legal duty on any person who knows about the commission, or planned commission, of a serious listed offence (a long list spanning offences like murder, grievous hurt, offences against the State, kidnapping, and property offences, cross-referenced to the Bharatiya Nyaya Sanhita's numbering) to immediately inform the nearest Magistrate or police officer. The duty extends even to offences that would occur outside India, if the conduct would be an offence had it occurred in India — closing a jurisdictional gap for information about serious extraterritorial criminal activity.",
+        "essential_elements": [
+          "Duty applies to any person aware of the commission, or intended commission, of an offence listed in sub-section (1)'s cross-referenced BNS sections",
+          "Information must be given forthwith (immediately) to the nearest Magistrate or police officer",
+          "The duty extends to knowledge of acts committed outside India that would be offences if committed in India"
+        ],
+        "exceptions_and_qualifications": [
+          "Only the specifically enumerated BNS sections trigger this duty — it is not a general duty to report every offence one becomes aware of"
+        ],
+        "how_to_read": "Keep the enumerated-offences list handy as a checklist — this duty is deliberately narrow and only bites for the serious categories specifically cross-referenced, not for offences generally."
+      }
+    },
+    {
+      "number": "34",
+      "title": "Duty of officers employed in connection with affairs of a village to make certain report",
+      "raw_text": "(1) Every officer employed in connection with the affairs of a village and every person residing in a village shall forthwith communicate to the nearest Magistrate or to the officer in charge of the nearest police station, whichever is nearer, any information which he may possess respecting—\n(a) the permanent or temporary residence of any notorious receiver or vendor of stolen property in or near such village;\n(b) the resort to any place within, or the passage through, such village of any person whom he knows, or reasonably suspects, to be a robber, escaped convict or proclaimed offender;\n(c) the commission of, or intention to commit, in or near such village any non-bailable offence or any offence punishable under section 189 and section 191 of the Bharatiya Nyaya Sanhita, 2023;\n(d) the occurrence in or near such village of any sudden or unnatural death or of any death under suspicious circumstances or the discovery in or near such village of any corpse or part of a corpse, in circumstances which lead to a reasonable suspicion that such a death has occurred or the disappearance from such village of any person in circumstances which lead to a reasonable suspicion that a non-bailable offence has been committed in respect of such person;\n(e) the commission of, or intention to commit, at any place out of India near such village any act which, if committed in India, would be an offence punishable under any of the following sections of the Bharatiya Nyaya Sanhita, 2023, namely, 103, 105, 111, 112, 113, 178 to 181 (both inclusive), 305, 307, 309 to 312 (both inclusive), clauses (f) and (g) of section 326, 331 or 332;\n(f) any matter likely to affect the maintenance of order or the prevention of crime or the safety of person or property respecting which the District Magistrate, by general or special order made with the previous sanction of the State Government, has directed him to communicate information.\n(2) In this section,—\n(i) “village” includes village lands;\n(ii) the expression “proclaimed offender” includes any person proclaimed as an offender by any Court or authority in any territory in India to which this Sanhita does not extend, in respect of any act which if committed in the territories to which this Sanhita extends, would be an offence punishable under any of the offence punishable with imprisonment for ten years or more or with imprisonment for life or with death under the Bharatiya Nyaya Sanhita, 2023;\n(iii) the words “officer employed in connection with the affairs of the village” means a member of the panchayat of the village and includes the headman and every officer or other person appointed to perform any function connected with the administration of the village.",
+      "key_terms": [
+        "village reporting duty",
+        "proclaimed offender",
+        "sudden or unnatural death",
+        "panchayat",
+        "village headman"
+      ],
+      "breakdown": {
+        "plain_summary": "A rural-specific extension of the public-information duty in Section 33: village officials (panchayat members, headmen, other village-administration functionaries) and indeed every resident of a village must promptly report a defined set of matters to the nearest Magistrate or police station — whichever is closer. The list covers known criminals in the vicinity, non-bailable offences (actual or intended), suspicious or unnatural deaths or disappearances, certain cross-border criminal conduct near the village, and any other matter the District Magistrate specifically directs be reported (with State Government sanction). This provision is especially significant for its coverage of suspicious deaths and disappearances — it functions as an early-warning/first-information mechanism in areas without easy police access.",
+        "essential_elements": [
+          "Duty binds both village officials and ordinary village residents",
+          "Report goes to whichever is nearer: the Magistrate or the officer in charge of the nearest police station",
+          "Covers six categories: known criminals, non-bailable offences, suspicious deaths/disappearances, certain extraterritorial serious offences, and DM-directed matters",
+          "“Village” includes village lands; “proclaimed offender” includes those proclaimed outside Sanhita-extended territory for serious offences; “officer employed in connection with affairs of the village” covers panchayat members, headmen, and village administration officers"
+        ],
+        "exceptions_and_qualifications": [
+          "The sixth (catch-all) category only applies where the District Magistrate has issued a specific order, itself requiring prior State Government sanction"
+        ],
+        "how_to_read": "This is functionally a village-level extension of Section 33 — read the two together as the Sanhita's layered information-duty scheme: Section 33 for anyone anywhere regarding serious listed offences, Section 34 for village communities regarding a locally-relevant, broader set of concerns including suspicious deaths."
+      }
+    },
+    {
+      "number": "35",
+      "title": "When police may arrest without warrant",
+      "raw_text": "(1) Any police officer may without an order from a Magistrate and without a warrant, arrest any person—\n(a) who commits, in the presence of a police officer, a cognizable offence; or\n(b) against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence punishable with imprisonment for a term which may be less than seven years or which may extend to seven years whether with or without fine, if the following conditions are satisfied, namely:—\n(i) the police officer has reason to believe on the basis of such complaint, information, or suspicion that such person has committed the said offence;\n(ii) the police officer is satisfied that such arrest is necessary—\n(a) to prevent such person from committing any further offence; or\n(b) for proper investigation of the offence; or\n(c) to prevent such person from causing the evidence of the offence to disappear or tampering with such evidence in any manner; or\n(d) to prevent such person from making any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to the police officer; or\n(e) as unless such person is arrested, his presence in the Court whenever required cannot be ensured,\nand the police officer shall record while making such arrest, his reasons in writing:\nProvided that a police officer shall, in all cases where the arrest of a person is not required under the provisions of this sub-section, record the reasons in writing for not making the arrest; or\n(c) against whom credible information has been received that he has committed a cognizable offence punishable with imprisonment for a term which may extend to more than seven years whether with or without fine or with death sentence and the police officer has reason to believe on the basis of that information that such person has committed the said offence; or\n(d) who has been proclaimed as an offender either under this Sanhita or by order of the State Government; or\n(e) in whose possession anything is found which may reasonably be suspected to be stolen property and who may reasonably be suspected of having committed an offence with reference to such thing; or\n(f) who obstructs a police officer while in the execution of his duty, or who has escaped, or attempts to escape, from lawful custody; or\n(g) who is reasonably suspected of being a deserter from any of the Armed Forces of the Union; or\n(h) who has been concerned in, or against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists, of his having been concerned in, any act committed at any place out of India which, if committed in India, would have been punishable as an offence, and for which he is, under any law relating to extradition, or otherwise, liable to be apprehended or detained in custody in India; or\n(i) who, being a released convict, commits a breach of any rule made under sub-section (5) of section 394; or\n(j) for whose arrest any requisition, whether written or oral, has been received from another police officer, provided that the requisition specifies the person to be arrested and the offence or other cause for which the arrest is to be made and it appears therefrom that the person might lawfully be arrested without a warrant by the officer who issued the requisition.\n(2) Subject to the provisions of section 39, no person concerned in a non-cognizable offence or against whom a complaint has been made or credible information has been received or reasonable suspicion exists of his having so concerned, shall be arrested except under a warrant or order of a Magistrate.\n(3) The police officer shall, in all cases where the arrest of a person is not required under sub-section (1) issue a notice directing the person against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence, to appear before him or at such other place as may be specified in the notice.\n(4) Where such a notice is issued to any person, it shall be the duty of that person to comply with the terms of the notice.\n(5) Where such person complies and continues to comply with the notice, he shall not be arrested in respect of the offence referred to in the notice unless, for reasons to be recorded, the police officer is of the opinion that he ought to be arrested.\n(6) Where such person, at any time, fails to comply with the terms of the notice or is unwilling to identify himself, the police officer may, subject to such orders as may have been passed by a competent Court in this behalf, arrest him for the offence mentioned in the notice.\n(7) No arrest shall be made without prior permission of an officer not below the rank of Deputy Superintendent of Police in case of an offence which is punishable for imprisonment of less than three years and such person is infirm or is above sixty years of age.",
+      "key_terms": [
+        "arrest without warrant",
+        "cognizable offence",
+        "notice of appearance",
+        "reasons in writing",
+        "proclaimed offender",
+        "stolen property",
+        "Deputy Superintendent of Police"
+      ],
+      "breakdown": {
+        "plain_summary": "This is one of the most consequential sections in the Sanhita — it defines exactly when police may arrest without going to a Magistrate first. For lower-range cognizable offences (up to 7 years), arrest is not automatic: the officer must additionally satisfy one of five listed necessity grounds (preventing further offences, enabling proper investigation, preventing evidence tampering, preventing witness intimidation, or ensuring court appearance) and must record reasons in writing either way — whether arresting or choosing not to. For the most serious offences (more than 7 years, or death), arrest on credible information plus reason to believe is more straightforward, without the same necessity-ground gate. Where arrest isn't required under sub-section (1), the officer must instead issue a notice compelling appearance — a mechanism carried over and refined from the landmark Arnesh Kumar safeguards, meant to reduce unnecessary arrests for minor cognizable offences. Notice-compliance generally protects against arrest, but non-compliance or refusal to identify oneself can still trigger arrest. Sub-section (7) adds a special protective gate for infirm or elderly (60+) persons accused of minor offences (under 3 years): arrest requires prior clearance from an officer at least Deputy Superintendent of Police rank.",
+        "essential_elements": [
+          "Arrest without warrant permitted for offences committed in an officer's presence, and various listed categories (proclaimed offenders, suspected stolen-property possession, escape from custody, deserters, extraterritorial offences, requisitioned arrests, etc.)",
+          "For cognizable offences punishable up to 7 years: arrest requires both reason to believe the person committed the offence AND satisfaction of one of five necessity grounds, with reasons recorded in writing (whether or not arrest is made)",
+          "For offences punishable with more than 7 years or death: arrest on credible information and reason to believe, without the necessity-ground gate",
+          "Non-cognizable offences: arrest only under a Magistrate's warrant or order (subject to Section 39)",
+          "Where arrest isn't required, the officer must issue a notice of appearance; continued compliance generally protects against arrest for that offence",
+          "Non-compliance or refusal to identify oneself may lead to arrest, subject to any competent Court's orders",
+          "Special safeguard: no arrest of an infirm or 60+-year-old person for an offence punishable under 3 years without prior DSP-rank-or-above permission"
+        ],
+        "exceptions_and_qualifications": [
+          "The necessity-ground gate under sub-section (1)(b) does not apply to the graver offence category under (1)(c) (more than 7 years/death)",
+          "The reasons-in-writing requirement applies symmetrically — both to arrests made and to arrests deliberately not made under sub-section (1)(b)",
+          "Sub-section (2)'s Magistrate-warrant requirement for non-cognizable offences is itself subject to Section 39 (arrest on refusal to give name/residence)"
+        ],
+        "how_to_read": "This section is the statutory codification of the Supreme Court's Arnesh Kumar v. State of Bihar safeguards — always check first whether the offence falls in the up-to-7-years bracket (triggering the necessity-ground and reasons-in-writing requirements) before assuming arrest is automatic on mere cognizability; then separately check whether the elderly/infirm safeguard in sub-section (7) applies."
+      }
+    },
+    {
+      "number": "36",
+      "title": "Procedure of arrest and duties of officer making arrest",
+      "raw_text": "Every police officer while making an arrest shall—\n(a) bear an accurate, visible and clear identification of his name which will facilitate easy identification;\n(b) prepare a memorandum of arrest which shall be—\n(i) attested by at least one witness, who is a member of the family of the person arrested or a respectable member of the locality where the arrest is made;\n(ii) countersigned by the person arrested; and\n(c) inform the person arrested, unless the memorandum is attested by a member of his family, that he has a right to have a relative or a friend or any other person named by him to be informed of his arrest.",
+      "key_terms": [
+        "memorandum of arrest",
+        "identification badge",
+        "attesting witness",
+        "right to inform"
+      ],
+      "breakdown": {
+        "plain_summary": "This section (carried over from the D.K. Basu guidelines, now statutorily codified) sets mandatory procedural safeguards every arresting officer must follow: visible name identification on the officer, a memorandum of arrest witnessed by either a family member of the arrestee or a respectable local resident and countersigned by the arrestee himself, and — unless a family member already witnessed the arrest — informing the arrestee of his right to have someone of his choosing notified of the arrest.",
+        "essential_elements": [
+          "Arresting officer must be clearly, visibly identifiable by name",
+          "A memorandum of arrest must be prepared, attested by a family member or respectable local resident, and countersigned by the person arrested",
+          "The arrestee must be informed of his right to have a relative, friend, or nominated person told of the arrest, unless a family member already attested the memorandum"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "These are baseline, non-negotiable arrest formalities — treat any arrest lacking a properly witnessed and countersigned memorandum, or lacking the right-to-inform notification, as procedurally defective and worth raising at the earliest opportunity."
+      }
+    },
+    {
+      "number": "37",
+      "title": "Designated police officer",
+      "raw_text": "The State Government shall—\n(a) establish a police control room in every district and at State level;\n(b) designate a police officer in every district and in every police station, not below the rank of Assistant Sub-Inspector of Police who shall be responsible for maintaining the information about the names and addresses of the persons arrested, nature of the offence with which charged, which shall be prominently displayed in any manner including in digital mode in every police station and at the district headquarters.",
+      "key_terms": [
+        "police control room",
+        "designated police officer",
+        "Assistant Sub-Inspector",
+        "arrest information display"
+      ],
+      "breakdown": {
+        "plain_summary": "This section institutionalises transparency around arrests. Every State must run police control rooms at both district and State level, and designate a specific officer (at least Assistant Sub-Inspector rank) in every police station and district responsible for keeping — and prominently displaying, including digitally — up-to-date information on who has been arrested, their addresses, and what offence they're charged with. This makes it easier for families and lawyers to locate a detained person quickly.",
+        "essential_elements": [
+          "Mandatory police control room in every district and at the State level",
+          "Designated officer (minimum rank: Assistant Sub-Inspector) in every police station and district responsible for arrest-information records",
+          "Information on arrestees' names, addresses and charged offence must be prominently displayed, including digitally"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a locating-and-transparency mechanism, complementing Section 36's right-to-inform — even if an arrestee couldn't immediately notify a relative himself, this section's public/digital display requirement gives another route for family or counsel to find them."
+      }
+    },
+    {
+      "number": "38",
+      "title": "Right of arrested person to meet an advocate of his choice during interrogation",
+      "raw_text": "When any person is arrested and interrogated by the police, he shall be entitled to meet an advocate of his choice during interrogation, though not throughout interrogation.",
+      "key_terms": [
+        "right to counsel",
+        "interrogation",
+        "advocate of choice"
+      ],
+      "breakdown": {
+        "plain_summary": "A newly codified right for arrested persons: they may meet an advocate of their own choosing during the interrogation process. The right is real but limited — it is a right to meet counsel during interrogation, not a right to have the advocate physically present throughout the entire interrogation session.",
+        "essential_elements": [
+          "Applies to any person arrested and interrogated by the police",
+          "Entitled to meet an advocate of his own choice during the interrogation"
+        ],
+        "exceptions_and_qualifications": [
+          "The right is to meet counsel during interrogation, not to have the advocate present throughout the whole interrogation"
+        ],
+        "how_to_read": "Note this deliberate limitation carefully — the section grants a meeting right, which is narrower than a continuous-presence right; don't overstate its scope when advising a client or arguing a procedural violation."
+      }
+    },
+    {
+      "number": "39",
+      "title": "Arrest on refusal to give name and residence",
+      "raw_text": "(1) When any person who, in the presence of a police officer, has committed or has been accused of committing a non-cognizable offence refuses on demand of such officer to give his name and residence or gives a name or residence which such officer has reason to believe to be false, he may be arrested by such officer in order that his name or residence may be ascertained.\n(2) When the true name and residence of such person have been ascertained, he shall be released on a bond or bail bond, to appear before a Magistrate if so required:\nProvided that if such person is not resident in India, the bail bond shall be secured by a surety or sureties resident in India.\n(3) If the true name and residence of such person is not ascertained within twenty-four hours from the time of arrest or if he fails to execute the bond or bail bond, or, if so required, to furnish sufficient sureties, he shall forthwith be forwarded to the nearest Magistrate having jurisdiction.",
+      "key_terms": [
+        "refusal to give name and residence",
+        "false name",
+        "bond or bail bond",
+        "surety",
+        "24 hours"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a narrow exception to the general rule (Section 35(2)) that non-cognizable offences require a warrant for arrest: if someone commits or is accused of a non-cognizable offence in an officer's presence and then refuses to give (or lies about) their name and residence, the officer may arrest them purely to establish identity — not to punish the underlying offence. Once identity is verified, the person must be released on a bond/bail bond (with an India-resident surety required if the person isn't India-resident) to appear before a Magistrate if needed. If identity still can't be confirmed within 24 hours, or bond/surety conditions aren't met, the person must be produced before the nearest Magistrate.",
+        "essential_elements": [
+          "Applies only to non-cognizable offences committed or accused in the officer's presence",
+          "Triggered by refusal to give name/residence, or giving information the officer believes to be false",
+          "Arrest is for the limited purpose of ascertaining identity, not investigating the offence itself",
+          "Once identity is confirmed: release on bond/bail bond (non-residents require an India-resident surety)",
+          "24-hour outer limit: if identity remains unascertained, or bond/surety isn't furnished, produce before the nearest Magistrate"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This provision is entirely about identity verification, not offence investigation — the moment true name and residence are established, the default outcome is release on bond, not continued detention."
+      }
+    },
+    {
+      "number": "40",
+      "title": "Arrest by private person and procedure on such arrest",
+      "raw_text": "(1) Any private person may arrest or cause to be arrested any person who in his presence commits a non-bailable and cognizable offence, or any proclaimed offender, and, without unnecessary delay, but within six hours from such arrest, shall make over or cause to be made over any person so arrested to a police officer, or, in the absence of a police officer, take such person or cause him to be taken in custody to the nearest police station.\n(2) If there is reason to believe that such person comes under the provisions of sub-section (1) of section 35, a police officer shall take him in custody.\n(3) If there is reason to believe that he has committed a non-cognizable offence, and he refuses on the demand of a police officer to give his name and residence, or gives a name or residence which such officer has reason to believe to be false, he shall be dealt with under the provisions of section 39; but if there is no sufficient reason to believe that he has committed any offence, he shall be at once released.",
+      "key_terms": [
+        "citizen's arrest",
+        "non-bailable and cognizable offence",
+        "proclaimed offender",
+        "six hours",
+        "handover to police"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the “citizen's arrest” power: any private person may personally arrest someone who commits a non-bailable and cognizable offence in their presence, or a proclaimed offender, but this power comes with a strict, new time limit — the arrested person must be handed to police, or taken to the nearest station, within six hours (without unnecessary delay). Once handed over, the police officer's response depends on the facts: full custody if Section 35(1)'s arrest-without-warrant grounds are met, the name/residence-verification route under Section 39 if it's a non-cognizable offence with an identity refusal, or immediate release if there's no sufficient reason to believe any offence was committed at all.",
+        "essential_elements": [
+          "Private persons may arrest anyone committing a non-bailable and cognizable offence in their presence, or a proclaimed offender",
+          "Must hand over to police (or take to nearest station) without unnecessary delay, and in any case within six hours",
+          "Police then decide the person's fate: full custody (if Section 35(1) grounds apply), Section 39 identity-verification route (if non-cognizable offence with identity refusal), or immediate release (if no sufficient reason to believe an offence occurred)"
+        ],
+        "exceptions_and_qualifications": [
+          "The six-hour outer limit is a new, more specific safeguard than the old CrPC's vaguer “without unnecessary delay” standard alone"
+        ],
+        "how_to_read": "The six-hour cap is the standout feature versus the old law — always check the timeline between a private arrest and handover to police, since exceeding six hours is now a specific, checkable procedural lapse."
+      }
+    },
+    {
+      "number": "41",
+      "title": "Arrest by Magistrate",
+      "raw_text": "(1) When any offence is committed in the presence of a Magistrate, whether Executive or Judicial, within his local jurisdiction, he may himself arrest or order any person to arrest the offender, and may thereupon, subject to the provisions herein contained as to bail, commit the offender to custody.\n(2) Any Magistrate, whether Executive or Judicial, may at any time arrest or direct the arrest, in his presence, within his local jurisdiction, of any person for whose arrest he is competent at the time and in the circumstances to issue a warrant.",
+      "key_terms": [
+        "arrest by Magistrate",
+        "Executive Magistrate",
+        "Judicial Magistrate",
+        "commit to custody"
+      ],
+      "breakdown": {
+        "plain_summary": "Magistrates (whether Executive or Judicial) have their own direct arrest power within their local jurisdiction. If an offence occurs right in front of a Magistrate, he may personally arrest the offender, or order someone else to do so, and commit the offender to custody, subject to the Sanhita's bail provisions. More broadly, a Magistrate may also arrest, or order the arrest of, anyone present before him for whom he could — at that time, under those circumstances — lawfully issue an arrest warrant, without needing to formally issue that warrant first.",
+        "essential_elements": [
+          "Offence committed in a Magistrate's presence, within his local jurisdiction: he may personally arrest, or order arrest, and commit to custody (subject to bail provisions)",
+          "Broader power: a Magistrate may arrest, or direct arrest, of any person in his presence for whom he could lawfully issue a warrant at that time"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a direct, on-the-spot judicial arrest power, distinct from the police's Section 35 power — note it applies to both Executive and Judicial Magistrates, and the second limb is broader than the first since it doesn't require the offence itself to occur in the Magistrate's presence, only the person to be present when the Magistrate could otherwise have issued a warrant."
+      }
+    },
+    {
+      "number": "42",
+      "title": "Protection of members of Armed Forces from arrest",
+      "raw_text": "(1) Notwithstanding anything contained in section 35 and sections 39 to 41 (both inclusive), no member of the Armed Forces of the Union shall be arrested for anything done or purported to be done by him in the discharge of his official duties except after obtaining the consent of the Central Government.\n(2) The State Government may, by notification, direct that the provisions of sub-section (1) shall apply to such class or category of the members of the Force charged with the maintenance of public order as may be specified therein, wherever they may be serving, and thereupon the provisions of that sub-section shall apply as if for the expression “Central Government” occurring therein, the expression “State Government” were substituted.",
+      "key_terms": [
+        "Armed Forces of the Union",
+        "official duties",
+        "Central Government consent",
+        "public order forces"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a protective, non-obstante shield for Armed Forces personnel: notwithstanding the general arrest powers in Sections 35 and 39-41, no member of the Armed Forces of the Union can be arrested for acts done, or purportedly done, in discharge of official duty without prior Central Government consent. Sub-section (2) allows the State Government to extend an equivalent protection (with State Government consent substituted for Central) to specified categories of public-order forces under its own control, wherever they serve.",
+        "essential_elements": [
+          "No arrest of an Armed Forces of the Union member for acts done/purported to be done in official duty, without prior Central Government consent",
+          "Overrides Sections 35 and 39-41 to that extent",
+          "State Government may extend an equivalent protection (with State Government consent) to specified public-order force categories under its control"
+        ],
+        "exceptions_and_qualifications": [
+          "The protection covers only acts done, or purported to be done, in discharge of official duties — it is not a blanket immunity from arrest for any conduct"
+        ],
+        "how_to_read": "This is a narrow immunity tied strictly to official-duty conduct — always separate out whether the alleged act was genuinely connected to official duty before assuming this protection applies."
+      }
+    },
+    {
+      "number": "43",
+      "title": "Arrest how made",
+      "raw_text": "(1) In making an arrest the police officer or other person making the same shall actually touch or confine the body of the person to be arrested, unless there be a submission to the custody by word or action:\nProvided that where a woman is to be arrested, unless the circumstances indicate to the contrary, her submission to custody on an oral intimation of arrest shall be presumed and, unless the circumstances otherwise require or unless the police officer is a female, the police officer shall not touch the person of the woman for making her arrest.\n(2) If such person forcibly resists the endeavour to arrest him, or attempts to evade the arrest, such police officer or other person may use all means necessary to effect the arrest.\n(3) The police officer may, keeping in view the nature and gravity of the offence, use handcuff while making the arrest of a person or while producing such person before the court who is a habitual or repeat offender, or who escaped from custody, or who has committed offence of organised crime, terrorist act, drug related crime, or illegal possession of arms and ammunition, murder, rape, acid attack, counterfeiting of coins and currency-notes, human trafficking, sexual offence against children, or offence against the State.\n(4) Nothing in this section gives a right to cause the death of a person who is not accused of an offence punishable with death or with imprisonment for life.\n(5) Save in exceptional circumstances, no woman shall be arrested after sunset and before sunrise, and where such exceptional circumstances exist, the woman police officer shall, by making a written report, obtain the prior permission of the Magistrate of the first class within whose local jurisdiction the offence is committed or the arrest is to be made.",
+      "key_terms": [
+        "submission to custody",
+        "handcuffs",
+        "gender-sensitive arrest",
+        "night-time arrest of women",
+        "excessive force limit"
+      ],
+      "breakdown": {
+        "plain_summary": "This section prescribes the physical mechanics of a lawful arrest and its limits. The default method is actual physical touch/confinement, unless the person submits by word or conduct — with a special, gender-sensitive rule for women: submission is presumed on a mere oral statement of arrest, and a male officer generally may not touch her to effect the arrest. Force may be used, but only as necessary, if the person forcibly resists or tries to evade arrest. Handcuffs are conditionally permitted — a significant new, explicit statutory basis — but only calibrated to the offence's nature/gravity and limited to specific serious categories (habitual/repeat offenders, escapees, organised crime, terrorism, drug offences, illegal arms possession, murder, rape, acid attacks, counterfeiting, human trafficking, child sexual offences, offences against the State). Deadly force is never authorised unless the person is accused of a death- or life-imprisonment-punishable offence. And women generally cannot be arrested at night (after sunset, before sunrise), except in exceptional circumstances requiring prior written permission from a first-class Magistrate.",
+        "essential_elements": [
+          "Arrest is made by actual touch/confinement, unless the person submits by word or action",
+          "Special rule for women: oral intimation is presumed to secure submission; male officers generally may not touch a woman to arrest her",
+          "Necessary force may be used against forcible resistance or attempted evasion",
+          "Handcuffs may be used, calibrated to offence nature/gravity, only for specifically listed serious offence categories or repeat/escaped offenders",
+          "No right to cause death unless the person is accused of an offence punishable with death or life imprisonment",
+          "No arrest of a woman between sunset and sunrise except in exceptional circumstances, requiring prior written first-class-Magistrate permission obtained by a woman police officer"
+        ],
+        "exceptions_and_qualifications": [
+          "The no-touch rule for women yields where circumstances indicate otherwise, or where the arresting officer is herself female",
+          "The night-arrest-of-women bar yields only in exceptional circumstances, and even then requires prior Magisterial permission obtained in writing"
+        ],
+        "how_to_read": "Note that sub-section (3)'s handcuffing power is a genuinely new statutory feature (the old CrPC had no explicit handcuffing provision, and courts had restricted routine handcuffing) — always check whether the offence falls within the specifically enumerated categories before treating handcuffing as lawful."
+      }
+    },
+    {
+      "number": "44",
+      "title": "Search of place entered by person sought to be arrested",
+      "raw_text": "(1) If any person acting under a warrant of arrest, or any police officer having authority to arrest, has reason to believe that the person to be arrested has entered into, or is within, any place, any person residing in, or being in charge of, such place shall, on demand of such person acting as aforesaid or such police officer, allow him free ingress thereto, and afford all reasonable facilities for a search therein.\n(2) If ingress to such place cannot be obtained under sub-section (1), it shall be lawful in any case for a person acting under a warrant and in any case in which a warrant may issue, but cannot be obtained without affording the person to be arrested an opportunity of escape, for a police officer to enter such place and search therein, and in order to effect an entrance into such place, to break open any outer or inner door or window of any house or place, whether that of the person to be arrested or of any other person, if after notification of his authority and purpose, and demand of admittance duly made, he cannot otherwise obtain admittance:\nProvided that if any such place is an apartment in the actual occupancy of a female (not being the person to be arrested) who, according to custom, does not appear in public, such person or police officer shall, before entering such apartment, give notice to such female that she is at liberty to withdraw and shall afford her every reasonable facility for withdrawing, and may then break open the apartment and enter it.\n(3) Any police officer or other person authorised to make an arrest may break open any outer or inner door or window of any house or place in order to liberate himself or any other person who, having lawfully entered for the purpose of making an arrest, is detained therein.",
+      "key_terms": [
+        "free ingress",
+        "break open doors",
+        "purdah exception",
+        "notification of authority",
+        "self-liberation"
+      ],
+      "breakdown": {
+        "plain_summary": "This section gives arresting authorities a right of entry to search premises where the person sought is believed to be. The occupier/person-in-charge must first be given the chance to allow free entry voluntarily. Only if that voluntary entry is refused (or entry would let the person escape) can the officer forcibly break open doors/windows — but only after first announcing authority and purpose and demanding admittance. A specific cultural/privacy safeguard applies to a female occupant (not the person being arrested) who observes purdah (customary seclusion): she must first be notified and given a reasonable chance to withdraw before her apartment is forced open. Finally, if an authorised arresting person is himself trapped or detained inside after lawfully entering, he may break open doors/windows to free himself or another such person.",
+        "essential_elements": [
+          "Occupier/person-in-charge must first be asked to allow free entry and afford reasonable search facilities",
+          "Forcible entry (breaking open doors/windows) permitted only after announcement of authority/purpose and demand of admittance goes unmet, or where waiting would let the person escape",
+          "Purdah safeguard: a female occupant not being the person sought must be notified and allowed to withdraw before her apartment is forced open",
+          "Self-liberation right: an arresting person lawfully inside but detained may break open doors/windows to free himself or another"
+        ],
+        "exceptions_and_qualifications": [
+          "The purdah safeguard's notice-and-withdrawal step is mandatory before entry into that specific apartment, even once forcible entry to the premises generally is otherwise justified"
+        ],
+        "how_to_read": "Always check the sequencing here — announcement and a genuine demand for admittance must precede any forced entry, and the purdah-related notice/withdrawal opportunity is an additional, separate step specifically for the described category of female occupant before her particular apartment is breached."
+      }
+    },
+    {
+      "number": "45",
+      "title": "Pursuit of offenders into other jurisdictions",
+      "raw_text": "A police officer may, for the purpose of arresting without warrant any person whom he is authorised to arrest, pursue such person into any place in India.",
+      "key_terms": [
+        "pursuit of offenders",
+        "hot pursuit",
+        "jurisdictional limits"
+      ],
+      "breakdown": {
+        "plain_summary": "This section removes territorial jurisdiction as a barrier when a police officer is chasing someone he is already authorised to arrest without a warrant — he may follow that person into any place in India, regardless of whether it falls outside his own local jurisdiction. This is the statutory basis for “hot pursuit” across jurisdictional boundaries.",
+        "essential_elements": [
+          "Applies only where the officer is already authorised to make a warrantless arrest of the person",
+          "Permits pursuit into any place in India, without territorial limitation"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section only authorises pursuit, not an independent arrest power — the officer's underlying authority to arrest without warrant must already exist (typically under Section 35) before this cross-jurisdictional pursuit right comes into play."
       }
     }
   ]
