@@ -277,7 +277,9 @@
     "special leave": "The High Court's discretionary permission, which must be separately sought and granted, before an appeal against an order of acquittal can proceed in certain circumstances; section 419(4)-(6) lets a private complainant apply for special leave to appeal an acquittal, subject to strict limitation periods (six months for a public servant complainant, sixty days otherwise), and forecloses any other route to appeal that acquittal if special leave is refused.",
     "petition of appeal": "The written document by which an appeal is formally initiated -- presented by the appellant or his advocate under section 423, ordinarily accompanied by a copy of the judgment or order appealed against unless the Court dispenses with that requirement; a jailed appellant may instead present it to the jail's officer-in-charge under section 424, who forwards it to the proper Appellate Court.",
     "summary dismissal": "An Appellate Court's power under section 425 to dismiss an appeal at the threshold, without a full hearing, if it finds no sufficient ground for interfering after examining the petition of appeal and judgment copy -- subject to safeguards: an appellant under section 423 must get a reasonable hearing opportunity first, a jailed appellant under section 424 must generally get one too (unless the appeal is frivolous or producing him would be disproportionately inconvenient), and no section 424 appeal can be summarily dismissed before the appeal-filing period has expired.",
-    "enhancement of sentence": "An appellate outcome where a sentence originally imposed is increased -- available only on an appeal specifically brought for that purpose (typically a State/Central Government appeal under section 418), and only after giving the accused an opportunity to show cause against the proposed enhancement (section 427's first proviso); the Appellate Court also cannot inflict a punishment greater than what the original Court could have imposed for the offence it finds was actually committed (section 427's second proviso)."
+    "enhancement of sentence": "An appellate outcome where a sentence originally imposed is increased -- available only on an appeal specifically brought for that purpose (typically a State/Central Government appeal under section 418), and only after giving the accused an opportunity to show cause against the proposed enhancement (section 427's first proviso); the Appellate Court also cannot inflict a punishment greater than what the original Court could have imposed for the offence it finds was actually committed (section 427's second proviso).",
+    "additional evidence": "New evidence introduced at the appellate stage, beyond what was recorded at trial; section 432 lets the Appellate Court take such evidence itself, or direct a Magistrate (or, if the Appellate Court is a High Court, a Court of Session or Magistrate) to take it, provided the Appellate Court records its reasons for finding it necessary and the accused/his advocate has the right to be present when it is taken.",
+    "abatement of appeal": "The automatic lapsing of an appeal, without any decision on its merits, typically triggered by the death of the relevant party; section 435 provides that a State/Central Government appeal (sections 418, 419) finally abates on the accused's death, and any other appeal (except a fine-sentence appeal) finally abates on the appellant's death -- subject to a proviso letting a near relative apply within thirty days for leave to continue a death/imprisonment-sentence appeal."
   },
   "sections": [
     {
@@ -9734,6 +9736,95 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "The sub-section (3) trial-Court-level bail entitlement is a frequently-used, time-sensitive provision -- practitioners representing a convict who was on bail and got three years or less (or a bailable-offence conviction) should raise it immediately at sentencing, since it operates as a near-automatic bridge to the appeal stage rather than requiring a separate Appellate Court application in the first instance."
+      }
+    },
+    {
+      "number": "431",
+      "title": "Arrest of accused in appeal from acquittal",
+      "raw_text": "431. Arrest of accused in appeal from acquittal.—When an appeal is presented under section 419,\nthe High Court may issue a warrant directing that the accused be arrested and brought before it or any\nsubordinate Court, and the Court before which he is brought may commit him to prison pending the disposal\nof the appeal or admit him to bail.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Since an acquitted accused is, by definition, a free person, this gives the High Court a mechanism to actually secure his presence once an acquittal appeal under section 419 is filed: it may issue a warrant for his arrest and production before it or a subordinate Court. Whichever Court he is brought before can then either commit him to custody pending the appeal's disposal or admit him to bail -- so arrest does not automatically mean continued detention through the appeal.",
+        "essential_elements": [
+          "Applies once an appeal against acquittal is presented under section 419.",
+          "The High Court may issue a warrant for the accused's arrest and production before it or a subordinate Court.",
+          "The Court before which he is brought may commit him to prison pending disposal of the appeal, or admit him to bail."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This power is discretionary, not automatic -- filing an acquittal appeal does not by itself re-arrest the accused; the High Court must affirmatively issue a warrant, and even then the receiving Court retains the choice between custody and bail."
+      }
+    },
+    {
+      "number": "432",
+      "title": "Appellate Court may take further evidence or direct it to be taken",
+      "raw_text": "432. Appellate Court may take further evidence or direct it to be taken.—(1) In dealing with any\nappeal under this Chapter, the Appellate Court, if it thinks additional evidence to be necessary, shall record\nits reasons and may either take such evidence itself, or direct it to be taken by a Magistrate or, when the\nAppellate Court is a High Court, by a Court of Session or a Magistrate.\n    (2) When the additional evidence is taken by the Court of Session or the Magistrate, it or he shall certify\nsuch evidence to the Appellate Court, and such Court shall thereupon proceed to dispose of the appeal.\n    (3) The accused or his advocate shall have the right to be present when the additional evidence is taken.\n   (4) The taking of evidence under this section shall be subject to the provisions of Chapter XXV, as if it\nwere an inquiry.",
+      "key_terms": [
+        "additional evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the Appellate Court the same kind of evidence-supplementing power the High Court has in death-confirmation cases (section 408): if it thinks additional evidence is genuinely necessary to decide the appeal, it must record its reasons and can either take that evidence itself or direct a Magistrate (or, if it is itself a High Court, a Court of Session or Magistrate) to take it. Where a subordinate Court takes the evidence, it must certify the results back to the Appellate Court, which then proceeds to dispose of the appeal. The accused or his advocate has a guaranteed right to be present during this evidence-taking, and the whole process is governed by Chapter XXV's inquiry rules as if it were an inquiry.",
+        "essential_elements": [
+          "Applies when the Appellate Court, dealing with any appeal under this Chapter, thinks additional evidence is necessary.",
+          "The Appellate Court must record its reasons for finding additional evidence necessary.",
+          "It may take the evidence itself, or direct a Magistrate (or, if it is a High Court, a Court of Session or Magistrate) to take it.",
+          "Evidence taken by a subordinate Court/Magistrate must be certified back to the Appellate Court, which then disposes of the appeal.",
+          "The accused or his advocate has the right to be present when the additional evidence is taken.",
+          "The evidence-taking is subject to Chapter XXV's provisions, as if it were an inquiry."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The mandatory reasoned-order requirement is a real check on this power -- an Appellate Court cannot simply call for additional evidence on a whim; practitioners should scrutinize whether genuine necessity was recorded before such evidence is admitted, since this reopens the evidentiary record at the appellate stage."
+      }
+    },
+    {
+      "number": "433",
+      "title": "Procedure where Judges of Court of appeal are equally divided",
+      "raw_text": "433. Procedure where Judges of Court of appeal are equally divided.—When an appeal under this\nChapter is heard by a High Court before a Bench of Judges and they are divided in opinion, the appeal, with\ntheir opinions, shall be laid before another Judge of that Court, and that Judge, after such hearing as he\nthinks fit, shall deliver his opinion, and the judgment or order shall follow that opinion:\n    Provided that if one of the Judges constituting the Bench, or, where the appeal is laid before another\nJudge under this section, that Judge, so requires, the appeal shall be re-heard and decided by a larger Bench\nof Judges.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This is the general tie-breaking mechanism that section 411 (death-confirmation cases) cross-references. When a High Court Bench hearing an appeal splits evenly in opinion, the matter is not left unresolved: the appeal and both opinions go before another Judge of that Court, who hears it as he thinks fit and delivers his own opinion, which then becomes the controlling judgment or order. But there is a built-in escalation valve -- either an original Bench Judge or the referee Judge himself can require the appeal to instead be re-heard and decided by a larger Bench, rather than resolved by a single tie-breaking Judge.",
+        "essential_elements": [
+          "Applies when a High Court Bench hearing an appeal under this Chapter is equally divided in opinion.",
+          "The appeal, with both opinions, is laid before another Judge of that Court.",
+          "That Judge hears the matter as he thinks fit and delivers his opinion, which the judgment/order then follows.",
+          "Proviso: if an original Bench Judge, or the referee Judge himself, requires it, the appeal is instead re-heard and decided by a larger Bench."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the mechanism directly cross-referenced by section 411 for a divided death-confirmation Bench -- practitioners should read the two sections together whenever a two-Judge Bench splits on any matter under this Chapter, capital or otherwise."
+      }
+    },
+    {
+      "number": "434",
+      "title": "Finality of judgments and orders on appeal",
+      "raw_text": "434. Finality of judgments and orders on appeal.—Judgments and orders passed by an Appellate\nCourt upon an appeal shall be final, except in the cases provided for in section 418, section 419,\nsub-section (4) of section 425 or Chapter XXXII:\n   Provided that notwithstanding the final disposal of an appeal against conviction in any case, the\nAppellate Court may hear and dispose of, on the merits,—\n    (a) an appeal against acquittal under section 419, arising out of the same case; or\n    (b) an appeal for the enhancement of sentence under section 418, arising out of the same case.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This establishes finality as the default rule for appellate outcomes: once an Appellate Court decides an appeal, that judgment/order is final, closing off further challenge -- except through the specific escape routes this Sanhita itself carves out: a State/Central Government sentence-enhancement appeal (section 418), an acquittal appeal (section 419), the sub-section (4) repair mechanism for an overlooked section 423 petition after a section 424 summary dismissal (section 425), or the reference-and-revision jurisdiction of Chapter XXXII. A specific proviso clarifies that finality of a conviction appeal in a given case doesn't block a separate, still-pending section 418 enhancement appeal or section 419 acquittal appeal arising from that same case -- both can still be heard and decided on their merits even after the conviction appeal is finally disposed of.",
+        "essential_elements": [
+          "General rule: an Appellate Court's judgment/order on appeal is final.",
+          "Exceptions: section 418 (enhancement appeals), section 419 (acquittal appeals), section 425(4) (overlooked petition repair), and Chapter XXXII (reference and revision).",
+          "Proviso: final disposal of a conviction appeal in a case does not prevent the Appellate Court from separately hearing and deciding, on the merits, a related section 419 acquittal appeal or section 418 enhancement appeal arising from the same case."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This finality rule is why reference/revision (Chapter XXXII) functions as the residual safety valve in the system -- when none of the enumerated appeal-specific exceptions apply and an appellate order is otherwise final, revision jurisdiction becomes the practical avenue to challenge a Sessions Judge's or subordinate Court's order."
+      }
+    },
+    {
+      "number": "435",
+      "title": "Abatement of appeals",
+      "raw_text": "435. Abatement of appeals.—(1) Every appeal under section 418 or section 419 shall finally abate on\nthe death of the accused.\n    (2) Every other appeal under this Chapter (except an appeal from a sentence of fine) shall finally abate\non the death of the appellant:\n    Provided that where the appeal is against a conviction and sentence of death or of imprisonment, and\nthe appellant dies during the pendency of the appeal, any of his near relatives may, within thirty days of the\ndeath of the appellant, apply to the Appellate Court for leave to continue the appeal; and if leave is granted,\nthe appeal shall not abate.\n     Explanation.—In this section, \"near relative\" means a parent, spouse, lineal descendant, brother or\nsister.",
+      "key_terms": [
+        "abatement of appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XXXI by addressing what happens to a pending appeal when a party dies. A State/Central Government appeal for enhanced sentence or against acquittal (sections 418, 419) simply and finally abates if the accused dies -- there is no one left to enhance the sentence against or reconvict. For any other appeal (except one only about a fine, which can still matter for estate/recovery purposes), the appellant's death finally abates the appeal too -- but with an important safeguard: if the appeal was against a conviction carrying a death sentence or imprisonment, a near relative (parent, spouse, lineal descendant, brother, or sister) can apply within thirty days of the appellant's death for leave to continue the appeal, and if granted, the appeal survives rather than abating. This protects the deceased's reputation, family, and any consequences (like property forfeiture) that might still turn on whether the conviction stands.",
+        "essential_elements": [
+          "Sub-section (1): a section 418 or 419 appeal finally abates on the death of the accused.",
+          "Sub-section (2): every other appeal under this Chapter (except a fine-sentence appeal) finally abates on the appellant's death.",
+          "Proviso: for a conviction-and-death/imprisonment-sentence appeal, a near relative may apply within thirty days of the appellant's death for leave to continue it; if granted, it does not abate.",
+          "'Near relative' is defined as a parent, spouse, lineal descendant, brother, or sister."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Practitioners for the family of a deceased appellant should treat the thirty-day window as a hard, easily-missed deadline -- the right to continue a serious conviction appeal (and thereby clear the deceased's name or protect estate consequences) is lost if no near relative applies for leave within that period."
       }
     }
   ]
