@@ -271,7 +271,10 @@
     "bench": "A panel of two or more Judges of a High Court (or other Court) sitting together to hear and decide a case, as distinct from a Single Judge; section 411 addresses what happens when a death-sentence-confirmation Bench is equally divided in opinion, routing the case to the special procedure in section 433.",
     "appeal": "A statutory right to have a higher Court review a lower Court's judgment, order, or sentence -- available only where this Sanhita or another law specifically provides for it (section 413), with numerous carve-outs and conditions (guilty pleas, petty sentences, victim's right to appeal against acquittal/inadequate compensation, State/Central Government appeals against inadequate sentences, and special leave requirements for acquittal appeals) set out across Chapter XXXI.",
     "extraordinary original criminal jurisdiction": "A High Court's power to try certain criminal cases itself as a Court of first instance (rather than only hearing appeals/revisions), historically confined to the three Presidency High Courts (Calcutta, Bombay, Madras) over serious offences within city limits; section 415(1) gives a person convicted on such a trial a direct right of appeal to the Supreme Court.",
-    "supreme court": "India's apex Court and final court of appeal, established under Article 124 of the Constitution; within this Sanhita's appellate ladder, it is the direct appeal forum for convictions from a High Court's extraordinary original criminal jurisdiction (section 415(1)) and, separately, for certain High Court reversals of acquittal into a death/life/ten-year-plus sentence (section 420)."
+    "supreme court": "India's apex Court and final court of appeal, established under Article 124 of the Constitution; within this Sanhita's appellate ladder, it is the direct appeal forum for convictions from a High Court's extraordinary original criminal jurisdiction (section 415(1)) and, separately, for certain High Court reversals of acquittal into a death/life/ten-year-plus sentence (section 420).",
+    "plea of guilty": "An accused's formal admission in Court that he committed the offence charged, which if accepted results in conviction on that plea itself, without a full trial; section 416 bars any appeal against a High Court conviction on a guilty plea, and limits appeal from a Sessions/Magistrate guilty-plea conviction to only the extent or legality of the sentence, not the conviction itself.",
+    "central government": "The Union Government of India, exercising executive power under the Constitution; within this Chapter it has its own independent power (alongside State Governments) to direct the Public Prosecutor to appeal an inadequate sentence (section 418(2)) or an acquittal (section 419(2)) where the offence was investigated by a Central agency empowered under a Central Act other than this Sanhita, such as the CBI or NIA.",
+    "special leave": "The High Court's discretionary permission, which must be separately sought and granted, before an appeal against an order of acquittal can proceed in certain circumstances; section 419(4)-(6) lets a private complainant apply for special leave to appeal an acquittal, subject to strict limitation periods (six months for a public servant complainant, sixty days otherwise), and forecloses any other route to appeal that acquittal if special leave is refused."
   },
   "sections": [
     {
@@ -9447,6 +9450,100 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "The six-month disposal mandate for sexual-offence sentence appeals is a hard timeline worth flagging proactively in case management -- practitioners on either side should track this deadline and be prepared to raise delay as a live issue if the appellate Court is not moving the matter along."
+      }
+    },
+    {
+      "number": "416",
+      "title": "No appeal in certain cases when accused pleads guilty",
+      "raw_text": "416. No appeal in certain cases when accused pleads guilty.—Notwithstanding anything in section\n415, where an accused person has pleaded guilty and has been convicted on such plea, there shall be no\nappeal,—\n        (i) if the conviction is by a High Court; or\n        (ii) if the conviction is by a Court of Session or Magistrate of the first or second class, except as to\n    the extent or legality of the sentence.",
+      "key_terms": [
+        "plea of guilty"
+      ],
+      "breakdown": {
+        "plain_summary": "This narrows section 415's general appeal ladder where the accused himself pleaded guilty. A High Court conviction on a guilty plea is simply not appealable at all -- there is nothing to appeal since the accused admitted the offence. Where a Court of Session or a first/second-class Magistrate convicts on a guilty plea, the conviction itself likewise cannot be appealed, but the sentence remains open to challenge on its extent (too harsh) or legality (not authorized by law). The logic is straightforward: a guilty plea concedes the facts and guilt, so only sentencing questions genuinely remain in dispute.",
+        "essential_elements": [
+          "Applies where the accused has pleaded guilty and been convicted on that plea.",
+          "High Court guilty-plea convictions: no appeal at all.",
+          "Court of Session or Magistrate (first/second class) guilty-plea convictions: no appeal against the conviction, but the sentence's extent or legality may still be appealed."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Before advising a client to plead guilty, flag this section explicitly -- it forecloses any later argument that the plea was factually wrong or the conviction unsound; only a sentencing challenge survives, so the plea decision should be treated as effectively final on guilt."
+      }
+    },
+    {
+      "number": "417",
+      "title": "No appeal in petty cases",
+      "raw_text": "417. No appeal in petty cases.—Notwithstanding anything in section 415, there shall be no appeal by\na convicted person in any of the following cases, namely: —\n        (a) where a High Court passes only a sentence of imprisonment for a term not exceeding three\n    months or of fine not exceeding one thousand rupees, or of both such imprisonment and fine;\n        (b) where a Court of Session passes only a sentence of imprisonment for a term not exceeding three\n    months or of fine not exceeding two hundred rupees, or of both such imprisonment and fine;\n        (c) where a Magistrate of the first class passes only a sentence of fine not exceeding one hundred\n    rupees; or\n        (d) where, in a case tried summarily, a Magistrate empowered to act under section 283 passes only\n    a sentence of fine not exceeding two hundred rupees:\n    Provided that an appeal may be brought against any such sentence if any other punishment is combined\nwith it, but such sentence shall not be appealable merely on the ground—\n        (i) that the person convicted is ordered to furnish security to keep the peace; or\n        (ii) that a direction for imprisonment in default of payment of fine is included in the sentence; or\n        (iii) that more than one sentence of fine is passed in the case, if the total amount of fine imposed\n    does not exceed the amount hereinbefore specified in respect of the case.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This filters out trivially minor sentences from clogging the appellate system: where the punishment imposed falls at or below specified low thresholds -- graduated by the sentencing Court's level (three months/one thousand rupees for a High Court, three months/two hundred rupees for a Court of Session, one hundred rupees fine-only for a first-class Magistrate, two hundred rupees fine-only for a summary trial under section 283) -- there is simply no appeal available to the convicted person. But this bar only holds if the sentence is purely within those caps; if any additional punishment is combined with it, the whole sentence becomes appealable again. Three specific features don't by themselves defeat the appeal bar: an accompanying peace-security order, a default-imprisonment direction for unpaid fines, or multiple fine components that together still stay within the relevant cap.",
+        "essential_elements": [
+          "Applies to sentences at or below fixed thresholds, tiered by the sentencing forum: High Court (3 months/Rs. 1,000), Court of Session (3 months/Rs. 200), first-class Magistrate (Rs. 100 fine-only), summary trial under section 283 (Rs. 200 fine-only).",
+          "Within those caps, the convicted person has no appeal.",
+          "If any other/additional punishment is combined with the capped sentence, the appeal bar is lifted entirely.",
+          "The bar is not defeated merely by a peace-security order, a default-imprisonment direction, or multiple fines that together remain within the cap."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always compute the true aggregate sentence before advising a client there's no appeal -- a seemingly petty fine combined with even a minor additional punishment (not covered by the three savings clauses) restores the full right of appeal."
+      }
+    },
+    {
+      "number": "418",
+      "title": "Appeal by State Government against sentence",
+      "raw_text": "418. Appeal by State Government against sentence.—(1) Save as otherwise provided in\nsub-section (2), the State Government may, in any case of conviction on a trial held by any Court other than\na High Court, direct the Public Prosecutor to present an appeal against the sentence on the ground of its\ninadequacy—\n        (a) to the Court of Session, if the sentence is passed by the Magistrate; and\n        (b) to the High Court, if the sentence is passed by any other Court.\n    (2) If such conviction is in a case in which the offence has been investigated by any agency empowered\nto make investigation into an offence under any Central Act other than this Sanhita, the Central Government\nmay also direct the Public Prosecutor to present an appeal against the sentence on the ground of its\ninadequacy—\n        (a) to the Court of Session, if the sentence is passed by the Magistrate; and\n        (b) to the High Court, if the sentence is passed by any other Court.\n    (3) When an appeal has been filed against the sentence on the ground of its inadequacy, the Court of\nSession or, as the case may be, the High Court shall not enhance the sentence except after giving to the\naccused a reasonable opportunity of showing cause against such enhancement and while showing cause,\nthe accused may plead for his acquittal or for the reduction of the sentence.\n    (4) When an appeal has been filed against a sentence passed under section 64, section 65,\nsection 66, section 67, section 68, section 70 or section 71 of the Bharatiya Nyaya Sanhita, 2023, the appeal\nshall be disposed of within a period of six months from the date of filing of such appeal.",
+      "key_terms": [
+        "central government"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the prosecution side its own route to challenge a sentence as too lenient. The State Government may direct the Public Prosecutor to appeal a conviction's sentence on grounds of inadequacy (to the Court of Session for Magistrate-passed sentences, to the High Court for sentences passed by any other non-High-Court Court). Where the offence was investigated by a Central agency under a Central Act other than this Sanhita (e.g., CBI, NIA-type agencies), the Central Government independently has the same power. Fairness is preserved on the accused's side: before any sentence enhancement on such an appeal, the accused must get a reasonable opportunity to show cause, during which he may argue for outright acquittal or a reduced sentence rather than just resisting enhancement. The same six-month disposal fast-track for specified sexual-offence sentence appeals (as in section 415(4)) applies here too.",
+        "essential_elements": [
+          "The State Government may direct the Public Prosecutor to appeal a non-High-Court conviction's sentence as inadequate -- to the Court of Session (Magistrate sentences) or the High Court (other Courts' sentences).",
+          "The Central Government has an independent, parallel power where the offence was investigated by a Central agency under a Central Act other than this Sanhita.",
+          "Before enhancing a sentence on such an appeal, the accused must be given a reasonable opportunity to show cause, and may argue for acquittal or reduction while doing so.",
+          "Appeals against sentences under BNS sections 64, 65, 66, 67, 68, 70, or 71 must be disposed of within six months of filing."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The accused's show-cause right under sub-section (3) is a genuine, substantive safeguard, not a formality -- it means a State-initiated inadequacy appeal can backfire into an acquittal or reduced sentence if the accused makes a strong showing, so the State should weigh this risk before directing such an appeal in a borderline case."
+      }
+    },
+    {
+      "number": "419",
+      "title": "Appeal in case of acquittal",
+      "raw_text": "419. Appeal in case of acquittal.—(1) Save as otherwise provided in sub-section (2), and subject\nto the provisions of sub-sections (3) and (5),—\n        (a) the District Magistrate may, in any case, direct the Public Prosecutor to present an appeal to the\n    Court of Session from an order of acquittal passed by a Magistrate in respect of a cognizable and non-\n    bailable offence;\n        (b) the State Government may, in any case, direct the Public Prosecutor to present an appeal to the\n    High Court from an original or appellate order of acquittal passed by any Court other than a High Court\n    not being an order under clause (a) or an order of acquittal passed by the Court of Session in revision.\n    (2) If such an order of acquittal is passed in a case in which the offence has been investigated by any\nagency empowered to make investigation into an offence under any Central Act other than this Sanhita, the\nCentral Government may, subject to the provisions of sub-section (3), also direct the Public Prosecutor to\npresent an appeal—\n        (a) to the Court of Session, from an order of acquittal passed by a Magistrate in respect of a\n    cognizable and non-bailable offence;\n        (b) to the High Court from an original or appellate order of an acquittal passed by any Court other\n    than a High Court not being an order under clause (a) or an order of acquittal passed by the Court of\n    Session in revision.\n    (3) No appeal to the High Court under sub-section (1) or sub-section (2) shall be entertained except\nwith the leave of the High Court.\n    (4) If such an order of acquittal is passed in any case instituted upon complaint and the High Court, on\nan application made to it by the complainant in this behalf, grants special leave to appeal from the order of\nacquittal, the complainant may present such an appeal to the High Court.\n    (5) No application under sub-section (4) for the grant of special leave to appeal from an order of\nacquittal shall be entertained by the High Court after the expiry of six months, where the complainant is a\npublic servant, and sixty days in every other case, computed from the date of that order of acquittal.\n    (6) If, in any case, the application under sub-section (4) for the grant of special leave to appeal from an\norder of acquittal is refused, no appeal from that order of acquittal shall lie under sub-section (1) or under\nsub-section (2).",
+      "key_terms": [
+        "special leave"
+      ],
+      "breakdown": {
+        "plain_summary": "This carefully allocates the power to appeal an acquittal among several state and private actors. The District Magistrate may direct the Public Prosecutor to appeal a Magistrate's acquittal (in cognizable, non-bailable offences) to the Court of Session; the State Government may direct an appeal from other acquittals (original or appellate, from any Court other than a High Court, and not already covered by clause (a) or a Sessions Court revisional acquittal) to the High Court -- and the Central Government has an equivalent independent power where a Central agency investigated the offence. Any appeal to the High Court under either route needs the High Court's leave first. Separately, a private complainant in a complaint-case acquittal can apply to the High Court for special leave to appeal -- but strictly within six months (if the complainant is a public servant) or sixty days (otherwise) of the acquittal, and if special leave is refused, that forecloses any appeal route against that acquittal altogether, including the government-directed routes.",
+        "essential_elements": [
+          "District Magistrate: may direct a Public Prosecutor's appeal to the Court of Session from a Magistrate's acquittal in a cognizable, non-bailable offence.",
+          "State Government: may direct a Public Prosecutor's appeal to the High Court from other acquittals (original/appellate, excluding clause (a) and Sessions-Court revisional acquittals).",
+          "Central Government: has an independent, parallel power where a Central agency investigated the offence under a Central Act other than this Sanhita.",
+          "Any High Court appeal under sub-section (1) or (2) requires the High Court's leave.",
+          "A private complainant in a complaint case may separately apply for special leave to appeal the acquittal to the High Court.",
+          "Special leave applications must be made within six months (public-servant complainant) or sixty days (otherwise) of the acquittal.",
+          "Refusal of special leave forecloses any appeal against that acquittal under any route in this section."
+        ],
+        "exceptions_and_qualifications": [
+          "Excludes acquittal orders passed by the Court of Session in revision from the State Government's High Court appeal route."
+        ],
+        "how_to_read": "The sub-section (6) finality trap is critical -- a private complainant who applies for and is refused special leave has permanently lost any avenue to challenge that acquittal, even if the government might otherwise have been willing to direct its own appeal, so this route should be pursued carefully and not treated as a low-stakes first attempt."
+      }
+    },
+    {
+      "number": "420",
+      "title": "Appeal against conviction by High Court in certain cases",
+      "raw_text": "420. Appeal against conviction by High Court in certain cases.—Where the High Court has, on\nappeal, reversed an order of acquittal of an accused person and convicted him and sentenced him to death\nor to imprisonment for life or to imprisonment for a term of ten years or more, he may appeal to the Supreme\nCourt.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This gives a narrow but vital further appeal right: if a High Court, hearing an appeal against an acquittal, reverses that acquittal and itself convicts and sentences the accused to death, life imprisonment, or ten years or more, the accused may appeal that fresh conviction to the Supreme Court -- recognizing that going from acquitted to severely sentenced in a single appellate step is a significant enough reversal of fortune to warrant one more level of review.",
+        "essential_elements": [
+          "Applies where the High Court, on appeal, reverses an acquittal and itself convicts the accused.",
+          "Applies only where the resulting sentence is death, life imprisonment, or imprisonment of ten years or more.",
+          "The accused may then appeal to the Supreme Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is distinct from section 415(1)'s extraordinary-original-jurisdiction route to the Supreme Court -- section 420 is specifically about a High Court's appellate reversal of an acquittal into a severe sentence, a scenario worth flagging immediately to any client facing such a reversal, since the Supreme Court appeal window and procedure differ from an ordinary High Court appeal."
       }
     }
   ]
