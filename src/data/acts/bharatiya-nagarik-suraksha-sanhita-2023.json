@@ -9,7 +9,7 @@
     "bailable offence": "An offence shown as bailable in the First Schedule, or made bailable by any other law in force.",
     "non-bailable offence": "Any offence that is not a bailable offence.",
     "bail bond": "An undertaking for release supported by surety, as defined in Section 2(1)(d).",
-    "bond": "A personal undertaking for release without surety, as defined in Section 2(1)(e).",
+    "bond": "A written undertaking, with or without sureties, by which a person binds themselves to appear before a court or officer when required, or to perform some other stated obligation.",
     "charge": "Includes any head of charge when the charge contains more than one head.",
     "cognizable offence": "An offence for which a police officer may arrest without a warrant and start an investigation without prior permission of a Magistrate — typically the more serious category of offence, as classified in the First Schedule to this Sanhita.",
     "cognizable case": "A case involving a cognizable offence.",
@@ -30,7 +30,7 @@
     "police station": "Any post or place declared by the State Government to be a police station, including any local area so specified.",
     "public prosecutor": "A law officer appointed by the Central or State Government to conduct prosecutions, appeals, or other proceedings on the government's behalf in the High Court or a district.",
     "sub-division": "A territorial sub-unit of a district, created by the State Government after consultation with the High Court.",
-    "summons-case": "A case relating to an offence that is not a warrant-case.",
+    "summons-case": "A case relating to an offence not punishable with death, imprisonment for life, or imprisonment exceeding two years, triable by the simpler summons procedure rather than the warrant procedure.",
     "victim": "A person who has suffered loss or injury from an offence, including the guardian or legal heir of such a person.",
     "warrant-case": "A case relating to an offence punishable with death, imprisonment for life, or imprisonment exceeding two years.",
     "construction of references": "The interpretive rule for how references to undefined terms in other laws are to be read under this Sanhita.",
@@ -108,7 +108,7 @@
     "contracting state": "A foreign State with which India has reciprocal arrangements for legal assistance in criminal matters, as governed by Chapter VIII, relevant to cross-border identification and forfeiture of a proclaimed person's property under Section 86.",
     "net proceeds": "The amount realised from the sale of attached property after deducting all costs incurred as a consequence of the attachment, as restored to a person under Section 88(3).",
     "digital evidence": "Evidence in electronic form, including data stored on or transmitted by communication devices, expressly covered by the production-summons power under Section 94.",
-    "search-warrant": "A written authorisation issued by a Court or Magistrate permitting a specified person (typically a police officer) to enter and search a place for documents, things, or persons, subject to the general provisions of Sections 96-104.",
+    "search-warrant": "A written order issued by a court or magistrate authorising a named person to search a specified place for specified items and, if found, to seize them.",
     "proceeds of crime": "Property derived or obtained, directly or indirectly, as a result of criminal activity or the commission of an offence, liable to attachment, forfeiture, or victim-restitution under Section 107.",
     "show cause": "A formal notice requiring a person to explain, within a specified period (14 days under Section 107), why an adverse order (such as attachment) should not be made against them.",
     "ex parte order": "An order made by a Court after hearing only one side, typically because the other party failed to appear or respond despite being given the opportunity.",
@@ -145,7 +145,9 @@
     "forensic expert": "A trained specialist in scientific crime-scene examination (e.g., fingerprints, DNA, ballistics, trace evidence) whose visit to the crime scene is now mandatory under section 176(3) for offences punishable with seven years' imprisonment or more, to collect and preserve forensic evidence, videographed as part of the process.",
     "confession": "A statement made by an accused person admitting guilt or acknowledging incriminating facts about an offence, which — if recorded voluntarily before a Magistrate under section 183, with the required warnings and safeguards — may be used as evidence against the maker at trial.",
     "self-incrimination": "The constitutional and evidentiary protection (reflected in section 180(2) and Article 20(3) of the Constitution) that a person questioned during investigation cannot be compelled to answer questions whose answers would expose them to a criminal charge, penalty, or forfeiture.",
-    "examination-in-chief": "The first stage of questioning a witness at trial, conducted by the party who called that witness, before the witness is cross-examined by the opposing side. Under section 183(6)(b), a disabled victim's pre-recorded statement can substitute for a live examination-in-chief."
+    "examination-in-chief": "The first stage of questioning a witness at trial, conducted by the party who called that witness, before the witness is cross-examined by the opposing side. Under section 183(6)(b), a disabled victim's pre-recorded statement can substitute for a live examination-in-chief.",
+    "case-diary": "The day-to-day record a police officer is required to maintain of the proceedings in an investigation, including grounds of belief, steps taken, and reasoning.",
+    "remand": "A Magistrate's order authorising the continued custody (police or judicial) of a person already arrested, pending further investigation or trial."
   },
   "sections": [
     {
@@ -4309,6 +4311,170 @@
           "The 24-hour and 7-day timelines are directed at ensuring evidence is not lost to delay, but do not themselves validate an examination conducted without consent"
         ],
         "how_to_read": "Section 184 is a frequently-relied-on provision in sexual-offence trials, both for its evidentiary value (DNA profiling, injury documentation) and for procedural challenges (was consent genuinely obtained and recorded, was the 24-hour window honoured, was the report sufficiently detailed and reasoned). Cross-reference section 51's definitions of 'examination' and 'registered medical practitioner' for the precise scope of who may conduct this examination and what it may involve."
+      }
+    },
+    {
+      "number": "185",
+      "title": "Search by police officer",
+      "raw_text": "185. Search by police officer.—(1) Whenever an officer in charge of a police station or a police officer\n    making an investigation has reasonable grounds for believing that anything necessary for the purposes of\n    an investigation into any offence which he is authorised to investigate may be found in any place within the\n    limits of the police station of which he is in charge, or to which he is attached, and that such thing cannot\n    in his opinion be otherwise obtained without undue delay, such officer may, after recording in writing the\n    grounds of his belief in the case-diary and specifying in such writing, so far as possible, the thing for which\n    search is to be made, search, or cause search to be made, for such thing in any place within the limits of\n    such station.\n    (2) A police officer proceeding under sub-section (1), shall, if practicable, conduct the search in person:\n    Provided that the search conducted under this section shall be recorded through audio-video electronic\n    means preferably by mobile phone.\n    (3) If he is unable to conduct the search in person, and there is no other person competent to make the\n    search present at the time, he may, after recording in writing his reasons for so doing, require any officer\n    subordinate to him to make the search, and he shall deliver to such subordinate officer an order in writing,\n    specifying the place to be searched, and so far as possible, the thing for which search is to be made; and\n    such subordinate officer may thereupon search for such thing in such place.\n    (4) The provisions of this Sanhita as to search-warrants and the general provisions as to searches\n    contained in section 103 shall, so far as may be, apply to a search made under this section.\n    (5) Copies of any record made under sub-section (1) or sub-section (3) shall forthwith, but not later\n    than forty-eight hours, be sent to the nearest Magistrate empowered to take cognizance of the offence, and\n    the owner or occupier of the place searched shall, on application, be furnished, free of cost, with a copy of\n    the same by the Magistrate.",
+      "key_terms": [
+        "search",
+        "case-diary",
+        "search-warrant",
+        "investigation"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the police's own power to search a place for evidence during an investigation, without first getting a search-warrant from a court — but it comes wrapped in accountability requirements so the power isn't abused. An officer can search only within their own police-station area, only for something needed in an investigation they are authorised to conduct, and only if getting a warrant first would cause undue delay. Before searching, the officer must write down, in the case-diary, why they believe the thing is there and what they're looking for — a paper trail created before the fact, not invented afterward to justify it. The officer should search in person if at all possible, and under the new BNSS regime the search itself must be filmed, preferably on a mobile phone. If the officer genuinely cannot go in person and no one else suitable is around, they can delegate the search in writing to a subordinate. Ordinary search procedure (like the requirement for independent witnesses under section 103) still applies. And within 48 hours, copies of the search record must reach a Magistrate, who must give the owner or occupier of the searched place a free copy on request.",
+        "essential_elements": [
+          "Officer in charge of a police station, or an officer making an investigation, may search",
+          "Search must be within the limits of that officer's own police station",
+          "Reasonable grounds to believe the thing sought is at that place, needed for an authorised investigation",
+          "The thing cannot otherwise be obtained without undue delay",
+          "Grounds of belief and the thing sought must be recorded in writing in the case-diary before the search",
+          "Search should be conducted in person if practicable, and must be recorded by audio-video means (preferably mobile phone)",
+          "If unable to search in person, may delegate in writing to a subordinate officer, recording reasons",
+          "General search-warrant and section 103 search provisions apply so far as may be",
+          "Copies of the search record must reach the nearest Magistrate within 48 hours",
+          "Owner/occupier of the searched place entitled to a free copy of the record from the Magistrate"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a warrantless search power — it substitutes for, rather than requires, a judicial search-warrant, which is precisely why the writing-first and audio-video-recording safeguards exist.",
+          "The 48-hour reporting deadline to the Magistrate is a hard outer limit; the audio-video recording requirement is a newer procedural safeguard not present in the old CrPC.",
+          "Delegation to a subordinate is permitted only when the officer genuinely cannot search in person and no other competent person is present — it isn't a free choice."
+        ],
+        "how_to_read": "Read sub-section (1) as the trigger conditions (reasonable grounds + urgency), sub-section (2)'s proviso as the new mandatory videography safeguard, sub-section (3) as the narrow delegation exception, and sub-sections (4)-(5) as tying this power back into the Sanhita's general search machinery and building in judicial oversight after the fact."
+      }
+    },
+    {
+      "number": "186",
+      "title": "When officer in charge of police station may require another to issue search-warrant",
+      "raw_text": "186. When officer in charge of police station may require another to issue search-warrant.—(1)\n    An officer in charge of a police station or a police officer not being below the rank of sub-inspector making\n    an investigation may require an officer in charge of another police station, whether in the same or a different\n    district, to cause a search to be made in any place, in any case in which the former officer might cause such\n    search to be made, within the limits of his own station.\n    (2) Such officer, on being so required, shall proceed according to the provisions of section 185, and\n    shall forward the thing found, if any, to the officer at whose request the search was made.\n    (3) Whenever there is reason to believe that the delay occasioned by requiring an officer in charge of\n    another police station to cause a search to be made under sub-section (1) might result in evidence of the\n    commission of an offence being concealed or destroyed, it shall be lawful for an officer in charge of a police\n    station or a police officer making any investigation under this Chapter to search, or cause to be searched,\n    any place in the limits of another police station in accordance with the provisions of section 185, as if such\n    place were within the limits of his own police station.\n    (4) Any officer conducting a search under sub-section (3) shall forthwith send notice of the search to\n    the officer in charge of the police station within the limits of which such place is situate, and shall also\n    send with such notice a copy of the list (if any) prepared under section 103, and shall also send to the\n    nearest Magistrate empowered to take cognizance of the offence, copies of the records referred to in sub-\n    sections (1) and (3) of section 185.\n    (5) The owner or occupier of the place searched shall, on application, be furnished free of cost with a\n    copy of any record sent to the Magistrate under sub-section (4).",
+      "key_terms": [
+        "search",
+        "cross-jurisdiction",
+        "case-diary"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 185 only lets an officer search within their own police-station limits. This section bridges that gap for cases where the evidence sought is in a different station's territory — even a different district. Ordinarily, the investigating officer should ask the officer in charge of that other station to do the search on their behalf, under the same section 185 procedure, and hand over anything found. But where waiting for that request-and-response process risks the evidence being destroyed or hidden, the investigating officer is allowed to just go and search the other station's territory directly, as though it were their own — with extra notice obligations afterward (to the local station and to the Magistrate) to keep everyone informed and accountable.",
+        "essential_elements": [
+          "Default rule: officer in charge (or an investigating officer of sub-inspector rank or above) may ask another station's officer-in-charge to search on their behalf",
+          "The requested officer follows section 185's procedure and forwards anything found to the requesting officer",
+          "Urgency exception: if delay in going through the other station risks concealment/destruction of evidence, the investigating officer may search that other station's area directly",
+          "Direct search under the urgency exception still follows section 185's procedure",
+          "Officer conducting a direct search must forthwith notify the local station-in-charge and send the Magistrate copies of the relevant records",
+          "Owner/occupier of the searched place is entitled to a free copy of the record sent to the Magistrate"
+        ],
+        "exceptions_and_qualifications": [
+          "The urgency/direct-search route under sub-section (3) is an exception to the ordinary request-based procedure, not a substitute for it in every case — it applies only where waiting genuinely risks loss of evidence.",
+          "Even when searching directly under sub-section (3), the officer must still follow section 185's own safeguards (writing, recording, etc.) as if the place were within their own station."
+        ],
+        "how_to_read": "Read sub-section (1)-(2) as the ordinary cooperative procedure between stations, and sub-section (3) as the emergency carve-out, with sub-sections (4)-(5) as the notice-and-transparency obligations that apply specifically when the emergency carve-out is used."
+      }
+    },
+    {
+      "number": "187",
+      "title": "Procedure when investigation cannot be completed in twenty-four hours",
+      "raw_text": "187. Procedure when investigation cannot be completed in twenty-four hours.—(1) Whenever any\n    person is arrested and detained in custody, and it appears that the investigation cannot be completed within\n    the period of twenty-four hours fixed by section 58, and there are grounds for believing that the accusation\n    or information is well-founded, the officer in charge of the police station or the police officer making the\n    investigation, if he is not below the rank of sub-inspector, shall forthwith transmit to the nearest Magistrate\n    a copy of the entries in the diary hereinafter specified relating to the case, and shall at the same time forward\n    the accused to such Magistrate.\n    (2) The Magistrate to whom an accused person is forwarded under this section may, irrespective of\n    whether he has or has no jurisdiction to try the case, after taking into consideration whether such person\n    has not been released on bail or his bail has been cancelled, authorise, from time to time, the detention of\n    the accused in such custody as such Magistrate thinks fit, for a term not exceeding fifteen days in the whole,\n    or in parts, at any time during the initial forty days or sixty days out of detention period of sixty days or\n    ninety days, as the case may be, as provided in sub-section (3), and if he has no jurisdiction to try the case\n    or commit it for trial, and considers further detention unnecessary, he may order the accused to be forwarded\n    to a Magistrate having such jurisdiction.\n    (3) The Magistrate may authorise the detention of the accused person, beyond the period of fifteen days,\n    if he is satisfied that adequate grounds exist for doing so, but no Magistrate shall authorise the detention of\n    the accused person in custody under this sub-section for a total period exceeding—\n        (i) ninety days, where the investigation relates to an offence punishable with death, imprisonment\n    for life or imprisonment for a term of ten years or more;\n        (ii) sixty days, where the investigation relates to any other offence, and, on the expiry of the said\n    period of ninety days, or sixty days, as the case may be, the accused person shall be released on bail if\n    he is prepared to and does furnish bail, and every person released on bail under this sub-section shall\n    be deemed to be so released under the provisions of Chapter XXXV for the purposes of that Chapter.\n    (4) No Magistrate shall authorise detention of the accused in custody of the police under this section\n    unless the accused is produced before him in person for the first time and subsequently every time till the\n    accused remains in the custody of the police, but the Magistrate may extend further detention in judicial\n    custody on production of the accused either in person or through the audio-video electronic means.\n    (5) No Magistrate of the second class, not specially empowered in this behalf by the High Court, shall\n    authorise detention in the custody of the police.\n    Explanation I.—For the avoidance of doubts, it is hereby declared that, notwithstanding the expiry of\n    the period specified in sub-section (3), the accused shall be detained in custody so long as he does not\n    furnish bail.\n    Explanation II.—If any question arises whether an accused person was produced before the Magistrate\n    as required under sub-section (4), the production of the accused person may be proved by his signature on\n    the order authorising detention or by the order certified by the Magistrate as to production of the accused\n    person through the audio-video electronic means, as the case may be:\n    Provided that in case of a woman under eighteen years of age, the detention shall be authorised to be\n    in the custody of a remand home or recognised social institution:\n    Provided further that no person shall be detained otherwise than in police station under police custody\n    or in prison under judicial custody or a place declared as prison by the Central Government or the State\n    Government.\n    (6) Notwithstanding anything contained in sub-section (1) to sub-section (5), the officer in charge of\n    the police station or the police officer making the investigation, if he is not below the rank of a\n    sub-inspector, may, where a Magistrate is not available, transmit to the nearest Executive Magistrate, on\n    whom the powers of a Magistrate have been conferred, a copy of the entry in the diary hereinafter specified\n    relating to the case, and shall, at the same time, forward the accused to such Executive Magistrate, and\n    thereupon such Executive Magistrate, may, for reasons to be recorded in writing, authorise the detention of\n    the accused person in such custody as he may think fit for a term not exceeding seven days in the aggregate;\n    and, on the expiry of the period of detention so authorised, the accused person shall be released on bail\n    except where an order for further detention of the accused person has been made by a Magistrate competent\n    to make such order; and, where an order for such further detention is made, the period during which the\n    accused person was detained in custody under the orders made by an Executive Magistrate under this sub-\n    section, shall be taken into account in computing the period specified in sub-section (3):\n    Provided that before the expiry of the period aforesaid, the Executive Magistrate shall transmit to the\n    nearest Judicial Magistrate the records of the case together with a copy of the entries in the diary relating\n    to the case which was transmitted to him by the officer in charge of the police station or the police officer\n    making the investigation, as the case may be.\n    (7) A Magistrate authorising under this section detention in the custody of the police shall record his\n    reasons for so doing.\n    (8) Any Magistrate other than the Chief Judicial Magistrate making such order shall forward a copy of\n    his order, with his reasons for making it, to the Chief Judicial Magistrate.\n    (9) If in any case triable by a Magistrate as a summons-case, the investigation is not concluded within\n    a period of six months from the date on which the accused was arrested, the Magistrate shall make an order\n    stopping further investigation into the offence unless the officer making the investigation satisfies the\n    Magistrate that for special reasons and in the interests of justice the continuation of the investigation beyond\n    the period of six months is necessary.\n    (10) Where any order stopping further investigation into an offence has been made under\n    sub-section (9), the Sessions Judge may, if he is satisfied, on an application made to him or otherwise, that\n    further investigation into the offence ought to be made, vacate the order made under sub-section (9) and\n    direct further investigation to be made into the offence subject to such directions with regard to bail and\n    other matters as he may specify.",
+      "key_terms": [
+        "remand",
+        "police custody",
+        "judicial custody",
+        "bail",
+        "summons-case",
+        "Executive Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the remand section — the backbone of how long a person can be kept in custody while police finish investigating. Section 58 gives police only 24 hours to produce an arrested person before a Magistrate; if the investigation needs more time, this section takes over. The officer must forward the accused, with case-diary extracts, to the nearest Magistrate, who can authorise custody (police or judicial) in blocks of up to 15 days at a time. But total police custody plus judicial custody together is capped — 90 days for the most serious offences (death, life imprisonment, or 10+ years) and 60 days for everything else. Once that outer cap is hit, the accused becomes entitled to bail as of right (so-called 'default bail'), regardless of the merits of the case. Crucial safeguards run throughout: the accused must be physically produced (or produced by video) each time custody is extended; second-class Magistrates can't authorise police custody without special High Court empowerment; a woman under 18 in custody must go to a remand home, not a jail; and if no Magistrate is available, an Executive Magistrate can grant a short-term 7-day custody as a stopgap, with the case then routed to a proper Judicial Magistrate. Sub-sections (9)-(10) add a separate check for minor (summons-triable) cases: if such an investigation drags past six months, the Magistrate must order it stopped unless there's a special-reasons justification — though a Sessions Judge can later revive it.",
+        "essential_elements": [
+          "Triggered when arrest-to-24-hour deadline (section 58) can't be met and the investigation must continue",
+          "Officer (sub-inspector rank or above) must transmit case-diary entries and produce the accused before the nearest Magistrate",
+          "Magistrate may authorise detention in blocks up to 15 days at a time, within an overall scheme",
+          "Total detention capped at 90 days for offences punishable with death/life/10+ years imprisonment, 60 days for other offences",
+          "On expiry of the applicable cap, the accused is entitled to bail as of right if willing and able to furnish it (default bail)",
+          "Physical (or, for judicial custody, audio-video) production of the accused required at every extension of police custody",
+          "Only first-class (or specially empowered second-class) Magistrates may authorise police custody",
+          "Woman under 18 must be detained in a remand home or recognised social institution, not ordinary custody",
+          "Detention only in a police station (police custody), prison, or a place declared a prison — no informal detention sites",
+          "Fallback: Executive Magistrate may grant up to 7 days' custody when no Magistrate is available, later routed to a Judicial Magistrate",
+          "Magistrate must record reasons for authorising custody; non-Chief Judicial Magistrates must report their orders to the Chief Judicial Magistrate",
+          "For summons-triable cases, investigation must conclude within 6 months or be stopped absent special-reasons justification; a Sessions Judge may later revive it"
+        ],
+        "exceptions_and_qualifications": [
+          "The 90-day/60-day caps are absolute ceilings on custody pending investigation, not targets — once hit, bail becomes a right, not a discretion (subject to actually furnishing the bail bond, per Explanation I).",
+          "Executive Magistrate custody under sub-section (6) is a narrow, time-limited stopgap (7 days max) for when no Judicial/regular Magistrate is reachable, not a parallel remand track.",
+          "The six-month investigation-stopping rule in sub-sections (9)-(10) applies only to summons-triable cases, not to warrant-triable or serious offences covered by the 60/90-day scheme."
+        ],
+        "how_to_read": "This is a dense, high-stakes bail/remand provision. Read sub-section (1) as the trigger, (2)-(3) as the custody-authorisation and default-bail scheme (the most litigated part), (4)-(5) as production and Magistrate-rank safeguards, the Explanations and provisos as clarifications and protections (especially for women under 18), (6) as the Executive Magistrate stopgap, (7)-(8) as accountability/reporting duties, and (9)-(10) as the separate six-month rule for minor cases."
+      }
+    },
+    {
+      "number": "188",
+      "title": "Report of investigation by subordinate police officer",
+      "raw_text": "188. Report of investigation by subordinate police officer.—When any subordinate police officer\n    has made any investigation under this Chapter, he shall report the result of such investigation to the officer\n    in charge of the police station.",
+      "key_terms": [
+        "investigation",
+        "officer in charge"
+      ],
+      "breakdown": {
+        "plain_summary": "A simple internal reporting rule: if a subordinate officer (not the station house officer) carried out the investigation, they must report what they found back to the officer in charge of the station, who remains the responsible point of contact for the case going forward (including for the section 173 FIR record and the eventual report to the Magistrate under sections 189-190).",
+        "essential_elements": [
+          "Applies whenever a subordinate police officer (not the officer in charge) conducts the investigation",
+          "That subordinate officer must report the result to the officer in charge of the police station"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short administrative-chain-of-command provision — read it as connective tissue between the various investigating officers who might act under this Chapter and the single officer-in-charge who remains accountable for the case."
+      }
+    },
+    {
+      "number": "189",
+      "title": "Release of accused when evidence deficient",
+      "raw_text": "189. Release of accused when evidence deficient.—If, upon an investigation under this Chapter, it\n    appears to the officer in charge of the police station that there is not sufficient evidence or reasonable round\n    of suspicion to justify the forwarding of the accused to a Magistrate, such officer shall, if such person is in\n    custody, release him on his executing a bond or bail bond, as such officer may direct, to appear, if and when\n    so required, before a Magistrate empowered to take cognizance of the offence on a police report, and to try\n    the accused or commit him for trial.",
+      "key_terms": [
+        "bond",
+        "bail bond",
+        "sufficient evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "If, after investigating, the police conclude there isn't enough evidence or reasonable suspicion to actually put the case before a Magistrate, they cannot simply keep holding the accused. Anyone still in custody must be released — but not unconditionally: they must first execute a bond (with or without sureties, i.e., a bail bond) promising to show up before a Magistrate later if required. This keeps the door open in case further evidence surfaces, without keeping a person in jail on a weak case.",
+        "essential_elements": [
+          "Applies where, after investigation, the officer in charge finds insufficient evidence or reasonable ground of suspicion",
+          "Only engages if the accused is currently in custody",
+          "Release must be conditioned on executing a bond or bail bond as the officer directs",
+          "The bond obliges appearance before a Magistrate if and when later required"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a police-level release, not a judicial acquittal or discharge — it doesn't bar future proceedings if fresh evidence emerges; the bond exists precisely so the person can be recalled."
+        ],
+        "how_to_read": "Pair this with section 190 as the two possible endpoints of a completed investigation: insufficient evidence leads here (conditional release), sufficient evidence leads to section 190 (forwarding to a Magistrate)."
+      }
+    },
+    {
+      "number": "190",
+      "title": "Cases to be sent to Magistrate, when evidence is sufficient",
+      "raw_text": "190. Cases to be sent to Magistrate, when evidence is sufficient.—(1) If, upon an investigation under\n    this Chapter, it appears to the officer in charge of the police station that there is sufficient evidence or\n    reasonable ground as aforesaid, such officer shall forward the accused under custody to a Magistrate\n    empowered to take cognizance of the offence upon a police report and to try the accused or commit him for\n    trial, or, if the offence is bailable and the accused is able to give security, shall take security from him for\n    his appearance before such Magistrate on a day fixed and for his attendance from day to day before such\n    Magistrate until otherwise directed:\n    Provided that if the accused is not in custody, the police officer shall take security from such person for\n    his appearance before the Magistrate and the Magistrate to whom such report is forwarded shall not refuse\n    to accept the same on the ground that the accused is not taken in custody.\n    (2) When the officer in charge of a police station forwards an accused person to a Magistrate or takes\n    security for his appearance before such Magistrate under this section, he shall send to such Magistrate any\n    weapon or other article which it may be necessary to produce before him, and shall require the complainant\n    (if any) and so many of the persons who appear to such officer to be acquainted with the facts and\n    circumstances of the case as he may think necessary, to execute a bond to appear before the Magistrate as\n    thereby directed and prosecute or give evidence (as the case may be) in the matter of the charge against the\n    accused.\n    (3) If the Court of the Chief Judicial Magistrate is mentioned in the bond, such Court shall be held to\n    include any Court to which such Magistrate may refer the case for inquiry or trial, provided reasonable\n    notice of such reference is given to such complainant or persons.\n    (4) The officer in whose presence the bond is executed shall deliver a copy thereof to one of the persons\n    who executed it, and shall then send to the Magistrate the original with his report.",
+      "key_terms": [
+        "sufficient evidence",
+        "bond",
+        "security",
+        "complainant",
+        "bailable offence"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the mirror image of section 189: where the investigation does turn up sufficient evidence or reasonable ground, the case must move forward to a Magistrate rather than being closed at the police level. If the offence is not bailable, the accused is forwarded in custody. If it is bailable and the accused can give security, they're released on that security instead, bound to keep appearing before the Magistrate — and this security route is available even if the accused isn't in custody at all (the Magistrate can't refuse to accept it just because the person was never held). Alongside the accused, the police must also send any physical evidence (weapons, articles) that will be needed in court, and bind the complainant and key witnesses by bond to show up and give evidence or prosecute when the case is called — otherwise the prosecution's own witnesses might simply not appear.",
+        "essential_elements": [
+          "Applies where investigation reveals sufficient evidence or reasonable ground of suspicion",
+          "Non-bailable offences: accused forwarded to Magistrate in custody",
+          "Bailable offences: accused may instead be released on security to appear before the Magistrate",
+          "Security route available even for an accused not in custody — Magistrate cannot refuse it on that ground",
+          "Officer must send to the Magistrate any weapons/articles needed as evidence",
+          "Complainant and material witnesses must be bound by bond to appear and prosecute/give evidence",
+          "Bonds naming the Chief Judicial Magistrate's Court extend to any court that Magistrate refers the case to, with notice to the bound persons",
+          "A copy of the executed bond goes to the person who executed it; the original goes to the Magistrate with the officer's report"
+        ],
+        "exceptions_and_qualifications": [
+          "The 'not in custody' proviso is significant — it means a person who was never arrested, but is implicated by sufficient investigation evidence, can still be brought into the process via a security bond rather than arrest."
+        ],
+        "how_to_read": "Read this as the standard closing act of a completed investigation with a positive result: accused (or security) forwarded, evidence forwarded, witnesses bound — everything needed to actually commence proceedings before the Magistrate is assembled in one section."
       }
     }
   ]
