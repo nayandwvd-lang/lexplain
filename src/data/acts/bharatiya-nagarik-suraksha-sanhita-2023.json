@@ -86,9 +86,9 @@
     "armed forces of the union": "The military forces of the Union of India, whose members enjoy a special protection from arrest for official-duty acts absent Central Government consent.",
     "submission to custody": "An arrested person's acknowledgment of arrest by word or conduct, which may substitute for actual physical touch or confinement.",
     "free ingress": "Unobstructed entry into a place, which an occupier must afford to an arresting officer or warrant-holder on demand.",
-    "registered medical practitioner": "A medical practitioner holding a medical qualification recognised under the National Medical Commission Act, 2019, whose name is entered in the National Medical Register or a State Medical Register.",
+    "registered medical practitioner": "A medical practitioner who holds a recognised medical qualification and is enrolled on a State or National Medical Register — as defined in section 51, and required to conduct the medical examination of a rape victim under section 184.",
     "medical officer": "A doctor in the service of the Central Government or a State Government, the primary examiner responsible for checking every arrested person's physical condition soon after arrest under Section 53.",
-    "dna profiling": "A modern forensic technique for identifying individuals from biological material (blood, semen, hair, etc.), expressly included within 'examination' for the purposes of Sections 51 to 53.",
+    "dna profiling": "A forensic technique for identifying an individual from biological material (such as blood, hair, or bodily fluids) by analysing distinctive patterns in their DNA — routinely used in sexual offence investigations, including the medical examination under section 184.",
     "twenty-four hours": "The maximum period, exclusive of journey time to the Magistrate's Court, that a person arrested without warrant may be held in police custody without a Magistrate's special order under Section 187 (Section 58).",
     "special order": "A specific judicial order by a Magistrate under Section 187 authorising continued police custody of an arrested person beyond the ordinary 24-hour limit.",
     "lawful custody": "Custody that is legally authorised — for example, custody following a valid arrest or under a court order — as distinguished from unlawful detention.",
@@ -142,7 +142,10 @@
     "first information report": "Commonly abbreviated FIR — the written record an officer in charge of a police station makes under section 173 of information about a cognizable offence, whether given orally or by electronic communication, which sets the investigation machinery in motion.",
     "prima facie case": "A case that, on the face of the material available, appears to disclose sufficient grounds to proceed further — not a final finding of guilt, but enough to justify continuing an inquiry, preliminary enquiry, or investigation.",
     "public servant": "A person holding a public office or performing public duties, as defined for criminal-law purposes in the Bharatiya Nyaya Sanhita, 2023 — includes government officials, and receives special procedural protections, such as the sanction requirement before prosecution and the safeguards in section 175(4) before a Magistrate can order investigation of a complaint against one arising from official duties.",
-    "forensic expert": "A trained specialist in scientific crime-scene examination (e.g., fingerprints, DNA, ballistics, trace evidence) whose visit to the crime scene is now mandatory under section 176(3) for offences punishable with seven years' imprisonment or more, to collect and preserve forensic evidence, videographed as part of the process."
+    "forensic expert": "A trained specialist in scientific crime-scene examination (e.g., fingerprints, DNA, ballistics, trace evidence) whose visit to the crime scene is now mandatory under section 176(3) for offences punishable with seven years' imprisonment or more, to collect and preserve forensic evidence, videographed as part of the process.",
+    "confession": "A statement made by an accused person admitting guilt or acknowledging incriminating facts about an offence, which — if recorded voluntarily before a Magistrate under section 183, with the required warnings and safeguards — may be used as evidence against the maker at trial.",
+    "self-incrimination": "The constitutional and evidentiary protection (reflected in section 180(2) and Article 20(3) of the Constitution) that a person questioned during investigation cannot be compelled to answer questions whose answers would expose them to a criminal charge, penalty, or forfeiture.",
+    "examination-in-chief": "The first stage of questioning a witness at trial, conducted by the party who called that witness, before the witness is cross-examined by the opposing side. Under section 183(6)(b), a disabled victim's pre-recorded statement can substitute for a live examination-in-chief."
   },
   "sections": [
     {
@@ -4141,6 +4144,171 @@
           "This is a discretionary menu, not a mandatory sequence — the Magistrate chooses whichever path fits the case, informed by the nature and quality of the report received"
         ],
         "how_to_read": "This closing section of the sub-batch is the magisterial counterpart to the police's investigative powers in sections 175-176 — it confirms that judicial oversight sits above the police investigation from the very outset, with the Magistrate free to test, redirect, or independently inquire into the case as he judges appropriate."
+      }
+    },
+    {
+      "number": "179",
+      "title": "Police officer's power to require attendance of witnesses",
+      "raw_text": "179. Police officer's power to require attendance of witnesses.—(1) Any police officer making an\ninvestigation under this Chapter may, by order in writing, require the attendance before himself of any\nperson being within the limits of his own or any adjoining station who, from the information given or\notherwise, appears to be acquainted with the facts and circumstances of the case; and such person shall\nattend as so required:\n    Provided that no male person under the age of fifteen years or above the age of sixty years or a woman\nor a mentally or physically disabled person or a person with acute illness shall be required to attend at any\nplace other than the place in which such person resides:\n    Provided further that if such person is willing to attend at the police station, such person may be\npermitted so to do.\n    (2) The State Government may, by rules made in this behalf, provide for the payment by the police\nofficer of the reasonable expenses of every person, attending under sub-section (1) at any place other than\nhis residence.",
+      "key_terms": [
+        "require attendance of witnesses",
+        "written order",
+        "protected categories",
+        "reasonable expenses"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives an investigating officer a compulsory power to summon witnesses — anyone within his own or a neighbouring police station's area who appears, from the information available, to know something about the case can be ordered in writing to attend before him, and that person is legally obliged to comply. But there's a significant protective carve-out: certain vulnerable categories — boys under 15, men over 60, women of any age, mentally or physically disabled persons, and people with acute illness — cannot be compelled to attend anywhere except their own place of residence; the police must go to them instead. That said, if such a protected person is themselves willing to come to the police station, they're allowed to. Sub-section (2) adds a fairness mechanism: the State Government can make rules requiring the police to pay reasonable expenses to anyone who has to attend somewhere other than their own residence.",
+        "essential_elements": [
+          "Applies to any police officer conducting an investigation under this Chapter",
+          "The order requiring attendance must be in writing",
+          "It can reach any person within the investigating officer's own station or an adjoining station who appears acquainted with the facts",
+          "Protected categories — males under 15 or over 60, women, mentally/physically disabled persons, persons with acute illness — cannot be required to attend anywhere but their own residence",
+          "A protected person may still voluntarily choose to attend at the police station",
+          "The State Government may make rules for reimbursing reasonable expenses to attendees summoned away from their residence"
+        ],
+        "exceptions_and_qualifications": [
+          "The residence-only protection is mandatory, not discretionary for the police officer — it cannot be waived by the officer even for investigative convenience, only by the protected person's own willingness to attend elsewhere"
+        ],
+        "how_to_read": "This section balances the practical necessity of compelling witness cooperation against protecting vulnerable individuals from the burden and potential intimidation of police-station attendance — always check whether a witness falls into one of the protected categories before assuming compelled police-station attendance was proper."
+      }
+    },
+    {
+      "number": "180",
+      "title": "Examination of witnesses by police",
+      "raw_text": "180. Examination of witnesses by police.—(1) Any police officer making an investigation under this\nChapter, or any police officer not below such rank as the State Government may, by general or special\norder, prescribe in this behalf, acting on the requisition of such officer, may examine orally any person\nsupposed to be acquainted with the facts and circumstances of the case.\n    (2) Such person shall be bound to answer truly all questions relating to such case put to him by such\nofficer, other than questions the answers to which would have a tendency to expose him to a criminal charge\nor to a penalty or forfeiture.\n    (3) The police officer may reduce into writing any statement made to him in the course of an\nexamination under this section; and if he does so, he shall make a separate and true record of the statement\nof each such person whose statement he records:\n    Provided that statement made under this sub-section may also be recorded by audio-video electronic\nmeans:\n    Provided further that the statement of a woman against whom an offence under section 64, section 65,\nsection 66, section 67, section 68, section 69, section 70, section 71, section 74, section 75, section 76,\nsection 77, section 78, section 79 or section 124 of the Bharatiya Nyaya Sanhita, 2023 is alleged to have\nbeen committed or attempted, shall be recorded, by a woman police officer or any woman officer.",
+      "key_terms": [
+        "orally examine",
+        "bound to answer truly",
+        "self-incrimination",
+        "separate and true record",
+        "audio-video electronic means"
+      ],
+      "breakdown": {
+        "plain_summary": "This authorizes police to interview witnesses during investigation — the investigating officer, or an officer of sufficient rank acting on that officer's requisition, can orally examine anyone thought to know something about the case. Sub-section (2) imposes a genuine legal duty to answer truthfully, but with a crucial constitutional-flavoured exception: the person cannot be compelled to answer questions whose answers would tend to incriminate them (expose them to a criminal charge, penalty, or forfeiture) — this is the statutory embodiment of the privilege against self-incrimination at the investigation stage. If the officer chooses to write down what's said, he must keep a separate, accurate record for each individual person examined; this can also be done by audio-video electronic means. And, continuing the protective pattern seen in sections 173 and 176, the statement of a woman alleging one of the listed sexual offences against her must specifically be recorded by a woman officer.",
+        "essential_elements": [
+          "Applies to the investigating officer, or another officer of a State-Government-prescribed rank acting on that officer's requisition",
+          "The examination is oral, of any person supposed to be acquainted with the case's facts and circumstances",
+          "The examinee is bound to answer truly, except questions tending to self-incriminate (criminal charge, penalty, or forfeiture)",
+          "If a statement is reduced to writing, a separate, true record must be kept for each person examined",
+          "Statements may also be recorded via audio-video electronic means",
+          "A woman's statement, where she alleges one of the specified sexual offences, must be recorded by a woman officer"
+        ],
+        "exceptions_and_qualifications": [
+          "The self-incrimination exception is the central safeguard of this section — it exists precisely because sub-section (1)'s examination is unsworn, informal, and conducted outside a Magistrate's presence, unlike the confession-recording process of section 183"
+        ],
+        "how_to_read": "This section is the everyday workhorse of witness examination during investigation, and its statements are governed by the important use-restriction in section 181 immediately following — always read the two together, since what's said here cannot simply be treated as courtroom testimony without going through section 181's filter."
+      }
+    },
+    {
+      "number": "181",
+      "title": "Statements to police and use thereof",
+      "raw_text": "181. Statements to police and use thereof.—(1) No statement made by any person to a police officer\nin the course of an investigation under this Chapter, shall, if reduced to writing, be signed by the person\nmaking it; nor shall any such statement or any record thereof, whether in a police diary or otherwise, or any\npart of such statement or record, be used for any purpose, save as hereinafter provided, at any inquiry or\ntrial in respect of any offence under investigation at the time when such statement was made:\n    Provided that when any witness is called for the prosecution in such inquiry or trial whose statement\nhas been reduced into writing as aforesaid, any part of his statement, if duly proved, may be used by the\naccused, and with the permission of the Court, by the prosecution, to contradict such witness in the manner\nprovided by section 148 of the Bharatiya Sakshya Adhiniyam, 2023; and when any part of such statement\nis so used, any part thereof may also be used in the re-examination of such witness, but for the purpose only\nof explaining any matter referred to in his cross-examination.\n    (2) Nothing in this section shall be deemed to apply to any statement falling within the provisions of\nclause (a) of section 26 of the Bharatiya Sakshya Adhiniyam, 2023; or to affect the provisions of the proviso\nto sub-section (2) of section 23 of that Adhiniyam.\n    Explanation.—An omission to state a fact or circumstance in the statement referred to in\nsub-section (1) may amount to contradiction if the same appears to be significant and otherwise relevant\nhaving regard to the context in which such omission occurs and whether any omission amounts to a\ncontradiction in the particular context shall be a question of fact.",
+      "key_terms": [
+        "not to be signed",
+        "used only to contradict",
+        "prior contradictory statement",
+        "omission as contradiction"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a foundational evidentiary safeguard: a statement made to police during investigation (a 'section 180 statement') is not signed by the person making it, and — critically — cannot generally be used at trial as substantive evidence of what happened. Its use is confined almost entirely to one narrow purpose: contradicting the witness if they say something different in court than what they told police. The accused can always use it for this contradiction purpose; the prosecution can only do so with the court's permission. If part of the statement is used to contradict the witness, the opposing side can bring in other parts during re-examination, but only to explain the point raised in cross-examination — not to bootstrap the whole statement in as truth. Two exceptions preserve other evidentiary provisions: statements admissible under section 26(a) of the Bharatiya Sakshya Adhiniyam, 2023 (dying declarations, generally) and the proviso to section 23(2) of that Adhiniyam remain unaffected by this restriction. Finally, the Explanation makes clear that even a significant omission — something the witness left out when talking to police but includes at trial — can itself count as a 'contradiction' for these purposes, though whether it actually does is a fact-specific question.",
+        "essential_elements": [
+          "A statement to police during investigation is not signed by its maker",
+          "As a general rule, it (or any part or record of it) cannot be used at the inquiry or trial for the offence under investigation, except as this section itself permits",
+          "Exception: where the maker becomes a prosecution witness, any duly proved part may be used by the accused (freely) or by the prosecution (with court permission) to contradict that witness, per section 148 of the Bharatiya Sakshya Adhiniyam, 2023",
+          "Where such contradiction is used, the statement may also be used in re-examination, but only to explain matters raised in cross-examination",
+          "Dying-declaration-type statements under BSA section 26(a), and the proviso to BSA section 23(2), are unaffected by this restriction",
+          "A significant, relevant omission in the police statement may itself amount to a contradiction, as a question of fact"
+        ],
+        "exceptions_and_qualifications": [
+          "This is the codified rule against treating police statements as substantive trial evidence — a core protection against convictions being built on unsworn, unsigned, non-cross-examined investigative statements",
+          "The contradiction mechanism is asymmetric: the accused's use of it is unrestricted, while the prosecution needs the court's specific permission"
+        ],
+        "how_to_read": "This section is central to trial cross-examination strategy — the classic move of confronting a prosecution witness with what they told the police versus what they now say in court operates through this exact mechanism. Always check whether an omission being relied on is genuinely significant enough to count as a contradiction, since that determination is fact-specific under the Explanation."
+      }
+    },
+    {
+      "number": "182",
+      "title": "No inducement to be offered",
+      "raw_text": "182. No inducement to be offered.—(1) No police officer or other person in authority shall offer or\nmake, or cause to be offered or made, any such inducement, threat or promise as is mentioned in\nsection 22 of the Bharatiya Sakshya Adhiniyam, 2023.\n    (2) But no police officer or other person shall prevent, by any caution or otherwise, any person from\nmaking in the course of any investigation under this Chapter any statement which he may be disposed to\nmake of his own free will:\n    Provided that nothing in this sub-section shall affect the provisions of sub-section (4) of section 183.",
+      "key_terms": [
+        "inducement, threat or promise",
+        "free will",
+        "caution"
+      ],
+      "breakdown": {
+        "plain_summary": "This section protects the voluntariness of statements made during investigation from both directions. First, it flatly bars police officers or anyone in authority from offering inducements, threats, or promises of the kind described in section 22 of the Bharatiya Sakshya Adhiniyam, 2023 (the evidence law's rule on what makes a confession involuntary and therefore inadmissible) — this protects against coerced statements. Second, and just as importantly, it prevents the opposite problem: police cannot use cautions or other means to stop someone from freely making a statement they genuinely want to make of their own accord. The proviso preserves section 183(4)'s specific procedure for confessions before a Magistrate (which does involve a formal caution that the person isn't bound to confess) — that separate, structured warning process isn't undermined by this section's general rule against discouraging voluntary statements.",
+        "essential_elements": [
+          "Prohibits police officers or persons in authority from offering inducement, threat, or promise as described in BSA section 22",
+          "Equally prohibits preventing a person from making a statement they are freely disposed to make, whether by caution or other means",
+          "The proviso preserves the distinct caution procedure specifically required under section 183(4) for Magistrate-recorded confessions"
+        ],
+        "exceptions_and_qualifications": [
+          "The two halves of this section work in opposite directions — sub-section (1) protects against coercion, sub-section (2) protects against improper suppression of a voluntary statement — and both serve the same underlying goal of ensuring statements genuinely reflect free will"
+        ],
+        "how_to_read": "This is a compact but important safeguard sitting between the general police-examination power (section 180) and the formal confession-recording procedure (section 183) — any confession or statement's admissibility can turn on whether this section's inducement/threat/promise prohibition, or its free-will protection, was honoured."
+      }
+    },
+    {
+      "number": "183",
+      "title": "Recording of confessions and statements",
+      "raw_text": "183. Recording of confessions and statements.—(1) Any Magistrate of the District in which the\ninformation about commission of any offence has been registered, may, whether or not he has jurisdiction\nin the case, record any confession or statement made to him in the course of an investigation under this\nChapter or under any other law for the time being in force, or at any time afterwards but before the\ncommencement of the inquiry or trial:\n    Provided that any confession or statement made under this sub-section may also be recorded by audio-\nvideo electronic means in the presence of the advocate of the person accused of an offence:\n    Provided further that no confession shall be recorded by a police officer on whom any power of a\nMagistrate has been conferred under any law for the time being in force.\n    (2) The Magistrate shall, before recording any such confession, explain to the person making it that he\nis not bound to make a confession and that, if he does so, it may be used as evidence against him; and the\nMagistrate shall not record any such confession unless, upon questioning the person making it, he has\nreason to believe that it is being made voluntarily.\n    (3) If at any time before the confession is recorded, the person appearing before the Magistrate states\nthat he is not willing to make the confession, the Magistrate shall not authorise the detention of such person\nin police custody.\n    (4) Any such confession shall be recorded in the manner provided in section 316 for recording the\nexamination of an accused person and shall be signed by the person making the confession; and the\nMagistrate shall make a memorandum at the foot of such record to the following effect:—\n        \"I have explained to (name) that he is not bound to make a confession and that, if he does so, any\n    confession he may make may be used as evidence against him and I believe that this confession was\n    voluntarily made. It was taken in my presence and hearing, and was read over to the person making it\n    and admitted by him to be correct, and it contains a full and true account of the statement made by him.\n                                                                                              (Signed) A. B.\n                                                                                                Magistrate.\".\n    (5) Any statement (other than a confession) made under sub-section (1) shall be recorded in such\nmanner hereinafter provided for the recording of evidence as is, in the opinion of the Magistrate, best fitted\nto the circumstances of the case; and the Magistrate shall have power to administer oath to the person whose\nstatement is so recorded.\n    (6) (a) In cases punishable under section 64, section 65, section 66, section 67, section 68, section 69,\nsection 70, section 71, section 74, section 75, section 76, section 77, section 78, section 79 or section 124\nof the Bharatiya Nyaya Sanhita, 2023, the Magistrate shall record the statement of the person against whom\nsuch offence has been committed in the manner specified in sub-section (5), as soon as the commission of\nthe offence is brought to the notice of the police:\n    Provided that such statement shall, as far as practicable, be recorded by a woman Magistrate and in her\nabsence by a male Magistrate in the presence of a woman:\n    Provided further that in cases relating to the offences punishable with imprisonment for ten years or\nmore or with imprisonment for life or with death, the Magistrate shall record the statement of the witness\nbrought before him by the police officer:\n    Provided also that if the person making the statement is temporarily or permanently, mentally or\nphysically disabled, the Magistrate shall take the assistance of an interpreter or a special educator in\nrecording the statement:\n    Provided also that if the person making the statement is temporarily or permanently, mentally or\nphysically disabled, the statement made by the person, with the assistance of an interpreter or a special\neducator, shall be recorded through audio-video electronic means preferably by mobile phone;\n    (b) a statement recorded under clause (a) of a person, who is temporarily or permanently, mentally or\nphysically disabled, shall be considered a statement in lieu of examination-in-chief, as specified in section\n142 of the Bharatiya Sakshya Adhiniyam, 2023 such that the maker of the statement can be cross-examined\non such statement, without the need for recording the same at the time of trial.\n    (7) The Magistrate recording a confession or statement under this section shall forward it to the\nMagistrate by whom the case is to be inquired into or tried.",
+      "key_terms": [
+        "confession",
+        "not bound to make a confession",
+        "voluntarily made",
+        "memorandum",
+        "examination-in-chief",
+        "woman Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the formal, judicially-supervised counterpart to the informal police examination of section 180 — the section that governs how a confession or statement is properly recorded before a Magistrate so that it can genuinely be relied on in court. Any District Magistrate can record such a confession or statement, even without jurisdiction over the actual case, and it can be done via audio-video electronic means with the accused's advocate present. Crucially, police officers who happen to hold magisterial powers under some other law are barred from recording confessions — this must be a genuinely independent judicial function. Before recording any confession, the Magistrate must warn the person that they're not bound to confess and that anything they say can be used against them, and must question them to form a genuine belief that the confession is voluntary. If the person says at any point before confessing that they don't actually want to confess, the Magistrate cannot then send them back into police custody — a critical safeguard against confession-by-coercion-through-remand. The confession is recorded per section 316's procedure, signed by the confessor, with the Magistrate appending a specific certifying memorandum confirming the warning was given, voluntariness was believed, and the record was read back and confirmed accurate. Non-confession statements are recorded in whatever manner best suits the circumstances, with the Magistrate empowered to administer an oath. Sub-section (6) then layers on the sexual-offence-victim protections seen throughout this Chapter: for the listed offences, the victim's statement must be recorded (via the sub-section (5) method) as soon as the offence is reported, preferably by a woman Magistrate (or a male Magistrate with a woman present), with an interpreter/special educator and audio-video recording for disabled persons, and for the gravest offences (10 years to life/death), the Magistrate must record the statement of the witness brought before him. A disabled victim's such statement can even substitute for a live examination-in-chief at trial, subject to cross-examination on it. Finally, whatever confession or statement is recorded here must be forwarded to the Magistrate who will actually inquire into or try the case.",
+        "essential_elements": [
+          "Any District Magistrate can record a confession/statement, regardless of case jurisdiction; can be done via audio-video means with the accused's advocate present; police officers holding magisterial powers cannot record confessions",
+          "Before recording a confession, the Magistrate must warn the maker they are not bound to confess and that it may be used against them, and must be satisfied through questioning that it is voluntary",
+          "If the person declines to confess at any point before recording, the Magistrate must not remand them to police custody",
+          "The confession follows section 316's procedure, is signed by the maker, and is certified by the Magistrate's memorandum",
+          "Non-confession statements are recorded in whatever manner best fits the case, with power to administer oath",
+          "For specified sexual offences, the victim's statement must be recorded promptly, preferably by a woman Magistrate, with interpreter/special-educator and audio-video safeguards for disabled persons",
+          "For the gravest offences (10 years to life/death), the Magistrate must record the statement of the witness produced by police",
+          "A disabled victim's recorded statement can stand in place of live examination-in-chief, subject to cross-examination",
+          "The recording Magistrate must forward the confession/statement to the Magistrate who will inquire into or try the case"
+        ],
+        "exceptions_and_qualifications": [
+          "The bar on remanding a person who declines to confess is an absolute, mandatory protection — it cannot be overridden even if the investigating agency believes further custody would help secure a later confession",
+          "The 'preferably by a woman Magistrate' rule in sub-section (6) is a strong preference, not an absolute mandate — a male Magistrate may record the statement, but only with a woman present, and only 'in her absence' (i.e., no woman Magistrate being available)"
+        ],
+        "how_to_read": "Section 183 is one of the most litigated provisions in criminal procedure because a confession's admissibility so often turns on strict compliance with its safeguards — the warning, the voluntariness inquiry, and the certifying memorandum. Always check each procedural step methodically when assessing whether a recorded confession will survive scrutiny, and treat the sexual-offence victim-statement protections in sub-section (6) as a distinct, additional layer serving witness/victim welfare rather than confession-voluntariness as such."
+      }
+    },
+    {
+      "number": "184",
+      "title": "Medical examination of victim of rape",
+      "raw_text": "184. Medical examination of victim of rape.—(1) Where, during the stage when an offence of\ncommitting rape or attempt to commit rape is under investigation, it is proposed to get the person of the\nwoman with whom rape is alleged or attempted to have been committed or attempted, examined\nby a medical expert, such examination shall be conducted by a registered medical practitioner employed in\na hospital run by the Government or a local authority and in the absence of such a practitioner, by any other\nregistered medical practitioner, with the consent of such woman or of a person competent to give such\nconsent on her behalf and such woman shall be sent to such registered medical practitioner within\ntwenty-four hours from the time of receiving the information relating to the commission of such offence.\n    (2) The registered medical practitioner, to whom such woman is sent, shall, without delay, examine her\nperson and prepare a report of his examination giving the following particulars, namely:—\n        (i) the name and address of the woman and of the person by whom she was brought;\n        (ii) the age of the woman;\n        (iii) the description of material taken from the person of the woman for DNA profiling;\n        (iv) marks of injury, if any, on the person of the woman;\n        (v) general mental condition of the woman; and\n        (vi) other material particulars in reasonable detail.\n    (3) The report shall state precisely the reasons for each conclusion arrived at.\n    (4) The report shall specifically record that the consent of the woman or of the person competent to\ngive such consent on her behalf to such examination had been obtained.\n    (5) The exact time of commencement and completion of the examination shall also be noted in the\nreport.\n    (6) The registered medical practitioner shall, within a period of seven days forward the report to the\ninvestigating officer who shall forward it to the Magistrate referred to in section 193 as part of the\ndocuments referred to in clause (a) of sub-section (6) of that section.\n    (7) Nothing in this section shall be construed as rendering lawful any examination without the consent\nof the woman or of any person competent to give such consent on her behalf.\n    Explanation.—For the purposes of this section, \"examination\" and \"registered medical practitioner\"\nshall have the same meanings as respectively assigned to them in section 51.",
+      "key_terms": [
+        "medical examination of rape victim",
+        "consent",
+        "twenty-four hours",
+        "DNA profiling",
+        "registered medical practitioner",
+        "seven days"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes the sub-batch with the detailed procedure for medically examining a rape victim during investigation — a critical evidence-gathering step that this section deliberately hedges with consent protections at every turn. The examination must be done by a registered medical practitioner at a government/local-authority hospital where available (or, failing that, any registered practitioner), only with the woman's consent (or that of someone competent to consent on her behalf), and she must be sent for examination within 24 hours of the offence being reported. The examining practitioner must act without delay and produce a detailed report covering: identifying details, age, material collected for DNA profiling, injuries, general mental condition, and other relevant particulars — with precise reasoning for every conclusion reached, explicit confirmation that consent was obtained, and the exact start/end times of the examination logged. The report must reach the investigating officer within 7 days, who then forwards it to the trial-stage Magistrate referred to in section 193, as part of the documents bundled with the final investigation report. Sub-section (7) is an unambiguous, non-negotiable statement that nothing in this section legalizes an examination performed without valid consent — this section creates a careful evidentiary procedure, not a backdoor around the consent requirement.",
+        "essential_elements": [
+          "Applies where, during investigation of rape or attempted rape, medical examination of the woman is proposed",
+          "Must be conducted by a government/local-authority-hospital registered medical practitioner, or (in their absence) any registered medical practitioner",
+          "Requires the woman's consent, or that of a person competent to consent on her behalf",
+          "The woman must be sent for examination within 24 hours of the offence being reported",
+          "The practitioner examines without delay and prepares a detailed report: identifying details, age, DNA-profiling material description, injuries, mental condition, other particulars, with reasoning for each conclusion, confirmation of consent, and exact examination timing",
+          "The report must be forwarded to the investigating officer within 7 days, who forwards it to the section 193 Magistrate as part of the final report's documents",
+          "Nothing in this section legalises an examination conducted without proper consent",
+          "'Examination' and 'registered medical practitioner' take the meanings defined in section 51"
+        ],
+        "exceptions_and_qualifications": [
+          "Consent is an absolute, non-derogable precondition — the entire elaborate procedural structure of this section presupposes valid consent and cannot be read as overriding its absence",
+          "The 24-hour and 7-day timelines are directed at ensuring evidence is not lost to delay, but do not themselves validate an examination conducted without consent"
+        ],
+        "how_to_read": "Section 184 is a frequently-relied-on provision in sexual-offence trials, both for its evidentiary value (DNA profiling, injury documentation) and for procedural challenges (was consent genuinely obtained and recorded, was the 24-hour window honoured, was the report sufficiently detailed and reasoned). Cross-reference section 51's definitions of 'examination' and 'registered medical practitioner' for the precise scope of who may conduct this examination and what it may involve."
       }
     }
   ]
