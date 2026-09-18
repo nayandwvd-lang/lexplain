@@ -256,7 +256,12 @@
     "operative part": "The specific portion of a judgment that actually grants relief or imposes a consequence -- the conviction/acquittal and sentence -- as distinct from the reasoning and discussion that precede it; section 392(1)(c) allows a presiding officer to pronounce judgment by reading out only the operative part and explaining the substance in a language the accused or his advocate understands, rather than reading the whole judgment aloud.",
     "fatal accidents act": "The Fatal Accidents Act, 1855 -- a civil statute allowing the legal representatives of a person wrongfully killed to recover damages from the person responsible for the death; section 395(1)(c) lets a Criminal Court, when sentencing someone for causing or abetting a death, direct fine-derived compensation to the persons who would be entitled to recover such damages under that Act, without them having to separately file a civil suit.",
     "bona fide purchaser": "A person who buys property genuinely and in good faith, for value, without knowledge that the seller lacked good title to it -- for instance, someone who innocently buys stolen property without knowing it was stolen; section 395(1)(d) lets a Court compensate such a purchaser out of recovered fine amounts if the property is later restored to its rightful owner, cushioning the innocent buyer's loss.",
-    "abetment": "Intentionally instigating, engaging in a conspiracy for, or intentionally aiding the commission of an offence, without necessarily committing the offence itself; section 394(2) extends the residence-notification order to abetment (and conspiracy and attempt) of a qualifying repeat offence, and section 395(1)(c) extends fine-based compensation to cases of abetting a death, not just directly causing it."
+    "abetment": "Intentionally instigating, engaging in a conspiracy for, or intentionally aiding the commission of an offence, without necessarily committing the offence itself; section 394(2) extends the residence-notification order to abetment (and conspiracy and attempt) of a qualifying repeat offence, and section 395(1)(c) extends fine-based compensation to cases of abetting a death, not just directly causing it.",
+    "victim compensation scheme": "A State-Government scheme (prepared in coordination with the Central Government under section 396) that funds compensation and rehabilitation for crime victims or their dependents, administered case-by-case through the District or State Legal Services Authority, separate from and in addition to any fine-based compensation ordered by the trial Court itself.",
+    "legal services authority": "The District Legal Services Authority or State Legal Services Authority -- statutory bodies (under the Legal Services Authorities Act, 1987) responsible under section 396 for deciding the quantum of victim compensation recommended by a Court, for receiving direct applications where no trial takes place because the offender is untraced, and for completing compensation enquiries within two months.",
+    "rehabilitation": "The support -- financial, medical, or otherwise -- needed to help a crime victim or their dependents recover from the loss or injury caused by the offence; section 396 centres the victim compensation scheme explicitly around funding rehabilitation, not merely punishing the offender.",
+    "protection of children from sexual offences act": "The Protection of Children from Sexual Offences Act, 2012 (POCSO) -- a special statute criminalizing sexual offences against children; section 397 cross-references its sections 4, 6, 8, and 10 (penalties for penetrative sexual assault, aggravated penetrative sexual assault, sexual assault, and aggravated sexual assault) to extend the mandatory free first-aid/treatment and police-notification duty to child victims of those offences.",
+    "witness protection scheme": "A scheme every State Government must prepare and notify under section 398 to ensure the protection of witnesses -- addressing threats, intimidation, or retaliation that could otherwise deter witnesses from testifying truthfully, complementing the victim-focused compensation and treatment provisions of sections 396 and 397."
   },
   "sections": [
     {
@@ -9060,6 +9065,103 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "The sub-section (3) power (ordering compensation even absent any fine) is easy to overlook but practically significant -- it means a purely custodial sentence with no fine component can still carry a separate, directly enforceable compensation obligation to the victim."
+      }
+    },
+    {
+      "number": "396",
+      "title": "Victim compensation scheme",
+      "raw_text": "396. Victim compensation scheme.—(1) Every State Government in co-ordination with the Central\nGovernment shall prepare a scheme for providing funds for the purpose of compensation to the victim or\nhis dependents who have suffered loss or injury as a result of the crime and who require rehabilitation.\n    (2) Whenever a recommendation is made by the Court for compensation, the District Legal Service\nAuthority or the State Legal Service Authority, as the case may be, shall decide the quantum of\ncompensation to be awarded under the scheme referred to in sub-section (1).\n    (3) If the trial Court, at the conclusion of the trial, is satisfied, that the compensation awarded under\nsection 395 is not adequate for such rehabilitation, or where the cases end in acquittal or discharge and the\nvictim has to be rehabilitated, it may make recommendation for compensation.\n    (4) Where the offender is not traced or identified, but the victim is identified, and where no trial takes\nplace, the victim or his dependents may make an application to the State or the District Legal Services\nAuthority for award of compensation.\n    (5) On receipt of such recommendations or on the application under sub-section (4), the State or the\nDistrict Legal Services Authority shall, after due enquiry award adequate compensation by completing the\nenquiry within two months.\n    (6) The State or the District Legal Services Authority, as the case may be, to alleviate the suffering of\nthe victim, may order for immediate first-aid facility or medical benefits to be made available free of cost\non the certificate of the police officer not below the rank of the officer in charge of the police station or a\nMagistrate of the area concerned, or any other interim relief as the appropriate authority deems fit.\n    (7) The compensation payable by the State Government under this section shall be in addition to the\npayment of fine to the victim under section 65, section 70 and sub-section (1) of section 124 of the\nBharatiya Nyaya Sanhita, 2023 (45 of 2023).",
+      "key_terms": [
+        "victim compensation scheme",
+        "legal services authority",
+        "rehabilitation"
+      ],
+      "breakdown": {
+        "plain_summary": "This creates a State-funded rehabilitation safety net for crime victims, running parallel to (not instead of) the Court's own fine-based compensation power under section 395. States, coordinating with the Centre, must set up a funded scheme; the District or State Legal Services Authority actually fixes the compensation amount, either because the trial Court recommends it (when section 395's fine-based award is inadequate for rehabilitation, or when the case ends in acquittal/discharge but the victim still needs rehabilitation) or because the victim applies directly when the offender was never traced and no trial ever happened. The Authority must complete its enquiry and award compensation within two months, and separately has power to order free immediate first-aid, medical benefits, or other interim relief on a police or Magistrate certificate, to address urgent suffering without waiting for the full award. This compensation stacks on top of, rather than replacing, fine-based victim payments under specific BNS provisions (sections 65, 70, 124(1)).",
+        "essential_elements": [
+          "Every State Government, coordinating with the Centre, must prepare a funded scheme for compensating and rehabilitating crime victims/dependents.",
+          "The District or State Legal Services Authority decides the compensation quantum once a Court makes a recommendation.",
+          "A trial Court may recommend compensation where a section 395 award is inadequate for rehabilitation, or where the case ends in acquittal/discharge but rehabilitation is still needed.",
+          "Where the offender is untraced/unidentified but the victim is identified and no trial occurs, the victim/dependents may apply directly to the Authority.",
+          "The Authority must complete its enquiry and award adequate compensation within two months of the recommendation or application.",
+          "The Authority may separately order free immediate first-aid/medical benefits or other interim relief, certified by a qualifying police officer or Magistrate.",
+          "This State compensation is additional to fine-based victim payments under BNS sections 65, 70, and 124(1)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the acquittal-proof compensation route -- unlike section 395 (tied to a conviction and a fine), section 396 explicitly covers acquittals, discharges, and even cases where the offender is never caught, making it the correct avenue to invoke when a victim's rehabilitation need survives a failed or impossible prosecution."
+      }
+    },
+    {
+      "number": "397",
+      "title": "Treatment of victims",
+      "raw_text": "397. Treatment of victims.—All hospitals, public or private, whether run by the Central Government,\nthe State Government, local bodies or any other person, shall immediately, provide the first-aid or medical\ntreatment, free of cost, to the victims of any offence covered under section 64, section 65, section\n66, section 67, section 68, section 70, section 71 or sub-section (1) of section 124 of the Bharatiya Nyaya\nSanhita, 2023 (45 of 2023) or under sections 4, 6, 8 or section 10 of the Protection of Children from Sexual\nOffences Act, 2012 (32 of 2012), and shall immediately inform the police of such incident.",
+      "key_terms": [
+        "protection of children from sexual offences act"
+      ],
+      "breakdown": {
+        "plain_summary": "This imposes an absolute, immediate obligation on every hospital -- public, private, Central, State, local-body-run, or otherwise -- to give free first-aid or medical treatment to victims of specified serious BNS offences (broadly, sexual offences and acid-attack-type injuries under sections 64-71 and 124(1)) and specified POCSO offences against children, and to immediately notify the police. No hospital may refuse or delay treatment pending payment, insurance, police formalities, or jurisdictional questions.",
+        "essential_elements": [
+          "Applies to all hospitals regardless of ownership -- Central Government, State Government, local body, or private.",
+          "Covers victims of BNS sections 64, 65, 66, 67, 68, 70, 71, and 124(1), and POCSO sections 4, 6, 8, and 10.",
+          "Requires immediate, free first-aid or medical treatment.",
+          "Requires the hospital to immediately inform the police of the incident."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This provision is frequently paired with a hospital's independent duty to preserve medico-legal evidence -- practitioners representing victims should treat any hospital's refusal or delay as an actionable lapse in its own right, separate from the underlying criminal prosecution."
+      }
+    },
+    {
+      "number": "398",
+      "title": "Witness protection scheme",
+      "raw_text": "398. Witness protection scheme.—Every State Government shall prepare and notify a Witness\nProtection Scheme for the State with a view to ensure protection of the witnesses.",
+      "key_terms": [
+        "witness protection scheme"
+      ],
+      "breakdown": {
+        "plain_summary": "A short but significant mandate: every State Government must prepare and formally notify its own Witness Protection Scheme, aimed at protecting witnesses -- addressing the practical reality that fear of retaliation or intimidation is a major reason witnesses turn hostile or refuse to testify.",
+        "essential_elements": [
+          "Every State Government must prepare and notify a Witness Protection Scheme.",
+          "The scheme's stated objective is ensuring protection of witnesses."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is enabling rather than self-executing -- it does not itself specify what protections are available; practitioners need to check the specific State's notified scheme (or, absent one, the Supreme Court's Witness Protection Scheme, 2018, which has been directed to apply until States notify their own) for the actual mechanics of threat assessment and protection measures."
+      }
+    },
+    {
+      "number": "399",
+      "title": "Compensation to persons groundlessly arrested",
+      "raw_text": "399. Compensation to persons groundlessly arrested.—(1) Whenever any person causes a police\nofficer to arrest another person, if it appears to the Magistrate by whom the case is heard that there was no\nsufficient ground for causing such arrest, the Magistrate may award such compensation, not exceeding one\nthousand rupees, to be paid by the person so causing the arrest to the person so arrested, for his loss of time\nand expenses in the matter, as the Magistrate thinks fit.\n    (2) In such cases, if more persons than one are arrested, the Magistrate may, in like manner, award to\neach of them such compensation, not exceeding one thousand rupees, as such Magistrate thinks fit.\n    (3) All compensation awarded under this section may be recovered as if it were a fine, and, if it cannot\nbe so recovered, the person by whom it is payable shall be sentenced to simple imprisonment for such term\nnot exceeding thirty days as the Magistrate directs, unless such sum is sooner paid.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This deters people from misusing the police to arrest others without sufficient ground. If a private complainant causes a police officer to arrest someone, and the Magistrate hearing the case finds no sufficient ground existed for that arrest, the Magistrate may order the complainant to pay the wrongly-arrested person compensation (capped at one thousand rupees) for lost time and expenses -- with the same cap applying separately to each person if multiple people were groundlessly arrested. The compensation is recovered like a fine, and if it cannot be recovered, the person liable to pay faces simple imprisonment of up to thirty days, which stops the moment the amount is paid.",
+        "essential_elements": [
+          "Applies where a person causes a police officer to arrest another person.",
+          "The Magistrate hearing the case must find there was no sufficient ground for the arrest.",
+          "Compensation is capped at one thousand rupees per arrested person, payable by the person who caused the arrest.",
+          "Compensation covers loss of time and expenses arising from the groundless arrest.",
+          "With multiple groundless arrests, the Magistrate may award compensation to each person separately, each up to the cap.",
+          "Compensation is recoverable as if it were a fine; non-recovery leads to simple imprisonment of up to thirty days, ending on payment."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The one-thousand-rupee cap has not been revised and is nominal by modern standards -- practitioners should treat section 399 as a limited deterrent/symbolic remedy for a groundless private-complaint arrest, not a substitute for a separate civil suit or constitutional remedy for wrongful arrest and detention."
+      }
+    },
+    {
+      "number": "400",
+      "title": "Order to pay costs in non-cognizable cases",
+      "raw_text": "400. Order to pay costs in non-cognizable cases.—(1) Whenever any complaint of a non-cognizable\noffence is made to a Court, the Court, if it convicts the accused, may, in addition to the penalty imposed\nupon him, order him to pay to the complainant, in whole or in part, the cost incurred by him in the\nprosecution, and may further order that in default of payment, the accused shall suffer simple imprisonment\nfor a period not exceeding thirty days and such costs may include any expenses incurred in respect of\nprocess-fees, witnesses and advocate's fees which the Court may consider reasonable.\n    (2) An order under this section may also be made by an Appellate Court or by the High Court or Court\nof Session when exercising its powers of revision.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This lets a Court shift the complainant's prosecution costs onto a convicted accused in non-cognizable-offence complaint cases -- on conviction, the Court may order the accused to reimburse the complainant's costs (in whole or part), covering reasonable process-fees, witness expenses, and advocate's fees, on top of whatever penalty is imposed. Default in paying these costs carries its own simple-imprisonment consequence, capped at thirty days. Appellate Courts, the High Court, and the Court of Session (in revision) share this cost-shifting power.",
+        "essential_elements": [
+          "Applies to complaints of non-cognizable offences made to a Court.",
+          "On conviction, the Court may order the accused to pay the complainant's prosecution costs, in whole or part, in addition to the penalty.",
+          "Costs may include reasonable process-fees, witness expenses, and advocate's fees.",
+          "Default in payment may lead to simple imprisonment of up to thirty days.",
+          "Appellate Courts, the High Court, and the Court of Session (in revision) may also make such a costs order."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a private-complainant-specific costs shift for non-cognizable offences -- since such offences are typically pursued by direct complaint rather than police investigation, section 400 offsets some of the complainant's own litigation burden when the prosecution succeeds, which is worth flagging as a recoverable head alongside the substantive penalty when drafting a complaint."
       }
     }
   ]
