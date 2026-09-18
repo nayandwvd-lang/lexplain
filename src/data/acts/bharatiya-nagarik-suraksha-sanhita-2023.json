@@ -205,7 +205,10 @@
     "countersign": "A second, confirming signature (here, of the Chief Judicial Magistrate) required to validate certain orders made by a Magistrate of the second class before they can be acted upon by a prison official.",
     "language of the court": "The language which the State Government has determined, under section 307, to be the official language used for recording proceedings in a particular Court (other than the High Court) within that State.",
     "memorandum (of evidence)": "A written note capturing the substance of a witness's evidence, made by the Magistrate as the examination proceeds, used in place of a full verbatim record in summons-cases and certain inquiries.",
-    "narrative form": "A method of recording evidence as a continuous, connected written account in the witness's own words (as opposed to a strict question-and-answer transcript), which is the ordinary default method the Magistrate or Judge may depart from in appropriate cases."
+    "narrative form": "A method of recording evidence as a continuous, connected written account in the witness's own words (as opposed to a strict question-and-answer transcript), which is the ordinary default method the Magistrate or Judge may depart from in appropriate cases.",
+    "demeanour": "The manner, conduct, and bearing of a witness while giving evidence and under examination -- for example, hesitation, confidence, nervousness, or evasiveness -- which a Judge or Magistrate may note as relevant to assessing credibility.",
+    "interpreter": "A person appointed by a Criminal Court to translate evidence or statements from one language into another so that the Court, the accused, or another participant can understand proceedings conducted in an unfamiliar language.",
+    "examination of accused": "The formal questioning of the accused by the Court (distinct from witness examination), during which the accused is given an opportunity to explain circumstances appearing in the evidence against him; recorded in full under section 316."
   },
   "sections": [
     {
@@ -7304,6 +7307,124 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Read the three clauses as a decision tree keyed to practicability -- same language as Court (easy case), different language and practicable to record verbatim (record + translate), different language and not practicable to record verbatim (translate only) -- with the English-specific proviso as a practical efficiency carve-out."
+      }
+    },
+    {
+      "number": "313",
+      "title": "Procedure in regard to such evidence when completed",
+      "raw_text": "313. Procedure in regard to such evidence when completed.—(1) As the evidence of each witness\ntaken under section 310 or section 311 is completed, it shall be read over to him in the presence of the\naccused, if in attendance, or of his advocate, if he appears by an advocate, and shall, if necessary, be\ncorrected.\n    (2) If the witness denies the correctness of any part of the evidence when the same is read over to him,\nthe Magistrate or presiding Judge may, instead of correcting the evidence, make a memorandum thereon of\nthe objection made to it by the witness and shall add such remarks as he thinks necessary.\n    (3) If the record of the evidence is in a language different from that in which it has been given and the\nwitness does not understand that language, the record shall be interpreted to him in the language in which\nit was given, or in a language which he understands.",
+      "key_terms": [
+        "interpreter",
+        "warrant-case",
+        "Court of Session"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a witness's evidence (recorded under section 310 for warrant-cases or section 311 for Sessions trials) is complete, it must be read back to the witness in front of the accused or their advocate, and corrected if needed. If the witness disputes part of it when it's read back, the Magistrate/Judge can instead just note the witness's objection as a memorandum rather than change the record. And if the record ended up in a language the witness doesn't understand, it must be interpreted back to them in a language they do understand.",
+        "essential_elements": [
+          "Applies to evidence taken under section 310 (warrant-cases) or section 311 (Sessions trials).",
+          "Once complete, the evidence is read over to the witness in the presence of the accused (if in attendance) or the accused's advocate (if represented), and corrected where necessary.",
+          "If the witness denies the correctness of any part when it's read back, the Magistrate/Judge may, instead of correcting it, record a memorandum of the witness's objection plus any remarks he thinks necessary.",
+          "If the record's language differs from the language in which the evidence was actually given and the witness doesn't understand the record's language, it must be interpreted to the witness in the language given, or another language they understand."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Think of this as the read-back-and-confirm safeguard -- it ensures the written record actually reflects what the witness said, with a controlled way (memorandum of objection, not automatic rewriting) to handle disagreements about accuracy."
+      }
+    },
+    {
+      "number": "314",
+      "title": "Interpretation of evidence to accused or his advocate",
+      "raw_text": "314. Interpretation of evidence to accused or his advocate.—(1) Whenever any evidence is given in\na language not understood by the accused, and he is present in Court in person, it shall be interpreted to him\nin open Court in a language understood by him.\n   (2) If he appears by an advocate and the evidence is given in a language other than the language of the\nCourt, and not understood by the advocate, it shall be interpreted to such advocate in that language.\n     (3) When documents are put for the purpose of formal proof, it shall be in the discretion of the Court\nto interpret as much thereof as appears necessary.",
+      "key_terms": [
+        "interpreter",
+        "language of the court"
+      ],
+      "breakdown": {
+        "plain_summary": "If the accused is personally present but evidence is given in a language they don't understand, it must be interpreted to them in open Court in a language they do understand. If instead they're represented by an advocate who doesn't understand the language the evidence was given in (a language other than the Court's own language), it must be interpreted to the advocate. For documents put in merely for formal proof, the Court has discretion over how much interpretation is really necessary.",
+        "essential_elements": [
+          "Sub-section (1): evidence in a language the accused (present in person) doesn't understand must be interpreted to him in open Court, in a language he understands.",
+          "Sub-section (2): if the accused appears by advocate, and evidence is given in a non-Court language the advocate doesn't understand, it must be interpreted to the advocate in that language.",
+          "Sub-section (3): for documents produced for formal proof only, the Court has discretion on how much of the document needs to be interpreted."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the accused's/advocate's comprehension safeguard -- distinct from section 313's witness-facing interpretation duty, this section ensures the person on the receiving end of the evidence (the accused or their advocate) can actually follow what is being said against them."
+      }
+    },
+    {
+      "number": "315",
+      "title": "Remarks respecting demeanour of witness",
+      "raw_text": "315. Remarks respecting demeanour of witness.—When a presiding Judge or Magistrate has\nrecorded the evidence of a witness, he shall also record such remarks (if any) as he thinks material\nrespecting the demeanour of such witness whilst under examination.",
+      "key_terms": [
+        "demeanour"
+      ],
+      "breakdown": {
+        "plain_summary": "After recording a witness's evidence, the presiding Judge or Magistrate may also note down any remarks they consider material about how the witness behaved while being examined -- for example, signs of nervousness, evasiveness, or confidence -- which can later help assess the witness's credibility.",
+        "essential_elements": [
+          "This applies after the presiding Judge or Magistrate has recorded a witness's evidence.",
+          "He may record remarks he considers material about the witness's demeanour while under examination.",
+          "The recording of such remarks is discretionary (\"if any\") -- not every witness's demeanour need be commented upon."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "These demeanour remarks become part of the trial record and can be significant on appeal or in later credibility assessments -- an appellate court, which does not see the witness testify live, often gives weight to the trial court's contemporaneous demeanour observations."
+      }
+    },
+    {
+      "number": "316",
+      "title": "Record of examination of accused",
+      "raw_text": "316. Record of examination of accused.—(1) Whenever the accused is examined by any Magistrate,\nor by a Court of Session, the whole of such examination, including every question put to him and every\nanswer given by him, shall be recorded in full by the presiding Judge or Magistrate himself or where he is\nunable to do so owing to a physical or other incapacity, under his direction and superintendence by an\nofficer of the Court appointed by him in this behalf.\n    (2) The record shall, if practicable, be in the language in which the accused is examined or, if that is\nnot practicable, in the language of the Court.\n    (3) The record shall be shown or read to the accused, or, if he does not understand the language in\nwhich it is written, shall be interpreted to him in a language which he understands, and he shall be at liberty\nto explain or add to his answers.\n    (4) It shall thereafter be signed by the accused and by the Magistrate or presiding Judge, who shall\ncertify under his own hand that the examination was taken in his presence and hearing and that the record\ncontains a full and true account of the statement made by the accused:\n    Provided that where the accused is in custody and is examined through electronic communication, his\nsignature shall be taken within seventy-two hours of such examination.\n    (5) Nothing in this section shall be deemed to apply to the examination of an accused person in the\ncourse of a summary trial.",
+      "key_terms": [
+        "examination of accused",
+        "language of the court",
+        "summary trial"
+      ],
+      "breakdown": {
+        "plain_summary": "Whenever a Magistrate or Court of Session examines the accused, every question and answer must be recorded in full -- personally by the Judge/Magistrate, or, if he's incapacitated, by a court officer under his direction. The record should be in the language the accused was examined in if practicable, otherwise the Court's language. It must then be shown/read (or interpreted) to the accused, who can explain or add to his answers, and finally signed by both the accused and the Judge/Magistrate, with a certification of accuracy. Where the accused is in custody and examined electronically, his signature can be taken within 72 hours instead of immediately. This entire section does not apply to summary trials.",
+        "essential_elements": [
+          "The whole examination -- every question and every answer -- must be recorded in full.",
+          "Recorded personally by the presiding Judge/Magistrate, or (if incapacitated) by a court officer under his direction and superintendence.",
+          "Language: the accused's examination language if practicable, otherwise the language of the Court.",
+          "The record must be shown/read to the accused (interpreted if he doesn't understand its language), and he may explain or add to his answers.",
+          "Signed by both the accused and the Magistrate/presiding Judge, with a certificate that the examination was taken in the officer's presence/hearing and the record is full and true.",
+          "Proviso: for an accused in custody examined via electronic communication, the signature may be obtained within 72 hours of the examination rather than immediately.",
+          "Sub-section (5): this section does not apply to examination of the accused during a summary trial."
+        ],
+        "exceptions_and_qualifications": [
+          "Summary trials are expressly excluded from this full-record requirement."
+        ],
+        "how_to_read": "This full verbatim-record-plus-signature requirement is one of the most important procedural safeguards for the accused -- their own statement, once signed and certified, becomes a solid part of the record that cannot easily be later disputed or misquoted, and the 72-hour electronic-examination proviso accommodates modern remote-hearing practice without weakening that safeguard."
+      }
+    },
+    {
+      "number": "317",
+      "title": "Interpreter to be bound to interpret truthfully",
+      "raw_text": "317. Interpreter to be bound to interpret truthfully.—When the services of an interpreter are\nrequired by any Criminal Court for the interpretation of any evidence or statement, he shall be bound to\nstate the true interpretation of such evidence or statement.",
+      "key_terms": [
+        "interpreter"
+      ],
+      "breakdown": {
+        "plain_summary": "Any interpreter used by a Criminal Court to translate evidence or a statement is under a legal duty to give a true and accurate interpretation.",
+        "essential_elements": [
+          "Applies whenever a Criminal Court requires an interpreter's services for evidence or a statement.",
+          "The interpreter is bound to state the true interpretation of what was said."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short but important integrity provision -- it formalises the interpreter's duty of accuracy, which underpins every other section in this Part that relies on interpretation (313, 314) to make the record trustworthy."
+      }
+    },
+    {
+      "number": "318",
+      "title": "Record in High Court",
+      "raw_text": "318. Record in High Court.—Every High Court may, by general rule, prescribe the manner in which\nthe evidence of witnesses and the examination of the accused shall be taken down in cases coming before\nit, and such evidence and examination shall be taken down in accordance with such rule.",
+      "key_terms": [
+        "Court of Session"
+      ],
+      "breakdown": {
+        "plain_summary": "Unlike the detailed recording rules laid down for Magistrates and Sessions Courts (sections 309-316), each High Court is free to make its own general rules for how witness evidence and accused examinations are taken down in cases before it, and such recording must follow whatever rule the High Court has prescribed.",
+        "essential_elements": [
+          "Every High Court may prescribe, by general rule, the manner of taking down witness evidence and accused examination in cases before it.",
+          "Recording in High Court cases must follow the High Court's own prescribed rule."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This closes out Part A (Mode of taking and recording evidence) by carving the High Court out of the detailed statutory recording scheme and instead deferring to the High Court's own procedural autonomy -- consistent with the High Court's position at the apex of the State judicial hierarchy."
       }
     }
   ]
