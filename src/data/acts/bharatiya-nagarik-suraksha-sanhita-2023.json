@@ -265,7 +265,9 @@
     "admonition": "A formal reprimand or caution given by a Court in lieu of any punishment -- section 401(3) allows a Court to release certain minor, first-time offenders (theft, dishonest misappropriation, cheating, or offences punishable with two years' imprisonment or less, or fine only) after due admonition, sparing them a criminal sentence given the trivial nature of the offence or extenuating circumstances.",
     "recognizance": "A formal, court-recorded undertaking (with or without sureties) by which a person binds himself to do or not do a specified act -- such as appearing to receive sentence and keeping the peace -- breach of which allows the Court to issue a warrant for his apprehension; section 401(1) conditions probationary release on the offender entering into such a bond, and section 401(8) ties its breach to re-arrest.",
     "probation of offenders act": "The Probation of Offenders Act, 1958 -- a separate central statute enabling release of certain offenders on probation instead of sentencing them to prison, operating alongside (not displaced by) section 401's own probation/admonition powers; section 401(10) and section 402 both expressly preserve its application.",
-    "juvenile justice act": "The Juvenile Justice (Care and Protection of Children) Act, 2015 -- the special statute governing the treatment, training, and rehabilitation of children in conflict with law, whose application section 401(10) expressly preserves alongside BNSS's own probation and admonition provisions, and whose availability a Court must record special reasons for not using under section 402."
+    "juvenile justice act": "The Juvenile Justice (Care and Protection of Children) Act, 2015 -- the special statute governing the treatment, training, and rehabilitation of children in conflict with law, whose application section 401(10) expressly preserves alongside BNSS's own probation and admonition provisions, and whose availability a Court must record special reasons for not using under section 402.",
+    "confirmation": "The High Court's formal approval of a death sentence passed by a Court of Session, without which the sentence cannot be executed; section 407 makes such submission to the High Court mandatory and automatic, and section 409 sets out the High Court's options on confirmation -- confirm, pass a different lawful sentence, annul the conviction, or acquit.",
+    "annul": "To formally cancel or invalidate a conviction, as if it had not been passed, while leaving open the possibility of convicting the accused afresh of a lawful offence or ordering a new trial; section 409(b) gives the High Court this power when reviewing a Court of Session's death sentence submitted for confirmation."
   },
   "sections": [
     {
@@ -9263,6 +9265,93 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This dovetails with section 404's translation-on-request right for the accused personally -- section 405 is about the official case record generally, while section 404(2) is about giving the accused his own copy in a language he understands; both can be invoked in the same multi-lingual proceeding."
+      }
+    },
+    {
+      "number": "406",
+      "title": "Court of Session to send copy of finding and sentence to District Magistrate",
+      "raw_text": "406. Court of Session to send copy of finding and sentence to District Magistrate.—In cases tried\nby the Court of Session or a Chief Judicial Magistrate, the Court or such Magistrate, as the case may be,\nshall forward a copy of its or his finding and sentence (if any) to the District Magistrate within whose local\njurisdiction the trial was held.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A simple administrative-coordination rule: whenever a case is tried by the Court of Session or a Chief Judicial Magistrate, that Court/Magistrate must send a copy of the finding and sentence (if any) to the District Magistrate of the district where the trial took place, keeping the district administration informed of judicial outcomes in its territory.",
+        "essential_elements": [
+          "Applies to cases tried by the Court of Session or a Chief Judicial Magistrate.",
+          "The trying Court/Magistrate must forward a copy of the finding and sentence (if any) to the District Magistrate of the district where the trial was held."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is purely administrative and does not itself affect the judgment's validity or appealability -- it exists to keep the district's executive administration apprised of serious judicial outcomes within its jurisdiction."
+      }
+    },
+    {
+      "number": "407",
+      "title": "Sentence of death to be submitted by Court of Session for confirmation",
+      "raw_text": "407. Sentence of death to be submitted by Court of Session for confirmation.—(1) When the Court\nof Session passes a sentence of death, the proceedings shall forthwith be submitted to the High Court, and\nthe sentence shall not be executed unless it is confirmed by the High Court.\n    (2) The Court passing the sentence shall commit the convicted person to jail custody under a warrant.",
+      "key_terms": [
+        "confirmation"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XXX with the core safeguard on capital punishment: a Court of Session cannot itself finalize a death sentence. The moment it passes one, the entire proceedings must go forthwith to the High Court, and the sentence cannot be executed unless and until the High Court confirms it -- an automatic, mandatory judicial safety check before any execution, independent of whether the convict even appeals. Meanwhile, the convicted person is committed to jail custody under a warrant pending that confirmation process.",
+        "essential_elements": [
+          "Applies whenever a Court of Session passes a sentence of death.",
+          "The proceedings must be submitted forthwith to the High Court.",
+          "The death sentence cannot be executed unless confirmed by the High Court.",
+          "The convicted person is committed to jail custody under a warrant pending confirmation."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This submission is automatic and mandatory, not dependent on the convict filing an appeal -- even an accused who does not wish to appeal still has his death sentence independently scrutinized by the High Court under this confirmation process, reflecting the irreversibility of the punishment."
+      }
+    },
+    {
+      "number": "408",
+      "title": "Power to direct further inquiry to be made or additional evidence to be taken",
+      "raw_text": "408. Power to direct further inquiry to be made or additional evidence to be taken.—(1) If, when\nsuch proceedings are submitted, the High Court thinks that a further inquiry should be made into, or\nadditional evidence taken upon, any point bearing upon the guilt or innocence of the convicted person, it\nmay make such inquiry or take such evidence itself, or direct it to be made or taken by the Court of Session.\n    (2) Unless the High Court otherwise directs, the presence of the convicted person may be dispensed\nwith when such inquiry is made or such evidence is taken.\n    (3) When the inquiry or evidence (if any) is not made or taken by the High Court, the result of such\ninquiry or evidence shall be certified to such Court.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "During the confirmation process, the High Court is not limited to the existing trial record -- if it thinks further inquiry or additional evidence is needed on any point going to guilt or innocence, it can conduct that inquiry/take that evidence itself, or direct the Court of Session to do so. The convicted person's presence during this extra inquiry can be dispensed with unless the High Court directs otherwise. If the Court of Session (rather than the High Court itself) conducts the inquiry, it must certify the results back to the High Court.",
+        "essential_elements": [
+          "Applies during the High Court's review of a death-sentence confirmation submission under section 407.",
+          "The High Court may order further inquiry or additional evidence on any point bearing on guilt or innocence.",
+          "It may conduct that inquiry/evidence-taking itself, or direct the Court of Session to do so.",
+          "The convicted person's presence may be dispensed with unless the High Court directs otherwise.",
+          "Where the Court of Session conducts the inquiry, it must certify the results to the High Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a meaningful, substantive review power, not a rubber-stamp confirmation process -- the High Court can genuinely revisit the guilt/innocence question with fresh evidence, which is why confirmation proceedings are treated as a real second look rather than a formality."
+      }
+    },
+    {
+      "number": "409",
+      "title": "Power of High Court to confirm sentence or annul conviction",
+      "raw_text": "409. Power of High Court to confirm sentence or annul conviction.—In any case submitted under\nsection 407, the High Court—\n        (a) may confirm the sentence, or pass any other sentence warranted by law; or\n        (b) may annul the conviction, and convict the accused of any offence of which the Court of Session\n    might have convicted him, or order a new trial on the same or an amended charge; or\n        (c) may acquit the accused person:\n    Provided that no order of confirmation shall be made under this section until the period allowed for\npreferring an appeal has expired, or, if an appeal is presented within such period, until such appeal is\ndisposed of.",
+      "key_terms": [
+        "annul"
+      ],
+      "breakdown": {
+        "plain_summary": "This sets out the High Court's full menu of options when a death sentence is submitted for confirmation: confirm the death sentence as passed, or substitute any other legally warranted sentence; annul the conviction altogether and either convict the accused of some other offence the Court of Session could have convicted him of, or order a fresh trial (on the same or an amended charge); or acquit the accused entirely. None of these outcomes are pre-ordained -- confirmation genuinely means the High Court could go any of these directions. Crucially, no confirmation order can be made until the appeal-filing window has expired, or, if an appeal was filed, until that appeal is fully disposed of -- ensuring the confirmation and appeal processes are properly sequenced rather than a confirmation short-circuiting an appeal.",
+        "essential_elements": [
+          "Applies to any death-sentence case submitted to the High Court under section 407.",
+          "Option (a): confirm the sentence, or substitute any other sentence warranted by law.",
+          "Option (b): annul the conviction and either convict of a lesser/different offence the Sessions Court could have convicted of, or order a new trial on the same or amended charge.",
+          "Option (c): acquit the accused person.",
+          "No confirmation order may be made until the appeal period has expired, or, if an appeal was filed, until it is disposed of."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The confirmation-appeal sequencing proviso is critical -- a High Court cannot confirm a death sentence while a timely appeal against it is still pending; practitioners should treat any premature confirmation order (before appeal disposal) as procedurally void on this ground alone."
+      }
+    },
+    {
+      "number": "410",
+      "title": "Confirmation or new sentence to be signed by two Judges",
+      "raw_text": "410. Confirmation or new sentence to be signed by two Judges.—In every case so submitted, the\nconfirmation of the sentence, or any new sentence or order passed by the High Court, shall, when such\nCourt consists of two or more Judges, be made, passed and signed by at least two of them.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Given the irreversible stakes of a death sentence, a single Judge's decision is not enough where the High Court has two or more Judges available -- the confirmation, or any new sentence/order the High Court passes instead, must be made, passed, and signed by at least two Judges, building in a collective-decision safeguard.",
+        "essential_elements": [
+          "Applies where the High Court consists of two or more Judges.",
+          "The confirmation of a death sentence, or any new sentence/order passed instead, must be made, passed, and signed by at least two Judges."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is why death-confirmation matters are institutionally routed to a Division Bench rather than a Single Judge -- practitioners should check Bench composition as a threshold procedural point in any confirmation reference."
       }
     }
   ]
