@@ -31,7 +31,7 @@
     "public prosecutor": "The government-appointed law officer conducting prosecutions on behalf of the State; for the specially protected category of defamation complaints under section 222(2), only the Public Prosecutor (not a private complainant) may set the case in motion before a Court of Session, and only with prior government sanction.",
     "sub-division": "A territorial sub-unit of a district, created by the State Government after consultation with the High Court.",
     "summons-case": "A case relating to an offence not punishable with death, imprisonment for life, or imprisonment for a term exceeding two years -- the counterpart to a 'warrant-case'. Summons-cases follow a simpler, less formal trial procedure (Chapter XXI) since a formal charge need not be framed.",
-    "victim": "A person who has suffered loss or injury from an offence, including the guardian or legal heir of such a person.",
+    "victim": "A person who has suffered loss or injury caused by, or as a result of, the act or omission for which the accused has been charged, and includes the person's guardian or legal heir in appropriate cases.",
     "warrant-case": "A case relating to an offence punishable with death, imprisonment for life, or imprisonment for a term exceeding two years -- as opposed to a 'summons-case', which covers offences not punishable with imprisonment for a term exceeding two years. Warrant-cases follow a more elaborate trial procedure (Chapter XX) reflecting the greater stakes involved.",
     "construction of references": "The interpretive rule for how references to undefined terms in other laws are to be read under this Sanhita.",
     "judicial magistrate": "A Magistrate exercising judicial functions, such as appreciating evidence or making decisions exposing a person to punishment, detention, or trial.",
@@ -96,7 +96,7 @@
     "digital signature": "An electronic form of signature recognised as equivalent to a physical signature for authenticating an encrypted or electronic summons or warrant under the Sanhita.",
     "due diligence": "Genuine, reasonable effort — as opposed to a token or perfunctory attempt — required before a Court or officer may resort to a substituted mode of service (family-member service or affixation) instead of personal service.",
     "conspicuous part": "A visible, noticeable location on a house or homestead (such as a main door) where a summons duplicate is affixed as a last-resort mode of service under Section 67.",
-    "affidavit": "A written statement made on oath or affirmation, here used as admissible evidence that a summons has been duly served when the serving officer cannot attend the hearing.",
+    "affidavit": "A written statement of facts, sworn or affirmed to be true by the person making it, before a person authorised to administer oaths.",
     "escaped convict": "A person who has broken out of lawful custody after conviction, against whom a Chief Judicial Magistrate or first-class Magistrate may direct a warrant to any person under Section 75.",
     "thirty kilometres": "The proximity threshold under Section 82 within which a person arrested outside the issuing Court's district may be produced directly before that Court instead of the local Executive Magistrate/DSP/Commissioner.",
     "removal in custody": "The process of transferring an arrested person, under police escort, from the place/authority of arrest to the Court that issued the warrant against them.",
@@ -191,7 +191,9 @@
     "re-examination": "The further questioning of a witness by the party who originally called them, conducted after cross-examination, generally limited to clarifying matters raised during cross-examination.",
     "complainant": "The person who sets criminal proceedings in motion by lodging a complaint before a Magistrate, alleging that an offence has been committed.",
     "compound": "To settle or resolve a criminal case by private agreement between the complainant/victim and the accused, permitted only for certain offences specified by law, resulting in acquittal of the accused.",
-    "summary trial": "An abbreviated trial procedure (Chapter XXII) for certain minor offences, in which the Magistrate follows summons-case procedure but with a simplified, condensed record and judgment, and a maximum sentence of three months' imprisonment."
+    "summary trial": "An abbreviated trial procedure (Chapter XXII) for certain minor offences, in which the Magistrate follows summons-case procedure but with a simplified, condensed record and judgment, and a maximum sentence of three months' imprisonment.",
+    "plea bargaining": "A pre-trial process (Chapter XXIII) in which an accused, having applied voluntarily, negotiates with the prosecution/complainant and victim to work out a mutually satisfactory disposition of the case -- typically involving compensation to the victim and a reduced sentence -- in exchange for the accused's cooperation, without a full contested trial.",
+    "probation": "A method of dealing with certain offenders, particularly first-time or less serious offenders, by releasing them under supervision or on a bond of good conduct instead of, or after, imposing an ordinary sentence of imprisonment."
   },
   "sections": [
     {
@@ -6774,6 +6776,144 @@
           "The delegation of preparation under sub-section (2) does not delegate final responsibility -- the Magistrate's personal signature remains mandatory, preserving accountability even where drafting assistance is used."
         ],
         "how_to_read": "Read this as a practical volume-management accommodation appropriate to summary trials' high caseload character, balanced against the need to preserve judicial accountability through the mandatory signature requirement. This completes Chapter XXII (Summary Trials, Sections 283-288) in full; Chapter XXIII (Plea Bargaining) follows at Section 289."
+      }
+    },
+    {
+      "number": "289",
+      "title": "Application of Chapter",
+      "raw_text": "289. Application of Chapter.—(1) This Chapter shall apply in respect of an accused against whom—\n        (a) the report has been forwarded by the officer in charge of the police station under section 193 alleging\n    therein that an offence appears to have been committed by him other than an offence for which the\n    punishment of death or of imprisonment for life or of imprisonment for a term exceeding seven years has\n    been provided under the law for the time being in force; or\n        (b) a Magistrate has taken cognizance of an offence on complaint, other than an offence for which the\n    punishment of death or of imprisonment for life or of imprisonment for a term exceeding seven years, has\n    been provided under the law for the time being in force, and after examining complainant and witnesses\n    under section 223, issued the process under section 227,\n    but does not apply where such offence affects the socio-economic condition of the country or has been\n    committed against a woman, or a child.\n\n        (2) For the purposes of sub-section (1), the Central Government shall, by notification, determine the\n    offences under the law for the time being in force which shall be the offences affecting the socio-economic\n    condition of the country.",
+      "key_terms": [
+        "plea bargaining",
+        "police report",
+        "cognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "This section opens Chapter XXIII (Plea Bargaining) -- a wholly pre-trial, negotiated-disposition mechanism new in structure to the ordinary trial chapters -- by carefully gatekeeping who may access it. Sub-section (1) permits plea bargaining only in two initiating scenarios: (a) a police-report case under section 193 alleging an offence other than one punishable with death, life imprisonment, or imprisonment exceeding seven years; or (b) a complaint-case where the Magistrate has taken cognizance, examined the complainant/witnesses under section 223, and issued process under section 227, again excluding offences carrying death, life imprisonment, or imprisonment exceeding seven years. But even within that severity band, the Chapter is further barred from applying wherever the offence affects the socio-economic condition of the country, or has been committed against a woman or a child -- categories deliberately excluded from the negotiated-disposition track regardless of the maximum sentence, reflecting a policy judgment that plea bargaining is inappropriate for offences with broader societal impact or offences against particularly vulnerable victims. Sub-section (2) delegates to the Central Government, by notification, the task of specifically determining which offences count as affecting the country's socio-economic condition for this exclusion.",
+        "essential_elements": [
+          "Applies to accused persons in police-report cases (section 193) or complaint-cases (post-cognizance, post-section 223 examination, post-section 227 process) alleging offences below the death/life/seven-years-plus severity threshold",
+          "Does not apply where the offence affects the socio-economic condition of the country (as notified by the Central Government under sub-section (2))",
+          "Does not apply where the offence has been committed against a woman or a child"
+        ],
+        "exceptions_and_qualifications": [
+          "The severity ceiling (excluding death/life imprisonment/imprisonment exceeding seven years) applies regardless of the initiating route (police report or complaint) -- both routes share the identical severity cutoff.",
+          "The woman/child-victim and socio-economic-offence exclusions operate independently of the severity ceiling -- even a low-severity offence is excluded from plea bargaining if it falls into either of these categories."
+        ],
+        "how_to_read": "Read this as the threshold eligibility gate for the entire Chapter -- before any of the negotiation machinery in sections 290-294 becomes relevant, a case must first clear this gate on both the severity dimension and the excluded-category dimension (socio-economic offences, offences against women/children)."
+      }
+    },
+    {
+      "number": "290",
+      "title": "Application for plea bargaining",
+      "raw_text": "290. Application for plea bargaining.—(1) A person accused of an offence may file an application\n    for plea bargaining within a period of thirty days from the date of framing of charge in the Court in which\n    such offence is pending for trial.\n         (2) The application under sub-section (1) shall contain a brief description of the case relating to which\n    the application is filed including the offence to which the case relates and shall be accompanied by an\n    affidavit sworn by the accused stating therein that he has voluntarily preferred, after understanding the\n    nature and extent of punishment provided under the law for the offence, the plea bargaining in his case and\n    that he has not previously been convicted by a Court in which he had been charged with the same offence.\n        (3) After receiving the application under sub-section (1), the Court shall issue notice to the Public\n    Prosecutor or the complainant of the case and to the accused to appear on the date fixed for the case.\n        (4) When the Public Prosecutor or the complainant of the case and the accused appear on the date fixed\n    under sub-section (3), the Court shall examine the accused in camera, where the other party in the case\n    shall not be present, to satisfy itself that the accused has filed the application voluntarily and where—\n             (a) the Court is satisfied that the application has been filed by the accused voluntarily, it shall\n        provide time, not exceeding sixty days, to the Public Prosecutor or the complainant of the case and the\n        accused to work out a mutually satisfactory disposition of the case which may include giving to the\n        victim by the accused the compensation and other expenses during the case and thereafter fix the date\n        for further hearing of the case;\n            (b) the Court finds that the application has been filed involuntarily by the accused or he has\n        previously been convicted by a Court in a case in which he had been charged with the same offence, it\n        shall proceed further in accordance with the provisions of this Sanhita from the stage such application\n        has been filed under sub-section (1).",
+      "key_terms": [
+        "plea bargaining",
+        "affidavit",
+        "in camera"
+      ],
+      "breakdown": {
+        "plain_summary": "This section sets out the gateway application procedure that actually launches the plea-bargaining process. Sub-section (1) gives the accused a thirty-day window from the date of framing of charge to file the application, in the Court where the offence is pending trial. Sub-section (2) prescribes the application's content requirements: a brief case description including the offence, accompanied by a sworn affidavit confirming that the accused voluntarily chose plea bargaining after understanding the nature and extent of the punishment provided by law, and that he has not previously been convicted by a Court on a charge for the same offence -- both voluntariness and first-offence-for-this-charge status being express preconditions. Sub-section (3) requires the Court to notice the Public Prosecutor (or complainant) and the accused to appear. Sub-section (4) then establishes a critical safeguard: the Court must examine the accused in camera -- with the other party absent -- specifically to independently verify voluntariness, rather than simply taking the affidavit at face value. Depending on the outcome of that examination, two branches follow: (a) if satisfied of voluntariness, the Court gives up to sixty days for the parties to work out a mutually satisfactory disposition (which may include victim compensation and expenses), then fixes a further hearing date; (b) if the Court instead finds the application involuntary, or discovers a prior conviction on the same offence, plea bargaining is abandoned and the case proceeds under ordinary Sanhita procedure from the stage the application was filed.",
+        "essential_elements": [
+          "Application window: thirty days from the date of framing of charge, filed in the Court where the offence is pending trial",
+          "Application content: a brief case description plus a sworn affidavit confirming voluntariness (after understanding the punishment) and no prior conviction on the same offence",
+          "The Court issues notice to the Public Prosecutor/complainant and the accused to appear",
+          "The Court independently examines the accused in camera (other party absent) to verify voluntariness",
+          "If satisfied of voluntariness: up to sixty days is given to work out a mutually satisfactory disposition (potentially including victim compensation/expenses), followed by a further hearing date",
+          "If the application is found involuntary, or a prior conviction on the same offence is discovered: the Chapter's process stops and the case reverts to ordinary procedure from the application-filing stage"
+        ],
+        "exceptions_and_qualifications": [
+          "The in-camera voluntariness check under sub-section (4) is an independent judicial safeguard, not a mere formality -- it exists specifically to prevent coerced or pressured plea-bargain applications from proceeding.",
+          "A prior conviction on the same offence is an absolute bar to proceeding with plea bargaining, discovered either from the affidavit itself or from the Court's own examination."
+        ],
+        "how_to_read": "Read this as the procedural entry point that converts a Chapter-XXIII-eligible case (per section 289) into an active negotiation -- the in-camera voluntariness examination is the key judicial checkpoint standing between a mere application and the actual sixty-day disposition-negotiation window that follows under section 291."
+      }
+    },
+    {
+      "number": "291",
+      "title": "Guidelines for mutually satisfactory disposition",
+      "raw_text": "291. Guidelines for mutually satisfactory disposition.—In working out a mutually satisfactory\n    disposition under clause (a) of sub-section (4) of section 290, the Court shall follow the following\n    procedure, namely:—\n            (a) in a case instituted on a police report, the Court shall issue notice to the Public Prosecutor, the\n        police officer who has investigated the case, the accused and the victim of the case to participate in the\n        meeting to work out a satisfactory disposition of the case:\n            Provided that throughout such process of working out a satisfactory disposition of the case, it shall\n        be the duty of the Court to ensure that the entire process is completed voluntarily by the parties\n        participating in the meeting:\n           Provided further that the accused, if he so desires, may participate in such meeting with his\n        advocate, if any, engaged in the case;\n            (b) in a case instituted otherwise than on police report, the Court shall issue notice to the accused\n        and the victim of the case to participate in a meeting to work out a satisfactory disposition of the case:\n             Provided that it shall be the duty of the Court to ensure, throughout such process of working out a\n        satisfactory disposition of the case, that it is completed voluntarily by the parties participating in the\n        meeting:\n           Provided further that if the victim of the case or the accused so desires, he may participate in such\n        meeting with his advocate engaged in the case.",
+      "key_terms": [
+        "plea bargaining",
+        "victim",
+        "police report"
+      ],
+      "breakdown": {
+        "plain_summary": "This section supplies the operational guidelines for the sixty-day negotiation window opened by section 290(4)(a), differentiating the participant list based on how the case was instituted. Clause (a) governs police-report cases: the Court must notice the Public Prosecutor, the investigating police officer, the accused, and the victim to participate in the disposition meeting -- with a first proviso making it the Court's continuing duty to ensure the entire process remains voluntary throughout, and a second proviso allowing the accused to bring his advocate (if any) to the meeting. Clause (b) governs cases instituted otherwise than on police report (private complaints): here the participant list narrows to just the accused and the victim (no Public Prosecutor or investigating officer, since none exists in a pure private-complaint track), again with parallel provisos preserving the Court's voluntariness-oversight duty and allowing either the victim or the accused to bring their respective advocate.",
+        "essential_elements": [
+          "Police-report cases: notice to the Public Prosecutor, investigating police officer, accused, and victim to attend the disposition meeting",
+          "Non-police-report (complaint) cases: notice to the accused and victim only",
+          "In both tracks, the Court has a continuing duty to ensure the process remains voluntary throughout",
+          "In both tracks, participants may bring their engaged advocate to the meeting if they so desire"
+        ],
+        "exceptions_and_qualifications": [
+          "The participant list differs materially between the two tracks -- the Public Prosecutor and investigating officer feature only in police-report cases, reflecting the State's institutional role there, which is absent in purely private-complaint cases."
+        ],
+        "how_to_read": "Read this as the negotiation-meeting rulebook that operationalises the sixty-day window section 290(4)(a) creates -- the Court's voluntariness-oversight duty here is the same institutional safeguard already embedded at the application stage (section 290(4)), now extended to cover the substantive negotiation itself."
+      }
+    },
+    {
+      "number": "292",
+      "title": "Report of mutually satisfactory disposition to be submitted before Court",
+      "raw_text": "292. Report of mutually satisfactory disposition to be submitted before Court.—Where in a\n    meeting under section 291, a satisfactory disposition of the case has been worked out, the Court shall\n    prepare a report of such disposition which shall be signed by the presiding officer of the Court and all other\n    persons who participated in the meeting and if no such disposition has been worked out, the Court shall\n    record such observation and proceed further in accordance with the provisions of this Sanhita from the stage\n    the application under sub-section (1) of section 290 has been filed in such case.",
+      "key_terms": [
+        "plea bargaining",
+        "disposition"
+      ],
+      "breakdown": {
+        "plain_summary": "This section requires the outcome of the section 291 negotiation meeting to be formally documented, with a clear fork depending on success or failure. If a satisfactory disposition was actually worked out, the Court must prepare a written report of it, signed by both the presiding officer and every participant in the meeting -- creating a jointly-endorsed, verifiable record of exactly what was agreed. If no disposition could be reached, the Court simply records that observation, and the case reverts to ordinary Sanhita procedure from the point the plea-bargaining application was originally filed under section 290(1) -- meaning a failed negotiation does not prejudice or delay the accused's position beyond that reversion point.",
+        "essential_elements": [
+          "Successful negotiation: the Court prepares a written report of the disposition, signed by the presiding officer and all meeting participants",
+          "Unsuccessful negotiation: the Court records that observation and the case proceeds under ordinary Sanhita procedure from the section 290(1) application-filing stage"
+        ],
+        "exceptions_and_qualifications": [
+          "The signature requirement on a successful disposition report is comprehensive -- it is not enough for the presiding officer alone to sign; every participant in the meeting must also sign, giving the disposition multi-party evidentiary weight."
+        ],
+        "how_to_read": "Read this as the accountability and fallback mechanism bridging the negotiation stage (section 291) and the actual disposal of the case (section 293) -- a jointly-signed report if successful, or a clean procedural reversion if not."
+      }
+    },
+    {
+      "number": "293",
+      "title": "Disposal of case",
+      "raw_text": "293. Disposal of case.—Where a satisfactory disposition of the case has been worked out under\n    section 292, the Court shall dispose of the case in the following manner, namely:—\n            (a) the Court shall award the compensation to the victim in accordance with the disposition under\n        section 292 and hear the parties on the quantum of the punishment, releasing of the accused on\n        probation of good conduct or after admonition under section 401 or for dealing with the accused under\n        the provisions of the Probation of Offenders Act, 1958 (20 of 1958) or any other law for the time being\n        in force and follow the procedure specified in the succeeding clauses for imposing the punishment on\n        the accused;\n            (b) after hearing the parties under clause (a), if the Court is of the view that section 401 or the\n        provisions of the Probation of Offenders Act, 1958 (20 of 1958) or any other law for the time being in\n        force are attracted in the case of the accused, it may release the accused on probation or provide the\n        benefit of any such law;\n            (c) after hearing the parties under clause (b), if the Court finds that minimum punishment has been\n        provided under the law for the offence committed by the accused, it may sentence the accused to half\n        of such minimum punishment, and where the accused is a first-time offender and has not been convicted\n        of any offence in the past, it may sentence the accused to one-fourth of such minimum punishment;\n             (d) in case after hearing the parties under clause (b), the Court finds that the offence committed by\n        the accused is not covered under clause (b) or clause (c), then, it may sentence the accused to one-fourth\n        of the punishment provided or extendable for such offence and where the accused is a first-time\n        offender and has not been convicted of any offence in the past, it may sentence the accused to one-sixth\n        of the punishment provided or extendable, for such offence.",
+      "key_terms": [
+        "plea bargaining",
+        "probation",
+        "sentence",
+        "victim"
+      ],
+      "breakdown": {
+        "plain_summary": "This section supplies the actual sentencing payoff of a successful plea bargain -- the concrete benefit that makes the process attractive to an accused -- structured as a sequential decision tree. Clause (a) requires the Court to award victim compensation per the section 292 disposition and hear the parties on the quantum of punishment, including whether probation/admonition under section 401 or the Probation of Offenders Act, 1958 (or any other law) should apply, following the sequence in the succeeding clauses. Clause (b) gives first priority to probation/admonition: if the Court considers section 401 or the Probation of Offenders Act (or other law) attracted, it may release the accused on probation or extend that law's benefit -- bypassing ordinary sentencing altogether. Clause (c) applies only if probation/admonition was not granted, and only where the offence carries a minimum mandatory punishment under law: the Court may sentence to half that minimum, or, for a genuine first-time offender with no prior conviction, to just one-fourth of that minimum -- substantial, tiered discounts. Clause (d) is the residual case: where the offence has no minimum-punishment provision (falling outside both (b) and (c)), the Court may sentence to one-fourth of the punishment provided or extendable for the offence, or, for a first-time offender, to just one-sixth of that punishment.",
+        "essential_elements": [
+          "Clause (a): victim compensation is awarded per the section 292 disposition; the Court hears parties on quantum of punishment/probation before applying clauses (b)-(d) in sequence",
+          "Clause (b): first priority given to probation/admonition (section 401) or the Probation of Offenders Act/other law, where attracted",
+          "Clause (c): where a minimum punishment is prescribed by law and probation/admonition was not applied, sentence may be reduced to half the minimum (one-fourth for genuine first-time offenders)",
+          "Clause (d): where no minimum punishment is prescribed (residual cases), sentence may be reduced to one-fourth of the punishment provided/extendable (one-sixth for genuine first-time offenders)"
+        ],
+        "exceptions_and_qualifications": [
+          "The sentencing discounts in clauses (c) and (d) are structured as a strict fallback sequence -- probation/admonition is considered first (clause b), and only if not applied do the fractional-minimum (clause c) or fractional-extendable-punishment (clause d) discounts come into play.",
+          "First-time-offender status (no prior conviction) doubles the size of the discount in both clause (c) (one-fourth instead of half) and clause (d) (one-sixth instead of one-fourth) -- a deliberate incentive favouring genuinely first-time accused persons.",
+          "All the sentencing outcomes here are discretionary ('may'), not mandatory -- the Court retains judgment even within the plea-bargain framework."
+        ],
+        "how_to_read": "Read this as the substantive heart of Chapter XXIII -- the concrete sentencing benefit that gives an accused reason to choose plea bargaining, structured to reward genuine first-time offenders more generously while still requiring victim compensation as a non-negotiable component of every successful disposition under clause (a)."
+      }
+    },
+    {
+      "number": "294",
+      "title": "Judgment of Court",
+      "raw_text": "294. Judgment of Court.—The Court shall deliver its judgment in terms of section 293 in the open\n    Court and the same shall be signed by the presiding officer of the Court.",
+      "key_terms": [
+        "judgment",
+        "plea bargaining"
+      ],
+      "breakdown": {
+        "plain_summary": "This short section requires the section 293 disposal decision to be formally converted into a judgment, delivered in open Court (preserving public accountability and transparency even though the underlying negotiation itself occurred privately/in camera) and signed by the presiding officer -- the same basic judgment-delivery discipline (open pronouncement, judicial signature) applied throughout the Sanhita's other trial chapters, now extended to the plea-bargaining track's own distinctive disposal mechanism.",
+        "essential_elements": [
+          "The Court must deliver its judgment, following the section 293 disposal terms, in open Court",
+          "The judgment must be signed by the presiding officer of the Court"
+        ],
+        "exceptions_and_qualifications": [
+          "Although the negotiation process itself (sections 290-292) involves in-camera examination and private meetings, the final judgment must still be delivered publicly in open Court -- transparency is restored at the final disposal stage."
+        ],
+        "how_to_read": "Read this as the formal capstone converting the negotiated section 293 disposal into an enforceable judicial judgment -- open delivery and signature giving it the same dignity and public accountability as any other judgment under the Sanhita, even though it results from a negotiated rather than a contested process."
       }
     }
   ]
