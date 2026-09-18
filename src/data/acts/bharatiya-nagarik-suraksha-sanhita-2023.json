@@ -9921,6 +9921,99 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "Sections 438(3) and 440(3) work together as a matched pair enforcing the same finality principle from both ends -- once a litigant has chosen and exhausted the Sessions Judge route, section 440(3) independently blocks any further attempt at the High Court, even setting aside section 438(3)'s prior-application bar."
       }
+    },
+    {
+      "number": "441",
+      "title": "Power of Additional Sessions Judge",
+      "raw_text": "441. Power of Additional Sessions Judge.—An Additional Sessions Judge shall have and may\nexercise all the powers of a Sessions Judge under this Chapter in respect of any case which may be\ntransferred to him by or under any general or special order of the Sessions Judge.",
+      "key_terms": [
+        "additional sessions judge"
+      ],
+      "breakdown": {
+        "plain_summary": "This confirms that an Additional Sessions Judge is not a lesser authority when it comes to reference and revision matters -- he has and may exercise the full powers of a Sessions Judge under this Chapter, but only for cases actually transferred to him by the Sessions Judge's general or special order. The power flows from delegation, not independent original authority.",
+        "essential_elements": [
+          "An Additional Sessions Judge has all the powers of a Sessions Judge under this Chapter (Reference and Revision).",
+          "This applies only to cases transferred to him by or under a general or special order of the Sessions Judge."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Practitioners should verify the underlying transfer order when a matter is being handled by an Additional Sessions Judge under this Chapter -- without a valid general or special order from the Sessions Judge, the Additional Sessions Judge would lack this delegated authority."
+      }
+    },
+    {
+      "number": "442",
+      "title": "High Court's powers of revision",
+      "raw_text": "442. High Court's powers of revision.—(1) In the case of any proceeding the record of which has\nbeen called for by itself or which otherwise comes to its knowledge, the High Court may, in its discretion,\nexercise any of the powers conferred on a Court of Appeal by sections 427, 430, 431 and 432 or on a Court\nof Session by section 344, and, when the Judges composing the Court of revision are equally divided in\nopinion, the case shall be disposed of in the manner provided by section 433.\n\n    (2) No order under this section shall be made to the prejudice of the accused or other person unless he\nhas had an opportunity of being heard either personally or by advocate in his own defence.\n    (3) Nothing in this section shall be deemed to authorise a High Court to convert a finding of acquittal\ninto one of conviction.\n    (4) Where under this Sanhita an appeal lies and no appeal is brought, no proceeding by way of revision\nshall be entertained at the instance of the party who could have appealed.\n    (5) Where under this Sanhita an appeal lies but an application for revision has been made to the High\nCourt by any person and the High Court is satisfied that such application was made under the erroneous\nbelief that no appeal lies thereto and that it is necessary in the interests of justice so to do, the High Court\nmay treat the application for revision as a petition of appeal and deal with the same accordingly.",
+      "key_terms": [
+        "acquittal",
+        "conviction"
+      ],
+      "breakdown": {
+        "plain_summary": "This spells out the substantive content of the High Court's revisional power referenced by section 438: for any proceeding whose record it has called for, or which otherwise comes to its knowledge, the High Court may in its discretion exercise any of the Appellate Court's powers under sections 427, 430, 431, and 432, or a Court of Session's powers under section 344, with a divided-Bench tie broken per section 433. Several important limits apply: no order can be made to the accused's/another person's prejudice without giving him a hearing opportunity (personally or by advocate); the High Court cannot use revision to convert an acquittal into a conviction (a hard substantive limit, since that would effectively bypass the acquittal-appeal safeguards in section 419); revision is unavailable to a party who had an appeal right but chose not to use it (revision is not a backdoor around a missed appeal); and, as a fairness safety valve, if someone mistakenly filed for revision believing no appeal lay when one actually did, the High Court may -- in the interests of justice -- simply treat that revision application as a petition of appeal instead.",
+        "essential_elements": [
+          "The High Court may, in its discretion, exercise any of the Appellate Court's powers under sections 427, 430, 431, 432, or a Court of Session's powers under section 344, over any proceeding whose record it has called for or that otherwise comes to its knowledge.",
+          "A divided-opinion revision Bench is resolved per section 433.",
+          "No prejudicial order may be made without giving the affected person a hearing opportunity (personally or by advocate).",
+          "The High Court cannot convert an acquittal into a conviction via revision.",
+          "Revision is not available to a party who had an appeal right under this Sanhita but did not appeal.",
+          "If a revision application was mistakenly filed under the erroneous belief that no appeal lay, the High Court may, in the interests of justice, treat it as a petition of appeal instead."
+        ],
+        "exceptions_and_qualifications": [
+          "The acquittal-to-conviction conversion bar means an acquittal can only be reversed via a proper section 419 acquittal appeal, never through revision.",
+          "A party who could have appealed but didn't is barred from using revision as a substitute route."
+        ],
+        "how_to_read": "The sub-section (5) rescue mechanism is worth invoking proactively for a client who mistakenly filed a revision application in a case where an appeal actually lay -- rather than losing the remedy entirely to a limitation/wrong-forum technicality, counsel can ask the High Court to treat it as a petition of appeal in the interests of justice."
+      }
+    },
+    {
+      "number": "443",
+      "title": "Power of High Court to withdraw or transfer revision cases",
+      "raw_text": "443. Power of High Court to withdraw or transfer revision cases.—(1) Whenever one or more\npersons convicted at the same trial makes or make application to a High Court for revision and any other\nperson convicted at the same trial makes an application to the Sessions Judge for revision, the High Court\nshall decide, having regard to the general convenience of the parties and the importance of the questions\ninvolved, which of the two Courts should finally dispose of the applications for revision and when the High\nCourt decides that all the applications for revision should be disposed of by itself, the High Court shall\ndirect that the applications for revision pending before the Sessions Judge be transferred to itself and where\nthe High Court decides that it is not necessary for it to dispose of the applications for revision, it shall direct\nthat the applications for revision made to it be transferred to the Sessions Judge.\n    (2) Whenever any application for revision is transferred to the High Court, that Court shall deal with\nthe same as if it were an application duly made before itself.\n    (3) Whenever any application for revision is transferred to the Sessions Judge, that Judge shall deal\nwith the same as if it were an application duly made before himself.\n    (4) Where an application for revision is transferred by the High Court to the Sessions Judge, no further\napplication for revision shall lie to the High Court or to any other Court at the instance of the person or\npersons whose applications for revision have been disposed of by the Sessions Judge.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This prevents split, inconsistent outcomes when co-accused from the same trial file revision applications at different levels -- some to the High Court, others to the Sessions Judge. The High Court must decide, weighing the parties' general convenience and the importance of the legal questions involved, which single Court should finally dispose of all the applications, and then direct the necessary transfers (pulling Sessions-Judge-level applications up to itself, or pushing its own applications down to the Sessions Judge) so that one forum handles the whole matter. A transferred application is simply treated as if it had been originally and duly filed before the receiving Court. And where the High Court pushes applications down to the Sessions Judge, section 438(3)'s one-application logic is reinforced: no further revision lies to the High Court or any other Court for a person whose application was disposed of by the Sessions Judge.",
+        "essential_elements": [
+          "Applies when co-accused from the same trial have revision applications pending in different forums (some at the High Court, some at the Sessions Judge).",
+          "The High Court decides which single Court should dispose of all applications, considering party convenience and the importance of the questions involved.",
+          "It may transfer Sessions-Judge-level applications to itself, or transfer its own applications down to the Sessions Judge.",
+          "A transferred application is treated as if duly made before the receiving Court.",
+          "Where the High Court transfers applications down to the Sessions Judge, no further revision lies to the High Court or any other Court for persons whose applications the Sessions Judge disposed of."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a consolidation mechanism aimed at co-accused from a single trial -- it prevents the same underlying trial record from being scrutinized inconsistently by two different revisional authorities at once."
+      }
+    },
+    {
+      "number": "444",
+      "title": "Option of Court to hear parties",
+      "raw_text": "444. Option of Court to hear parties.—Save as otherwise expressly provided by this Sanhita, no party\nhas any right to be heard either personally or by an advocate before any Court exercising its powers of\nrevision; but the Court may, if it thinks fit, when exercising such powers, hear any party either personally\nor by an advocate.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This clarifies that a full oral hearing is not an automatic entitlement in revision proceedings, unlike an appeal: unless this Sanhita expressly says otherwise, no party has a right to be heard, personally or through an advocate, before a Court exercising revisional powers. But the Court retains full discretion to hear any party if it thinks fit -- so hearings do happen in practice, just as a matter of the Court's choice rather than the party's entitlement.",
+        "essential_elements": [
+          "Default rule: no party has a right to be heard (personally or by advocate) before a Court exercising revisional powers, unless this Sanhita expressly provides otherwise.",
+          "The Court may, at its discretion, still choose to hear any party personally or by advocate."
+        ],
+        "exceptions_and_qualifications": [
+          "Section 442(2)'s prejudicial-order hearing requirement is itself one of the 'expressly provided' exceptions -- a hearing becomes mandatory there specifically because a prejudicial order is contemplated."
+        ],
+        "how_to_read": "Practitioners should not assume an automatic right to argue a revision petition orally -- while Courts commonly do grant a hearing as a matter of practice and fairness, section 444 confirms this is discretionary except where another provision (like section 442(2) for prejudicial orders) makes it mandatory."
+      }
+    },
+    {
+      "number": "445",
+      "title": "High Court's order to be certified to lower Court",
+      "raw_text": "445. High Court's order to be certified to lower Court.—When a case is revised under this Chapter\nby the High Court or a Sessions Judge, it or he shall, in the manner provided by section 429, certify its\ndecision or order to the Court by which the finding, sentence or order revised was recorded or passed, and\nthe Court to which the decision or order is so certified shall thereupon make such orders as are conformable\nto the decision so certified, and, if necessary, the record shall be amended in accordance therewith.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XXXII by extending the same certification-and-conforming-order mechanism used for appeals (section 429) to revision outcomes: whichever authority revised the case -- High Court or Sessions Judge -- must certify its decision or order, in the section 429 manner, to the Court whose finding/sentence/order was revised. That receiving Court must then make orders conforming to the certified decision, amending its record if necessary.",
+        "essential_elements": [
+          "Applies whenever a case is revised under this Chapter by the High Court or a Sessions Judge.",
+          "The revising authority certifies its decision/order, in the manner provided by section 429, to the Court whose finding/sentence/order was revised.",
+          "The receiving Court must make conforming orders and amend its record if necessary."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the third instance of the same certify-and-conform pattern in this Sanhita (after section 412 for death confirmations and section 429 for appeals) -- practitioners can rely on this consistent mechanism whenever a higher authority's decision needs to actually be implemented at the level where the case originated."
+      }
     }
   ]
 }
