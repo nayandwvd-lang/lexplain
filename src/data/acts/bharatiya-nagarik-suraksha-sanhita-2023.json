@@ -238,7 +238,12 @@
     "intellectual disability": "A disability involving significant limitations in intellectual functioning and adaptive behaviour, treated under Chapter XXVII as distinct from unsoundness of mind but given a parallel procedural track: if it renders the accused incapable of entering a defence, the Magistrate closes the inquiry (rather than postponing it) and deals with the accused under section 369's release/care framework.",
     "mental healthcare act": "The Mental Healthcare Act, 2017 -- the central legislation governing the treatment, rights, and institutional care of persons with mental illness in India; BNSS's unsound-mind procedure defers to its rules whenever an accused is ordered detained in a public mental health establishment, ensuring criminal-process detention does not bypass that Act's safeguards.",
     "sound mind": "The mental capacity to know the nature of one's act and to know that it is wrong or contrary to law; section 372 addresses the situation where an accused is of sound mind at the time of inquiry or trial but is found to have been of unsound mind -- and thus incapable of that knowledge -- at the time the act was actually committed.",
-    "security": "A formal guarantee -- typically a bond or undertaking, sometimes with a financial or personal surety -- given to a Magistrate or Court as assurance that a person delivered into someone's care will be properly looked after and prevented from causing harm to himself or others, and will be produced for inspection or before the authorities as directed; under section 374, a relative or friend seeking delivery of a person acquitted on unsoundness-of-mind grounds must give such security before the Court will release the person into their care."
+    "security": "A formal guarantee -- typically a bond or undertaking, sometimes with a financial or personal surety -- given to a Magistrate or Court as assurance that a person delivered into someone's care will be properly looked after and prevented from causing harm to himself or others, and will be produced for inspection or before the authorities as directed; under section 374, a relative or friend seeking delivery of a person acquitted on unsoundness-of-mind grounds must give such security before the Court will release the person into their care.",
+    "inspector-general of prisons": "The senior State official heading the prison administration of a State, responsible for the oversight, inspection, and welfare of persons confined in jails; under BNSS's unsound-mind provisions, the Inspector-General certifies whether a jail-detained accused has become capable of making his defence (section 376) or fit to be released without danger to himself or others (section 377), and the State Government may delegate these certifying functions to a jail's officer in charge under section 375.",
+    "mental health review board": "A quasi-judicial body constituted under the Mental Healthcare Act, 2017 to review and safeguard the rights of persons receiving mental healthcare, including reviewing admission and detention in mental health establishments; where a section 369 detainee is held in a public mental health establishment rather than a jail, it is this Board -- not the Inspector-General of Prisons -- that certifies capacity to stand trial under section 376.",
+    "bind over": "To require a person, by a formal court order backed by a bond or security, to do (or refrain from doing) a specified act -- most commonly, to appear and give evidence at a future date; section 379 empowers a Court to bind over witnesses to appear before the Magistrate to whom it forwards a complaint regarding offences against the administration of justice.",
+    "commission": "A body of designated persons formally appointed by an authority (here, the State Government) to investigate a specific question and report back, rather than the authority deciding the matter itself in the first instance; section 377(1) allows the State Government, when transferring a detained person to a public mental health establishment, to appoint a three-member Commission -- one Judicial officer and two medical officers -- to formally inquire into that person's state of mind and report a recommendation on release or detention.",
+    "revision": "The supervisory jurisdiction of a superior Court to examine the record of a subordinate Court's proceeding to correct errors of jurisdiction, law, or procedure, without being a full-fledged appeal on facts; section 380(2) specifically excludes orders under sections 379-380 from revision, making the appellate Court's decision on whether to lodge a complaint for offences against the administration of justice final and not open to further supervisory challenge."
   },
   "sections": [
     {
@@ -8641,6 +8646,105 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This is a purely administrative delegation mechanism ensuring the certification/review functions in sections 376-377 (about capacity or fitness for release) can be exercised locally at the jail level rather than bottlenecking at the Inspector-General's office -- practitioners should check, in a given State, whether such delegation has actually been made when determining who the correct authority is to approach."
+      }
+    },
+    {
+      "number": "376",
+      "title": "Procedure where prisoner of unsound mind is reported capable of making his defence",
+      "raw_text": "376. Procedure where prisoner of unsound mind is reported capable of making his defence.—If\na person is detained under the provisions of sub-section (2) of section 369, and in the case of a person\ndetained in a jail, the Inspector-General of Prisons, or, in the case of a person detained in a public mental\nhealth establishment, the Mental Health Review Board constituted under the Mental Healthcare Act, 2017\n(10 of 2017), shall certify that, in his or their opinion, such person is capable of making his defence, he\nshall be taken before the Magistrate or Court, as the case may be, at such time as the Magistrate or Court\nappoints, and the Magistrate or Court shall deal with such person under the provisions of section 371; and\nthe certificate of such Inspector-General or visitors as aforesaid shall be receivable as evidence.",
+      "key_terms": [
+        "inspector-general of prisons",
+        "mental health review board"
+      ],
+      "breakdown": {
+        "plain_summary": "This is one of the two triggers (alongside section 370's sureties-produce-him route) for resuming a postponed inquiry or trial. Once a section 369(2)-detained person -- held either in jail or in a public mental health establishment -- is certified capable of making his defence by the relevant authority (the Inspector-General of Prisons for jail detainees, the Mental Health Review Board for those in a mental health establishment), he is produced before the Magistrate or Court, which then proceeds exactly as under section 371 (checking capacity and either resuming the case or cycling back through the fitness procedure). The certificate itself is treated as admissible evidence, sparing the need for the certifying authority to testify in person.",
+        "essential_elements": [
+          "Applies to a person detained under section 369(2) (where bail could not be granted or no adequate undertaking was given).",
+          "The certifying authority depends on the place of detention: the Inspector-General of Prisons for jail detainees, the Mental Health Review Board (constituted under the Mental Healthcare Act, 2017) for those in a public mental health establishment.",
+          "The certificate must state that, in the certifying authority's opinion, the person is capable of making his defence.",
+          "The person is then produced before the Magistrate or Court, which deals with him under section 371.",
+          "The certificate of the Inspector-General or Board is receivable as evidence without further proof."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section operationalizes the detention branch of section 369 by supplying its own capacity-certification and evidence shortcut -- distinct from, but parallel to, section 370's sureties-based route for persons released on bail -- ensuring that detention pending treatment does not become indefinite once the underlying incapacity resolves."
+      }
+    },
+    {
+      "number": "377",
+      "title": "Procedure where person of unsound mind detained is declared fit to be released",
+      "raw_text": "377. Procedure where person of unsound mind detained is declared fit to be released.—(1) If a\nperson is detained under the provisions of sub-section (2) of section 369, or section 374, and such Inspector-\nGeneral or visitors shall certify that, in his or their judgment, he may be released without danger of his\ndoing injury to himself or to any other person, the State Government may thereupon order him to be\nreleased, or to be detained in custody, or to be transferred to a public mental health establishment if he has\nnot been already sent to such establishment; and, in case it orders him to be transferred to a public mental\nhealth establishment, may appoint a Commission, consisting of a Judicial and two medical officers.\n    (2) Such Commission shall make a formal inquiry into the state of mind of such person, take such\nevidence as is necessary, and shall report to the State Government, which may order his release or detention\nas it thinks fit.",
+      "key_terms": [
+        "commission"
+      ],
+      "breakdown": {
+        "plain_summary": "This addresses the safety-oriented release question, distinct from section 376's capacity-to-stand-trial question: whether a person detained under section 369(2) (pending investigation/trial) or section 374 (post-acquittal safe custody) has become safe to release into society. Once the certifying authority reports that he may be released without danger of self-harm or harm to others, the State Government has three options -- release him, keep him in detention, or transfer him to a public mental health establishment (if not already there) -- and if it chooses transfer, it may appoint a three-member Commission (one Judicial and two medical officers) to conduct a formal inquiry into his state of mind, take evidence, and report back, with the final release/detention decision still resting with the State Government.",
+        "essential_elements": [
+          "Applies to a person detained under section 369(2) (pending investigation/trial) or section 374 (post-acquittal safe custody).",
+          "Triggered by a certificate from the Inspector-General or visitors that the person may be released without danger of injury to himself or others.",
+          "The State Government may then order release, continued detention, or transfer to a public mental health establishment.",
+          "If transfer is ordered, the State Government may appoint a Commission of one Judicial officer and two medical officers.",
+          "The Commission conducts a formal inquiry, takes evidence, and reports to the State Government, which retains final discretion over release or detention."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the safety-clearance counterpart to section 376's capacity-clearance mechanism -- note the final decision-making power stays with the State Government even after a favourable certificate or Commission report, reflecting the public-safety stakes of releasing someone previously found dangerous by reason of unsoundness of mind or intellectual disability."
+      }
+    },
+    {
+      "number": "378",
+      "title": "Delivery of person of unsound mind to care of relative or friend",
+      "raw_text": "378. Delivery of person of unsound mind to care of relative or friend.—(1) Whenever any relative\nor friend of any person detained under the provisions of section 369 or section 374 desires that he shall be\ndelivered to his care and custody, the State Government may, upon the application of such relative or friend\nand on his giving security to the satisfaction of such State Government, that the person delivered shall—\n        (a) be properly taken care of and prevented from doing injury to himself or to any other person;\n        (b) be produced for the inspection of such officer, and at such times and places, as the State\n    Government may direct;\n        (c) in the case of a person detained under sub-section (2) of section 369, be produced when required\n    before such Magistrate or Court,\norder such person to be delivered to such relative or friend.\n    (2) If the person so delivered is accused of any offence, the trial of which has been postponed by reason\nof his being of unsound mind and incapable of making his defence, and the inspecting officer referred to in\nclause (b) of sub-section (1), certifies at any time to the Magistrate or Court that such person is capable of\nmaking his defence, such Magistrate or Court shall call upon the relative or friend to whom such accused\nwas delivered to produce him before the Magistrate or Court; and, upon such production the Magistrate or\nCourt shall proceed in accordance with the provisions of section 371, and the certificate of the inspecting\nofficer shall be receivable as evidence.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XXVII by extending, at the State Government level, the same relative-or-friend delivery option that section 374(1)(b) gives the Magistrate/Court directly for post-acquittal detainees -- here the State Government itself may order delivery of a section 369 or section 374 detainee to a relative or friend's care and custody, upon their application and adequate security covering proper care, prevention of self-harm/harm to others, periodic inspection, and (for section 369(2) detainees specifically) production before the Magistrate/Court when required. If the delivered person's trial was postponed for incapacity and the inspecting officer later certifies him capable of making his defence, the relative/friend must produce him before the Magistrate/Court, which then resumes proceedings under section 371, with the certificate again treated as admissible evidence.",
+        "essential_elements": [
+          "Applies to a person detained under section 369 or section 374.",
+          "The State Government may order delivery to a relative or friend upon their application and security ensuring proper care, prevention of self-harm/harm to others, and production for inspection as directed.",
+          "For a section 369(2) detainee specifically, the security must also cover production before the Magistrate or Court when required.",
+          "If the delivered person's trial was postponed for incapacity and the inspecting officer certifies him capable of making his defence, the relative/friend must produce him before the Magistrate or Court.",
+          "The Magistrate or Court then proceeds under section 371, and the inspecting officer's certificate is receivable as evidence."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Together, sections 374 and 378 create two parallel relative-delivery tracks -- one exercised directly by the Magistrate/Court at the acquittal-disposition stage, the other exercised by the State Government for persons already in institutional detention -- both anchored by the same security safeguards and both feeding back into section 371's resumption procedure once capacity is restored."
+      }
+    },
+    {
+      "number": "379",
+      "title": "Procedure in cases mentioned in section 215",
+      "raw_text": "379. Procedure in cases mentioned in section 215.—(1) When, upon an application made to it in this\nbehalf or otherwise, any Court is of opinion that it is expedient in the interests of justice that an inquiry\nshould be made into any offence referred to in clause (b) of sub-section (1) of section 215, which appears\nto have been committed in or in relation to a proceeding in that Court or, as the case may be, in respect of\na document produced or given in evidence in a proceeding in that Court, such Court may, after such\npreliminary inquiry, if any, as it thinks necessary,—\n        (a) record a finding to that effect;\n        (b) make a complaint thereof in writing;\n        (c) send it to a Magistrate of the first class having jurisdiction;\n        (d) take sufficient security for the appearance of the accused before such Magistrate, or if the\n    alleged offence is non-bailable and the Court thinks it necessary so to do, send the accused in custody\n    to such Magistrate; and\n        (e) bind over any person to appear and give evidence before such Magistrate.\n    (2) The power conferred on a Court by sub-section (1) in respect of an offence may, in any case where\nthat Court has neither made a complaint under sub-section (1) in respect of that offence nor rejected an\napplication for the making of such complaint, be exercised by the Court to which such former Court is\nsubordinate within the meaning of sub-section (4) of section 215.\n    (3) A complaint made under this section shall be signed,—\n        (a) where the Court making the complaint is a High Court, by such officer of the Court as the Court\n    may appoint;\n        (b) in any other case, by the presiding officer of the Court or by such officer of the Court as the\n    Court may authorise in writing in this behalf.\n    (4) In this section, \"Court\" has the same meaning as in section 215.",
+      "key_terms": [
+        "bind over"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XXVIII (Offences Affecting the Administration of Justice) with the procedural machinery for a Court to itself initiate action over document-fabrication or evidence-tampering-type offences (the section 215(1)(b) category -- offences relating to documents produced or given in evidence before it) that appear to have occurred in or in relation to its own proceedings. Rather than any private party filing a complaint, the Court -- on application or on its own motion, after whatever preliminary inquiry it thinks fit -- can record a finding, draw up a written complaint, forward it to a Magistrate of the first class, secure the accused's appearance (by security, or custody if the offence is non-bailable and the Court thinks it warranted), and bind over witnesses to appear. If the Court declines to act, the same power passes up to the Court to which it is subordinate.",
+        "essential_elements": [
+          "Applies to offences under section 215(1)(b) appearing to have been committed in or in relation to a proceeding in that Court, or regarding a document produced/given in evidence there.",
+          "The Court may act on application or of its own motion, after any preliminary inquiry it thinks necessary.",
+          "It may record a finding, make a written complaint, send it to a Magistrate of the first class with jurisdiction, secure the accused's appearance (by security, or custody for non-bailable offences), and bind over witnesses.",
+          "If the originating Court neither makes a complaint nor rejects an application for one, the power passes to the Court to which it is subordinate under section 215(4).",
+          "The complaint must be signed by a Court-appointed officer (if a High Court) or the presiding officer/authorised officer (otherwise).",
+          "\"Court\" carries the same meaning as in section 215."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the self-initiating complaint mechanism that makes offences against the administration of justice enforceable even without a private complainant -- practitioners should note the built-in escalation safeguard in sub-section (2): a Court's inaction (neither filing nor rejecting) does not end the matter, it simply shifts the power upward to the superior Court, and section 380 supplies the corresponding appeal route for whichever way the decision goes."
+      }
+    },
+    {
+      "number": "380",
+      "title": "Appeal",
+      "raw_text": "380. Appeal.—(1) Any person on whose application any Court other than a High Court has refused to\nmake a complaint under sub-section (1) or sub-section (2) of section 379, or against whom such a complaint\nhas been made by such Court, may appeal to the Court to which such former Court is subordinate within\nthe meaning of sub-section (4) of section 215, and the superior Court may thereupon, after notice to the\nparties concerned, direct the withdrawal of the complaint, or, as the case may be, making of the complaint\nwhich such former Court might have made under section 379, and, if it makes such complaint, the\nprovisions of that section shall apply accordingly.\n    (2) An order under this section, and subject to any such order, an order under section 379, shall be final,\nand shall not be subject to revision.",
+      "key_terms": [
+        "revision"
+      ],
+      "breakdown": {
+        "plain_summary": "This supplies the appeal route for section 379 decisions, available to two classes of person: one whose application for a complaint was refused by a subordinate Court, and one against whom a complaint was actually made. Either may appeal to the Court to which the deciding Court is subordinate, which -- after hearing the parties -- can direct withdrawal of a complaint that was made, or direct the making of a complaint that was refused, applying section 379's procedure accordingly. Critically, whatever the superior Court decides under this appeal (and, subject to that, the original section 379 order) is final and cannot be further challenged by way of revision.",
+        "essential_elements": [
+          "Available to a person whose application for a complaint under section 379(1)/(2) was refused, or against whom such a complaint was made.",
+          "The appeal lies to the Court to which the deciding Court is subordinate (per section 215(4)).",
+          "After notice to the parties, the superior Court may direct withdrawal of a made complaint, or direct the making of a refused complaint (applying section 379's procedure).",
+          "The appellate order -- and, subject to it, the original section 379 order -- is final and not subject to revision."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The finality clause in sub-section (2) is the key practitioner takeaway: once this one appellate layer is exhausted (or not invoked), there is no further revisional recourse against a section 379/380 decision, so parties must make their strongest case at the appeal stage itself."
       }
     }
   ]
