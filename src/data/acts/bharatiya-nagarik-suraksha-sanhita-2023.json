@@ -314,7 +314,10 @@
     "perishable property": "Property subject to speedy and natural decay, such as perishable goods. Section 505 permits a Magistrate to direct the sale of such property (or property whose owner is unknown/absent, or worth less than ten thousand rupees) even before any claimant is found, applying the sections 503-504 procedure to the sale proceeds instead of the property itself.",
     "vitiate": "To impair the legal validity of something -- to make it void or invalid. Chapter XXXVII (sections 506-512) is titled 'Irregular Proceedings' and distinguishes irregularities that do NOT vitiate proceedings (section 506, curable defects) from irregularities that DO vitiate them (section 507, proceedings rendered void).",
     "misjoinder of charges": "The improper combination of multiple, legally distinct charges against an accused in a single trial, where the joinder rules did not permit combining them. Section 510(1) treats a misjoinder of charges as one form of 'error, omission or irregularity in the charge' that does not automatically invalidate a finding, sentence, or order unless it has in fact occasioned a failure of justice.",
-    "quash": "To formally annul or set aside a conviction, order, or proceeding, treating it as void. Under section 510(2)'s proviso, if an appellate, confirmation, or revisional Court finds that no valid charge could ever have been framed against the accused on the facts actually proved, it must quash the conviction outright rather than order a retrial."
+    "quash": "To formally annul or set aside a conviction, order, or proceeding, treating it as void. Under section 510(2)'s proviso, if an appellate, confirmation, or revisional Court finds that no valid charge could ever have been framed against the accused on the facts actually proved, it must quash the conviction outright rather than order a retrial.",
+    "period of limitation": "The time window, fixed by section 514, within which a Court must take cognizance of certain offences (six months, one year, or three years, depending on the maximum punishment), after which cognizance is ordinarily barred. Chapter XXXVIII (sections 513-519) governs when this period begins, what time is excluded from it, and when a Court may extend it.",
+    "absconding": "Deliberately hiding or fleeing to avoid arrest or legal process. Section 516(4)(b) excludes, from the computation of the period of limitation, any time during which the offender avoided arrest by absconding or concealing himself -- so a fugitive cannot run out the limitation clock by evading capture.",
+    "injunction": "A judicial order restraining a person from doing, or compelling a person to do, a particular act. Section 516(2) excludes, from the computation of the period of limitation, the period during which a prosecution's institution was stayed by an injunction or order, along with the day it was issued and the day it was withdrawn."
   },
   "sections": [
     {
@@ -11492,6 +11495,145 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This closes Chapter XXXVII (Irregular Proceedings) in its entirety, sections 506-512, all built around the same theme: purely formal/technical defects don't unwind an otherwise valid proceeding or action unless real prejudice (failure of justice) resulted. Chapter XXXVIII (Limitation for Taking Cognizance of Certain Offences) begins immediately after at section 513."
+      }
+    },
+    {
+      "number": "513",
+      "title": "Definitions",
+      "raw_text": "513. Definitions.—For the purposes of this Chapter, unless the context otherwise requires, \"period of\nlimitation\" means the period specified in section 514 for taking cognizance of an offence.",
+      "key_terms": [
+        "period of limitation",
+        "cognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a short definitional anchor opening Chapter XXXVIII: for purposes of this Chapter, 'period of limitation' simply means whatever period section 514 specifies for taking cognizance of an offence -- pointing the reader directly to the operative time limits fixed there.",
+        "essential_elements": [
+          "'Period of limitation', for this Chapter, means the period specified in section 514 for taking cognizance of an offence."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This definition is purely a cross-reference to section 514 -- read them together rather than treating section 513 as containing any independent substantive content."
+      }
+    },
+    {
+      "number": "514",
+      "title": "Bar to taking cognizance after lapse of period of limitation",
+      "raw_text": "514. Bar to taking cognizance after lapse of period of limitation.—(1) Except as otherwise provided\nin this Sanhita, no Court shall take cognizance of an offence of the category specified in sub-section (2),\nafter the expiry of the period of limitation.\n    (2) The period of limitation shall be—\n        (a) six months, if the offence is punishable with fine only;\n        (b) one year, if the offence is punishable with imprisonment for a term not exceeding one year;\n        (c) three years, if the offence is punishable with imprisonment for a term exceeding one year but\n    not exceeding three years.\n    (3) For the purposes of this section, the period of limitation, in relation to offences which may be tried\ntogether, shall be determined with reference to the offence which is punishable with the more severe\npunishment or, as the case may be, the most severe punishment.\n     Explanation.—For the purpose of computing the period of limitation, the relevant date shall be the date\nof filing complaint under section 223 or the date of recording of information under section 173.",
+      "key_terms": [
+        "cognizance",
+        "period of limitation"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the core operative bar of Chapter XXXVIII: except where the Sanhita provides otherwise, a Court cannot take cognizance of an offence falling within the categories in sub-section (2) once the applicable limitation period has expired. That period scales with the offence's punishment severity: six months for fine-only offences, one year for offences punishable with imprisonment up to one year, and three years for offences punishable with imprisonment exceeding one year but not exceeding three years -- note that this limitation scheme only covers relatively minor offences (up to three years' imprisonment); more serious offences fall outside it entirely and face no limitation bar. Where multiple offences are tried together, sub-section (3) resolves the limitation period by reference to whichever offence carries the more/most severe punishment among them -- so a minor offence tried alongside a more serious one gets the benefit (or burden) of the more serious offence's longer period. The Explanation fixes the relevant date for computing the period: the date of filing a complaint under section 223, or the date information was recorded under section 173, whichever applies.",
+        "essential_elements": [
+          "A Court cannot take cognizance of an offence within the specified categories after the limitation period expires, except as otherwise provided in the Sanhita.",
+          "Six months for fine-only offences; one year for offences punishable with imprisonment up to one year; three years for offences punishable with imprisonment exceeding one year but not exceeding three years.",
+          "For offences triable together, the limitation period is determined by the offence with the more/most severe punishment.",
+          "The relevant date for computing the period is the date of filing a complaint under section 223 or of recording information under section 173."
+        ],
+        "exceptions_and_qualifications": [
+          "This bar applies only to the three specified categories of relatively minor offences -- offences punishable with imprisonment exceeding three years fall outside this limitation scheme altogether.",
+          "The bar operates 'except as otherwise provided in this Sanhita' -- other provisions (e.g., section 519's extension power) can displace the default bar."
+        ],
+        "how_to_read": "Always check the maximum punishment for the offence in question first -- if it exceeds three years' imprisonment, this whole Chapter's limitation bar is simply inapplicable, and cognizance can be taken at any time subject to other provisions of the Sanhita."
+      }
+    },
+    {
+      "number": "515",
+      "title": "Commencement of period of limitation",
+      "raw_text": "515. Commencement of period of limitation.—(1) The period of limitation, in relation to an offender,\nshall commence,—\n        (a) on the date of the offence; or\n        (b) where the commission of the offence was not known to the person aggrieved by the offence or\n    to any police officer, the first day on which such offence comes to the knowledge of such person or to\n    any police officer, whichever is earlier; or\n        (c) where it is not known by whom the offence was committed, the first day on which the identity\n    of the offender is known to the person aggrieved by the offence or to the police officer making\n    investigation into the offence, whichever is earlier.\n    (2) In computing the said period, the day from which such period is to be computed shall be excluded.",
+      "key_terms": [
+        "period of limitation"
+      ],
+      "breakdown": {
+        "plain_summary": "This fixes the starting point (the clock's zero date) for the limitation period fixed by section 514, offering three alternative triggers depending on the facts: ordinarily, the clock starts on the date of the offence itself (clause (a)); but if the offence's commission wasn't known to the aggrieved person or any police officer, the clock instead starts on the first day either of them actually learns of it, whichever is earlier (clause (b)) -- so a concealed or undiscovered offence doesn't silently run out its limitation period; and if the offender's identity is unknown, the clock starts on the first day either the aggrieved person or the investigating police officer learns who committed it, whichever is earlier (clause (c)) -- addressing offences where the act is known but the culprit isn't. Sub-section (2) applies the standard exclusionary computation rule: the day from which the period is computed is itself excluded from the count.",
+        "essential_elements": [
+          "Ordinarily, the limitation period commences on the date of the offence.",
+          "If the offence's commission was unknown to the aggrieved person or police, the period commences on the first day either learns of it, whichever is earlier.",
+          "If the offender's identity is unknown, the period commences on the first day either the aggrieved person or the investigating police officer learns his identity, whichever is earlier.",
+          "The starting day itself is excluded when computing the period."
+        ],
+        "exceptions_and_qualifications": [
+          "Clauses (b) and (c) are alternative triggers to the default in clause (a), applicable specifically where knowledge of the offence, or of the offender's identity, was delayed."
+        ],
+        "how_to_read": "This section's knowledge-based triggers (clauses (b) and (c)) are essential for concealed-offence or unknown-offender scenarios -- always check which of the three triggers actually applies on the facts before calculating whether a complaint is time-barred, rather than defaulting to the date of the offence."
+      }
+    },
+    {
+      "number": "516",
+      "title": "Exclusion of time in certain cases",
+      "raw_text": "516. Exclusion of time in certain cases.—(1) In computing the period of limitation, the time during\nwhich any person has been prosecuting with due diligence another prosecution, whether in a Court of first\ninstance or in a Court of appeal or revision, against the offender, shall be excluded:\n    Provided that no such exclusion shall be made unless the prosecution relates to the same facts and is\nprosecuted in good faith in a Court which from defect of jurisdiction or other cause of a like nature, is\nunable to entertain it.\n    (2) Where the institution of the prosecution in respect of an offence has been stayed by an injunction\nor order, then, in computing the period of limitation, the period of the continuance of the injunction or order,\nthe day on which it was issued or made, and the day on which it was withdrawn, shall be excluded.\n     (3) Where notice of prosecution for an offence has been given, or where, under any law for the time\nbeing in force, the previous consent or sanction of the Government or any other authority is required for\nthe institution of any prosecution for an offence, then, in computing the period of limitation, the period of\nsuch notice or, as the case may be, the time required for obtaining such consent or sanction shall be\nexcluded.\n    Explanation.—In computing the time required for obtaining the consent or sanction of the Government\nor any other authority, the date on which the application was made for obtaining the consent or sanction\nand the date of receipt of the order of the Government or other authority shall both be excluded.\n    (4) In computing the period of limitation, the time during which the offender—\n         (a) has been absent from India or from any territory outside India which is under the administration\n    of the Central Government; or\n        (b) has avoided arrest by absconding or concealing himself,\nshall be excluded.",
+      "key_terms": [
+        "period of limitation",
+        "injunction",
+        "sanction",
+        "absconding"
+      ],
+      "breakdown": {
+        "plain_summary": "This provision excludes several categories of time from counting against the limitation clock, effectively extending the practical window for taking cognizance in fairness-driven circumstances. Sub-section (1): time spent diligently prosecuting another proceeding on the same facts, in a Court unable to entertain it for jurisdictional or similar defects, is excluded -- so a complainant who genuinely (and diligently, good-faith) pursued the wrong forum first isn't penalized for that detour. Sub-section (2): where a prosecution's institution was stayed by an injunction/order, the entire period of the stay (including its start and end days) is excluded. Sub-section (3): where prosecution requires prior notice or Government/authority consent/sanction, the time spent on that notice period or awaiting consent/sanction is excluded, with the Explanation clarifying that both the application date and the date the order is received are excluded from the count. Sub-section (4): time during which the offender was absent from India (or Central-Government-administered territory outside India), or was evading arrest by absconding/concealing himself, is excluded -- so a fugitive cannot simply outlast the limitation period by fleeing or hiding.",
+        "essential_elements": [
+          "Time diligently spent prosecuting another same-facts proceeding, in good faith, in a Court unable to entertain it for jurisdictional/similar defects, is excluded.",
+          "The full period a prosecution's institution was stayed by injunction/order (including the issuance and withdrawal days) is excluded.",
+          "Time spent on a required prosecution notice, or awaiting Government/authority consent/sanction (including application and receipt dates), is excluded.",
+          "Time the offender was absent from India/Central-Government territory, or evading arrest by absconding/concealing himself, is excluded."
+        ],
+        "exceptions_and_qualifications": [
+          "The sub-section (1) exclusion for a prior prosecution requires both good faith and that the earlier Court's inability to entertain it stemmed from jurisdictional or similar defects -- not any and all earlier prosecutions qualify."
+        ],
+        "how_to_read": "When calculating whether a complaint is time-barred under section 514, always check each of these four exclusion categories against the case facts before concluding the period has actually expired -- genuine delay caused by these specific circumstances doesn't count against the complainant."
+      }
+    },
+    {
+      "number": "517",
+      "title": "Exclusion of date on which Court is closed",
+      "raw_text": "517. Exclusion of date on which Court is closed.—Where the period of limitation expires on a day\nwhen the Court is closed, the Court may take cognizance on the day on which the Court reopens.\n    Explanation.—A Court shall be deemed to be closed on any day within the meaning of this section, if,\nduring its normal working hours, it remains closed on that day.",
+      "key_terms": [
+        "period of limitation"
+      ],
+      "breakdown": {
+        "plain_summary": "A practical accommodation for court-closure timing: if the limitation period happens to expire on a day the Court is closed, the Court may still take cognizance on the day it reopens -- the closure doesn't extinguish the right merely because the deadline fell on a non-working day. The Explanation clarifies 'closed' means the Court remains closed throughout its normal working hours on that day.",
+        "essential_elements": [
+          "If the limitation period expires on a day the Court is closed, cognizance may be taken on the day the Court reopens.",
+          "A Court is 'closed' for this purpose if it remains closed throughout its normal working hours on that day."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a straightforward calendar-accommodation rule, analogous to general limitation-law principles that a deadline falling on a holiday/closed day rolls over to the next working day."
+      }
+    },
+    {
+      "number": "518",
+      "title": "Continuing offence",
+      "raw_text": "518. Continuing offence.—In the case of a continuing offence, a fresh period of limitation shall begin\nto run at every moment of the time during which the offence continues.",
+      "key_terms": [
+        "continuing offence",
+        "period of limitation"
+      ],
+      "breakdown": {
+        "plain_summary": "This addresses offences that are not a single, completed act but an ongoing state of affairs (a 'continuing offence'): for such offences, a fresh limitation period starts running at every single moment the offence continues -- meaning the limitation clock effectively never fully expires as long as the offending conduct persists, since each moment generates its own new starting point.",
+        "essential_elements": [
+          "For a continuing offence, a fresh period of limitation begins at every moment during which the offence continues."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a significant practical safeguard against limitation defeating prosecution of ongoing wrongs -- when assessing time-bar arguments, first determine whether the offence charged is a single completed act (ordinary limitation rules under sections 514-515 apply) or a continuing offence (limitation effectively resets continuously under this section)."
+      }
+    },
+    {
+      "number": "519",
+      "title": "Extension of period of limitation in certain cases",
+      "raw_text": "519. Extension of period of limitation in certain cases.—Notwithstanding anything contained in the\nforegoing provisions of this Chapter, any Court may take cognizance of an offence after the expiry of the\nperiod of limitation, if it is satisfied on the facts and in the circumstances of the case that the delay has been\nproperly explained or that it is necessary so to do in the interests of justice.",
+      "key_terms": [
+        "period of limitation",
+        "cognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XXXVIII with an overriding judicial discretion: notwithstanding everything else in the Chapter, a Court may still take cognizance of an offence even after the limitation period has expired, if satisfied -- on the facts and circumstances of the case -- either that the delay has been properly explained, or that taking cognizance despite the delay is necessary in the interests of justice. This functions as a safety valve preventing the limitation bar from becoming an absolute, mechanical rule that defeats genuine, explicable, or justice-demanding cases.",
+        "essential_elements": [
+          "A Court may take cognizance of an offence after the limitation period has expired, notwithstanding the Chapter's other provisions.",
+          "This requires the Court's satisfaction, on the case's facts and circumstances, either that the delay is properly explained or that cognizance is necessary in the interests of justice."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a discretionary override, not an automatic extension -- the Court must be affirmatively satisfied on one of the two specified grounds before proceeding despite the expired limitation period."
+        ],
+        "how_to_read": "This closes Chapter XXXVIII (Limitation for Taking Cognizance of Certain Offences), sections 513-519, as a complete, self-contained scheme: the bar itself (514), its commencement (515), exclusions (516-517), the continuing-offence exception (518), and this final discretionary extension safety valve (519). Chapter XXXIX (Miscellaneous) begins immediately after at section 520."
       }
     }
   ]
