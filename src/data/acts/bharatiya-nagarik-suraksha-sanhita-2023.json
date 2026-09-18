@@ -96,7 +96,7 @@
     "digital signature": "An electronic form of signature recognised as equivalent to a physical signature for authenticating an encrypted or electronic summons or warrant under the Sanhita.",
     "due diligence": "Genuine, reasonable effort — as opposed to a token or perfunctory attempt — required before a Court or officer may resort to a substituted mode of service (family-member service or affixation) instead of personal service.",
     "conspicuous part": "A visible, noticeable location on a house or homestead (such as a main door) where a summons duplicate is affixed as a last-resort mode of service under Section 67.",
-    "affidavit": "A written statement of facts, sworn or affirmed to be true by the person making it, before a person authorised to administer oaths.",
+    "affidavit": "A written statement of facts, sworn or affirmed to be true before an authorised officer (a Judge, Magistrate, Commissioner of Oaths, or notary), which may be used as evidence in place of the deponent's oral testimony, subject to the Court's power to summon the deponent for cross-examination.",
     "escaped convict": "A person who has broken out of lawful custody after conviction, against whom a Chief Judicial Magistrate or first-class Magistrate may direct a warrant to any person under Section 75.",
     "thirty kilometres": "The proximity threshold under Section 82 within which a person arrested outside the issuing Court's district may be produced directly before that Court instead of the local Executive Magistrate/DSP/Commissioner.",
     "removal in custody": "The process of transferring an arrested person, under police escort, from the place/authority of arrest to the Court that issued the warrant against them.",
@@ -212,7 +212,9 @@
     "interrogatories": "A formal written list of questions submitted by a party to a proceeding, to be put to a witness being examined on commission, on matters the Court or Magistrate directing the commission considers relevant to the case.",
     "adjournment": "The postponement of a hearing, trial, or proceeding to a later date or time, here specifically to allow sufficient time for a commission to be executed and returned to the Court.",
     "gazetted officer": "A government official whose appointment, promotion, or transfer is published (\"gazetted\") in the official Gazette, marking a rank of formal seniority and authority -- here relevant to officers of Mints, Note/Security Printing Presses, and Forensic Departments whose reports can be used as evidence without their personal attendance.",
-    "deponent": "The person who makes a deposition or swears an affidavit -- i.e., the individual whose sworn or recorded statement is being relied upon as evidence."
+    "deponent": "The person who makes a deposition or swears an affidavit -- i.e., the individual whose sworn or recorded statement is being relied upon as evidence.",
+    "commissioner of oaths": "A person appointed by a High Court or Court of Session specifically empowered to administer oaths and affirmations for affidavits used in judicial proceedings.",
+    "warrant of commitment": "A formal document issued by a Court directing that a convicted person be taken into custody and detained in prison to undergo the sentence imposed, used here as one method of proving a previous conviction."
   },
   "sections": [
     {
@@ -7679,6 +7681,109 @@
           "The default is streamlined/no-formal-proof, but the Court keeps override discretion at two separate points: relaxing the 30-day admit/deny deadline, and requiring signature proof despite non-dispute."
         ],
         "how_to_read": "This is a significant trial-efficiency provision -- by forcing an early admit/deny exercise on documents and sparing undisputed material (and undisputed expert reports) from the burden of formal proof, it focuses trial time on genuinely contested evidence rather than routine authentication formalities."
+      }
+    },
+    {
+      "number": "331",
+      "title": "Affidavit in proof of conduct of public servants",
+      "raw_text": "331. Affidavit in proof of conduct of public servants.—When any application is made to any Court\nin the course of any inquiry, trial or other proceeding under this Sanhita, and allegations are made therein\nrespecting any public servant, the applicant may give evidence of the facts alleged in the application by\naffidavit, and the Court may, if it thinks fit, order that evidence relating to such facts be so given.",
+      "key_terms": [
+        "affidavit",
+        "deponent"
+      ],
+      "breakdown": {
+        "plain_summary": "If someone makes an application to a Court during any inquiry, trial, or proceeding, and that application contains allegations about a public servant's conduct, the applicant is allowed to prove those alleged facts by affidavit instead of oral testimony. The Court also has the power to itself order that evidence on such facts be given by affidavit, if it thinks that's appropriate.",
+        "essential_elements": [
+          "Applies when an application made to a Court during an inquiry, trial, or proceeding contains allegations respecting a public servant.",
+          "The applicant may give evidence of the facts alleged in the application by affidavit.",
+          "The Court may, at its own discretion, order that evidence relating to such facts be given by affidavit."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This provides an efficient, affidavit-based route for applicants raising allegations against public servants (e.g., in applications alleging misconduct by police or other officials), sparing the need for full oral evidence at the application stage while the Court retains its own initiating power to direct the same."
+      }
+    },
+    {
+      "number": "332",
+      "title": "Evidence of formal character on affidavit",
+      "raw_text": "332. Evidence of formal character on affidavit.—(1) The evidence of any person whose evidence is\nof a formal character may be given by affidavit and may, subject to all just exceptions, be read in evidence\nin any inquiry, trial or other proceeding under this Sanhita.\n   (2) The Court may, if it thinks fit, and shall, on the application of the prosecution or the accused,\nsummon and examine any such person as to the facts contained in his affidavit.",
+      "key_terms": [
+        "affidavit",
+        "deponent"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a person's evidence is essentially formal in nature (not centrally contested factual testimony, but more procedural or corroborative), it may be given by affidavit and read into evidence, subject to valid objections. As with the other affidavit-based sections in this Part, the Court can summon that person for examination on its own initiative and must do so if either the prosecution or the accused applies.",
+        "essential_elements": [
+          "Applies to evidence of a formal character (as opposed to substantively contested testimony).",
+          "Such evidence may be given by affidavit and read in evidence, subject to all just exceptions (valid objections).",
+          "The Court may summon and examine the person as to the affidavit's facts at its own discretion, and must do so on application by the prosecution or the accused."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a general-purpose affidavit-evidence provision (broader than section 331's public-servant-specific one) that streamlines proof of routine, formal matters while preserving each party's right to insist on live examination of the deponent."
+      }
+    },
+    {
+      "number": "333",
+      "title": "Authorities before whom affidavits may be sworn",
+      "raw_text": "333. Authorities before whom affidavits may be sworn.—(1) Affidavits to be used before any Court\nunder this Sanhita may be sworn or affirmed before—\n        (a) any Judge or Judicial or Executive Magistrate; or\n        (b) any Commissioner of Oaths appointed by a High Court or Court of Session; or\n        (c) any notary appointed under the Notaries Act, 1952 (53 of 1952).\n    (2) Affidavits shall be confined to, and shall state separately, such facts as the deponent is able to prove\nfrom his own knowledge and such facts as he has reasonable ground to believe to be true, and in the latter\ncase, the deponent shall clearly state the grounds of such belief.\n   (3) The Court may order any scandalous and irrelevant matter in the affidavit to be struck out or\namended.",
+      "key_terms": [
+        "affidavit",
+        "commissioner of oaths",
+        "deponent"
+      ],
+      "breakdown": {
+        "plain_summary": "Affidavits meant for use in any Court under this Sanhita can be sworn or affirmed before any Judge or Judicial/Executive Magistrate, any Commissioner of Oaths appointed by a High Court or Court of Session, or any notary under the Notaries Act, 1952. Affidavits must clearly separate facts the deponent personally knows to be true from facts he merely believes to be true on reasonable grounds -- and for the latter, he must explain why he believes them. The Court can order any scandalous or irrelevant content in the affidavit struck out or amended.",
+        "essential_elements": [
+          "Sub-section (1): affidavits may be sworn/affirmed before (a) any Judge or Judicial/Executive Magistrate, (b) any Commissioner of Oaths appointed by a High Court or Court of Session, or (c) any notary under the Notaries Act, 1952.",
+          "Sub-section (2): affidavits must be confined to, and must separately state, (i) facts within the deponent's own knowledge, and (ii) facts he reasonably believes true -- with the grounds for that belief clearly stated for the latter category.",
+          "Sub-section (3): the Court may order scandalous or irrelevant matter in an affidavit struck out or amended."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section sets the procedural backbone for every other affidavit provision in this Part (331, 332, 334) -- it defines who can administer the oath/affirmation and imposes content discipline (personal-knowledge vs. belief separation, no scandalous/irrelevant matter) to keep affidavit evidence reliable and focused."
+      }
+    },
+    {
+      "number": "334",
+      "title": "Previous conviction or acquittal how proved",
+      "raw_text": "334. Previous conviction or acquittal how proved.—In any inquiry, trial or other proceeding under\nthis Sanhita, a previous conviction or acquittal may be proved, in addition to any other mode provided by\nany law for the time being in force,—\n       (a) by an extract certified under the hand of the officer having the custody of the records of the\n    Court in which such conviction or acquittal was held, to be a copy of the sentence or order; or\n        (b) in case of a conviction, either by a certificate signed by the officer in charge of the jail in which\n    the punishment or any part thereof was undergone, or by production of the warrant of commitment\n    under which the punishment was suffered, together with, in each of such cases, evidence as to the\n    identity of the accused person with the person so convicted or acquitted.",
+      "key_terms": [
+        "warrant of commitment",
+        "deponent"
+      ],
+      "breakdown": {
+        "plain_summary": "Beyond whatever other methods existing law allows, a person's previous conviction or acquittal can be proved in two specific ways: (a) a certified extract from the record-custodian officer of the Court where the conviction/acquittal happened, being a copy of the sentence or order; or (b) for a conviction specifically, either a certificate from the jail officer in charge of where the punishment was (wholly or partly) undergone, or production of the actual warrant of commitment under which the punishment was suffered. Either way, evidence must also be given identifying the accused as the same person who was previously convicted or acquitted.",
+        "essential_elements": [
+          "Applies to proving a previous conviction or acquittal in any inquiry, trial, or proceeding under the Sanhita.",
+          "These methods are in addition to any other mode of proof already provided by law.",
+          "Method (a): a certified extract, under the hand of the officer having custody of the relevant Court's records, being a copy of the sentence or order.",
+          "Method (b) (conviction only): a certificate signed by the officer in charge of the jail where the punishment was undergone, or production of the warrant of commitment.",
+          "In either case, evidence must also establish the identity of the accused with the person previously convicted or acquitted."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Previous convictions matter for sentencing (repeat-offender provisions), certain procedural bars, and credibility -- this section provides streamlined documentary proof methods so that establishing criminal history doesn't require re-litigating the earlier case, while the identity-evidence requirement guards against wrongly attributing someone else's record to the accused."
+      }
+    },
+    {
+      "number": "335",
+      "title": "Record of evidence in absence of accused",
+      "raw_text": "335. Record of evidence in absence of accused.—(1) If it is proved that an accused person has\nabsconded, and that there is no immediate prospect of arresting him, the Court competent to try, or commit\nfor trial, such person for the offence complained of may, in his absence, examine the witnesses (if any)\nproduced on behalf of the prosecution, and record their depositions and any such deposition may, on the\narrest of such person, be given in evidence against him on the inquiry into, or trial for, the offence with\nwhich he is charged, if the deponent is dead or incapable of giving evidence or cannot be found or his\npresence cannot be procured without an amount of delay, expense or inconvenience which, under the\ncircumstances of the case, would be unreasonable.\n    (2) If it appears that an offence punishable with death or imprisonment for life has been committed by\nsome person or persons unknown, the High Court or the Sessions Judge may direct that any Magistrate of\nthe first class shall hold an inquiry and examine any witnesses who can give evidence concerning the\noffence and any depositions so taken may be given in evidence against any person who is subsequently\naccused of the offence, if the deponent is dead or incapable of giving evidence or beyond the limits of India.",
+      "key_terms": [
+        "deposition",
+        "deponent"
+      ],
+      "breakdown": {
+        "plain_summary": "If an accused has absconded with no immediate prospect of arrest, the Court that would otherwise try or commit him for trial may go ahead and examine the prosecution's witnesses in his absence, recording their depositions. Later, once the accused is arrested, that deposition can be used as evidence against him at his inquiry/trial -- but only if the witness has since died, become incapable of giving evidence, cannot be found, or securing his presence again would involve unreasonable delay, expense, or inconvenience. Separately, if a serious offence (punishable with death or life imprisonment) appears to have been committed by an unknown person, the High Court or Sessions Judge can direct a first-class Magistrate to hold an inquiry and examine available witnesses in advance -- and those depositions can later be used against whoever is eventually accused, again only if the witness has died, become incapable, or is beyond India's limits.",
+        "essential_elements": [
+          "Sub-section (1) trigger: it is proved the accused has absconded and there is no immediate prospect of his arrest.",
+          "The competent Court may examine prosecution witnesses and record depositions in the accused's absence.",
+          "Post-arrest use of that deposition against the accused is conditional: the deponent must be dead, incapable of giving evidence, unfindable, or his presence unreasonably difficult/expensive/inconvenient to secure again.",
+          "Sub-section (2) trigger: an offence punishable with death or life imprisonment appears to have been committed by unknown person(s).",
+          "The High Court or Sessions Judge may direct a first-class Magistrate to hold an inquiry and examine available witnesses in advance of anyone being accused.",
+          "Those depositions may later be used against a subsequently-accused person, conditional on the deponent being dead, incapable of giving evidence, or beyond the limits of India."
+        ],
+        "exceptions_and_qualifications": [
+          "Both sub-sections impose conditions restricting when the earlier-recorded deposition can actually be used later -- this is not unconditional advance evidence-taking; it is a safeguard against losing evidence to time/death/unavailability while still requiring the deponent's unavailability at the time of actual use."
+        ],
+        "how_to_read": "This provision addresses two distinct evidentiary-preservation problems -- an absconding accused delaying trial indefinitely, and a serious unknown-offender crime where witness memory/availability may fade before anyone is caught -- by allowing evidence to be captured early while conditioning its later use on genuine unavailability of the witness, preserving fairness to the eventual accused."
       }
     }
   ]
