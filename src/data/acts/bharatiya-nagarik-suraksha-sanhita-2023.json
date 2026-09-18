@@ -306,7 +306,10 @@
     "appellate court": "The Court to which an appeal from a trial Court's judgment or order lies. Section 481 requires an accused to execute a bond binding him to appear before the Appellate Court whenever it issues notice on an appeal or petition against the trial Court's judgment, so that his prior bail does not lapse simply because the case has moved up a level.",
     "bailable warrant": "A warrant of arrest that, unlike an ordinary warrant, directs that the person arrested under it be released on bail on furnishing security, rather than being kept in custody pending production before the Court. Section 482(3) requires a Magistrate who decides to issue a warrant against a person already covered by a Court's anticipatory-bail direction to issue a bailable warrant consistent with that direction.",
     "informant": "The person who first supplied information of an offence (typically the complainant or first informant in a First Information Report). Section 483(2) makes the presence of the informant, or someone authorised by him, obligatory at the hearing of a bail application in cases under section 65 or section 70(2) of the Bharatiya Nyaya Sanhita, 2023 (sexual offences against children and gang rape of a woman under eighteen).",
-    "forfeited": "Declared void/breached and enforceable against the person bound, upon proof to the Court's satisfaction that a bond's condition has been broken (e.g., the accused failed to appear). Section 491 sets out the entire procedure that follows forfeiture of a bond, including recovery of the penalty and, on default, imprisonment in civil jail for the surety."
+    "forfeited": "Declared void/breached and enforceable against the person bound, upon proof to the Court's satisfaction that a bond's condition has been broken (e.g., the accused failed to appear). Section 491 sets out the entire procedure that follows forfeiture of a bond, including recovery of the penalty and, on default, imprisonment in civil jail for the surety.",
+    "confiscation": "The seizure of property by the State, extinguishing the owner's title to it. Sections 497 and 498 empower a Criminal Court or Magistrate to order confiscation of property connected with an offence, as one of the possible outcomes alongside destruction or delivery to a claimant.",
+    "livestock": "Domesticated animals kept for use or profit (e.g., cattle). Section 498(4) exempts property that is livestock, or subject to speedy and natural decay, from the general two-month delay before a disposal order under that section can be carried out -- such property needs prompt handling.",
+    "restitution": "The return of property to the person entitled to its possession. Section 499 conditions an innocent purchaser's right to reclaim money taken from a convicted thief on the restitution of the stolen property itself to its rightful owner."
   },
   "sections": [
     {
@@ -11130,6 +11133,106 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This closes out Chapter XXXV's bail-and-bonds scheme with a practical delegation mechanism for superior-Court-level bonds; Chapter XXXVI (Disposal of Property) begins immediately after at section 497."
+      }
+    },
+    {
+      "number": "497",
+      "title": "Order for custody and disposal of property pending trial in certain cases",
+      "raw_text": "497. Order for custody and disposal of property pending trial in certain cases.—(1) When any\nproperty is produced before any Criminal Court or the Magistrate empowered to take cognizance or commit\nthe case for trial during any investigation, inquiry or trial, the Court or the Magistrate may make such order\nas it thinks fit for the proper custody of such property pending the conclusion of the investigation, inquiry\nor trial, and, if the property is subject to speedy and natural decay, or if it is otherwise expedient so to do,\nthe Court or the Magistrate may, after recording such evidence as it thinks necessary, order it to be sold or\notherwise disposed of.\n    Explanation.—For the purposes of this section, \"property\" includes—\n        (a) property of any kind or document which is produced before the Court or which is in its custody;\n       (b) any property regarding which an offence appears to have been committed or which appears to\n    have been used for the commission of any offence.\n    (2) The Court or the Magistrate shall, within a period of fourteen days from the production of the\nproperty referred to in sub-section (1) before it, prepare a statement of such property containing its\ndescription in such form and manner as the State Government may, by rules, provide.\n   (3) The Court or the Magistrate shall cause to be taken the photograph and if necessary, videograph on\nmobile phone or any electronic media, of the property referred to in sub-section (1).\n    (4) The statement prepared under sub-section (2) and the photograph or the videography taken under\nsub-section (3) shall be used as evidence in any inquiry, trial or other proceeding under the Sanhita.\n    (5) The Court or the Magistrate shall, within a period of thirty days after the statement has been prepared\nunder sub-section (2) and the photograph or the videography has been taken under sub-section (3), order\nthe disposal, destruction, confiscation or delivery of the property in the manner specified hereinafter.",
+      "key_terms": [
+        "criminal court",
+        "magistrate",
+        "confiscation",
+        "evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XXXVI's scheme for handling property connected to a criminal case. Whenever property is produced before a Criminal Court or a Magistrate empowered to take cognizance/commit the case, pending the conclusion of investigation, inquiry, or trial that Court/Magistrate may make whatever order it thinks fit for the property's proper custody -- and where the property is subject to speedy and natural decay, or it's otherwise expedient, it may, after recording necessary evidence, order the property sold or otherwise disposed of even before the case concludes. The Explanation gives 'property' a broad reach: anything produced before or in the Court's custody, plus anything regarding which an offence appears to have been committed or which appears to have been used to commit one. Sub-sections (2)-(5) add a documentation-and-timeline discipline introduced by the new Sanhita: within 14 days of production, the Court/Magistrate must prepare a descriptive statement of the property (per State Government rules); it must also cause a photograph, and if necessary a videograph (via mobile phone or other electronic media), to be taken; both the statement and photograph/videograph become usable evidence in any inquiry, trial, or proceeding under the Sanhita; and within 30 days of that statement/photograph/videograph being completed, the Court/Magistrate must order the property's disposal, destruction, confiscation, or delivery per the sections that follow.",
+        "essential_elements": [
+          "Applies to property produced before a Criminal Court or a Magistrate empowered to take cognizance/commit the case, during investigation, inquiry, or trial.",
+          "The Court/Magistrate may order proper custody pending conclusion of the case, or, for decaying/otherwise-expedient property, order sale/disposal after recording necessary evidence.",
+          "'Property' includes anything produced before or in the Court's custody, and anything an offence appears to have been committed regarding or used to commit.",
+          "Within 14 days of production, a descriptive statement of the property must be prepared per State Government rules.",
+          "A photograph, and videograph if necessary, of the property must be taken.",
+          "The statement and photograph/videograph are usable as evidence in any inquiry, trial, or proceeding under the Sanhita.",
+          "Within 30 days of the statement/photograph/videograph being completed, an order for disposal, destruction, confiscation, or delivery must be made."
+        ],
+        "exceptions_and_qualifications": [
+          "Sale/disposal before conclusion of the case is permitted only for property subject to speedy/natural decay, or where otherwise expedient, and only after recording necessary evidence."
+        ],
+        "how_to_read": "The 14-day statement deadline and 30-day disposal-order deadline are new procedural timelines not found in the predecessor Code -- they convert what was often an open-ended interim-custody power into a documented, time-bound process, and the resulting statement/photograph/videograph doubles as independently admissible evidence, reducing dependence on producing the physical property itself at trial."
+      }
+    },
+    {
+      "number": "498",
+      "title": "Order for disposal of property at conclusion of trial",
+      "raw_text": "498. Order for disposal of property at conclusion of trial.—(1) When an investigation, inquiry or\ntrial in any criminal case is concluded, the Court or the Magistrate may make such order as it thinks fit for\nthe disposal, by destruction, confiscation or delivery to any person claiming to be entitled to possession\nthereof or otherwise, of any property or document produced before it or in its custody, or regarding which\nany offence appears to have been committed, or which has been used for the commission of any offence.\n    (2) An order may be made under sub-section (1) for the delivery of any property to any person claiming\nto be entitled to the possession thereof, without any condition or on condition that he executes a bond, with\nor without securities, to the satisfaction of the Court or the Magistrate, engaging to restore such property to\nthe Court if the order made under sub-section (1) is modified or set aside on appeal or revision.\n    (3) A Court of Session may, instead of itself making an order under sub-section (1), direct the property\nto be delivered to the Chief Judicial Magistrate, who shall thereupon deal with it in the manner provided in\nsections 503, 504 and 505.\n    (4) Except where the property is livestock or is subject to speedy and natural decay, or where a bond\nhas been executed in pursuance of sub-section (2), an order made under sub-section (1) shall not be carried\nout for two months, or when an appeal is presented, until such appeal has been disposed of.\n    (5) In this section, the term \"property\" includes, in the case of property regarding which an offence\nappears to have been committed, not only such property as has been originally in the possession or under\nthe control of any party, but also any property into or for which the same may have been converted or\nexchanged, and anything acquired by such conversion or exchange, whether immediately or otherwise.",
+      "key_terms": [
+        "chief judicial magistrate",
+        "confiscation",
+        "bond",
+        "court of session",
+        "revision"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the final-disposal counterpart to section 497's pending-trial custody power: once the investigation, inquiry, or trial concludes, the Court/Magistrate may order the property's disposal -- by destruction, confiscation, or delivery to a person claiming entitlement to it or otherwise -- covering property produced before or in its custody, or connected to the alleged offence. Delivery to a claimant may be unconditional or made conditional on his executing a bond (with or without securities) undertaking to restore the property to the Court if the order is later modified or set aside on appeal or revision (sub-section (2)) -- protecting against a premature final handover. A Court of Session has the option to route the actual disposal work to the Chief Judicial Magistrate instead of handling it itself (sub-section (3)), who then follows the specific procedure in sections 503-505. As a general stay-pending-finality safeguard, sub-section (4) blocks execution of a disposal order for two months, or until any appeal is disposed of if one is filed -- except where the property is livestock, subject to speedy/natural decay, or already bonded under sub-section (2), all of which justify immediate execution. Sub-section (5) extends 'property' to cover not just what was originally held/controlled by a party but also anything it was later converted or exchanged into or for, and anything acquired through such conversion/exchange -- closing an obvious evasion route (converting stolen property into a different asset to escape the disposal order).",
+        "essential_elements": [
+          "Applies once investigation, inquiry, or trial in a criminal case concludes.",
+          "The Court/Magistrate may order disposal by destruction, confiscation, or delivery to a claimant or otherwise, covering property produced/in custody or connected to the offence.",
+          "Delivery to a claimant may be conditioned on a restitution-undertaking bond (with or without securities) in case the order is later modified/set aside on appeal or revision.",
+          "A Court of Session may instead direct the Chief Judicial Magistrate to handle disposal per sections 503-505.",
+          "A disposal order generally cannot be carried out for two months, or pending disposal of any appeal filed.",
+          "Livestock, speedily/naturally decaying property, and property already bonded under sub-section (2) are exempt from that delay.",
+          "'Property' includes anything originally held/controlled by a party plus anything it was converted or exchanged into, and anything acquired through that conversion/exchange."
+        ],
+        "exceptions_and_qualifications": [
+          "The two-month/pending-appeal delay does not apply to livestock, decaying property, or already-bonded property."
+        ],
+        "how_to_read": "Read sub-section (5)'s expanded definition of 'property' as an anti-evasion provision -- it prevents a party from defeating a disposal order simply by converting the original property into a different form or asset before the order is executed."
+      }
+    },
+    {
+      "number": "499",
+      "title": "Payment to innocent purchaser of money found on accused",
+      "raw_text": "499. Payment to innocent purchaser of money found on accused.—When any person is convicted\nof any offence which includes, or amounts to, theft or receiving stolen property, and it is proved that any\nother person bought the stolen property from him without knowing or having reason to believe that the\nsame was stolen, and that any money has on his arrest been taken out of the possession of the convicted\nperson, the Court may, on the application of such purchaser and on the restitution of the stolen property to\nthe person entitled to the possession thereof, order that out of such money a sum not exceeding the price\npaid by such purchaser be delivered to him within six months from the date of such order.",
+      "key_terms": [
+        "theft",
+        "stolen property",
+        "restitution"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a targeted equitable relief for an innocent purchaser caught in the crossfire of a theft/stolen-property conviction. Where the convicted person's offence includes or amounts to theft or receiving stolen property, and it's proved that someone else bought that stolen property from him genuinely without knowing or having reason to believe it was stolen, and money was seized from the convicted person's possession at his arrest, the Court -- on the innocent purchaser's application, and only once the stolen property itself has been restored to its rightful owner -- may order that a sum up to what the purchaser actually paid be delivered to him out of the seized money, within six months of the order.",
+        "essential_elements": [
+          "Applies where a person is convicted of an offence including or amounting to theft or receiving stolen property.",
+          "It must be proved another person bought the stolen property from him without knowing/having reason to believe it was stolen.",
+          "Money must have been taken from the convicted person's possession on his arrest.",
+          "On the innocent purchaser's application, and on restitution of the stolen property to its rightful owner, the Court may order payment to the purchaser out of the seized money.",
+          "The amount payable is capped at the price the purchaser actually paid, and must be delivered within six months of the order."
+        ],
+        "exceptions_and_qualifications": [
+          "Relief is conditional on restitution of the stolen property to the person entitled to possession first -- the purchaser cannot keep both the goods and recover the money.",
+          "The purchaser must have bought genuinely without knowledge or reason to believe the property was stolen -- a purchaser with actual or constructive knowledge gets no relief."
+        ],
+        "how_to_read": "This is a narrow, fact-specific relief valve within the broader disposal-of-property scheme -- it only operates where all its conditions align (theft/receiving conviction, an innocent purchaser, seized money, and restitution of the goods), and the payout is capped at the purchaser's actual outlay, not the property's value or any other measure."
+      }
+    },
+    {
+      "number": "500",
+      "title": "Appeal against orders under section 498 or section 499",
+      "raw_text": "500. Appeal against orders under section 498 or section 499.—(1) Any person aggrieved by an order\nmade by a Court or Magistrate under section 498 or section 499, may appeal against it to the Court to which\nappeals ordinarily lie from convictions by the former Court.\n   (2) On such appeal, the Appellate Court may direct the order to be stayed pending disposal of the\nappeal, or may modify, alter or annul the order and make any further orders that may be just.\n    (3) The powers referred to in sub-section (2) may also be exercised by a Court of appeal, confirmation\nor revision while dealing with the case in which the order referred to in sub-section (1) was made.",
+      "key_terms": [
+        "appellate court",
+        "confirmation",
+        "revision"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XXXVI's property-disposal scheme with an appeal right against orders made under section 498 (disposal at conclusion of trial) or section 499 (innocent-purchaser payment): any aggrieved person may appeal to the Court to which appeals ordinarily lie from convictions by the Court/Magistrate that made the order. On appeal, the Appellate Court may stay the order pending the appeal's disposal, or modify, alter, or annul it and make whatever further orders are just (sub-section (2)). Sub-section (3) extends this same stay/modify/alter/annul power to any Court exercising appeal, confirmation, or revision jurisdiction over the underlying case in which the order was made -- so the property-disposal order can be corrected through whichever appellate, confirmation, or revisional channel the main case itself is passing through, not just through a freestanding appeal filed solely against the disposal order.",
+        "essential_elements": [
+          "Any person aggrieved by an order under section 498 or 499 may appeal to the Court to which appeals ordinarily lie from convictions by the order-making Court.",
+          "The Appellate Court may stay the order pending appeal, or modify, alter, or annul it and make further just orders.",
+          "The same powers are exercisable by any Court dealing with the underlying case in its appeal, confirmation, or revision jurisdiction."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the dedicated appellate safeguard specific to property-disposal orders under sections 498-499, distinct from section 495's appeal route for bond-forfeiture orders under section 491 -- keep the two appellate tracks separate since they attach to different underlying orders."
       }
     }
   ]
