@@ -31,7 +31,8 @@
     "cognizance": "The formal act by which a Court takes judicial notice of an offence or a case in order to proceed with it. Section 34 makes the existence of a judgment, order, or decree that legally bars a Court from taking cognizance of a suit, or holding a trial, a relevant fact whenever the question is whether that Court ought to take cognizance or hold the trial.",
     "legal character": "A person's legal status or standing -- such as being an heir, executor, spouse, or insolvent -- as opposed to their rights over a specific thing. Section 35 makes certain final judgments in probate, matrimonial, admiralty, or insolvency jurisdiction conclusive proof of when a legal character accrued, was declared, or ceased.",
     "expert": "A person specially skilled in foreign law, science, art, or any other field, or in questions of handwriting or finger-impression identity, whose opinion on a point within that field is relevant under section 39. The Examiner of Electronic Evidence under the Information Technology Act, 2000 is deemed an expert for opinions on electronic/digital information.",
-    "character": "Under sections 46, 47, 49 and 50, 'character' includes both reputation (what others think of a person) and disposition (a person's actual nature). Except where section 49 permits otherwise, only evidence of general reputation and general disposition may be given -- not evidence of particular acts said to show that reputation or disposition."
+    "character": "Under sections 46, 47, 49 and 50, 'character' includes both reputation (what others think of a person) and disposition (a person's actual nature). Except where section 49 permits otherwise, only evidence of general reputation and general disposition may be given -- not evidence of particular acts said to show that reputation or disposition.",
+    "judicial notice": "The Court's acceptance of certain facts as true without requiring formal proof, because they are so well established, notorious, or officially ascertainable (e.g., laws in force, international treaties, Court seals, the national flag) that demanding evidence of them would be pointless. Section 52 lists the facts a Court must judicially notice; section 51 confirms such facts need not be proved."
   },
   "sections": [
     {
@@ -1128,6 +1129,103 @@
           "The Explanation's particular-acts bar is the key practical limit across the entire character sub-topic -- even where character evidence is otherwise admissible, specific incident-by-incident proof is barred in favour of general reputation and disposition testimony only."
         ],
         "how_to_read": "Read this Explanation as the closing definitional anchor for sections 46-50 as a whole -- it is what stops character evidence, wherever admissible, from turning into a trial about specific past incidents rather than general reputation."
+      }
+    },
+    {
+      "number": "51",
+      "title": "Fact judicially noticeable need not be proved",
+      "raw_text": "51. No fact of which the Court will take judicial notice need be proved.",
+      "key_terms": [
+        "judicial notice"
+      ],
+      "breakdown": {
+        "plain_summary": "A one-line rule: if a fact falls within the categories the Court is required (or entitled) to judicially notice, no party needs to lead evidence to prove it. Section 52 spells out exactly what those categories are.",
+        "essential_elements": [
+          "The fact must be one of which the Court will take judicial notice (see section 52).",
+          "No further proof of that fact is required from any party."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short gateway provision -- read it together with section 52, which is the operative list. Section 51 just states the consequence: judicially noticeable facts are proof-free."
+      }
+    },
+    {
+      "number": "52",
+      "title": "Facts of which Court shall take judicial notice",
+      "raw_text": "52. (1) The Court shall take judicial notice of the following facts, namely:—\n(a) all laws in force in the territory of India including laws having extra-territorial operation;\n(b) international treaty, agreement or convention with country or countries by India, or decisions made by India at international associations or other bodies;\n(c) the course of proceeding of the Constituent Assembly of India, of Parliament of India and of the State Legislatures;\n(d) the seals of all Courts and Tribunals;\n(e) the seals of Courts of Admiralty and Maritime Jurisdiction, Notaries Public, and all seals which any person is authorised to use by the Constitution, or by an Act of Parliament or State Legislatures, or Regulations having the force of law in India;\n(f) the accession to office, names, titles, functions, and signatures of the persons filling for the time being any public office in any State, if the fact of their appointment to such office is notified in any Official Gazette;\n(g) the existence, title and national flag of every country or sovereign recognised by the Government of India;\n(h) the divisions of time, the geographical divisions of the world, and public festivals, fasts and holidays notified in the Official Gazette;\n(i) the territory of India;\n(j) the commencement, continuance and termination of hostilities between the Government of India and any other country or body of persons;\n(k) the names of the members and officers of the Court and of their deputies and subordinate officers and assistants, and also of all officers acting in execution of its process, and of advocates and other persons authorised by law to appear or act before it;\n(l) the rule of the road on land or at sea.\n(2) In the cases referred to in sub-section (1) and also on all matters of public history, literature, science or art, the Court may resort for its aid to appropriate books or documents of reference and if the Court is called upon by any person to take judicial notice of any fact, it may refuse to do so unless and until such person produces any such book or document as it may consider necessary to enable it to do so.",
+      "key_terms": [
+        "judicial notice",
+        "Constituent Assembly",
+        "Admiralty and Maritime Jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the operative list underlying section 51: twelve categories of fact (laws in force, treaties, legislative proceedings, Court seals, public office holders notified in the Gazette, recognised countries and flags, calendar/geographical divisions and notified holidays, India's territory, war-related events, the Court's own personnel, and road/sea traffic rules) that the Court must simply accept as true, no evidence needed. Subsection (2) lets the Court consult reference books for these and for general matters of history, literature, science, or art, and lets it decline to notice a fact until a party produces the reference material to support it.",
+        "essential_elements": [
+          "Subsection (1) is a closed list of 12 categories (a) to (l) the Court MUST judicially notice.",
+          "Categories include: all laws in force (including extra-territorial ones), international treaties/agreements, legislative proceedings, Court/Tribunal seals, specified official seals, Gazette-notified public officeholders, recognised countries/flags, Gazette-notified calendar and holiday facts, India's territory, war-related facts, the Court's own officers/advocates, and road/sea traffic rules.",
+          "Subsection (2) additionally covers matters of public history, literature, science, or art -- but here the Court MAY (not must) resort to reference books, and may refuse to notice the fact until the requesting party produces supporting material."
+        ],
+        "exceptions_and_qualifications": [
+          "The subsection (2) discretion is a genuine qualification: for general historical/literary/scientific/artistic facts (unlike the subsection (1) list), the Court can insist on documentary backup before noticing them."
+        ],
+        "how_to_read": "Treat subsection (1) as a checklist -- if your fact fits one of (a) to (l), you can simply assert it without evidence. For anything broader (general history, science, art), be ready with a reference book or document, since subsection (2) lets the Court demand one."
+      }
+    },
+    {
+      "number": "53",
+      "title": "Facts admitted need not be proved",
+      "raw_text": "53. No fact needs to be proved in any proceeding which the parties thereto or their agents agree to admit at the hearing, or which, before the hearing, they agree to admit by any writing under their hands, or which by any rule of pleading in force at the time they are deemed to have admitted by their pleadings:\nProvided that the Court may, in its discretion, require the facts admitted to be proved otherwise than by such admissions.",
+      "key_terms": [
+        "admission"
+      ],
+      "breakdown": {
+        "plain_summary": "Facts the parties themselves agree are true -- whether admitted orally at the hearing, admitted in writing beforehand, or deemed admitted under pleading rules -- don't need separate proof. This closes Chapter III's proof-free trilogy alongside judicially noticed facts (sections 51-52): judicial notice and party admission are the two routes to skipping formal proof. The proviso is the safety valve -- the Court can still insist on independent proof if it doesn't trust the admission.",
+        "essential_elements": [
+          "The fact must be admitted by the parties or their agents at the hearing, in signed writing before the hearing, or deemed admitted under applicable pleading rules.",
+          "Once admitted in one of these ways, no further proof of that fact is required."
+        ],
+        "exceptions_and_qualifications": [
+          "Proviso: the Court retains discretion to require the admitted fact to be proved by other means anyway -- an admission does not bind the Court's fact-finding the way it binds the parties' pleading position."
+        ],
+        "how_to_read": "Pairs with sections 51-52 to complete the 'proof not required' trio for Chapter III. Practically, this is why well-drafted admissions in pleadings or joint statements can shrink a trial -- but never assume an admission is bulletproof; the proviso means a cautious Court can still demand evidence."
+      }
+    },
+    {
+      "number": "54",
+      "title": "Proof of facts by oral evidence",
+      "raw_text": "54. All facts, except the contents of documents may be proved by oral evidence.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Opens Chapter IV (Oral Evidence) with the basic division of labour between oral and documentary proof: oral evidence can prove any fact except one thing -- what a document actually says. The contents of documents are proved by the document itself (subject to the documentary-evidence rules in Chapter V), not by a witness's oral account of what it contained.",
+        "essential_elements": [
+          "Oral evidence is competent to prove any fact.",
+          "The sole carve-out: the contents of documents cannot be proved by oral evidence -- that is the domain of documentary evidence (Chapter V)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short bridging section: remember it mainly for the carve-out. If the fact you are trying to establish is literally what a document says, oral testimony about it is the wrong tool -- you need the document (or secondary evidence of it under the rules already covered)."
+      }
+    },
+    {
+      "number": "55",
+      "title": "Oral evidence to be direct",
+      "raw_text": "55. Oral evidence shall, in all cases whatever, be direct; if it refers to,—\n(i) a fact which could be seen, it must be the evidence of a witness who says he saw it;\n(ii) a fact which could be heard, it must be the evidence of a witness who says he heard it;\n(iii) a fact which could be perceived by any other sense or in any other manner, it must be the evidence of a witness who says he perceived it by that sense or in that manner;\n(iv) an opinion or to the grounds on which that opinion is held, it must be the evidence of the person who holds that opinion on those grounds:\nProvided that the opinions of experts expressed in any treatise commonly offered for sale, and the grounds on which such opinions are held, may be proved by the production of such treatises if the author is dead or cannot be found, or has become incapable of giving evidence, or cannot be called as a witness without an amount of delay or expense which the Court regards as unreasonable:\nProvided further that, if oral evidence refers to the existence or condition of any material thing other than a document, the Court may, if it thinks fit, require the production of such material thing for its inspection.",
+      "key_terms": [
+        "direct evidence",
+        "treatise"
+      ],
+      "breakdown": {
+        "plain_summary": "The hearsay-exclusion backbone of oral evidence: whatever a witness testifies to must come from their own first-hand perception, not something they were told. Seen facts need an eyewitness, heard facts need an earwitness, facts perceived by other senses need the person who perceived them that way, and opinions need the person who actually holds that opinion (and their grounds for it) -- not someone relaying it second-hand. Two practical safety valves follow: published expert treatises can substitute for a now-unavailable expert witness, and the Court can demand the actual physical object be produced for inspection instead of relying purely on a witness's description of it.",
+        "essential_elements": [
+          "General rule: oral evidence must always be direct, i.e., first-hand.",
+          "Seen facts: testimony must come from a witness who says they personally saw it.",
+          "Heard facts: testimony must come from a witness who says they personally heard it.",
+          "Facts perceived by other senses/manners: testimony must come from the person who personally perceived it that way.",
+          "Opinions and their grounds: testimony must come from the person who actually holds that opinion."
+        ],
+        "exceptions_and_qualifications": [
+          "First proviso: a dead, untraceable, incapacitated, or unreasonably-difficult-to-call expert's opinion can be proved by producing their published treatise instead of live testimony.",
+          "Second proviso: for any material thing other than a document, the Court may, at its discretion, require the thing itself to be produced for inspection rather than relying solely on oral description."
+        ],
+        "how_to_read": "This is the statutory anchor for objecting to hearsay in oral testimony -- if a witness is testifying about something someone else told them (rather than what they personally saw/heard/perceived), it fails the section 55 direct-evidence test unless it independently qualifies under a specific hearsay exception elsewhere in the Act (e.g., admissions, dying declarations, res gestae). Keep the two provisos in mind as narrow, genuine exceptions -- expert treatises when the expert is unavailable, and the Court's power to call for the physical object itself."
       }
     }
   ]
