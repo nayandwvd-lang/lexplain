@@ -287,7 +287,7 @@
     "motion": "A formal application made to a superior Court to seek an order -- here, a transfer of a criminal case or appeal under sections 446-448; ordinarily such a motion must be supported by an affidavit or affirmation, except when made by the Attorney-General of India (for Supreme Court transfers) or the Advocate-General of the State (for High Court/Sessions Judge transfers), whose official position substitutes for that evidentiary backing.",
     "commutation": "The substitution of a lesser sentence for a more severe one already imposed, by a competent authority -- e.g., a death sentence commuted to imprisonment for life (section 456). Distinct from 'remission' (reduction of the sentence's duration without changing its character) and 'suspension' (temporary deferral of execution) -- commutation permanently changes the nature of the punishment itself.",
     "imprisonment for life": "A sentence of imprisonment for the remainder of the convict's natural life, subject to any remission or commutation granted under law. It is the mandatory substitute when a death sentence on a pregnant woman is commuted under section 456, and is itself a form of sentence whose execution is governed by sections 457-460 (place of confinement, warrant mechanics, and lodgment).",
-    "civil jail": "A place of confinement for persons committed to custody in civil (non-criminal) process, such as under the Code of Civil Procedure, 1908. Section 457 governs the interplay between civil and criminal confinement when a person already held in a civil jail also becomes liable to imprisonment under this Sanhita.",
+    "civil jail": "A place of confinement for persons committed to custody in civil (non-criminal) process, such as under the Code of Civil Procedure, 1908, used to compel compliance with a civil obligation rather than to punish a criminal offence. Section 457 governs the interplay between civil and criminal confinement when a person already held in a civil jail also becomes liable to imprisonment under this Sanhita. Under section 491(2)'s proviso, a surety who fails to pay a forfeited bond's penalty, where it cannot otherwise be recovered, may similarly be imprisoned in civil jail for up to six months.",
     "criminal jail": "A place of confinement for persons imprisoned or committed to custody under this Sanhita (i.e., in criminal process), as distinct from a civil jail. Under section 457, a person held in a civil jail may be removed to a criminal jail, but must ordinarily be sent back to the civil jail upon release unless a statutory release trigger under Code of Civil Procedure, 1908 section 58 applies.",
     "state government": "The executive government of a State, which under section 457(1) holds the default power to direct the place of confinement for any person liable to be imprisoned or committed to custody under this Sanhita, except where some other law already provides for it.",
     "jailor": "The officer with direct custodial charge of a jail. Under section 460, a warrant for a prisoner's confinement in a jail must be lodged with the jailor, completing the execution chain that begins with the Court forwarding the warrant (section 458) and directing it to the officer in charge of the confining place (section 459).",
@@ -305,7 +305,8 @@
     "under trial prisoner": "A person in custody during the investigation, inquiry, or trial of a case, not yet convicted. Section 479 caps how long an under trial prisoner may be detained by reference to the maximum sentence for the alleged offence -- ordinarily one-half, or one-third for first-time offenders -- subject to the Court's power to extend for recorded reasons and an absolute outer limit at the offence's maximum punishment.",
     "appellate court": "The Court to which an appeal from a trial Court's judgment or order lies. Section 481 requires an accused to execute a bond binding him to appear before the Appellate Court whenever it issues notice on an appeal or petition against the trial Court's judgment, so that his prior bail does not lapse simply because the case has moved up a level.",
     "bailable warrant": "A warrant of arrest that, unlike an ordinary warrant, directs that the person arrested under it be released on bail on furnishing security, rather than being kept in custody pending production before the Court. Section 482(3) requires a Magistrate who decides to issue a warrant against a person already covered by a Court's anticipatory-bail direction to issue a bailable warrant consistent with that direction.",
-    "informant": "The person who first supplied information of an offence (typically the complainant or first informant in a First Information Report). Section 483(2) makes the presence of the informant, or someone authorised by him, obligatory at the hearing of a bail application in cases under section 65 or section 70(2) of the Bharatiya Nyaya Sanhita, 2023 (sexual offences against children and gang rape of a woman under eighteen)."
+    "informant": "The person who first supplied information of an offence (typically the complainant or first informant in a First Information Report). Section 483(2) makes the presence of the informant, or someone authorised by him, obligatory at the hearing of a bail application in cases under section 65 or section 70(2) of the Bharatiya Nyaya Sanhita, 2023 (sexual offences against children and gang rape of a woman under eighteen).",
+    "forfeited": "Declared void/breached and enforceable against the person bound, upon proof to the Court's satisfaction that a bond's condition has been broken (e.g., the accused failed to appear). Section 491 sets out the entire procedure that follows forfeiture of a bond, including recovery of the penalty and, on default, imprisonment in civil jail for the surety."
   },
   "sections": [
     {
@@ -10992,6 +10993,143 @@
           "The good-behaviour-bond exclusion is an express carve-out from an otherwise general deposit-in-lieu option."
         ],
         "how_to_read": "This is a practical relief provision -- counsel for a client who can access liquid funds but not sureties should specifically request this deposit option, while noting it is unavailable if the underlying bond is specifically one for good behaviour."
+      }
+    },
+    {
+      "number": "491",
+      "title": "Procedure when bond has been forfeited",
+      "raw_text": "491. Procedure when bond has been forfeited.—(1) Where, —\n        (a) a bond under this Sanhita is for appearance, or for production of property, before a Court and it\n    is proved to the satisfaction of that Court, or of any Court to which the case has subsequently been\n    transferred, that the bond has been forfeited; or\n        (b) in respect of any other bond under this Sanhita, it is proved to the satisfaction of the Court by\n    which the bond was taken, or of any Court to which the case has subsequently been transferred, or of\n    the Court of any Magistrate of the first class, that the bond has been forfeited,\nthe Court shall record the grounds of such proof, and may call upon any person bound by such bond to pay\nthe penalty thereof or to show cause why it should not be paid.\n    Explanation.—A condition in a bond for appearance, or for production of property, before a Court shall\nbe construed as including a condition for appearance, or as the case may be, for production of property,\nbefore any Court to which the case may subsequently be transferred.\n   (2) If sufficient cause is not shown and the penalty is not paid, the Court may proceed to recover the\nsame as if such penalty were a fine imposed by it under this Sanhita:\n    Provided that where such penalty is not paid and cannot be recovered in the manner aforesaid, the\nperson so bound as surety shall be liable, by order of the Court ordering the recovery of the penalty, to\nimprisonment in civil jail for a term which may extend to six months.\n    (3) The Court may, after recording its reasons for doing so, remit any portion of the penalty mentioned\nand enforce payment in part only.\n    (4) Where a surety to a bond dies before the bond is forfeited, his estate shall be discharged from all\nliability in respect of the bond.\n    (5) Where any person who has furnished security under section 125 or section 136 or section 401 is\nconvicted of an offence the commission of which constitutes a breach of the conditions of his bond, or of a\nbond executed in lieu of his bond under section 494, a certified copy of the judgment of the Court by which\nhe was convicted of such offence may be used as evidence in proceedings under this section against his\nsurety or sureties, and, if such certified copy is so used, the Court shall presume that such offence was\ncommitted by him unless the contrary is proved.",
+      "key_terms": [
+        "forfeited",
+        "penalty",
+        "civil jail",
+        "surety",
+        "sureties"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the master procedure for enforcing a broken bond, whether it was for appearance/production of property before a Court or any other kind of bond under the Sanhita. Once forfeiture is proved to the satisfaction of the competent Court (including a transferee Court, or, for non-appearance bonds, a Magistrate of the first class), the Court records its grounds and calls on the person bound to pay the penalty or show cause against paying it. If no sufficient cause is shown and payment isn't made, the Court recovers the penalty as if it were a fine -- and where recovery isn't possible that way, a defaulting surety faces imprisonment in civil jail for up to six months (sub-section (2)). The Court retains discretion to remit part of the penalty for recorded reasons (sub-section (3)). A surety's death before forfeiture discharges his estate entirely (sub-section (4)) -- liability doesn't survive him. Sub-section (5) creates an evidentiary shortcut for certain security-bond scenarios (sections 125, 136, 401, or a bond in lieu under section 494): a certified copy of the principal's conviction judgment can itself be used as evidence in the forfeiture proceeding against his surety, triggering a presumption (rebuttable) that he in fact committed the breach-constituting offence.",
+        "essential_elements": [
+          "Applies once forfeiture of an appearance/property-production bond, or any other Sanhita bond, is proved to the satisfaction of the competent Court.",
+          "The Court records the grounds of proof and calls on the bound person to pay the penalty or show cause against payment.",
+          "If no sufficient cause is shown and payment fails, the Court recovers the penalty as if it were a fine.",
+          "If such recovery isn't possible, a defaulting surety may be imprisoned in civil jail for up to six months.",
+          "The Court may, for recorded reasons, remit part of the penalty and enforce only partial payment.",
+          "A surety's death before forfeiture discharges his estate from all liability on the bond.",
+          "For bonds under sections 125, 136, 401, or 494, a certified conviction judgment is admissible evidence against the surety and triggers a rebuttable presumption that the principal committed the breaching offence."
+        ],
+        "exceptions_and_qualifications": [
+          "The Explanation extends an appearance/production condition to cover appearance/production before any Court to which the case is later transferred -- forfeiture isn't defeated by a mid-case transfer.",
+          "Civil-jail imprisonment for a defaulting surety is a last resort, available only when the penalty cannot otherwise be recovered as a fine, and is capped at six months.",
+          "The section 491(5) evidentiary presumption is rebuttable -- the surety may still prove the contrary."
+        ],
+        "how_to_read": "This is the anchor provision for the whole forfeiture regime -- sections 492 (cancellation), 493 (insolvency/death of surety), and 495 (appeal) all cross-reference and build on the procedure fixed here, so read them as a connected cluster rather than in isolation."
+      }
+    },
+    {
+      "number": "492",
+      "title": "Cancellation of bond and bail bond",
+      "raw_text": "492. Cancellation of bond and bail bond.—Without prejudice to the provisions of section 491, where\na bond or bail bond under this Sanhita is for appearance of a person in a case and it is forfeited for breach\nof a condition,—\n        (a) the bond executed by such person as well as the bond, if any, executed by one or more of his\n    sureties in that case shall stand cancelled; and\n         (b) thereafter no such person shall be released only on his own bond in that case, if the police officer\n    or the Court, as the case may be, for appearance before whom the bond was executed, is satisfied that\n    there was no sufficient cause for the failure of the person bound by the bond to comply with its\n    condition:\n    Provided that subject to any other provisions of this Sanhita he may be released in that case upon the\nexecution of a fresh personal bond for such sum of money and bond by one or more of such sureties as the\npolice officer or the Court, as the case may be, thinks sufficient.",
+      "key_terms": [
+        "bond",
+        "bail bond",
+        "forfeited",
+        "surety"
+      ],
+      "breakdown": {
+        "plain_summary": "This runs alongside (not instead of) section 491's penalty-recovery machinery: where an appearance bond or bail bond is forfeited for breach of its condition, the bond itself -- and any surety bond executed alongside it in that case -- automatically stands cancelled (clause (a)). Going forward, the person cannot simply be released again on his own bond alone in that case if the police officer or Court is satisfied there was no sufficient cause for the earlier breach (clause (b)) -- his own unsecured word is no longer good enough. The proviso keeps a door open, though: subject to the Sanhita's other provisions, he may still be released in that case, but only upon executing a fresh personal bond plus a bond from one or more sureties the officer/Court considers sufficient -- i.e., the bar is raised, not permanently shut.",
+        "essential_elements": [
+          "Applies where an appearance bond or bail bond is forfeited for breach of its condition.",
+          "The forfeited bond, and any accompanying surety bond in that case, stand automatically cancelled.",
+          "The person cannot be released again on his own bond alone in that case if the officer/Court is satisfied there was no sufficient cause for the earlier breach.",
+          "He may still be released upon executing a fresh personal bond plus sufficient surety bond(s)."
+        ],
+        "exceptions_and_qualifications": [
+          "This operates without prejudice to section 491 -- cancellation under this section is additional to, not a substitute for, the penalty-recovery procedure there.",
+          "The bar on own-bond-only release applies only where the officer/Court is satisfied there was no sufficient cause for the earlier failure -- a genuine sufficient cause avoids this consequence."
+        ],
+        "how_to_read": "Read this together with section 491: 491 handles the money/penalty consequence of forfeiture, while 492 handles the release-terms consequence -- both fire off the same underlying forfeiture-for-breach event, and both can apply simultaneously to the same episode."
+      }
+    },
+    {
+      "number": "493",
+      "title": "Procedure in case of insolvency or death of surety or when a bond is forfeited",
+      "raw_text": "493. Procedure in case of insolvency or death of surety or when a bond is forfeited.—When any\nsurety to a bail bond under this Sanhita becomes insolvent or dies, or when any bond is forfeited under the\nprovisions of section 491, the Court by whose order such bond was taken, or a Magistrate of the first class\nmay order the person from whom such security was demanded to furnish fresh security in accordance with\nthe directions of the original order, and if such security is not furnished, such Court or Magistrate may\nproceed as if there had been a default in complying with such original order.",
+      "key_terms": [
+        "surety",
+        "insolvency",
+        "bail bond",
+        "forfeited",
+        "magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This covers three distinct events that can undermine a bail bond's security -- the surety becoming insolvent, the surety dying, or the bond simply being forfeited under section 491 -- and gives a single uniform response: the Court that ordered the bond (or a Magistrate of the first class) may direct the person from whom security was originally demanded to furnish fresh security, on the same terms as the original order. If fresh security isn't furnished, the Court/Magistrate may treat this exactly as if the person had defaulted on the original order in the first place -- triggering whatever consequences would follow from that original default (e.g., custody, forfeiture procedures).",
+        "essential_elements": [
+          "Triggers on any of three events: a surety to a bail bond becomes insolvent, a surety dies, or a bond is forfeited under section 491.",
+          "The Court that ordered the bond, or a Magistrate of the first class, may order fresh security in accordance with the original order's directions.",
+          "If fresh security is not furnished, the Court/Magistrate may treat it as a default of the original order."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a security-continuity provision -- it ensures a bail arrangement doesn't silently become unsecured just because a surety's circumstances change (insolvency, death) or the bond fails (forfeiture); the accused must promptly replace the lost security or face the same consequences as an original default."
+      }
+    },
+    {
+      "number": "494",
+      "title": "Bond required from child",
+      "raw_text": "494. Bond required from child.—When the person required by any Court, or officer to execute a bond\nis a child, such Court or officer may accept, in lieu thereof, a bond executed by a surety or sureties only.",
+      "key_terms": [
+        "child",
+        "bond",
+        "surety"
+      ],
+      "breakdown": {
+        "plain_summary": "A protective accommodation for minors: where the person a Court or officer requires to execute a bond is a child, the Court or officer may accept, instead, a bond executed only by a surety or sureties -- sparing the child himself from being bound as a principal obligor on a bond, since a child cannot meaningfully be held to the same contractual/legal accountability as an adult.",
+        "essential_elements": [
+          "Applies where the person required to execute a bond is a child.",
+          "The Court or officer may accept a bond executed only by a surety or sureties, in lieu of the child's own bond."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This dovetails with section 491(5)'s reference to 'a bond executed in lieu of his bond under section 494' -- confirming that a section 494 surety-only bond is treated as a full substitute for the child's own bond for purposes of the forfeiture and evidentiary-presumption machinery elsewhere in this cluster."
+      }
+    },
+    {
+      "number": "495",
+      "title": "Appeal from orders under section 491",
+      "raw_text": "495. Appeal from orders under section 491.—All orders passed under section 491 shall be\nappealable,—\n        (i) in the case of an order made by a Magistrate, to the Sessions Judge;\n        (ii) in the case of an order made by a Court of Session, to the Court to which an appeal lies from an\n    order made by such Court.",
+      "key_terms": [
+        "magistrate",
+        "sessions judge",
+        "court of session",
+        "appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "This confirms a right of appeal against every order passed under section 491 (the bond-forfeiture procedure), and routes it based on which Court made the original order: an order made by a Magistrate is appealable to the Sessions Judge, while an order made by a Court of Session is appealable to whichever Court an appeal ordinarily lies from that Court's orders. This ensures a person penalized under the forfeiture procedure -- whether facing a penalty payment or civil-jail imprisonment -- always has an appellate avenue.",
+        "essential_elements": [
+          "All orders passed under section 491 are appealable.",
+          "A Magistrate's order under section 491 is appealable to the Sessions Judge.",
+          "A Court of Session's order under section 491 is appealable to the Court to which appeals ordinarily lie from that Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the dedicated appellate route for the whole section 491 forfeiture procedure -- distinguish it from section 500 below, which provides a separate appeal route specifically for property-disposal orders under sections 498/499."
+      }
+    },
+    {
+      "number": "496",
+      "title": "Power to direct levy of amount due on certain recognizances",
+      "raw_text": "496. Power to direct levy of amount due on certain recognizances.—The High Court or Court of\nSession may direct any Magistrate to levy the amount due on a bond for appearance or attendance at such\nHigh Court or Court of Session.",
+      "key_terms": [
+        "high court",
+        "court of session",
+        "magistrate",
+        "recognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "This closing provision of Chapter XXXV gives the High Court or Court of Session a practical enforcement tool: rather than having to itself carry out the mechanics of recovering money due on a bond for appearance or attendance before it, it may simply direct any Magistrate to levy (collect/recover) that amount -- delegating the ground-level recovery work while the superior Court retains the authority to order it.",
+        "essential_elements": [
+          "Applies to bonds for appearance or attendance at the High Court or Court of Session.",
+          "The High Court or Court of Session may direct any Magistrate to levy the amount due on such a bond."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This closes out Chapter XXXV's bail-and-bonds scheme with a practical delegation mechanism for superior-Court-level bonds; Chapter XXXVI (Disposal of Property) begins immediately after at section 497."
       }
     }
   ]
