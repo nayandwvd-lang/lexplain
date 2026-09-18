@@ -229,7 +229,10 @@
     "competent witness": "A person legally qualified to give evidence in a proceeding; section 353 makes an accused person a competent witness for the defence, meaning he may testify on oath to disprove the charge, but only on his own written request, and his choice not to testify cannot be commented on or used to presume guilt.",
     "in absentia": "Latin for 'in the absence [of the person]' -- a trial, inquiry, or judgment conducted or pronounced without the accused being personally present, permitted under section 356 for a declared proclaimed offender who has absconded to evade trial, subject to strict procedural safeguards (repeated warrant attempts, public notice, a mandatory ninety-day wait, and State-funded defence counsel).",
     "compounding of offences": "A statutorily-permitted settlement of specified criminal offences between the offender and the victim (or another specified person), which has the legal effect of an acquittal; section 359 lists which offences may be compounded freely and which require the Court's permission, and bars compounding altogether where a previous conviction exposes the accused to enhanced punishment.",
-    "withdrawal from prosecution": "The discontinuation of a criminal prosecution by the Public Prosecutor or Assistant Public Prosecutor, with the Court's consent, before judgment is pronounced -- resulting in discharge (if before charge) or acquittal (if after charge) of the accused for the withdrawn offence(s), subject to Central Government permission requirements for certain categories of cases and a mandatory hearing for the victim."
+    "withdrawal from prosecution": "The discontinuation of a criminal prosecution by the Public Prosecutor or Assistant Public Prosecutor, with the Court's consent, before judgment is pronounced -- resulting in discharge (if before charge) or acquittal (if after charge) of the accused for the withdrawn offence(s), subject to Central Government permission requirements for certain categories of cases and a mandatory hearing for the victim.",
+    "commitment (for trial)": "The formal act by which a Magistrate transfers a case beyond his own sentencing power to a higher forum -- the Chief Judicial Magistrate or the Court of Session -- so that a heavier or more appropriate sentence can be considered, or because the offence must by law be tried there.",
+    "successor judge or magistrate": "A Judge or Magistrate who takes over a part-heard inquiry or trial from a predecessor who has ceased to exercise jurisdiction in it (whether through transfer, promotion, or otherwise); section 365 lets the successor act on evidence already recorded, while preserving a power to re-summon and further examine any witness where the interests of justice require it.",
+    "coinage": "Currency in the form of coins (and, by extension under BNS Chapter X, Government stamps) -- offences against coinage include counterfeiting, altering, or dealing in counterfeit coin, treated as serious property-adjacent crimes carrying enhanced procedural consequences for repeat offenders under section 363."
   },
   "sections": [
     {
@@ -8330,6 +8333,109 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This section balances prosecutorial discretion to abandon a weak or no-longer-warranted case against two checks: a federal-interest check (Central Government permission for cases touching Union/Central subject-matter when the Prosecutor lacks Central appointment) and, newly emphasized under BNSS, a mandatory victim hearing -- practitioners representing victims should treat this hearing right as a concrete procedural entitlement to be actively asserted whenever a Prosecutor seeks to withdraw, since the discharge/acquittal outcome has lasting consequences (acquittal in particular generally bars re-prosecution for that offence)."
+      }
+    },
+    {
+      "number": "361",
+      "title": "Procedure in cases which Magistrate cannot dispose of",
+      "raw_text": "361. Procedure in cases which Magistrate cannot dispose of.—(1) If, in the course of any inquiry\ninto an offence or a trial before a Magistrate in any district, the evidence appears to him to warrant a\npresumption--\n        (a) that he has no jurisdiction to try the case or commit it for trial; or\n        (b) that the case is one which should be tried or committed for trial by some other Magistrate in the\n    district; or\n        (c) that the case should be tried by the Chief Judicial Magistrate,\nhe shall stay the proceedings and submit the case, with a brief report explaining its nature, to the Chief\nJudicial Magistrate or to such other Magistrate, having jurisdiction, as the Chief Judicial Magistrate directs.\n    (2) The Magistrate to whom the case is submitted may, if so empowered, either try the case himself, or\nrefer it to any Magistrate subordinate to him having jurisdiction, or commit the accused for trial.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "If, while inquiring into or trying a case, a Magistrate realizes the evidence suggests he lacks jurisdiction, or that some other Magistrate in the district should be handling it, or that it really belongs with the Chief Judicial Magistrate, he must stop the proceedings and forward the case (with a short explanatory report) to the Chief Judicial Magistrate, or to whichever other Magistrate the Chief Judicial Magistrate directs who does have jurisdiction. The Magistrate who then receives the case can, if empowered, try it himself, pass it on to a subordinate Magistrate with jurisdiction, or commit the accused for trial.",
+        "essential_elements": [
+          "Trigger: evidence during an inquiry/trial suggests (a) no jurisdiction in the current Magistrate, (b) the case belongs with another district Magistrate, or (c) it should be tried by the Chief Judicial Magistrate.",
+          "The Magistrate must stay the proceedings and submit the case, with a brief explanatory report, to the Chief Judicial Magistrate or to a Magistrate the Chief Judicial Magistrate directs.",
+          "The receiving Magistrate may, if empowered, try the case himself, refer it to a subordinate Magistrate with jurisdiction, or commit the accused for trial."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a jurisdictional self-correction mechanism preventing a Magistrate from proceeding further once he suspects he is the wrong forum -- it channels the case through the Chief Judicial Magistrate as a routing authority rather than letting the original Magistrate simply dismiss or blunder ahead, preserving both efficiency and the accused's right to be tried by the properly empowered court."
+      }
+    },
+    {
+      "number": "362",
+      "title": "Procedure when after commencement of inquiry or trial, Magistrate finds case should be committed",
+      "raw_text": "362. Procedure when after commencement of inquiry or trial, Magistrate finds case should be\ncommitted.—If, in any inquiry into an offence or a trial before a Magistrate, it appears to him at any stage\nof the proceedings before signing the judgment that the case is one which ought to be tried by the Court of\nSession, he shall commit it to that Court under the provisions hereinbefore contained and thereupon the\nprovisions of Chapter XIX shall apply to the commitment so made.",
+      "key_terms": [
+        "commitment (for trial)"
+      ],
+      "breakdown": {
+        "plain_summary": "If, at any point before actually signing the judgment, a Magistrate conducting an inquiry or trial realizes the case really ought to be tried by the Court of Session, he must commit it to that Court following the Sanhita's commitment procedure -- and from that point on, the whole of Chapter XIX (which governs commitment proceedings) governs how the case is handled.",
+        "essential_elements": [
+          "Applies where a Magistrate, at any stage before signing judgment, forms the view that the case ought to be tried by the Court of Session.",
+          "The Magistrate must commit the case to the Court of Session under the Sanhita's commitment provisions.",
+          "Chapter XIX then applies to the commitment so made."
+        ],
+        "exceptions_and_qualifications": [
+          "The cut-off is signing the judgment -- once judgment is signed, this mid-proceeding commitment route is no longer available."
+        ],
+        "how_to_read": "This section is the mid-trial safety valve companion to section 361, specifically addressing the scenario where a Magistrate only discovers partway through -- after evidence has started coming in -- that the offence is properly a Sessions-triable matter; practitioners should flag any Sessions-exclusive offence (e.g., one carrying a sentence beyond Magistrate sentencing power) early, since this section confirms the case can and should be redirected even after the trial has begun."
+      }
+    },
+    {
+      "number": "363",
+      "title": "Trial of persons previously convicted of offences against coinage, stamp-law or property",
+      "raw_text": "363. Trial of persons previously convicted of offences against coinage, stamp-law or\nproperty.—(1) Where a person, having been convicted of an offence punishable under Chapter X or\nChapter XVII of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023), with imprisonment for a term of three\nyears or upwards, is again accused of any offence punishable under either of those Chapters with\nimprisonment for a term of three years or upwards, and the Magistrate before whom the case is pending is\nsatisfied that there is ground for presuming that such person has committed the offence, he shall be sent for\ntrial to the Chief Judicial Magistrate or committed to the Court of Session, unless the Magistrate is\ncompetent to try the case and is of opinion that he can himself pass an adequate sentence if the accused is\nconvicted.\n    (2) When any person is sent for trial to the Chief Judicial Magistrate or committed to the Court of\nSession under sub-section (1), any other person accused jointly with him in the same inquiry or trial shall\nbe similarly sent or committed, unless the Magistrate discharges such other person under section 262 or\nsection 268, as the case may be.",
+      "key_terms": [
+        "coinage",
+        "commitment (for trial)"
+      ],
+      "breakdown": {
+        "plain_summary": "This targets repeat offenders in coinage/stamp-law offences (BNS Chapter X) and property offences (BNS Chapter XVII). If someone with a prior conviction carrying three-plus years' imprisonment under either Chapter is again accused of an offence under either Chapter also carrying three-plus years, and the Magistrate finds grounds to presume he committed it, the Magistrate must send the case up to the Chief Judicial Magistrate or commit it to the Court of Session -- unless the Magistrate is himself competent to try it and thinks he can pass an adequate sentence on conviction. If a co-accused is jointly implicated in the same inquiry/trial as this repeat offender, that co-accused gets sent/committed along with him too, unless discharged under the applicable discharge provision (section 262 or 268).",
+        "essential_elements": [
+          "Applies to a person previously convicted, with imprisonment of three years or more, under BNS Chapter X (coinage/Government stamps) or Chapter XVII (property offences).",
+          "Trigger: the same person is again accused of an offence under either Chapter carrying three years or more imprisonment, and the Magistrate finds grounds to presume he committed it.",
+          "Default outcome: sent for trial to the Chief Judicial Magistrate or committed to the Court of Session.",
+          "Exception: not required if the Magistrate is competent to try the case and considers he can himself pass an adequate sentence on conviction.",
+          "A jointly-accused co-accused in the same inquiry/trial must be similarly sent/committed, unless discharged under section 262 or 268."
+        ],
+        "exceptions_and_qualifications": [
+          "The escalation to the Chief Judicial Magistrate/Court of Session is not automatic -- it is displaced where the trying Magistrate is competent and considers his own sentencing power adequate."
+        ],
+        "how_to_read": "This provision recognizes that repeat offenders in coinage and property crime often warrant sentencing beyond an ordinary Magistrate's powers, so it builds in an escalation trigger tied to prior-conviction severity -- advocates for an accused with a relevant prior conviction should anticipate a possible committal even in matters that would otherwise stay before a Magistrate, and should also track how this affects any co-accused caught in the same proceeding."
+      }
+    },
+    {
+      "number": "364",
+      "title": "Procedure when Magistrate cannot pass sentence sufficiently severe",
+      "raw_text": "364. Procedure when Magistrate cannot pass sentence sufficiently severe.—(1) Whenever a\nMagistrate is of opinion, after hearing the evidence for the prosecution and the accused, that the accused is\nguilty, and that he ought to receive a punishment different in kind from, or more severe than, that which\nsuch Magistrate is empowered to inflict, or, being a Magistrate of the second class, is of opinion that the\naccused ought to be required to execute a bond or bail bond under section 125, he may record the opinion\nand submit his proceedings, and forward the accused, to the Chief Judicial Magistrate to whom he is\nsubordinate.\n    (2) When more accused persons than one are being tried together, and the Magistrate considers it\nnecessary to proceed under sub-section (1), in regard to any of such accused, he shall forward all the\naccused, who are in his opinion guilty, to the Chief Judicial Magistrate.\n    (3) The Chief Judicial Magistrate to whom the proceedings are submitted may, if he thinks fit, examine\nthe parties and recall and examine any witness who has already given evidence in the case and may call for\nand take any further evidence and shall pass such judgment, sentence or order in the case as he thinks fit,\nand is according to law.",
+      "key_terms": [
+        "bail bond",
+        "chief judicial magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "After hearing both sides' evidence, if a Magistrate concludes the accused is guilty but deserves a punishment either different in kind from, or heavier than, what that Magistrate is empowered to give -- or if a second-class Magistrate thinks the accused should have to execute a bond or bail bond under section 125 -- the Magistrate records that opinion and forwards both the case file and the accused to his superior, the Chief Judicial Magistrate. Where multiple accused are being tried together and this applies to some of them, all the accused found guilty in the Magistrate's opinion get forwarded together. The Chief Judicial Magistrate receiving the case can examine the parties, recall and re-examine witnesses, take further evidence, and ultimately pass whatever judgment, sentence, or order he thinks fit and lawful.",
+        "essential_elements": [
+          "Applies where, after hearing prosecution and accused evidence, the Magistrate opines the accused is guilty but deserves a punishment different in kind or more severe than the Magistrate can inflict.",
+          "Also applies where a second-class Magistrate opines the accused should be required to execute a bond or bail bond under section 125.",
+          "The Magistrate records the opinion and forwards the proceedings and the accused to the Chief Judicial Magistrate.",
+          "If multiple accused are tried together and this applies to some, all accused found guilty in the Magistrate's opinion must be forwarded together.",
+          "The Chief Judicial Magistrate may examine parties, recall/re-examine witnesses, take further evidence, and pass whatever judgment, sentence, or order he thinks fit and lawful."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a sentencing-power escalation valve distinct from section 363's repeat-offender trigger -- here the trigger is simply that the punishment warranted exceeds what this particular Magistrate can impose, regardless of the accused's criminal history; the Chief Judicial Magistrate's fresh power to recall witnesses and take further evidence means the case is not merely rubber-stamped but can be genuinely re-examined before final sentencing."
+      }
+    },
+    {
+      "number": "365",
+      "title": "Conviction or commitment on evidence partly recorded by one Magistrate and partly by another",
+      "raw_text": "365. Conviction or commitment on evidence partly recorded by one Magistrate and partly by\nanother.—(1) Whenever any Judge or Magistrate, after having heard and recorded the whole or any part\nof the evidence in any inquiry or a trial, ceases to exercise jurisdiction therein and is succeeded by another\nJudge or Magistrate who has and who exercises such jurisdiction, the Judge or Magistrate so succeeding\nmay act on the evidence so recorded by his predecessor, or partly recorded by his predecessor and partly\nrecorded by himself:\n    Provided that if the succeeding Judge or Magistrate is of the opinion that further examination of any of\nthe witnesses whose evidence has already been recorded is necessary in the interests of justice, he may re-\nsummon any such witness, and after such further examination, cross-examination and re-examination, if\nany, as he may permit, the witness shall be discharged.\n    (2) When a case is transferred under the provisions of this Sanhita from one Judge to another Judge or\nfrom one Magistrate to another Magistrate, the former shall be deemed to cease to exercise jurisdiction\ntherein, and to be succeeded by the latter, within the meaning of sub-section (1).\n    (3) Nothing in this section applies to summary trials or to cases in which proceedings have been stayed\nunder section 361 or in which proceedings have been submitted to a superior Magistrate under section 364.",
+      "key_terms": [
+        "successor judge or magistrate",
+        "discharge"
+      ],
+      "breakdown": {
+        "plain_summary": "If a Judge or Magistrate who has recorded some or all of the evidence in a case stops exercising jurisdiction over it (for any reason) and is succeeded by another Judge or Magistrate, the successor can simply continue on the evidence already recorded -- combining what the predecessor recorded with whatever the successor records afterward -- without starting over. But if the successor thinks further examination of an already-heard witness is genuinely necessary in the interests of justice, he can re-summon that witness for further examination, cross-examination, or re-examination before discharging the witness again. A case formally transferred from one Judge/Magistrate to another under the Sanhita counts as this kind of succession. This continuity rule does not apply to summary trials, to cases stayed under section 361 (Magistrate cannot dispose of), or to cases forwarded to a superior Magistrate under section 364 (Magistrate cannot pass sufficiently severe sentence).",
+        "essential_elements": [
+          "Applies where a Judge/Magistrate who has recorded whole/part of the evidence ceases to exercise jurisdiction and is succeeded by another who does.",
+          "The successor may act on the evidence as recorded (wholly by the predecessor, or partly by each) without restarting the proceedings.",
+          "Proviso: the successor may re-summon any witness for further examination/cross-examination/re-examination if he considers it necessary in the interests of justice, discharging the witness again afterward.",
+          "Sub-section (2): a case transfer under the Sanhita from one Judge/Magistrate to another is deemed a succession for this section's purposes.",
+          "Sub-section (3) carve-outs: this section does not apply to summary trials, to cases stayed under section 361, or to cases submitted to a superior Magistrate under section 364."
+        ],
+        "exceptions_and_qualifications": [
+          "Summary trials, section 361 stays, and section 364 forwardings are all expressly excluded from this evidence-continuity rule."
+        ],
+        "how_to_read": "This is a judicial-continuity provision preventing wasted re-trials whenever a Judge or Magistrate is transferred, promoted, or otherwise replaced mid-case -- it balances efficiency (no automatic re-hearing of all evidence) against fairness (the successor retains discretion to recall any witness he needs to personally assess), and practitioners should note the specific exclusions, which route certain jurisdictional and sentencing-escalation scenarios through their own dedicated procedures instead."
       }
     }
   ]
