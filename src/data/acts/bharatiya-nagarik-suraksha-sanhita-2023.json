@@ -243,7 +243,10 @@
     "mental health review board": "A quasi-judicial body constituted under the Mental Healthcare Act, 2017 to review and safeguard the rights of persons receiving mental healthcare, including reviewing admission and detention in mental health establishments; where a section 369 detainee is held in a public mental health establishment rather than a jail, it is this Board -- not the Inspector-General of Prisons -- that certifies capacity to stand trial under section 376.",
     "bind over": "To require a person, by a formal court order backed by a bond or security, to do (or refrain from doing) a specified act -- most commonly, to appear and give evidence at a future date; section 379 empowers a Court to bind over witnesses to appear before the Magistrate to whom it forwards a complaint regarding offences against the administration of justice.",
     "commission": "A body of designated persons formally appointed by an authority (here, the State Government) to investigate a specific question and report back, rather than the authority deciding the matter itself in the first instance; section 377(1) allows the State Government, when transferring a detained person to a public mental health establishment, to appoint a three-member Commission -- one Judicial officer and two medical officers -- to formally inquire into that person's state of mind and report a recommendation on release or detention.",
-    "revision": "The supervisory jurisdiction of a superior Court to examine the record of a subordinate Court's proceeding to correct errors of jurisdiction, law, or procedure, without being a full-fledged appeal on facts; section 380(2) specifically excludes orders under sections 379-380 from revision, making the appellate Court's decision on whether to lodge a complaint for offences against the administration of justice final and not open to further supervisory challenge."
+    "revision": "The supervisory jurisdiction of a superior Court to examine the record of a subordinate Court's proceeding to correct errors of jurisdiction, law, or procedure, without being a full-fledged appeal on facts; section 380(2) specifically excludes orders under sections 379-380 from revision, making the appellate Court's decision on whether to lodge a complaint for offences against the administration of justice final and not open to further supervisory challenge.",
+    "costs": "The expenses of litigation -- process-fees, witness expenses, advocate's fees, and similar prosecution or application expenses -- that a Court may order one party to pay to another as part of its order; under section 381 a Court may award costs on a section 379 complaint application or section 380 appeal as it thinks just, distinct from the separate cost-shifting power in section 400 for non-cognizable-offence prosecutions.",
+    "false evidence": "Evidence given by a witness that he knows or believes to be untrue, or evidence (including a document or other material) fabricated with the intention that it be used as genuine in a judicial proceeding; section 383 lets the very Court before which such evidence was knowingly or wilfully given or fabricated try the witness summarily for it immediately upon delivering judgment in the underlying case, without needing a separate complaint process.",
+    "contempt": "Conduct that disrespects, obstructs, or undermines the authority and dignity of a Court -- here, the specific set of offences against public justice (insult, interruption, or intentional obstruction of judicial proceedings, among others under the Bharatiya Nyaya Sanhita, 2023) that section 384 allows a Civil, Criminal, or Revenue Court to punish summarily and on the spot when committed in its own view or presence, without the ordinary complaint-and-trial process."
   },
   "sections": [
     {
@@ -8745,6 +8748,99 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "The finality clause in sub-section (2) is the key practitioner takeaway: once this one appellate layer is exhausted (or not invoked), there is no further revisional recourse against a section 379/380 decision, so parties must make their strongest case at the appeal stage itself."
+      }
+    },
+    {
+      "number": "381",
+      "title": "Power to order costs",
+      "raw_text": "381. Power to order costs.—Any Court dealing with an application made to it for filing a complaint\nunder section 379 or an appeal under section 380, shall have power to make such order as to costs as may\nbe just.",
+      "key_terms": [
+        "costs"
+      ],
+      "breakdown": {
+        "plain_summary": "A short but practically important power: whichever Court is handling either a section 379 complaint-filing application or a section 380 appeal may order costs -- against either side -- as it considers just, giving the Court a tool to discourage frivolous applications/appeals in this administration-of-justice-offences track and to compensate the party put to expense defending against one.",
+        "essential_elements": [
+          "Applies to a Court dealing with an application to file a complaint under section 379, or an appeal under section 380.",
+          "The Court may make such order as to costs as it considers just, without further statutory constraint on the amount or direction of the award."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a discretionary, unconstrained costs power specific to the section 379-380 complaint/appeal track -- distinguish it from section 400's separate costs power tied to non-cognizable-offence prosecutions generally."
+      }
+    },
+    {
+      "number": "382",
+      "title": "Procedure of Magistrate taking cognizance",
+      "raw_text": "382. Procedure of Magistrate taking cognizance.—(1) A Magistrate to whom a complaint is made\nunder section 379 or section 380 shall, notwithstanding anything contained in Chapter XVI, proceed, as far\nas may be, to deal with the case as if it were instituted on a police report.\n    (2) Where it is brought to the notice of such Magistrate, or of any other Magistrate to whom the case\nmay have been transferred, that an appeal is pending against the decision arrived at in the judicial\nproceeding out of which the matter has arisen, he may, if he thinks fit, at any stage, adjourn the hearing of\nthe case until such appeal is decided.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Once a Court's section 379 or 380 complaint reaches a Magistrate, it is handled as though it were a police-report case rather than an ordinary private complaint -- overriding Chapter XVI's usual complaint-case procedure (which would otherwise require the Magistrate to examine the complainant, consider dismissal, etc.). This streamlines matters since the originating Court has already effectively screened the case through its own preliminary inquiry. The Magistrate also retains discretion to adjourn the hearing if an appeal is pending against the underlying judicial-proceeding decision that gave rise to the complaint, avoiding proceedings that might be overtaken by the appeal's outcome.",
+        "essential_elements": [
+          "Applies to a Magistrate receiving a complaint under section 379 or section 380.",
+          "The case is treated, as far as may be, as if instituted on a police report -- notwithstanding Chapter XVI's ordinary complaint procedure.",
+          "If an appeal is pending against the judicial-proceeding decision out of which the matter arose, the Magistrate (or a transferee Magistrate) may adjourn the hearing until that appeal is decided."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The police-report-case treatment is a deliberate procedural shortcut reflecting that the complaint already carries the imprimatur of a Court's own finding under section 379/380 -- practitioners should not expect the ordinary safeguards of a private-complaint case (such as pre-summoning inquiry) to apply here."
+      }
+    },
+    {
+      "number": "383",
+      "title": "Summary procedure for trial for giving false evidence",
+      "raw_text": "383. Summary procedure for trial for giving false evidence.—(1) If, at the time of delivery of any\njudgment or final order disposing of any judicial proceeding, a Court of Session or Magistrate of the first\nclass expresses an opinion to the effect that any witness appearing in such proceeding had knowingly or\nwilfully given false evidence or had fabricated false evidence with the intention that such evidence should\nbe used in such proceeding, it or he may, if satisfied that it is necessary and expedient in the interest of\njustice that the witness should be tried summarily for giving or fabricating, as the case may be, false\nevidence, take cognizance of the offence and may, after giving the offender a reasonable opportunity of\nshowing cause why he should not be punished for such offence, try such offender summarily and sentence\nhim to imprisonment for a term which may extend to three months, or to fine which may extend to one\nthousand rupees, or with both.\n    (2) In every such case the Court shall follow, as nearly as may be practicable, the procedure prescribed\nfor summary trials.\n    (3) Nothing in this section shall affect the power of the Court to make a complaint under section 379\nfor the offence, where it does not choose to proceed under this section.\n    (4) Where, after any action is initiated under sub-section (1), it is made to appear to the Court of Session\nor Magistrate of the first class that an appeal or an application for revision has been preferred or filed against\nthe judgment or order in which the opinion referred to in that sub-section has been expressed, it or he shall\nstay further proceedings of the trial until the disposal of the appeal or the application for revision, as the\ncase may be, and thereupon the further proceedings of the trial shall abide by the results of the appeal or\napplication for revision.",
+      "key_terms": [
+        "false evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives a Court of Session or a Magistrate of the first class an immediate, on-the-spot alternative to section 379's more elaborate complaint procedure when, at the moment of delivering judgment, it forms the opinion that a witness knowingly gave or fabricated false evidence: it may take cognizance itself and try the witness summarily, right after giving the witness a chance to show cause, with sentencing capped at three months' imprisonment, a Rs. 1,000 fine, or both. This power doesn't override the section 379 complaint route -- the Court can still choose that path instead. But if the underlying judgment itself is appealed or sent for revision, the summary false-evidence trial must be stayed until that outcome is known, since the appellate result could undercut the very opinion that triggered the summary trial.",
+        "essential_elements": [
+          "Triggered by a Court of Session or Magistrate of the first class forming an opinion, at the time of delivering judgment/final order, that a witness knowingly/wilfully gave or fabricated false evidence.",
+          "The Court/Magistrate must be satisfied it is necessary and expedient in the interest of justice to try the witness summarily.",
+          "The witness must be given a reasonable opportunity to show cause before being tried and sentenced.",
+          "Maximum sentence: imprisonment up to three months, fine up to one thousand rupees, or both.",
+          "The procedure follows, as nearly as practicable, the ordinary summary-trial procedure.",
+          "This power does not affect the Court's alternative option to instead proceed via a section 379 complaint.",
+          "If an appeal or revision application is pending against the underlying judgment/order, further proceedings in the summary trial must be stayed until that is decided, and then must abide by its result."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a deliberately fast-track, judge-driven mechanism for the most common administration-of-justice offence -- perjury discovered in the course of a case the Court has just heard -- balanced by the stay requirement in sub-section (4), which prevents a summary conviction for false evidence from outrunning an appeal that might vindicate the witness's original testimony."
+      }
+    },
+    {
+      "number": "384",
+      "title": "Procedure in certain cases of contempt",
+      "raw_text": "384. Procedure in certain cases of contempt.—(1) When any such offence as is described\nin section 210, section 213, section 214, section 215 or section 267 of the Bharatiya Nyaya\nSanhita, 2023 (45 of 2023) is committed in the view or presence of any Civil, Criminal, or Revenue Court,\nthe Court may cause the offender to be detained in custody, and may, at any time before the rising of the\nCourt on the same day, take cognizance of the offence and, after giving the offender a reasonable\nopportunity of showing cause why he should not be punished under this section, sentence the offender to\nfine not exceeding one thousand rupees, and, in default of payment of fine, to simple imprisonment for a\nterm which may extend to one month, unless such fine be sooner paid.\n    (2) In every such case the Court shall record the fact constituting the offence, with the statement (if\nany) made by the offender, as well as the finding and sentence.\n    (3) If the offence is under section 267 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023), the record\nshall show the nature and stage of the judicial proceeding in which the Court interrupted or insulted was\nsitting, and the nature of the interruption or insult.",
+      "key_terms": [
+        "contempt"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the on-the-spot contempt power: when specified BNS offences (obstructing/disobeying a public servant's order, threatening witnesses/public servants, insulting or interrupting a judicial proceeding, and similar administration-of-justice offences) occur directly in the view or presence of a Civil, Criminal, or Revenue Court, that same Court can detain the offender and, before it rises for the day, take cognizance and punish him itself -- up to a Rs. 1,000 fine (with up to one month's simple imprisonment in default) -- after giving the offender a chance to show cause. The Court must keep a written record of what happened, the offender's statement (if any), and its finding and sentence, and if the offence was insulting/interrupting the proceeding itself, the record must specifically capture the nature and stage of the proceeding and the nature of the insult/interruption.",
+        "essential_elements": [
+          "Applies to specified BNS offences (sections 210, 213, 214, 215, or 267) committed in the view or presence of a Civil, Criminal, or Revenue Court.",
+          "The Court may detain the offender in custody and, before rising that day, take cognizance and try him itself.",
+          "The offender must be given a reasonable opportunity to show cause before sentencing.",
+          "Maximum punishment: fine up to one thousand rupees, with up to one month's simple imprisonment in default of payment.",
+          "The Court must record the facts constituting the offence, any statement by the offender, and its finding and sentence.",
+          "For a section 267 BNS offence (interrupting/insulting the Court), the record must additionally show the nature and stage of the proceeding and the nature of the interruption/insult."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This same-day, same-Court summary power exists because in-Court misconduct needs an immediate response to preserve the proceeding's integrity -- but note the strict cap (only a fine, not direct imprisonment, with imprisonment only in default of payment) and that section 385 provides the escape valve when the Court thinks the offence warrants something beyond what this section allows."
+      }
+    },
+    {
+      "number": "385",
+      "title": "Procedure where Court considers that case should not be dealt with under section 384",
+      "raw_text": "385. Procedure where Court considers that case should not be dealt with under\nsection 384.—(1) If the Court in any case considers that a person accused of any of the offences referred\nto in section 384 and committed in its view or presence should be imprisoned otherwise than in default of\npayment of fine, or that a fine exceeding two hundred rupees should be imposed upon him, or such Court\nis for any other reason of opinion that the case should not be disposed of under section 384, such Court,\nafter recording the facts constituting the offence and the statement of the accused as hereinbefore provided,\nmay forward the case to a Magistrate having jurisdiction to try the same, and may require security to be\ngiven for the appearance of such person before such Magistrate, or if sufficient security is not given, shall\nforward such person in custody to such Magistrate.\n    (2) The Magistrate to whom any case is forwarded under this section shall proceed to deal with, as far\nas may be, as if it were instituted on a police report.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This is the escalation valve for section 384's summary contempt power: if the Court thinks the offender deserves direct imprisonment (not merely imprisonment in default of an unpaid fine), or a fine above two hundred rupees, or otherwise decides the matter shouldn't be disposed of summarily under section 384, it records the facts and the accused's statement as usual, then forwards the case to a Magistrate with jurisdiction -- either on security for the person's appearance, or, failing sufficient security, in custody. That Magistrate then handles it, once again, as if it were a police-report case (mirroring section 382's treatment of section 379/380 complaints).",
+        "essential_elements": [
+          "Applies where the Court considers, regarding a section 384 offence committed in its view/presence, that imprisonment beyond default-of-fine, or a fine exceeding two hundred rupees, is warranted, or otherwise that section 384 disposal is inappropriate.",
+          "The Court must first record the facts constituting the offence and the accused's statement.",
+          "It then forwards the case to a Magistrate with jurisdiction, requiring security for appearance, or sending the person in custody if sufficient security is not given.",
+          "The receiving Magistrate deals with the case, as far as may be, as if it were instituted on a police report."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read sections 384 and 385 together as a graduated-severity pair -- section 384 caps a Court's own summary power at a modest fine (imprisonment only in default), and section 385 is the mandatory referral route the moment the Court believes the misconduct deserves more serious punishment than that cap allows."
       }
     }
   ]
