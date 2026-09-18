@@ -159,7 +159,7 @@
     "venue": "The particular court or place, among those otherwise having jurisdiction, where a case is actually inquired into or tried.",
     "cognizance": "The formal application of judicial mind by a Magistrate or court to the facts of a case for the purpose of proceeding further, marking the point at which a court becomes seized of a matter.",
     "extraterritorial jurisdiction": "The power of a country's courts to inquire into and try offences committed outside its own territory, typically limited to offences by its own citizens or on its registered ships/aircraft.",
-    "deposition": "The formal written or recorded record of a witness's testimony, typically taken under oath before a judicial or authorised officer.",
+    "deposition": "The written record of a witness's evidence, taken down during an examination (including examination on commission), which can be read or received as evidence under specified conditions.",
     "commission (for taking evidence)": "A court's formal authorisation to a designated person to record evidence at a place the court itself cannot conveniently visit, with the recorded evidence then read into the trial record.",
     "committal": "The formal procedure by which a Magistrate, after a preliminary inquiry, sends a case triable exclusively by a Court of Session to that Court, since a Court of Session generally cannot take original cognizance on its own.",
     "criminal conspiracy": "An agreement between two or more persons to commit an illegal act, or a legal act by illegal means, itself treated as a distinct offence under the Bharatiya Nyaya Sanhita even if the planned act is never carried out.",
@@ -208,7 +208,9 @@
     "narrative form": "A method of recording evidence as a continuous, connected written account in the witness's own words (as opposed to a strict question-and-answer transcript), which is the ordinary default method the Magistrate or Judge may depart from in appropriate cases.",
     "demeanour": "The manner, conduct, and bearing of a witness while giving evidence and under examination -- for example, hesitation, confidence, nervousness, or evasiveness -- which a Judge or Magistrate may note as relevant to assessing credibility.",
     "interpreter": "A person appointed by a Criminal Court to translate evidence or statements from one language into another so that the Court, the accused, or another participant can understand proceedings conducted in an unfamiliar language.",
-    "examination of accused": "The formal questioning of the accused by the Court (distinct from witness examination), during which the accused is given an opportunity to explain circumstances appearing in the evidence against him; recorded in full under section 316."
+    "examination of accused": "The formal questioning of the accused by the Court (distinct from witness examination), during which the accused is given an opportunity to explain circumstances appearing in the evidence against him; recorded in full under section 316.",
+    "interrogatories": "A formal written list of questions submitted by a party to a proceeding, to be put to a witness being examined on commission, on matters the Court or Magistrate directing the commission considers relevant to the case.",
+    "adjournment": "The postponement of a hearing, trial, or proceeding to a later date or time, here specifically to allow sufficient time for a commission to be executed and returned to the Court."
   },
   "sections": [
     {
@@ -7425,6 +7427,127 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This closes out Part A (Mode of taking and recording evidence) by carving the High Court out of the detailed statutory recording scheme and instead deferring to the High Court's own procedural autonomy -- consistent with the High Court's position at the apex of the State judicial hierarchy."
+      }
+    },
+    {
+      "number": "319",
+      "title": "When attendance of witness may be dispensed with and commission issued",
+      "raw_text": "319. When attendance of witness may be dispensed with and commission issued.—(1) Whenever,\nin the course of any inquiry, trial or other proceeding under this Sanhita, it appears to a Court or Magistrate\nthat the examination of a witness is necessary for the ends of justice, and that the attendance of such witness\ncannot be procured without an amount of delay, expense or inconvenience which, under the circumstances\nof the case, would be unreasonable, the Court or Magistrate may dispense with such attendance and may\nissue a commission for the examination of the witness in accordance with the provisions of this Chapter:\n    Provided that where the examination of the President or the Vice-President of India or the Governor of\na State or the Administrator of a Union territory as a witness is necessary for the ends of justice, a\ncommission shall be issued for the examination of such a witness.\n    (2) The Court may, when issuing a commission for the examination of a witness for the prosecution,\ndirect that such amount as the Court considers reasonable to meet the expenses of the accused, including\nthe advocate's fees, be paid by the prosecution.",
+      "key_terms": [
+        "commission (examination on)",
+        "interrogatories"
+      ],
+      "breakdown": {
+        "plain_summary": "If a Court or Magistrate finds a witness's examination necessary for justice, but getting them physically to attend would involve unreasonable delay, expense, or inconvenience, the Court can skip requiring their attendance and instead issue a commission for their examination elsewhere. For the President, Vice-President, a Governor, or a Union Territory Administrator, a commission is mandatory (not merely an option) whenever their examination is necessary. When a commission examines a prosecution witness, the Court can also order the prosecution to pay the accused's reasonable expenses, including advocate's fees, connected to that commission examination.",
+        "essential_elements": [
+          "Trigger: the Court/Magistrate finds examination of a witness necessary for the ends of justice.",
+          "Additional trigger: securing the witness's attendance would involve unreasonable delay, expense, or inconvenience given the circumstances.",
+          "Where both apply, the Court may dispense with attendance and issue a commission for examination under this Chapter's procedure.",
+          "Proviso: a commission is mandatory, not discretionary, for examining the President, Vice-President, a State Governor, or a Union Territory Administrator as a witness.",
+          "Sub-section (2): when a commission examines a prosecution witness, the Court may direct the prosecution to pay the accused's reasonable expenses (including advocate's fees) connected with that examination."
+        ],
+        "exceptions_and_qualifications": [
+          "High constitutional/gubernatorial office-holders get mandatory commission examination -- the Court has no discretion to instead compel their personal attendance."
+        ],
+        "how_to_read": "This is the gateway provision for Part B -- it defines when a Court may (or, for the highest office-holders, must) bypass ordinary witness attendance in favour of the commission mechanism detailed in the sections that follow."
+      }
+    },
+    {
+      "number": "320",
+      "title": "Commission to whom to be issued",
+      "raw_text": "320. Commission to whom to be issued.—(1) If the witness is within the territories to which this\nSanhita extends, the commission shall be directed to the Chief Judicial Magistrate within whose local\njurisdiction the witness is to be found.\n    (2) If the witness is in India, but in a State or an area to which this Sanhita does not extend, the\ncommission shall be directed to such Court or officer as the Central Government may, by notification,\nspecify in this behalf.\n     (3) If the witness is in a country or place outside India and arrangements have been made by the Central\nGovernment with the Government of such country or place for taking the evidence of witnesses in relation\nto criminal matters, the commission shall be issued in such form, directed to such Court or officer, and sent\nto such authority for transmission as the Central Government may, by notification, prescribe in this behalf.",
+      "key_terms": [
+        "commission (examination on)",
+        "Chief Judicial Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "Who receives the commission depends on where the witness is located: within the Sanhita's territorial reach, it goes to the local Chief Judicial Magistrate; within India but in an area the Sanhita doesn't extend to, it goes to whatever Court/officer the Central Government has notified for that purpose; and if the witness is abroad, it follows whatever form/procedure the Central Government has prescribed under any reciprocal arrangement with that foreign country's government.",
+        "essential_elements": [
+          "Witness within Sanhita territory: commission directed to the Chief Judicial Magistrate of the witness's local jurisdiction.",
+          "Witness in India but outside Sanhita's territorial extent: commission directed to whatever Court/officer the Central Government specifies by notification.",
+          "Witness abroad, with a reciprocal arrangement between the Central Government and that country: commission issued in the prescribed form, directed to the prescribed Court/officer, and transmitted via the prescribed authority, all per Central Government notification."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A jurisdictional routing table -- three tiers based on the witness's location (domestic-within-Sanhita, domestic-outside-Sanhita, foreign-with-arrangement) determine exactly who executes the commission."
+      }
+    },
+    {
+      "number": "321",
+      "title": "Execution of commissions",
+      "raw_text": "321. Execution of commissions.—Upon receipt of the commission, the Chief Judicial Magistrate or\nsuch Magistrate as he may appoint in this behalf, shall summon the witness before him or proceed to the\nplace where the witness is, and shall take down his evidence in the same manner, and may for this purpose\nexercise the same powers, as in trials of warrant-cases under this Sanhita.",
+      "key_terms": [
+        "commission (examination on)",
+        "warrant-case"
+      ],
+      "breakdown": {
+        "plain_summary": "Once the Chief Judicial Magistrate (or a Magistrate he appoints for this purpose) receives the commission, he either summons the witness to appear before him or goes to wherever the witness is, and records the witness's evidence exactly as it would be recorded in a warrant-case trial -- using the same powers he would have in such a trial.",
+        "essential_elements": [
+          "The receiving Chief Judicial Magistrate (or his appointed Magistrate) either summons the witness or goes to the witness's location.",
+          "Evidence is taken down in the same manner as in warrant-case trials under the Sanhita.",
+          "The same powers available in warrant-case trials may be exercised for this purpose."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This imports the warrant-case evidence-recording standard (section 310) wholesale into the commission-execution process, ensuring the resulting deposition has the same procedural rigor as evidence taken directly by the trial court."
+      }
+    },
+    {
+      "number": "322",
+      "title": "Parties may examine witnesses",
+      "raw_text": "322. Parties may examine witnesses.—(1) The parties to any proceeding under this Sanhita in which\na commission is issued may respectively forward any interrogatories in writing which the Court or\nMagistrate directing the commission may think relevant to the issue, and it shall be lawful for the\nMagistrate, Court or officer to whom the commission, is directed, or to whom the duty of executing it is\ndelegated, to examine the witness upon such interrogatories.\n    (2) Any such party may appear before such Magistrate, Court or Officer by an advocate, or if not in\ncustody, in person, and may examine, cross-examine and re-examine the said witness.",
+      "key_terms": [
+        "interrogatories",
+        "cross-examine",
+        "re-examination"
+      ],
+      "breakdown": {
+        "plain_summary": "Both sides to the proceeding can participate meaningfully in a commission examination: they may submit written interrogatories (questions) that the issuing Court/Magistrate considers relevant, which the commission-executing Magistrate/Court/officer can then put to the witness. Beyond just written questions, a party may also appear in person (if not in custody) or through an advocate, and actively examine, cross-examine, and re-examine the witness at the commission itself.",
+        "essential_elements": [
+          "Parties may forward written interrogatories, subject to the issuing Court/Magistrate's relevance screening.",
+          "The commission-executing authority may examine the witness upon such interrogatories.",
+          "Separately, a party may appear before the executing authority -- by advocate, or in person if not in custody.",
+          "At that appearance, the party may examine, cross-examine, and re-examine the witness directly."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section ensures a commission examination is not a one-sided, paper-only process -- both the written-interrogatories route and the live-appearance route (with full examination/cross-examination/re-examination rights) are available, preserving adversarial fairness despite the witness's physical absence from the trial court."
+      }
+    },
+    {
+      "number": "323",
+      "title": "Return of commission",
+      "raw_text": "323. Return of commission.—(1) After any commission issued under section 319 has been duly\nexecuted, it shall be returned, together with the deposition of the witness examined thereunder, to the Court\nor Magistrate issuing the commission; and the commission, the return thereto and the deposition shall be\nopen at all reasonable times to inspection of the parties, and may, subject to all just exceptions, be read in\nevidence in the case by either party, and shall form part of the record.\n    (2) Any deposition so taken, if it satisfies the conditions specified by section 27 of the Bharatiya\nSakshya Adhiniyam, 2023, may also be received in evidence at any subsequent stage of the case before\nanother Court.",
+      "key_terms": [
+        "commission (examination on)",
+        "deposition"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a commission has been executed, it comes back to the issuing Court/Magistrate along with the witness's deposition. Both parties can inspect the commission, its return, and the deposition at any reasonable time, and either party may read it into evidence (subject to valid objections) -- it becomes part of the case record. If the deposition also meets the conditions in section 27 of the Bharatiya Sakshya Adhiniyam, 2023, it can additionally be used as evidence at a later stage before a different Court.",
+        "essential_elements": [
+          "After execution, the commission and the witness's deposition are returned to the issuing Court/Magistrate.",
+          "Parties have a right to inspect the commission, its return, and the deposition at all reasonable times.",
+          "Either party may read the deposition into evidence, subject to just exceptions (valid objections), and it forms part of the record.",
+          "If the deposition satisfies section 27 of the Bharatiya Sakshya Adhiniyam, 2023, it can also be admitted as evidence at a later stage of the case before another Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This closes the commission loop -- the whole point of issuing a commission was to obtain usable evidence without the witness's physical attendance, and this section confirms the resulting deposition is treated as genuine trial evidence, not a lesser substitute, with an added cross-reference to the Bharatiya Sakshya Adhiniyam's evidence-law conditions for reuse in other proceedings."
+      }
+    },
+    {
+      "number": "324",
+      "title": "Adjournment of proceeding",
+      "raw_text": "324. Adjournment of proceeding.—In every case in which a commission is issued under section 319,\nthe inquiry, trial or other proceeding may be adjourned for a specified time reasonably sufficient for the\nexecution and return of the commission.",
+      "key_terms": [
+        "adjournment",
+        "commission (examination on)"
+      ],
+      "breakdown": {
+        "plain_summary": "Whenever a commission is issued, the underlying inquiry, trial, or proceeding can simply be adjourned for however long is reasonably needed to get the commission executed and returned, rather than the case having to be otherwise stalled or restructured.",
+        "essential_elements": [
+          "Applies to every case in which a commission is issued under section 319.",
+          "The proceeding may be adjourned for a specified time.",
+          "That time must be reasonably sufficient for the commission's execution and return."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short, practical case-management provision that closes out Part B -- it gives the Court an explicit basis to pause proceedings for exactly as long as the commission process (sections 320-323) reasonably takes."
       }
     }
   ]
