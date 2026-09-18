@@ -178,7 +178,9 @@
     "complaint case": "A criminal proceeding instituted otherwise than on a police report — that is, begun directly on a private or authorised complaint, or on the Magistrate's own information/knowledge — as distinguished from a police-report (chargesheet) case.",
     "illustration": "A short hypothetical example appended to a statutory provision to show how the rule applies in practice — illustrations are not independent law but aids to interpreting the section they accompany.",
     "joinder of charges": "The rule-set governing when multiple distinct offences (or multiple accused persons) may lawfully be combined into a single charge and tried together in one trial, rather than requiring a separate charge and separate trial for each offence.",
-    "same transaction": "A series of acts so connected in purpose, time, and continuity that they form one continuous course of criminal conduct — the legal test that allows multiple offences arising from that connected conduct to be charged and tried together instead of separately."
+    "same transaction": "A series of acts so connected in purpose, time, and continuity that they form one continuous course of criminal conduct — the legal test that allows multiple offences arising from that connected conduct to be charged and tried together instead of separately.",
+    "acquittal": "A formal finding or legal outcome that the accused is not held guilty of the charge — either by the Court's decision after trial, or, as under section 247, by operation of law when a remaining charge is withdrawn or its trial stayed after conviction on another charge from the same charge-sheet.",
+    "conviction": "The Court's formal finding, after trial, that the accused is guilty of the offence charged."
   },
   "sections": [
     {
@@ -5802,7 +5804,33 @@
         "exceptions_and_qualifications": [
           "The proviso's residual joinder route requires the accused persons' own written application — like section 241's proviso, it cannot be imposed on unwilling accused persons under this catch-all."
         ],
-        "how_to_read": "Read clauses (a)-(g) as a closed list of specific, factually-justified categories where joint trial of multiple accused makes sense (shared offence, abetment/attempt links, same transaction, thief-and-receiver pairings, and specific BNS cross-references), and the proviso as the deliberately narrow, accused-consent-gated safety valve for everything else. This completes Chapter XVIII (The Charge, Sections 234-246); Chapter XIX (Trial before a Court of Session) follows at Section 247."
+        "how_to_read": "Read clauses (a)-(g) as a closed list of specific, factually-justified categories where joint trial of multiple accused makes sense (shared offence, abetment/attempt links, same transaction, thief-and-receiver pairings, and specific BNS cross-references), and the proviso as the deliberately narrow, accused-consent-gated safety valve for everything else. Chapter XVIII (The Charge) continues with one further section (247), addressing what happens to any remaining, untried charge-heads once conviction is secured on one of several joined charges."
+      }
+    },
+    {
+      "number": "247",
+      "title": "Withdrawal of remaining charges on conviction on one of several charges",
+      "raw_text": "247. Withdrawal of remaining charges on conviction on one of several charges.—When a charge\n    containing more heads than one is framed against the same person, and when a conviction has been had on\n    one or more of them, the complainant, or the officer conducting the prosecution, may, with the consent of\n    the Court, withdraw the remaining charge or charges, or the Court of its own accord may stay the inquiry\n    into, or trial of, such charge or charges and such withdrawal shall have the effect of an acquittal on such\n    charge or charges, unless the conviction be set aside, in which case the said Court (subject to the order of\n    the Court setting aside the conviction) may proceed with the inquiry into, or trial of, the charge or charges\n    so withdrawn.",
+      "key_terms": [
+        "charge",
+        "conviction",
+        "acquittal",
+        "complainant"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is the practical closing mechanism for multi-headed charges framed under Chapter XVIII's joinder provisions (sections 241-246): once a conviction has been secured on one or more of the several charges brought against the same person, there is often little practical point in continuing to inquire into or try the remaining, unconvicted charges from that same charge-sheet — especially where the punishment already secured makes further prosecution of overlapping or lesser counts an inefficient use of judicial time. This section formalises that shortcut. Once a conviction has occurred on one or more heads of a multi-headed charge, either the complainant or the prosecuting officer may, with the Court's consent, withdraw the remaining, still-untried charge or charges; alternatively, the Court itself may, entirely on its own initiative, simply stay (pause and not pursue) the inquiry into or trial of those remaining charges. Critically, such a withdrawal or stay is not a mere administrative housekeeping step — it carries the full legal effect of an acquittal on those withdrawn or stayed charges, giving the accused the same protection against being tried again on them as if he had been formally tried and found not guilty. The section then addresses what happens if the original conviction (the one that triggered the withdrawal) is later set aside on appeal or revision: in that event, the Court may resume the inquiry into or trial of the withdrawn or stayed charges — but only subject to whatever order the appellate/revisional Court made when setting aside the conviction, ensuring the resumption stays properly bounded by that superior Court's directions.",
+        "essential_elements": [
+          "Precondition: a multi-headed charge was framed against the same person, and conviction has occurred on one or more (but not all) of the heads",
+          "Route 1: the complainant or the prosecuting officer may withdraw the remaining charge(s), with the Court's consent",
+          "Route 2: the Court may, on its own motion, stay the inquiry into or trial of the remaining charge(s)",
+          "Effect: such withdrawal or stay operates as a full acquittal on the withdrawn/stayed charge(s)",
+          "Reversal trigger: if the triggering conviction is later set aside, the Court may resume the inquiry/trial of the withdrawn charges, subject to the order that set the conviction aside"
+        ],
+        "exceptions_and_qualifications": [
+          "The acquittal effect is not automatic upon mere non-prosecution — it specifically requires either a Court-consented withdrawal or a Court-initiated stay under this section, not an informal abandonment.",
+          "Resumption after a conviction is set aside is expressly conditional on, and bounded by, the superior Court's own order — the trial Court cannot resume more broadly than that order permits."
+        ],
+        "how_to_read": "Read this as the practical endgame for Chapter XVIII's multi-charge joinder machinery: once one head of a multi-headed charge results in conviction, the remaining heads can be shelved with acquittal-level finality — but that finality is itself conditional on the triggering conviction actually standing. This section completes Chapter XVIII (The Charge, Sections 234-247) in full; Chapter XIX (Trial before a Court of Session) follows at Section 248."
       }
     }
   ]
