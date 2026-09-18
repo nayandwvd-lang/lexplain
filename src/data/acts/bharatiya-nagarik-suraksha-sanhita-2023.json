@@ -197,7 +197,12 @@
     "special leave petition": "A discretionary petition filed directly before the Supreme Court of India under Article 136 of the Constitution, seeking permission to appeal against any judgment, decree, determination, sentence, or order passed by any court or tribunal in the country.",
     "writ petition": "A petition filed before the High Court (under Articles 226 and 227 of the Constitution) or the Supreme Court, invoking the court's constitutional power to issue directions, orders, or writs for the enforcement of fundamental rights or for any other purpose, or to exercise superintendence over subordinate courts and tribunals.",
     "set off": "The process of crediting, or deducting, a period the accused has already spent in detention (e.g., as an undertrial) against the total term of imprisonment ultimately imposed as a sentence, so the accused does not serve that period twice.",
-    "non obstante clause": "A statutory clause (typically beginning \"notwithstanding\") that gives the provision it introduces overriding effect over anything inconsistent in other provisions of the same or another law."
+    "non obstante clause": "A statutory clause (typically beginning \"notwithstanding\") that gives the provision it introduces overriding effect over anything inconsistent in other provisions of the same or another law.",
+    "preventive detention": "Detention of a person by state authority not as punishment for a proven offence, but to prevent them from committing a future act prejudicial to public order, security, or similar specified interests, typically under a special preventive detention law.",
+    "subsidiary jail": "A place declared by the State Government, by general or special order, to function as a jail for the purposes of this Chapter, even though it may not be a full-fledged central or district prison.",
+    "borstal institution": "A specialised institution for the reform and rehabilitation of young offenders, emphasising education and vocational training over ordinary imprisonment.",
+    "commission (examination on)": "A procedure under which a Court authorises a designated person (a commissioner) to record the evidence of a witness who cannot conveniently attend court in person, with the recorded evidence then read as evidence in the case.",
+    "countersign": "A second, confirming signature (here, of the Chief Judicial Magistrate) required to validate certain orders made by a Magistrate of the second class before they can be acted upon by a prison official."
   },
   "sections": [
     {
@@ -7040,6 +7045,135 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "A categorical carve-out -- if the accused is a juvenile or child under the 2015 Act's definition, plea bargaining under this Chapter simply does not apply to them; their case proceeds under the Juvenile Justice Act framework instead."
+      }
+    },
+    {
+      "number": "301",
+      "title": "Definitions",
+      "raw_text": "301. Definitions.—In this Chapter,—\n        (a) \"detained\" includes detained under any law providing for preventive detention;\n        (b) \"prison\" includes,—\n            (i) any place which has been declared by the State Government, by general or special order, to\n        be a subsidiary jail;\n            (ii) any reformatory, Borstal institution or other institution of a like nature.",
+      "key_terms": [
+        "detained",
+        "prison",
+        "preventive detention",
+        "subsidiary jail",
+        "borstal institution"
+      ],
+      "breakdown": {
+        "plain_summary": "This section fixes two key words for the whole Chapter. \"Detained\" is defined broadly enough to cover people held under preventive detention laws, not just ordinary criminal custody. \"Prison\" is defined broadly too -- beyond an ordinary jail, it also covers places the State Government has declared to be subsidiary jails, and reformatories, Borstal institutions, or similar institutions.",
+        "essential_elements": [
+          "\"Detained\" includes detention under any law providing for preventive detention.",
+          "\"Prison\" includes any place declared a subsidiary jail by the State Government (general or special order).",
+          "\"Prison\" also includes any reformatory, Borstal institution, or other institution of a like nature."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read this as the Chapter's dictionary -- because the Chapter's machinery (orders to produce a confined person before Court) needs to reach beyond ordinary convicted prisoners in standard jails, these inclusive definitions extend its reach to preventive detainees and to reformatory-type institutions as well."
+      }
+    },
+    {
+      "number": "302",
+      "title": "Power to require attendance of prisoners",
+      "raw_text": "302. Power to require attendance of prisoners.—(1) Whenever, in the course of an inquiry, trial or\nproceeding under this Sanhita, it appears to a Criminal Court,—\n         (a) that a person confined or detained in a prison should be brought before the Court for answering\n    to a charge of an offence, or for the purpose of any proceedings against him; or\n        (b) that it is necessary for the ends of justice to examine such person as a witness,\nthe Court may make an order requiring the officer in charge of the prison to produce such person before the\nCourt answering to the charge or for the purpose of such proceeding or for giving evidence.\n    (2) Where an order under sub-section (1) is made by a Magistrate of the second class, it shall not be\nforwarded to, or acted upon by, the officer in charge of the prison unless it is countersigned by the Chief\nJudicial Magistrate, to whom such Magistrate is subordinate.\n    (3) Every order submitted for countersigning under sub-section (2) shall be accompanied by a statement\nof the facts which, in the opinion of the Magistrate, render the order necessary, and the Chief Judicial\nMagistrate to whom it is submitted may, after considering such statement, decline to countersign the order.",
+      "key_terms": [
+        "countersign",
+        "Chief Judicial Magistrate",
+        "prison",
+        "detained"
+      ],
+      "breakdown": {
+        "plain_summary": "A Criminal Court can order that a person confined or detained in prison be produced before it -- either to answer a criminal charge/face proceedings, or to give evidence as a witness where the ends of justice require it. But if a second-class Magistrate makes this order, it cannot actually be acted on by the prison unless the Chief Judicial Magistrate countersigns it, after reviewing the Magistrate's stated reasons -- and the Chief Judicial Magistrate can refuse to countersign.",
+        "essential_elements": [
+          "The power arises in the course of an inquiry, trial, or proceeding under the Sanhita.",
+          "It covers two situations: production to answer a charge/face proceedings against the confined person themselves, or production to examine them as a witness where the ends of justice require it.",
+          "The order goes to the officer in charge of the prison, directing production before the Court.",
+          "A second-class Magistrate's order needs the Chief Judicial Magistrate's countersignature before the prison can act on it.",
+          "The countersigning request must be accompanied by a statement of facts justifying the order, and the Chief Judicial Magistrate may decline to countersign after considering it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the core operative power of the Chapter -- everything else (sections 303-305) qualifies or implements this basic power to summon a confined person to Court, with an extra layer of oversight built in for lower-tier Magistrates' orders."
+      }
+    },
+    {
+      "number": "303",
+      "title": "Power of State Government or Central Government to exclude certain persons from operation of section 302",
+      "raw_text": "303. Power of State Government or Central Government to exclude certain persons from\noperation of section 302.—(1) The State Government or the Central Government, as the case may be, may,\nat any time, having regard to the matters specified in sub-section (2), by general or special order, direct that\nany person or class of persons shall not be removed from the prison in which he or they may be confined\nor detained, and thereupon, so long as the order remains in force, no order made under section 302, whether\nbefore or after the order of the State Government or the Central Government, shall have effect in respect of\nsuch person or class of persons.\n    (2) Before making an order under sub-section (1), the State Government or the Central Government in\nthe cases instituted by its central agency, as the case may be, shall have regard to the following matters,\nnamely:—\n       (a) the nature of the offence for which, or the grounds on which, the person or class of persons has\n    been ordered to be confined or detained in prison;\n\n        (b) the likelihood of the disturbance of public order if the person or class of persons is allowed to\n    be removed from the prison;\n        (c) the public interest, generally.",
+      "key_terms": [
+        "prison",
+        "detained",
+        "public order",
+        "central agency"
+      ],
+      "breakdown": {
+        "plain_summary": "The State Government (or the Central Government, for cases its own central agency instituted) can block section 302's production-order power entirely for a specific person or class of persons, by declaring them non-removable from prison -- and once that block is in force, any Court order under section 302 (past or future) has no effect on them. This exclusion power must be exercised having regard to the offence's nature/grounds, the risk of public-order disturbance from removal, and public interest generally.",
+        "essential_elements": [
+          "The Government (State, or Central where its own central agency instituted the case) may issue a general or special order at any time.",
+          "The order directs that a person or class of persons shall not be removed from the prison where confined or detained.",
+          "While such an order is in force, no section 302 order -- whether made before or after the Government's order -- has effect for that person/class.",
+          "Before issuing such an order, the Government must have regard to: the nature of the offence/grounds for confinement, the likelihood of public-order disturbance if removal is allowed, and public interest generally."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a security-driven override -- it exists so that, for example, a high-risk detainee cannot be pulled out of a secure facility on a court production order if doing so would risk public order, regardless of what any Court has directed under section 302."
+      }
+    },
+    {
+      "number": "304",
+      "title": "Officer in charge of prison to abstain from carrying out order in certain contingencies",
+      "raw_text": "304. Officer in charge of prison to abstain from carrying out order in certain\ncontingencies.—Where the person in respect of whom an order is made under section 302—\n         (a) is by reason of sickness or infirmity unfit to be removed from the prison; or\n         (b) is under committal for trial or under remand pending trial or pending a preliminary\n    investigation; or\n         (c) is in custody for a period which would expire before the expiration of the time required for\n    complying with the order and for taking him back to the prison in which he is confined or detained; or\n         (d) is a person to whom an order made by the State Government or the Central Government under\n    section 303 applies,\nthe officer in charge of the prison shall abstain from carrying out the Court's order and shall send to the\nCourt a statement of reasons for so abstaining:\n     Provided that where the attendance of such person is required for giving evidence at a place not more\nthan twenty-five kilometres distance from the prison, the officer in charge of the prison shall not so abstain\nfor the reason mentioned in clause (b).",
+      "key_terms": [
+        "remand",
+        "committal for trial",
+        "custody"
+      ],
+      "breakdown": {
+        "plain_summary": "Even after a Court has ordered production under section 302, the prison officer must NOT comply -- and must instead write to the Court explaining why -- in four situations: the person is too sick/infirm to be moved; the person is currently under committal for trial or remand pending trial/preliminary investigation; the person's custody term would expire before they could be produced and returned; or a section 303 exclusion order covers them. There is one carve-back: the remand/committal ground (clause (b)) does not excuse non-compliance if the person is only needed to give evidence somewhere within 25 kilometres of the prison.",
+        "essential_elements": [
+          "Four listed contingencies trigger mandatory non-compliance by the prison officer: unfitness due to sickness/infirmity; committal for trial or remand pending trial/preliminary investigation; custody expiring before the round trip could be completed; or a section 303 exclusion order applying.",
+          "In each such case, the officer must abstain from carrying out the Court's order and send the Court a statement of reasons.",
+          "Proviso: the remand/committal ground alone does not justify abstention if attendance is needed for giving evidence at a place not more than 25 kilometres from the prison."
+        ],
+        "exceptions_and_qualifications": [
+          "The 25-kilometre proviso is a practical carve-back specifically limited to clause (b) (remand/committal) -- it does not disturb the other three grounds for abstention."
+        ],
+        "how_to_read": "Think of this as the practical brake on section 302 -- the Court's order is not absolute; the prison officer has statutory grounds to refuse compliance, but must always explain why in writing to the Court rather than simply ignoring the order."
+      }
+    },
+    {
+      "number": "305",
+      "title": "Prisoner to be brought to Court in custody",
+      "raw_text": "305. Prisoner to be brought to Court in custody.—Subject to the provisions of section 304, the\nofficer in charge of the prison shall, upon delivery of an order made under sub-section (1) of section 302\nand duly countersigned, where necessary, under sub-section (2) thereof, cause the person named in the\norder to be taken to the Court in which his attendance is required, so as to be present there at the time\nmentioned in the order, and shall cause him to be kept in custody in or near the Court until he has been\nexamined or until the Court authorises him to be taken back to the prison in which he was confined or\ndetained.",
+      "key_terms": [
+        "custody",
+        "countersign"
+      ],
+      "breakdown": {
+        "plain_summary": "Where none of section 304's exceptions apply, the prison officer must comply with a properly issued (and, where necessary, countersigned) section 302 order: physically bring the named person to Court at the specified time, and keep them in custody in or near the Court until they have been examined or the Court authorises their return to prison.",
+        "essential_elements": [
+          "Compliance is subject to section 304 (the officer's grounds for abstention).",
+          "The order must have been delivered under section 302(1) and duly countersigned under section 302(2) where that requirement applies.",
+          "The officer must produce the person at the Court at the time stated in the order.",
+          "The person must be kept in custody in or near the Court until examined, or until the Court authorises their return to prison."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the implementation step -- it describes exactly what compliance with a section 302 order looks like in practice: transport, custody in/near the courtroom, and return authorisation."
+      }
+    },
+    {
+      "number": "306",
+      "title": "Power to issue commission for examination of witness in prison",
+      "raw_text": "306. Power to issue commission for examination of witness in prison.—The provisions of this\nChapter shall be without prejudice to the power of the Court to issue, under section 319, a commission for\nthe examination, as a witness, of any person confined or detained in a prison; and the provisions of Part B\nof Chapter XXV shall apply in relation to the examination on commission of any such person in the prison\nas they apply in relation to the examination on commission of any other person.",
+      "key_terms": [
+        "commission (examination on)",
+        "prison",
+        "detained"
+      ],
+      "breakdown": {
+        "plain_summary": "This Chapter's production-order machinery is not the only tool available -- the Court can still, alternatively, use its separate power under section 319 to issue a commission to examine a confined or detained person as a witness inside the prison itself, without bringing them to Court at all. The usual commission-examination rules (Part B of Chapter XXV) apply to such an in-prison examination just as they would to any other commission examination.",
+        "essential_elements": [
+          "This Chapter's provisions do not limit or prejudice the Court's separate power under section 319 to issue a commission.",
+          "That commission power can be used to examine, as a witness, any person confined or detained in a prison.",
+          "Part B of Chapter XXV's general commission-examination rules apply to such in-prison examinations in the same way they apply to any other commission examination."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a bridging/saving provision linking two alternative routes to obtaining a confined person's evidence: physically producing them under section 302, or sending a commissioner to examine them in prison under section 319 -- the Court is not limited to only one of these tools."
       }
     }
   ]
