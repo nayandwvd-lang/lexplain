@@ -30,7 +30,7 @@
     "police station": "Any post or place declared by the State Government to be a police station, including any local area so specified.",
     "public prosecutor": "The government-appointed law officer conducting prosecutions on behalf of the State; for the specially protected category of defamation complaints under section 222(2), only the Public Prosecutor (not a private complainant) may set the case in motion before a Court of Session, and only with prior government sanction.",
     "sub-division": "A territorial sub-unit of a district, created by the State Government after consultation with the High Court.",
-    "summons-case": "A case relating to an offence not punishable with death, imprisonment for life, or imprisonment exceeding two years, triable by the simpler summons procedure rather than the warrant procedure.",
+    "summons-case": "A case relating to an offence not punishable with death, imprisonment for life, or imprisonment for a term exceeding two years -- the counterpart to a 'warrant-case'. Summons-cases follow a simpler, less formal trial procedure (Chapter XXI) since a formal charge need not be framed.",
     "victim": "A person who has suffered loss or injury from an offence, including the guardian or legal heir of such a person.",
     "warrant-case": "A case relating to an offence punishable with death, imprisonment for life, or imprisonment for a term exceeding two years -- as opposed to a 'summons-case', which covers offences not punishable with imprisonment for a term exceeding two years. Warrant-cases follow a more elaborate trial procedure (Chapter XX) reflecting the greater stakes involved.",
     "construction of references": "The interpretive rule for how references to undefined terms in other laws are to be read under this Sanhita.",
@@ -188,7 +188,9 @@
     "compensation": "A sum of money ordered to be paid, under section 260, by a person whose unfounded accusation led to a discharge or acquittal, to the wrongly accused person -- distinct from a fine, though recovered in the same manner as one.",
     "summons": "A written order issued by a Court or Magistrate directing a person to appear before it, or to produce a document or other thing, on a specified date.",
     "cross-examine": "To question a witness called by the opposing party, typically to test, challenge, or undermine the witness's earlier testimony given in examination-in-chief.",
-    "re-examination": "The further questioning of a witness by the party who originally called them, conducted after cross-examination, generally limited to clarifying matters raised during cross-examination."
+    "re-examination": "The further questioning of a witness by the party who originally called them, conducted after cross-examination, generally limited to clarifying matters raised during cross-examination.",
+    "complainant": "The person who sets criminal proceedings in motion by lodging a complaint before a Magistrate, alleging that an offence has been committed.",
+    "compound": "To settle or resolve a criminal case by private agreement between the complainant/victim and the accused, permitted only for certain offences specified by law, resulting in acquittal of the accused."
   },
   "sections": [
     {
@@ -6347,6 +6349,251 @@
           "No independent defence-evidence machinery is created here -- it operates entirely by incorporation of section 266, so any exceptions or provisos within section 266 (the already-cross-examined-witness bar, the expense-deposit power, audio-video examination) apply equally here."
         ],
         "how_to_read": "Read this as a pure cross-referencing provision that completes sub-heading B (Cases instituted otherwise than on police report, Sections 267-270) by folding its defence-evidence stage into the already-established section 266 machinery, avoiding needless repetition. This completes sub-heading B; sub-heading C (Conclusion of trial) follows at Section 271."
+      }
+    },
+    {
+      "number": "271",
+      "title": "Acquittal or conviction",
+      "raw_text": "271. Acquittal or conviction.—(1) If, in any case under this Chapter in which a charge has been\n    framed, the Magistrate finds the accused not guilty, he shall record an order of acquittal.\n        (2) Where, in any case under this Chapter, the Magistrate finds the accused guilty, but does not proceed\n    in accordance with the provisions of section 364 or section 401, he shall, after hearing the accused on the\n    question of sentence, pass sentence upon him according to law.\n         (3) Where, in any case under this Chapter, a previous conviction is charged under the provisions of sub-\n    section (7) of section 234 and the accused does not admit that he has been previously convicted as alleged\n    in the charge, the Magistrate may, after he has convicted the said accused, take evidence in respect of the\n    alleged previous conviction, and shall record a finding thereon:\n        Provided that no such charge shall be read out by the Magistrate nor shall the accused be asked to plead\n    thereto nor shall the previous conviction be referred to by the prosecution or in any evidence adduced by it,\n    unless and until the accused has been convicted under sub-section (2).",
+      "key_terms": [
+        "acquittal",
+        "conviction",
+        "sentence",
+        "previous conviction"
+      ],
+      "breakdown": {
+        "plain_summary": "This section opens sub-heading C (Conclusion of trial) and supplies the verdict-and-sentencing endpoint for both tracks of Chapter XX's warrant-case procedure (sub-headings A and B alike), closely mirroring the Sessions-trial provisions of sections 258-259. Sub-section (1) requires an acquittal order wherever the Magistrate, having framed a charge, finds the accused not guilty. Sub-section (2) requires the Magistrate, upon a finding of guilt, to hear the accused specifically on the question of sentence before passing sentence according to law -- unless he instead proceeds under section 364 (dealing with certain special sentencing procedures) or section 401 (release on probation of good conduct or after admonition). Sub-section (3) imports the same previous-conviction sequencing protection found in section 259: where a previous conviction is charged under section 234(7) and not admitted, the Magistrate may take evidence on it and must record a finding, but only after the present conviction is secured, with the proviso barring any reading-out, plea-taking, or reference to the prior conviction before that point.",
+        "essential_elements": [
+          "Where a charge has been framed and the Magistrate finds the accused not guilty, he shall record an order of acquittal",
+          "Where the Magistrate finds the accused guilty, he must hear the accused on the question of sentence before passing sentence, unless proceeding under section 364 or section 401",
+          "Where a previous conviction is charged under section 234(7) and not admitted, evidence on it may be taken and a finding recorded only after the present conviction, with a proviso barring earlier reference to it"
+        ],
+        "exceptions_and_qualifications": [
+          "The mandatory pre-sentence hearing under sub-section (2) does not apply where the Magistrate instead proceeds under section 364 or section 401, which supply their own distinct procedures.",
+          "The previous-conviction evidence-taking and finding under sub-section (3) is discretionary ('may') as to the taking of evidence, but the recording of a finding, once evidence is taken, is mandatory ('shall')."
+        ],
+        "how_to_read": "Read this as the Magistrate-level structural twin of sections 258-259 (the Sessions-trial judgment and previous-conviction provisions) -- the same verdict, pre-sentence-hearing, and prior-conviction sequencing logic applies uniformly across trial forums. This continues sub-heading C (Conclusion of trial); sections 272-273 follow with special procedures for complainant absence and false-accusation compensation."
+      }
+    },
+    {
+      "number": "272",
+      "title": "Absence of complainant",
+      "raw_text": "272. Absence of complainant.—When the proceedings have been instituted upon complaint, and on\n    any day fixed for the hearing of the case, the complainant is absent, and the offence may be lawfully\n    compounded or is not a cognizable offence, the Magistrate may after giving thirty days' time to the\n    complainant to be present, in his discretion, notwithstanding anything hereinbefore contained, at any time\n    before the charge has been framed, discharge the accused.",
+      "key_terms": [
+        "complainant",
+        "compound",
+        "cognizable offence",
+        "discharge"
+      ],
+      "breakdown": {
+        "plain_summary": "This section gives the Magistrate a targeted discretionary power to discharge the accused where the complainant's absence signals a case that may not be worth pursuing to trial. It applies only to a specific combination of circumstances: proceedings instituted upon a private complaint (not a police report), the complainant's absence on a day fixed for hearing, and the offence either being lawfully compoundable (able to be privately settled) or non-cognizable (generally less serious offences where police cannot investigate without a Magistrate's order). Where all three conditions hold, the Magistrate may -- after first giving the complainant a thirty-day window to appear -- discharge the accused at his discretion, at any time before the charge is framed, notwithstanding any other provision to the contrary ('notwithstanding anything hereinbefore contained').",
+        "essential_elements": [
+          "Applies only where proceedings were instituted upon complaint, the complainant is absent on a hearing date, and the offence is lawfully compoundable or non-cognizable",
+          "The Magistrate must first give the complainant thirty days' time to be present",
+          "The discharge power may then be exercised at the Magistrate's discretion, at any time before the charge has been framed",
+          "The power operates notwithstanding anything else provided earlier in the Sanhita"
+        ],
+        "exceptions_and_qualifications": [
+          "This discharge power is confined to compoundable or non-cognizable offences -- it does not extend to serious cognizable, non-compoundable offences where private absence of the complainant should not by itself end the prosecution.",
+          "The discharge option closes once a charge has been framed -- after that point, this particular discretionary power is no longer available."
+        ],
+        "how_to_read": "Read this as a proportionate housekeeping tool reserved for lower-stakes complaint cases (compoundable or non-cognizable) -- it lets a Magistrate avoid keeping an accused indefinitely under prosecution for a case the complainant himself appears to have abandoned, while still giving the complainant a fair thirty-day chance to reappear first."
+      }
+    },
+    {
+      "number": "273",
+      "title": "Compensation for accusation without reasonable cause",
+      "raw_text": "273. Compensation for accusation without reasonable cause.—(1) If, in any case instituted upon\n    complaint or upon information given to a police officer or to a Magistrate, one or more persons is or are\n    accused before a Magistrate of any offence triable by a Magistrate, and the Magistrate by whom the case is\n    heard discharges or acquits all or any of the accused, and is of opinion that there was no reasonable ground\n    for making the accusation against them or any of them, the Magistrate may, by his order of discharge or\n    acquittal, if the person upon whose complaint or information the accusation was made is present, call upon\n    him forthwith to show cause why he should not pay compensation to such accused or to each or any of such\n    accused when there are more than one; or, if such person is not present, direct the issue of a summons to\n    him to appear and show cause as aforesaid.\n        (2) The Magistrate shall record and consider any cause which such complainant or informant may show,\n    and if he is satisfied that there was no reasonable ground for making the accusation, may, for reasons to be\n    recorded, make an order that compensation to such amount, not exceeding the amount of fine he is\n    empowered to impose, as he may determine, be paid by such complainant or informant to the accused or to\n    each or any of them.\n        (3) The Magistrate may, by the order directing payment of the compensation under sub-section (2),\n    further order that, in default of payment, the person ordered to pay such compensation shall undergo simple\n    imprisonment for a period not exceeding thirty days.\n        (4) When any person is imprisoned under sub-section (3), the provisions of sub-section (6) of\n    section 8 of the Bharatiya Nyaya Sanhita, 2023 shall, so far as may be, apply.\n        (5) No person who has been directed to pay compensation under this section shall, by reason of such\n    order, be exempted from any civil or criminal liability in respect of the complaint made or information\n    given by him:\n        Provided that any amount paid to an accused person under this section shall be taken into account in\n    awarding compensation to such person in any subsequent civil suit relating to the same matter.\n        (6) A complainant or informant who has been ordered under sub-section (2) by a Magistrate of the\n    second class to pay compensation exceeding two thousand rupees, may appeal from the order, as if such\n    complainant or informant had been convicted on a trial held by such Magistrate.\n        (7) When an order for payment of compensation to an accused person is made in a case which is subject\n    to appeal under sub-section (6), the compensation shall not be paid to him before the period allowed for the\n    presentation of the appeal has elapsed, or, if an appeal is presented, before the appeal has been decided; and\n    where such order is made in a case which is not so subject to appeal the compensation shall not be paid\n    before the expiration of one month from the date of the order.\n        (8) The provisions of this section apply to summons-cases as well as to warrant-cases.",
+      "key_terms": [
+        "compensation",
+        "complainant",
+        "discharge",
+        "acquittal",
+        "appeal",
+        "imprisonment"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is the general-purpose, Magistrate-level version of the compensation-for-false-accusation mechanism seen in the narrower section 260(3)-(8) (which was limited to section 222(2) cases before a Court of Session). Here, it applies broadly to any Magistrate-triable offence, whether the case originated from a private complaint or from information given to police or a Magistrate. Sub-section (1) lets the Magistrate, upon discharging or acquitting the accused and forming the opinion that there was no reasonable ground for the accusation, call upon the complainant/informant (if present) to show cause on the spot why he should not pay compensation, or summon him to do so if absent. Sub-section (2) requires the Magistrate to consider any cause shown, and if still satisfied there was no reasonable ground, permits (with recorded reasons) an order of compensation capped at the amount of fine the Magistrate is empowered to impose -- a variable cap tied to the Magistrate's own sentencing jurisdiction, unlike section 260's flat five-thousand-rupee cap. Sub-section (3) adds teeth: default in payment may trigger simple imprisonment up to thirty days, with sub-section (4) applying the Bharatiya Nyaya Sanhita's default-imprisonment-adjustment provisions (section 8(6) BNS) to that imprisonment. Sub-section (5) preserves other civil/criminal liability (with a credit proviso for amounts already paid, mirroring section 260(6)). Sub-section (6) grants an appeal right to the High Court equivalent -- actually framed as an appeal 'as if convicted' -- specifically where a Magistrate of the second class orders compensation exceeding two thousand rupees. Sub-section (7) delays actual payment pending the appeal window or appeal outcome (or one month, if no appeal lies). Sub-section (8) confirms the section applies equally to summons-cases and warrant-cases, bridging both of this Part's trial tracks.",
+        "essential_elements": [
+          "Applies to any Magistrate-triable offence case (complaint or police/Magistrate information), on discharge or acquittal, where the Magistrate finds no reasonable ground for the accusation",
+          "The complainant/informant is called to show cause (on the spot if present, by summons if absent) why he should not pay compensation",
+          "Compensation, if ordered, is capped at the amount of fine the Magistrate could impose, and requires recorded reasons",
+          "Default in payment may trigger simple imprisonment up to thirty days (subject to BNS section 8(6))",
+          "Compensation liability does not exempt other civil/criminal liability, subject to a credit proviso for amounts already paid",
+          "An appeal lies where a second-class Magistrate orders compensation exceeding two thousand rupees",
+          "Payment is withheld pending the appeal window/outcome, or for one month if no appeal lies",
+          "Applies to both summons-cases and warrant-cases"
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike section 260's flat five-thousand-rupee cap (for section 222(2) Sessions cases), this section's compensation cap floats with the Magistrate's own fine-imposing power -- so the maximum varies by the Magistrate's class and jurisdiction.",
+          "The appeal right under sub-section (6) is expressly limited to orders by a Magistrate of the second class exceeding two thousand rupees -- it does not, by its terms, extend to every compensation order under this section.",
+          "There is no equivalent constitutional-office exemption here (unlike section 260(3), which excludes the President, Vice-President, Governors, and Union territory Administrators) -- this section applies to complainants/informants generally."
+        ],
+        "how_to_read": "Read this alongside section 260 as the Sanhita's general (Magistrate-level, all-offence) false-accusation compensation mechanism, distinguished from section 260's narrower (Sessions-level, section 222(2)-specific) counterpart by its floating compensation cap, its explicit imprisonment-in-default teeth, and its explicit extension to both summons-cases and warrant-cases via sub-section (8). This completes sub-heading C (Conclusion of trial, Sections 271-273) and thereby completes Chapter XX (Trial of Warrant-Cases by Magistrates, Sections 261-273) in full; Chapter XXI (Trial of Summons-Cases by Magistrates) follows at Section 274."
+      }
+    },
+    {
+      "number": "274",
+      "title": "Substance of accusation to be stated",
+      "raw_text": "274. Substance of accusation to be stated.—When in a summons-case the accused appears or is\n    brought before the Magistrate, the particulars of the offence of which he is accused shall be stated to him,\n    and he shall be asked whether he pleads guilty or has any defence to make, but it shall not be necessary to\n    frame a formal charge:\n        Provided that if the Magistrate considers the accusation as groundless, he shall, after recording reasons\n    in writing, release the accused and such release shall have the effect of discharge.",
+      "key_terms": [
+        "summons-case",
+        "plea",
+        "discharge"
+      ],
+      "breakdown": {
+        "plain_summary": "This section opens Chapter XXI (Trial of Summons-Cases by Magistrates) by establishing the defining simplification that distinguishes summons-case procedure from the more elaborate warrant-case machinery of Chapter XX: rather than framing a formal written charge, the Magistrate need only state the particulars of the offence to the accused and ask whether he pleads guilty or has a defence to make. This lighter-touch approach reflects the lower stakes of summons-cases (offences not punishable with more than two years' imprisonment). The proviso preserves an early-exit safeguard: if the Magistrate considers the accusation groundless, he must release the accused after recording written reasons, and that release carries the same legal effect as a formal discharge.",
+        "essential_elements": [
+          "Applies when the accused appears or is brought before the Magistrate in a summons-case",
+          "The particulars of the offence are stated to the accused, who is asked whether he pleads guilty or has a defence to make",
+          "No formal charge needs to be framed",
+          "Proviso: if the Magistrate considers the accusation groundless, he must release the accused after recording written reasons, and that release has the effect of a discharge"
+        ],
+        "exceptions_and_qualifications": [
+          "The absence of a formal charge is the defining procedural simplification of summons-case trials compared to warrant-case trials -- it does not, however, dispense with the accused's right to know the particulars of what he is accused of."
+        ],
+        "how_to_read": "Read this as the threshold provision that sets the tone for the whole of Chapter XXI -- a deliberately streamlined procedure appropriate to less serious offences, dispensing with formal charge-framing while preserving the essential guilty-plea/defence fork and an early groundlessness safety valve."
+      }
+    },
+    {
+      "number": "275",
+      "title": "Conviction on plea of guilty",
+      "raw_text": "275. Conviction on plea of guilty.—If the accused pleads guilty, the Magistrate shall record the plea\n    as nearly as possible in the words used by the accused and may, in his discretion, convict him thereon.",
+      "key_terms": [
+        "plea",
+        "conviction"
+      ],
+      "breakdown": {
+        "plain_summary": "This section carries the now-familiar discretionary-conviction-on-guilty-plea principle into summons-case procedure, with one summons-case-specific addition: the Magistrate must record the plea as nearly as possible in the accused's own words -- a verbatim-fidelity requirement not expressly stated in the warrant-case equivalents (sections 252, 264), reflecting the informality of summons-case proceedings where there is no formal written charge to plead to, making an accurate record of exactly what the accused said especially important. As elsewhere, conviction on the recorded plea remains discretionary, not automatic.",
+        "essential_elements": [
+          "Applies where the accused pleads guilty under section 274",
+          "The Magistrate must record the plea as nearly as possible in the accused's own words",
+          "Conviction on that recorded plea remains a matter of the Magistrate's discretion"
+        ],
+        "exceptions_and_qualifications": [
+          "The 'as nearly as possible in the words used by the accused' requirement is distinctive to summons-case procedure, given the absence of a formal written charge that would otherwise anchor the plea."
+        ],
+        "how_to_read": "Read this as the summons-case counterpart to sections 252 and 264, adapted for a Chapter where there is no formal charge document -- verbatim recording of the plea substitutes for the fixed reference point a written charge would otherwise provide."
+      }
+    },
+    {
+      "number": "276",
+      "title": "Conviction on plea of guilty in absence of accused in petty cases",
+      "raw_text": "276. Conviction on plea of guilty in absence of accused in petty cases.—(1) Where a summons has\n    been issued under section 229 and the accused desires to plead guilty to the charge without appearing before\n    the Magistrate, he shall transmit to the Magistrate, by post or by messenger, a letter containing his plea and\n    also the amount of fine specified in the summons.\n        (2) The Magistrate may, in his discretion, convict the accused in his absence, on his plea of guilty and\n    sentence him to pay the fine specified in the summons, and the amount transmitted by the accused shall be\n    adjusted towards that fine, or where an advocate authorised by the accused in this behalf pleads guilty on\n    behalf of the accused, the Magistrate shall record the plea as nearly as possible in the words used by the\n    advocate and may, in his discretion, convict the accused on such plea and sentence him as aforesaid.",
+      "key_terms": [
+        "plea",
+        "summons",
+        "conviction",
+        "advocate"
+      ],
+      "breakdown": {
+        "plain_summary": "This section supplies a convenience mechanism for genuinely minor, fine-only summons-cases (petty cases), sparing an accused who simply wants to admit guilt and pay the specified fine from having to personally appear in Court at all. Sub-section (1) lets such an accused, where a summons was issued under section 229 (which contemplates summons specifying a fine payable without personal appearance), transmit a letter by post or messenger containing his guilty plea along with the fine amount stated in the summons. Sub-section (2) then gives the Magistrate discretion to convict the accused in absentia on that written plea and sentence him to pay the specified fine, with the transmitted amount adjusted against the fine -- or, alternatively, if an authorised advocate appears and pleads guilty on the accused's behalf, the Magistrate records that plea verbatim as nearly as possible and may similarly convict and sentence on that basis.",
+        "essential_elements": [
+          "Applies where a summons was issued under section 229 and the accused wishes to plead guilty without personal appearance",
+          "The accused transmits a letter (by post or messenger) containing his plea and the fine amount specified in the summons",
+          "The Magistrate may, in discretion, convict in absentia and sentence to the specified fine, adjusting the transmitted amount towards it",
+          "Alternatively, an authorised advocate may plead guilty on the accused's behalf in person, with the plea recorded verbatim as nearly as possible, and conviction/sentencing proceeding on that basis"
+        ],
+        "exceptions_and_qualifications": [
+          "This mechanism is confined to cases where a summons was issued under section 229 -- it is not a general in-absentia guilty-plea route for all summons-cases.",
+          "Conviction remains discretionary in both the postal-plea and advocate-plea routes -- the Magistrate is not bound to accept either."
+        ],
+        "how_to_read": "Read this as a practical, low-friction accommodation for truly minor, fine-only offences -- letting the accused resolve the matter without the burden of personal appearance, while still preserving the Magistrate's discretion not to accept the plea if something about the case warrants closer scrutiny. If the Magistrate does not convict here (or under section 275), the ordinary evidence-taking procedure of section 277 applies."
+      }
+    },
+    {
+      "number": "277",
+      "title": "Procedure when not convicted",
+      "raw_text": "277. Procedure when not convicted.—(1) If the Magistrate does not convict the accused under section\n    275 or section 276, the Magistrate shall proceed to hear the prosecution and take all such evidence as may\n    be produced in support of the prosecution, and also to hear the accused and take all such evidence as he\n    produces in his defence.\n       (2) The Magistrate may, if he thinks fit, on the application of the prosecution or the accused, issue a\n    summons to any witness directing him to attend or to produce any document or other thing.\n       (3) The Magistrate may, before summoning any witness on such application, require that the reasonable\n    expenses of the witness incurred in attending for the purposes of the trial be deposited in Court.",
+      "key_terms": [
+        "evidence",
+        "summons"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is summons-case procedure's single, combined evidence-taking stage -- reflecting the Chapter's overall simplification, prosecution and defence evidence are addressed together in one section rather than the separate prosecution-then-defence sections seen throughout the warrant-case chapters. Sub-section (1) directs the Magistrate, where the accused was not convicted on a guilty plea under section 275 or 276, to hear the prosecution and take its evidence, and equally to hear the accused and take whatever evidence he produces in his defence -- both sides addressed within the same procedural step. Sub-section (2) gives the Magistrate a discretionary summons power available to either party's application (prosecution or accused alike), covering witness attendance or document/thing production. Sub-section (3) allows the Magistrate to require a deposit of the witness's reasonable attendance expenses before summoning them on such an application -- the same expense-gatekeeping tool seen in section 266(3).",
+        "essential_elements": [
+          "Triggered where the accused was not convicted under section 275 or section 276",
+          "The Magistrate hears the prosecution and takes its evidence, and hears the accused and takes his defence evidence, in a single combined stage",
+          "The Magistrate may, at either party's application, summon witnesses or compel document/thing production",
+          "The Magistrate may require a deposit of a witness's reasonable attendance expenses before summoning them"
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike Chapter XX's warrant-case procedure, prosecution and defence evidence are not addressed in separate sections here -- both are folded into this single section, consistent with summons-case procedure's overall streamlining."
+        ],
+        "how_to_read": "Read this as the summons-case analogue of the split prosecution/defence evidence provisions found in Chapter XX (e.g., sections 265-266, 267/270) -- collapsed here into a single, simpler combined stage befitting the less formal nature of summons-case trials. Once evidence concludes, the Magistrate must render a verdict under section 278."
+      }
+    },
+    {
+      "number": "278",
+      "title": "Acquittal or conviction",
+      "raw_text": "278. Acquittal or conviction.—(1) If the Magistrate, upon taking the evidence referred to in\n    section 277 and such further evidence, if any, as he may, of his own motion, cause to be produced, finds\n    the accused not guilty, he shall record an order of acquittal.\n        (2) Where the Magistrate does not proceed in accordance with the provisions of section 364 or\n    section 401, he shall, if he finds the accused guilty, pass sentence upon him according to law.\n        (3) A Magistrate may, under section 275 or section 278, convict the accused of any offence triable\n    under this Chapter, which from the facts admitted or proved he appears to have committed, whatever may\n    be the nature of the complaint or summons, if the Magistrate is satisfied that the accused would not be\n    prejudiced thereby.",
+      "key_terms": [
+        "acquittal",
+        "conviction",
+        "sentence"
+      ],
+      "breakdown": {
+        "plain_summary": "This section supplies the summons-case verdict provision, paralleling section 271 for warrant-cases. Sub-section (1) requires an acquittal order where the Magistrate, having taken the section 277 evidence (plus any further evidence he causes to be produced of his own motion -- a notable summons-case-specific power to supplement the evidentiary record), finds the accused not guilty. Sub-section (2) requires sentencing according to law upon a finding of guilt, again subject to the section 364/401 carve-outs. Sub-section (3) then adds a distinctive summons-case flexibility rule: the Magistrate may convict the accused, under either section 275 (guilty plea) or this section, of any offence triable under this Chapter which the admitted or proved facts show he appears to have committed -- regardless of the precise offence named in the complaint or summons -- so long as the Magistrate is satisfied the accused would not be prejudiced by this variance. This prevents a technical mismatch between the charge language and the proven facts from producing an acquittal where the substance of guilt for a related, Chapter-triable offence is actually established.",
+        "essential_elements": [
+          "Where the Magistrate, on the section 277 evidence (plus any further evidence he causes to be produced on his own motion), finds the accused not guilty, he shall record an acquittal",
+          "Where he finds the accused guilty, he shall pass sentence according to law, unless proceeding under section 364 or section 401",
+          "The Magistrate may convict of any offence triable under this Chapter that the admitted/proved facts show, regardless of the complaint's or summons's precise wording, provided the accused would not be prejudiced"
+        ],
+        "exceptions_and_qualifications": [
+          "The power to cause further evidence to be produced 'of his own motion' under sub-section (1) is a summons-case-specific evidentiary supplementing power -- the Magistrate is not confined strictly to what the parties themselves choose to present.",
+          "The flexible-conviction rule in sub-section (3) is expressly conditioned on the accused not being prejudiced -- it is not a blank cheque to convict of any offence regardless of fair-notice concerns."
+        ],
+        "how_to_read": "Read sub-section (3) as the summons-case cousin of the doubtful-offence and lesser-included-offence flexibility already seen in sections 244-245 for framed charges -- here operating without any formal charge at all, so the touchstone is simply whether the accused had fair notice and would suffer no prejudice from conviction on the facts as they actually emerged."
+      }
+    },
+    {
+      "number": "279",
+      "title": "Non-appearance or death of complainant",
+      "raw_text": "279. Non-appearance or death of complainant.—(1) If the summons has been issued on complaint,\n    and on the day appointed for the appearance of the accused, or any day subsequent thereto to which the\n    hearing may be adjourned, the complainant does not appear, the Magistrate shall, after giving thirty days'\n    time to the complainant to be present, notwithstanding anything hereinbefore contained, acquit the accused,\n    unless for some reason he thinks it proper to adjourn the hearing of the case to some other day:\n        Provided that where the complainant is represented by an advocate or by the officer conducting the\n    prosecution or where the Magistrate is of opinion that the personal attendance of the complainant is not\n    necessary, the Magistrate may, dispense with his attendance and proceed with the case.\n       (2) The provisions of sub-section (1) shall, so far as may be, apply also to cases where the\n    non-appearance of the complainant is due to his death.",
+      "key_terms": [
+        "complainant",
+        "summons",
+        "acquittal",
+        "advocate"
+      ],
+      "breakdown": {
+        "plain_summary": "This section addresses what happens when a private complainant simply fails to show up in a summons-case, extending a courtesy window before treating the case as abandoned. Sub-section (1) provides that if the complainant does not appear on the appointed (or adjourned) hearing date, the Magistrate must, after first giving the complainant thirty days to appear, acquit the accused -- unless the Magistrate has some reason to instead adjourn the hearing further. The proviso softens this default: where the complainant is represented by an advocate or the prosecuting officer, or where the Magistrate considers personal attendance unnecessary, the Magistrate may simply dispense with the complainant's personal attendance and proceed with the case rather than acquitting -- preventing a technical absence from derailing a case that is otherwise being properly prosecuted through representation. Sub-section (2) extends the same framework to cases where the complainant's non-appearance is instead due to his death, applying the provision 'so far as may be' (i.e., with necessary adaptation, since a deceased complainant obviously cannot use the thirty-day window to reappear -- the practical effect being that the Magistrate applies the adjournment/proceed-through-representation logic to determine whether the case can continue).",
+        "essential_elements": [
+          "Applies where a summons was issued on complaint and the complainant does not appear on the appointed or adjourned hearing date",
+          "Default outcome: acquittal of the accused, but only after the complainant is given thirty days' time to be present",
+          "The Magistrate may instead adjourn the hearing if he has reason to think it proper",
+          "Proviso: where the complainant is represented by an advocate or the prosecuting officer, or personal attendance is considered unnecessary, the Magistrate may dispense with attendance and proceed rather than acquit",
+          "The same framework applies, so far as may be, where non-appearance is due to the complainant's death"
+        ],
+        "exceptions_and_qualifications": [
+          "The default acquittal is not automatic on the very first absence -- it is preceded by a mandatory thirty-day grace window for the complainant to appear.",
+          "Representation by an advocate or the prosecuting officer is treated as functionally equivalent to personal attendance, letting the case proceed on the merits rather than ending in acquittal for a technical absence."
+        ],
+        "how_to_read": "Read this together with section 280 (withdrawal of complaint) as the two ways a complainant-driven summons-case can end short of a full merits trial -- one triggered by the complainant's absence or death, the other by his voluntary withdrawal."
+      }
+    },
+    {
+      "number": "280",
+      "title": "Withdrawal of complaint",
+      "raw_text": "280. Withdrawal of complaint.—If a complainant, at any time before a final order is passed in any\n    case under this Chapter, satisfies the Magistrate that there are sufficient grounds for permitting him to\n    withdraw his complaint against the accused, or if there be more than one accused, against all or any of them,\n    the Magistrate may permit him to withdraw the same, and shall thereupon acquit the accused against whom\n    the complaint is so withdrawn.",
+      "key_terms": [
+        "complainant",
+        "acquittal",
+        "withdrawal"
+      ],
+      "breakdown": {
+        "plain_summary": "This section gives a complainant in a summons-case a voluntary exit route, distinct from the involuntary acquittal-on-absence mechanism of section 279. At any point before a final order is passed, the complainant may seek to withdraw his complaint -- against the accused generally, or, where there are multiple accused, against all or only some of them -- but this is not an unconditional right: the Magistrate must first be satisfied that there are sufficient grounds justifying the withdrawal. Where the Magistrate permits the withdrawal, the consequence is automatic and mandatory: he shall acquit the accused against whom the complaint has been withdrawn.",
+        "essential_elements": [
+          "Available at any time before a final order is passed in a Chapter XXI case",
+          "The complainant must satisfy the Magistrate that there are sufficient grounds for permitting withdrawal",
+          "Withdrawal may be against the accused generally, or, with multiple accused, against all or any of them",
+          "Once withdrawal is permitted, the Magistrate shall acquit the accused against whom the complaint is withdrawn"
+        ],
+        "exceptions_and_qualifications": [
+          "Withdrawal is not automatic on the complainant's mere request -- it requires the Magistrate's satisfaction that sufficient grounds exist, a check against complainants using withdrawal to manipulate or delay proceedings.",
+          "In multi-accused cases, withdrawal can be selective -- against all accused or only some -- giving the complainant (subject to Magistrate approval) flexibility to continue pursuing some accused while releasing others."
+        ],
+        "how_to_read": "Read this as the summons-case complainant's counterpart to the multi-headed-charge withdrawal mechanism of section 247 -- both give a form of case-narrowing control (subject to the Court's oversight) that results in acquittal-level finality for the accused as to the withdrawn portion of the case."
       }
     }
   ]
