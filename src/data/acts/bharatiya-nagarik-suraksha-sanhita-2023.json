@@ -8,7 +8,7 @@
     "bail": "Release of a person accused or suspected of an offence from custody, on conditions imposed by an officer or Court, on execution of a bond or bail bond.",
     "bailable offence": "An offence shown as bailable in the First Schedule, or made bailable by any other law in force.",
     "non-bailable offence": "Any offence that is not a bailable offence.",
-    "bail bond": "An undertaking for release supported by surety, as defined in Section 2(1)(d).",
+    "bail bond": "A written undertaking executed by an accused person (and, where required, sureties) to secure their release from custody, promising appearance before the court as directed.",
     "bond": "A written undertaking, with or without sureties, by which a person binds themselves to appear before a court or officer when required, or to perform some other stated obligation.",
     "charge": "Includes any head of charge when the charge contains more than one head.",
     "cognizable offence": "An offence for which a police officer may arrest without a warrant and start an investigation without prior permission of a Magistrate — typically the more serious category of offence, as classified in the First Schedule to this Sanhita.",
@@ -42,7 +42,7 @@
     "local law": "A law applicable only to a particular part of the country.",
     "criminal courts": "The classes of courts constituted under the Sanhita for criminal trials: Courts of Session, Judicial Magistrates (first and second class), and Executive Magistrates.",
     "court of session": "The principal criminal trial court of a sessions division, presided over by a Sessions Judge appointed by the High Court.",
-    "sessions division": "A territorial unit of a State, comprising one or more districts, for which a Court of Session is established.",
+    "sessions division": "An administrative territorial unit into which a State is divided for the organisation of Courts of Session, distinct from ordinary district boundaries.",
     "district": "A territorial sub-unit of a sessions division, for the purposes of the Sanhita.",
     "sessions judge": "The presiding judicial officer of a Court of Session, appointed by the High Court.",
     "additional sessions judge": "A judge appointed by the High Court to assist a Sessions Judge in exercising jurisdiction in a Court of Session.",
@@ -132,7 +132,7 @@
     "wilfully avoiding service": "Deliberately evading being served with legal process, a ground on which a Magistrate may proceed to hear and decide a maintenance case ex parte.",
     "unlawful assembly": "An assembly of five or more persons with a common object that falls within the categories made unlawful under the Bharatiya Nyaya Sanhita, 2023 (e.g., to overawe by criminal force, commit mischief, or use criminal force to achieve an unlawful common object). Section 148 also extends dispersal powers to any assembly of five or more persons merely likely to disturb the public peace, even before it becomes technically 'unlawful.'",
     "public nuisance": "An act, omission, or state of affairs that causes injury, danger, or annoyance to the public or to people generally who dwell or occupy property in the vicinity, or that obstructs the public's lawful use of a way, river, channel, or public place. Chapter XI Part B (sections 152-162) gives Magistrates summary powers to order removal or regulation of public nuisances.",
-    "sanction": "Prior governmental approval that must be obtained before a prosecution can be instituted against certain categories of persons (such as public servants or armed-forces personnel) for acts done in their official capacity. Under section 151, prosecution for acts under sections 148-150 needs Central Government sanction for armed-forces personnel, or State Government sanction in any other case.",
+    "sanction": "Formal prior permission, typically from the Central or State Government, required by law before certain prosecutions (e.g., against public servants, or for offences committed outside India) may be initiated.",
     "conditional order": "An order made under section 152 that is not yet final — it directs the person concerned either to perform a specified act (such as removing an obstruction) within a fixed time, or to appear and show cause why the order should not be made absolute.",
     "absolute order": "The final, binding form that a conditional order under section 152 takes once the person against whom it is made either defaults entirely (triggering section 155) or appears, shows cause, and fails to satisfy the Magistrate that the order is unreasonable (section 157).",
     "easement": "A legal right to use land or water belonging to someone else in a specific limited way — for example, a right of way, a right to draw water, or a right of passage — without owning it.",
@@ -156,7 +156,9 @@
     "continuing offence": "An offence that is not complete in a single act but continues to be committed over time and potentially across more than one place, such as ongoing unlawful confinement or continuing nuisance.",
     "dacoity": "Robbery committed jointly by five or more persons, a specifically defined and aggravated form of robbery under the Bharatiya Nyaya Sanhita.",
     "criminal breach of trust": "An offence where a person entrusted with property, or with dominion over property, dishonestly misappropriates or converts it to their own use in violation of that trust.",
-    "venue": "The particular court or place, among those otherwise having jurisdiction, where a case is actually inquired into or tried."
+    "venue": "The particular court or place, among those otherwise having jurisdiction, where a case is actually inquired into or tried.",
+    "cognizance": "The formal application of judicial mind by a Magistrate or court to the facts of a case for the purpose of proceeding further, marking the point at which a court becomes seized of a matter.",
+    "extraterritorial jurisdiction": "The power of a country's courts to inquire into and try offences committed outside its own territory, typically limited to offences by its own citizens or on its registered ships/aircraft."
   },
   "sections": [
     {
@@ -4777,6 +4779,135 @@
           "The bigamy venue rule is specifically protective of the first wife's convenience, letting her pursue the case near her own current residence."
         ],
         "how_to_read": "Read sub-section (1) as the general remote-communication cheating rule (both ends of the communication, plus both ends of any property transfer), and sub-section (2) as a distinct, victim-protective venue rule specific to bigamy."
+      }
+    },
+    {
+      "number": "203",
+      "title": "Offence committed on journey or voyage",
+      "raw_text": "203. Offence committed on journey or voyage.—When an offence is committed whilst the person by\n    or against whom, or the thing in respect of which, the offence is committed is in the course of performing\n    a journey or voyage, the offence may be inquired into or tried by a Court through or into whose local\n    jurisdiction that person or thing passed in the course of that journey or voyage.",
+      "key_terms": [
+        "local jurisdiction",
+        "venue"
+      ],
+      "breakdown": {
+        "plain_summary": "For offences that happen while someone (or something) is travelling — on a train, bus, ship, or any journey — pinning down a single 'scene of the crime' can be impractical, since the exact location at the moment of the offence may be unclear or constantly moving. This section allows the case to be tried by any court whose jurisdiction the traveller or the relevant thing passed through during that journey, not just wherever the offence is provable to have technically occurred.",
+        "essential_elements": [
+          "Applies where the offender, victim, or the thing involved in the offence was in the course of a journey or voyage when the offence occurred",
+          "Venue lies with any court whose local jurisdiction that person or thing passed through during the journey"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical rule for transit-based offences (e.g., theft on a train) — it avoids disputes over the exact coordinates of the offence by allowing trial anywhere along the travelled route."
+      }
+    },
+    {
+      "number": "204",
+      "title": "Place of trial for offences triable together",
+      "raw_text": "204. Place of trial for offences triable together.—Where—\n    (a) the offences committed by any person are such that he may be charged with, and tried at one\n    trial for, each such offence by virtue of the provisions of section 242, section 243 or section 244; or\n    (b) the offence or offences committed by several persons are such that they may be charged with\n    and tried together by virtue of the provisions of section 246, the offences may be inquired into or tried\n    by any Court competent to inquire into or try any of the offences.",
+      "key_terms": [
+        "joint trial",
+        "venue"
+      ],
+      "breakdown": {
+        "plain_summary": "Elsewhere in the Sanhita (sections 242, 243, 244, and 246), multiple offences by one person, or offences by several people acting together, can be combined into a single trial for efficiency. This section makes sure venue doesn't undo that efficiency: if offences qualify for a joint trial, any court that's competent to try any one of those offences can try all of them together, rather than forcing separate trials in separate courts purely because of jurisdictional technicalities.",
+        "essential_elements": [
+          "Applies to offences joinable in one trial under sections 242, 243, or 244 (same person, multiple offences)",
+          "Also applies to offences joinable under section 246 (several persons tried together)",
+          "Venue for the combined trial lies in any court competent to try any one of the joined offences"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a venue-facilitation rule that piggybacks on the separate joinder-of-charges/joinder-of-persons rules found later in the Sanhita — read it alongside sections 242-244 and 246 for the full picture of when joint trials are permitted."
+      }
+    },
+    {
+      "number": "205",
+      "title": "Power to order cases to be tried in different sessions divisions",
+      "raw_text": "205. Power to order cases to be tried in different sessions divisions.—Notwithstanding anything\n    contained in the preceding provisions of this Chapter, the State Government may direct that any case or\n    class of cases committed for trial in any district may be tried in any sessions division:\n    Provided that such direction is not repugnant to any direction previously issued by the High Court or\n    the Supreme Court under the Constitution, or under this Sanhita or any other law for the time being in force.",
+      "key_terms": [
+        "sessions division",
+        "State Government"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the State Government an override power to redirect where a case is tried, moving it out of the district it would ordinarily be tried in and into a different sessions division altogether — useful for situations like sensitive or high-profile cases where local conditions (community pressure, security concerns, logistical issues) make trial in the home district impractical. This power isn't absolute: it cannot contradict any direction already issued by the High Court or Supreme Court on the same matter.",
+        "essential_elements": [
+          "State Government may direct that a case or class of cases be tried in a different sessions division than the district it was committed in",
+          "Overrides the preceding territorial-jurisdiction rules in this Chapter",
+          "Cannot be repugnant to a prior direction of the High Court or Supreme Court on the same matter"
+        ],
+        "exceptions_and_qualifications": [
+          "This is an executive override subject to a hard constitutional-and-judicial-supremacy constraint — the State Government cannot use it to contradict a higher court's own venue-related directions (for example, a transfer order)."
+        ],
+        "how_to_read": "Treat this as an administrative escape valve from the ordinary territorial rules, useful in extraordinary cases, but always subordinate to judicial directions from the High Court or Supreme Court."
+      }
+    },
+    {
+      "number": "206",
+      "title": "High Court to decide, in case of doubt, district where inquiry or trial shall take place",
+      "raw_text": "206. High Court to decide, in case of doubt, district where inquiry or trial shall take place.—\n    Where two or more Courts have taken cognizance of the same offence and a question arises as to which of\n    them ought to inquire into or try that offence, the question shall be decided—\n    (a) if the Courts are subordinate to the same High Court, by that High Court;\n    (b) if the Courts are not subordinate to the same High Court, by the High Court within the local\n    limits of whose appellate criminal jurisdiction the proceedings were first commenced, and thereupon\n    all other proceedings in respect of that offence shall be discontinued.",
+      "key_terms": [
+        "cognizance",
+        "High Court",
+        "venue"
+      ],
+      "breakdown": {
+        "plain_summary": "Sometimes, because of the flexible multi-venue rules in this Chapter, two or more courts might each validly take cognizance of the very same offence — creating a conflict over which one should actually proceed. This section resolves that conflict by escalating it to a High Court: if both courts answer to the same High Court, that High Court decides. If they fall under different High Courts, the High Court where proceedings were first started gets to decide, and once it does, every other pending proceeding on that same offence must stop — ensuring only one court ultimately handles the case.",
+        "essential_elements": [
+          "Triggered when two or more courts have taken cognizance of the same offence",
+          "If both courts are subordinate to the same High Court, that High Court decides which should proceed",
+          "If subordinate to different High Courts, the High Court where proceedings were first commenced decides",
+          "Once decided, all other proceedings on that offence must be discontinued"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a jurisdictional tie-breaker, not a venue-choice mechanism for the parties — it only engages once an actual conflict between courts has already arisen."
+        ],
+        "how_to_read": "A conflict-resolution safety valve for the flexible, multi-venue framework built by sections 198-204 — read it as the mechanism that prevents parallel prosecutions of the same offence in different courts."
+      }
+    },
+    {
+      "number": "207",
+      "title": "Power to issue summons or warrant for offence committed beyond local jurisdiction",
+      "raw_text": "207. Power to issue summons or warrant for offence committed beyond local jurisdiction.—(1)\n    When a Magistrate of the first class sees reason to believe that any person within his local jurisdiction has\n    committed outside such jurisdiction (whether within or outside India) an offence which cannot, under the\n    provisions of sections 197 to 205 (both inclusive), or any other law for the time being in force, be inquired\n    into or tried within such jurisdiction but is under any law for the time being in force triable in India, such\n    Magistrate may inquire into the offence as if it had been committed within such local jurisdiction and\n    compel such person in the manner hereinbefore provided to appear before him, and send such person to the\n    Magistrate having jurisdiction to inquire into or try such offence, or, if such offence is not punishable with\n    death or imprisonment for life and such person is ready and willing to give bail to the satisfaction of the\n    Magistrate acting under this section, take a bond or bail bond for his appearance before the Magistrate\n    having such jurisdiction.\n    (2) When there are more Magistrates than one having such jurisdiction and the Magistrate acting under\n    this section cannot satisfy himself as to the Magistrate to or before whom such person should be sent or\n    bound to appear, the case shall be reported for the orders of the High Court.",
+      "key_terms": [
+        "first class Magistrate",
+        "bail bond",
+        "extraterritorial jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "This lets a first-class Magistrate act as a practical stopgap when someone physically present in their jurisdiction has committed an offence elsewhere (even outside India) that isn't triable by this Magistrate under the ordinary venue rules, but is triable somewhere in India under some law. Rather than doing nothing while the proper court is far away, the Magistrate can treat the offence as if it happened locally just enough to compel the person's appearance, then either physically forward them to the Magistrate who actually has jurisdiction, or — for offences not punishable by death or life imprisonment, and if the person is willing to furnish bail — simply take a bail bond binding them to appear before the proper Magistrate. If there happen to be multiple Magistrates who could have jurisdiction and it's unclear which one the person should be sent to, the local Magistrate refers the question up to the High Court rather than guessing.",
+        "essential_elements": [
+          "Applies to a first-class Magistrate who believes a person within their jurisdiction committed an offence elsewhere (in or outside India)",
+          "The offence must not be triable within this Magistrate's jurisdiction under sections 197-205 or other law, but must be triable somewhere in India",
+          "Magistrate may inquire as if the offence occurred locally, solely to compel the person's appearance",
+          "Person is then either forwarded to the Magistrate with actual jurisdiction, or (for offences not punishable by death/life imprisonment, with willing bail) released on a bond to appear there",
+          "If multiple Magistrates could have jurisdiction and it's unclear which, the matter is reported to the High Court for orders"
+        ],
+        "exceptions_and_qualifications": [
+          "This Magistrate's inquiry power is a narrow, compelling-appearance-only power — it does not let them actually try the offence itself; that remains with the Magistrate having true jurisdiction.",
+          "The bail-instead-of-custody route is unavailable for offences punishable with death or life imprisonment."
+        ],
+        "how_to_read": "Think of this as a jurisdictional 'holding' mechanism — it bridges the gap between where an offender happens to be found and where the offence must actually be tried, without letting either consideration block the person being brought to justice."
+      }
+    },
+    {
+      "number": "208",
+      "title": "Offence committed outside India",
+      "raw_text": "208. Offence committed outside India.—When an offence is committed outside India—\n    (a) by a citizen of India, whether on the high seas or elsewhere; or\n    (b) by a person, not being such citizen, on any ship or aircraft registered in India,\n    he may be dealt with in respect of such offence as if it had been committed at any place within India at\n    which he may be found or where the offence is registered in India:\n    Provided that notwithstanding anything in any of the preceding sections of this Chapter, no such offence\n    shall be inquired into or tried in India except with the previous sanction of the Central Government.",
+      "key_terms": [
+        "extraterritorial jurisdiction",
+        "sanction",
+        "Central Government"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XIV with India's extraterritorial jurisdiction rule for criminal procedure: an Indian citizen who commits an offence anywhere outside India (including on the high seas), or any person — citizen or not — who commits an offence aboard an Indian-registered ship or aircraft, can be tried in India as though the offence happened at whichever Indian place they're found, or wherever the offence gets formally registered in India. But this power is deliberately reined in: no such prosecution can actually begin without the Central Government's prior sanction — a diplomatic and policy safeguard, given the international sensitivities of prosecuting conduct that happened on foreign or international territory.",
+        "essential_elements": [
+          "Applies to offences committed outside India by an Indian citizen (anywhere, including the high seas)",
+          "Also applies to offences committed by anyone (citizen or not) aboard a ship or aircraft registered in India",
+          "Such offences may be dealt with in India as if committed at the place where the person is found, or where registered in India",
+          "Mandatory precondition: prior sanction of the Central Government before any such inquiry or trial can proceed"
+        ],
+        "exceptions_and_qualifications": [
+          "The Central Government sanction requirement is an absolute precondition, not a formality — it overrides every other provision in this Chapter for extraterritorial offences."
+        ],
+        "how_to_read": "Read the substantive jurisdiction-extending rule in the main text alongside its proviso as a package: India can reach extraterritorial conduct by citizens and on its own registered vessels/aircraft, but only with Central Government sanction acting as a gatekeeper before any court gets involved."
       }
     }
   ]
