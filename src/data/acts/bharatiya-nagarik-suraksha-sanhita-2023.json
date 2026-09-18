@@ -35,7 +35,7 @@
     "warrant-case": "A case relating to an offence punishable with death, imprisonment for life, or imprisonment exceeding two years.",
     "construction of references": "The interpretive rule for how references to undefined terms in other laws are to be read under this Sanhita.",
     "judicial magistrate": "A Magistrate exercising judicial functions, such as appreciating evidence or making decisions exposing a person to punishment, detention, or trial.",
-    "executive magistrate": "A Magistrate exercising administrative or executive functions, such as licensing or sanctioning/withdrawing prosecutions.",
+    "executive magistrate": "A Magistrate exercising executive (as opposed to judicial) functions under the Sanhita, such as initiating preventive security proceedings for keeping the peace or good behaviour.",
     "bharatiya nyaya sanhita": "The Bharatiya Nyaya Sanhita, 2023 — India's substantive criminal (penal) code, replacing the Indian Penal Code, 1860.",
     "saving clause": "A statutory provision preserving the operation of other laws or rights that would otherwise be affected by the new enactment.",
     "special law": "A law applicable to a particular subject matter, as distinct from a general law.",
@@ -46,12 +46,12 @@
     "district": "A territorial sub-unit of a sessions division, for the purposes of the Sanhita.",
     "sessions judge": "The presiding judicial officer of a Court of Session, appointed by the High Court.",
     "additional sessions judge": "A judge appointed by the High Court to assist a Sessions Judge in exercising jurisdiction in a Court of Session.",
-    "chief judicial magistrate": "The senior Judicial Magistrate of the first class in a district, appointed by the High Court, subordinate to the Sessions Judge.",
+    "chief judicial magistrate": "The senior Judicial Magistrate in a district, vested with specific powers under the Sanhita including supervisory and release functions relating to security proceedings not arising from Executive Magistrate orders.",
     "additional chief judicial magistrate": "A Judicial Magistrate of the first class appointed to exercise some or all powers of the Chief Judicial Magistrate.",
     "sub-divisional judicial magistrate": "A Judicial Magistrate of the first class designated to supervise Judicial Magistrates within a sub-division.",
     "special judicial magistrate": "A government post-holder conferred Judicial Magistrate powers by the High Court for particular cases or areas, for a term not exceeding one year at a time.",
     "special court": "A Court of Judicial Magistrates established for a particular case or class of cases, with exclusive jurisdiction over that category in its local area.",
-    "district magistrate": "The senior executive Magistrate heading a district, to whom warrantless-arrest reports are made under Section 59 and who exercises wide executive-magistracy powers under the Sanhita.",
+    "district magistrate": "The senior Executive Magistrate in charge of a district, vested with specific powers under the Sanhita including release and supervision functions relating to security proceedings.",
     "additional district magistrate": "An Executive Magistrate appointed to exercise some or all powers of the District Magistrate.",
     "sub-divisional magistrate": "An Executive Magistrate exercising authority over a sub-division of a district, who may receive warrantless-arrest reports under Section 59 if the District Magistrate so directs.",
     "special executive magistrate": "An Executive Magistrate or senior police officer (Superintendent of Police rank or above) appointed for particular areas or functions, for a fixed term.",
@@ -72,7 +72,7 @@
     "concurrent sentences": "Sentences for multiple offences at one trial that run simultaneously.",
     "successor-in-office": "The person who succeeds a Judge or Magistrate in an office, and who may exercise the powers and duties of that office in ongoing proceedings.",
     "superior officers of police": "Police officers ranked above the officer in charge of a police station, holding equivalent powers across their appointed local area.",
-    "breach of the peace": "A disturbance of public order or tranquillity.",
+    "breach of the peace": "Conduct that disturbs public order or tranquillity, or is likely to provoke violence or disorder.",
     "proclaimed offender": "A person formally declared as such by a Court under Section 84(4), after failing to appear pursuant to a proclamation, where the underlying offence is punishable with 10+ years' imprisonment, life imprisonment, or death.",
     "village headman": "The senior officer or functionary responsible for administration of a village, included within the meaning of an officer employed in connection with the affairs of a village.",
     "panchayat": "The local self-government body of a village.",
@@ -121,7 +121,11 @@
     "identifying": "Establishing proof that property was derived from, or used in, the commission of an offence.",
     "person affected": "The person against whom a notice of forfeiture under section 119 is issued — i.e., the owner (or apparent owner) of property alleged to be proceeds of crime.",
     "market value": "The price the property would fetch if sold in the open market, used as the basis for calculating a fine in lieu of forfeiture under section 121.",
-    "null and void": "Legally without effect from the outset, as if it never happened — used here to strip legal effect from property transfers made to defeat an attachment or forfeiture proceeding."
+    "null and void": "Legally without effect from the outset, as if it never happened — used here to strip legal effect from property transfers made to defeat an attachment or forfeiture proceeding.",
+    "public tranquillity": "The state of calm and order in society that the criminal law seeks to protect and preserve.",
+    "habitual offender": "A person who, by pattern of repeated conduct (not a single isolated act), commits or is involved in specified categories of offences such as theft, receiving stolen property, or breach of the peace.",
+    "sureties": "Persons who undertake, by executing a bond, to be answerable for another person's compliance with the terms of that bond (such as keeping the peace or maintaining good behaviour), and who may be held liable if the bond is breached.",
+    "general repute": "A person's reputation in the community, admissible as evidence to prove a fact such as habitual criminal conduct, without requiring proof of specific individual acts."
   },
   "sections": [
     {
@@ -2804,6 +2808,413 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "A standard closing 'Central Government may modify by notification' clause — practically relevant for checking whether a specific country's reciprocal arrangement carries any special conditions before relying on the general Chapter VIII procedure."
+      }
+    },
+    {
+      "number": "125",
+      "title": "Security for keeping peace on conviction",
+      "raw_text": "125. Security for keeping peace on conviction.—(1) When a Court of Session or Court of a Magistrate of the first class convicts a person of any of the offences specified in sub-section (2) or of abetting any such offence and is of opinion that it is necessary to take security from such person for keeping the peace, the Court may, at the time of passing sentence on such person, order him to execute a bond or bail bond, for keeping the peace for such period, not exceeding three years, as it thinks fit.\n    (2) The offences referred to in sub-section (1) are—\n        (a) any offence punishable under Chapter XI of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023), other than an offence punishable under sub-section (1) of section 193 or section 196 or section 197 thereof;\n        (b) any offence which consists of, or includes, assault or using criminal force or committing mischief;\n        (c) any offence of criminal intimidation;\n        (d) any other offence which caused, or was intended or known to be likely to cause, a breach of the peace.\n    (3) If the conviction is set aside on appeal or otherwise, the bond or bail bond so executed shall become void.\n    (4) An order under this section may also be made by an Appellate Court or by a Court when exercising its powers of revision.",
+      "key_terms": [
+        "bond",
+        "bail bond",
+        "keeping the peace",
+        "court of session",
+        "magistrate of the first class"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter IX and is the post-conviction route into \"peace security.\" When a Court of Session or a first-class Magistrate convicts someone of certain public-order-related offences — offences against the public tranquillity chapter of the BNS, assault/criminal force/mischief offences, criminal intimidation, or any offence that caused or threatened a breach of the peace — the Court can, as part of sentencing, additionally order the person to execute a bond to keep the peace for up to three years. This is preventive, not punitive: it's a forward-looking guarantee layered on top of the sentence itself. If the underlying conviction later gets overturned on appeal or otherwise, the bond automatically becomes void — it has no independent life apart from the conviction that triggered it. Appellate and Revisional Courts can also make this order, not just the trial Court.",
+        "essential_elements": [
+          "Triggering Courts: Court of Session, or a Magistrate of the first class.",
+          "Triggering event: conviction for a listed offence (or abetment of one) under sub-section (2).",
+          "The order is made 'at the time of passing sentence' — it rides alongside the sentence, not separately.",
+          "Maximum bond period: three years, at the Court's discretion within that ceiling.",
+          "Automatic voidance if the conviction is set aside on appeal or otherwise."
+        ],
+        "exceptions_and_qualifications": [
+          "Certain BNS Chapter XI offences are expressly excluded from triggering this section — sub-sections (1) of section 193, section 196, and section 197 of the BNS.",
+          "Appellate and Revisional Courts share this power with the original convicting Court — it's not confined to the trial forum."
+        ],
+        "how_to_read": "Read sub-section (2) as a checklist — this section only applies if the conviction falls into one of the four listed categories. The three-year ceiling and the automatic-voidance-on-reversal rule (sub-section 3) are the two numbers/triggers worth remembering for practice."
+      }
+    },
+    {
+      "number": "126",
+      "title": "Security for keeping peace in other cases",
+      "raw_text": "126. Security for keeping peace in other cases.—(1) When an Executive Magistrate receives information that any person is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act that may probably occasion a breach of the peace or disturb the public tranquillity and is of opinion that there is sufficient ground for proceeding, he may, in the manner hereinafter provided, require such person to show cause why he should not be ordered to execute a bond or bail bond for keeping the peace for such period, not exceeding one year, as the Magistrate thinks fit.\n    (2) Proceedings under this section may be taken before any Executive Magistrate when either the place where the breach of the peace or disturbance is apprehended is within his local jurisdiction or there is within such jurisdiction a person who is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act as aforesaid beyond such jurisdiction.",
+      "key_terms": [
+        "executive magistrate",
+        "breach of the peace",
+        "public tranquillity",
+        "show cause",
+        "bond"
+      ],
+      "breakdown": {
+        "plain_summary": "The preventive (pre-conviction) counterpart to Section 125. No conviction is needed here at all — an Executive Magistrate who receives credible information that a person is likely to breach the peace, disturb public tranquillity, or do some wrongful act likely to cause either of those, can start proceedings requiring the person to show cause why they shouldn't be bound over to keep the peace, for up to one year. Jurisdiction is flexible: proceedings can be brought either where the anticipated trouble will occur, or where the person likely to cause it is currently located, even if the trouble itself is expected to happen elsewhere.",
+        "essential_elements": [
+          "No conviction required — purely preventive, based on 'information' received by the Executive Magistrate.",
+          "Threshold: the Magistrate must form an opinion that there is 'sufficient ground for proceeding.'",
+          "Maximum bond period: one year (shorter than Section 125's three-year ceiling, reflecting its lower evidentiary threshold).",
+          "Dual jurisdictional basis: either the place of anticipated breach, or the place where the suspected person is located."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a show-cause proceeding, not a summary order — the person gets a chance to respond before any bond is actually imposed (the full inquiry procedure is in Sections 130-137)."
+        ],
+        "how_to_read": "Contrast directly with Section 125: this is the 'no conviction yet' preventive track, with a lower one-year ceiling. Sections 130 onward supply the common procedural machinery shared by Sections 126-129."
+      }
+    },
+    {
+      "number": "127",
+      "title": "Security for good behaviour from persons disseminating certain matters",
+      "raw_text": "127. Security for good behaviour from persons disseminating certain matters.—(1) When an Executive Magistrate receives information that there is within his local jurisdiction any person who, within or without such jurisdiction,—\n        (i) either orally or in writing or in any other manner, intentionally disseminates or attempts to disseminate or abets the dissemination of,—\n            (a) any matter the publication of which is punishable under section 152 or section 196 or section 197 or section 299 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023); or\n            (b) any matter concerning a Judge acting or purporting to act in the discharge of his official duties which amounts to criminal intimidation or defamation under the Bharatiya Nyaya Sanhita, 2023;\n        (ii) makes, produces, publishes or keeps for sale, imports, exports, conveys, sells, lets to hire, distributes, publicly exhibits or in any other manner puts into circulation any obscene matter such as is referred to in section 294 of the Bharatiya Nyaya Sanhita, 2023,\nand the Magistrate is of opinion that there is sufficient ground for proceeding, the Magistrate may, in the manner hereinafter provided, require such person to show cause why he should not be ordered to execute a bond or bail bond, for his good behaviour for such period, not exceeding one year, as the Magistrate thinks fit.\n    (2) No proceedings shall be taken under this section against the editor, proprietor, printer or publisher of any publication registered under, and edited, printed and published in conformity with, the rules laid down in the Press and Registration of Books Act, 1867 (25 of 1867) with reference to any matter contained in such publication except by the order or under the authority of the State Government or some officer empowered by the State Government in this behalf.",
+      "key_terms": [
+        "disseminate",
+        "obscene matter",
+        "good behaviour",
+        "press and registration of books act"
+      ],
+      "breakdown": {
+        "plain_summary": "A targeted \"good behaviour\" security provision aimed at people who spread dangerous or unlawful content — matter punishable under specific BNS provisions (covering things like sedition-adjacent offences, promoting enmity, statements prejudicial to national integration, or imperilling public order), criminally intimidating or defaming material against a Judge acting in official capacity, or obscene material under BNS Section 294 (covering its production, sale, import/export, distribution, or public exhibition). If an Executive Magistrate has sufficient ground, they can require the person to show cause why they shouldn't execute a good-behaviour bond for up to one year. A special press-freedom safeguard applies: registered-publication editors/proprietors/printers/publishers acting within the Press and Registration of Books Act, 1867 framework can't be proceeded against under this section except with State Government authorisation — an extra procedural gate protecting the press specifically.",
+        "essential_elements": [
+          "Covers two categories: (i) intentional dissemination (or abetment) of specified unlawful/prejudicial matter, including anti-Judge criminal intimidation/defamation; (ii) production/circulation of obscene matter under BNS Section 294.",
+          "Dissemination can occur 'within or without' the Magistrate's jurisdiction — the person just needs to be located within it.",
+          "Maximum bond period: one year, same ceiling as Section 126.",
+          "Press safeguard: registered publications' editors/proprietors/printers/publishers are shielded unless the State Government (or its delegate) authorises proceedings."
+        ],
+        "exceptions_and_qualifications": [
+          "The press-safeguard proviso in sub-section (2) is a specific carve-out, not a blanket immunity for all publishers — only registered, properly-conducted publications under the 1867 Act qualify, and even then State Government authorisation can override the shield."
+        ],
+        "how_to_read": "Notice the press-freedom proviso is doing real constitutional work here (balancing Article 19(1)(a) against public order) — flag it whenever a media client is targeted under this section."
+      }
+    },
+    {
+      "number": "128",
+      "title": "Security for good behaviour from suspected persons",
+      "raw_text": "128. Security for good behaviour from suspected persons.—When an Executive Magistrate receives information that there is within his local jurisdiction a person taking precautions to conceal his presence and that there is reason to believe that he is doing so with a view to committing a cognizable offence, the Magistrate may, in the manner hereinafter provided, require such person to show cause why he should not be ordered to execute a bond or bail bond for his good behaviour for such period, not exceeding one year, as the Magistrate thinks fit.",
+      "key_terms": [
+        "cognizable offence",
+        "good behaviour",
+        "conceal his presence"
+      ],
+      "breakdown": {
+        "plain_summary": "A narrow, suspicion-based preventive-detention-adjacent provision: if a person is deliberately hiding their presence within the Magistrate's jurisdiction, and there's reason to believe they're doing so in preparation for a cognizable offence, the Magistrate can require a good-behaviour bond, for up to one year, via the standard show-cause procedure.",
+        "essential_elements": [
+          "Two-part threshold: (a) the person is taking active precautions to conceal their presence, and (b) reason to believe this concealment is aimed at committing a cognizable offence.",
+          "Maximum bond period: one year.",
+          "Follows the common procedure laid down in Sections 130 onward."
+        ],
+        "exceptions_and_qualifications": [
+          "Mere concealment alone is not enough — it must be coupled with 'reason to believe' a cognizable offence is being planned; innocent reasons for concealment (e.g., avoiding harassment, personal safety) don't satisfy the threshold."
+        ],
+        "how_to_read": "Short and self-contained — the whole test is in the single sentence. Compare its narrower scope against Section 129's much longer list of specific habitual-offender categories."
+      }
+    },
+    {
+      "number": "129",
+      "title": "Security for good behaviour from habitual offenders",
+      "raw_text": "129. Security for good behaviour from habitual offenders.—When an Executive Magistrate receives information that there is within his local jurisdiction a person who—\n        (a) is by habit a robber, house-breaker, thief, or forger; or\n        (b) is by habit a receiver of stolen property knowing the same to have been stolen; or\n        (c) habitually protects or harbours thieves, or aids in the concealment or disposal of stolen property; or\n        (d) habitually commits, or attempts to commit, or abets the commission of, the offence of kidnapping, abduction, extortion, cheating or mischief, or any offence punishable under Chapter X of the Bharatiya Nyaya Sanhita, 2023, or under section 178, section 179, section 180 or section 181 of that Sanhita; or\n        (e) habitually commits, or attempts to commit, or abets the commission of, offences, involving a breach of the peace; or\n        (f) habitually commits, or attempts to commit, or abets the commission of—\n            (i) any offence under one or more of the following Acts, namely:—\n                (a) the Drugs and Cosmetics Act, 1940 (23 of 1940);\n                (b) the Foreigners Act, 1946 (31 of 1946);\n                (c) the Employees' Provident Fund and Miscellaneous Provisions Act, 1952 (19 of 1952);\n                (d) the Essential Commodities Act, 1955 (10 of 1955);\n                (e) the Protection of Civil Rights Act, 1955 (22 of 1955);\n                (f) the Customs Act, 1962 (52 of 1962);\n                (g) the Food Safety and Standards Act, 2006 (34 of 2006); or\n            (ii) any offence punishable under any other law providing for the prevention of hoarding or profiteering or of adulteration of food or drugs or of corruption; or\n        (g) is so desperate and dangerous as to render his being at large without security hazardous to the community,\nsuch Magistrate may, in the manner hereinafter provided, require such person to show cause why he should not be ordered to execute a bail bond, for his good behaviour for such period, not exceeding three years, as the Magistrate thinks fit.",
+      "key_terms": [
+        "habitual offender",
+        "good behaviour",
+        "bail bond",
+        "desperate and dangerous"
+      ],
+      "breakdown": {
+        "plain_summary": "The longest and broadest of the good-behaviour categories, aimed squarely at habitual criminals. It lists seven overlapping categories: habitual robbers/house-breakers/thieves/forgers; habitual knowing receivers of stolen property; habitual protectors/harbourers of thieves or handlers of stolen property; habitual kidnapping/abduction/extortion/cheating/mischief offenders (or offences under the BNS's public-tranquillity-adjacent Chapter X or specific public-servant-related sections); habitual breach-of-the-peace offenders; habitual offenders under a named list of regulatory statutes (Drugs and Cosmetics, Foreigners Act, EPF Act, Essential Commodities, Protection of Civil Rights, Customs, Food Safety) or any other hoarding/profiteering/adulteration/corruption law; and finally a catch-all — anyone \"so desperate and dangerous\" that being at large without security would be hazardous to the community. Uniquely among this quartet of good-behaviour sections, this one carries the longer three-year maximum bond period (matching Section 125's post-conviction ceiling), reflecting the seriousness of chronic, repeat offending it targets.",
+        "essential_elements": [
+          "Seven distinct qualifying categories (a)-(g), any one of which suffices.",
+          "'Habitually' is the recurring qualifier for most categories — a single incident generally won't do; a pattern is required.",
+          "Category (f) incorporates a specific list of regulatory/economic-offence statutes plus a residual clause for hoarding/profiteering/adulteration/corruption laws generally.",
+          "Category (g) is a broad residual 'desperate and dangerous' catch-all independent of any specific offence pattern.",
+          "Maximum bond period: three years — the longest among the preventive (non-conviction) good-behaviour sections."
+        ],
+        "exceptions_and_qualifications": [
+          "The 'habit' element under sections 128, 129 categories (a)-(f) can be proved by evidence of general repute, not just specific proven instances — see Section 135(4) later in this Chapter, which supplies the evidentiary rule."
+        ],
+        "how_to_read": "Treat categories (a)-(f) as fact-specific pigeonholes to check the person against, and category (g) as the fallback if none of the specific categories quite fit but the person is still clearly dangerous. Remember the cross-reference to Section 135(4) for how 'habit' gets proved at the inquiry stage."
+      }
+    },
+    {
+      "number": "130",
+      "title": "Order to be made",
+      "raw_text": "130. Order to be made.—When a Magistrate acting under section 126, section 127, section 128 or section 129, deems it necessary to require any person to show cause under such section, he shall make an order in writing, setting forth the substance of the information received, the amount of the bond to be executed, the term for which it is to be in force and the number of sureties, after considering the sufficiency and fitness of sureties.",
+      "key_terms": [
+        "order in writing",
+        "sureties",
+        "bond"
+      ],
+      "breakdown": {
+        "plain_summary": "The formal gateway order that kicks off the show-cause procedure under any of Sections 126-129. It must be in writing and specify four things: the substance of the information received, the bond amount, how long the bond will run, and the number of sureties required — the Magistrate must have already turned their mind to the sufficiency and fitness of sureties before issuing it.",
+        "essential_elements": [
+          "Applies uniformly across all four preventive-security grounds: Sections 126, 127, 128, and 129.",
+          "Mandatory written order — not oral.",
+          "Must state: substance of information, bond amount, bond duration, and number of sureties.",
+          "The Magistrate must have already considered surety sufficiency and fitness before making the order."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the procedural hinge connecting the four substantive grounds (Sections 126-129) to the common inquiry machinery that follows (Sections 131 onward) — every peace/good-behaviour case, regardless of which ground triggered it, starts here."
+      }
+    },
+    {
+      "number": "131",
+      "title": "Procedure in respect of person present in Court",
+      "raw_text": "131. Procedure in respect of person present in Court.—If the person in respect of whom such order is made is present in Court, it shall be read over to him, or, if he so desires, the substance thereof shall be explained to him.",
+      "key_terms": [
+        "order",
+        "explained"
+      ],
+      "breakdown": {
+        "plain_summary": "A simple fair-notice rule: if the person against whom a Section 130 order is made happens to already be present in Court, the order must be read out to them (or, if they'd prefer, its substance explained), so they understand exactly what they're being asked to show cause about.",
+        "essential_elements": [
+          "Applies only where the person is already present in Court when the order is made.",
+          "Two options: the order is read out verbatim, or its substance is explained if the person prefers."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Short procedural section — its counterpart for a person not present in Court is Section 132, immediately following."
+      }
+    },
+    {
+      "number": "132",
+      "title": "Summons or warrant in case of person not so present",
+      "raw_text": "132. Summons or warrant in case of person not so present.—If such person is not present in Court, the Magistrate shall issue a summons requiring him to appear, or, when such person is in custody, a warrant directing the officer in whose custody he is to bring him before the Court:\n    Provided that whenever it appears to such Magistrate, upon the report of a police officer or upon other information (the substance of which report or information shall be recorded by the Magistrate), that there is reason to fear the commission of a breach of the peace, and that such breach of the peace cannot be prevented otherwise than by the immediate arrest of such person, the Magistrate may at any time issue a warrant for his arrest.",
+      "key_terms": [
+        "summons",
+        "warrant",
+        "breach of the peace"
+      ],
+      "breakdown": {
+        "plain_summary": "The mirror image of Section 131 for a person who isn't already in Court: the Magistrate issues a summons to bring them in, or, if they're already in custody for some other reason, a warrant directing the custodial officer to produce them. There's an emergency override: if the Magistrate has reason to fear an imminent breach of the peace that can only be averted by immediate arrest, they can skip straight to an arrest warrant at any time — bypassing the ordinary summons-first approach.",
+        "essential_elements": [
+          "Default route: summons to appear (person not in custody) or warrant to the custodial officer (person already in custody).",
+          "Emergency override: immediate arrest warrant where breach of the peace is feared and cannot otherwise be prevented.",
+          "The report or information grounding the emergency override must be recorded in substance by the Magistrate."
+        ],
+        "exceptions_and_qualifications": [
+          "The emergency-arrest proviso is available 'at any time' — it isn't limited to the initial stage, and can override the ordinary summons-first sequence whenever the urgency threshold is met."
+        ],
+        "how_to_read": "Pair with Section 133 immediately following — every summons or warrant issued under this section must carry a copy of the Section 130 order."
+      }
+    },
+    {
+      "number": "133",
+      "title": "Copy of order to accompany summons or warrant",
+      "raw_text": "133. Copy of order to accompany summons or warrant.—Every summons or warrant issued under section 132 shall be accompanied by a copy of the order made under section 130, and such copy shall be delivered by the officer serving or executing such summons or warrant to the person served with, or arrested under, the same.",
+      "key_terms": [
+        "summons",
+        "warrant",
+        "order"
+      ],
+      "breakdown": {
+        "plain_summary": "A fair-notice safeguard mirroring Section 131 for people who weren't already in Court: whenever a Section 132 summons or warrant is issued, a copy of the underlying Section 130 order must travel with it and actually be delivered to the person when served or arrested — so an arrested or summoned person always knows the specific grounds (information, bond terms, sureties required) behind the process against them.",
+        "essential_elements": [
+          "Applies to every summons or warrant issued under Section 132.",
+          "The copy of the Section 130 order must be physically delivered to the person served or arrested."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Closes the loop opened by Sections 131-132 — between the two, every person subject to a Section 130 order gets to know its contents, whether present in Court or brought in later."
+      }
+    },
+    {
+      "number": "134",
+      "title": "Power to dispense with personal attendance",
+      "raw_text": "134. Power to dispense with personal attendance.—The Magistrate may, if he sees sufficient cause, dispense with the personal attendance of any person called upon to show cause why he should not be ordered to execute a bond for keeping the peace or for good behaviour and may permit him to appear by an advocate.",
+      "key_terms": [
+        "personal attendance",
+        "advocate"
+      ],
+      "breakdown": {
+        "plain_summary": "A convenience/dignity provision: the person called upon to show cause doesn't necessarily have to attend in person throughout — if the Magistrate sees sufficient cause, they can dispense with personal attendance and let the person be represented by an advocate instead.",
+        "essential_elements": [
+          "Discretionary power — the Magistrate must see 'sufficient cause' before dispensing with personal attendance.",
+          "The alternative is representation by an advocate."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical relief provision — useful to invoke for a client who faces genuine hardship attending every hearing of a good-behaviour/peace-security inquiry."
+      }
+    },
+    {
+      "number": "135",
+      "title": "Inquiry as to truth of information",
+      "raw_text": "135. Inquiry as to truth of information.—(1) When an order under section 130 has been read or explained under section 131 to a person present in Court, or when any person appears or is brought before a Magistrate in compliance with, or in execution of, a summons or warrant, issued under section 132, the Magistrate shall proceed to inquire into the truth of the information upon which action has been taken, and to take such further evidence as may appear necessary.\n    (2) Such inquiry shall be made, as nearly as may be practicable, in the manner hereinafter prescribed for conducting trial and recording evidence in summons-cases.\n    (3) After the commencement, and before the completion, of the inquiry under sub-section (1), the Magistrate, if he considers that immediate measures are necessary for the prevention of a breach of the peace or disturbance of the public tranquillity or the commission of any offence or for the public safety, may, for reasons to be recorded in writing, direct the person in respect of whom the order under section 130 has been made to execute a bond or bail bond, for keeping the peace or maintaining good behaviour until the conclusion of the inquiry, and may detain him in custody until such bond or bail bond is executed or, in default of execution, until the inquiry is concluded:\n    Provided that—\n        (a) no person against whom proceedings are not being taken under section 127, section 128, or section 129 shall be directed to execute a bond or bail bond for maintaining good behaviour;\n        (b) the conditions of such bond, whether as to the amount thereof or as to the provision of sureties or the number thereof or the pecuniary extent of their liability, shall not be more onerous than those specified in the order under section 130.\n    (4) For the purposes of this section the fact that a person is a habitual offender or is so desperate and dangerous as to render his being at large without security hazardous to the community may be proved by evidence of general repute or otherwise.\n    (5) Where two or more persons have been associated together in the matter under inquiry, they may be dealt with in the same or separate inquiries as the Magistrate shall think just.\n    (6) The inquiry under this section shall be completed within a period of six months from the date of its commencement, and if such inquiry is not so completed, the proceedings under this Chapter shall, on the expiry of the said period, stand terminated unless, for special reasons to be recorded in writing, the Magistrate otherwise directs:\n    Provided that where any person has been kept in detention pending such inquiry, the proceeding against that person, unless terminated earlier, shall stand terminated on the expiry of a period of six months of such detention.\n    (7) Where any direction is made under sub-section (6) permitting the continuance of proceedings, the Sessions Judge may, on an application made to him by the aggrieved party, vacate such direction if he is satisfied that it was not based on any special reason or was perverse.",
+      "key_terms": [
+        "inquiry",
+        "general repute",
+        "interim bond",
+        "summons-case",
+        "sessions judge"
+      ],
+      "breakdown": {
+        "plain_summary": "The heart of the Chapter IX procedure — the actual inquiry into whether the Section 130 order's underlying information is true. It runs roughly like a summons-case trial (evidence recording, etc.). Mid-inquiry, if the Magistrate thinks immediate action is needed to prevent a breach of the peace, disturbance, an offence, or for public safety, they can order an interim bond (and detain the person if they don't comply) pending the inquiry's conclusion — but only for people actually facing good-behaviour proceedings under Sections 127-129 (not the plain peace-keeping track), and the interim bond terms can't be harsher than what the original Section 130 order specified. For habitual-offender or \"desperate and dangerous\" findings, general repute evidence is expressly allowed, not just specific proven acts. Multiple associated persons can be inquired into jointly or separately, at the Magistrate's discretion. There's a hard six-month completion deadline — miss it, and proceedings automatically terminate (with an even harder rule if the person has been detained: termination at six months of detention regardless), unless the Magistrate records special reasons to continue, and even that continuation is subject to Sessions Judge review on an aggrieved party's application if the special reasons look pretextual or perverse.",
+        "essential_elements": [
+          "Inquiry follows the summons-case trial procedure, as nearly as practicable.",
+          "Interim bond power during the inquiry: available only for good-behaviour proceedings (Sections 127-129), on recorded reasons, capped at the original order's terms.",
+          "General-repute evidence is expressly permissible to prove habitual-offender or desperate-and-dangerous status.",
+          "Six-month hard deadline for completing the inquiry, with automatic termination on expiry absent recorded special reasons.",
+          "A stricter six-month cap applies specifically where the person has been detained pending inquiry.",
+          "Sessions Judge oversight: can vacate a continuation direction found not to rest on genuine special reasons, or found perverse."
+        ],
+        "exceptions_and_qualifications": [
+          "The interim-bond power under sub-section (3) is expressly unavailable for pure peace-keeping proceedings (Section 126) — only good-behaviour tracks (127-129) permit it.",
+          "The six-month detention cap is an independent, stricter ceiling that overrides the general six-month inquiry deadline where actual detention has occurred."
+        ],
+        "how_to_read": "This is the longest and most procedurally dense section in the Chapter — read the six-month deadline and its detention-specific proviso as the key liberty safeguard, and the Sessions Judge review in sub-section (7) as the check against Magistrates rubber-stamping indefinite extensions."
+      }
+    },
+    {
+      "number": "136",
+      "title": "Order to give security",
+      "raw_text": "136. Order to give security.—If, upon such inquiry, it is proved that it is necessary for keeping the peace or maintaining good behaviour, as the case may be, that the person in respect of whom the inquiry is made should execute a bond or bail bond, the Magistrate shall make an order accordingly:\n    Provided that—\n        (a) no person shall be ordered to give security of a nature different from, or of an amount larger than, or for a period longer than, that specified in the order made under section 130;\n        (b) the amount of every bond or bail bond shall be fixed with due regard to the circumstances of the case and shall not be excessive;\n        (c) when the person in respect of whom the inquiry is made is a child, the bond shall be executed only by his sureties.",
+      "key_terms": [
+        "bond",
+        "bail bond",
+        "child",
+        "sureties"
+      ],
+      "breakdown": {
+        "plain_summary": "The final, operative order following a completed Section 135 inquiry — if the inquiry proves the security is actually necessary, the Magistrate must order it. Three built-in limits protect the person: the final bond can't exceed the nature, amount, or duration set out in the original Section 130 order (no escalation after the fact); the amount must be reasonable and not excessive given the case's circumstances; and — a specific child-protection rule — if the person is a child, they personally cannot be made to execute the bond at all; only sureties on the child's behalf can.",
+        "essential_elements": [
+          "Triggered only if the inquiry proves necessity for keeping the peace or maintaining good behaviour.",
+          "Cap: the final security cannot exceed the nature, amount, or period specified in the Section 130 order.",
+          "The bond amount must be fixed with due regard to the case's circumstances and must not be excessive.",
+          "Child-specific rule: a bond in respect of a child must be executed only by sureties, never by the child personally."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The child proviso (c) is the standout safeguard here — always check the age of the person concerned before an order under this section is finalised."
+      }
+    },
+    {
+      "number": "137",
+      "title": "Discharge of person informed against",
+      "raw_text": "137. Discharge of person informed against.—If, on an inquiry under section 135, it is not proved that it is necessary for keeping the peace or maintaining good behaviour, as the case may be, that the person in respect of whom the inquiry is made, should execute a bond, the Magistrate shall make an entry on the record to that effect, and if such person is in custody only for the purposes of the inquiry, shall release him, or, if such person is not in custody, shall discharge him.",
+      "key_terms": [
+        "discharge",
+        "release",
+        "inquiry"
+      ],
+      "breakdown": {
+        "plain_summary": "The flip side of Section 136 — if the inquiry fails to prove that security is necessary, the person must be let go. The Magistrate records this outcome formally, and if the person was held in custody solely for the inquiry, they're released; if never in custody, they're simply discharged from the proceedings.",
+        "essential_elements": [
+          "Triggered when the inquiry fails to prove necessity.",
+          "A formal record entry of this outcome is mandatory.",
+          "In-custody-for-the-inquiry-only persons are released; not-in-custody persons are discharged."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The natural counterpart to Section 136 — every Section 135 inquiry ends in one or the other of these two outcomes."
+      }
+    },
+    {
+      "number": "138",
+      "title": "Commencement of period for which security is required",
+      "raw_text": "138. Commencement of period for which security is required.—(1) If any person, in respect of whom an order requiring security is made under section 125 or section 136, is at the time such order is made, sentenced to, or undergoing a sentence of, imprisonment, the period for which such security is required shall commence on the expiration of such sentence.\n    (2) In other cases such period shall commence on the date of such order unless the Magistrate, for sufficient reason, fixes a later date.",
+      "key_terms": [
+        "security",
+        "sentence of imprisonment"
+      ],
+      "breakdown": {
+        "plain_summary": "Clarifies when the clock actually starts running on a security order made under either Section 125 (post-conviction) or Section 136 (post-inquiry). If the person is already serving (or has just been sentenced to) imprisonment when the order is made, the security period only begins once that sentence ends — it doesn't run concurrently with imprisonment, since the person poses no liberty-related risk while locked up. In all other cases, the period starts from the date of the order itself, unless the Magistrate has sufficient reason to fix a later start date.",
+        "essential_elements": [
+          "Applies to security orders under Section 125 or Section 136.",
+          "If the person is under (or sentenced to) imprisonment: the security period starts only when that sentence expires.",
+          "Otherwise: the period starts on the date of the order, unless the Magistrate fixes a later date for sufficient reason."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short but practically important timing rule — always check whether the person concerned was serving a sentence at the time of the order before calculating when a peace/good-behaviour bond period actually begins and ends."
+      }
+    },
+    {
+      "number": "139",
+      "title": "Contents of bond",
+      "raw_text": "139. Contents of bond.—The bond or bail bond to be executed by any such person shall bind him to keep the peace or to be of good behaviour, as the case may be, and in the latter case the commission or attempt to commit, or the abetment of, any offence punishable with imprisonment, wherever it may be committed, is a breach of the bond or bail bond.",
+      "key_terms": [
+        "bond",
+        "breach of the bond",
+        "good behaviour"
+      ],
+      "breakdown": {
+        "plain_summary": "Defines what the bond actually promises. A \"keep the peace\" bond binds the person simply to that. A \"good behaviour\" bond is broader in its breach trigger: committing, attempting, or abetting any imprisonable offence — anywhere, not just within the Magistrate's jurisdiction — counts as a breach of the bond.",
+        "essential_elements": [
+          "Two bond types with different content: 'keep the peace' vs. 'good behaviour.'",
+          "For good-behaviour bonds specifically: any commission, attempt, or abetment of an imprisonable offence is a breach, regardless of where it's committed."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note how much broader the good-behaviour trigger is compared to keep-the-peace — an unrelated offence committed far away can still breach a good-behaviour bond, which is a key point for anyone advising a person currently bound under one."
+      }
+    },
+    {
+      "number": "140",
+      "title": "Power to reject sureties",
+      "raw_text": "140. Power to reject sureties.—(1) A Magistrate may refuse to accept any surety offered, or may reject any surety previously accepted by him or his predecessor under this Chapter on the ground that such surety is an unfit person for the purposes of the bail bond:\n    Provided that before so refusing to accept or rejecting any such surety, he shall either himself hold an inquiry on oath into the fitness of the surety, or cause such inquiry to be held and a report to be made thereon by a Magistrate subordinate to him.\n    (2) Such Magistrate shall, before holding the inquiry, give reasonable notice to the surety and to the person by whom the surety was offered and shall, in making the inquiry, record the substance of the evidence adduced before him.\n    (3) If the Magistrate is satisfied, after considering the evidence so adduced either before him or before a Magistrate deputed under sub-section (1), and the report of such Magistrate (if any), that the surety is an unfit person for the purposes of the bail bond, he shall make an order refusing to accept or rejecting, as the case may be, such surety and recording his reasons for so doing:\n    Provided that before making an order rejecting any surety who has previously been accepted, the Magistrate shall issue his summons or warrant, as he thinks fit, and cause the person for whom the surety is bound to appear or to be brought before him.",
+      "key_terms": [
+        "surety",
+        "fitness inquiry",
+        "unfit person"
+      ],
+      "breakdown": {
+        "plain_summary": "Gives the Magistrate quality control over sureties — both at the offering stage and even after a surety has already been accepted (by the same Magistrate or a predecessor). Rejection can't be arbitrary: a formal on-oath fitness inquiry (held personally or delegated to a subordinate Magistrate who reports back) is mandatory first, with reasonable notice to both the surety and the person who offered them, and a recorded evidentiary record. Only after that inquiry, and only with recorded reasons, can the Magistrate reject the surety. If a previously-accepted surety is being rejected (as opposed to a fresh offer being refused), there's an extra procedural step: the person for whom the surety stood must be summoned or brought before the Magistrate before the rejection order is made.",
+        "essential_elements": [
+          "Applies to both fresh surety offers and previously-accepted sureties.",
+          "Mandatory fitness inquiry on oath before any refusal/rejection — either held personally or delegated with a report back.",
+          "Reasonable notice must be given to both the surety and the person who offered the surety.",
+          "Rejection requires recorded reasons.",
+          "Rejecting a previously-accepted surety additionally requires summoning/producing the person for whom the surety is bound before the order is made."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the escalating procedural protection: rejecting a brand-new offer needs the fitness inquiry; rejecting an already-accepted surety needs that plus the additional summons/production step — reflecting the greater disruption caused by pulling the rug out from under an existing arrangement."
+      }
+    },
+    {
+      "number": "141",
+      "title": "Imprisonment in default of security",
+      "raw_text": "141. Imprisonment in default of security.—(1)(a) If any person ordered to give security under section 125 or section 136 does not give such security on or before the date on which the period for which such security is to be given commences, he shall, except in the case next hereinafter mentioned, be committed to prison, or, if he is already in prison, be detained in prison until such period expires or until within such period he gives the security to the Court or Magistrate who made the order requiring it;\n    (b) if any person after having executed a bond or bail bond for keeping the peace in pursuance of an order of a Magistrate under section 136, is proved, to the satisfaction of such Magistrate or his successor-in-office, to have committed breach of the bond or bail bond, such Magistrate or successor-in-office may, after recording the grounds of such proof, order that the person be arrested and detained in prison until the expiry of the period of the bond or bail bond and such order shall be without prejudice to any other punishment or forfeiture to which the said person may be liable in accordance with law.\n    (2) When such person has been ordered by a Magistrate to give security for a period exceeding one year, such Magistrate shall, if such person does not give such security as aforesaid, issue a warrant directing him to be detained in prison pending the orders of the Sessions Judge and the proceedings shall be laid, as soon as conveniently may be, before such Court.\n    (3) Such Court, after examining such proceedings and requiring from the Magistrate any further information or evidence which it thinks necessary, and after giving the concerned person a reasonable opportunity of being heard, may pass such order on the case as it thinks fit:\n    Provided that the period (if any) for which any person is imprisoned for failure to give security shall not exceed three years.\n    (4) If security has been required in the course of the same proceeding from two or more persons in respect of any one of whom the proceedings are referred to the Sessions Judge under sub-section (2) such reference shall also include the case of any other of such persons who has been ordered to give security, and the provisions of sub-sections (2) and (3) shall, in that event, apply to the case of such other person also, except that the period (if any) for which he may be imprisoned, shall not exceed the period for which he was ordered to give security.\n    (5) A Sessions Judge may in his discretion transfer any proceedings laid before him under sub-section (2) or sub-section (4) to an Additional Sessions Judge and upon such transfer, such Additional Sessions Judge may exercise the powers of a Sessions Judge under this section in respect of such proceedings.\n    (6) If the security is tendered to the officer in charge of the jail, he shall forthwith refer the matter to the Court or Magistrate who made the order, and shall await the orders of such Court or Magistrate.\n    (7) Imprisonment for failure to give security for keeping the peace shall be simple.\n    (8) Imprisonment for failure to give security for good behaviour shall, where the proceedings have been taken under section 127, be simple, and, where the proceedings have been taken under section 128 or section 129, be rigorous or simple as the Court or Magistrate in each case directs.",
+      "key_terms": [
+        "imprisonment in default",
+        "sessions judge",
+        "simple imprisonment",
+        "rigorous imprisonment",
+        "breach of bond"
+      ],
+      "breakdown": {
+        "plain_summary": "The enforcement teeth of the whole Chapter: what happens if a person ordered to give security under Section 125 or 136 simply doesn't. Default consequence: committal to (or continued detention in) prison until the security period expires or the security is actually given. Separately, breach of an already-executed peace-keeping bond can itself lead to arrest and imprisonment for the bond's remaining period, on recorded proof of the breach — and this is on top of, not instead of, any other legal punishment the breach might attract. There's a jurisdictional escalation for longer orders: if the required security period exceeds one year, the Magistrate can't just imprison the person on their own authority — they must refer the matter to the Sessions Judge, who reviews the record, can call for more evidence, must give the person a hearing, and then decides — subject to an absolute three-year cap on imprisonment for security default. Multiple co-accused persons from the same proceeding get bundled into the same Sessions Judge reference if any one of them triggers it, though each person's own imprisonment cap tracks their own originally-ordered security period. A Sessions Judge can delegate to an Additional Sessions Judge. Tendering the security to the jail officer (rather than the Court directly) is expressly allowed — the jail officer just refers it up. Finally, the type of imprisonment differs by track: peace-keeping default is always simple imprisonment; good-behaviour default is simple for Section 127 (dissemination) cases, but the Court/Magistrate's choice between rigorous or simple for Sections 128-129 (suspected persons / habitual offenders) cases.",
+        "essential_elements": [
+          "Default consequence: committal to or continued detention in prison until the security is given or the period expires.",
+          "Bond breach (post-execution) can independently trigger arrest and imprisonment for the bond's unexpired period, without prejudice to other legal consequences.",
+          "Mandatory Sessions Judge reference where the required security period exceeds one year — the Magistrate cannot imprison unilaterally in such cases.",
+          "Absolute cap: imprisonment for security default cannot exceed three years.",
+          "Imprisonment type varies by track: simple for peace-keeping and Section 127 good-behaviour defaults; Court/Magistrate's choice of simple or rigorous for Section 128/129 defaults."
+        ],
+        "exceptions_and_qualifications": [
+          "Multiple-persons bundling under sub-section (4) still respects each individual's own security-period cap when fixing their imprisonment term.",
+          "Tendering security directly to the jail officer under sub-section (6) is a valid alternative channel — the officer must refer it onward and await orders, not decide unilaterally."
+        ],
+        "how_to_read": "This is the section to reach for whenever advising a detained client on a peace/good-behaviour bond default — check first whether the required period exceeded one year (Sessions Judge reference required), then check the three-year absolute ceiling, then check which imprisonment type applies to their specific track."
+      }
+    },
+    {
+      "number": "142",
+      "title": "Power to release persons imprisoned for failing to give security",
+      "raw_text": "142. Power to release persons imprisoned for failing to give security.—(1) Whenever the District Magistrate in the case of an order passed by an Executive Magistrate under section 136, or the Chief Judicial Magistrate in any other case is of opinion that any person imprisoned for failing to give security under this Chapter may be released without hazard to the community or to any other person, he may order such person to be discharged.\n    (2) Whenever any person has been imprisoned for failing to give security under this Chapter, the High Court or Court of Session, or, where the order was made by any other Court, District Magistrate, in the case of an order passed by an Executive Magistrate under section 136, or the Chief Judicial Magistrate in any other case, may make an order reducing the amount of the security or the number of sureties or the time for which security has been required.\n    (3) An order under sub-section (1) may direct the discharge of such person either without conditions or upon any conditions which such person accepts:\n    Provided that any condition imposed shall cease to be operative when the period for which such person was ordered to give security has expired.\n    (4) The State Government may prescribe, by rules, the conditions upon which a conditional discharge may be made.\n    (5) If any condition upon which any person has been discharged is, in the opinion of District Magistrate, in the case of an order passed by an Executive Magistrate under section 136, or the Chief Judicial Magistrate in any other case by whom the order of discharge was made or of his successor, not fulfilled, he may cancel the same.\n    (6) When a conditional order of discharge has been cancelled under sub-section (5), such person may be arrested by any police officer without warrant, and shall thereupon be produced before the District Magistrate, in the case of an order passed by an Executive Magistrate under section 136, or the Chief Judicial Magistrate in any other case.\n    (7) Unless such person gives security in accordance with the terms of the original order for the unexpired portion of the term for which he was in the first instance committed or ordered to be detained (such portion being deemed to be a period equal to the period between the date of the breach of the conditions of discharge and the date on which, except for such conditional discharge, he would have been entitled to release), District Magistrate, in the case of an order passed by an Executive Magistrate under section 136, or the Chief Judicial Magistrate in any other case may remand such person to prison to undergo such unexpired portion.\n    (8) A person remanded to prison under sub-section (7) shall, subject to the provisions of section 141, be released at any time on giving security in accordance with the terms of the original order for the unexpired portion aforesaid to the Court or Magistrate by whom such order was made, or to its or his successor.\n    (9) The High Court or Court of Session may at any time, for sufficient reasons to be recorded in writing, cancel any bond for keeping the peace or for good behaviour executed under this Chapter by any order made by it, and District Magistrate, in the case of an order passed by an Executive Magistrate under section 136, or the Chief Judicial Magistrate in any other case may make such cancellation where such bond was executed under his order or under the order of any other Court in his district.\n    (10) Any surety for the peaceable conduct or good behaviour of another person ordered to execute a bond under this Chapter may at any time apply to the Court making such order to cancel the bond and on such application being made, the Court shall issue a summons or warrant, as it thinks fit, requiring the person for whom such surety is bound to appear or to be brought before it.",
+      "key_terms": [
+        "district magistrate",
+        "chief judicial magistrate",
+        "conditional discharge",
+        "remand",
+        "high court",
+        "court of session"
+      ],
+      "breakdown": {
+        "plain_summary": "The Chapter's safety-valve/clemency section, closing it out. It gives senior authorities — the District Magistrate (for Executive Magistrate orders under Section 136) or the Chief Judicial Magistrate (for other cases) — power to release, on their own opinion, a person imprisoned for security default who can safely be let out without hazarding the community. Separately, the High Court, Court of Session, or the same District Magistrate/Chief Judicial Magistrate can reduce the security amount, number of sureties, or the time period, easing the terms without a full release. Release can be unconditional or conditional (conditions automatically lapse once the original security period would have expired anyway); the State Government can prescribe by rule what kinds of conditions are permissible. If a conditionally-discharged person breaches their conditions, they can be re-arrested without warrant and brought before the releasing authority, then remanded to serve out the unexpired portion of their original sentence unless they now give the required security — though they can still buy their way out at any point during that remand by finally giving the security. Independently, the High Court/Court of Session (or the District Magistrate/Chief Judicial Magistrate in their own district) can cancel any peace/good-behaviour bond outright for recorded sufficient reasons. And finally, a surety themselves — not just the principal — can apply to be released from their own surety obligation, triggering a summons/warrant to bring the principal back before the Court to sort out a replacement arrangement.",
+        "essential_elements": [
+          "Release power vested in the District Magistrate (Section 136 orders) or Chief Judicial Magistrate (other cases), on their opinion that release is safe.",
+          "Separate power (High Court/Sessions Court or District/Chief Judicial Magistrate) to reduce security amount, surety count, or time period without full release.",
+          "Conditional discharge is permitted; conditions automatically lapse at the original security period's expiry; the State Government can prescribe permissible conditions by rule.",
+          "Breach of discharge conditions: warrantless arrest, production before the releasing authority, and possible remand for the unexpired portion — avoidable by finally furnishing the security.",
+          "Independent bond-cancellation power for the High Court/Sessions Court (any time, recorded reasons) or the District/Chief Judicial Magistrate (within their own district's orders).",
+          "A surety can apply to be discharged from their own obligation, triggering process to bring the principal back before the Court."
+        ],
+        "exceptions_and_qualifications": [
+          "The 'unexpired portion' calculation on remand under sub-section (7) is specifically tied to the gap between the conditional-discharge breach date and the date the person would otherwise have been entitled to release — not simply the full original term.",
+          "Remand under sub-section (7) remains subject to Section 141's rules (e.g., the three-year absolute imprisonment cap), so it isn't an unlimited re-imprisonment power."
+        ],
+        "how_to_read": "Read this as the release/relief counterpart to Section 141's enforcement machinery — whenever a client has been imprisoned for security default, this is the section to check for a path back out, whether via outright release, term reduction, or conditional discharge."
       }
     }
   ]
