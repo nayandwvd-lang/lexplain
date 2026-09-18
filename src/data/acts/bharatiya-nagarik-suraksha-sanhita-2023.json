@@ -193,7 +193,11 @@
     "compound": "To settle or resolve a criminal case by private agreement between the complainant/victim and the accused, permitted only for certain offences specified by law, resulting in acquittal of the accused.",
     "summary trial": "An abbreviated trial procedure (Chapter XXII) for certain minor offences, in which the Magistrate follows summons-case procedure but with a simplified, condensed record and judgment, and a maximum sentence of three months' imprisonment.",
     "plea bargaining": "A pre-trial process (Chapter XXIII) in which an accused, having applied voluntarily, negotiates with the prosecution/complainant and victim to work out a mutually satisfactory disposition of the case -- typically involving compensation to the victim and a reduced sentence -- in exchange for the accused's cooperation, without a full contested trial.",
-    "probation": "A method of dealing with certain offenders, particularly first-time or less serious offenders, by releasing them under supervision or on a bond of good conduct instead of, or after, imposing an ordinary sentence of imprisonment."
+    "probation": "A method of dealing with certain offenders, particularly first-time or less serious offenders, by releasing them under supervision or on a bond of good conduct instead of, or after, imposing an ordinary sentence of imprisonment.",
+    "special leave petition": "A discretionary petition filed directly before the Supreme Court of India under Article 136 of the Constitution, seeking permission to appeal against any judgment, decree, determination, sentence, or order passed by any court or tribunal in the country.",
+    "writ petition": "A petition filed before the High Court (under Articles 226 and 227 of the Constitution) or the Supreme Court, invoking the court's constitutional power to issue directions, orders, or writs for the enforcement of fundamental rights or for any other purpose, or to exercise superintendence over subordinate courts and tribunals.",
+    "set off": "The process of crediting, or deducting, a period the accused has already spent in detention (e.g., as an undertrial) against the total term of imprisonment ultimately imposed as a sentence, so the accused does not serve that period twice.",
+    "non obstante clause": "A statutory clause (typically beginning \"notwithstanding\") that gives the provision it introduces overriding effect over anything inconsistent in other provisions of the same or another law."
   },
   "sections": [
     {
@@ -6914,6 +6918,128 @@
           "Although the negotiation process itself (sections 290-292) involves in-camera examination and private meetings, the final judgment must still be delivered publicly in open Court -- transparency is restored at the final disposal stage."
         ],
         "how_to_read": "Read this as the formal capstone converting the negotiated section 293 disposal into an enforceable judicial judgment -- open delivery and signature giving it the same dignity and public accountability as any other judgment under the Sanhita, even though it results from a negotiated rather than a contested process."
+      }
+    },
+    {
+      "number": "295",
+      "title": "Finality of judgment",
+      "raw_text": "295. Finality of judgment.—The judgment delivered by the Court under this section shall be final and\nno appeal (except the special leave petition under article 136 and writ petition under articles 226 and 227\nof the Constitution) shall lie in any Court against such judgment.",
+      "key_terms": [
+        "special leave petition",
+        "writ petition",
+        "judgment"
+      ],
+      "breakdown": {
+        "plain_summary": "A judgment delivered under the plea-bargaining disposal process is final. An ordinary appeal to a higher court is not available -- the only routes left open are the Supreme Court's discretionary special leave petition under Article 136 of the Constitution, or a writ petition under Articles 226/227 (to the High Court) or Article 227 (supervisory jurisdiction).",
+        "essential_elements": [
+          "The judgment delivered under section 294 (which itself gives effect to the disposal under section 293) is final.",
+          "No ordinary statutory appeal lies against such a judgment in any court.",
+          "Two narrow constitutional exceptions survive: a special leave petition under Article 136, and a writ petition under Articles 226 and 227."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a deliberate trade-off for the accused: the reduced sentence and procedural speed of plea bargaining come at the cost of giving up the ordinary right of appeal.",
+          "The constitutional remedies that remain are extraordinary and discretionary in nature, not a matter of right the way a statutory appeal would be."
+        ],
+        "how_to_read": "Read this as the finality half of the plea-bargaining bargain -- the accused gets a sentencing discount and a quick disposal, but accepts that the judgment is effectively unappealable except through the Constitution's own supervisory and discretionary jurisdictions."
+      }
+    },
+    {
+      "number": "296",
+      "title": "Power of Court in plea bargaining",
+      "raw_text": "296. Power of Court in plea bargaining.—A Court shall have, for the purposes of discharging its\nfunctions under this Chapter, all the powers vested in respect of bail, trial of offences and other matters\nrelating to the disposal of a case in such Court under this Sanhita.",
+      "key_terms": [
+        "bail",
+        "trial",
+        "disposal of case"
+      ],
+      "breakdown": {
+        "plain_summary": "While handling a plea-bargaining case, the Court retains every power it would otherwise have under the Sanhita for that class of case -- bail, conducting a trial, and any other matter connected with disposing of the case. Plea bargaining does not strip the Court of its ordinary powers; it simply adds an additional procedural track.",
+        "essential_elements": [
+          "The Court exercises its plea-bargaining functions under this Chapter using the same powers it holds generally under the Sanhita.",
+          "This expressly includes powers relating to bail.",
+          "It also includes powers relating to trial of offences and other matters relating to disposal of a case."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a general saving/continuity provision -- it exists so that no one can argue the Court is powerless to grant bail or manage the case simply because a plea-bargaining application is pending or being processed."
+      }
+    },
+    {
+      "number": "297",
+      "title": "Period of detention undergone by accused to be set off against sentence of imprisonment",
+      "raw_text": "297. Period of detention undergone by accused to be set off against sentence of imprisonment.—\nThe provisions of section 468 shall apply, for setting off the period of detention undergone by the accused\nagainst the sentence of imprisonment imposed under this Chapter, in the same manner as they apply in\nrespect of the imprisonment under other provisions of this Sanhita.",
+      "key_terms": [
+        "set off",
+        "detention",
+        "sentence"
+      ],
+      "breakdown": {
+        "plain_summary": "Any time the accused has already spent in detention is credited against the sentence of imprisonment imposed as part of a plea-bargaining disposal, exactly the same way it would be credited under the general set-off rule (section 468) for any other sentence under the Sanhita.",
+        "essential_elements": [
+          "Section 468's general set-off rule is imported wholesale into this Chapter.",
+          "It applies to the period of detention the accused underwent before or during the case.",
+          "It is set off against the sentence of imprisonment imposed under a plea-bargaining disposal in the same manner as it applies to ordinary sentences under the Sanhita."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short cross-reference provision -- it ensures an accused who takes the plea-bargaining route is not disadvantaged compared to one who goes through an ordinary trial when it comes to counting pre-sentence detention."
+      }
+    },
+    {
+      "number": "298",
+      "title": "Savings",
+      "raw_text": "298. Savings.—The provisions of this Chapter shall have effect notwithstanding anything inconsistent\ntherewith contained in any other provisions of this Sanhita and nothing in such other provisions shall be\nconstrued to constrain the meaning of any provision of this Chapter.\n    Explanation.—For the purposes of this Chapter, the expression \"Public Prosecutor\" has the meaning\nassigned to it under clause (v) of section 2 and includes an Assistant Public Prosecutor appointed under\nsection 19.",
+      "key_terms": [
+        "non obstante clause",
+        "Public Prosecutor",
+        "savings clause"
+      ],
+      "breakdown": {
+        "plain_summary": "The Plea Bargaining Chapter overrides any inconsistent provision found elsewhere in the Sanhita -- if another provision conflicts with this Chapter, this Chapter prevails, and that other provision cannot be used to narrow or cut down what this Chapter allows. It also clarifies that wherever this Chapter refers to the \"Public Prosecutor,\" that term carries its general definition from section 2(v) and also covers an Assistant Public Prosecutor appointed under section 19.",
+        "essential_elements": [
+          "This Chapter's provisions have effect notwithstanding anything inconsistent in any other provision of the Sanhita -- a non obstante (overriding) clause.",
+          "Nothing in those other provisions can be used to constrain or narrow the meaning of any provision in this Chapter.",
+          "The Explanation confirms \"Public Prosecutor\" in this Chapter has the section 2(v) meaning and includes an Assistant Public Prosecutor appointed under section 19."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat this as the Chapter's shield against conflicting-provision arguments -- if a party tries to invoke some other part of the Sanhita to defeat or dilute a plea-bargaining provision, this section resolves the conflict in the Chapter's favour."
+      }
+    },
+    {
+      "number": "299",
+      "title": "Statements of accused not to be used",
+      "raw_text": "299. Statements of accused not to be used.—Notwithstanding anything contained in any law for the\ntime being in force, the statements or facts stated by an accused in an application for plea bargaining filed\nunder section 290 shall not be used for any other purpose except for the purpose of this Chapter.",
+      "key_terms": [
+        "non obstante clause",
+        "plea bargaining",
+        "self-incrimination"
+      ],
+      "breakdown": {
+        "plain_summary": "Whatever the accused states, or admits as fact, in a plea-bargaining application cannot be used against them for any purpose outside this Chapter -- not in the ordinary trial if plea bargaining falls through, and not in any other proceeding. This overrides any other law that might otherwise allow such use.",
+        "essential_elements": [
+          "This provision operates notwithstanding anything in any other law currently in force -- it overrides contrary rules of evidence or procedure.",
+          "It covers statements or facts stated by the accused specifically in an application for plea bargaining filed under section 290.",
+          "Such statements cannot be used for any purpose except the purposes of this Chapter (i.e., the plea-bargaining process itself)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the confidentiality safeguard that makes plea bargaining practically usable -- without it, an accused whose application does not lead to a successful disposition (see section 292's fallback-to-ordinary-procedure branch) would be deterred from ever candidly engaging in the process, fearing their own words would be used against them at the ordinary trial that follows."
+      }
+    },
+    {
+      "number": "300",
+      "title": "Non-application of Chapter",
+      "raw_text": "300. Non-application of Chapter.—Nothing in this Chapter shall apply to any juvenile or child as\ndefined in section 2 of the Juvenile Justice (Care and Protection of Children) Act, 2015 (2 of 2016).",
+      "key_terms": [
+        "juvenile",
+        "child",
+        "Juvenile Justice Act"
+      ],
+      "breakdown": {
+        "plain_summary": "The entire Plea Bargaining Chapter is off-limits for juveniles or children as defined under the Juvenile Justice (Care and Protection of Children) Act, 2015 -- such persons are dealt with exclusively under that separate, specialised regime, not through plea bargaining under the Sanhita.",
+        "essential_elements": [
+          "This Chapter (Plea Bargaining) does not apply at all to a juvenile or child.",
+          "\"Juvenile\" or \"child\" here takes the definition from section 2 of the Juvenile Justice (Care and Protection of Children) Act, 2015."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A categorical carve-out -- if the accused is a juvenile or child under the 2015 Act's definition, plea bargaining under this Chapter simply does not apply to them; their case proceeds under the Juvenile Justice Act framework instead."
       }
     }
   ]
