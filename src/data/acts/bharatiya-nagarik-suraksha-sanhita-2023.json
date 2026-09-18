@@ -221,7 +221,10 @@
     "corporation": "As defined in section 342, an incorporated company or other body corporate, including a society registered under the Societies Registration Act, 1860 -- capable of being an accused and appointing a representative to stand in for it during an inquiry or trial.",
     "tender of pardon": "A conditional offer by a Chief Judicial Magistrate or a first-class Magistrate to an accomplice, promising immunity from prosecution for a serious offence in exchange for a full and true disclosure of all facts known to him about the offence and everyone else involved -- the accomplice who accepts becomes an approver and must testify as a prosecution witness.",
     "approver": "An accomplice who has accepted a tender of pardon under section 343 or 344 and, in exchange for immunity, is examined as a prosecution witness and must truthfully disclose everything he knows about the offence and all persons involved, on pain of being tried himself if he breaches the condition of pardon.",
-    "legal aid": "State-funded legal representation assigned to an accused person who is unrepresented and unable to afford an advocate, mandatory under section 341 once the Court identifies the need -- the practical mechanism giving effect to the constitutional right to a fair trial for indigent accused persons."
+    "legal aid": "State-funded legal representation assigned to an accused person who is unrepresented and unable to afford an advocate, mandatory under section 341 once the Court identifies the need -- the practical mechanism giving effect to the constitutional right to a fair trial for indigent accused persons.",
+    "day-to-day trial": "The default rule (section 346(1)) that an inquiry or trial must proceed continuously, on successive days, until all attending witnesses have been examined, unless the Court records reasons for adjourning beyond the following day -- aimed at preventing indefinite drift in criminal proceedings.",
+    "local inspection": "A Judge's or Magistrate's visit to the scene of an alleged offence, or any other place relevant to properly appreciating the evidence, conducted after due notice to the parties, with a memorandum of observed facts recorded and made part of the case record.",
+    "specimen": "A sample of a person's signature, finger impressions, handwriting, or voice, which a first-class Magistrate may order a person (including an accused) to provide for the purposes of an investigation or proceeding, ordinarily only if the person has been arrested in connection with that matter."
   },
   "sections": [
     {
@@ -8006,6 +8009,105 @@
           "The mandatory-acquittal outcome in sub-section (5) is an unusually strong statutory command (\"notwithstanding anything contained in this Sanhita\") -- it protects an approver who genuinely kept his end of the bargain from being convicted regardless of other procedural considerations."
         ],
         "how_to_read": "This is the accountability backstop for the approver system in sections 343-344 -- it ensures the pardon is a real bargain with real consequences on both sides: honour it and be acquitted as a matter of law, breach it and face trial (with a burden-shifting compliance plea as the approver's chief procedural shield)."
+      }
+    },
+    {
+      "number": "346",
+      "title": "Power to postpone or adjourn proceedings",
+      "raw_text": "346. Power to postpone or adjourn proceedings.—(1) In every inquiry or trial the proceedings shall\nbe continued from day-to-day basis until all the witnesses in attendance have been examined, unless the\nCourt finds the adjournment of the same beyond the following day to be necessary for reasons to be\nrecorded:\n    Provided that when the inquiry or trial relates to an offence under section 64, section 65, section 66,\nsection 67, section 68, section 70 or section 71 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023) the\ninquiry or trial shall be completed within a period of two months from the date of filing of the chargesheet.\n    (2) If the Court, after taking cognizance of an offence, or commencement of trial, finds it necessary or\nadvisable to postpone the commencement of, or adjourn, any inquiry or trial, it may, from time to time, for\nreasons to be recorded, postpone or adjourn the same on such terms as it thinks fit, for such time as it\nconsiders reasonable, and may by a warrant remand the accused if in custody:\n    Provided that no Court shall remand an accused person to custody under this section for a term\nexceeding fifteen days at a time:\n    Provided further that when witnesses are in attendance, no adjournment or postponement shall be\ngranted, without examining them, except for special reasons to be recorded in writing:\n    Provided also that no adjournment shall be granted for the purpose only of enabling the accused person\nto show cause against the sentence proposed to be imposed on him:\n    Provided also that—\n       (a) no adjournment shall be granted at the request of a party, except where the circumstances are\n    beyond the control of that party;\n        (b) where the circumstances are beyond the control of a party, not more than two adjournments\n    may be granted by the Court after hearing the objections of the other party and for the reasons to be\n    recorded in writing;\n        (c) the fact that the advocate of a party is engaged in another Court, shall not be a ground for\n    adjournment;\n         (d) where a witness is present in Court but a party or his advocate is not present or the party or his\n    advocate though present in Court, is not ready to examine or cross-examine the witness, the Court may,\n    if thinks fit, record the statement of the witness and pass such orders as it thinks fit dispensing with the\n    examination-in-chief or cross-examination of the witness, as the case may be.\n    Explanation 1.—If sufficient evidence has been obtained to raise a suspicion that the accused may have\ncommitted an offence, and it appears likely that further evidence may be obtained by a remand, this is a\nreasonable cause for a remand.\n    Explanation 2.—The terms on which an adjournment or postponement may be granted include, in\nappropriate cases, the payment of costs by the prosecution or the accused.",
+      "key_terms": [
+        "day-to-day trial",
+        "adjournment"
+      ],
+      "breakdown": {
+        "plain_summary": "The default rule is continuous, day-to-day trial until all attending witnesses are examined -- adjourning beyond the next day needs recorded reasons. Rape and related sexual-offence trials (under the specified Bharatiya Nyaya Sanhita sections) must be completed within two months of the chargesheet being filed. Separately, the Court can postpone or adjourn proceedings for reasons it records, on whatever reasonable terms and timeframe it thinks fit, and can remand an accused in custody for up to fifteen days at a time. But adjournment is tightly hedged: witnesses already in attendance generally must be examined before any adjournment (barring special written reasons); adjournments can't be granted merely to let the accused argue against his proposed sentence; party-requested adjournments are barred unless caused by circumstances beyond that party's control, and even then capped at two after hearing the other side; an advocate's engagement elsewhere is never a valid ground; and if a witness is present but a party/advocate isn't ready, the Court can simply record the witness's statement and dispense with examination-in-chief or cross-examination as it sees fit. Two Explanations clarify that a genuine reasonable-suspicion-plus-likely-further-evidence scenario justifies remand, and that adjournment terms can include a costs order against either side.",
+        "essential_elements": [
+          "Sub-section (1) default rule: proceedings continue day-to-day until all attending witnesses are examined, absent recorded reasons for adjournment beyond the next day.",
+          "Proviso: trials for specified Bharatiya Nyaya Sanhita sexual-offence sections (64, 65, 66, 67, 68, 70, 71) must conclude within two months of chargesheet filing.",
+          "Sub-section (2): the Court may postpone/adjourn for recorded reasons, on terms and for a time it considers reasonable, remanding an accused in custody if applicable.",
+          "Proviso: custody remand under this section is capped at fifteen days at a time.",
+          "Proviso: attending witnesses generally must be examined before any adjournment, barring special written reasons.",
+          "Proviso: no adjournment solely to let the accused show cause against a proposed sentence.",
+          "Final proviso set: party-requested adjournments barred unless circumstances are beyond that party's control; even then capped at two adjournments after hearing objections; an advocate's engagement in another Court is never a valid ground; and the Court may record a present witness's statement and dispense with examination-in-chief/cross-examination if a party/advocate is absent or unready.",
+          "Explanation 1: reasonable suspicion of guilt plus likelihood of further evidence from a remand is a valid reason for remand.",
+          "Explanation 2: adjournment terms may include a costs order against the prosecution or the accused."
+        ],
+        "exceptions_and_qualifications": [
+          "The two-month completion deadline is specific to certain sexual-offence trials under the Bharatiya Nyaya Sanhita, not a general rule for all trials.",
+          "The two-adjournment cap for party-caused delays, and the total bar on advocate-elsewhere as a ground, are significant restrictions compared to older, looser adjournment practice."
+        ],
+        "how_to_read": "This section reflects a deliberate legislative push against the chronic problem of trial delay in Indian courts -- the day-to-day continuity default, the hard cap on party-requested adjournments, the elimination of \"advocate busy elsewhere\" as an excuse, and the witness-present-but-party-absent dispensing power are all targeted anti-delay mechanisms, with the two-month sexual-offence deadline signalling particular urgency for that category of cases."
+      }
+    },
+    {
+      "number": "347",
+      "title": "Local inspection",
+      "raw_text": "347. Local inspection.—(1) Any Judge or Magistrate may, at any stage of any inquiry, trial or other\nproceeding, after due notice to the parties, visit and inspect any place in which an offence is alleged to have\nbeen committed, or any other place which it is in his opinion necessary to view for the purpose of properly\nappreciating the evidence given at such inquiry or trial, and shall without unnecessary delay record a\nmemorandum of any relevant facts observed at such inspection.\n    (2) Such memorandum shall form part of the record of the case and if the prosecutor, complainant or\naccused or any other party to the case, so desires, a copy of the memorandum shall be furnished to him free\nof cost.",
+      "key_terms": [
+        "local inspection"
+      ],
+      "breakdown": {
+        "plain_summary": "A Judge or Magistrate, at any stage of an inquiry, trial, or other proceeding, can personally visit and inspect the alleged crime scene or any other place he thinks it necessary to see in order to properly understand the evidence -- but only after giving the parties due notice. He must promptly record a memorandum of whatever relevant facts he observed. That memorandum becomes part of the official case record, and the prosecutor, complainant, accused, or any other party can get a free copy if they want one.",
+        "essential_elements": [
+          "Applies at any stage of an inquiry, trial, or other proceeding.",
+          "The Judge/Magistrate may visit and inspect the alleged offence scene, or any other place necessary to properly appreciate the evidence -- after due notice to the parties.",
+          "He must, without unnecessary delay, record a memorandum of relevant facts observed during the inspection.",
+          "The memorandum forms part of the case record, and a free copy must be furnished to the prosecutor, complainant, accused, or any other party on request."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This gives the trial Judge/Magistrate a direct, first-hand evidentiary tool -- rather than relying solely on witness descriptions or photographs of a scene, he can see it himself, with the notice requirement and recorded memorandum ensuring the parties know what was observed and can respond to it just like any other piece of evidence."
+      }
+    },
+    {
+      "number": "348",
+      "title": "Power to summon material witness, or examine person present",
+      "raw_text": "348. Power to summon material witness, or examine person present.—Any Court may, at any stage\nof any inquiry, trial or other proceeding under this Sanhita, summon any person as a witness, or examine\nany person in attendance, though not summoned as a witness, or re-call and re-examine any person already\nexamined; and the Court shall summon and examine or re-call and re-examine any such person if his\nevidence appears to it to be essential to the just decision of the case.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "At any stage of any inquiry, trial, or proceeding, a Court can summon a new witness, question someone who happens to be present even if never formally summoned, or bring back and re-examine a witness already examined. This is not merely discretionary in the essential-evidence scenario -- the Court must do so whenever it appears that person's evidence is essential to reaching a just decision in the case.",
+        "essential_elements": [
+          "Applies at any stage of any inquiry, trial, or other proceeding.",
+          "The Court may: (i) summon any person as a witness; (ii) examine any person in attendance even if not summoned; or (iii) re-call and re-examine any person already examined.",
+          "Mandatory duty: the Court shall exercise this power whenever the person's evidence appears essential to a just decision of the case."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a broad truth-seeking power for the Court, independent of what the prosecution or defence choose to present -- it operationalises the principle that criminal trials exist to find the truth and do justice, not merely to referee the parties' chosen evidence, and the mandatory duty clause (\"shall\") makes clear this is a real obligation whenever essential evidence is identified, not just an optional courtesy."
+      }
+    },
+    {
+      "number": "349",
+      "title": "Power of Magistrate to order person to give specimen signatures or handwriting, etc",
+      "raw_text": "349. Power of Magistrate to order person to give specimen signatures or handwriting, etc.—If a\nMagistrate of the first class is satisfied that, for the purposes of any investigation or proceeding under this\nSanhita, it is expedient to direct any person, including an accused person, to give specimen signatures or\nfinger impressions or handwriting or voice sample, he may make an order to that effect and in that case the\nperson to whom the order relates shall be produced or shall attend at the time and place specified in such\norder and shall give his specimen signatures or finger impressions or handwriting or voice sample:\n    Provided that no order shall be made under this section unless the person has at some time been arrested\nin connection with such investigation or proceeding:\n    Provided further that the Magistrate may, for the reasons to be recorded in writing, order any person to\ngive such specimen or sample without him being arrested.",
+      "key_terms": [
+        "specimen"
+      ],
+      "breakdown": {
+        "plain_summary": "If a first-class Magistrate is satisfied it's expedient, for the purposes of an investigation or proceeding, to have any person -- including the accused -- provide specimen signatures, finger impressions, handwriting, or a voice sample, he can order it. The person must then attend or be produced at the specified time and place and give the required specimen. Ordinarily this power can only be exercised against someone who has, at some point, been arrested in connection with that matter. But the Magistrate can bypass that arrest requirement, for reasons recorded in writing, and order the specimen from someone who hasn't been arrested.",
+        "essential_elements": [
+          "Requires satisfaction of a first-class Magistrate that it's expedient, for an investigation/proceeding, to direct specimen signatures, finger impressions, handwriting, or a voice sample from any person, including the accused.",
+          "The order requires the person to be produced or attend at a specified time/place and provide the specimen/sample.",
+          "Proviso 1: ordinarily, such an order can only be made against someone who has at some point been arrested in connection with the investigation/proceeding.",
+          "Proviso 2: the Magistrate may, for written reasons, order the specimen from a person without requiring prior arrest."
+        ],
+        "exceptions_and_qualifications": [
+          "The arrest-linkage requirement is the default rule, but is expressly overridable by the Magistrate with recorded reasons -- not an absolute bar."
+        ],
+        "how_to_read": "Voice samples were a notable, technology-driven addition alongside the traditional signature/fingerprint/handwriting specimens, reflecting modern investigative techniques (e.g., matching recorded calls); the arrest-linkage safeguard, with its written-reasons override, balances investigative utility against the risk of compelling specimens from people with only a tenuous connection to a case."
+      }
+    },
+    {
+      "number": "350",
+      "title": "Expenses of complainants and witnesses",
+      "raw_text": "350. Expenses of complainants and witnesses.—Subject to any rules made by the State Government,\nany Criminal Court may, if it thinks fit, order payment, on the part of the Government, of the reasonable\nexpenses of any complainant or witness attending for the purposes of any inquiry, trial or other proceeding\nbefore such Court under this Sanhita.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Subject to whatever rules the State Government has made, any Criminal Court can, at its discretion, order the Government to pay the reasonable expenses incurred by a complainant or witness who attends an inquiry, trial, or other proceeding before that Court.",
+        "essential_elements": [
+          "Subject to State Government rules on the subject.",
+          "Any Criminal Court may, if it thinks fit, order Government payment of the reasonable expenses of a complainant or witness attending its proceedings."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical support provision reducing the financial burden of participating in the criminal justice system on complainants and witnesses, who might otherwise be discouraged from attending or cooperating due to the cost of travel, lost wages, or other attendance-related expenses."
       }
     }
   ]
