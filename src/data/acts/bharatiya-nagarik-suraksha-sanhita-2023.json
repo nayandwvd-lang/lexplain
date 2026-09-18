@@ -19,7 +19,7 @@
     "inquiry": "Every inquiry, other than a trial, conducted under the Sanhita by a Magistrate or Court.",
     "investigation": "All proceedings under the Sanhita for the collection of evidence, conducted by a police officer or a person authorised by a Magistrate.",
     "judicial proceeding": "Any proceeding in the course of which evidence is or may legally be taken on oath.",
-    "local jurisdiction": "The local area within which a Court or Magistrate may exercise its or his powers under the Sanhita.",
+    "local jurisdiction": "The geographical area over which a particular court has authority to inquire into and try offences, ordinarily the district or region assigned to it.",
     "non-cognizable offence": "An offence for which a police officer has no authority to arrest without a warrant and cannot investigate without the order of a Magistrate — typically a less serious category of offence, as classified in the First Schedule to this Sanhita.",
     "non-cognizable case": "A case involving a non-cognizable offence.",
     "notification": "A notification published in the Official Gazette.",
@@ -152,7 +152,11 @@
     "inquest": "A preliminary police or magisterial inquiry into the apparent cause of an unnatural or suspicious death, aimed at establishing how the death occurred before any formal offence investigation begins.",
     "civil surgeon": "A government-appointed medical officer, typically heading district-level medical services, designated to conduct post-mortem and other medico-legal examinations under criminal procedure law.",
     "further investigation": "Additional investigation conducted by police into an offence after a final report has already been forwarded to the Magistrate, upon discovery of fresh oral or documentary evidence.",
-    "chargesheet": "The common name for the police report filed under section 193 (the erstwhile 'charge-sheet') at the conclusion of investigation, stating whether an offence appears to have been committed and by whom, forming the basis for the Magistrate to take cognizance."
+    "chargesheet": "The common name for the police report filed under section 193 (the erstwhile 'charge-sheet') at the conclusion of investigation, stating whether an offence appears to have been committed and by whom, forming the basis for the Magistrate to take cognizance.",
+    "continuing offence": "An offence that is not complete in a single act but continues to be committed over time and potentially across more than one place, such as ongoing unlawful confinement or continuing nuisance.",
+    "dacoity": "Robbery committed jointly by five or more persons, a specifically defined and aggravated form of robbery under the Bharatiya Nyaya Sanhita.",
+    "criminal breach of trust": "An offence where a person entrusted with property, or with dominion over property, dishonestly misappropriates or converts it to their own use in violation of that trust.",
+    "venue": "The particular court or place, among those otherwise having jurisdiction, where a case is actually inquired into or tried."
   },
   "sections": [
     {
@@ -4647,6 +4651,132 @@
           "\"May\" for ordinary section 194(1) deaths versus \"shall\" for the seven-years-of-marriage and custodial categories is the key mandatory/discretionary distinction to note when advising on whether a judicial inquiry is legally compulsory."
         ],
         "how_to_read": "Read sub-section (1) as calibrating mandatory-versus-discretionary Magistrate involvement based on the type of section 194 death, sub-section (2) as the separate and especially weighty custodial-death/rape trigger, and sub-sections (3)-(6) as the procedural machinery (evidence recording, disinterment power, family notice, medical examination timeline) for conducting that inquiry once triggered."
+      }
+    },
+    {
+      "number": "197",
+      "title": "Ordinary place of inquiry and trial",
+      "raw_text": "197. Ordinary place of inquiry and trial.—Every offence shall ordinarily be inquired into and tried\n    by a Court within whose local jurisdiction it was committed.",
+      "key_terms": [
+        "local jurisdiction",
+        "venue"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XIV, the Sanhita's rules on where a case should be heard. The default, common-sense rule is territorial: a case is normally inquired into and tried by the court whose geographic jurisdiction covers the place where the offence actually happened. Everything else in this Chapter carves out special situations — offences spanning multiple areas, offences with effects felt elsewhere, offences committed electronically, and so on — where this simple rule doesn't cleanly apply.",
+        "essential_elements": [
+          "The general/default rule for venue in criminal cases",
+          "The relevant court is the one with local jurisdiction over the place where the offence was committed",
+          "Applies unless one of the Chapter's special venue rules displaces it"
+        ],
+        "exceptions_and_qualifications": [
+          "The word \"ordinarily\" signals this is a default, not an absolute rule — the sections that follow displace it for specific fact patterns."
+        ],
+        "how_to_read": "Treat this as the baseline against which every other section in this Chapter is an exception or clarification for a particular kind of case."
+      }
+    },
+    {
+      "number": "198",
+      "title": "Place of inquiry or trial",
+      "raw_text": "198. Place of inquiry or trial.—(a) When it is uncertain in which of several local areas an offence was\n    committed; or\n    (b) where an offence is committed partly in one local area and partly in another; or\n    (c) where an offence is a continuing one, and continues to be committed in more local areas than\n    one; or\n    (d) where it consists of several acts done in different local areas, it may be inquired into or tried by a\n    Court having jurisdiction over any of such local areas.",
+      "key_terms": [
+        "continuing offence",
+        "local jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "This handles offences that don't neatly belong to a single place. If it's unclear exactly which area the offence occurred in, if it straddles two areas, if it's a continuing offence unfolding across multiple areas over time, or if it's really a series of acts spread across different places, then any one of the courts covering those areas can validly hear the case — the prosecution isn't stuck guessing the single 'correct' venue.",
+        "essential_elements": [
+          "Applies to four scenarios: uncertain location, offence spanning two areas, continuing offence across multiple areas, and offences made up of several acts in different areas",
+          "In any of these scenarios, a court with jurisdiction over any of the areas involved may inquire into or try the case"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read the four clauses (a)-(d) as a checklist of multi-location fact patterns, all resolved the same way: jurisdiction attaches to any of the implicated areas, giving flexibility rather than a single fixed venue."
+      }
+    },
+    {
+      "number": "199",
+      "title": "Offence triable where act is done or consequence ensues",
+      "raw_text": "199. Offence triable where act is done or consequence ensues.—When an act is an offence by reason\n    of anything which has been done and of a consequence which has ensued, the offence may be inquired into\n    or tried by a Court within whose local jurisdiction such thing has been done or such consequence has\n    ensued.",
+      "key_terms": [
+        "local jurisdiction",
+        "venue"
+      ],
+      "breakdown": {
+        "plain_summary": "Some offences are defined by both an act and a resulting consequence — for example, an assault (the act) that causes death (the consequence) elsewhere. This section says the case can be tried either where the act was done or where the consequence occurred, whichever is more convenient — the prosecution isn't forced to prove venue only at the place of the original act if the harm actually materialised somewhere else.",
+        "essential_elements": [
+          "Applies where an offence is defined by an act plus a consequence that flows from it",
+          "Venue may be either where the act was done or where the consequence ensued"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A classic example is where an injury is inflicted in one place but the victim dies in another — either location's court has jurisdiction under this rule."
+      }
+    },
+    {
+      "number": "200",
+      "title": "Place of trial where act is an offence by reason of relation to other offence",
+      "raw_text": "200. Place of trial where act is an offence by reason of relation to other offence.—When an act is\n    an offence by reason of its relation to any other act which is also an offence or which would be an offence\n    if the doer were capable of committing an offence, the first-mentioned offence may be inquired into or tried\n    by a Court within whose local jurisdiction either act was done.",
+      "key_terms": [
+        "local jurisdiction",
+        "venue"
+      ],
+      "breakdown": {
+        "plain_summary": "Some offences (like abetment, or receiving stolen property) are only offences because of their relationship to another act — the underlying crime. This section allows the case about the dependent offence to be tried either where that offence itself happened or where the related underlying act happened, even covering the situation where the person who did the underlying act couldn't themselves be prosecuted (for instance, a minor or someone of unsound mind) — the relational offence can still be tried at either location.",
+        "essential_elements": [
+          "Applies where an act is criminal only because of its relation to another act that is (or would be) an offence",
+          "Covers the situation where the person doing the related act wasn't capable of committing an offence (e.g., minority, unsoundness of mind)",
+          "Venue lies in the jurisdiction where either act was done"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Think of this as the venue rule for accessory-type offences (abetment, receiving stolen property, harbouring an offender) whose criminality derives from another act — jurisdiction follows either location."
+      }
+    },
+    {
+      "number": "201",
+      "title": "Place of trial in case of certain offences",
+      "raw_text": "201. Place of trial in case of certain offences.—(1) Any offence of dacoity, or of dacoity with murder,\n    of belonging to a gang of dacoits, or of escaping from custody, may be inquired into or tried by a Court\n    within whose local jurisdiction the offence was committed or the accused person is found.\n    (2) Any offence of kidnapping or abduction of a person may be inquired into or tried by a Court within\n    whose local jurisdiction the person was kidnapped or abducted or was conveyed or concealed or detained.\n    (3) Any offence of theft, extortion or robbery may be inquired into or tried by a Court within whose\n    local jurisdiction the offence was committed or the stolen property which is the subject of the offence was\n    possessed by any person committing it or by any person who received or retained such property knowing\n    or having reason to believe it to be stolen property.\n    (4) Any offence of criminal misappropriation or of criminal breach of trust may be inquired into or tried\n    by a Court within whose local jurisdiction the offence was committed or any part of the property which is\n    the subject of the offence was received or retained, or was required to be returned or accounted for, by the\n    accused person.\n    (5) Any offence which includes the possession of stolen property may be inquired into or tried by a\n    Court within whose local jurisdiction the offence was committed or the stolen property was possessed by\n    any person who received or retained it knowing or having reason to believe it to be stolen property.",
+      "key_terms": [
+        "dacoity",
+        "kidnapping",
+        "criminal breach of trust",
+        "stolen property",
+        "venue"
+      ],
+      "breakdown": {
+        "plain_summary": "This section lays down bespoke, offence-specific venue rules for crimes that inherently involve movement — of people, of stolen goods, or of offenders themselves. Dacoity (gang robbery), dacoity with murder, belonging to a gang of dacoits, and escape from custody can be tried either where committed or wherever the accused is later found — recognising that these offenders often flee. Kidnapping/abduction can be tried anywhere along the chain: where the person was taken, conveyed, concealed, or detained — not just the original abduction spot. Theft, extortion, and robbery can be tried where committed or wherever the stolen property later turns up in someone's possession. The same possession-based venue applies to criminal misappropriation/breach of trust (tied to where entrusted property was received, retained, or was due to be accounted for) and to standalone possession-of-stolen-property offences.",
+        "essential_elements": [
+          "Dacoity/dacoity-with-murder/gang-membership/escape from custody: venue where committed OR where the accused is found",
+          "Kidnapping/abduction: venue where the person was kidnapped, abducted, conveyed, concealed, or detained",
+          "Theft/extortion/robbery: venue where committed OR where the stolen property was possessed, received, or retained by anyone (offender or handler)",
+          "Criminal misappropriation/breach of trust: venue where committed OR where the entrusted property was received, retained, or was due to be accounted for",
+          "Possession of stolen property (as a standalone offence): venue where committed OR where the property was possessed by a knowing/suspecting receiver"
+        ],
+        "exceptions_and_qualifications": [
+          "These are deliberately broad, multi-venue rules designed to prevent offenders who move goods or victims across jurisdictions from evading trial through venue technicalities."
+        ],
+        "how_to_read": "Treat each sub-section as a distinct offence-category rule; the common thread across all five is that venue follows wherever the person, property, or offender physically ends up, not just the original crime scene."
+      }
+    },
+    {
+      "number": "202",
+      "title": "Offences committed by means of electronic communications, letters, etc.",
+      "raw_text": "202. Offences committed by means of electronic communications, letters, etc.—(1) Any offence\n    which includes cheating, may, if the deception is practised by means of electronic communications or letters\n    or telecommunication messages, be inquired into or tried by any Court within whose local jurisdiction such\n    electronic communications or letters or messages were sent or were received; and any offence of cheating\n    and dishonestly inducing delivery of property may be inquired into or tried by a Court within whose local\n    jurisdiction the property was delivered by the person deceived or was received by the accused person.\n    (2) Any offence punishable under section 82 of the Bharatiya Nyaya Sanhita, 2023 may be inquired\n    into or tried by a Court within whose local jurisdiction the offence was committed or the offender last\n    resided with his or her spouse by the first marriage, or the wife by the first marriage has taken up permanent\n    residence after the commission of the offence.",
+      "key_terms": [
+        "cheating",
+        "electronic communications",
+        "venue",
+        "bigamy"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the modern, remote-crime venue rule. Where cheating is committed via electronic communication, letters, or telecom messages — the classic online fraud or phishing scenario — the case can be tried wherever those messages were sent OR wherever they were received, covering both the offender's and the victim's ends. For the specific offence of cheating that induces someone to hand over property, venue also extends to wherever the deceived person delivered the property or wherever the accused received it. Sub-section (2) handles bigamy (BNS section 82): venue can be where the offence was committed, where the offender last lived with their first spouse, or where the first wife has since taken up permanent residence — recognising that a bigamous second marriage might happen far from where the abandoned first spouse now lives, and she shouldn't have to travel to a distant court to pursue the case.",
+        "essential_elements": [
+          "Cheating via electronic communication/letters/telecom: venue where messages were sent OR received",
+          "Cheating and dishonestly inducing delivery of property: venue also extends to where property was delivered or received",
+          "Bigamy (BNS section 82): venue where committed, where the offender last resided with the first spouse, or where the first wife has taken up permanent residence after the offence"
+        ],
+        "exceptions_and_qualifications": [
+          "This section reflects deliberate modernisation for digital-era offences, giving victims of remote/online cheating a local venue option rather than forcing them to travel to the offender's location.",
+          "The bigamy venue rule is specifically protective of the first wife's convenience, letting her pursue the case near her own current residence."
+        ],
+        "how_to_read": "Read sub-section (1) as the general remote-communication cheating rule (both ends of the communication, plus both ends of any property transfer), and sub-section (2) as a distinct, victim-protective venue rule specific to bigamy."
       }
     }
   ]
