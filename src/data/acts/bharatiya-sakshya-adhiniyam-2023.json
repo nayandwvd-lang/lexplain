@@ -35,7 +35,10 @@
     "judicial notice": "The Court's acceptance of certain facts as true without requiring formal proof, because they are so well established, notorious, or officially ascertainable (e.g., laws in force, international treaties, Court seals, the national flag) that demanding evidence of them would be pointless. Section 52 lists the facts a Court must judicially notice; section 51 confirms such facts need not be proved.",
     "primary evidence": "The document itself, produced for the Court's inspection -- the gold standard of documentary proof under section 57. Includes each part of a multi-part document, each counterpart signed by the party against whom it is used, each uniformly-produced copy (e.g., each printed placard from one run) as evidence of the others (but not of a common original), and several electronic-record scenarios (simultaneously/sequentially stored files, records from proper custody, simultaneously stored video, and multiple automated storage copies including temporary files).",
     "computer output": "Information contained in an electronic record that has been printed on paper, or stored/recorded/copied on optical, magnetic, or semiconductor media, produced by a computer or communication device. Under section 63, computer output is deemed a 'document' and is admissible without producing the original or further proof, but only if the four reliability conditions in section 63(2) are met and a signed certificate under section 63(4) is produced along with it.",
-    "electronic evidence certificate": "The signed certificate required by section 63(4) whenever electronic/digital 'computer output' is tendered in evidence. It must identify the electronic record and how it was produced, give particulars of the producing device, and address the reliability conditions in section 63(2) -- given to the best of the signer's knowledge and belief. Without it, computer output generally cannot be admitted through the section 63 route, making the certificate a practical precondition to admissibility, not a mere formality."
+    "electronic evidence certificate": "The signed certificate required by section 63(4) whenever electronic/digital 'computer output' is tendered in evidence. It must identify the electronic record and how it was produced, give particulars of the producing device, and address the reliability conditions in section 63(2) -- given to the best of the signer's knowledge and belief. Without it, computer output generally cannot be admitted through the section 63 route, making the certificate a practical precondition to admissibility, not a mere formality.",
+    "attesting witness": "A person who has signed a document to testify that they witnessed its execution (e.g., its signing) by the person who made it. Under section 67, a document that the law requires to be attested (such as a will or a mortgage deed) generally cannot be used as evidence until at least one living, traceable, competent attesting witness has been called to prove its execution -- subject to the registered-document proviso and the fallback routes in sections 68-70 when no attesting witness is available or willing to confirm it.",
+    "electronic signature": "A method of authenticating an electronic record, as defined under the Information Technology Act, 2000. Section 66 requires proof that an alleged electronic signature actually belongs to the person it is attributed to -- except where it is a 'secure electronic signature', which carries a stronger presumption and does not need this proof.",
+    "notice to produce": "A formal request by one party to the other, before or during trial, to produce a specified document for inspection or to be tendered in evidence. Under section 64, if a party who has such notice fails to produce the original document when called upon, the party who gave the notice may then prove its contents by secondary evidence -- unless one of the six listed exceptions applies (e.g., the document is itself meant to put the other side on notice, or is in the possession of a stranger, or its production would incriminate the holder)."
   },
   "sections": [
     {
@@ -1374,6 +1377,139 @@
           "The subsection (4) certificate is a mandatory precondition to admissibility under this section, not a mere formality -- without it, the computer output cannot be admitted through this route (a point emphasised in Supreme Court jurisprudence on the predecessor provision)."
         ],
         "how_to_read": "The most practice-critical section in the electronic-evidence scheme: always insist on (or prepare) the subsection (4) certificate whenever tendering electronic evidence -- call logs, CCTV footage, WhatsApp chats, server logs, CDRs. Missing or defective certificates are a standard, often fatal, ground of objection. Walk through the four subsection (2) conditions like a checklist when drafting or challenging a certificate, and remember subsection (3)'s single-device fiction when the record passed through a chain of systems or an intermediary."
+      }
+    },
+    {
+      "number": "64",
+      "title": "Rules as to notice to produce",
+      "raw_text": "64. Secondary evidence of the contents of the documents referred to in clause (a) of section 60, shall not be given unless the party proposing to give such secondary evidence has previously given to the party in whose possession or power the document is, or to his advocate or representative, such notice to produce it as is prescribed by law; and if no notice is prescribed by law, then such notice as the Court considers reasonable under the circumstances of the case:\nProvided that such notice shall not be required in order to render secondary evidence admissible in any of the following cases, or in any other case in which the Court thinks fit to dispense with it:—\n(a) when the document to be proved is itself a notice;\n(b) when, from the nature of the case, the adverse party must know that he will be required to produce it;\n(c) when it appears or is proved that the adverse party has obtained possession of the original by fraud or force;\n(d) when the adverse party or his agent has the original in Court;\n(e) when the adverse party or his agent has admitted the loss of the document;\n(f) when the person in possession of the document is out of reach of, or not subject to, the process of the Court.",
+      "key_terms": [
+        "notice to produce"
+      ],
+      "breakdown": {
+        "plain_summary": "Fills in the procedural precondition for section 60(a)'s secondary-evidence route: before you can rely on secondary evidence because the opposing party won't produce the original, you must first have given them (or their advocate) notice to produce it -- whatever form of notice the law prescribes, or a reasonable one if none is prescribed. Six situations, plus a residual judicial discretion, dispense with this notice requirement entirely.",
+        "essential_elements": [
+          "General rule: secondary evidence under section 60(a) requires prior notice to produce the original, given to the possessing party, their advocate, or representative.",
+          "The notice must follow whatever form is legally prescribed; absent a prescribed form, whatever the Court considers reasonable in the circumstances."
+        ],
+        "exceptions_and_qualifications": [
+          "Six proviso exceptions dispense with notice: the document is itself a notice; the adverse party would obviously know production was required; the adverse party obtained the original by fraud or force; the adverse party already has it in Court; the adverse party has admitted its loss; or the possessor is out of the Court's reach.",
+          "The Court also has a residual discretion to dispense with notice in any other case it thinks fit."
+        ],
+        "how_to_read": "A procedural gatekeeper -- don't assume section 60(a)'s secondary-evidence route is automatically available just because the original is with the other side; check whether notice to produce was actually given, or whether one of the six proviso exceptions (or the Court's residual discretion) applies before relying on it."
+      }
+    },
+    {
+      "number": "65",
+      "title": "Proof of signature and handwriting of person alleged to have signed or written document produced",
+      "raw_text": "65. If a document is alleged to be signed or to have been written wholly or in part by any person, the signature or the handwriting of so much of the document as is alleged to be in that person's handwriting must be proved to be in his handwriting.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A straightforward proof requirement: if you're relying on a document because a particular person signed or wrote it (wholly or in part), you must actually prove that the signature or handwriting in question genuinely belongs to that person -- it isn't assumed just because the document says so.",
+        "essential_elements": [
+          "Applies whenever a document's signature or handwriting is attributed to a specific person.",
+          "That signature/handwriting must be affirmatively proved to be theirs -- covering the full extent alleged to be in their hand, whether the whole document or only part of it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Pairs naturally with section 41 (opinion evidence on handwriting) -- that's typically how this proof is discharged, via a witness acquainted with the handwriting, an expert comparison, or the person's own admission."
+      }
+    },
+    {
+      "number": "66",
+      "title": "Proof as to electronic signature",
+      "raw_text": "66. Except in the case of a secure electronic signature, if the electronic signature of any subscriber is alleged to have been affixed to an electronic record, the fact that such electronic signature is the electronic signature of the subscriber must be proved.",
+      "key_terms": [
+        "electronic signature",
+        "secure electronic signature"
+      ],
+      "breakdown": {
+        "plain_summary": "The digital counterpart to section 65: if an electronic record is alleged to bear a particular subscriber's electronic signature, that attribution must be proved -- unless it is a 'secure electronic signature', which is carved out of this proof requirement (because the law separately presumes its reliability).",
+        "essential_elements": [
+          "Applies to any alleged electronic signature of a subscriber affixed to an electronic record.",
+          "The link between the signature and the subscriber must be proved."
+        ],
+        "exceptions_and_qualifications": [
+          "Carve-out: secure electronic signatures don't need this proof -- their attribution is treated as reliable enough on its own."
+        ],
+        "how_to_read": "Mirrors section 65's logic for the digital world -- know the difference between an ordinary electronic signature (attribution must be proved) and a secure electronic signature (exempted from this proof requirement) when assessing what still needs to be established."
+      }
+    },
+    {
+      "number": "67",
+      "title": "Proof of execution of document required by law to be attested",
+      "raw_text": "67. If a document is required by law to be attested, it shall not be used as evidence until one attesting witness at least has been called for the purpose of proving its execution, if there be an attesting witness alive, and subject to the process of the Court and capable of giving evidence:\nProvided that it shall not be necessary to call an attesting witness in proof of the execution of any document, not being a will, which has been registered in accordance with the provisions of the Indian Registration Act, 1908, unless its execution by the person by whom it purports to have been executed is specifically denied.",
+      "key_terms": [
+        "attesting witness"
+      ],
+      "breakdown": {
+        "plain_summary": "For documents the law requires to be attested (wills, certain deeds), at least one living, reachable, competent attesting witness generally must be called before the document can be used as evidence -- attestation isn't self-proving. The proviso significantly narrows this in practice: for registered documents other than wills, you don't need to call an attesting witness at all, unless the person who supposedly executed it specifically denies having done so.",
+        "essential_elements": [
+          "General rule: a legally-required-to-be-attested document needs at least one attesting witness called to prove execution, IF such a witness is alive, within the Court's reach, and capable of giving evidence."
+        ],
+        "exceptions_and_qualifications": [
+          "Proviso: for registered documents (other than wills) under the Indian Registration Act, 1908, no attesting witness needs to be called at all -- unless the purported executant specifically denies executing it."
+        ],
+        "how_to_read": "In practice, most registered non-will documents skip the attesting-witness requirement entirely because of the proviso -- reserve the general rule mainly for wills and unregistered attestation-required documents. Watch for a specific denial of execution, which reopens the requirement even for registered documents."
+      }
+    },
+    {
+      "number": "68",
+      "title": "Proof where no attesting witness found",
+      "raw_text": "68. If no such attesting witness can be found, it must be proved that the attestation of one attesting witness at least is in his handwriting, and that the signature of the person executing the document is in the handwriting of that person.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "The fallback when section 67's attesting witness cannot be found (or, by extension, isn't alive/reachable/capable): instead of live testimony, you prove the attestation itself is in that witness's handwriting, and separately that the executant's signature is in the executant's own handwriting.",
+        "essential_elements": [
+          "Applies only when no qualifying attesting witness (per section 67) is available.",
+          "Requires proving: (1) the attestation is in the handwriting of at least one attesting witness, and (2) the executant's signature is in the executant's own handwriting."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A two-part handwriting-proof substitute for live attesting-witness testimony -- both elements are needed, not just one; proving the witness's handwriting alone doesn't establish that the executant actually signed it."
+      }
+    },
+    {
+      "number": "69",
+      "title": "Admission of execution by party to attested document",
+      "raw_text": "69. The admission of a party to an attested document of its execution by himself shall be sufficient proof of its execution as against him, though it be a document required by law to be attested.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A shortcut around the attestation-proof machinery: if the person who executed an attested document simply admits they executed it, that admission alone is sufficient proof of execution against them -- even though the document is legally required to be attested and would otherwise need an attesting witness under section 67.",
+        "essential_elements": [
+          "The admission must come from the party to the attested document, regarding their own execution of it.",
+          "That admission is sufficient proof of execution as against that party, overriding the usual attestation-witness requirement."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical shortcut -- if the executant admits execution, don't bother with attesting witnesses at all; the admission binds them directly. But note it only proves execution 'as against him' -- it doesn't necessarily bind other parties to the document."
+      }
+    },
+    {
+      "number": "70",
+      "title": "Proof when attesting witness denies execution",
+      "raw_text": "70. If the attesting witness denies or does not recollect the execution of the document, its execution may be proved by other evidence.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Closes a potential gap: if the attesting witness who was called under section 67 turns hostile (denies execution) or simply can't remember it, that doesn't kill the case -- execution can still be proved through other evidence.",
+        "essential_elements": [
+          "Triggered when a called attesting witness either denies the execution or does not recollect it.",
+          "Execution may then be proved by any other evidence, not limited to attesting-witness testimony."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read together with sections 67-69 as the complete toolkit for proving attested documents: call the witness (67); if unavailable, prove handwriting (68); if the executant admits it, that suffices (69); and if the witness is called but denies or forgets, fall back on other evidence (70)."
+      }
+    },
+    {
+      "number": "71",
+      "title": "Proof of document not required by law to be attested",
+      "raw_text": "71. An attested document not required by law to be attested may be proved as if it was unattested.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Clarifies that attestation which happens to appear on a document, but which the law didn't actually require, doesn't trigger sections 67-70's special attesting-witness machinery -- such a document can simply be proved through the ordinary rules, as if it carried no attestation at all.",
+        "essential_elements": [
+          "Applies to documents that are attested in fact, but not required by law to be attested.",
+          "Such documents may be proved by ordinary means, ignoring the attestation."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A useful distinction to keep straight: attestation only matters procedurally when the law mandates it (section 67). Voluntary or incidental attestation on a document that the law doesn't require to be attested is legally surplus for proof purposes."
       }
     }
   ]
