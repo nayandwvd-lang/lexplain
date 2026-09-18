@@ -210,7 +210,9 @@
     "interpreter": "A person appointed by a Criminal Court to translate evidence or statements from one language into another so that the Court, the accused, or another participant can understand proceedings conducted in an unfamiliar language.",
     "examination of accused": "The formal questioning of the accused by the Court (distinct from witness examination), during which the accused is given an opportunity to explain circumstances appearing in the evidence against him; recorded in full under section 316.",
     "interrogatories": "A formal written list of questions submitted by a party to a proceeding, to be put to a witness being examined on commission, on matters the Court or Magistrate directing the commission considers relevant to the case.",
-    "adjournment": "The postponement of a hearing, trial, or proceeding to a later date or time, here specifically to allow sufficient time for a commission to be executed and returned to the Court."
+    "adjournment": "The postponement of a hearing, trial, or proceeding to a later date or time, here specifically to allow sufficient time for a commission to be executed and returned to the Court.",
+    "gazetted officer": "A government official whose appointment, promotion, or transfer is published (\"gazetted\") in the official Gazette, marking a rank of formal seniority and authority -- here relevant to officers of Mints, Note/Security Printing Presses, and Forensic Departments whose reports can be used as evidence without their personal attendance.",
+    "deponent": "The person who makes a deposition or swears an affidavit -- i.e., the individual whose sworn or recorded statement is being relied upon as evidence."
   },
   "sections": [
     {
@@ -7548,6 +7550,135 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "A short, practical case-management provision that closes out Part B -- it gives the Court an explicit basis to pause proceedings for exactly as long as the commission process (sections 320-323) reasonably takes."
+      }
+    },
+    {
+      "number": "325",
+      "title": "Execution of foreign commissions",
+      "raw_text": "325. Execution of foreign commissions.—(1) The provisions of section 321 and so much of section\n322 and section 323 as relate to the execution of a commission and its return shall apply in respect of\ncommissions issued by any of the Courts, Judges or Magistrates hereinafter mentioned as they apply to\ncommissions issued under section 319.\n    (2) The Courts, Judges and Magistrates referred to in sub-section (1) are—\n       (a) any such Court, Judge or Magistrate exercising jurisdiction within an area in India to which this\n    Sanhita does not extend, as the Central Government may, by notification, specify in this behalf;\n         (b) any Court, Judge or Magistrate exercising jurisdiction in any such country or place outside\n    India, as the Central Government may, by notification, specify in this behalf, and having authority,\n    under the law in force in that country or place, to issue commissions for the examination of witnesses\n    in relation to criminal matters.",
+      "key_terms": [
+        "commission (examination on)",
+        "deposition"
+      ],
+      "breakdown": {
+        "plain_summary": "This section extends the commission-execution machinery of sections 321-323 (which were written for commissions issued by an Indian Court/Magistrate under section 319) to \"incoming\" commissions issued by outside authorities -- either a Court/Judge/Magistrate exercising jurisdiction within an India-based area to which the Sanhita doesn't extend, or a foreign Court/Judge/Magistrate with authority under its own country's law to issue such commissions -- provided the Central Government has notified that Court/Judge/Magistrate for this purpose. In effect, section 321's execution procedure and the execution/return portions of sections 322-323 apply equally when India is the one executing someone else's commission.",
+        "essential_elements": [
+          "Section 321 (execution using warrant-case powers) and the execution/return-related parts of sections 322 and 323 apply to commissions issued by the Courts/Judges/Magistrates listed in sub-section (2), just as they apply to section 319 commissions.",
+          "Sub-section (2)(a): covers a Court/Judge/Magistrate exercising jurisdiction within an India-based area to which the Sanhita does not extend, if notified by the Central Government.",
+          "Sub-section (2)(b): covers a Court/Judge/Magistrate exercising jurisdiction in a foreign country or place, notified by the Central Government, and having authority under that country's law to issue commissions for examining witnesses in criminal matters."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the reciprocal counterpart to sections 319-324 -- those sections govern India issuing commissions outward; this section governs India executing commissions received from certain notified outside authorities, borrowing the same execution/return procedural core."
+      }
+    },
+    {
+      "number": "326",
+      "title": "Deposition of medical witness",
+      "raw_text": "326. Deposition of medical witness.—(1) The deposition of a civil surgeon or other medical witness,\ntaken and attested by a Magistrate in the presence of the accused, or taken on commission under this\nChapter, may be given in evidence in any inquiry, trial or other proceeding under this Sanhita, although the\ndeponent is not called as a witness.\n   (2) The Court may, if it thinks fit, and shall, on the application of the prosecution or the accused,\nsummon and examine any such deponent as to the subject-matter of his deposition.",
+      "key_terms": [
+        "deposition",
+        "commission (examination on)"
+      ],
+      "breakdown": {
+        "plain_summary": "A civil surgeon's or other medical witness's deposition -- whether taken and attested by a Magistrate with the accused present, or taken on commission under this Chapter -- can be used as evidence even without the medical witness ever being called to testify in person. However, the Court can summon and examine that deponent on its own initiative if it thinks fit, and must do so if either the prosecution or the accused applies for it.",
+        "essential_elements": [
+          "Applies to depositions of a civil surgeon or other medical witness.",
+          "Qualifying route 1: taken and attested by a Magistrate in the presence of the accused.",
+          "Qualifying route 2: taken on commission under this Chapter (sections 319-325).",
+          "Such a deposition may be given in evidence without the deponent being called as a witness.",
+          "The Court may summon and examine the deponent on the subject-matter of the deposition at its own discretion, and must do so on application by either the prosecution or the accused."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical efficiency provision for a recurring category of formal, technical evidence (medical witness testimony) -- it avoids requiring every civil surgeon to personally attend trial, while preserving either party's absolute right to demand their live examination if they want to test the deposition's contents."
+      }
+    },
+    {
+      "number": "327",
+      "title": "Identification report of Magistrate",
+      "raw_text": "327. Identification report of Magistrate.—(1) Any document purporting to be a report of\nidentification under the hand of an Executive Magistrate in respect of a person or property may be used as\nevidence in any inquiry, trial or other proceeding under this Sanhita, although such Magistrate is not called\nas a witness:\n    Provided that where such report contains a statement of any suspect or witness to which the provisions\nof section 19, section 26, section 27, section 158 or section 160 of the Bharatiya Sakshya Adhiniyam, 2023,\napply, such statement shall not be used under this sub-section except in accordance with the provisions of\nthose sections.\n   (2) The Court may, if it thinks fit, and shall, on the application of the prosecution or of the accused,\nsummon and examine such Magistrate as to the subject-matter of the said report.",
+      "key_terms": [
+        "deponent"
+      ],
+      "breakdown": {
+        "plain_summary": "A document that purports to be an Executive Magistrate's identification report -- e.g., from a test identification parade of a person or property -- may be used as evidence without the Magistrate personally testifying. But if that report contains a statement from a suspect or witness that falls under specific evidence-law provisions (sections 19, 26, 27, 158, or 160 of the Bharatiya Sakshya Adhiniyam, 2023), that particular statement can only be used in line with those provisions' own conditions -- the identification-report shortcut doesn't override those safeguards. As with medical depositions, the Court can summon the Magistrate on its own initiative and must do so if either party applies.",
+        "essential_elements": [
+          "A document purporting to be an Executive Magistrate's identification report (person or property) may be used as evidence without the Magistrate being called as a witness.",
+          "Proviso: any suspect's/witness's statement within the report that falls under Bharatiya Sakshya Adhiniyam sections 19, 26, 27, 158, or 160 cannot bypass those sections' own conditions for use.",
+          "The Court may summon and examine the Magistrate as to the report's subject-matter if it thinks fit, and must do so on application of the prosecution or the accused."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso is a targeted carve-out -- it prevents this section's use-without-attendance shortcut from being used to smuggle in otherwise-restricted statements (e.g., confessions or statements requiring corroboration) via the identification report."
+        ],
+        "how_to_read": "Test identification parade (TIP) reports are a recurring and important category of pre-trial evidence in Indian criminal practice; this section streamlines their admission while the proviso carefully protects the integrity of the separate evidentiary rules governing suspect/witness statements captured within such reports."
+      }
+    },
+    {
+      "number": "328",
+      "title": "Evidence of officers of Mint",
+      "raw_text": "328. Evidence of officers of Mint.—(1) Any document purporting to be a report under the hand of a\ngazetted officer of any Mint or of any Note Printing Press or of any Security Printing Press (including the\nofficer of the Controller of Stamps and Stationery) or of any Forensic Department or Division of Forensic\nScience Laboratory or any Government Examiner of Questioned Documents or any State Examiner of\nQuestioned Documents as the Central Government may, by notification, specify in this behalf, upon any\nmatter or thing duly submitted to him for examination and report in the course of any proceeding under this\nSanhita, may be used as evidence in any inquiry, trial or other proceeding under this Sanhita, although such\nofficer is not called as a witness.\n    (2) The Court may, if it thinks fit, summon and examine any such officer as to the subject-matter of his\nreport:\n    Provided that no such officer shall be summoned to produce any records on which the report is based.\n    (3) Without prejudice to the provisions of sections 129 and 130 of the Bharatiya Sakshya Adhiniyam,\n2023, no such officer shall, except with the permission of the General Manager or any officer in charge of\nany Mint or of any Note Printing Press or of any Security Printing Press or of any Forensic Department or\nany officer in charge of the Forensic Science Laboratory or of the Government Examiner of Questioned\nDocuments Organisation or of the State Examiner of Questioned Documents Organisation be permitted—\n         (a) to give any evidence derived from any unpublished official records on which the report is based;\n    or\n         (b) to disclose the nature or particulars of any test applied by him in the course of the examination\n    of the matter or thing.",
+      "key_terms": [
+        "gazetted officer",
+        "deponent"
+      ],
+      "breakdown": {
+        "plain_summary": "A report from a gazetted officer at a Mint, Note/Security Printing Press, Forensic Department/Laboratory, or a Government/State Examiner of Questioned Documents (all as notified by the Central Government) can be used as evidence without the officer testifying in person -- for example, in cases involving counterfeit currency, forged documents, or forensic examination of questioned documents. The Court can, if it thinks fit, summon such an officer to explain the report, but cannot force him to produce the underlying records the report is based on. Further, without special permission from the relevant institutional head, the officer cannot testify about unpublished official records behind the report, or reveal the specific testing methods used -- protecting sensitive institutional and forensic-methodology information.",
+        "essential_elements": [
+          "Applies to reports by gazetted officers of: Mints, Note Printing Presses, Security Printing Presses (including the Controller of Stamps and Stationery's officer), Forensic Departments/Divisions of Forensic Science Laboratories, or Government/State Examiners of Questioned Documents -- as notified by the Central Government.",
+          "Such reports, on matters duly submitted for examination and report in a Sanhita proceeding, may be used as evidence without the officer being called as a witness.",
+          "The Court may, at its discretion, summon and examine such an officer as to the report's subject-matter.",
+          "Proviso to sub-section (2): the officer cannot be summoned to produce the underlying records on which the report is based.",
+          "Sub-section (3): without prejudice to Bharatiya Sakshya Adhiniyam sections 129-130, the officer may not (a) give evidence from unpublished official records behind the report, or (b) disclose the nature/particulars of tests applied -- except with the permission of the relevant General Manager/officer-in-charge/Organisation head."
+        ],
+        "exceptions_and_qualifications": [
+          "Institutional confidentiality is protected by requiring special permission before an officer can disclose unpublished records or testing methodology -- a deliberate limitation on what the Court's discretionary summons in sub-section (2) can extract."
+        ],
+        "how_to_read": "This provision balances two competing needs: making specialised institutional expertise (currency, security printing, forensic document examination) efficiently available as evidence, while shielding sensitive official records and forensic testing methods from casual disclosure absent institutional sign-off."
+      }
+    },
+    {
+      "number": "329",
+      "title": "Reports of certain Government scientific experts",
+      "raw_text": "329. Reports of certain Government scientific experts.— (1) Any document purporting to be a report\nunder the hand of a Government scientific expert to whom this section applies, upon any matter or thing\nduly submitted to him for examination or analysis and report in the course of any proceeding under this\nSanhita, may be used as evidence in any inquiry, trial or other proceeding under this Sanhita.\n    (2) The Court may, if it thinks fit, summon and examine any such expert as to the subject-matter of his\nreport.\n    (3) Where any such expert is summoned by a Court, and he is unable to attend personally, he may,\nunless the Court has expressly directed him to appear personally, depute any responsible officer working\nwith him to attend the Court, if such officer is conversant with the facts of the case and can satisfactorily\ndepose in Court on his behalf.\n    (4) This section applies to the following Government scientific experts, namely:—\n\n          (a) any Chemical Examiner or Assistant Chemical Examiner to Government;\n          (b) the Chief Controller of Explosives;\n          (c) the Director of the Finger Print Bureau;\n          (d) the Director, Haffkeine Institute, Bombay;\n         (e) the Director, Deputy Director or Assistant Director of a Central Forensic Science Laboratory\n     or a State Forensic Science Laboratory;\n          (f) the Serologist to the Government;\n         (g) any other scientific expert specified or certified, by notification, by the State Government or\n     the Central Government for this purpose.",
+      "key_terms": [
+        "gazetted officer",
+        "deponent"
+      ],
+      "breakdown": {
+        "plain_summary": "Reports from a defined list of Government scientific experts -- Chemical Examiners, the Chief Controller of Explosives, the Fingerprint Bureau Director, the Haffkeine Institute Director, Forensic Science Laboratory Directors/Deputy/Assistant Directors, the Government Serologist, or any other expert the State/Central Government notifies for this purpose -- can be used as evidence directly, without the expert personally testifying. The Court retains discretion to summon and examine such an expert. If summoned but personally unable to attend (and the Court hasn't expressly required personal appearance), the expert may depute a responsible officer familiar with the case facts to attend and depose on his behalf instead.",
+        "essential_elements": [
+          "Applies to reports by the Government scientific experts listed in sub-section (4): Chemical/Assistant Chemical Examiner; Chief Controller of Explosives; Director of the Finger Print Bureau; Director of the Haffkeine Institute, Bombay; Director/Deputy/Assistant Director of a Central or State Forensic Science Laboratory; the Serologist to the Government; and any other expert notified by the State or Central Government.",
+          "Such a report may be used as evidence in any inquiry, trial, or proceeding without the expert being called as a witness.",
+          "The Court may, at its discretion, summon and examine the expert as to the report's subject-matter.",
+          "If summoned and personally unable to attend, the expert may depute a responsible, case-conversant officer to attend and depose on his behalf -- unless the Court has expressly directed personal appearance."
+        ],
+        "exceptions_and_qualifications": [
+          "The deputation option is unavailable where the Court has expressly directed the expert himself to appear personally."
+        ],
+        "how_to_read": "This extends the same use-without-attendance efficiency as sections 328 and 326 to a broader, explicitly enumerated set of forensic/scientific Government experts, while sub-section (3)'s deputation mechanism pragmatically accommodates the reality that senior scientific officials often cannot personally attend every case their laboratory has touched."
+      }
+    },
+    {
+      "number": "330",
+      "title": "No formal proof of certain documents",
+      "raw_text": "330. No formal proof of certain documents.—(1) Where any document is filed before any Court by\nthe prosecution or the accused, the particulars of every such document shall be included in a list and the\nprosecution or the accused or the advocate for the prosecution or the accused, if any, shall be called upon\nto admit or deny the genuineness of each such document soon after supply of such documents and in no\ncase later than thirty days after such supply:\n    Provided that the Court may, in its discretion, relax the time limit with reasons to be recorded in writing:\n     Provided further that no expert shall be called to appear before the Court unless the report of such expert\nis disputed by any of the parties to the trial.\n    (2) The list of documents shall be in such form as the State Government may, by rules, provide.\n    (3) Where the genuineness of any document is not disputed, such document may be read in evidence in\nany inquiry, trial or other proceeding under this Sanhita without proof of the signature of the person by\nwhom it purports to be signed:\n    Provided that the Court may, in its discretion, require such signature to be proved.",
+      "key_terms": [
+        "deponent"
+      ],
+      "breakdown": {
+        "plain_summary": "When the prosecution or accused files documents in Court, the documents' particulars must be listed, and the parties (or their advocates) must be asked to admit or deny each document's genuineness -- normally within thirty days of the documents being supplied, though the Court can extend this with recorded reasons. Crucially, no expert needs to be called to testify unless a party actually disputes that expert's report. If genuineness of a document isn't disputed, it can simply be read into evidence without formally proving the signer's signature (though the Court retains discretion to still require signature proof).",
+        "essential_elements": [
+          "Applies to any document filed before a Court by the prosecution or the accused.",
+          "The particulars of every such document must be included in a list, and the parties/advocates called upon to admit or deny genuineness soon after supply, and not later than thirty days after supply.",
+          "Proviso 1: the Court may, in its discretion and with recorded reasons, relax this thirty-day time limit.",
+          "Proviso 2: no expert need be called to appear unless that expert's report is actually disputed by a party to the trial.",
+          "Sub-section (2): the list of documents follows a form prescribed by State Government rules.",
+          "Sub-section (3): if a document's genuineness is undisputed, it may be read into evidence without proving the purported signer's signature.",
+          "Proviso to sub-section (3): the Court may still, in its discretion, require the signature to be proved."
+        ],
+        "exceptions_and_qualifications": [
+          "The default is streamlined/no-formal-proof, but the Court keeps override discretion at two separate points: relaxing the 30-day admit/deny deadline, and requiring signature proof despite non-dispute."
+        ],
+        "how_to_read": "This is a significant trial-efficiency provision -- by forcing an early admit/deny exercise on documents and sparing undisputed material (and undisputed expert reports) from the burden of formal proof, it focuses trial time on genuinely contested evidence rather than routine authentication formalities."
       }
     }
   ]
