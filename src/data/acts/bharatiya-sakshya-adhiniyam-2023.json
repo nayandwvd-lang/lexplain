@@ -18,7 +18,10 @@
     "evidence": "Defined in section 2(1)(e) to mean and include both oral evidence (statements, including electronic statements, that a witness makes before the Court) and documentary evidence (documents, including electronic or digital records, produced for the Court's inspection).",
     "fact": "Defined in section 2(1)(f) to include any thing, state of things, or relation of things capable of being perceived by the senses, and any mental condition a person is conscious of -- covering both physical, observable facts and internal mental facts like intention or good faith.",
     "proved": "Defined in section 2(1)(j): a fact is “proved” when, after considering the matters before it, the Court either believes it exists, or considers its existence so probable that a prudent person ought to act on the supposition that it exists -- the basic evidentiary threshold applied throughout the Adhiniyam.",
-    "relevant": "Defined in section 2(1)(k): a fact is “relevant” to another when it is connected to it in one of the specific ways described in this Adhiniyam's provisions on relevancy of facts (sections 3 onward) -- relevance is not a matter of general logic or common sense alone, but of falling within one of these codified categories of connection."
+    "relevant": "Defined in section 2(1)(k): a fact is “relevant” to another when it is connected to it in one of the specific ways described in this Adhiniyam's provisions on relevancy of facts (sections 3 onward) -- relevance is not a matter of general logic or common sense alone, but of falling within one of these codified categories of connection.",
+    "conspiracy": "An agreement or common design between two or more persons to commit an offence or an actionable wrong. Section 8 makes anything said, done, or written by any one conspirator in reference to their common intention relevant against every other person believed to be part of the conspiracy, even if that person was unaware of the specific act or a stranger to the person who did it.",
+    "state of mind": "A person's intention, knowledge, good faith, negligence, rashness, ill-will, or goodwill towards someone -- an internal, mental fact. Section 12 makes facts showing the existence of a relevant state of mind (or of body/bodily feeling) relevant, but Explanation 1 requires the state of mind shown to relate specifically to the matter in question, not merely to a general disposition or character trait.",
+    "admission": "A statement -- oral, documentary, or in electronic form -- that suggests an inference as to a fact in issue or relevant fact, made by specified categories of persons under specified circumstances. Section 15 opens the Adhiniyam's dedicated sub-topic on admissions, which governs when such statements can be used as evidence against the person who (or whose privy) made them."
   },
   "sections": [
     {
@@ -177,6 +180,169 @@
           "Illustrations (j) and (k) draw a critical distinction: silently claiming to have been raped or robbed, without any accompanying complaint, is not relevant conduct under this section -- though it may still be admissible as a dying declaration under section 26(a) or as corroborative evidence under section 160."
         ],
         "how_to_read": "When arguing relevance of an accused's behaviour (fleeing, hiding evidence, staying silent, making a prompt complaint), classify it carefully: is it 'conduct' proper (subsection (2)), or is it really a 'statement' masquerading as conduct that Explanation 1 excludes unless it explains a physical act -- the prompt-complaint illustrations (j) and (k) show how easily the two get confused in practice."
+      }
+    },
+    {
+      "number": "7",
+      "title": "Facts necessary to explain or introduce fact in issue or relevant facts",
+      "raw_text": "7. Facts necessary to explain or introduce a fact in issue or relevant fact, or which support or rebut an inference suggested by a fact in issue or a relevant fact, or which establish the identity of anything, or person whose identity, is relevant, or fix the time or place at which any fact in issue or relevant fact happened, or which show the relation of parties by whom any such fact was transacted, are relevant in so far as they are necessary for that purpose.\nIllustrations.\n(a) The question is, whether a given document is the will of A. The state of A's property and of his family at the date of the alleged will may be relevant facts.\n(b) A sues B for a libel imputing disgraceful conduct to A; B affirms that the matter alleged to be libellous is true. The position and relations of the parties at the time when the libel was published may be relevant facts as introductory to the facts in issue. The particulars of a dispute between A and B about a matter unconnected with the alleged libel are irrelevant, though the fact that there was a dispute may be relevant if it affected the relations between A and B.\n(c) A is accused of a crime. The fact that, soon after the commission of the crime, A absconded from his house, is relevant under section 6, as conduct subsequent to and affected by facts in issue. The fact that, at the time when he left home, A had sudden and urgent business at the place to which he went, is relevant, as tending to explain the fact that he left home suddenly. The details of the business on which he left are not relevant, except in so far as they are necessary to show that the business was sudden and urgent.\n(d) A sues B for inducing C to break a contract of service made by him with A. C, on leaving A's service, says to A—“I am leaving you because B has made me a better offer”. This statement is a relevant fact as explanatory of C's conduct, which is relevant as a fact in issue.\n(e) A, accused of theft, is seen to give the stolen property to B, who is seen to give it to A's wife. B says as he delivers it—“A says you are to hide this”. B's statement is relevant as explanatory of a fact which is part of the transaction.\n(f) A is tried for a riot and is proved to have marched at the head of a mob. The cries of the mob are relevant as explanatory of the nature of the transaction.",
+      "key_terms": [
+        "fact in issue",
+        "relevant fact",
+        "identity"
+      ],
+      "breakdown": {
+        "plain_summary": "This section admits facts needed to explain, introduce, fix the time/place of, establish the identity connected with, or show the relations of the parties to, a fact in issue or relevant fact -- but only to the extent necessary for that explanatory purpose. It is a purpose-limited relevancy rule: the facts themselves may otherwise seem tangential, but they are admitted strictly to make sense of the facts in issue, not for their own sake.",
+        "essential_elements": [
+          "Facts necessary to explain or introduce a fact in issue or relevant fact are relevant.",
+          "Facts that support or rebut an inference suggested by a fact in issue or relevant fact are relevant.",
+          "Facts establishing the identity of anything or any person whose identity is relevant are covered.",
+          "Facts fixing the time or place at which a fact in issue or relevant fact happened are covered.",
+          "Facts showing the relation of the parties by whom a relevant transaction was carried out are covered.",
+          "In every case, such facts are relevant only in so far as necessary for the explanatory purpose -- not without limit."
+        ],
+        "exceptions_and_qualifications": [
+          "Illustration (c) shows the necessity limit in action: that the accused had urgent business is relevant to explain why he left suddenly, but the details of that business are not relevant beyond what is needed to show it was sudden and urgent."
+        ],
+        "how_to_read": "This is a 'connective tissue' relevancy rule -- it does not independently prove guilt or liability the way sections 4-6 do, but supplies the explanatory context (identity, timing, relationships, rebutting inferences) that makes the core facts in issue intelligible to the Court."
+      }
+    },
+    {
+      "number": "8",
+      "title": "Things said or done by conspirator in reference to common design",
+      "raw_text": "8. Where there is reasonable ground to believe that two or more persons have conspired together to commit an offence or an actionable wrong, anything said, done or written by any one of such persons in reference to their common intention, after the time when such intention was first entertained by any one of them, is a relevant fact as against each of the persons believed to be so conspiring, as well for the purpose of proving the existence of the conspiracy as for the purpose of showing that any such person was a party to it.\nIllustration.\nReasonable ground exists for believing that A has joined in a conspiracy to wage war against the State.\nThe facts that B procured arms in Europe for the purpose of the conspiracy, C collected money in Kolkata for a like object, D persuaded persons to join the conspiracy in Mumbai, E published writings advocating the object in view at Agra, and F transmitted from Delhi to G at Singapore the money which C had collected at Kolkata, and the contents of a letter written by H giving an account of the conspiracy, are each relevant, both to prove the existence of the conspiracy, and to prove A's complicity in it, although he may have been ignorant of all of them, and although the persons by whom they were done were strangers to him, and although they may have taken place before he joined the conspiracy or after he left it.",
+      "key_terms": [
+        "conspiracy",
+        "actionable wrong",
+        "common intention"
+      ],
+      "breakdown": {
+        "plain_summary": "This section lets what one conspirator said, did, or wrote in furtherance of a shared criminal or wrongful plan be used as evidence against every other member of the conspiracy -- even members who never met, never knew of that particular act, or joined the conspiracy after it happened. The only threshold requirement is 'reasonable ground to believe' a conspiracy exists in the first place.",
+        "essential_elements": [
+          "There must be reasonable ground to believe two or more persons conspired to commit an offence or an actionable wrong.",
+          "The statement, act, or writing must be by one of the conspirators, in reference to their common intention.",
+          "It must be after the time the common intention was first entertained by any one of them.",
+          "It is then relevant against each person believed to be a conspirator, both to prove the conspiracy exists and to prove that particular person's membership in it.",
+          "Per the illustration, this holds even if the person against whom it is used was ignorant of the act, a stranger to the person who did it, or joined/left the conspiracy before/after it occurred."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the evidentiary backbone of conspiracy prosecutions: it is what allows the prosecution to weave together acts of different co-conspirators, done in different places and even at different times relative to when a particular defendant joined, into a single case against each member -- but the 'reasonable ground to believe a conspiracy exists' threshold must be independently established first, usually from other evidence, before this section's expanded relevancy rule can be invoked."
+      }
+    },
+    {
+      "number": "9",
+      "title": "When facts not otherwise relevant become relevant",
+      "raw_text": "9. Facts not otherwise relevant are relevant—\n(1) if they are inconsistent with any fact in issue or relevant fact;\n(2) if by themselves or in connection with other facts they make the existence or non-existence of any fact in issue or relevant fact highly probable or improbable.\nIllustrations.\n(a) The question is, whether A committed a crime at Chennai on a certain day. The fact that, on that day, A was at Ladakh is relevant. The fact that, near the time when the crime was committed, A was at a distance from the place where it was committed, which would render it highly improbable, though not impossible, that he committed it, is relevant.\n(b) The question is, whether A committed a crime. The circumstances are such that the crime must have been committed either by A, B, C or D. Every fact which shows that the crime could have been committed by no one else, and that it was not committed by either B, C or D, is relevant.",
+      "key_terms": [
+        "fact in issue",
+        "relevant fact"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the Adhiniyam's version of the classic 'alibi' provision: facts that would otherwise have no relevancy connection at all become relevant if they are inconsistent with a fact in issue (like being provably elsewhere when a crime occurred), or if they make a fact in issue highly probable or improbable -- including by process of elimination among a fixed set of suspects.",
+        "essential_elements": [
+          "Clause (1): facts inconsistent with a fact in issue or relevant fact are relevant.",
+          "Clause (2): facts that, alone or combined with other facts, make a fact in issue or relevant fact highly probable or improbable are relevant."
+        ],
+        "exceptions_and_qualifications": [
+          "The standard is 'highly probable or improbable', not merely somewhat more or less likely -- a weak logical connection is not enough to trigger this section."
+        ],
+        "how_to_read": "This is the statutory basis for alibi evidence and elimination-style reasoning (illustration (b)'s closed set of possible perpetrators) -- both work by showing the fact in issue is either inconsistent with, or rendered highly improbable by, some other independently established fact."
+      }
+    },
+    {
+      "number": "10",
+      "title": "Facts tending to enable Court to determine amount are relevant in suits for damages",
+      "raw_text": "10. In suits in which damages are claimed, any fact which will enable the Court to determine the amount of damages which ought to be awarded, is relevant.",
+      "key_terms": [
+        "damages"
+      ],
+      "breakdown": {
+        "plain_summary": "In a suit claiming damages, any fact that helps the Court fix the correct amount to award is relevant -- a broad, purpose-driven relevancy rule specific to the damages-quantification stage of civil litigation.",
+        "essential_elements": [
+          "The suit must be one in which damages are claimed.",
+          "The fact must tend to enable the Court to determine the amount of damages that ought to be awarded."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section works alongside (not instead of) the liability-focused relevancy rules elsewhere in the Chapter -- facts irrelevant to whether the defendant is liable at all may still be relevant here, purely for quantifying what is owed once liability is established."
+      }
+    },
+    {
+      "number": "11",
+      "title": "Facts relevant when right or custom is in question",
+      "raw_text": "11. Where the question is as to the existence of any right or custom, the following facts are relevant—\n(a) any transaction by which the right or custom in question was created, claimed, modified, recognised, asserted or denied, or which was inconsistent with its existence;\n(b) particular instances in which the right or custom was claimed, recognised or exercised, or in which its exercise was disputed, asserted or departed from.\nIllustration.\nThe question is, whether A has a right to a fishery. A deed conferring the fishery on A's ancestors, a mortgage of the fishery by A's father, a subsequent grant of the fishery by A's father, irreconcilable with the mortgage, particular instances in which A's father exercised the right, or in which the exercise of the right was stopped by A's neighbours, are relevant facts.",
+      "key_terms": [
+        "right",
+        "custom",
+        "transaction"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a case turns on whether a claimed right or custom exists, two categories of facts become relevant: the transactions by which that right or custom was created, claimed, modified, recognised, asserted, denied, or contradicted; and specific instances in which it was actually claimed, recognised, exercised, disputed, or departed from in practice.",
+        "essential_elements": [
+          "The question in the case must be as to the existence of a right or custom.",
+          "Clause (a): transactions creating, claiming, modifying, recognising, asserting, or denying the right or custom -- or inconsistent with its existence -- are relevant.",
+          "Clause (b): particular instances where the right or custom was claimed, recognised, or exercised, or where its exercise was disputed, asserted, or departed from, are relevant."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is the evidentiary tool for proving rights of way, easements, fishery and grazing rights, and customary practices -- both the documentary paper trail (deeds, grants, mortgages) and the practical pattern of actual exercise (or challenge to exercise) of the right are independently admissible."
+      }
+    },
+    {
+      "number": "12",
+      "title": "Facts showing existence of state of mind, or of body or bodily feeling",
+      "raw_text": "12. Facts showing the existence of any state of mind, such as intention, knowledge, good faith, negligence, rashness, ill-will or goodwill towards any particular person, or showing the existence of any state of body or bodily feeling, are relevant, when the existence of any such state of mind or body or bodily feeling is in issue or relevant.\nExplanation 1.—A fact relevant as showing the existence of a relevant state of mind must show that the state of mind exists, not generally, but in reference to the particular matter in question.\nExplanation 2.—But where, upon the trial of a person accused of an offence, the previous commission by the accused of an offence is relevant within the meaning of this section, the previous conviction of such person shall also be a relevant fact.\nIllustrations.\n(a) A is accused of receiving stolen goods knowing them to be stolen. It is proved that he was in possession of a particular stolen article. The fact that, at the same time, he was in possession of many other stolen articles is relevant, as tending to show that he knew each and all of the articles of which he was in possession to be stolen.\n(b) A is accused of fraudulently delivering to another person a counterfeit currency which, at the time when he delivered it, he knew to be counterfeit. The fact that, at the time of its delivery, A was possessed of a number of other pieces of counterfeit currency is relevant. The fact that A had been previously convicted of delivering to another person as genuine a counterfeit currency knowing it to be counterfeit is relevant.\n(c) A sues B for damage done by a dog of B's, which B knew to be ferocious. The fact that the dog had previously bitten X, Y and Z, and that they had made complaints to B, are relevant.\n(d) The question is, whether A, the acceptor of a bill of exchange, knew that the name of the payee was fictitious. The fact that A had accepted other bills drawn in the same manner before they could have been transmitted to him by the payee if the payee had been a real person, is relevant, as showing that A knew that the payee was a fictitious person.\n(e) A is accused of defaming B by publishing an imputation intended to harm the reputation of B. The fact of previous publications by A respecting B, showing ill-will on the part of A towards B is relevant, as proving A's intention to harm B's reputation by the particular publication in question. The facts that there was no previous quarrel between A and B, and that A repeated the matter complained of as he heard it, are relevant, as showing that A did not intend to harm the reputation of B.\n(f) A is sued by B for fraudulently representing to B that C was solvent, whereby B, being induced to trust C, who was insolvent, suffered loss. The fact that, at the time when A represented C to be solvent, C was supposed to be solvent by his neighbours and by persons dealing with him, is relevant, as showing that A made the representation in good faith.\n(g) A is sued by B for the price of work done by B, upon a house of which A is owner, by the order of C, a contractor. A's defence is that B's contract was with C. The fact that A paid C for the work in question is relevant, as proving that A did, in good faith, make over to C the management of the work in question, so that C was in a position to contract with B on C's own account, and not as agent for A.\n(h) A is accused of the dishonest misappropriation of property which he had found, and the question is whether, when he appropriated it, he believed in good faith that the real owner could not be found. The fact that public notice of the loss of the property had been given in the place where A was, is relevant, as showing that A did not in good faith believe that the real owner of the property could not be found. The fact that A knew, or had reason to believe, that the notice was given fraudulently by C, who had heard of the loss of the property and wished to set up a false claim to it, is relevant, as showing that the fact that A knew of the notice did not disprove A's good faith.\n(i) A is charged with shooting at B with intent to kill him. In order to show A's intent, the fact of A's having previously shot at B may be proved.\n(j) A is charged with sending threatening letters to B. Threatening letters previously sent by A to B may be proved, as showing the intention of the letters.\n(k) The question is, whether A has been guilty of cruelty towards B, his wife. Expressions of their feeling towards each other shortly before or after the alleged cruelty are relevant facts.\n(l) The question is, whether A's death was caused by poison. Statements made by A during his illness as to his symptoms are relevant facts.\n(m) The question is, what was the state of A's health at the time when an assurance on his life was effected. Statements made by A as to the state of his health at or near the time in question are relevant facts.\n(n) A sues B for negligence in providing him with a car for hire not reasonably fit for use, whereby A was injured. The fact that B's attention was drawn on other occasions to the defect of that particular car is relevant. The fact that B was habitually negligent about the cars which he let to hire is irrelevant.\n(o) A is tried for the murder of B by intentionally shooting him dead. The fact that A on other occasions shot at B is relevant as showing his intention to shoot B. The fact that A was in the habit of shooting at people with intent to murder them is irrelevant.\n(p) A is tried for a crime. The fact that he said something indicating an intention to commit that particular crime is relevant. The fact that he said something indicating a general disposition to commit crimes of that class is irrelevant.",
+      "key_terms": [
+        "state of mind",
+        "good faith",
+        "negligence"
+      ],
+      "breakdown": {
+        "plain_summary": "This section admits facts showing a person's state of mind (intention, knowledge, good faith, negligence, rashness, ill-will, goodwill) or state of body/bodily feeling, wherever that mental or physical state is itself in issue or relevant. Explanation 1 is the critical limiting principle: the state of mind shown must relate specifically to the matter in question -- not be evidence of a general character trait or disposition. Explanation 2 carves out one exception: where a prior offence is relevant under this section to show state of mind, the prior conviction for it is also relevant.",
+        "essential_elements": [
+          "Facts showing intention, knowledge, good faith, negligence, rashness, ill-will, or goodwill are relevant when that state of mind is in issue or relevant.",
+          "Facts showing a state of body or bodily feeling are relevant on the same basis.",
+          "Explanation 1: the state of mind must be shown in reference to the particular matter in question, not as a general character trait.",
+          "Explanation 2: where a prior offence becomes relevant under this section, the previous conviction for it is also a relevant fact."
+        ],
+        "exceptions_and_qualifications": [
+          "Illustrations (o) and (p) draw the crucial line this section polices: specific prior acts directed at the same target, or a specific stated intention to commit the particular crime charged, are relevant -- but a general habit or general disposition to commit that class of crime is irrelevant."
+        ],
+        "how_to_read": "This is the codified boundary between admissible 'specific intent/knowledge' evidence and inadmissible 'propensity' or bad-character evidence -- Explanation 1 and illustrations (o)/(p) together are the standard authority cited whenever a party tries to introduce a pattern of similar past conduct to prove state of mind in the present case."
+      }
+    },
+    {
+      "number": "13",
+      "title": "Facts bearing on question whether act was accidental or intentional",
+      "raw_text": "13. When there is a question whether an act was accidental or intentional, or done with a particular knowledge or intention, the fact that such act formed part of a series of similar occurrences, in each of which the person doing the act was concerned, is relevant.\nIllustrations.\n(a) A is accused of burning down his house in order to obtain money for which it is insured. The facts that A lived in several houses successively each of which he insured, in each of which a fire occurred, and after each of which fires A received payment from a different insurance company, are relevant, as tending to show that the fires were not accidental.\n(b) A is employed to receive money from the debtors of B. It is A's duty to make entries in a book showing the amounts received by him. He makes an entry showing that on a particular occasion he received less than he really did receive. The question is, whether this false entry was accidental or intentional. The facts that other entries made by A in the same book are false, and that the false entry is in each case in favour of A, are relevant.\n(c) A is accused of fraudulently delivering to B a counterfeit currency. The question is, whether the delivery of the currency was accidental. The facts that, soon before or soon after the delivery to B, A delivered counterfeit currency to C, D and E are relevant, as showing that the delivery to B was not accidental.",
+      "key_terms": [
+        "accidental",
+        "intentional"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the 'doctrine of chances' provision: when it is disputed whether an act was accidental or intentional (or done with particular knowledge/intention), the fact that the same person was involved in a series of similar occurrences becomes relevant -- the improbability of the same 'accident' repeatedly happening to the same person tends to show it was not accidental at all.",
+        "essential_elements": [
+          "There must be a question whether the act was accidental or intentional, or done with particular knowledge or intention.",
+          "The fact relied on is that the act formed part of a series of similar occurrences.",
+          "The same person must have been concerned in each occurrence in the series."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a close cousin of section 12 but analytically distinct: section 12 asks whether prior acts show a state of mind directed at the specific matter in question, while section 13 asks whether the sheer repetition of a similar occurrence to the same person makes 'accident' an implausible explanation -- both often arise together on the same facts (as in illustration (a)'s repeated-fire scenario)."
+      }
+    },
+    {
+      "number": "14",
+      "title": "Existence of course of business when relevant",
+      "raw_text": "14. When there is a question whether a particular act was done, the existence of any course of business, according to which it naturally would have been done, is a relevant fact.\nIllustrations.\n(a) The question is, whether a particular letter was dispatched. The facts that it was the ordinary course of business for all letters put in a certain place to be carried to the post, and that particular letter was put in that place are relevant.\n(b) The question is, whether a particular letter reached A. The facts that it was posted in due course, and was not returned through the Return Letter Office, are relevant.",
+      "key_terms": [
+        "course of business"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the question is whether a particular act was actually done, evidence of a routine, established course of business according to which that act would naturally have occurred is relevant -- letting the Court infer that the usual practice was followed in the specific instance, absent evidence to the contrary.",
+        "essential_elements": [
+          "There must be a question whether a particular act was done.",
+          "The relevant fact is the existence of a course of business according to which the act naturally would have been done."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section underlies routine 'presumption of regularity' arguments -- proof of a standing office practice (like a mailroom routine) supports an inference that the specific act in question followed that same routine, without needing direct testimony about that one instance."
       }
     }
   ]
