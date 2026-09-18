@@ -32,7 +32,10 @@
     "legal character": "A person's legal status or standing -- such as being an heir, executor, spouse, or insolvent -- as opposed to their rights over a specific thing. Section 35 makes certain final judgments in probate, matrimonial, admiralty, or insolvency jurisdiction conclusive proof of when a legal character accrued, was declared, or ceased.",
     "expert": "A person specially skilled in foreign law, science, art, or any other field, or in questions of handwriting or finger-impression identity, whose opinion on a point within that field is relevant under section 39. The Examiner of Electronic Evidence under the Information Technology Act, 2000 is deemed an expert for opinions on electronic/digital information.",
     "character": "Under sections 46, 47, 49 and 50, 'character' includes both reputation (what others think of a person) and disposition (a person's actual nature). Except where section 49 permits otherwise, only evidence of general reputation and general disposition may be given -- not evidence of particular acts said to show that reputation or disposition.",
-    "judicial notice": "The Court's acceptance of certain facts as true without requiring formal proof, because they are so well established, notorious, or officially ascertainable (e.g., laws in force, international treaties, Court seals, the national flag) that demanding evidence of them would be pointless. Section 52 lists the facts a Court must judicially notice; section 51 confirms such facts need not be proved."
+    "judicial notice": "The Court's acceptance of certain facts as true without requiring formal proof, because they are so well established, notorious, or officially ascertainable (e.g., laws in force, international treaties, Court seals, the national flag) that demanding evidence of them would be pointless. Section 52 lists the facts a Court must judicially notice; section 51 confirms such facts need not be proved.",
+    "primary evidence": "The document itself, produced for the Court's inspection -- the gold standard of documentary proof under section 57. Includes each part of a multi-part document, each counterpart signed by the party against whom it is used, each uniformly-produced copy (e.g., each printed placard from one run) as evidence of the others (but not of a common original), and several electronic-record scenarios (simultaneously/sequentially stored files, records from proper custody, simultaneously stored video, and multiple automated storage copies including temporary files).",
+    "computer output": "Information contained in an electronic record that has been printed on paper, or stored/recorded/copied on optical, magnetic, or semiconductor media, produced by a computer or communication device. Under section 63, computer output is deemed a 'document' and is admissible without producing the original or further proof, but only if the four reliability conditions in section 63(2) are met and a signed certificate under section 63(4) is produced along with it.",
+    "electronic evidence certificate": "The signed certificate required by section 63(4) whenever electronic/digital 'computer output' is tendered in evidence. It must identify the electronic record and how it was produced, give particulars of the producing device, and address the reliability conditions in section 63(2) -- given to the best of the signer's knowledge and belief. Without it, computer output generally cannot be admitted through the section 63 route, making the certificate a practical precondition to admissibility, not a mere formality."
   },
   "sections": [
     {
@@ -1226,6 +1229,151 @@
           "Second proviso: for any material thing other than a document, the Court may, at its discretion, require the thing itself to be produced for inspection rather than relying solely on oral description."
         ],
         "how_to_read": "This is the statutory anchor for objecting to hearsay in oral testimony -- if a witness is testifying about something someone else told them (rather than what they personally saw/heard/perceived), it fails the section 55 direct-evidence test unless it independently qualifies under a specific hearsay exception elsewhere in the Act (e.g., admissions, dying declarations, res gestae). Keep the two provisos in mind as narrow, genuine exceptions -- expert treatises when the expert is unavailable, and the Court's power to call for the physical object itself."
+      }
+    },
+    {
+      "number": "56",
+      "title": "Proof of contents of documents",
+      "raw_text": "56. The contents of documents may be proved either by primary or by secondary evidence.",
+      "key_terms": [
+        "primary evidence",
+        "secondary evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "Opens Chapter V (Documentary Evidence) with the master division: whatever a document says can be proved in one of two ways -- primary evidence (the document itself) or secondary evidence (a substitute such as a certified copy or oral account). Sections 57-58 define each; sections 59-60 govern when the secondary route is actually allowed.",
+        "essential_elements": [
+          "Document contents can be proved only by primary evidence or secondary evidence -- no third route."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A one-line signpost. Read it together with sections 57 (primary evidence defined), 58 (secondary evidence defined), and 59-60 (which one you're allowed to use and when)."
+      }
+    },
+    {
+      "number": "57",
+      "title": "Primary evidence",
+      "raw_text": "57. Primary evidence means the document itself produced for the inspection of the Court.\nExplanation 1.—Where a document is executed in several parts, each part is primary evidence of the document.\nExplanation 2.—Where a document is executed in counterpart, each counterpart being executed by one or some of the parties only, each counterpart is primary evidence as against the parties executing it.\nExplanation 3.—Where a number of documents are all made by one uniform process, as in the case of printing, lithography or photography, each is primary evidence of the contents of the rest; but, where they are all copies of a common original, they are not primary evidence of the contents of the original.\nExplanation 4.—Where an electronic or digital record is created or stored, and such storage occurs simultaneously or sequentially in multiple files, each such file is primary evidence.\nExplanation 5.—Where an electronic or digital record is produced from proper custody, such electronic and digital record is primary evidence unless it is disputed.\nExplanation 6.—Where a video recording is simultaneously stored in electronic form and transmitted or broadcast or transferred to another, each of the stored recordings is primary evidence.\nExplanation 7.—Where an electronic or digital record is stored in multiple storage spaces in a computer resource, each such automated storage, including temporary files, is primary evidence.\nIllustration.\nA person is shown to have been in possession of a number of placards, all printed at one time from one original. Any one of the placards is primary evidence of the contents of any other, but no one of them is primary evidence of the contents of the original.",
+      "key_terms": [
+        "primary evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "Defines primary evidence as the document itself, then extends the concept through seven Explanations. Explanations 1-3 handle multi-part documents, counterparts, and uniformly-produced copies (each is primary evidence of the others, though not of a shared original they were all copied from). Explanations 4-7 -- new relative to the old Evidence Act -- extend the same logic to the digital world: simultaneously or sequentially stored electronic files, records from proper custody, simultaneously stored video recordings, and multiple automated/temporary storage copies are all treated as primary evidence in their own right.",
+        "essential_elements": [
+          "Core definition: the document itself, produced for the Court's inspection.",
+          "Explanation 1: each part of a multi-part document is primary evidence.",
+          "Explanation 2: each counterpart is primary evidence against the party who executed it.",
+          "Explanation 3: each copy from a uniform process (printing/lithography/photography) is primary evidence of the others' contents, but not of a common original they were all copied from.",
+          "Explanations 4-7: multiple electronic-record scenarios (simultaneous/sequential multi-file storage, proper-custody records, simultaneously stored video, and automated/temporary storage copies) are each treated as primary evidence."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The digital Explanations (4-7) are a deliberate modernisation over the old Evidence Act and matter a great deal in practice -- they mean a forensic image or a server-side copy of a file can itself be primary evidence, not merely secondary evidence of some other 'original', provided the storage/custody conditions in the relevant Explanation are met."
+      }
+    },
+    {
+      "number": "58",
+      "title": "Secondary evidence",
+      "raw_text": "58. Secondary evidence includes—\n(i) certified copies given under the provisions hereinafter contained;\n(ii) copies made from the original by mechanical processes which in themselves ensure the accuracy of the copy, and copies compared with such copies;\n(iii) copies made from or compared with the original;\n(iv) counterparts of documents as against the parties who did not execute them;\n(v) oral accounts of the contents of a document given by some person who has himself seen it;\n(vi) oral admissions;\n(vii) written admissions;\n(viii) evidence of a person who has examined a document, the original of which consists of numerous accounts or other documents which cannot conveniently be examined in Court, and who is skilled in the examination of such documents.\nIllustrations.\n(a) A photograph of an original is secondary evidence of its contents, though the two have not been compared, if it is proved that the thing photographed was the original.\n(b) A copy compared with a copy of a letter made by a copying machine is secondary evidence of the contents of the letter, if it is shown that the copy made by the copying machine was made from the original.\n(c) A copy transcribed from a copy, but afterwards compared with the original, is secondary evidence; but the copy not so compared is not secondary evidence of the original, although the copy from which it was transcribed was compared with the original.\n(d) Neither an oral account of a copy compared with the original, nor an oral account of a photograph or machine-copy of the original, is secondary evidence of the original.",
+      "key_terms": [
+        "secondary evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "Lists eight categories of secondary evidence -- everything that stands in for the document itself: certified copies, mechanically accurate copies (and copies compared with them), copies made from or compared with the original, counterparts against non-executing parties, oral accounts by an eyewitness to the document, oral and written admissions, and the summarised evidence of a skilled examiner where the originals are too numerous to conveniently examine in Court. The four illustrations draw a careful line: a copy is secondary evidence only if its chain back to the original is actually established -- an oral account of a mere copy, or of a photograph of a copy, is not secondary evidence of the original at all.",
+        "essential_elements": [
+          "Eight categories: certified copies; mechanically-accurate copies and copies compared with them; copies made from/compared with the original; counterparts against non-signing parties; eyewitness oral accounts of the document's contents; oral admissions; written admissions; and skilled-examiner evidence where originals are too numerous to examine."
+        ],
+        "exceptions_and_qualifications": [
+          "Illustrations (a)-(d) qualify the list: a copy or account is secondary evidence of the original only where the link back to the original (comparison, photographing the actual original, etc.) is established -- a copy of a copy, or an oral account of a photograph/machine-copy, breaks the chain and is not secondary evidence of the original."
+        ],
+        "how_to_read": "Treat the eight categories as a checklist when the original is unavailable and you need to fall back to secondary evidence under sections 59-60. But always verify the chain the illustrations describe -- a copy that hasn't actually been compared with or traced to the original does not qualify, however document-like it looks."
+      }
+    },
+    {
+      "number": "59",
+      "title": "Proof of documents by primary evidence",
+      "raw_text": "59. Documents shall be proved by primary evidence except in the cases hereinafter mentioned.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "States the default rule plainly: primary evidence (the document itself) is required to prove a document, unless one of the specific exceptions that follow (section 60) applies. Secondary evidence is the exception, not a free alternative.",
+        "essential_elements": [
+          "The general rule is primary evidence.",
+          "Secondary evidence is permitted only in the specific cases listed in section 60."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short but important framing section -- it establishes that section 60's list is exhaustive, not illustrative. If a case doesn't fit one of section 60's categories, secondary evidence isn't admissible for that document."
+      }
+    },
+    {
+      "number": "60",
+      "title": "Cases in which secondary evidence relating to documents may be given",
+      "raw_text": "60. Secondary evidence may be given of the existence, condition, or contents of a document in the following cases, namely: —\n(a) when the original is shown or appears to be in the possession or power—\n(i) of the person against whom the document is sought to be proved; or\n(ii) of any person out of reach of, or not subject to, the process of the Court; or\n(iii) of any person legally bound to produce it,\nand when, after the notice mentioned in section 64 such person does not produce it;\n(b) when the existence, condition or contents of the original have been proved to be admitted in writing by the person against whom it is proved or by his representative in interest;\n(c) when the original has been destroyed or lost, or when the party offering evidence of its contents cannot, for any other reason not arising from his own default or neglect, produce it in reasonable time;\n(d) when the original is of such a nature as not to be easily movable;\n(e) when the original is a public document within the meaning of section 74;\n(f) when the original is a document of which a certified copy is permitted by this Adhiniyam, or by any other law in force in India to be given in evidence;\n(g) when the originals consist of numerous accounts or other documents which cannot conveniently be examined in Court, and the fact to be proved is the general result of the whole collection.\nExplanation.—For the purposes of—\n(i) clauses (a), (c) and (d), any secondary evidence of the contents of the document is admissible;\n(ii) clause (b), the written admission is admissible;\n(iii) clause (e) or (f), a certified copy of the document, but no other kind of secondary evidence, is admissible;\n(iv) clause (g), evidence may be given as to the general result of the documents by any person who has examined them, and who is skilled in the examination of such document.",
+      "key_terms": [
+        "public document"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the operative exceptions list referenced by section 59 -- seven situations (a) to (g) where secondary evidence becomes admissible: the original is with the opposing party, an out-of-reach person, or someone legally bound to produce it (and they don't after notice); its contents are admitted in writing; it's destroyed, lost, or otherwise genuinely unobtainable in time; it's physically immovable; it's a public document; a certified copy is otherwise permitted by law; or the originals are too numerous to conveniently examine and only the general result matters. The Explanation then narrows what kind of secondary evidence is allowed for each category -- for public documents and law-permitted certified-copy documents, only a certified copy will do, not just any secondary evidence.",
+        "essential_elements": [
+          "Seven gateway categories (a)-(g): non-production after notice by a possessing/bound party; written admission of contents; loss/destruction/genuine unavailability; physical immovability; public documents; documents where certified copies are otherwise legally permitted; and numerous-accounts situations needing only a general result.",
+          "The Explanation tailors the permitted evidence type per category: clauses (a),(c),(d) allow any secondary evidence; clause (b) allows the written admission itself; clauses (e)/(f) allow ONLY a certified copy, no other secondary evidence; clause (g) allows a skilled examiner's evidence of the general result."
+        ],
+        "exceptions_and_qualifications": [
+          "Clauses (e) and (f) are a genuine narrowing, not a broadening -- even though the document qualifies for the secondary-evidence route, only a certified copy is admissible for it, other forms of secondary evidence (oral accounts, uncertified copies) will not do."
+        ],
+        "how_to_read": "Cross-reference clause (a) with section 64's notice-to-produce procedure -- secondary evidence under clause (a) is only available after that notice has been given and ignored. And always check the Explanation before assuming any secondary evidence will do; for public documents and certified-copy-permitted documents, insist on (or expect to have to produce) a certified copy specifically."
+      }
+    },
+    {
+      "number": "61",
+      "title": "Admissibility of electronic records",
+      "raw_text": "61. Nothing in this Adhiniyam shall apply to deny the admissibility of an electronic or digital record in the evidence on the ground that it is an electronic or digital record and such record shall, subject to section 63, have the same legal effect, validity and enforceability as other document.",
+      "key_terms": [
+        "electronic record"
+      ],
+      "breakdown": {
+        "plain_summary": "A non-discrimination clause for digital evidence: an electronic or digital record cannot be excluded merely because it is electronic, and it carries the same legal effect, validity, and enforceability as any other document -- subject only to meeting section 63's authentication conditions.",
+        "essential_elements": [
+          "Electronic/digital records cannot be denied admissibility solely because of their electronic/digital nature.",
+          "They have the same legal effect, validity, and enforceability as any other document.",
+          "This equal treatment is subject to section 63 -- the authentication conditions there still have to be satisfied."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read as the foundational 'no discrimination against digital evidence' principle, but don't stop here -- section 63 is where the actual admissibility conditions live, and compliance with it is not optional."
+      }
+    },
+    {
+      "number": "62",
+      "title": "Special provisions as to evidence relating to electronic record",
+      "raw_text": "62. The contents of electronic records may be proved in accordance with the provisions of section 63.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A short bridging section: it directs that proving what an electronic record actually contains is governed specifically by section 63's detailed regime, not by the general primary/secondary evidence rules of sections 56-60.",
+        "essential_elements": [
+          "Proof of the contents of electronic records is governed by section 63."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Purely a signpost to section 63 -- the real substance, including the critical certificate requirement, is there."
+      }
+    },
+    {
+      "number": "63",
+      "title": "Admissibility of electronic records",
+      "raw_text": "63. (1) Notwithstanding anything contained in this Adhiniyam, any information contained in an electronic record which is printed on paper, stored, recorded or copied in optical or magnetic media or semiconductor memory which is produced by a computer or any communication device or otherwise stored, recorded or copied in any electronic form (hereinafter referred to as the computer output) shall be deemed to be also a document, if the conditions mentioned in this section are satisfied in relation to the information and computer in question and shall be admissible in any proceedings, without further proof or production of the original, as evidence or any contents of the original or of any fact stated therein of which direct evidence would be admissible.\n(2) The conditions referred to in sub-section (1) in respect of a computer output shall be the following, namely:—\n(a) the computer output containing the information was produced by the computer or communication device during the period over which the computer or communication device was used regularly to create, store or process information for the purposes of any activity regularly carried on over that period by the person having lawful control over the use of the computer or communication device;\n(b) during the said period, information of the kind contained in the electronic record or of the kind from which the information so contained is derived was regularly fed into the computer or communication device in the ordinary course of the said activities;\n(c) throughout the material part of the said period, the computer or communication device was operating properly or, if not, then in respect of any period in which it was not operating properly or was out of operation during that part of the period, was not such as to affect the electronic record or the accuracy of its contents; and\n(d) the information contained in the electronic record reproduces or is derived from such information fed into the computer or communication device in the ordinary course of the said activities.\n(3) Where over any period, the function of creating, storing or processing information for the purposes of any activity regularly carried on over that period as mentioned in clause (a) of sub-section (2) was regularly performed by means of one or more computers or communication device, whether—\n(a) in standalone mode; or\n(b) on a computer system; or\n(c) on a computer network; or\n(d) on a computer resource enabling information creation or providing information processing and storage; or\n(e) through an intermediary,\nall the computers or communication devices used for that purpose during that period shall be treated for the purposes of this section as constituting a single computer or communication device; and references in this section to a computer or communication device shall be construed accordingly.\n(4) In any proceeding where it is desired to give a statement in evidence by virtue of this section, a certificate doing any of the following things shall be submitted along with the electronic record at each instance where it is being submitted for admission, namely:—\n(a) identifying the electronic record containing the statement and describing the manner in which it was produced;\n(b) giving such particulars of any device involved in the production of that electronic record as may be appropriate for the purpose of showing that the electronic record was produced by a computer or a communication device referred to in clauses (a) to (e) of sub-section (3);\n(c) dealing with any of the matters to which the conditions mentioned in sub-section (2) relate,\nand purporting to be signed by a person in charge of the computer or communication device or the management of the relevant activities (whichever is appropriate) and an expert shall be evidence of any matter stated in the certificate; and for the purposes of this sub-section it shall be sufficient for a matter to be stated to the best of the knowledge and belief of the person stating it in the certificate specified in the Schedule.\n(5) For the purposes of this section,—\n(a) information shall be taken to be supplied to a computer or communication device if it is supplied thereto in any appropriate form and whether it is so supplied directly or (with or without human intervention) by means of any appropriate equipment;\n(b) a computer output shall be taken to have been produced by a computer or communication device whether it was produced by it directly or (with or without human intervention) by means of any appropriate equipment or by other electronic means as referred to in clauses (a) to (e) of sub-section (3).",
+      "key_terms": [
+        "computer output",
+        "electronic evidence certificate"
+      ],
+      "breakdown": {
+        "plain_summary": "The single most litigated provision in this Chapter -- the successor to the old Evidence Act's section 65B. It deems 'computer output' (any electronic record's information, however printed, stored, or copied) to be a document admissible without producing the original, but only on strict conditions. Subsection (2) sets four reliability conditions: the device was in regular use for the relevant activity, matching information was regularly fed in during that period, the device was working properly (or any malfunction didn't affect accuracy), and the output actually reproduces or derives from the fed-in information. Subsection (3) clarifies that a chain of multiple linked computers/devices (standalone, networked, cloud-resource, or via an intermediary) is treated as one single device for this analysis. Subsection (4) is the operative bottleneck: a signed certificate -- identifying the record, describing the producing device, and addressing the subsection (2) conditions, to the best of the certifier's knowledge and belief -- must accompany the electronic record every time it is tendered. Subsection (5) clarifies that information counts as 'supplied' or 'produced' whether done directly, with human involvement, or through other electronic means.",
+        "essential_elements": [
+          "Subsection (1): computer output is deemed a document, admissible without the original or further proof, IF the section's conditions are met.",
+          "Subsection (2): four conditions -- regular use of the device for the relevant activity; regular feeding of matching information during that period; proper (or accuracy-unaffected) operation of the device; and the output reproducing/deriving from the fed-in information.",
+          "Subsection (3): multiple computers/devices used in combination (standalone, system, network, cloud resource, or intermediary) are treated as a single device for this analysis.",
+          "Subsection (4): a signed certificate identifying the record, the producing device, and addressing the subsection (2) conditions MUST be submitted with the electronic record at every instance of tender; it may be given to the best of the certifier's knowledge and belief, per the format in the Schedule.",
+          "Subsection (5): information is 'supplied' or 'produced' whether directly, with human intervention, or through other electronic means -- the human-in-the-loop question doesn't defeat the section."
+        ],
+        "exceptions_and_qualifications": [
+          "The 'notwithstanding anything contained in this Adhiniyam' opening makes this a non-obstante provision -- it overrides the general primary/secondary evidence scheme for electronic records specifically.",
+          "The subsection (4) certificate is a mandatory precondition to admissibility under this section, not a mere formality -- without it, the computer output cannot be admitted through this route (a point emphasised in Supreme Court jurisprudence on the predecessor provision)."
+        ],
+        "how_to_read": "The most practice-critical section in the electronic-evidence scheme: always insist on (or prepare) the subsection (4) certificate whenever tendering electronic evidence -- call logs, CCTV footage, WhatsApp chats, server logs, CDRs. Missing or defective certificates are a standard, often fatal, ground of objection. Walk through the four subsection (2) conditions like a checklist when drafting or challenging a certificate, and remember subsection (3)'s single-device fiction when the record passed through a chain of systems or an intermediary."
       }
     }
   ]
