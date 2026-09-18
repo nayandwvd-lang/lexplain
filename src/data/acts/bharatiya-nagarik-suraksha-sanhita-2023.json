@@ -11,7 +11,7 @@
     "bail bond": "An undertaking for release supported by surety, as defined in Section 2(1)(d).",
     "bond": "A personal undertaking for release without surety, as defined in Section 2(1)(e).",
     "charge": "Includes any head of charge when the charge contains more than one head.",
-    "cognizable offence": "An offence for which a police officer may arrest without a warrant, as shown in the First Schedule or under any other law in force.",
+    "cognizable offence": "An offence for which a police officer may arrest without a warrant and start an investigation without prior permission of a Magistrate — typically the more serious category of offence, as classified in the First Schedule to this Sanhita.",
     "cognizable case": "A case involving a cognizable offence.",
     "complaint": "An oral or written allegation to a Magistrate that a person has committed an offence, with a view to the Magistrate taking action, but not including a police report.",
     "electronic communication": "Communication of written, verbal, pictorial, or video content transmitted between persons or devices by means of an electronic device such as a phone, computer, or camera.",
@@ -137,7 +137,8 @@
     "absolute order": "The final, binding form that a conditional order under section 152 takes once the person against whom it is made either defaults entirely (triggering section 155) or appears, shows cause, and fails to satisfy the Magistrate that the order is unreasonable (section 157).",
     "easement": "A legal right to use land or water belonging to someone else in a specific limited way — for example, a right of way, a right to draw water, or a right of passage — without owning it.",
     "ex parte": "A proceeding, order, or hearing conducted for the benefit of, or on the application of, one party only, without requiring the presence or participation of the other side — typically used for urgent situations where advance notice is impracticable or would defeat the purpose of the order.",
-    "affray": "A disturbance caused by two or more persons fighting in a public place in a manner that alarms the public; one of the harms sections 162 and 163 empower a Magistrate to prevent."
+    "affray": "A disturbance caused by two or more persons fighting in a public place in a manner that alarms the public; one of the harms sections 162 and 163 empower a Magistrate to prevent.",
+    "local inquiry": "A fact-finding inquiry conducted at or near the site of a dispute or matter in issue, typically deputed by a Magistrate to a subordinate officer or Magistrate, whose report may then be read as evidence in the case."
   },
   "sections": [
     {
@@ -3835,6 +3836,148 @@
           "The recency proviso is a hard gate on the remedy (prohibiting interference/ordering removal), not on the underlying existence-of-right finding itself"
         ],
         "how_to_read": "Read section 166 as section 164's sibling provision — same breach-of-peace trigger and broadly the same summary procedure, just aimed at use-rights (easements) rather than possession. The recency proviso is the feature to watch closely in practice: a long-dormant right, even if genuine, may not qualify for this summary protective remedy if it hasn't actually been exercised within the relevant recent window. The cross-recharacterisation safety valve in sub-section (4) is a useful practical point — it prevents needless procedural restarts when the two sections' subject matter is initially misidentified."
+      }
+    },
+    {
+      "number": "167",
+      "title": "Local inquiry",
+      "raw_text": "167. Local inquiry.—(1) Whenever a local inquiry is necessary for the purposes of section 164, section\n165 or section 166, a District Magistrate or Sub-divisional Magistrate may depute any Magistrate\nsubordinate to him to make the inquiry, and may furnish him with such written instructions as may seem\nnecessary for his guidance, and may declare by whom the whole or any part of the necessary expenses of\nthe inquiry shall be paid.\n    (2) The report of the person so deputed may be read as evidence in the case.\n    (3) When any costs have been incurred by any party to a proceeding under section 164, section 165 or\nsection 166, the Magistrate passing a decision may direct by whom such costs shall be paid, whether by\nsuch party or by any other party to the proceeding, and whether in whole or in part or proportion and such\ncosts may include any expenses incurred in respect of witnesses and of advocates' fees, which the Court\nmay consider reasonable.",
+      "key_terms": [
+        "local inquiry",
+        "deputed Magistrate",
+        "costs of proceeding",
+        "advocates' fees"
+      ],
+      "breakdown": {
+        "plain_summary": "This section closes out Chapter XI by giving the District Magistrate or Sub-divisional Magistrate a practical tool for the immovable-property dispute provisions (sections 164, 165, and 166): rather than conducting every factual on-site inquiry personally, he can depute a subordinate Magistrate to go and make the local inquiry, giving that Magistrate written instructions on what to look into and deciding who pays for it. Whatever that deputed Magistrate reports back can be used as evidence in the case, without needing a separate examination. Separately, once a decision is reached in any section 164/165/166 proceeding, the deciding Magistrate can allocate the costs of the proceeding between the parties as he sees fit — including witness expenses and reasonable advocates' fees — rather than each party automatically bearing its own.",
+        "essential_elements": [
+          "Applies specifically to inquiries needed for the purposes of sections 164, 165, or 166 (disputes over possession, attachment/receivership, and use-rights)",
+          "The District Magistrate or Sub-divisional Magistrate may depute a subordinate Magistrate, with written instructions, to conduct the local inquiry",
+          "The deputing Magistrate may also decide who pays the expenses of that inquiry",
+          "The deputed Magistrate's report may be read as evidence in the case",
+          "The Magistrate deciding the underlying section 164/165/166 proceeding may allocate the costs of the proceeding among the parties, including witness expenses and reasonable advocates' fees"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a delegation-and-cost-allocation tool specific to the land/water dispute provisions immediately preceding it — it does not create a freestanding general inquiry power"
+        ],
+        "how_to_read": "Pair this closely with sections 164-166: it is the practical machinery (delegation of fact-finding, and allocation of costs) that makes those substantive dispute-resolution provisions workable in practice, particularly in busy districts where the District/Sub-divisional Magistrate cannot personally visit every disputed site."
+      }
+    },
+    {
+      "number": "168",
+      "title": "Police to prevent cognizable offences",
+      "raw_text": "168. Police to prevent cognizable offences.—Every police officer may interpose for the purpose of\npreventing, and shall, to the best of his ability, prevent, the commission of any cognizable offence.",
+      "key_terms": [
+        "prevent cognizable offence",
+        "interpose"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XII, which is about stopping crime before it happens rather than investigating it afterward. It states a police officer's general duty in the plainest possible terms: every police officer may step in to prevent a cognizable offence, and — this part is mandatory, not discretionary — must, to the best of his ability, actually prevent it from being committed.",
+        "essential_elements": [
+          "Applies to every police officer, not just officers in charge of a station",
+          "The power to interpose (step in) to prevent a cognizable offence is permissive ('may')",
+          "The duty to actually prevent the offence, to the best of the officer's ability, is mandatory ('shall')"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a general foundational duty; the following sections (169-172) supply the specific tools — communication of information, preventive arrest, protection of public property, and enforcement of lawful directions — through which this duty is carried out"
+        ],
+        "how_to_read": "Treat section 168 as the chapter's mission statement, with sections 169-172 as the concrete mechanisms that flesh out how a police officer is expected to discharge this preventive duty in practice."
+      }
+    },
+    {
+      "number": "169",
+      "title": "Information of design to commit cognizable offences",
+      "raw_text": "169. Information of design to commit cognizable offences.—Every police officer receiving\ninformation of a design to commit any cognizable offence shall communicate such information to the police\nofficer to whom he is subordinate, and to any other officer whose duty it is to prevent or take cognizance\nof the commission of any such offence.",
+      "key_terms": [
+        "design to commit offence",
+        "communicate information",
+        "subordinate officer"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a mandatory information-relay duty. If a police officer learns that someone is planning ('designing') to commit a cognizable offence, he cannot just sit on that information — he must pass it up to his superior officer, and also to any other officer whose job includes preventing or taking cognizance of that kind of offence, so that preventive action can actually be coordinated and taken.",
+        "essential_elements": [
+          "Triggered whenever a police officer receives information of a design (plan/intention) to commit a cognizable offence",
+          "He must communicate that information to the officer to whom he is subordinate",
+          "He must also communicate it to any other officer whose duty is to prevent or take cognizance of such an offence"
+        ],
+        "exceptions_and_qualifications": [
+          "The duty is to communicate the information, not necessarily to personally investigate or arrest — the arrest power for such situations is separately supplied by section 170"
+        ],
+        "how_to_read": "Read together with section 170: section 169 ensures information about a planned offence reaches the officers positioned to act on it, while section 170 supplies the actual power to arrest the would-be offender pre-emptively."
+      }
+    },
+    {
+      "number": "170",
+      "title": "Arrest to prevent commission of cognizable offences",
+      "raw_text": "170. Arrest to prevent commission of cognizable offences.— (1) A police officer knowing of a design\nto commit any cognizable offence may arrest, without orders from a Magistrate and without a warrant, the\nperson so designing, if it appears to such officer that the commission of the offence cannot be otherwise\nprevented.\n    (2) No person arrested under sub-section (1) shall be detained in custody for a period exceeding\ntwenty-four hours from the time of his arrest unless his further detention is required or authorised under\nany other provisions of this Sanhita or of any other law for the time being in force.",
+      "key_terms": [
+        "pre-emptive arrest",
+        "without a warrant",
+        "twenty-four hours",
+        "further detention authorised"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the sharpest tool in the preventive-action chapter: a genuinely pre-emptive arrest power, used before any offence has actually been committed. If a police officer knows someone is planning to commit a cognizable offence, he can arrest that person immediately, with no Magistrate's order and no warrant — but only if it appears to him that arrest is truly necessary because the offence cannot be prevented any other way. Because this is such an exceptional power (arresting someone for something they haven't yet done), it comes with a strict clock: the person cannot be held in custody for more than 24 hours from arrest, unless some other provision of this Sanhita or another law separately authorises further detention.",
+        "essential_elements": [
+          "The officer must actually know of a design to commit a cognizable offence — mere suspicion or rumour would not meet this",
+          "Arrest may be made without a Magistrate's order and without a warrant",
+          "The necessity threshold: it must appear to the officer that the offence cannot otherwise be prevented",
+          "Detention is capped at 24 hours from the time of arrest, unless further detention is required or authorised under another provision of this Sanhita or other law"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a last-resort power — the officer must reasonably conclude that no less intrusive measure (like the information-communication duty in section 169, or a warning) would prevent the offence",
+          "The 24-hour cap mirrors the constitutional and general arrest-procedure safeguard against prolonged detention without judicial oversight, and is not automatically extendable — it needs a separate legal basis to continue detention"
+        ],
+        "how_to_read": "This is one of the most powerful and most scrutinised provisions in the preventive scheme precisely because it authorises arrest before any crime has occurred. Practitioners challenging such an arrest should focus on whether the officer genuinely 'knew' of a design (versus vague suspicion), whether prevention was truly impossible by lesser means, and whether the 24-hour custody limit was honoured."
+      }
+    },
+    {
+      "number": "171",
+      "title": "Prevention of injury to public property",
+      "raw_text": "171. Prevention of injury to public property.—A police officer may of his own authority interpose\nto prevent any injury attempted to be committed in his view to any public property, movable or immovable,\nor the removal or injury of any public landmark, buoy or other mark used for navigation.",
+      "key_terms": [
+        "injury to public property",
+        "public landmark",
+        "buoy",
+        "navigation mark"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives a police officer independent authority to physically intervene, on his own initiative, whenever he personally witnesses an attempt to damage public property — whether movable or immovable — or to remove or damage a public landmark, buoy, or other navigational marker.",
+        "essential_elements": [
+          "The officer must witness the injury being attempted 'in his view' — this is not a power to act on secondhand reports",
+          "Covers injury to public property, whether movable or immovable",
+          "Also covers removal or injury of a public landmark, buoy, or other navigation mark",
+          "The officer acts on his own authority, without needing prior orders"
+        ],
+        "exceptions_and_qualifications": [
+          "The 'in his view' requirement narrows this to real-time, witnessed attempts — it is not a general enforcement power against property damage discovered after the fact"
+        ],
+        "how_to_read": "This is a narrow, specific-purpose preventive power distinct from the broader cognizable-offence prevention duty in section 168 — it specifically protects public infrastructure and navigational aids, and is triggered only by direct, contemporaneous observation."
+      }
+    },
+    {
+      "number": "172",
+      "title": "Persons bound to conform to lawful directions of police",
+      "raw_text": "172. Persons bound to conform to lawful directions of police.— (1) All persons shall be bound to\nconform to the lawful directions of a police officer given in fulfilment of any of his duty under this Chapter.\n    (2) A police officer may detain or remove any person resisting, refusing, ignoring or disregarding to\nconform to any direction given by him under sub-section (1) and may either take such person before a\nMagistrate or, in petty cases, release him as soon as possible within a period of twenty-four hours.",
+      "key_terms": [
+        "lawful directions",
+        "duty under this Chapter",
+        "detain or remove",
+        "petty cases"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XII by giving legal force to the whole preventive scheme: every person is legally bound to follow the lawful directions a police officer gives while carrying out any of the duties described in this Chapter (sections 168-171). If someone resists, refuses, ignores, or disregards such a direction, the officer can detain or physically remove that person, and then either produce them before a Magistrate, or — for minor, petty matters — simply release them as soon as possible, within a maximum of 24 hours.",
+        "essential_elements": [
+          "The obligation to conform applies to all persons, but only to directions given in fulfilment of a duty under this Chapter (sections 168-171)",
+          "The direction must be lawful — an unlawful or ultra vires direction does not trigger the obligation",
+          "On resistance, refusal, or disregard, the officer may detain or remove the person",
+          "The detained person must either be taken before a Magistrate, or, in petty cases, released as soon as possible and in any case within 24 hours"
+        ],
+        "exceptions_and_qualifications": [
+          "The 'lawful' qualifier is the key safeguard — only directions genuinely given in fulfilment of a Chapter XII duty carry this binding force; directions beyond that scope are not enforceable under this section",
+          "The 24-hour outer limit for petty-case release mirrors the general detention-without-magisterial-oversight safeguard seen elsewhere in the Sanhita (e.g., section 170)"
+        ],
+        "how_to_read": "Section 172 is the enforcement backbone for the entire preventive-action chapter — without it, the preceding sections' preventive directions would have no teeth. Always check two things when this section is invoked: was the underlying direction genuinely 'lawful' and within the scope of Chapter XII's duties, and was the detained person's custody kept within the 24-hour petty-case limit or properly escalated before a Magistrate."
       }
     }
   ]
