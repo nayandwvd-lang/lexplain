@@ -235,7 +235,10 @@
     "coinage": "Currency in the form of coins (and, by extension under BNS Chapter X, Government stamps) -- offences against coinage include counterfeiting, altering, or dealing in counterfeit coin, treated as serious property-adjacent crimes carrying enhanced procedural consequences for repeat offenders under section 363.",
     "open court": "The default rule that a Criminal Court's proceedings are held in a place accessible to the public generally, subject to the presiding Judge or Magistrate's power to exclude the public (or particular persons) at any stage in a particular case, and subject to the mandatory in-camera rule for rape and specified sexual-offence trials under section 366(2).",
     "unsound mind": "A mental condition that renders an accused person incapable of understanding the proceedings against him or of making his defence; Chapter XXVII (sections 367-378) sets out a dedicated procedure -- medical examination, a capacity finding, possible postponement or discharge, and safeguards around detention or release -- that displaces the ordinary trial process whenever unsoundness of mind is credibly in issue.",
-    "intellectual disability": "A disability involving significant limitations in intellectual functioning and adaptive behaviour, treated under Chapter XXVII as distinct from unsoundness of mind but given a parallel procedural track: if it renders the accused incapable of entering a defence, the Magistrate closes the inquiry (rather than postponing it) and deals with the accused under section 369's release/care framework."
+    "intellectual disability": "A disability involving significant limitations in intellectual functioning and adaptive behaviour, treated under Chapter XXVII as distinct from unsoundness of mind but given a parallel procedural track: if it renders the accused incapable of entering a defence, the Magistrate closes the inquiry (rather than postponing it) and deals with the accused under section 369's release/care framework.",
+    "mental healthcare act": "The Mental Healthcare Act, 2017 -- the central legislation governing the treatment, rights, and institutional care of persons with mental illness in India; BNSS's unsound-mind procedure defers to its rules whenever an accused is ordered detained in a public mental health establishment, ensuring criminal-process detention does not bypass that Act's safeguards.",
+    "sound mind": "The mental capacity to know the nature of one's act and to know that it is wrong or contrary to law; section 372 addresses the situation where an accused is of sound mind at the time of inquiry or trial but is found to have been of unsound mind -- and thus incapable of that knowledge -- at the time the act was actually committed.",
+    "security": "A formal guarantee -- typically a bond or undertaking, sometimes with a financial or personal surety -- given to a Magistrate or Court as assurance that a person delivered into someone's care will be properly looked after and prevented from causing harm to himself or others, and will be produced for inspection or before the authorities as directed; under section 374, a relative or friend seeking delivery of a person acquitted on unsoundness-of-mind grounds must give such security before the Court will release the person into their care."
   },
   "sections": [
     {
@@ -8549,6 +8552,95 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This closes the loop on the unsound-mind procedural track, providing a concrete, evidence-backed mechanism (the officer's certificate) for confirming recovery and restarting the case, rather than leaving resumption to informal or disputed assessment."
+      }
+    },
+    {
+      "number": "371",
+      "title": "Procedure on accused appearing before Magistrate or Court",
+      "raw_text": "371. Procedure on accused appearing before Magistrate or Court.—(1) If, when the accused\nappears or is again brought before the Magistrate or Court, as the case may be, the Magistrate or Court\nconsiders him capable of making his defence, the inquiry or trial shall proceed.\n    (2) If the Magistrate or Court considers the accused to be still incapable of making his defence, the\nMagistrate or Court shall act according to the provisions of section 367 or section 368, as the case may be,\nand if the accused is found to be of unsound mind and consequently incapable of making his defence, shall\ndeal with such accused in accordance with the provisions of section 369.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "When the accused, having previously been found incapable, appears again before the Magistrate or Court under section 370's resumption process, the Court simply checks capacity afresh: if he's now considered capable of making his defence, the inquiry or trial proceeds normally. If he's still considered incapable, the Court cycles back through the section 367/368 capacity-assessment procedure, and if unsoundness of mind incapacitating him is again found, handles him again under section 369.",
+        "essential_elements": [
+          "Applies when the accused appears or is again brought before the Magistrate/Court following resumption under section 370.",
+          "If found capable of making his defence, the inquiry or trial proceeds.",
+          "If still found incapable, the Magistrate/Court applies section 367 or 368 afresh.",
+          "If unsoundness of mind incapacitating the accused is again found, he is dealt with under section 369."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section closes the procedural loop between sections 367-370, ensuring the capacity-assessment cycle can repeat as many times as necessary rather than being a one-shot determination -- an accused whose condition fluctuates is neither permanently discharged nor forced to trial while still genuinely incapable."
+      }
+    },
+    {
+      "number": "372",
+      "title": "When accused appears to have been of sound mind",
+      "raw_text": "372. When accused appears to have been of sound mind.—When the accused appears to be of sound\nmind at the time of inquiry or trial, and the Magistrate is satisfied from the evidence given before him that\nthere is reason to believe that the accused committed an act, which, if he had been of sound mind, would\nhave been an offence, and that he was, at the time when the act was committed, by reason of unsoundness\nof mind, incapable of knowing the nature of the act or that it was wrong or contrary to law, the Magistrate\nshall proceed with the case, and, if the accused ought to be tried by the Court of Session, commit him for\ntrial before the Court of Session.",
+      "key_terms": [
+        "sound mind"
+      ],
+      "breakdown": {
+        "plain_summary": "This addresses a different scenario from sections 367-371: the accused is currently of sound mind (so there's no capacity problem with the trial itself), but the evidence suggests that at the time he committed the act, he was, due to unsoundness of mind, incapable of knowing what he was doing or that it was wrong/unlawful -- the classic insanity-defence scenario. Here the Magistrate proceeds with the case in the ordinary way (this isn't a capacity-to-stand-trial issue), and if the offence is one that ought to be tried by the Court of Session, commits the accused for trial there, leaving the substantive question of criminal responsibility to be determined at trial.",
+        "essential_elements": [
+          "Applies where the accused appears to be of sound mind at the time of inquiry or trial (distinguishing this from sections 367-371's fitness-to-stand-trial scenario).",
+          "The Magistrate must be satisfied from the evidence that there is reason to believe the accused committed the act (which would be an offence if he had been of sound mind).",
+          "The evidence must also suggest that, at the time of the act, unsoundness of mind made him incapable of knowing its nature, or that it was wrong or contrary to law.",
+          "The Magistrate proceeds with the case in the ordinary manner and commits the accused to the Court of Session for trial if the offence ought to be tried there."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is the procedural bridge to the substantive insanity defence (mirroring the general exception for unsoundness of mind under the substantive criminal law) -- it confirms that a present-sound-mind accused does not get any special procedural detour; the question of his mental state at the time of the offence is a matter for the trial itself, decided through the ordinary evidentiary process, potentially before the Court of Session."
+      }
+    },
+    {
+      "number": "373",
+      "title": "Judgment of acquittal on ground of unsoundness of mind",
+      "raw_text": "373. Judgment of acquittal on ground of unsoundness of mind.—Whenever any person is acquitted\nupon the ground that, at the time at which he is alleged to have committed an offence, he was, by reason of\nunsoundness of mind, incapable of knowing the nature of the act alleged as constituting the offence, or that\nit was wrong or contrary to law, the finding shall state specifically whether he committed the act or not.",
+      "key_terms": [
+        "acquittal"
+      ],
+      "breakdown": {
+        "plain_summary": "If a person is acquitted specifically on the ground that unsoundness of mind made him, at the time of the alleged offence, incapable of knowing what he was doing or that it was wrong/unlawful, the judgment cannot just say 'acquitted' -- it must specifically state whether or not he actually committed the act in question. This distinction matters because an unsoundness-of-mind acquittal is not a finding of innocence in the ordinary sense; it determines what happens next under section 374.",
+        "essential_elements": [
+          "Applies to any acquittal on the specific ground that unsoundness of mind rendered the accused incapable of knowing the nature of the act, or that it was wrong/contrary to law, at the time of the alleged offence.",
+          "The finding must specifically state whether the accused committed the act or not."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a precise drafting requirement for judgments, not a mere formality -- the explicit finding on whether the act was committed is the trigger for section 374's safe-custody/care regime, so a Court must not leave this ambiguous when acquitting on unsoundness-of-mind grounds."
+      }
+    },
+    {
+      "number": "374",
+      "title": "Person acquitted on ground of unsoundness of mind to be detained in safe custody",
+      "raw_text": "374. Person acquitted on ground of unsoundness of mind to be detained in safe custody.—(1)\nWhenever the finding states that the accused person committed the act alleged, the Magistrate or Court\nbefore whom or which the trial has been held, shall, if such act would, but for the incapacity found, have\nconstituted an offence,—\n        (a) order such person to be detained in safe custody in such place and manner as the Magistrate or\n    Court thinks fit; or\n        (b) order such person to be delivered to any relative or friend of such person.\n    (2) No order for the detention of the accused in a public mental health establishment shall be made\nunder clause (a) of sub-section (1) otherwise than in accordance with such rules as the State Government\nmay have made under the Mental Healthcare Act, 2017 (10 of 2017).\n    (3) No order for the delivery of the accused to a relative or friend shall be made under clause (b) of sub-\nsection (1) except upon the application of such relative or friend and on his giving security to the satisfaction\nof the Magistrate or Court that the person delivered shall—\n        (a) be properly taken care of and prevented from doing injury to himself or to any other person;\n        (b) be produced for the inspection of such officer, and at such times and places, as the State\n    Government may direct.\n    (4) The Magistrate or Court shall report to the State Government the action taken under\nsub-section (1).",
+      "key_terms": [
+        "mental healthcare act",
+        "security"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a section 373 acquittal finds the accused did commit the act (and that act would otherwise have been an offence), the Court cannot simply let him walk free -- it must either order him detained in safe custody, or order him delivered into the care of a relative or friend. Detaining him in a public mental health establishment specifically requires following the State Government's rules under the Mental Healthcare Act, 2017. Delivering him to a relative/friend instead requires that person to apply for it and give security satisfying the Court that the accused will be properly cared for, prevented from harming himself or others, and produced for inspection as the State Government directs. Either way, the Magistrate/Court must report the action taken to the State Government.",
+        "essential_elements": [
+          "Applies where the finding under section 373 states the accused committed the act, and that act would (but for the incapacity) have constituted an offence.",
+          "The Court must either (a) order detention in safe custody in a place/manner it thinks fit, or (b) order delivery to a relative or friend.",
+          "Detention in a public mental health establishment must follow State Government rules made under the Mental Healthcare Act, 2017.",
+          "Delivery to a relative/friend requires their application and adequate security that the person will be properly cared for, prevented from self-harm/harming others, and produced for periodic inspection as directed.",
+          "The Court must report the action taken to the State Government."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the disposition stage following an unsoundness-of-mind acquittal -- it reflects the policy that such an acquittal is not an unconditional release but triggers a protective, care-oriented custody or supervision regime, balancing the acquitted person's welfare against public safety, with the Mental Healthcare Act's institutional safeguards specifically bridging into ordinary criminal procedure."
+      }
+    },
+    {
+      "number": "375",
+      "title": "Power of State Government to empower officer in charge to discharge",
+      "raw_text": "375. Power of State Government to empower officer in charge to discharge.—The State\nGovernment may empower the officer in charge of the jail in which a person is confined under the\nprovisions of section 369 or section 374 to discharge all or any of the functions of the Inspector-General of\nPrisons under section 376 or section 377.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "The State Government can delegate the Inspector-General of Prisons' functions under sections 376 and 377 (relating to persons detained under sections 369 or 374) to the officer in charge of the specific jail where that person is confined, either fully or partially -- an administrative delegation provision.",
+        "essential_elements": [
+          "Applies to a person confined under section 369 (release pending investigation/trial) or section 374 (safe custody after unsoundness-of-mind acquittal).",
+          "The State Government may empower the jail's officer in charge to discharge all or any of the Inspector-General of Prisons' functions under sections 376 and 377."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a purely administrative delegation mechanism ensuring the certification/review functions in sections 376-377 (about capacity or fitness for release) can be exercised locally at the jail level rather than bottlenecking at the Inspector-General's office -- practitioners should check, in a given State, whether such delegation has actually been made when determining who the correct authority is to approach."
       }
     }
   ]
