@@ -32,7 +32,7 @@
     "sub-division": "A territorial sub-unit of a district, created by the State Government after consultation with the High Court.",
     "summons-case": "A case relating to an offence not punishable with death, imprisonment for life, or imprisonment exceeding two years, triable by the simpler summons procedure rather than the warrant procedure.",
     "victim": "A person who has suffered loss or injury from an offence, including the guardian or legal heir of such a person.",
-    "warrant-case": "A case relating to an offence punishable with death, imprisonment for life, or imprisonment exceeding two years.",
+    "warrant-case": "A case relating to an offence punishable with death, imprisonment for life, or imprisonment for a term exceeding two years -- as opposed to a 'summons-case', which covers offences not punishable with imprisonment for a term exceeding two years. Warrant-cases follow a more elaborate trial procedure (Chapter XX) reflecting the greater stakes involved.",
     "construction of references": "The interpretive rule for how references to undefined terms in other laws are to be read under this Sanhita.",
     "judicial magistrate": "A Magistrate exercising judicial functions, such as appreciating evidence or making decisions exposing a person to punishment, detention, or trial.",
     "executive magistrate": "A Magistrate exercising executive (as opposed to judicial) functions under the Sanhita, such as initiating preventive security proceedings for keeping the peace or good behaviour.",
@@ -185,7 +185,10 @@
     "plea": "The accused's formal response to a charge once it has been read and explained to him — typically either pleading guilty (admitting the offence) or claiming to be tried (denying it and requiring the prosecution to prove its case).",
     "cross-examination": "The questioning of a witness by the opposing party (typically the defence, for a prosecution witness) after that witness's initial examination, aimed at testing or challenging the witness's testimony.",
     "in camera": "A trial or hearing conducted privately, with the general public excluded from the courtroom — as opposed to an open, public hearing.",
-    "compensation": "A sum of money ordered to be paid, under section 260, by a person whose unfounded accusation led to a discharge or acquittal, to the wrongly accused person -- distinct from a fine, though recovered in the same manner as one."
+    "compensation": "A sum of money ordered to be paid, under section 260, by a person whose unfounded accusation led to a discharge or acquittal, to the wrongly accused person -- distinct from a fine, though recovered in the same manner as one.",
+    "summons": "A written order issued by a Court or Magistrate directing a person to appear before it, or to produce a document or other thing, on a specified date.",
+    "cross-examine": "To question a witness called by the opposing party, typically to test, challenge, or undermine the witness's earlier testimony given in examination-in-chief.",
+    "re-examination": "The further questioning of a witness by the party who originally called them, conducted after cross-examination, generally limited to clarifying matters raised during cross-examination."
   },
   "sections": [
     {
@@ -6120,6 +6123,230 @@
           "Actual payment of awarded compensation is suspended pending the appeal period/appeal outcome, protecting the person ordered to pay from an unreversible payment before appellate review concludes."
         ],
         "how_to_read": "Read this as a self-contained procedural code-within-a-code for the narrow section 222(2) category -- it borrows Magistrate-level warrant-trial procedure for a Sessions-level forum and bolts on a bespoke compensation-for-false-accusation mechanism to deter baseless complaints against private individuals while carving out constitutional high officers from personal financial exposure. This completes Chapter XIX (Trial before a Court of Session, Sections 248-260) in full; Chapter XX (Trial of Warrant-Cases by Magistrates, beginning with sub-heading A: Cases instituted on a police report) follows at Section 261."
+      }
+    },
+    {
+      "number": "261",
+      "title": "Compliance with section 230",
+      "raw_text": "261. Compliance with section 230.—When, in any warrant-case instituted on a police report, the\n    accused appears or is brought before a Magistrate at the commencement of the trial, the Magistrate shall\n    satisfy himself that he has complied with the provisions of section 230.",
+      "key_terms": [
+        "warrant-case",
+        "police report"
+      ],
+      "breakdown": {
+        "plain_summary": "This section opens Chapter XX's sub-heading A (cases instituted on a police report) with a mandatory checkpoint at the very start of a warrant-case trial before a Magistrate: before proceeding further, the Magistrate must personally satisfy himself that section 230 has been complied with -- that is, that the accused has actually been furnished, free of cost, with copies of the police report, FIR, statements, confessions, and other documents the prosecution intends to rely upon. This is a documentary-disclosure safeguard: a warrant-case trial cannot meaningfully begin, nor can the accused meaningfully exercise the discharge and defence rights that follow in this Chapter, until he has actually been given the materials underlying the case against him.",
+        "essential_elements": [
+          "Applies specifically to warrant-cases instituted on a police report (Chapter XX, sub-heading A)",
+          "Triggered when the accused appears or is brought before a Magistrate at the commencement of the trial",
+          "The Magistrate must satisfy himself that section 230 (supply of documents to the accused) has been complied with"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a threshold, self-verification duty resting on the Magistrate personally -- it is not merely a formality left to the parties to raise."
+        ],
+        "how_to_read": "Read this as the warrant-case-on-police-report analogue of the disclosure checkpoints found throughout the Sanhita's trial chapters (compare section 230 itself, and its committal-stage counterparts) -- it ensures the elaborate procedural rights that follow in this Chapter (discharge under section 262, charge-framing under section 263, and so on) are exercised on a fully-informed footing. This opens Chapter XX (Trial of Warrant-Cases by Magistrates), sub-heading A."
+      }
+    },
+    {
+      "number": "262",
+      "title": "When accused shall be discharged",
+      "raw_text": "262. When accused shall be discharged.—(1) The accused may prefer an application for discharge\n    within a period of sixty days from the date of supply of copies of documents under section 230.\n        (2) If, upon considering the police report and the documents sent with it under section 193 and making\n    such examination, if any, of the accused, either physically or through audio-video electronic means, as the\n    Magistrate thinks necessary and after giving the prosecution and the accused an opportunity of being heard,\n    the Magistrate considers the charge against the accused to be groundless, he shall discharge the accused,\n    and record his reasons for so doing.",
+      "key_terms": [
+        "discharge",
+        "police report"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is the Magistrate-level warrant-case counterpart to the Sessions-trial discharge mechanism under section 250, mirroring its structure closely. Sub-section (1) gives the accused a 60-day window, running from the date he was supplied documents under section 230, to apply for discharge. Sub-section (2) sets out the Magistrate's evaluative process: considering the police report and the accompanying documents sent under section 193, optionally examining the accused (which may now be done physically or through audio-video electronic means, reflecting the Sanhita's embrace of remote/digital procedure), and after hearing both prosecution and accused, the Magistrate must discharge the accused -- and record reasons for doing so -- if the charge is considered groundless.",
+        "essential_elements": [
+          "The accused may apply for discharge within sixty days from the date of supply of documents under section 230",
+          "The Magistrate considers the police report and documents sent under section 193, may examine the accused (physically or via audio-video electronic means) if thought necessary, and must hear both prosecution and accused",
+          "If the charge is considered groundless, the Magistrate shall discharge the accused, recording reasons for the discharge"
+        ],
+        "exceptions_and_qualifications": [
+          "Examination of the accused at this stage is discretionary ('if any', 'if the Magistrate thinks necessary'), not mandatory.",
+          "The discharge decision is not left to unexplained discretion -- reasons must be recorded, providing a basis for review."
+        ],
+        "how_to_read": "Read this alongside section 250 (the Sessions-trial discharge mechanism) as a structurally parallel provision operating at the Magistrate level for warrant-cases on a police report -- both give the accused a defined window to seek an early exit and require the Court to reason through the groundlessness question rather than deciding it informally."
+      }
+    },
+    {
+      "number": "263",
+      "title": "Framing of charge",
+      "raw_text": "263. Framing of charge.—(1) If, upon such consideration, examination, if any, and hearing, the\n    Magistrate is of opinion that there is ground for presuming that the accused has committed an offence triable\n    under this Chapter, which such Magistrate is competent to try and which, in his opinion, could be adequately\n    punished by him, he shall frame in writing a charge against the accused within a period of sixty days from\n    the date of first hearing on charge.\n\n        (2) The charge shall then be read and explained to the accused, and he shall be asked whether he pleads\n    guilty of the offence charged or claims to be tried.",
+      "key_terms": [
+        "charge",
+        "plea"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the accused is not discharged under section 262, this section requires the Magistrate to frame a written charge -- but only if three conditions converge: there is ground for presuming the accused committed an offence triable under this Chapter (warrant-case procedure), the Magistrate is competent to try it, and the Magistrate considers it one he could adequately punish (a proportionality-of-forum check, since Magistrate sentencing powers are capped). The charge must be framed in writing within sixty days of the first hearing on charge, echoing the same speedy-trial discipline seen at the Sessions level under section 251. Sub-section (2) then requires the charge to be read and explained to the accused, who must be asked to plead guilty or claim trial -- the same fork point seen throughout the Sanhita's trial chapters.",
+        "essential_elements": [
+          "Triggered where the accused was not discharged under section 262",
+          "Three-part threshold: ground for presuming the accused committed the offence; the offence is triable under this Chapter; the Magistrate is competent to try it and considers it adequately punishable by him",
+          "The charge must be framed in writing within sixty days of the first hearing on charge",
+          "The charge is then read and explained to the accused, who is asked whether he pleads guilty or claims to be tried"
+        ],
+        "exceptions_and_qualifications": [
+          "The 'adequately punished by him' condition is a forum-appropriateness check tied to the Magistrate's own sentencing powers -- distinct from mere subject-matter competence to try the offence."
+        ],
+        "how_to_read": "Read this as the Magistrate-level mirror of section 251 (Sessions-trial charge framing), sharing the same 60-day discipline and the same guilty-plea/claim-to-be-tried fork that governs what happens next under section 264."
+      }
+    },
+    {
+      "number": "264",
+      "title": "Conviction on plea of guilty",
+      "raw_text": "264. Conviction on plea of guilty.— If the accused pleads guilty, the Magistrate shall record the plea\n    and may, in his discretion, convict him thereon.",
+      "key_terms": [
+        "plea",
+        "conviction"
+      ],
+      "breakdown": {
+        "plain_summary": "Identical in structure and purpose to section 252 (the Sessions-trial equivalent), this section confirms that a guilty plea in a warrant-case before a Magistrate does not automatically result in conviction. The Magistrate must record the plea, but conviction on that plea alone remains a matter of judicial discretion -- the Magistrate may decline to convict even on an unambiguous guilty plea, for instance if there is doubt about its voluntariness or the accused's understanding of the charge, in which case the trial proceeds to evidence under section 265.",
+        "essential_elements": [
+          "Applies where the accused pleads guilty under section 263(2)",
+          "The Magistrate must record the plea",
+          "Conviction on the recorded plea is discretionary, not automatic"
+        ],
+        "exceptions_and_qualifications": [
+          "A recorded guilty plea does not compel conviction -- the Magistrate retains discretion to require the prosecution to proceed with evidence regardless."
+        ],
+        "how_to_read": "Read this as the Magistrate-level counterpart to section 252 -- the same judicial safeguard against rubber-stamping guilty pleas applies uniformly whether the trial is before a Court of Session or a Magistrate. If the Magistrate does not convict here, the case proceeds to evidence under section 265."
+      }
+    },
+    {
+      "number": "265",
+      "title": "Evidence for prosecution",
+      "raw_text": "265. Evidence for prosecution.—(1) If the accused refuses to plead or does not plead, or claims to be\n    tried or the Magistrate does not convict the accused under section 264, the Magistrate shall fix a date for\n    the examination of witnesses:\n        Provided that the Magistrate shall supply in advance to the accused, the statement of witnesses recorded\n    during investigation by the police.\n        (2) The Magistrate may, on the application of the prosecution, issue a summons to any of its witnesses\n    directing him to attend or to produce any document or other thing.\n       (3) On the date so fixed, the Magistrate shall proceed to take all such evidence as may be produced in\n    support of the prosecution:\n        Provided that the Magistrate may permit the cross-examination of any witness to be deferred until any\n    other witness or witnesses have been examined or recall any witness for further cross-examination:\n        Provided further that the examination of a witness under this sub-section may be done by audio-video\n    electronic means at the designated place to be notified by the State Government.",
+      "key_terms": [
+        "summons",
+        "cross-examine",
+        "evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "This section takes over once a guilty plea has not resulted in conviction (whether because the accused refused to plead, did not plead, claimed trial, or was simply not convicted under section 264), setting up the prosecution's evidence-taking stage. Sub-section (1) requires the Magistrate to fix a date for examining witnesses, with a built-in disclosure proviso: the accused must be supplied in advance with the statements of witnesses recorded by the police during investigation, so the defence is not ambushed at trial. Sub-section (2) gives the Magistrate power to summon prosecution witnesses or compel production of documents on the prosecution's application. Sub-section (3) then structures the actual evidence-taking on the fixed date, with two provisos granting flexibility: cross-examination of a witness may be deferred until other witnesses have testified (or a witness recalled for further cross-examination), and witness examination may be conducted through audio-video electronic means at a State-Government-notified location -- the Sanhita's now-familiar embrace of remote evidence-taking.",
+        "essential_elements": [
+          "Triggered where the accused refuses/does not plead, claims to be tried, or is not convicted under section 264",
+          "The Magistrate must fix a date for examination of witnesses, with advance supply of police-recorded witness statements to the accused",
+          "The Magistrate may summon prosecution witnesses or compel document production on the prosecution's application",
+          "On the fixed date, the Magistrate proceeds to take all evidence produced in support of the prosecution",
+          "Cross-examination may be deferred until other witnesses are examined, or a witness recalled for further cross-examination, at the Magistrate's discretion",
+          "Witness examination may be conducted via audio-video electronic means at a State-Government-notified designated place"
+        ],
+        "exceptions_and_qualifications": [
+          "The advance-supply-of-witness-statements proviso is a mandatory disclosure obligation, not discretionary.",
+          "Both the cross-examination-deferral and audio-video-examination provisions are enabling/discretionary, not mandatory procedures."
+        ],
+        "how_to_read": "Read this together with section 266 (evidence for defence) as the twin evidence-taking halves of a police-report warrant-case trial before a Magistrate, structurally parallel to sections 254 and 256 at the Sessions-trial level, but with an added express disclosure proviso for police-recorded witness statements specific to this Chapter."
+      }
+    },
+    {
+      "number": "266",
+      "title": "Evidence for defence",
+      "raw_text": "266. Evidence for defence.—(1) The accused shall then be called upon to enter upon his defence and\n    produce his evidence; and if the accused puts in any written statement, the Magistrate shall file it with the\n    record.\n        (2) If the accused, after he has entered upon his defence, applies to the Magistrate to issue any process\n    for compelling the attendance of any witness for the purpose of examination or cross-examination, or the\n    production of any document or other thing, the Magistrate shall issue such process unless he considers that\n    such application should be refused on the ground that it is made for the purpose of vexation or delay or for\n    defeating the ends of justice and such ground shall be recorded by him in writing:\n        Provided that when the accused has cross-examined or had the opportunity of cross-examining any\n    witness before entering on his defence, the attendance of such witness shall not be compelled under this\n    section, unless the Magistrate is satisfied that it is necessary for the ends of justice:\n        Provided further that the examination of a witness under this sub-section may be done by audio-video\n    electronic means at the designated place to be notified by the State Government.\n         (3) The Magistrate may, before summoning any witness on an application under sub-section (2), require\n    that the reasonable expenses incurred by the witness in attending for the purposes of the trial be deposited\n    in Court.\n                               B.—Cases instituted otherwise than on police report",
+      "key_terms": [
+        "defence",
+        "process",
+        "cross-examine"
+      ],
+      "breakdown": {
+        "plain_summary": "This section closes sub-heading A (Cases instituted on a police report) by setting up the defence's evidence-taking stage, mirroring section 256's Sessions-trial structure with some Chapter-specific additions. Sub-section (1) calls upon the accused to enter on his defence and produce evidence, with any written statement filed with the record. Sub-section (2) grants a qualified right to compulsory process for defence witnesses/documents -- issued unless the Magistrate records reasons finding it vexatious, dilatory, or aimed at defeating justice -- but adds two provisos: first, if the accused already cross-examined (or had the chance to cross-examine) a witness before entering his defence, that witness's attendance cannot be re-compelled under this section unless the Magistrate is satisfied it is necessary for the ends of justice (preventing repetitive process applications); second, witness examination may again be conducted via audio-video electronic means at a State-Government-notified place. Sub-section (3) gives the Magistrate a further gatekeeping tool: before summoning a defence witness on such an application, he may require the reasonable expenses of that witness's attendance to be deposited in Court -- guarding against summoning witnesses purely to burden the process.",
+        "essential_elements": [
+          "The accused is called upon to enter on his defence and produce evidence; any written statement is filed with the record",
+          "A qualified right to compulsory process for defence witnesses/documents exists, refusable only for recorded reasons of vexation, delay, or defeating the ends of justice",
+          "Attendance of a witness already cross-examined (or given the opportunity to be) before the defence stage cannot be re-compelled unless necessary for the ends of justice",
+          "Witness examination under this section may be conducted via audio-video electronic means at a State-Government-notified place",
+          "The Magistrate may require a deposit of the witness's reasonable attendance expenses before summoning them"
+        ],
+        "exceptions_and_qualifications": [
+          "The bar on re-compelling an already-cross-examined witness is itself subject to an ends-of-justice override, preserving flexibility in genuinely necessary cases.",
+          "The expense-deposit requirement under sub-section (3) is discretionary ('may'), giving the Magistrate a proportionate tool rather than an automatic financial barrier."
+        ],
+        "how_to_read": "Read this as the police-report-warrant-case counterpart to section 256, with two Chapter-XX-specific refinements (the already-cross-examined-witness bar, and the expense-deposit power) tailored to a trial context where witnesses were already examined at length under section 265. This completes sub-heading A (Cases instituted on a police report, Sections 261-266); sub-heading B (Cases instituted otherwise than on police report) follows at Section 267."
+      }
+    },
+    {
+      "number": "267",
+      "title": "Evidence for prosecution",
+      "raw_text": "267. Evidence for prosecution.—(1) When, in any warrant-case instituted otherwise than on a police\n    report, the accused appears or is brought before a Magistrate, the Magistrate shall proceed to hear the\n    prosecution and take all such evidence as may be produced in support of the prosecution.\n        (2) The Magistrate may, on the application of the prosecution, issue a summons to any of its witnesses\n    directing him to attend or to produce any document or other thing.",
+      "key_terms": [
+        "warrant-case",
+        "summons",
+        "evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "This section opens sub-heading B of Chapter XX -- warrant-cases instituted otherwise than on a police report (that is, private-complaint warrant-cases, without the benefit of a police investigation's report and case-diary materials). Because there is no prior police report already summarising the evidence, the procedure here starts directly with evidence-taking: as soon as the accused appears or is brought before the Magistrate, the Magistrate must proceed to hear the prosecution and take all its evidence -- there is no separate document-supply or discharge-application stage mirroring sections 261-262, because there was no police report to begin with. Sub-section (2) grants the same summons power seen elsewhere, letting the Magistrate compel attendance of prosecution witnesses or production of documents/things on the prosecution's application.",
+        "essential_elements": [
+          "Applies to warrant-cases instituted otherwise than on a police report (private complaints)",
+          "As soon as the accused appears or is brought before the Magistrate, the Magistrate must hear the prosecution and take all evidence produced in its support",
+          "The Magistrate may, on the prosecution's application, summon witnesses or compel production of documents/things"
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike sub-heading A, there is no preliminary document-supply-under-section-230 or discharge-application stage here -- evidence-taking begins immediately upon the accused's appearance, since there is no police report to review first."
+        ],
+        "how_to_read": "Read this as the structural starting point for privately-instituted warrant-cases, distinct from the police-report track of sections 261-266 precisely because there is no police report or investigation dossier to build a preliminary discharge-or-charge decision upon -- the evidence itself must first be heard before the Magistrate can assess discharge (section 268) or charge-framing (section 269)."
+      }
+    },
+    {
+      "number": "268",
+      "title": "When accused shall be discharged",
+      "raw_text": "268. When accused shall be discharged.—(1) If, upon taking all the evidence referred to in\n    section 267, the Magistrate considers, for reasons to be recorded, that no case against the accused has been\n    made out which, if unrebutted, would warrant his conviction, the Magistrate shall discharge him.\n\n        (2) Nothing in this section shall be deemed to prevent a Magistrate from discharging the accused at any\n    previous stage of the case if, for reasons to be recorded by such Magistrate, he considers the charge to be\n    groundless.",
+      "key_terms": [
+        "discharge",
+        "conviction"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is sub-heading B's discharge mechanism, structured differently from section 262's counterpart in sub-heading A precisely because sub-heading B cases have no prior police report to review -- discharge here is assessed only after the prosecution's evidence has actually been heard under section 267. Sub-section (1) sets the test: if, having heard all the evidence, the Magistrate considers that no case has been made out that would (if left unrebutted) warrant conviction, he must discharge the accused, recording his reasons. Sub-section (2) clarifies that this is not the only discharge opportunity -- the Magistrate retains a residual power to discharge at any earlier stage of the case if he considers the charge groundless for reasons he must record, preventing the trial from being forced all the way through a full evidence hearing where the case is obviously baseless from the outset.",
+        "essential_elements": [
+          "Discharge test (sub-section 1): after all section 267 evidence is taken, if no case has been made out that would, if unrebutted, warrant conviction, the Magistrate shall discharge the accused, recording reasons",
+          "Sub-section (2) preserves the Magistrate's power to discharge at any earlier stage of the case if the charge is considered groundless, again with recorded reasons"
+        ],
+        "exceptions_and_qualifications": [
+          "The sub-section (1) test is phrased as an 'if unrebutted, would warrant conviction' standard -- a prima facie sufficiency test on the prosecution's evidence alone, not a full merits assessment weighing defence evidence (which has not yet been led at this stage).",
+          "Sub-section (2)'s earlier-stage discharge power operates independently of, and does not require waiting for, the full evidence-taking process in sub-section (1)."
+        ],
+        "how_to_read": "Read sub-sections (1) and (2) as two independent discharge gateways operating at different points in the trial timeline -- the residual groundlessness power of sub-section (2) can, and often will, be exercised well before the full evidentiary review contemplated by sub-section (1) ever becomes necessary."
+      }
+    },
+    {
+      "number": "269",
+      "title": "Procedure where accused is not discharged",
+      "raw_text": "269. Procedure where accused is not discharged.—(1) If, when such evidence has been taken, or at\n    any previous stage of the case, the Magistrate is of opinion that there is ground for presuming that the\n    accused has committed an offence triable under this Chapter, which such Magistrate is competent to try and\n    which, in his opinion, could be adequately punished by him, he shall frame in writing a charge against the\n    accused.\n        (2) The charge shall then be read and explained to the accused, and he shall be asked whether he pleads\n    guilty or has any defence to make.\n       (3) If the accused pleads guilty, the Magistrate shall record the plea, and may, in his discretion, convict\n    him thereon.\n         (4) If the accused refuses to plead, or does not plead or claims to be tried or if the accused is not\n    convicted under sub-section (3), he shall be required to state, at the commencement of the next hearing of\n    the case, or, if the Magistrate for reasons to be recorded in writing so thinks fit, forthwith, whether he wishes\n    to cross-examine any, and, if so, which, of the witnesses for the prosecution whose evidence has been taken.\n        (5) If he says he does so wish, the witnesses named by him shall be recalled and, after cross-examination\n    and re-examination (if any), they shall be discharged.\n       (6) The evidence of any remaining witnesses for the prosecution shall next be taken, and after cross-\n    examination and re-examination (if any), they shall also be discharged.\n         (7) Where, despite giving opportunity to the prosecution and after taking all reasonable measures under\n    this Sanhita, if the attendance of the prosecution witnesses under sub-sections (5) and (6) cannot be secured\n    for cross-examination, it shall be deemed that such witness has not been examined for not being available,\n    and the Magistrate may close the prosecution evidence for reasons to be recorded in writing and proceed\n    with the case on the basis of the materials on record.",
+      "key_terms": [
+        "charge",
+        "plea",
+        "cross-examine",
+        "re-examination"
+      ],
+      "breakdown": {
+        "plain_summary": "This is sub-heading B's charge-framing and evidence-completion sequence, considerably more elaborate than sub-heading A's because in privately-instituted warrant-cases, evidence is often taken (under section 267) before a charge is ever framed -- so the accused needs a distinct mechanism to cross-examine witnesses whose evidence was recorded before he knew the specific charge he faced. Sub-sections (1)-(3) largely mirror the familiar pattern: charge framed in writing where there is ground for presuming guilt of a triable, adequately-punishable offence; charge read and explained; guilty plea recorded with discretionary conviction. Sub-section (4) then introduces the distinctive feature: where the accused is not convicted on a guilty plea, he must be asked -- either at the start of the next hearing, or immediately if the Magistrate records reasons for requiring an immediate answer -- whether he wishes to cross-examine any (and if so, which) prosecution witnesses whose evidence has already been taken under section 267, before he knew the formal charge. Sub-sections (5)-(6) implement his choice: named witnesses are recalled for cross-examination (and re-examination, if any) and then discharged; remaining prosecution witnesses are then examined, cross-examined, and re-examined in the ordinary course. Sub-section (7) supplies a practical fallback: if, despite the prosecution being given a fair opportunity and all reasonable measures being taken, a named witness's attendance cannot be secured for cross-examination, that witness is deemed not to have been examined (for unavailability), and the Magistrate may close the prosecution's evidence (recording reasons) and proceed on the materials already on record -- preventing an unavailable witness from indefinitely stalling the trial.",
+        "essential_elements": [
+          "Charge framed in writing where there is ground for presuming a triable, adequately-punishable offence; charge read/explained; guilty-plea conviction remains discretionary",
+          "Where not convicted on plea, the accused must state -- at the next hearing, or immediately for recorded reasons -- whether and which prosecution witnesses (already examined under section 267) he wishes to cross-examine",
+          "Named witnesses are recalled for cross-examination and re-examination, then discharged; remaining witnesses are examined, cross-examined, and re-examined in the ordinary course",
+          "If a named witness's attendance for cross-examination cannot be secured despite reasonable measures, the witness is deemed unexamined for unavailability, and the Magistrate may close prosecution evidence (recording reasons) and proceed on the existing record"
+        ],
+        "exceptions_and_qualifications": [
+          "The 'forthwith' timing for requiring the accused's cross-examination election is itself an exception to the default 'next hearing' timing, and requires the Magistrate's own recorded reasons to invoke.",
+          "The deemed-unexamined fallback under sub-section (7) is a last-resort mechanism, available only where the prosecution was given opportunity and all reasonable measures were exhausted -- it is not a shortcut around genuine efforts to secure the witness."
+        ],
+        "how_to_read": "Read this section as the distinctive procedural centerpiece of sub-heading B, addressing the sequencing problem created by evidence being taken (section 267) before any charge is framed -- the cross-examination election in sub-sections (4)-(6) is the mechanism that retroactively protects the accused's right to test that evidence once he finally knows the specific charge against him."
+      }
+    },
+    {
+      "number": "270",
+      "title": "Evidence for defence",
+      "raw_text": "270. Evidence for defence.—The accused shall then be called upon to enter upon his defence and\n    produce his evidence; and the provisions of section 266 shall apply to the case.\n                                               C.—Conclusion of trial",
+      "key_terms": [
+        "defence"
+      ],
+      "breakdown": {
+        "plain_summary": "This short section closes sub-heading B by directing the accused, once the section 269 process is complete, to enter upon his defence and produce evidence -- and rather than restating the machinery afresh, it simply incorporates section 266 (the sub-heading A defence-evidence provisions, including the qualified compulsory-process right, the already-cross-examined-witness bar, audio-video examination, and the expense-deposit power) wholesale into sub-heading B cases by cross-reference. This drafting choice keeps the Chapter compact by avoiding duplicate text for what is functionally the same defence-evidence procedure across both police-report and non-police-report warrant-cases.",
+        "essential_elements": [
+          "The accused is called upon to enter on his defence and produce evidence, once the section 269 procedure is complete",
+          "Section 266 (defence evidence provisions for sub-heading A cases) applies to sub-heading B cases by cross-reference"
+        ],
+        "exceptions_and_qualifications": [
+          "No independent defence-evidence machinery is created here -- it operates entirely by incorporation of section 266, so any exceptions or provisos within section 266 (the already-cross-examined-witness bar, the expense-deposit power, audio-video examination) apply equally here."
+        ],
+        "how_to_read": "Read this as a pure cross-referencing provision that completes sub-heading B (Cases instituted otherwise than on police report, Sections 267-270) by folding its defence-evidence stage into the already-established section 266 machinery, avoiding needless repetition. This completes sub-heading B; sub-heading C (Conclusion of trial) follows at Section 271."
       }
     }
   ]
