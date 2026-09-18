@@ -214,7 +214,10 @@
     "gazetted officer": "A government official whose appointment, promotion, or transfer is published (\"gazetted\") in the official Gazette, marking a rank of formal seniority and authority -- here relevant to officers of Mints, Note/Security Printing Presses, and Forensic Departments whose reports can be used as evidence without their personal attendance.",
     "deponent": "The person who makes a deposition or swears an affidavit -- i.e., the individual whose sworn or recorded statement is being relied upon as evidence.",
     "commissioner of oaths": "A person appointed by a High Court or Court of Session specifically empowered to administer oaths and affirmations for affidavits used in judicial proceedings.",
-    "warrant of commitment": "A formal document issued by a Court directing that a convicted person be taken into custody and detained in prison to undergo the sentence imposed, used here as one method of proving a previous conviction."
+    "warrant of commitment": "A formal document issued by a Court directing that a convicted person be taken into custody and detained in prison to undergo the sentence imposed, used here as one method of proving a previous conviction.",
+    "successor officer": "The public servant, scientific expert, or medical officer who currently holds the post previously held by an officer who prepared a document or report but who has since been transferred, retired, died, or become otherwise unavailable -- the successor may give deposition on that document or report in the original officer's place.",
+    "double jeopardy": "The legal principle, reflected in section 337, that a person once validly tried and convicted or acquitted of an offence by a competent Court cannot be tried again for the same offence (or substantially the same facts) while that conviction or acquittal stands -- subject to specific statutory exceptions.",
+    "autrefois acquit / autrefois convict": "Latin-derived pleas (\"previously acquitted\" / \"previously convicted\") that an accused may raise to bar a second trial for the same offence, embodying the double jeopardy protection codified in section 337."
   },
   "sections": [
     {
@@ -7784,6 +7787,110 @@
           "Both sub-sections impose conditions restricting when the earlier-recorded deposition can actually be used later -- this is not unconditional advance evidence-taking; it is a safeguard against losing evidence to time/death/unavailability while still requiring the deponent's unavailability at the time of actual use."
         ],
         "how_to_read": "This provision addresses two distinct evidentiary-preservation problems -- an absconding accused delaying trial indefinitely, and a serious unknown-offender crime where witness memory/availability may fade before anyone is caught -- by allowing evidence to be captured early while conditioning its later use on genuine unavailability of the witness, preserving fairness to the eventual accused."
+      }
+    },
+    {
+      "number": "336",
+      "title": "Evidence of public servants, experts, police officers in certain cases",
+      "raw_text": "336. Evidence of public servants, experts, police officers in certain cases.—Where any document\nor report prepared by a public servant, scientific expert or medical officer is purported to be used as evidence\nin any inquiry, trial or other proceeding under this Sanhita, and—\n        (i) such public servant, expert or officer is either transferred, retired, or died; or\n        (ii) such public servant, expert or officer cannot be found or is incapable of giving deposition; or\n         (iii) securing presence of such public servant, expert or officer is likely to cause delay in holding\n    the inquiry, trial or other proceeding, the Court shall secure presence of successor officer of such public\n    servant, expert, or officer who is holding that post at the time of such deposition to give deposition on\n    such document or report:\n    Provided that no public servant, scientific expert or medical officer shall be called to appear before the\nCourt unless the report of such public servant, scientific expert or medical officer is disputed by any of the\nparties of the trial or other proceedings:\n    Provided further that the deposition of such successor public servant, expert or officer may be allowed\nthrough audio-video electronic means.",
+      "key_terms": [
+        "successor officer",
+        "deposition"
+      ],
+      "breakdown": {
+        "plain_summary": "If a document or report by a public servant, scientific expert, or medical officer is to be used as evidence, but that person has since been transferred, retired, died, cannot be found, is incapable of testifying, or would cause delay if summoned, the Court shall instead secure the deposition of whoever now holds that post (the successor officer) to speak to the document/report. As with the other expert-evidence sections, no one need be called at all unless a party actually disputes the report, and the successor's deposition may be given through audio-video electronic means.",
+        "essential_elements": [
+          "Applies where a document/report by a public servant, scientific expert, or medical officer is to be used as evidence.",
+          "Triggering conditions: (i) the original officer is transferred, retired, or has died; (ii) cannot be found or is incapable of giving deposition; or (iii) securing his presence would likely delay the proceeding.",
+          "On any of these triggers, the Court shall secure the deposition of the successor officer currently holding that post.",
+          "Proviso 1: no such officer (original or successor) need be called at all unless the report is disputed by a party.",
+          "Proviso 2: the successor officer's deposition may be given via audio-video electronic means."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This closes out Chapter XXV's run of special-evidence provisions with a practical continuity mechanism -- institutional turnover (transfers, retirements, deaths) shouldn't stall a trial waiting for a specific individual when the successor in that same post can authenticate the same official document, and the electronic-deposition option further reduces friction."
+      }
+    },
+    {
+      "number": "337",
+      "title": "Person once convicted or acquitted not to be tried for same offence",
+      "raw_text": "337. Person once convicted or acquitted not to be tried for same offence.—(1) A person who has\nonce been tried by a Court of competent jurisdiction for an offence and convicted or acquitted of such\noffence shall, while such conviction or acquittal remains in force, not be liable to be tried again for the same\noffence, nor on the same facts for any other offence for which a different charge from the one made against\nhim might have been made under sub-section (1) of section 244, or for which he might have been convicted\nunder sub-section (2) thereof.\n     (2) A person acquitted or convicted of any offence may be afterwards tried, with the consent of the\nState Government, for any distinct offence for which a separate charge might have been made against him\nat the former trial under sub-section (1) of section 243.\n     (3) A person convicted of any offence constituted by any act causing consequences which, together\nwith such act, constituted a different offence from that of which he was convicted, may be afterwards tried\nfor such last-mentioned offence, if the consequences had not happened, or were not known to the Court to\nhave happened, at the time when he was convicted.\n    (4) A person acquitted or convicted of any offence constituted by any acts may, notwithstanding such\nacquittal or conviction, be subsequently charged with, and tried for, any other offence constituted by the\nsame acts which he may have committed if the Court by which he was first tried was not competent to try\nthe offence with which he is subsequently charged.\n     (5) A person discharged under section 281 shall not be tried again for the same offence except with the\nconsent of the Court by which he was discharged or of any other Court to which the first-mentioned Court\nis subordinate.\n    (6) Nothing in this section shall affect the provisions of section 26 of the General Clauses Act, 1897\n(10 of 1897) or of section 208 of this Sanhita.\n    Explanation.—The dismissal of a complaint, or the discharge of the accused, is not an acquittal for the\npurposes of this section.\n                                                 Illustrations.\n    (a) A is tried upon a charge of theft as a servant and acquitted. He cannot afterwards, while the acquittal\nremains in force, be charged with theft as a servant, or, upon the same facts, with theft simply, or with\ncriminal breach of trust.\n     (b) A is tried for causing grievous hurt and convicted. The person injured afterwards dies. A may be\ntried again for culpable homicide.\n    (c) A is charged before the Court of Session and convicted of the culpable homicide of B. A may not\nafterwards be tried on the same facts for the murder of B.\n    (d) A is charged by a Magistrate of the first class with, and convicted by him of, voluntarily causing\nhurt to B. A may not afterwards be tried for voluntarily causing grievous hurt to B on the same facts, unless\nthe case comes within sub-section (3) of this section.\n    (e) A is charged by a Magistrate of the second class with, and convicted by him of, theft of property\nfrom the person of B. A may subsequently be charged with, and tried for, robbery on the same facts.\n    (f) A, B and C are charged by a Magistrate of the first class with, and convicted by him of, robbing D.\nA, B and C may afterwards be charged with, and tried for, dacoity on the same facts.",
+      "key_terms": [
+        "double jeopardy",
+        "autrefois acquit / autrefois convict"
+      ],
+      "breakdown": {
+        "plain_summary": "This is India's statutory double jeopardy protection: once a person has been validly tried and convicted or acquitted of an offence, he cannot be tried again for that same offence, or on the same facts for another offence that could have been charged (or resulted in conviction) at the first trial -- as long as that conviction/acquittal stands. But there are calibrated exceptions: a distinct offence chargeable at the earlier trial can still be pursued later with State Government consent; if the same act later causes new consequences amounting to a different offence unknown at the time of conviction, a fresh trial for that new offence is allowed; if the first Court simply lacked jurisdiction to try a particular offence arising from the same acts, a later trial for that offence isn't barred; and a mere discharge (not amounting to acquittal) doesn't attract this protection unless the discharging Court (or its superior) consents to a retrial. The section closes by clarifying that a dismissed complaint or a discharge is not the same as an acquittal, and it doesn't override the General Clauses Act's repeal-savings provision or section 208 of this Sanhita.",
+        "essential_elements": [
+          "Core rule (sub-section 1): once tried and convicted/acquitted by a competent Court, a person cannot be retried for the same offence, nor on the same facts for another offence that could have been differently charged or that could have grounded conviction at the earlier trial.",
+          "Sub-section (2): a distinct offence separately chargeable at the earlier trial may still be tried later, but only with State Government consent.",
+          "Sub-section (3): if the same act later produces new consequences constituting a different offence unknown/unrealised at the time of the original conviction, a subsequent trial for that different offence is permitted.",
+          "Sub-section (4): if the first trial Court lacked competence to try a particular offence arising from the same acts, that offence may still be separately tried later, notwithstanding the earlier acquittal/conviction.",
+          "Sub-section (5): a person discharged under section 281 cannot be retried for the same offence except with the consent of the discharging Court or a superior Court.",
+          "Sub-section (6): this section doesn't affect the General Clauses Act, 1897's section 26 (repeal savings) or section 208 of this Sanhita.",
+          "Explanation: dismissal of a complaint or discharge of the accused is not an \"acquittal\" for this section's purposes.",
+          "Six illustrations (a)-(f) work through common scenarios -- theft/criminal breach of trust overlap, hurt escalating to culpable homicide on death of the victim, Sessions-Court culpable-homicide vs. murder, hurt vs. grievous hurt across Magistrate classes, and theft vs. robbery/dacoity depending on which offence the trying Magistrate's class permitted."
+        ],
+        "exceptions_and_qualifications": [
+          "The protection is expressly conditioned on the conviction/acquittal \"remaining in force\" -- if set aside on appeal/revision, the bar lifts.",
+          "Four carve-outs narrow the general bar: distinct offence with State Government consent (sub-s 2); newly-arisen consequences (sub-s 3); original Court's lack of competence for the subsequent offence (sub-s 4); and discharge-specific retrial with consent (sub-s 5).",
+          "A dismissed complaint or a discharge is explicitly NOT an acquittal, so this section's bar does not automatically apply to those outcomes."
+        ],
+        "how_to_read": "This is one of the most doctrinally important sections in criminal procedure -- it operationalises the constitutional double jeopardy guarantee (Article 20(2)) at the statutory level with much greater granularity, and the six worked illustrations are essential for understanding exactly where the line falls between a barred retrial and a permissible one, especially across the recurring hurt-to-death and theft-to-robbery escalation patterns."
+      }
+    },
+    {
+      "number": "338",
+      "title": "Appearance by Public Prosecutors",
+      "raw_text": "338. Appearance by Public Prosecutors.—(1) The Public Prosecutor or Assistant Public Prosecutor\nin charge of a case may appear and plead without any written authority before any Court in which that case\nis under inquiry, trial or appeal.\n     (2) If in any such case any private person instructs his advocate to prosecute any person in any Court,\nthe Public Prosecutor or Assistant Public Prosecutor in charge of the case shall conduct the prosecution,\nand the advocate so instructed shall act therein under the directions of the Public Prosecutor or Assistant\nPublic Prosecutor, and may, with the permission of the Court, submit written arguments after the evidence\nis closed in the case.",
+      "key_terms": [
+        "Public Prosecutor"
+      ],
+      "breakdown": {
+        "plain_summary": "The Public Prosecutor or Assistant Public Prosecutor handling a case can appear and argue before any Court dealing with that case's inquiry, trial, or appeal without needing any separate written authorisation. If a private complainant also hires his own advocate to help prosecute, that private advocate doesn't take over -- the Public Prosecutor/Assistant Public Prosecutor remains in charge of conducting the prosecution, and the private advocate must act under the Public Prosecutor's direction, though with the Court's permission he may submit written arguments once the evidence is closed.",
+        "essential_elements": [
+          "Sub-section (1): the Public Prosecutor/Assistant Public Prosecutor in charge of a case may appear and plead without written authority before any Court handling that case's inquiry, trial, or appeal.",
+          "Sub-section (2): where a private person's advocate is also instructed to prosecute, the Public Prosecutor/Assistant Public Prosecutor still conducts the prosecution, and the private advocate acts under his direction.",
+          "The private advocate may, with the Court's permission, submit written arguments only after the evidence is closed."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This preserves the State's institutional control over criminal prosecution (through the Public Prosecutor) even when a private complainant wants to actively participate through his own lawyer -- the private advocate supplements but does not supplant the Public Prosecutor's conduct of the case."
+      }
+    },
+    {
+      "number": "339",
+      "title": "Permission to conduct prosecution",
+      "raw_text": "339. Permission to conduct prosecution.—(1) Any Magistrate inquiring into or trying a case may\npermit the prosecution to be conducted by any person other than a police officer below the rank of inspector;\nbut no person, other than the Advocate-General or Government Advocate or a Public Prosecutor or\nAssistant Public Prosecutor, shall be entitled to do so without such permission:\n    Provided that no police officer shall be permitted to conduct the prosecution if he has taken part in the\ninvestigation into the offence with respect to which the accused is being prosecuted.\n    (2) Any person conducting the prosecution may do so personally or by an advocate.",
+      "key_terms": [
+        "Public Prosecutor"
+      ],
+      "breakdown": {
+        "plain_summary": "A Magistrate handling an inquiry or trial can allow someone other than a police officer below inspector rank to conduct the prosecution. Only the Advocate-General, Government Advocate, a Public Prosecutor, or Assistant Public Prosecutor can conduct a prosecution as of right without needing this special permission -- anyone else needs the Magistrate's leave. A police officer who personally investigated the offence, however, is barred from conducting its prosecution even with permission, to avoid a conflict between the investigator and prosecutor roles. Whoever conducts the prosecution, whether by right or by permission, may do so personally or through an advocate.",
+        "essential_elements": [
+          "The Magistrate inquiring into/trying a case may permit prosecution to be conducted by any person other than a police officer below inspector rank.",
+          "Only the Advocate-General, Government Advocate, a Public Prosecutor, or Assistant Public Prosecutor may conduct prosecution without needing this permission.",
+          "Proviso: a police officer who took part in the investigation of the offence cannot be permitted to conduct its prosecution.",
+          "Sub-section (2): the person conducting the prosecution may act personally or through an advocate."
+        ],
+        "exceptions_and_qualifications": [
+          "The investigator-prosecutor conflict-of-interest bar (the proviso) applies regardless of rank -- even an inspector-or-above officer is barred if he personally investigated the case."
+        ],
+        "how_to_read": "This maintains the separation between investigation and prosecution functions -- a core fair-trial safeguard -- while still allowing Magistrates flexibility to permit properly qualified non-police prosecutors to appear in appropriate cases."
+      }
+    },
+    {
+      "number": "340",
+      "title": "Right of person against whom proceedings are instituted to be defended",
+      "raw_text": "340. Right of person against whom proceedings are instituted to be defended.— Any person\naccused of an offence before a Criminal Court, or against whom proceedings are instituted under this\nSanhita, may of right be defended by an advocate of his choice.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Anyone accused of an offence before a Criminal Court, or against whom any proceeding is brought under this Sanhita, has an absolute right to be defended by an advocate of his own choosing.",
+        "essential_elements": [
+          "Applies to any person accused of an offence before a Criminal Court, or against whom proceedings are instituted under this Sanhita.",
+          "The right is to be defended by an advocate of the person's own choice.",
+          "This is a right, not a discretionary grant by the Court -- it exists automatically."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A concise but foundational fair-trial guarantee -- it anchors the right to counsel of choice, which section 341 (legal aid at State expense) supplements for those who cannot afford to exercise this right on their own."
       }
     }
   ]
