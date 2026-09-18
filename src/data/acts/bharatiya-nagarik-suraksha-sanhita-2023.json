@@ -20,7 +20,7 @@
     "investigation": "All proceedings under the Sanhita for the collection of evidence, conducted by a police officer or a person authorised by a Magistrate.",
     "judicial proceeding": "Any proceeding in the course of which evidence is or may legally be taken on oath.",
     "local jurisdiction": "The local area within which a Court or Magistrate may exercise its or his powers under the Sanhita.",
-    "non-cognizable offence": "An offence for which a police officer has no authority to arrest without a warrant.",
+    "non-cognizable offence": "An offence for which a police officer has no authority to arrest without a warrant and cannot investigate without the order of a Magistrate — typically a less serious category of offence, as classified in the First Schedule to this Sanhita.",
     "non-cognizable case": "A case involving a non-cognizable offence.",
     "notification": "A notification published in the Official Gazette.",
     "offence": "Any act or omission made punishable by any law in force, including certain acts under the Cattle Trespass Act, 1871.",
@@ -138,7 +138,11 @@
     "easement": "A legal right to use land or water belonging to someone else in a specific limited way — for example, a right of way, a right to draw water, or a right of passage — without owning it.",
     "ex parte": "A proceeding, order, or hearing conducted for the benefit of, or on the application of, one party only, without requiring the presence or participation of the other side — typically used for urgent situations where advance notice is impracticable or would defeat the purpose of the order.",
     "affray": "A disturbance caused by two or more persons fighting in a public place in a manner that alarms the public; one of the harms sections 162 and 163 empower a Magistrate to prevent.",
-    "local inquiry": "A fact-finding inquiry conducted at or near the site of a dispute or matter in issue, typically deputed by a Magistrate to a subordinate officer or Magistrate, whose report may then be read as evidence in the case."
+    "local inquiry": "A fact-finding inquiry conducted at or near the site of a dispute or matter in issue, typically deputed by a Magistrate to a subordinate officer or Magistrate, whose report may then be read as evidence in the case.",
+    "first information report": "Commonly abbreviated FIR — the written record an officer in charge of a police station makes under section 173 of information about a cognizable offence, whether given orally or by electronic communication, which sets the investigation machinery in motion.",
+    "prima facie case": "A case that, on the face of the material available, appears to disclose sufficient grounds to proceed further — not a final finding of guilt, but enough to justify continuing an inquiry, preliminary enquiry, or investigation.",
+    "public servant": "A person holding a public office or performing public duties, as defined for criminal-law purposes in the Bharatiya Nyaya Sanhita, 2023 — includes government officials, and receives special procedural protections, such as the sanction requirement before prosecution and the safeguards in section 175(4) before a Magistrate can order investigation of a complaint against one arising from official duties.",
+    "forensic expert": "A trained specialist in scientific crime-scene examination (e.g., fingerprints, DNA, ballistics, trace evidence) whose visit to the crime scene is now mandatory under section 176(3) for offences punishable with seven years' imprisonment or more, to collect and preserve forensic evidence, videographed as part of the process."
   },
   "sections": [
     {
@@ -3978,6 +3982,165 @@
           "The 24-hour outer limit for petty-case release mirrors the general detention-without-magisterial-oversight safeguard seen elsewhere in the Sanhita (e.g., section 170)"
         ],
         "how_to_read": "Section 172 is the enforcement backbone for the entire preventive-action chapter — without it, the preceding sections' preventive directions would have no teeth. Always check two things when this section is invoked: was the underlying direction genuinely 'lawful' and within the scope of Chapter XII's duties, and was the detained person's custody kept within the 24-hour petty-case limit or properly escalated before a Magistrate."
+      }
+    },
+    {
+      "number": "173",
+      "title": "Information in cognizable cases",
+      "raw_text": "173. Information in cognizable cases.—(1) Every information relating to the commission of a\ncognizable offence, irrespective of the area where the offence is committed, may be given orally or by\nelectronic communication to an officer in charge of a police station, and if given—\n        (i) orally, it shall be reduced to writing by him or under his direction, and be read over to the\n    informant; and every such information, whether given in writing or reduced to writing as aforesaid,\n    shall be signed by the person giving it;\n       (ii) by electronic communication, it shall be taken on record by him on being signed within three\n    days by the person giving it,\nand the substance thereof shall be entered in a book to be kept by such officer in such form as the State\nGovernment may by rules prescribe in this behalf:\n    Provided that if the information is given by the woman against whom an offence under section 64,\nsection 65, section 66, section 67, section 68, section 69, section 70, section 71, section 74, section 75,\nsection 76, section 77, section 78, section 79 or section 124 of the Bharatiya Nyaya Sanhita, 2023 is alleged\nto have been committed or attempted, then such information shall be recorded, by a woman police officer\nor any woman officer:\n    Provided further that—\n        (a) in the event that the person against whom an offence under section 64, section 65, section 66,\n    section 67, section 68, section 69, section 70, section 71, section 74, section 75, section 76, section 77,\n    section 78, section 79 or section 124 of the Bharatiya Nyaya Sanhita, 2023 is alleged to have been\n    committed or attempted, is temporarily or permanently mentally or physically disabled, then such\n    information shall be recorded by a police officer, at the residence of the person seeking to report such\n    offence or at a convenient place of such person's choice, in the presence of an interpreter or a special\n    educator, as the case may be;\n        (b) the recording of such information shall be videographed;\n        (c) the police officer shall get the statement of the person recorded by a Magistrate under clause (a)\n    of sub-section (6) of section 183 as soon as possible.\n     (2) A copy of the information as recorded under sub-section (1) shall be given forthwith, free of cost,\nto the informant or the victim.\n    (3) Without prejudice to the provisions contained in section 175, on receipt of information relating to\nthe commission of any cognizable offence, which is made punishable for three years or more but less than\nseven years, the officer in charge of the police station may with the prior permission from an officer not\nbelow the rank of Deputy Superintendent of Police, considering the nature and gravity of the offence,—\n        (i) proceed to conduct preliminary enquiry to ascertain whether there exists a prima facie case for\n    proceeding in the matter within a period of fourteen days; or\n        (ii) proceed with investigation when there exists a prima facie case.\n    (4) Any person aggrieved by a refusal on the part of an officer in charge of a police station to record\nthe information referred to in sub-section (1), may send the substance of such information, in writing and\nby post, to the Superintendent of Police concerned who, if satisfied that such information discloses the\ncommission of a cognizable offence, shall either investigate the case himself or direct an investigation to\nbe made by any police officer subordinate to him, in the manner provided by this Sanhita, and such officer\nshall have all the powers of an officer in charge of the police station in relation to that offence failing which\nsuch aggrieved person may make an application to the Magistrate.",
+      "key_terms": [
+        "first information report",
+        "electronic communication",
+        "woman police officer",
+        "preliminary enquiry",
+        "fourteen days",
+        "Superintendent of Police"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the FIR section — arguably the single most consequential provision in the entire criminal procedure code, because it's the trigger that starts the whole investigative machinery. Information about a cognizable offence can be given to an officer in charge of any police station, from anywhere (no territorial restriction on where it's lodged), either orally (which the officer must write down, read back to the informant, and have signed) or electronically (which must be signed within three days). It's logged in a register in the prescribed format. For a specific list of serious offences against women (spanning several sexual-offence sections of the BNS), the information must be recorded by a woman officer; and if the victim is mentally or physically disabled, extra protections kick in — recording at her residence or chosen location, with an interpreter or special educator present, videographed, with a magistrate later recording her statement under section 183(6)(a). A free copy of the recorded information must go to the informant/victim immediately. A significant BNSS innovation appears in sub-section (3): for offences punishable between 3 and 7 years, the police can, with a Deputy Superintendent of Police's prior permission, run a 14-day preliminary enquiry first to check if there's even a prima facie case, before committing to a full investigation — this is meant to filter out weak complaints before triggering the full machinery of arrest and investigation. And if an officer refuses to record information at all, the aggrieved person has an escalation path: write to the Superintendent of Police, who must investigate or direct a subordinate to, failing which the person can approach the Magistrate.",
+        "essential_elements": [
+          "Information about a cognizable offence may be given orally or electronically, to any officer in charge of a police station, regardless of where the offence occurred",
+          "Oral information must be reduced to writing, read back to the informant, and signed; electronic information must be signed within three days",
+          "The substance must be entered in a register in the State-Government-prescribed form",
+          "Information about specified sexual offences against a woman must be recorded by a woman police/other officer",
+          "Special safeguards for a mentally/physically disabled victim: recording at residence/chosen place, with interpreter/special educator, videographed, followed by a magisterial statement under section 183(6)(a)",
+          "A free copy of the recorded information must be given forthwith to the informant or victim",
+          "For offences punishable with 3 to 7 years, police may, with DSP-level prior permission, conduct a 14-day preliminary enquiry to check for a prima facie case before investigating",
+          "Refusal to record information can be escalated in writing to the Superintendent of Police, and ultimately to the Magistrate if that also fails"
+        ],
+        "exceptions_and_qualifications": [
+          "The preliminary-enquiry route under sub-section (3) is discretionary and available only for the specific 3-to-7-year punishment band — it is not available, and not needed, for the most serious offences where the duty to register an FIR and investigate is more direct (see section 175)",
+          "The escalation mechanism in sub-section (4) does not itself compel investigation — the Superintendent must first be satisfied a cognizable offence is disclosed"
+        ],
+        "how_to_read": "This is the practitioner's starting point for virtually every criminal matter — the FIR's contents, timing, and manner of recording are frequently contested in later proceedings (e.g., delay in lodging, absence of a woman officer where required, or improper handling of a preliminary enquiry). The 3-to-7-year preliminary-enquiry mechanism in sub-section (3) is a genuinely new BNSS feature worth flagging distinctly from the old CrPC position, which generally mandated immediate FIR registration."
+      }
+    },
+    {
+      "number": "174",
+      "title": "Information as to non-cognizable cases and investigation of such cases",
+      "raw_text": "174. Information as to non-cognizable cases and investigation of such cases.—(1) When\ninformation is given to an officer in charge of a police station of the commission within the limits of such\nstation of a non-cognizable offence, he shall enter or cause to be entered the substance of the information\nin a book to be kept by such officer in such form as the State Government may by rules prescribe in this\nbehalf, and,—\n        (i) refer the informant to the Magistrate;\n        (ii) forward the daily diary report of all such cases fortnightly to the Magistrate.\n    (2) No police officer shall investigate a non-cognizable case without the order of a Magistrate having\npower to try such case or commit the case for trial.\n    (3) Any police officer receiving such order may exercise the same powers in respect of the investigation\n(except the power to arrest without warrant) as an officer in charge of a police station may exercise in a\ncognizable case.\n   (4) Where a case relates to two or more offences of which at least one is cognizable, the case shall be\ndeemed to be a cognizable case, notwithstanding that the other offences are non-cognizable.",
+      "key_terms": [
+        "non-cognizable offence",
+        "daily diary report",
+        "fortnightly",
+        "deemed cognizable case"
+      ],
+      "breakdown": {
+        "plain_summary": "This mirrors section 173 but for the less serious, non-cognizable category of offence. When such information comes in, the officer logs its substance in the prescribed register, but — unlike a cognizable case — doesn't automatically start investigating. Instead, he refers the informant to the Magistrate (who has to authorize any prosecution/investigation for such offences) and periodically reports all such entries to the Magistrate via a fortnightly diary. Police cannot investigate a non-cognizable case at all without a Magistrate's order; once that order is given, the investigating officer gets all the ordinary investigative powers of an officer in charge of a station in a cognizable case, except the power to arrest without a warrant — that specific power stays off-limits even with the Magistrate's order. Finally, sub-section (4) has a practically important rule: if a single case involves multiple offences and even one of them is cognizable, the whole case is treated as cognizable, even though the other offences by themselves would be non-cognizable — this prevents artificial splitting of a case to dodge the cognizable-offence investigative machinery.",
+        "essential_elements": [
+          "Applies to information about a non-cognizable offence within the police station's limits",
+          "The officer logs the substance in the prescribed register, refers the informant to the Magistrate, and forwards a fortnightly diary report of such cases",
+          "No investigation of a non-cognizable case without a Magistrate's order (from a Magistrate empowered to try or commit the case)",
+          "Once ordered, the investigating officer has the same powers as in a cognizable case, except the power to arrest without a warrant",
+          "A case involving multiple offences, at least one of which is cognizable, is deemed a cognizable case in its entirety"
+        ],
+        "exceptions_and_qualifications": [
+          "The no-warrantless-arrest carve-out in sub-section (3) is absolute — even Magistrate-ordered investigation of a non-cognizable case does not restore the power of arrest without warrant",
+          "Sub-section (4)'s deeming rule is an anti-evasion device, ensuring that a complainant or accused cannot manipulate the classification by isolating the non-cognizable elements of a mixed case"
+        ],
+        "how_to_read": "Always classify the offence(s) involved first — cognizable vs. non-cognizable determines whether police can act on their own initiative (section 173/175) or need prior magisterial authorization (this section). The multiple-offence deeming rule in sub-section (4) is a frequent point of contention worth checking whenever a case combines charges of different severity."
+      }
+    },
+    {
+      "number": "175",
+      "title": "Police officer's power to investigate cognizable case",
+      "raw_text": "175. Police officer's power to investigate cognizable case.—(1) Any officer in charge of a police\nstation may, without the order of a Magistrate, investigate any cognizable case which a Court having\njurisdiction over the local area within the limits of such station would have power to inquire into or try\nunder the provisions of Chapter XIV:\n    Provided that considering the nature and gravity of the offence, the Superintendent of Police may\nrequire the Deputy Superintendent of Police to investigate the case.\n    (2) No proceeding of a police officer in any such case shall at any stage be called in question on the\nground that the case was one which such officer was not empowered under this section to investigate.\n    (3) Any Magistrate empowered under section 210 may, after considering the application supported by\nan affidavit made under sub-section (4) of section 173, and after making such inquiry as he thinks necessary\nand submission made in this regard by the police officer, order such an investigation as above-mentioned.\n    (4) Any Magistrate empowered under section 210, may, upon receiving a complaint against a public\nservant arising in course of the discharge of his official duties, order investigation, subject to—\n        (a) receiving a report containing facts and circumstances of the incident from the officer superior\n    to him; and\n        (b) after consideration of the assertions made by the public servant as to the situation that led to the\n    incident so alleged.",
+      "key_terms": [
+        "power to investigate without Magistrate's order",
+        "not called in question",
+        "section 210 Magistrate",
+        "public servant complaint safeguards"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the core grant of investigative authority for cognizable offences: an officer in charge of a police station can investigate a cognizable case entirely on his own initiative, with no need for prior magisterial permission, as long as it's a case the local court would have jurisdiction to try under Chapter XIV's jurisdiction rules. For serious or grave offences, the Superintendent of Police can specifically direct that a Deputy Superintendent handle the investigation instead of a lower officer. Sub-section (2) is an important immunizing rule: even if it later turns out the investigating officer technically wasn't the right one empowered to investigate that particular case, that irregularity alone can't be used to challenge the proceedings at any stage — a pure jurisdictional technicality doesn't undo the investigation. Sub-section (3) creates a Magistrate-ordered route parallel to the direct police-initiated route, triggered by the section 173(4) affidavit-based escalation mechanism. And sub-section (4) adds a distinct, extra layer of protection specifically for complaints against public servants for acts done in the discharge of official duty: before a Magistrate can order investigation of such a complaint, he must first get a report on the facts from the public servant's superior officer, and must also consider the public servant's own explanation of what happened.",
+        "essential_elements": [
+          "An officer in charge of a police station may investigate a cognizable case without a Magistrate's order, provided the local court would have jurisdiction over it under Chapter XIV",
+          "The Superintendent of Police may direct that the Deputy Superintendent handle investigation of a serious/grave case",
+          "A proceeding cannot be invalidated merely because the investigating officer was not, strictly, the one empowered under this section to investigate",
+          "A section 210 Magistrate may order investigation after considering an affidavit-supported application under section 173(4) and making any inquiry he considers necessary",
+          "For a complaint against a public servant arising from official-duty conduct, a section 210 Magistrate may only order investigation after receiving a superior officer's report on the incident and considering the public servant's own assertions"
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-section (2)'s immunity is limited to the empowerment/jurisdictional technicality of who investigated — it does not cure substantive illegalities in how the investigation was conducted",
+          "Sub-section (4)'s extra safeguards for public servants apply specifically to conduct in the discharge of official duties — they would not extend to purely private conduct by a public servant unconnected to official functions"
+        ],
+        "how_to_read": "This section is the practical backbone of police-initiated investigation, and sub-section (4) is a notable BNSS-era procedural safeguard for public servants — worth flagging distinctly whenever a complaint targets a government official's conduct in office, since the ordinary section 175(1) self-starting investigative power does not straightforwardly apply without these extra checks."
+      }
+    },
+    {
+      "number": "176",
+      "title": "Procedure for investigation",
+      "raw_text": "176. Procedure for investigation.—(1) If, from information received or otherwise, an officer in charge\nof a police station has reason to suspect the commission of an offence which he is empowered under\nsection 175 to investigate, he shall forthwith send a report of the same to a Magistrate empowered to take\ncognizance of such offence upon a police report and shall proceed in person, or shall depute one of his\nsubordinate officers not being below such rank as the State Government may, by general or special order,\nprescribe in this behalf, to proceed, to the spot, to investigate the facts and circumstances of the case, and,\nif necessary, to take measures for the discovery and arrest of the offender:\n    Provided that—\n        (a) when information as to the commission of any such offence is given against any person by name\n    and the case is not of a serious nature, the officer in charge of a police station need not proceed in\n    person or depute a subordinate officer to make an investigation on the spot;\n        (b) if it appears to the officer in charge of a police station that there is no sufficient ground for\n    entering on an investigation, he shall not investigate the case:\n    Provided further that in relation to an offence of rape, the recording of statement of the victim shall be\nconducted at the residence of the victim or in the place of her choice and as far as practicable by a woman\npolice officer in the presence of her parents or guardian or near relatives or social worker of the locality and\nsuch statement may also be recorded through any audio-video electronic means including mobile phone.\n    (2) In each of the cases mentioned in clauses (a) and (b) of the first proviso to sub-section (1), the\nofficer in charge of the police station shall state in his report the reasons for not fully complying with the\nrequirements of that sub-section by him, and, forward the daily diary report fortnightly to the Magistrate\nand in the case mentioned in clause (b) of the said proviso, the officer shall also forthwith notify to the\ninformant, if any, in such manner as may be prescribed by rules made by the State Government.\n    (3) On receipt of every information relating to the commission of an offence which is made punishable\nfor seven years or more, the officer in charge of a police station shall, from such date, as may be notified\nwithin a period of five years by the State Government in this regard, cause the forensic expert to visit the\ncrime scene to collect forensic evidence in the offence and also cause videography of the process on mobile\nphone or any other electronic device:\n     Provided that where forensic facility is not available in respect of any such offence, the State\nGovernment shall, until the facility in respect of that matter is developed or made in the State, notify the\nutilisation of such facility of any other State.",
+      "key_terms": [
+        "reason to suspect",
+        "proceed to the spot",
+        "no sufficient ground",
+        "forensic expert visit",
+        "seven years or more"
+      ],
+      "breakdown": {
+        "plain_summary": "This lays down the operational how of investigation once a cognizable case is on the books. If the officer in charge has reason to suspect an offence he's empowered to investigate under section 175, he must promptly report it to the Magistrate empowered to take cognizance on a police report, and either go personally, or send a sufficiently senior subordinate, to the spot to investigate facts and circumstances — and, if needed, to find and arrest the offender. Two practical outs exist: he doesn't have to go to the spot personally or depute someone for minor named-accused cases that aren't serious, and he must not investigate at all if there's simply no sufficient ground to do so. Either way, he has to record his reasons and keep the Magistrate informed via the fortnightly diary, and in the no-sufficient-ground scenario, must also promptly notify the informant. A special protective procedure applies for rape cases: the victim's statement must be recorded at her residence or a place of her choosing, as far as practicable by a woman officer, with supportive people present, and can be recorded via audio-video electronic means including a mobile phone. The most significant BNSS innovation here is sub-section (3): for offences punishable with 7 years or more, a forensic expert must visit the crime scene to gather forensic evidence, with the process videographed — a mandatory step being phased in by State Governments within a 5-year notification window, with an inter-State-facility-sharing fallback where local forensic capacity isn't yet available.",
+        "essential_elements": [
+          "Triggered when the officer in charge has reason to suspect a section-175-investigable offence",
+          "He must report to the cognizance-taking Magistrate and proceed (personally or via an appropriately senior subordinate) to the spot to investigate and, if necessary, arrest",
+          "Exception (a): no spot investigation needed for a minor, non-serious, named-accused case",
+          "Exception (b): must not investigate where there is no sufficient ground",
+          "In either exception, reasons must be recorded, a fortnightly diary sent to the Magistrate, and (for the no-ground exception) the informant notified",
+          "Rape-case statements must be recorded at the victim's residence/chosen place, as far as practicable by a woman officer, with supportive persons present, and may use audio-video electronic means",
+          "For offences punishable with 7+ years, forensic-expert crime-scene visits become mandatory (phased in over up to 5 years by State notification), with the process videographed and inter-State facility-sharing where local forensics aren't yet available"
+        ],
+        "exceptions_and_qualifications": [
+          "The two provisos in sub-section (1) are narrow carve-outs from the default spot-investigation duty, each requiring recorded reasons — they are not a general discretion to skip investigation",
+          "The forensic-expert mandate in sub-section (3) is being phased in over time (up to five years) rather than taking immediate nationwide effect, and has a built-in fallback where local facilities are unavailable"
+        ],
+        "how_to_read": "Sub-section (3)'s mandatory forensic-evidence-collection requirement for serious offences is one of the most talked-about BNSS reforms — expect trials for 7-year-plus offences to increasingly turn on whether this forensic visit and videography actually happened, once the relevant State notification takes effect. The rape-victim statement safeguards echo and reinforce the protective mechanisms already seen in section 173."
+      }
+    },
+    {
+      "number": "177",
+      "title": "Report how submitted",
+      "raw_text": "177. Report how submitted.—(1) Every report sent to a Magistrate under section 176 shall, if the State\nGovernment so directs, be submitted through such superior officer of police as the State Government, by\ngeneral or special order, appoints in that behalf.\n    (2) Such superior officer may give such instructions to the officer in charge of the police station as he\nthinks fit, and shall, after recording such instructions on such report, transmit the same without delay to the\nMagistrate.",
+      "key_terms": [
+        "superior officer of police",
+        "instructions on report",
+        "transmit without delay"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a purely administrative routing provision. If the State Government wants an extra layer of police supervision, it can direct that section 176 investigation reports be routed through a designated superior officer before reaching the Magistrate. That superior officer can add whatever instructions he thinks appropriate to the investigating officer, but must record those instructions on the report itself and then forward it to the Magistrate without delay — supervision cannot become an excuse to hold up or bypass the Magistrate's oversight.",
+        "essential_elements": [
+          "Applies only where the State Government has specifically directed this routing-through-a-superior-officer procedure",
+          "The designated superior officer may add instructions for the investigating officer",
+          "Those instructions must be recorded on the report itself",
+          "The report must then be transmitted to the Magistrate without delay"
+        ],
+        "exceptions_and_qualifications": [
+          "This is an optional, State-Government-activated layer of oversight, not a default requirement in every district"
+        ],
+        "how_to_read": "A minor but useful procedural provision to be aware of in States that have activated this supervisory routing — any added instructions become part of the visible record (recorded on the report), preserving transparency even while allowing an extra layer of senior police review."
+      }
+    },
+    {
+      "number": "178",
+      "title": "Power to hold investigation or preliminary inquiry",
+      "raw_text": "178. Power to hold investigation or preliminary inquiry.—The Magistrate, on receiving a report\nunder section 176, may direct an investigation, or, if he thinks fit, at once proceed, or depute any Magistrate\nsubordinate to him to proceed, to hold a preliminary inquiry into, or otherwise to dispose of, the case in the\nmanner provided in this Sanhita.",
+      "key_terms": [
+        "direct an investigation",
+        "preliminary inquiry",
+        "depute subordinate Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the Magistrate who receives the section 176 report a flexible menu of options rather than a single fixed response. He can direct the police to investigate further; or he can personally step in right away and hold a preliminary inquiry himself; or he can delegate that preliminary inquiry to a subordinate Magistrate; or he can otherwise dispose of the case following whatever procedure this Sanhita provides for the situation at hand.",
+        "essential_elements": [
+          "Triggered by receipt of a section 176 report",
+          "Option one: direct an investigation",
+          "Option two: personally hold a preliminary inquiry at once",
+          "Option three: depute a subordinate Magistrate to hold the preliminary inquiry",
+          "Option four: otherwise dispose of the case in the manner this Sanhita provides"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a discretionary menu, not a mandatory sequence — the Magistrate chooses whichever path fits the case, informed by the nature and quality of the report received"
+        ],
+        "how_to_read": "This closing section of the sub-batch is the magisterial counterpart to the police's investigative powers in sections 175-176 — it confirms that judicial oversight sits above the police investigation from the very outset, with the Magistrate free to test, redirect, or independently inquire into the case as he judges appropriate."
       }
     }
   ]
