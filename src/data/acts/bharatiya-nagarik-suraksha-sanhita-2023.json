@@ -274,7 +274,9 @@
     "supreme court": "India's apex Court and final court of appeal, established under Article 124 of the Constitution; within this Sanhita's appellate ladder, it is the direct appeal forum for convictions from a High Court's extraordinary original criminal jurisdiction (section 415(1)) and, separately, for certain High Court reversals of acquittal into a death/life/ten-year-plus sentence (section 420).",
     "plea of guilty": "An accused's formal admission in Court that he committed the offence charged, which if accepted results in conviction on that plea itself, without a full trial; section 416 bars any appeal against a High Court conviction on a guilty plea, and limits appeal from a Sessions/Magistrate guilty-plea conviction to only the extent or legality of the sentence, not the conviction itself.",
     "central government": "The Union Government of India, exercising executive power under the Constitution; within this Chapter it has its own independent power (alongside State Governments) to direct the Public Prosecutor to appeal an inadequate sentence (section 418(2)) or an acquittal (section 419(2)) where the offence was investigated by a Central agency empowered under a Central Act other than this Sanhita, such as the CBI or NIA.",
-    "special leave": "The High Court's discretionary permission, which must be separately sought and granted, before an appeal against an order of acquittal can proceed in certain circumstances; section 419(4)-(6) lets a private complainant apply for special leave to appeal an acquittal, subject to strict limitation periods (six months for a public servant complainant, sixty days otherwise), and forecloses any other route to appeal that acquittal if special leave is refused."
+    "special leave": "The High Court's discretionary permission, which must be separately sought and granted, before an appeal against an order of acquittal can proceed in certain circumstances; section 419(4)-(6) lets a private complainant apply for special leave to appeal an acquittal, subject to strict limitation periods (six months for a public servant complainant, sixty days otherwise), and forecloses any other route to appeal that acquittal if special leave is refused.",
+    "petition of appeal": "The written document by which an appeal is formally initiated -- presented by the appellant or his advocate under section 423, ordinarily accompanied by a copy of the judgment or order appealed against unless the Court dispenses with that requirement; a jailed appellant may instead present it to the jail's officer-in-charge under section 424, who forwards it to the proper Appellate Court.",
+    "summary dismissal": "An Appellate Court's power under section 425 to dismiss an appeal at the threshold, without a full hearing, if it finds no sufficient ground for interfering after examining the petition of appeal and judgment copy -- subject to safeguards: an appellant under section 423 must get a reasonable hearing opportunity first, a jailed appellant under section 424 must generally get one too (unless the appeal is frivolous or producing him would be disproportionately inconvenient), and no section 424 appeal can be summarily dismissed before the appeal-filing period has expired."
   },
   "sections": [
     {
@@ -9544,6 +9546,97 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This is distinct from section 415(1)'s extraordinary-original-jurisdiction route to the Supreme Court -- section 420 is specifically about a High Court's appellate reversal of an acquittal into a severe sentence, a scenario worth flagging immediately to any client facing such a reversal, since the Supreme Court appeal window and procedure differ from an ordinary High Court appeal."
+      }
+    },
+    {
+      "number": "421",
+      "title": "Special right of appeal in certain cases",
+      "raw_text": "421. Special right of appeal in certain cases.—Notwithstanding anything in this Chapter, when more\npersons than one are convicted in one trial, and an appealable judgment or order has been passed in respect\nof any of such persons, all or any of the persons convicted at such trial shall have a right of appeal.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This closes a potential gap in joint trials: even if a particular convicted person's own situation would not, standing alone, obviously trigger an appeal right under the earlier sections of this Chapter, the fact that an appealable judgment or order has been passed against any one of multiple co-accused convicted at the same trial gives all or any of them a right of appeal. It ensures joint-trial defendants are not left without an appellate remedy due to technical gaps in how the appeal-eligibility rules apply to each individual conviction.",
+        "essential_elements": [
+          "Applies where more than one person is convicted in one trial.",
+          "An appealable judgment or order must have been passed in respect of any of those persons.",
+          "All or any of the persons convicted at that trial then have a right of appeal.",
+          "This right operates notwithstanding anything else in this Chapter (i.e., it is an overriding, gap-filling entitlement)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a safety-net provision -- practitioners defending multiple co-accused in a joint trial should treat it as confirming that none of their clients are stranded without appeal rights merely because the appealability analysis might otherwise look different person-by-person."
+      }
+    },
+    {
+      "number": "422",
+      "title": "Appeal to Court of Session how heard",
+      "raw_text": "422. Appeal to Court of Session how heard.—(1) Subject to the provisions of sub-section (2), an\nappeal to the Court of Session or Sessions Judge shall be heard by the Sessions Judge or by an Additional\nSessions Judge:\n    Provided that an appeal against a conviction on a trial held by a Magistrate of the second class may be\nheard and disposed of by the Chief Judicial Magistrate.\n    (2) An Additional Sessions Judge or a Chief Judicial Magistrate shall hear only such appeals as the\nSessions Judge of the division may, by general or special order, make over to him or as the High Court\nmay, by special order, direct him to hear.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This assigns who within the Court of Session actually hears an appeal routed there: ordinarily the Sessions Judge or an Additional Sessions Judge, with a special carve-out letting the Chief Judicial Magistrate hear and dispose of appeals against second-class Magistrate convictions. An Additional Sessions Judge or Chief Judicial Magistrate cannot simply pick up any appeal on their own initiative -- they may only hear those specifically made over to them by the Sessions Judge's general or special order, or specially directed by the High Court.",
+        "essential_elements": [
+          "Default: appeals to the Court of Session/Sessions Judge are heard by the Sessions Judge or an Additional Sessions Judge.",
+          "Proviso: an appeal against a second-class Magistrate conviction may instead be heard and disposed of by the Chief Judicial Magistrate.",
+          "An Additional Sessions Judge or Chief Judicial Magistrate hears only appeals made over to him by the Sessions Judge's order, or specially directed by the High Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Practitioners should check the relevant Sessions Division's standing orders on case allocation -- an appeal heard by an Additional Sessions Judge or Chief Judicial Magistrate without a valid making-over order or High Court direction is vulnerable to a jurisdictional challenge."
+      }
+    },
+    {
+      "number": "423",
+      "title": "Petition of appeal",
+      "raw_text": "423. Petition of appeal.—Every appeal shall be made in the form of a petition in writing presented by\nthe appellant or his advocate, and every such petition shall (unless the Court to which it is presented\notherwise directs) be accompanied by a copy of the judgment or order appealed against.",
+      "key_terms": [
+        "petition of appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "This sets the basic form requirement for every appeal under this Chapter: it must be a written petition, presented either by the appellant himself or his advocate, and it must normally come with a copy of the judgment or order being appealed -- though the Court receiving it can waive that accompanying-copy requirement in a given case.",
+        "essential_elements": [
+          "Every appeal must be made as a written petition.",
+          "The petition must be presented by the appellant or his advocate.",
+          "It must be accompanied by a copy of the judgment or order appealed against, unless the Court otherwise directs."
+        ],
+        "exceptions_and_qualifications": [
+          "The Court receiving the petition may direct that the judgment/order copy need not accompany it."
+        ],
+        "how_to_read": "This is the procedural entry point for the entire appeals Chapter -- practitioners should treat 'petition + judgment copy' as the default filing checklist and only rely on the Court's discretion to waive the copy requirement in genuinely justified circumstances (e.g., certified copy delays)."
+      }
+    },
+    {
+      "number": "424",
+      "title": "Procedure when appellant in jail",
+      "raw_text": "424. Procedure when appellant in jail.—If the appellant is in jail, he may present his petition of\nappeal and the copies accompanying the same to the officer in charge of the jail, who shall thereupon\nforward such petition and copies to the proper Appellate Court.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This gives an incarcerated appellant a practical route to file an appeal without needing to personally appear before or send papers directly to the Appellate Court: he may hand his petition of appeal (and accompanying copies) to the jail's officer-in-charge, who is then obligated to forward them on to the proper Appellate Court.",
+        "essential_elements": [
+          "Applies to an appellant who is in jail.",
+          "He may present his petition of appeal and accompanying copies to the jail's officer in charge.",
+          "The officer in charge must forward the petition and copies to the proper Appellate Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This route is expressly cross-referenced by sections 425 and 434 -- e.g., a section 424 filing gets a slightly different (still-protective) summary-dismissal standard than a section 423 filing, so identifying which route an appellant used matters procedurally down the line."
+      }
+    },
+    {
+      "number": "425",
+      "title": "Summary dismissal of appeal",
+      "raw_text": "425. Summary dismissal of appeal.—(1) If upon examining the petition of appeal and copy of the\njudgment received under section 423 or section 424, the Appellate Court considers that there is no sufficient\nground for interfering, it may dismiss the appeal summarily:\n    Provided that—\n        (a) no appeal presented under section 423 shall be dismissed unless the appellant or his advocate\n    has had a reasonable opportunity of being heard in support of the same;\n        (b) no appeal presented under section 424 shall be dismissed except after giving the appellant a\n    reasonable opportunity of being heard in support of the same, unless the Appellate Court considers that\n    the appeal is frivolous or that the production of the accused in custody before the Court would involve\n    such inconvenience as would be disproportionate in the circumstances of the case;\n        (c) no appeal presented under section 424 shall be dismissed summarily until the period allowed\n    for preferring such appeal has expired.\n\n    (2) Before dismissing an appeal under this section, the Court may call for the record of the case.\n   (3) Where the Appellate Court dismissing an appeal under this section is a Court of Session or of the\nChief Judicial Magistrate, it shall record its reasons for doing so.\n    (4) Where an appeal presented under section 424 has been dismissed summarily under this section and\nthe Appellate Court finds that another petition of appeal duly presented under section 423 on behalf of the\nsame appellant has not been considered by it, that Court may, notwithstanding anything contained in section\n434, if satisfied that it is necessary in the interests of justice so to do, hear and dispose of such appeal in\naccordance with law.",
+      "key_terms": [
+        "summary dismissal"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the Appellate Court a filtering mechanism at the threshold: after examining the petition and judgment copy, if it sees no sufficient ground for interfering, it may dismiss the appeal without a full hearing. But this power is hedged with hearing-opportunity safeguards that differ slightly by filing route (ordinary section 423 filings always get a reasonable hearing opportunity; jail-routed section 424 filings generally do too, unless the appeal is frivolous or producing the accused would be disproportionately inconvenient) and a mandatory waiting period for section 424 filings (no summary dismissal before the appeal period expires). The Court may call for the case record before deciding, and a Court of Session or Chief Judicial Magistrate summarily dismissing an appeal must record its reasons. A special repair mechanism in sub-section (4) lets the Court revisit a section 424 summary dismissal if it later discovers a duplicate section 423 petition from the same appellant was never actually considered -- overriding the ordinary finality rule in section 434 where the interests of justice require it.",
+        "essential_elements": [
+          "The Appellate Court may summarily dismiss an appeal if it finds no sufficient ground for interfering, after examining the petition and judgment copy.",
+          "Proviso (a): a section 423 appeal cannot be dismissed without giving the appellant/advocate a reasonable hearing opportunity.",
+          "Proviso (b): a section 424 (jail-routed) appeal generally needs the same hearing opportunity, unless frivolous or producing the accused would be disproportionately inconvenient.",
+          "Proviso (c): a section 424 appeal cannot be summarily dismissed before the appeal-filing period has expired.",
+          "The Court may call for the case record before dismissing.",
+          "A Court of Session or Chief Judicial Magistrate dismissing summarily must record its reasons.",
+          "Sub-section (4): if a section 424 summary dismissal is later found to have overlooked an uncommented-upon section 423 petition from the same appellant, the Court may, in the interests of justice, hear and dispose of that appeal despite section 434's finality rule."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The sub-section (4) repair mechanism is a useful, narrow safety valve worth flagging to clients whose jail-routed appeal was summarily dismissed -- if a parallel advocate-filed petition on the same conviction was never actually considered, this section allows a second look notwithstanding ordinary finality."
       }
     }
   ]
