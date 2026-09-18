@@ -302,7 +302,10 @@
     "suspension": "The temporary deferral of a sentence's execution, without altering its underlying character or duration -- as distinct from remission (permanent reduction of the term) and commutation (substitution of a different, lesser kind of punishment). Section 473 empowers the appropriate Government to suspend a sentence's execution, with or without conditions.",
     "remission": "A reduction of the whole or part of the punishment to which a person has been sentenced, without changing its character -- as distinct from commutation (substituting a different kind of punishment) and suspension (temporary deferral without reduction). Section 473 empowers the appropriate Government to remit a sentence, subject to conditions it may impose and to the restrictions in section 475 for certain life-imprisonment cases.",
     "indigent": "A person unable to furnish surety or afford a bail bond. Under section 478(1)'s proviso, an indigent person is to be discharged on executing a personal bond for appearance instead of a surety-backed bail bond; the Explanation creates a presumption of indigency if the person is unable to give a bail bond within a week of arrest.",
-    "under trial prisoner": "A person in custody during the investigation, inquiry, or trial of a case, not yet convicted. Section 479 caps how long an under trial prisoner may be detained by reference to the maximum sentence for the alleged offence -- ordinarily one-half, or one-third for first-time offenders -- subject to the Court's power to extend for recorded reasons and an absolute outer limit at the offence's maximum punishment."
+    "under trial prisoner": "A person in custody during the investigation, inquiry, or trial of a case, not yet convicted. Section 479 caps how long an under trial prisoner may be detained by reference to the maximum sentence for the alleged offence -- ordinarily one-half, or one-third for first-time offenders -- subject to the Court's power to extend for recorded reasons and an absolute outer limit at the offence's maximum punishment.",
+    "appellate court": "The Court to which an appeal from a trial Court's judgment or order lies. Section 481 requires an accused to execute a bond binding him to appear before the Appellate Court whenever it issues notice on an appeal or petition against the trial Court's judgment, so that his prior bail does not lapse simply because the case has moved up a level.",
+    "bailable warrant": "A warrant of arrest that, unlike an ordinary warrant, directs that the person arrested under it be released on bail on furnishing security, rather than being kept in custody pending production before the Court. Section 482(3) requires a Magistrate who decides to issue a warrant against a person already covered by a Court's anticipatory-bail direction to issue a bailable warrant consistent with that direction.",
+    "informant": "The person who first supplied information of an offence (typically the complainant or first informant in a First Information Report). Section 483(2) makes the presence of the informant, or someone authorised by him, obligatory at the hearing of a bail application in cases under section 65 or section 70(2) of the Bharatiya Nyaya Sanhita, 2023 (sexual offences against children and gang rape of a woman under eighteen)."
   },
   "sections": [
     {
@@ -10764,6 +10767,127 @@
           "Sub-section (6)'s sixty-day mandatory-bail rule can be displaced by the Magistrate recording reasons for continued detention."
         ],
         "how_to_read": "This section's seven sub-sections operate as a layered decision tree -- practitioners should work through it in sequence: first classify the offence's severity and the accused's prior record to locate which bar (if any) applies, then check whether a proviso reopens the door, before turning to the separate procedural safeguards in sub-sections (3) through (7) that apply once bail is actually granted or a trial drags on."
+      }
+    },
+    {
+      "number": "481",
+      "title": "Bail to require accused to appear before next Appellate Court",
+      "raw_text": "481. Bail to require accused to appear before next Appellate Court.—(1) Before conclusion of the\ntrial and before disposal of the appeal, the Court trying the offence or the Appellate Court, as the case may\nbe, shall require the accused to execute a bond or bail bond, to appear before the higher Court as and when\nsuch Court issues notice in respect of any appeal or petition filed against the judgment of the respective\nCourt and such bond shall be in force for six months.\n    (2) If such accused fails to appear, the bond stand forfeited and the procedure under section 491 shall\napply.",
+      "key_terms": [
+        "appellate court",
+        "bond",
+        "bail bond"
+      ],
+      "breakdown": {
+        "plain_summary": "This ensures bail doesn't simply evaporate when a case moves to a higher forum. Before the trial concludes, and again before an appeal is disposed of, the trying Court or the Appellate Court must require the accused to execute a bond or bail bond binding him to appear before the next higher Court whenever it issues notice on an appeal or petition against the judgment -- and this bond stays in force for six months. If the accused then fails to appear as required, the bond is forfeited and the standard forfeiture procedure under section 491 (show-cause, penalty recovery, potential civil-jail imprisonment for a defaulting surety) kicks in.",
+        "essential_elements": [
+          "Before conclusion of trial and before disposal of an appeal, the Court must require the accused to execute a bond/bail bond to appear before the higher Court on notice of any appeal/petition.",
+          "The bond remains in force for six months.",
+          "Failure to appear as required forfeits the bond, triggering the section 491 forfeiture procedure."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section bridges the trial-level and appellate-level bail regimes -- practitioners should track the six-month validity window and ensure a fresh bond is executed if appellate proceedings outlast it, to avoid an unintended lapse in the accused's bail status."
+      }
+    },
+    {
+      "number": "482",
+      "title": "Direction for grant of bail to person apprehending arrest",
+      "raw_text": "482. Direction for grant of bail to person apprehending arrest.—(1) When any person has reason\nto believe that he may be arrested on an accusation of having committed a non-bailable offence, he may\napply to the High Court or the Court of Session for a direction under this section; and that Court may, if it\nthinks fit, direct that in the event of such arrest, he shall be released on bail.\n    (2) When the High Court or the Court of Session makes a direction under sub-section (1), it may include\nsuch conditions in such directions in the light of the facts of the particular case, as it may think fit,\nincluding—\n        (i) a condition that the person shall make himself available for interrogation by a police officer as\n    and when required;\n        (ii) a condition that the person shall not, directly or indirectly, make any inducement, threat or\n    promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such\n    facts to the Court or to any police officer;\n        (iii) a condition that the person shall not leave India without the previous permission of the Court;\n        (iv) such other condition as may be imposed under sub-section (3) of section 480, as if the bail were\n    granted under that section.\n    (3) If such person is thereafter arrested without warrant by an officer in charge of a police station on\nsuch accusation, and is prepared either at the time of arrest or at any time while in the custody of such\nofficer to give bail, he shall be released on bail; and if a Magistrate taking cognizance of such offence\ndecides that a warrant should be issued in the first instance against that person, he shall issue a bailable\nwarrant in conformity with the direction of the Court under sub-section (1).\n    (4) Nothing in this section shall apply to any case involving the arrest of any person on accusation of\nhaving committed an offence under section 65 and sub-section (2) of section 70 of the Bharatiya Nyaya\nSanhita, 2023.",
+      "key_terms": [
+        "high court",
+        "court of session",
+        "bailable warrant",
+        "bharatiya nyaya sanhita, 2023",
+        "cognizance",
+        "magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the anticipatory bail provision -- a person who reasonably believes he may be arrested on a non-bailable offence accusation can apply to the High Court or Court of Session for a direction that, should the arrest happen, he be released on bail. The Court has discretion ('may, if it thinks fit') whether to grant this protective direction at all. If granted, the Court can attach conditions tailored to the case, including a menu of four suggested types: availability for police interrogation, no inducement/threat/tampering with witnesses, no leaving India without Court permission, and any other condition otherwise available under section 480(3) as if bail had been granted there. Sub-section (3) operationalizes the direction: if the person is later arrested without warrant on that accusation and is prepared to give bail, he must be released on bail; and if a Magistrate taking cognizance instead decides a warrant should issue in the first instance, that warrant must be a bailable warrant consistent with the Court's earlier direction -- so the anticipatory protection survives even a formal warrant route. Sub-section (4) is a hard carve-out: this entire anticipatory-bail mechanism does not apply to accusations under section 65 or section 70(2) of the Bharatiya Nyaya Sanhita, 2023 (aggravated sexual offences against children and gang rape of a woman under eighteen) -- no anticipatory bail is available for these offences.",
+        "essential_elements": [
+          "A person reasonably apprehending arrest on a non-bailable offence accusation may apply to the High Court or Court of Session for an anticipatory-bail direction.",
+          "The Court has discretion whether to grant the direction, and may attach conditions (interrogation availability, no witness tampering, no leaving India, or other section 480(3)-type conditions).",
+          "If later arrested without warrant and prepared to give bail, the person shall be released on bail.",
+          "If a Magistrate instead issues a warrant in the first instance, it must be a bailable warrant consistent with the Court's direction.",
+          "This section does not apply at all to accusations under BNS section 65 or section 70(2)."
+        ],
+        "exceptions_and_qualifications": [
+          "Grant of the direction is discretionary, not automatic, even where the applicant reasonably apprehends arrest.",
+          "The absolute carve-out for BNS section 65/70(2) accusations means anticipatory bail is categorically unavailable for those offences, regardless of the case's individual facts."
+        ],
+        "how_to_read": "This is the anticipatory bail mechanism -- practitioners should note it is available only from the High Court or Court of Session (never a Magistrate), and must flag the absolute section 65/70(2) bar at the outset, since no argument on individual facts can overcome that categorical exclusion."
+      }
+    },
+    {
+      "number": "483",
+      "title": "Special powers of High Court or Court of Session regarding bail",
+      "raw_text": "483. Special powers of High Court or Court of Session regarding bail.—(1) A High Court or Court\nof Session may direct,—\n        (a) that any person accused of an offence and in custody be released on bail, and if the offence is of the\n    nature specified in sub-section (3) of section 480, may impose any condition which it considers necessary\n    for the purposes mentioned in that sub-section;\n        (b) that any condition imposed by a Magistrate when releasing any person on bail be set aside or\n    modified:\n    Provided that the High Court or the Court of Session shall, before granting bail to a person who is\naccused of an offence which is triable exclusively by the Court of Session or which, though not so triable,\nis punishable with imprisonment for life, give notice of the application for bail to the Public Prosecutor\nunless it is, for reasons to be recorded in writing, of opinion that it is not practicable to give such notice:\n    Provided further that the High Court or the Court of Session shall, before granting bail to a person who\nis accused of an offence triable under section 65 or sub-section (2) of section 70 of the Bharatiya Nyaya\nSanhita, 2023, give notice of the application for bail to the Public Prosecutor within a period of fifteen days\nfrom the date of receipt of the notice of such application.\n    (2) The presence of the informant or any person authorised by him shall be obligatory at the time of\nhearing of the application for bail to the person under section 65 or sub-section (2) of section 70 of the\nBharatiya Nyaya Sanhita, 2023.\n    (3) A High Court or Court of Session may direct that any person who has been released on bail under\nthis Chapter be arrested and commit him to custody.",
+      "key_terms": [
+        "high court",
+        "court of session",
+        "public prosecutor",
+        "informant",
+        "bharatiya nyaya sanhita, 2023",
+        "magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the High Court and Court of Session a broader, supervisory bail power beyond what a Magistrate can do: they may release any accused-and-in-custody person on bail (imposing section 480(3)-type conditions where relevant), or set aside/modify conditions a Magistrate has already imposed. Two provisos add procedural safeguards for serious-offence bail applications: first, before granting bail in a Court-of-Session-exclusive or life-imprisonment-punishable offence, the Public Prosecutor must be given notice of the application, unless the Court records in writing that notice isn't practicable; second, for BNS section 65/70(2) offences specifically, notice to the Public Prosecutor is mandatory within fifteen days of the bail application's receipt -- no 'not practicable' escape valve here. Sub-section (2) makes the informant's (or his authorised representative's) presence obligatory at the bail hearing itself for these same section 65/70(2) cases, giving the victim's side a guaranteed voice at that hearing. Sub-section (3) confirms these Courts retain a standing power to later re-arrest and re-commit to custody anyone released on bail under this Chapter, if circumstances warrant.",
+        "essential_elements": [
+          "High Court/Court of Session may release any accused-and-in-custody person on bail, with section 480(3)-type conditions where applicable, or set aside/modify a Magistrate's bail conditions.",
+          "For Court-of-Session-exclusive or life-imprisonment-punishable offences, Public Prosecutor notice is required before granting bail, unless the Court records reasons that notice is impracticable.",
+          "For BNS section 65/70(2) offences, Public Prosecutor notice is mandatory within fifteen days of the application's receipt -- no impracticability exception.",
+          "The informant's (or authorised representative's) presence is obligatory at bail hearings for BNS section 65/70(2) offences.",
+          "The High Court/Court of Session may direct arrest and recommitment to custody of any person previously released on bail under this Chapter."
+        ],
+        "exceptions_and_qualifications": [
+          "The first proviso's Public-Prosecutor-notice requirement can be waived by the Court recording written reasons of impracticability -- but this escape valve is unavailable for the second proviso's BNS section 65/70(2) category."
+        ],
+        "how_to_read": "The layered notice requirements here -- general 'unless impracticable' versus absolute for the most serious sexual offences against children/minors -- reflect a deliberate legislative tightening for that specific category; practitioners on either side of a section 65/70(2) bail application should build the fifteen-day notice and informant-presence requirements into their hearing timeline from the outset."
+      }
+    },
+    {
+      "number": "484",
+      "title": "Amount of bond and reduction thereof",
+      "raw_text": "484. Amount of bond and reduction thereof.—(1) The amount of every bond executed under this\nChapter shall be fixed with due regard to the circumstances of the case and shall not be excessive.\n    (2) The High Court or the Court of Session may direct that the bail required by a police officer or\nMagistrate be reduced.",
+      "key_terms": [
+        "bond",
+        "high court",
+        "court of session",
+        "magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "A short but consequential fairness safeguard: whenever a bond is executed under this Chapter, its monetary amount must be fixed with due regard to the case's actual circumstances and must not be excessive -- bail conditions cannot be set punitively high simply to keep someone in custody in substance while nominally offering bail. Sub-section (2) gives the High Court or Court of Session an express oversight power to reduce a bail amount that a police officer or Magistrate has fixed, providing a direct avenue of relief where a lower authority's bond amount is unreasonably steep.",
+        "essential_elements": [
+          "Every bond's amount must be fixed with due regard to the case's circumstances and must not be excessive.",
+          "The High Court or Court of Session may direct reduction of a bail amount fixed by a police officer or Magistrate."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the go-to provision when a bail amount, though nominally granted, is set so high as to be effectively a denial of bail -- counsel should move the High Court or Court of Session under sub-section (2) rather than treating an excessive bond amount as unchallengeable simply because bail was 'granted' in name."
+      }
+    },
+    {
+      "number": "485",
+      "title": "Bond of accused and sureties",
+      "raw_text": "485. Bond of accused and sureties.—(1) Before any person is released on bond or bail bond, a bond\nfor such sum of money as the police officer or Court, as the case may be, thinks sufficient shall be executed\nby such person, and, when he is released on bond or bail bond, by one or more sufficient sureties conditioned\nthat such person shall attend at the time and place mentioned in the bond, and shall continue so to attend\nuntil otherwise directed by the police officer or Court, as the case may be.\n    (2) Where any condition is imposed for the release of any person on bail, the bond or bail bond shall\nalso contain that condition.\n    (3) If the case so requires, the bond or bail bond shall also bind the person released on bail to appear\nwhen called upon at the High Court, Court of Session or other Court to answer the charge.\n    (4) For the purpose of determining whether the sureties are fit or sufficient, the Court may accept\naffidavits in proof of the facts contained therein relating to the sufficiency or fitness of the sureties, or, if it\nconsiders necessary, may either hold an enquiry itself or cause an inquiry to be made by a Magistrate\nsubordinate to the Court, as to such sufficiency or fitness.",
+      "key_terms": [
+        "bond",
+        "bail bond",
+        "surety",
+        "sureties",
+        "high court",
+        "court of session",
+        "magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This sets out the mechanics of the bond/bail-bond instrument itself. Before release, the person must execute a bond in a sum the police officer or Court considers sufficient, and, where sureties are involved, one or more sufficient sureties must also execute it -- all conditioned on the person attending at the specified time and place, continuing to do so until otherwise directed. Any condition attached to the bail grant (e.g., under section 480(3) or 482(2)) must itself be written into the bond or bail bond, not left as a separate informal understanding. Where the case requires it, the bond can also bind the person to appear before the High Court, Court of Session, or other Court to answer the charge -- covering appearance obligations beyond the immediate releasing authority. Sub-section (4) addresses how surety fitness/sufficiency is verified: the Court may rely on affidavits, or, if it considers necessary, hold its own enquiry or have a subordinate Magistrate conduct one.",
+        "essential_elements": [
+          "Before release, the person must execute a bond for a sum the police officer/Court considers sufficient.",
+          "Sufficient sureties (one or more) must also execute the bond where release is on bond/bail bond with sureties, conditioned on the person's continued attendance.",
+          "Any condition imposed for bail must be written into the bond or bail bond itself.",
+          "Where required, the bond can also bind the person to appear before the High Court, Court of Session, or other Court to answer the charge.",
+          "Surety fitness/sufficiency may be verified via affidavits, or by a Court enquiry (directly or through a subordinate Magistrate)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the drafting-mechanics section for every bond executed in this Chapter -- counsel preparing a bail bond should ensure every condition actually granted by the Court is expressly recorded in the bond document itself, since sub-section (2) makes this a requirement, not a formality."
       }
     }
   ]
