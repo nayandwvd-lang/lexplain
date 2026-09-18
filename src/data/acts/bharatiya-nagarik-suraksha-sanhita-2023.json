@@ -102,8 +102,8 @@
     "removal in custody": "The process of transferring an arrested person, under police escort, from the place/authority of arrest to the Court that issued the warrant against them.",
     "proclamation": "A public notice issued by a Court under Section 84, requiring a person against whom a warrant cannot be executed (because they have absconded or are concealing themselves) to appear at a specified place and time, not less than 30 days from publication.",
     "conclusive evidence": "Evidence that is treated as legally decisive and not open to rebuttal, as with a Court's written statement of due publication of a proclamation under Section 84(3).",
-    "attachment": "A court-ordered seizure, or equivalent legal restraint, of a person's property to compel their appearance or to preserve the property pending proceedings, as provided in Section 85 for absconding proclaimed persons.",
-    "receiver": "A person appointed by a Court to manage or take custody of attached property, exercising the same powers, duties, and liabilities as a receiver under the Code of Civil Procedure, 1908.",
+    "attachment": "A legal process by which property is taken into the custody of the law (a Court or Magistrate) so that it cannot be transferred, damaged, or dealt with, pending resolution of a dispute over it or to secure recovery of a sum due.",
+    "receiver": "A person appointed by a Court (or, under section 165, by a Magistrate) to take custody of and manage disputed property pending the resolution of a dispute over who is entitled to possess it, protecting the property from waste or loss in the meantime.",
     "collector": "The senior revenue officer of a district, through whom attachment of revenue-paying land is carried out under Section 85(4).",
     "contracting state": "A foreign State with which India has reciprocal arrangements for legal assistance in criminal matters, as governed by Chapter VIII, relevant to cross-border identification and forfeiture of a proclaimed person's property under Section 86.",
     "net proceeds": "The amount realised from the sale of attached property after deducting all costs incurred as a consequence of the attachment, as restored to a person under Section 88(3).",
@@ -134,7 +134,10 @@
     "public nuisance": "An act, omission, or state of affairs that causes injury, danger, or annoyance to the public or to people generally who dwell or occupy property in the vicinity, or that obstructs the public's lawful use of a way, river, channel, or public place. Chapter XI Part B (sections 152-162) gives Magistrates summary powers to order removal or regulation of public nuisances.",
     "sanction": "Prior governmental approval that must be obtained before a prosecution can be instituted against certain categories of persons (such as public servants or armed-forces personnel) for acts done in their official capacity. Under section 151, prosecution for acts under sections 148-150 needs Central Government sanction for armed-forces personnel, or State Government sanction in any other case.",
     "conditional order": "An order made under section 152 that is not yet final — it directs the person concerned either to perform a specified act (such as removing an obstruction) within a fixed time, or to appear and show cause why the order should not be made absolute.",
-    "absolute order": "The final, binding form that a conditional order under section 152 takes once the person against whom it is made either defaults entirely (triggering section 155) or appears, shows cause, and fails to satisfy the Magistrate that the order is unreasonable (section 157)."
+    "absolute order": "The final, binding form that a conditional order under section 152 takes once the person against whom it is made either defaults entirely (triggering section 155) or appears, shows cause, and fails to satisfy the Magistrate that the order is unreasonable (section 157).",
+    "easement": "A legal right to use land or water belonging to someone else in a specific limited way — for example, a right of way, a right to draw water, or a right of passage — without owning it.",
+    "ex parte": "A proceeding, order, or hearing conducted for the benefit of, or on the application of, one party only, without requiring the presence or participation of the other side — typically used for urgent situations where advance notice is impracticable or would defeat the purpose of the order.",
+    "affray": "A disturbance caused by two or more persons fighting in a public place in a manner that alarms the public; one of the harms sections 162 and 163 empower a Magistrate to prevent."
   },
   "sections": [
     {
@@ -3619,6 +3622,219 @@
           "This is a discretionary evidentiary power, not a mandatory step — the Magistrate may proceed on the evidence already before him without invoking it"
         ],
         "how_to_read": "This closing section of the first sub-batch equips the Magistrate to resolve genuinely technical or on-the-ground factual disputes — precisely the kind that arise in nuisance cases involving structural safety, encroachment boundaries, or watercourse rights — without having to rely solely on the parties' own competing evidence."
+      }
+    },
+    {
+      "number": "159",
+      "title": "Power of Magistrate to furnish written instructions, etc.",
+      "raw_text": "159. Power of Magistrate to furnish written instructions, etc.—(1) Where the Magistrate directs a\nlocal investigation by any person under section 158, the Magistrate may—\n        (a) furnish such person with such written instructions as may seem necessary for his guidance;\n        (b) declare by whom the whole or any part of the necessary expenses of the local investigation shall\n    be paid.\n    (2) The report of such person may be read as evidence in the case.\n    (3) Where the Magistrate summons and examines an expert under section 158, the Magistrate may\ndirect by whom the costs of such summoning and examination shall be paid.",
+      "key_terms": [
+        "written instructions",
+        "expenses of local investigation",
+        "report as evidence",
+        "costs of expert examination"
+      ],
+      "breakdown": {
+        "plain_summary": "This fills in the operational details of the local-investigation and expert-examination powers granted by section 158. When the Magistrate sends someone to conduct a local investigation, he can hand that person written instructions on exactly what to look into and how, and can also decide who bears the expense of the investigation. Once the investigator reports back, that report itself can be used as evidence in the case — the investigator doesn't necessarily need to be separately examined as a witness for the report to count. Similarly, when an expert is summoned and examined under section 158, the Magistrate can direct who pays the costs of bringing in that expert.",
+        "essential_elements": [
+          "The Magistrate may furnish the local investigator with written instructions for guidance",
+          "The Magistrate may declare who bears the expenses (in whole or part) of the local investigation",
+          "The investigator's report may be read as evidence in the case",
+          "For an expert summoned under section 158, the Magistrate may direct who bears the costs of summoning and examining the expert"
+        ],
+        "exceptions_and_qualifications": [
+          "Allowing the report to be 'read as evidence' is a practical evidentiary shortcut for this summary jurisdiction — it does not by itself preclude a party from cross-examining the investigator if the Magistrate considers that necessary for fairness"
+        ],
+        "how_to_read": "Treat section 159 as the logistics companion to section 158: 158 grants the power to investigate or consult an expert, and 159 answers the two questions that immediately follow — who pays, and how is the resulting material actually used as evidence."
+      }
+    },
+    {
+      "number": "160",
+      "title": "Procedure on order being made absolute and consequences of disobedience",
+      "raw_text": "160. Procedure on order being made absolute and consequences of disobedience.—(1) When an\norder has been made absolute under section 155 or section 157, the Magistrate shall give notice of the same\nto the person against whom the order was made, and shall further require him to perform the act directed\nby the order within the time to be fixed in the notice, and inform him that, in case of disobedience, he shall\nbe liable to the penalty provided by section 223 of the Bharatiya Nyaya Sanhita, 2023.\n    (2) If such act is not performed within the time fixed, the Magistrate may cause it to be performed, and\nmay recover the costs of performing it, either by the sale of any building, goods or other property removed\nby his order, or by the distress and sale of any other movable property of such person within or without\nsuch Magistrate's local jurisdiction, and if such other property is without such jurisdiction, the order shall\nauthorise its attachment and sale when endorsed by the Magistrate within whose local jurisdiction the\nproperty to be attached is found.\n    (3) No suit shall lie in respect of anything done in good faith under this section.",
+      "key_terms": [
+        "notice of absolute order",
+        "penalty under section 223 BNS",
+        "distress and sale",
+        "endorsed order",
+        "good faith bar to suit"
+      ],
+      "breakdown": {
+        "plain_summary": "This is where an absolute order (made under either section 155's default route or section 157's contested-hearing route) actually gets executed. The Magistrate first gives formal notice to the person, fixing a fresh deadline to comply and warning them explicitly that disobedience means liability under BNS section 223. If the person still doesn't act within that time, the Magistrate doesn't have to keep waiting — he can get the act done himself (or through someone else) and recover the cost from the defaulter, either by selling property that was removed under the order, or by seizing and selling ('distress and sale') any other movable property belonging to that person, even property located outside the Magistrate's own jurisdiction (in which case a Magistrate with jurisdiction over that property's location must endorse the order for it to be executed there). Finally, sub-section (3) protects the Magistrate and anyone acting under his authority: no civil suit can be brought over anything done in good faith under this section.",
+        "essential_elements": [
+          "Applies once an order has been made absolute under section 155 (default) or section 157 (contested hearing)",
+          "The Magistrate must give notice to the person, fixing a time to perform the directed act, and warning of liability under BNS section 223 for disobedience",
+          "If the act is not performed in time, the Magistrate may have it performed and recover costs by selling removed property or by distress and sale of the person's other movable property",
+          "Distress and sale can reach property outside the Magistrate's own jurisdiction, via endorsement by the Magistrate having jurisdiction over that property's location",
+          "No suit lies for anything done in good faith under this section"
+        ],
+        "exceptions_and_qualifications": [
+          "The notice-and-fresh-deadline step in sub-section (1) is a mandatory precondition before the Magistrate can step in and execute the order himself under sub-section (2)",
+          "The good-faith bar to suit in sub-section (3) does not protect acts done in bad faith or with gross irregularity"
+        ],
+        "how_to_read": "This section is the enforcement backbone that gives the entire Section 152-158 scheme real teeth: without it, an 'absolute' order would just be a paper declaration. The distress-and-sale mechanism with cross-jurisdictional endorsement mirrors how fines and other monetary orders are typically enforced elsewhere in criminal procedure."
+      }
+    },
+    {
+      "number": "161",
+      "title": "Injunction pending inquiry",
+      "raw_text": "161. Injunction pending inquiry.—(1) If a Magistrate making an order under section 152 considers\nthat immediate measures should be taken to prevent imminent danger or injury of a serious kind to the\npublic, he may issue such an injunction to the person against whom the order was made, as is required to\nobviate or prevent such danger or injury pending the determination of the matter.\n    (2) In default of such person forthwith obeying such injunction, the Magistrate may himself use, or\ncause to be used, such means as he thinks fit to obviate such danger or to prevent such injury.\n    (3) No suit shall lie in respect of anything done in good faith by a Magistrate under this section.",
+      "key_terms": [
+        "injunction pending inquiry",
+        "imminent danger",
+        "forthwith obeying"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the Magistrate an emergency stopgap power that operates while the show-cause process under sections 154-157 is still playing out. If, at the very time he's making the section 152 order, the Magistrate sees that there's an imminent risk of serious danger or injury to the public — the kind of situation that can't wait for the full inquiry to finish — he can issue an injunction directly ordering the person to do whatever is necessary to avert that immediate danger, right away. If the person doesn't comply with the injunction immediately, the Magistrate himself can take direct action (or arrange for someone else to) to avert the danger or prevent the injury. As with section 160, anything done in good faith here is immune from civil suit.",
+        "essential_elements": [
+          "Available only where the Magistrate, at the time of making a section 152 order, considers immediate measures necessary to prevent imminent danger or serious injury to the public",
+          "The injunction is issued to the person against whom the underlying order was made, requiring whatever action is needed to obviate or prevent the danger, pending final determination",
+          "If the person does not forthwith obey the injunction, the Magistrate may personally take, or arrange, whatever means he considers fit to avert the danger",
+          "No suit lies for anything done in good faith by the Magistrate under this section"
+        ],
+        "exceptions_and_qualifications": [
+          "This is an interim, provisional power tied to imminence and seriousness of risk — it is not a substitute for the underlying section 152-157 process, only a bridge across the time it takes to complete that process"
+        ],
+        "how_to_read": "Section 161 functions like an interim injunction in civil practice, transplanted into the summary criminal-procedure nuisance scheme — it lets the Magistrate act instantly on genuine emergencies without waiting for the show-cause hearing to run its course, while the underlying dispute is still being determined under sections 152-157."
+      }
+    },
+    {
+      "number": "162",
+      "title": "Magistrate may prohibit repetition or continuance of public nuisance",
+      "raw_text": "162. Magistrate may prohibit repetition or Continuance of public nuisance.—A District Magistrate\nor Sub-divisional Magistrate, or any other Executive Magistrate or Deputy Commissioner of Police\nempowered by the State Government or the District Magistrate in this behalf, may order any person not to\nrepeat or continue a public nuisance, as defined in the Bharatiya Nyaya Sanhita, 2023, or any special or\nlocal law.",
+      "key_terms": [
+        "prohibit repetition",
+        "Deputy Commissioner of Police",
+        "public nuisance as defined in BNS"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes out Part B (Public Nuisances) with a simple, forward-looking prohibition power, distinct from the removal-focused machinery of sections 152-161. A District Magistrate, Sub-divisional Magistrate, other empowered Executive Magistrate, or an empowered Deputy Commissioner of Police can directly order a person not to repeat or continue committing a public nuisance — where 'public nuisance' takes its meaning from the Bharatiya Nyaya Sanhita, 2023 (the substantive criminal code) or from any applicable special or local law, rather than being separately defined here.",
+        "essential_elements": [
+          "Empowered officers: District Magistrate, Sub-divisional Magistrate, another Executive Magistrate empowered by the State Government or District Magistrate, or a Deputy Commissioner of Police similarly empowered",
+          "The order simply prohibits a person from repeating or continuing a public nuisance",
+          "'Public nuisance' is defined by reference to the Bharatiya Nyaya Sanhita, 2023, or any special or local law — not autonomously by this section"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a targeted, ongoing-conduct prohibition, distinct from the structured conditional-order-to-absolute-order pipeline in sections 152-158 — it doesn't require the show-cause procedure of those sections"
+        ],
+        "how_to_read": "Note the inclusion of the Deputy Commissioner of Police alongside Executive Magistrates — this reflects how, in metropolitan/commissionerate policing areas, certain magisterial-style powers are extended to senior police officers. This section is a good quick-reference tool distinct from the more elaborate machinery preceding it."
+      }
+    },
+    {
+      "number": "163",
+      "title": "Power to issue order in urgent cases of nuisance or apprehended danger",
+      "raw_text": "163. Power to issue order in urgent cases of nuisance or apprehended danger.— (1) In cases where,\nin the opinion of a District Magistrate, a Sub-divisional Magistrate or any other Executive Magistrate\nspecially empowered by the State Government in this behalf, there is sufficient ground for proceeding under\nthis section and immediate prevention or speedy remedy is desirable, such Magistrate may, by a written\norder stating the material facts of the case and served in the manner provided by section 153, direct any\nperson to abstain from a certain act or to take certain order with respect to certain property in his possession\nor under his management, if such Magistrate considers that such direction is likely to prevent, or tends to\nprevent, obstruction, annoyance or injury to any person lawfully employed, or danger to human life, health\nor safety or a disturbance of the public tranquillity, or a riot, or an affray.\n    (2) An order under this section may, in cases of emergency or in cases where the circumstances do not\nadmit of the serving in due time of a notice upon the person against whom the order is directed, be passed\nex parte.\n    (3) An order under this section may be directed to a particular individual, or to persons residing in a\nparticular place or area, or to the public generally when frequenting or visiting a particular place or area.\n    (4) No order under this section shall remain in force for more than two months from the making thereof:\n     Provided that if the State Government considers it necessary so to do for preventing danger to human\nlife, health or safety or for preventing a riot or any affray, it may, by notification, direct that an order made\nby a Magistrate under this section shall remain in force for such further period not exceeding six months\nfrom the date on which the order made by the Magistrate would have, but for such order, expired, as it may\nspecify in the said notification.\n    (5) Any Magistrate may, either on his own motion or on the application of any person aggrieved, rescind\nor alter any order made under this section by himself or any Magistrate subordinate to him or by his\npredecessor-in-office.\n    (6) The State Government may, either on its own motion or on the application of any person aggrieved,\nrescind or alter any order made by it under the proviso to sub-section (4).\n    (7) Where an application under sub-section (5) or sub-section (6) is received, the Magistrate, or the\nState Government, as the case may be, shall afford to the applicant an early opportunity of appearing before\nhim or it, either in person or by an advocate and showing cause against the order; and if the Magistrate or\nthe State Government, as the case may be, rejects the application wholly or in part, he or it shall record in\nwriting the reasons for so doing.",
+      "key_terms": [
+        "urgent cases",
+        "ex parte order",
+        "two months",
+        "six months extension",
+        "rescind or alter"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the famous emergency-order power (the BNSS's version of the old CrPC Section 144, widely used for prohibitory orders, curfews, and crowd-control directions) — opening Part C. When a District Magistrate, Sub-divisional Magistrate, or specially-empowered Executive Magistrate judges that there are sufficient grounds and the situation genuinely calls for immediate prevention or a speedy remedy, he can pass a written order — stating the material facts and served the same way as a Section 152 order — directing a specific person to abstain from an act, or to take some specified action regarding property in their possession or control, if that direction is likely to prevent obstruction, annoyance, or injury to lawfully-employed people, danger to human life/health/safety, disturbance of public tranquillity, a riot, or an affray. Because speed is the whole point, the order can be passed ex parte when the emergency doesn't allow time for advance notice. It can target one specific individual, people in a specific area, or the public generally when they're in a specific place. Such orders automatically expire after two months, though the State Government can extend that by notification for up to six more months if genuinely necessary to prevent danger to life/health/safety or a riot/affray. Any order (Magistrate's or State Government's) can be reconsidered — rescinded or altered — either on the deciding authority's own motion or on an aggrieved person's application, and if such an application is received, the person must be given an early opportunity to be heard, with any rejection recorded in writing with reasons.",
+        "essential_elements": [
+          "Empowered authorities: District Magistrate, Sub-divisional Magistrate, or a specially-empowered Executive Magistrate",
+          "Requires the Magistrate's opinion that there are sufficient grounds and that immediate prevention or speedy remedy is desirable",
+          "The order must be in writing, state material facts, and be served as provided in section 153",
+          "It can direct a person to abstain from an act or to take a specified action regarding property in their possession/management",
+          "Justifying harms: obstruction/annoyance/injury to lawfully employed persons, danger to human life/health/safety, disturbance of public tranquillity, riot, or affray",
+          "Can be passed ex parte in emergencies or where timely notice isn't feasible",
+          "Can target a named individual, persons in a defined area, or the public generally frequenting a defined place",
+          "Maximum duration is two months from the date of making, extendable by State Government notification up to a further six months, only for danger to life/health/safety or to prevent a riot/affray",
+          "Any Magistrate (self, subordinate, or predecessor's order) or the State Government (for its own extension order) can rescind or alter such an order, on own motion or aggrieved person's application",
+          "Any application to rescind/alter must be given an early hearing opportunity, and rejection (wholly or in part) must be recorded in writing with reasons"
+        ],
+        "exceptions_and_qualifications": [
+          "The two-month default cap is a hard ceiling absent the specific State Government extension mechanism — a Magistrate cannot unilaterally extend his own order beyond two months",
+          "The extension proviso is narrower than the base power: it is available only for danger to life/health/safety or to prevent a riot/affray, not for the full range of harms (e.g., mere obstruction/annoyance) that justify the original order",
+          "Ex parte orders remain subject to the rescind-or-alter safeguard in sub-sections (5)-(7), which is the built-in due-process check against arbitrary or excessive urgent orders"
+        ],
+        "how_to_read": "This is one of the most practically significant provisions in the whole Chapter — the modern-day successor to the classic 'Section 144 order' used for prohibitory/curfew directions, ranging from individual restraining directions to area-wide crowd-control orders. Always check the duration clock (2 months, extendable to a further 6 via State Government notification) and the mandatory review/hearing safeguard in sub-sections (5)-(7) when assessing whether such an order remains valid or has been properly challenged."
+      }
+    },
+    {
+      "number": "164",
+      "title": "Procedure where dispute concerning land or water is likely to cause breach of peace",
+      "raw_text": "164. Procedure where dispute concerning land or water is likely to cause breach of\npeace.—(1) Whenever an Executive Magistrate is satisfied from a report of a police officer or upon other\ninformation that a dispute likely to cause a breach of the peace exists concerning any land or water or the\nboundaries thereof, within his local jurisdiction, he shall make an order in writing, stating the grounds of\nhis being so satisfied, and requiring the parties concerned in such dispute to attend his Court in person or\nby an advocate on a specified date and time, and to put in written statements of their respective claims as\nrespects the fact of actual possession of the subject of dispute.\n    (2) For the purposes of this section, the expression \"land or water\" includes buildings, markets,\nfisheries, crops or other produce of land, and the rents or profits of any such property.\n    (3) A copy of the order shall be served in the manner provided by this Sanhita for the service of\nsummons upon such person or persons as the Magistrate may direct, and at least one copy shall be published\nby being affixed to some conspicuous place at or near the subject of dispute.\n    (4) The Magistrate shall, without reference to the merits or the claims of any of the parties to a right to\npossess the subject of dispute, peruse the statements so put in, hear the parties, receive all such evidence as\nmay be produced by them, take such further evidence, if any, as he thinks necessary, and, if possible, decide\nwhether any and which of the parties was, at the date of the order made by him under sub-section (1), in\npossession of the subject of dispute:\n    Provided that if it appears to the Magistrate that any party has been forcibly and wrongfully\ndispossessed within two months next before the date on which the report of a police officer or other\ninformation was received by the Magistrate, or after that date and before the date of his order under\nsub-section (1), he may treat the party so dispossessed as if that party had been in possession on the date of\nhis order under sub-section (1).\n    (5) Nothing in this section shall preclude any party so required to attend, or any other person interested,\nfrom showing that no such dispute as aforesaid exists or has existed; and in such case the Magistrate shall\ncancel his said order, and all further proceedings thereon shall be stayed, but, subject to such cancellation,\nthe order of the Magistrate under sub-section (1) shall be final.\n    (6) (a) If the Magistrate decides that one of the parties was, or should under the proviso to\nsub-section (4) be treated as being, in such possession of the said subject of dispute, he shall issue an order\ndeclaring such party to be entitled to possession thereof until evicted therefrom in due course of law, and\nforbidding all disturbance of such possession until such eviction; and when he proceeds under the proviso\nto sub-section (4), may restore to possession the party forcibly and wrongfully dispossessed;\n    (b) the order made under this sub-section shall be served and published in the manner laid down in\nsub-section (3).\n    (7) When any party to any such proceeding dies, the Magistrate may cause the legal representative of\nthe deceased party to be made a party to the proceeding and shall thereupon continue the inquiry, and if any\nquestion arises as to who the legal representative of a deceased party for the purposes of such proceeding\nis, all persons claiming to be representatives of the deceased party shall be made parties thereto.\n     (8) If the Magistrate is of opinion that any crop or other produce of the property, the subject of dispute\nin a proceeding under this section pending before him, is subject to speedy and natural decay, he may make\nan order for the proper custody or sale of such property, and, upon the completion of the inquiry, shall make\nsuch order for the disposal of such property, or the sale-proceeds thereof, as he thinks fit.\n    (9) The Magistrate may, if he thinks fit, at any stage of the proceedings under this section, on the\napplication of either party, issue a summons to any witness directing him to attend or to produce any\ndocument or thing.\n   (10) Nothing in this section shall be deemed to be in derogation of powers of the Magistrate to proceed\nunder section 126.",
+      "key_terms": [
+        "breach of peace",
+        "actual possession",
+        "forcibly and wrongfully dispossessed",
+        "legal representative",
+        "speedy and natural decay"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Part D (Disputes as to Immovable Property) — a distinctive summary mechanism where criminal courts step into what looks like a civil possession dispute, purely to prevent violence. When an Executive Magistrate is satisfied that a land-or-water dispute (which broadly includes buildings, markets, fisheries, and crops/produce, plus rents/profits from such property) risks causing a breach of the peace, he orders the parties to appear and file written statements about who is actually in possession — deliberately without going into who has the better legal right to possess it. After hearing evidence, he decides who was in actual possession as of the date of his initial order, with a special two-month look-back rule: if someone was forcibly and wrongfully thrown out of possession shortly before or during the proceedings, the Magistrate can treat them as if they were still in possession. Either party can short-circuit the whole thing by showing no real dispute exists, in which case the order is cancelled. Otherwise, the Magistrate declares the person found in possession entitled to remain until evicted through proper legal process, and forbids any disturbance of that possession in the meantime. The section also handles practical continuity — substituting a deceased party's legal representative, and ordering the sale or safekeeping of perishable produce caught up in the dispute — plus preserves the Magistrate's separate power to act under section 126 (security for good behaviour/keeping the peace) if that's also warranted.",
+        "essential_elements": [
+          "Triggered when an Executive Magistrate is satisfied (from a police report or other information) that a land/water dispute within his jurisdiction risks a breach of the peace",
+          "'Land or water' is defined broadly to include buildings, markets, fisheries, crops/produce, and rents/profits of such property",
+          "The Magistrate orders the parties to appear and file written statements on actual possession — expressly without reference to who has the better legal title or claim",
+          "A special provision lets the Magistrate treat a party forcibly and wrongfully dispossessed shortly before or during the proceedings as if still in possession",
+          "Any party can show no genuine dispute exists, resulting in cancellation of the order and stay of further proceedings",
+          "The final order declares the party found in possession entitled to remain until evicted in due course of law, and forbids disturbance until then",
+          "Provisions exist for substituting a deceased party's legal representative, ordering safekeeping/sale of perishable disputed produce, and issuing witness summonses",
+          "This section does not derogate from the Magistrate's separate power under section 126 (security for keeping the peace)"
+        ],
+        "exceptions_and_qualifications": [
+          "The Magistrate's decision is confined to actual possession as of the date of the original order — it is not, and cannot be, a determination of legal title or ownership, which remains for a civil court",
+          "The order is expressly interim in nature: possession is protected 'until evicted therefrom in due course of law,' preserving the losing party's right to pursue a civil remedy",
+          "The finality stated in sub-section (5) (the order being final subject to cancellation) is finality within this summary jurisdiction only, not a bar to civil suit"
+        ],
+        "how_to_read": "This is a well-known and heavily litigated provision (the BNSS successor to old CrPC section 145) precisely because possession disputes over land are common triggers for violence in India. The critical discipline for any practitioner is to keep possession and title strictly separate — this section is only ever about who was in actual possession on a specific date, as a peace-keeping measure, and it deliberately stays out of ownership questions, which is exactly why parties remain free to litigate title separately in a civil court."
+      }
+    },
+    {
+      "number": "165",
+      "title": "Power to attach subject of dispute and to appoint receiver",
+      "raw_text": "165. Power to attach subject of dispute and to appoint receiver.— (1) If the Magistrate at any time\nafter making the order under sub-section (1) of section 164 considers the case to be one of emergency, or\nif he decides that none of the parties was then in such possession as is referred to in section 164, or if he is\nunable to satisfy himself as to which of them was then in such possession of the subject of dispute, he may\nattach the subject of dispute until a competent Court has determined the rights of the parties thereto with\nregard to the person entitled to the possession thereof:\n    Provided that such Magistrate may withdraw the attachment at any time if he is satisfied that there is\nno longer any likelihood of breach of the peace with regard to the subject of dispute.\n    (2) When the Magistrate attaches the subject of dispute, he may, if no receiver in relation to such subject\nof dispute has been appointed by any Civil Court, make such arrangements as he considers proper for\nlooking after the property or if he thinks fit, appoint a receiver thereof, who shall have, subject to the control\nof the Magistrate, all the powers of a receiver appointed under the Code of Civil Procedure, 1908 (5 of\n1908):\n    Provided that in the event of a receiver being subsequently appointed in relation to the subject of dispute\nby any Civil Court, the Magistrate—\n         (a) shall order the receiver appointed by him to hand over the possession of the subject of dispute\n    to the receiver appointed by the Civil Court and shall thereafter discharge the receiver appointed by\n    him;\n        (b) may make such other incidental or consequential orders as may be just.",
+      "key_terms": [
+        "attach the subject of dispute",
+        "receiver",
+        "Code of Civil Procedure 1908",
+        "withdraw the attachment"
+      ],
+      "breakdown": {
+        "plain_summary": "This handles the three situations where Section 164's possession-based approach breaks down: a genuine emergency, a finding that neither party was actually in possession, or the Magistrate simply being unable to determine who was in possession. In any of these cases, rather than declaring a winner, the Magistrate can freeze the situation entirely by attaching the disputed property until a competent civil court finally determines the parties' rights — though he can lift the attachment early if he becomes satisfied there's no longer any real risk of a breach of the peace. While the property is attached, the Magistrate looks after it either through whatever arrangement he considers proper, or by appointing a receiver with all the powers a receiver has under the Code of Civil Procedure, 1908 — but subject to the Magistrate's own control. And if a civil court later appoints its own receiver for the same property, the Magistrate's receiver has to hand over possession to the civil court's receiver and is then discharged, with the Magistrate free to pass whatever incidental orders are needed to make that handover work smoothly.",
+        "essential_elements": [
+          "Applies where the case is an emergency, or the Magistrate finds neither party was in possession under section 164, or he cannot determine who was",
+          "The Magistrate may attach the subject of dispute until a competent Court determines the parties' rights to possession",
+          "Attachment may be withdrawn at any time if the Magistrate is satisfied breach-of-peace risk no longer exists",
+          "The Magistrate may make his own custodial arrangements, or appoint a receiver with the full powers of a CPC receiver, subject to his control — but only if no Civil Court has already appointed one",
+          "If a Civil Court subsequently appoints its own receiver, the Magistrate's receiver must hand over possession and be discharged, with the Magistrate empowered to pass just incidental/consequential orders"
+        ],
+        "exceptions_and_qualifications": [
+          "This power is a fallback triggered by the failure or unsuitability of the ordinary possession-determination route in section 164 — it is not a routine first option",
+          "The Magistrate's receiver is always subordinate in priority to a Civil Court's receiver over the same property, reflecting that final adjudication belongs to the civil forum"
+        ],
+        "how_to_read": "Section 165 is the safety valve for the hardest possession disputes — genuine deadlocks where the summary criminal process can't confidently identify a possessor. Attachment plus receivership keeps the property intact and neutral while the real contest over rights is fought out in civil court, which is exactly where this Part always intends title disputes to ultimately be resolved."
+      }
+    },
+    {
+      "number": "166",
+      "title": "Dispute concerning right of use of land or water",
+      "raw_text": "166. Dispute concerning right of use of land or water.— (1) Whenever an Executive Magistrate is\nsatisfied from the report of a police officer or upon other information, that a dispute likely to cause a breach\nof the peace exists regarding any alleged right of user of any land or water within his local jurisdiction,\nwhether such right be claimed as an easement or otherwise, he shall make an order in writing, stating the\ngrounds of his being so satisfied and requiring the parties concerned in such dispute to attend his Court in\nperson or by an advocate on a specified date and time and to put in written statements of their respective\nclaims.\n    Explanation.—For the purposes of this sub-section, the expression \"land or water\" has the meaning\ngiven to it in sub-section (2) of section 164.\n    (2) The Magistrate shall peruse the statements so put in, hear the parties, receive all such evidence as\nmay be produced by them respectively, consider the effect of such evidence, take such further evidence, if\nany, as he thinks necessary and, if possible, decide whether such right exists; and the provisions of\nsection 164 shall, so far as may be, apply in the case of such inquiry.\n    (3) If it appears to such Magistrate that such rights exist, he may make an order prohibiting any\ninterference with the exercise of such right, including, in a proper case, an order for the removal of any\nobstruction in the exercise of any such right:\n     Provided that no such order shall be made where the right is exercisable at all times of the year, unless\nsuch right has been exercised within three months next before the receipt under sub-section (1) of the report\nof a police officer or other information leading to the institution of the inquiry, or where the right is\nexercisable only at particular seasons or on particular occasions, unless the right has been exercised during\nthe last of such seasons or on the last of such occasions before such receipt.\n    (4) When in any proceedings commenced under sub-section (1) of section 164 the Magistrate finds that\nthe dispute is as regards an alleged right of user of land or water, he may, after recording his reasons,\ncontinue with the proceedings as if they had been commenced under sub-section (1), and when in any\nproceedings commenced under sub-section (1) the Magistrate finds that the dispute should be dealt with\nunder section 164, he may, after recording his reasons, continue with the proceedings as if they had been\ncommenced under sub-section (1) of section 164.",
+      "key_terms": [
+        "right of user",
+        "easement",
+        "recent exercise of right",
+        "recharacterise proceedings"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XI by extending the same breach-of-peace logic from Section 164 (disputes over possession) to a related but distinct problem: disputes over a right to use land or water — such as a right of way, a right to draw water, or any other easement-type right — rather than over possession itself. The procedure largely mirrors section 164: the Magistrate orders the parties to appear and file statements, then hears evidence and decides, so far as possible, whether the claimed right actually exists, applying section 164's procedural provisions to the extent they fit. If satisfied the right exists, the Magistrate can prohibit interference with it, including ordering removal of any obstruction — but only if the right has actually been recently exercised: for a right usable year-round, it must have been exercised within the three months before the police report/information that triggered the inquiry; for a seasonal or occasional right, it must have been exercised during the last such season or occasion. Finally, sub-section (4) provides a practical safety net: if a Magistrate realizes midway through a Section 164 possession proceeding that it's really a Section 166 usage-right dispute (or vice versa), he can simply continue the same proceeding under the correct section instead of starting over, as long as he records his reasons for the recharacterisation.",
+        "essential_elements": [
+          "Triggered when an Executive Magistrate is satisfied a dispute over an alleged right of use (easement or otherwise) of land or water risks a breach of the peace",
+          "'Land or water' carries the same broad meaning defined in section 164(2)",
+          "Procedure mirrors section 164: written order, appearance, written statements, evidence, and a decision on whether the right exists, applying section 164's provisions so far as they apply",
+          "If the right is found to exist, the Magistrate may prohibit interference with it, including ordering removal of an obstruction",
+          "A recency-of-exercise proviso gates this remedy: a year-round right must have been exercised within 3 months before the triggering report/information; a seasonal/occasional right must have been exercised during the most recent relevant season/occasion",
+          "Proceedings mistakenly started under section 164 or section 166 can be continued under the correct section instead of being restarted, provided the Magistrate records reasons"
+        ],
+        "exceptions_and_qualifications": [
+          "As with section 164, this section decides only whether the alleged right exists for peace-keeping purposes at this summary stage — it does not conclusively adjudicate the right in the way a civil court's decree would",
+          "The recency proviso is a hard gate on the remedy (prohibiting interference/ordering removal), not on the underlying existence-of-right finding itself"
+        ],
+        "how_to_read": "Read section 166 as section 164's sibling provision — same breach-of-peace trigger and broadly the same summary procedure, just aimed at use-rights (easements) rather than possession. The recency proviso is the feature to watch closely in practice: a long-dormant right, even if genuine, may not qualify for this summary protective remedy if it hasn't actually been exercised within the relevant recent window. The cross-recharacterisation safety valve in sub-section (4) is a useful practical point — it prevents needless procedural restarts when the two sections' subject matter is initially misidentified."
       }
     }
   ]
