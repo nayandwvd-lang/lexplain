@@ -4,7 +4,7 @@
   "enactment_date": "25 December 2023",
   "preamble": "An Act to consolidate and amend the law relating to Criminal Procedure.",
   "glossary": {
-    "audio-video electronic means": "Use of any communication device for video conferencing, recording identification/search/seizure processes or evidence, and transmitting electronic communication, as defined in Section 2(1)(a).",
+    "audio-video electronic means": "Real-time transmission technology (video-conferencing or similar) permitted under the Sanhita for taking evidence, conducting examinations, or ensuring a party's presence/participation without requiring physical attendance at the same location.",
     "bail": "Release of a person accused or suspected of an offence from custody, on conditions imposed by an officer or Court, on execution of a bond or bail bond.",
     "bailable offence": "An offence shown as bailable in the First Schedule, or made bailable by any other law in force.",
     "non-bailable offence": "Any offence that is not a bailable offence.",
@@ -202,7 +202,10 @@
     "subsidiary jail": "A place declared by the State Government, by general or special order, to function as a jail for the purposes of this Chapter, even though it may not be a full-fledged central or district prison.",
     "borstal institution": "A specialised institution for the reform and rehabilitation of young offenders, emphasising education and vocational training over ordinary imprisonment.",
     "commission (examination on)": "A procedure under which a Court authorises a designated person (a commissioner) to record the evidence of a witness who cannot conveniently attend court in person, with the recorded evidence then read as evidence in the case.",
-    "countersign": "A second, confirming signature (here, of the Chief Judicial Magistrate) required to validate certain orders made by a Magistrate of the second class before they can be acted upon by a prison official."
+    "countersign": "A second, confirming signature (here, of the Chief Judicial Magistrate) required to validate certain orders made by a Magistrate of the second class before they can be acted upon by a prison official.",
+    "language of the court": "The language which the State Government has determined, under section 307, to be the official language used for recording proceedings in a particular Court (other than the High Court) within that State.",
+    "memorandum (of evidence)": "A written note capturing the substance of a witness's evidence, made by the Magistrate as the examination proceeds, used in place of a full verbatim record in summons-cases and certain inquiries.",
+    "narrative form": "A method of recording evidence as a continuous, connected written account in the witness's own words (as opposed to a strict question-and-answer transcript), which is the ordinary default method the Magistrate or Judge may depart from in appropriate cases."
   },
   "sections": [
     {
@@ -7174,6 +7177,133 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This is a bridging/saving provision linking two alternative routes to obtaining a confined person's evidence: physically producing them under section 302, or sending a commissioner to examine them in prison under section 319 -- the Court is not limited to only one of these tools."
+      }
+    },
+    {
+      "number": "307",
+      "title": "Language of Courts",
+      "raw_text": "307. Language of Courts.— The State Government may determine what shall be, for purposes of this\nSanhita, the language of each Court within the State other than the High Court.",
+      "key_terms": [
+        "language of the court"
+      ],
+      "breakdown": {
+        "plain_summary": "Each State Government decides what the official \"language of the Court\" is, for every Court in that State except the High Court, for purposes of proceedings under the Sanhita.",
+        "essential_elements": [
+          "The power belongs to the State Government.",
+          "It applies to every Court within the State other than the High Court.",
+          "It fixes what counts as the \"language of the Court\" for purposes of this Sanhita."
+        ],
+        "exceptions_and_qualifications": [
+          "The High Court is excluded -- its own language practice is governed separately (see section 318, which lets each High Court prescribe its own rules for recording evidence)."
+        ],
+        "how_to_read": "This is a short foundational rule that later evidence-recording provisions (sections 308-316) constantly refer back to -- whenever those sections say \"language of the Court,\" this is where that phrase gets its content."
+      }
+    },
+    {
+      "number": "308",
+      "title": "Evidence to be taken in presence of accused",
+      "raw_text": "308. Evidence to be taken in presence of accused.—Except as otherwise expressly provided, all\nevidence taken in the course of the trial or other proceeding shall be taken in the presence of the accused,\nor, when his personal attendance is dispensed with, in the presence of his advocate including through\naudio-video electronic means at the designated place to be notified by the State Government:\n   Provided that where the evidence of a woman below the age of eighteen years who is alleged to have\nbeen subjected to rape or any other sexual offence, is to be recorded, the Court may take appropriate\nmeasures to ensure that such woman is not confronted by the accused while at the same time ensuring the\nright of cross-examination of the accused.\n   Explanation.—In this section, \"accused\" includes a person in relation to whom any proceeding under\nChapter IX has been commenced under this Sanhita.",
+      "key_terms": [
+        "audio-video electronic means",
+        "cross-examine",
+        "accused"
+      ],
+      "breakdown": {
+        "plain_summary": "As a general rule, all evidence during a trial or other proceeding must be taken in front of the accused -- or, if their personal attendance is excused, in front of their advocate, which can happen through video-conferencing at a State-notified location. A special safeguard applies for a minor girl (under 18) alleging rape or another sexual offence: the Court can arrange things so she is not directly confronted by the accused while she testifies, while still preserving the accused's right to cross-examine her.",
+        "essential_elements": [
+          "The default rule: evidence must be taken in the presence of the accused, unless another provision expressly says otherwise.",
+          "If personal attendance is dispensed with, evidence may instead be taken in the presence of the accused's advocate, including via audio-video electronic means at a State-notified place.",
+          "Proviso: for a woman under 18 alleged to be a victim of rape or another sexual offence, the Court may take appropriate measures to prevent her being confronted by the accused, while still ensuring the accused's cross-examination right.",
+          "The Explanation extends \"accused\" here to include a person against whom Chapter IX proceedings (maintenance-type proceedings) have been commenced."
+        ],
+        "exceptions_and_qualifications": [
+          "Any other provision of the Sanhita that expressly provides otherwise overrides this default rule."
+        ],
+        "how_to_read": "This section balances two competing interests -- the accused's fundamental right to be present and confront evidence against them, and the protective need (especially for young sexual-offence victims) to avoid re-traumatising confrontation -- resolving the tension via remote/video arrangements rather than eliminating either right."
+      }
+    },
+    {
+      "number": "309",
+      "title": "Record in summons-cases and inquiries",
+      "raw_text": "309. Record in summons-cases and inquiries.— (1) In all summons-cases tried before a Magistrate,\nin all inquiries under sections 164 to 167 (both inclusive), and in all proceedings under section 491\notherwise than in the course of a trial, the Magistrate shall, as the examination of each witness proceeds,\nmake a memorandum of the substance of the evidence in the language of the Court:\n    Provided that if the Magistrate is unable to make such memorandum himself, he shall, after recording\nthe reason of his inability, cause such memorandum to be made in writing or from his dictation in open\nCourt.\n    (2) Such memorandum shall be signed by the Magistrate and shall form part of the record.",
+      "key_terms": [
+        "memorandum (of evidence)",
+        "summons-case",
+        "language of the court"
+      ],
+      "breakdown": {
+        "plain_summary": "For summons-cases, certain inquiries (sections 164-167), and certain non-trial proceedings under section 491, the Magistrate does not need a verbatim transcript -- a memorandum capturing the substance of each witness's evidence, made in the language of the Court, is enough. If the Magistrate cannot write it personally, someone else can write it down or take dictation in open Court, but the Magistrate must first record the reason for the inability.",
+        "essential_elements": [
+          "Applies to: summons-cases tried before a Magistrate; inquiries under sections 164-167; and section 491 proceedings other than during a trial.",
+          "The Magistrate makes a memorandum of the substance (not necessarily verbatim) of each witness's evidence, as the examination proceeds, in the language of the Court.",
+          "If the Magistrate personally cannot make the memorandum, he records his reason for inability and causes it to be made in writing or by dictation in open Court instead.",
+          "The memorandum must be signed by the Magistrate and forms part of the record."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the lighter-weight evidence-recording standard, contrasted with the fuller verbatim-style recording required for warrant-cases (section 310) and Sessions trials (section 311) -- reflecting the summary/expedited nature of summons-case procedure."
+      }
+    },
+    {
+      "number": "310",
+      "title": "Record in warrant-cases",
+      "raw_text": "310. Record in warrant-cases.— (1) In all warrant-cases tried before a Magistrate, the evidence of\neach witness shall, as his examination proceeds, be taken down in writing either by the Magistrate himself\n   or by his dictation in open Court or, where he is unable to do so owing to a physical or other incapacity,\nunder his direction and superintendence, by an officer of the Court appointed by him in this behalf:\n    Provided that evidence of a witness under this sub-section may also be recorded by audio-video\nelectronic means in the presence of the advocate of the person accused of the offence.\n    (2) Where the Magistrate causes the evidence to be taken down, he shall record a certificate that the\nevidence could not be taken down by himself for the reasons referred to in sub-section (1).\n    (3) Such evidence shall ordinarily be taken down in the form of a narrative; but the Magistrate may, in\nhis discretion take down, or cause to be taken down, any part of such evidence in the form of question and\nanswer.\n    (4) The evidence so taken down shall be signed by the Magistrate and shall form part of the record.",
+      "key_terms": [
+        "warrant-case",
+        "narrative form",
+        "audio-video electronic means"
+      ],
+      "breakdown": {
+        "plain_summary": "In warrant-cases, evidence must be taken down in writing, in more detail than a mere memorandum -- either by the Magistrate personally, by his dictation in open Court, or (if he is physically or otherwise incapacitated) by a court officer under his direction, with a certificate explaining the substitution. It may also be recorded via video-conferencing, provided the accused's advocate is present. The default recording style is narrative form, though the Magistrate can choose question-and-answer for any part.",
+        "essential_elements": [
+          "Applies to warrant-cases tried before a Magistrate.",
+          "Evidence of each witness is taken down in writing as examination proceeds -- by the Magistrate himself, by his dictation in open Court, or by a court officer under his direction/superintendence if he is incapacitated.",
+          "Proviso: recording may also be done by audio-video electronic means, in the presence of the accused's advocate.",
+          "If someone else takes it down instead of the Magistrate, he must certify why he personally could not do so.",
+          "Default form is narrative, but the Magistrate may direct question-and-answer form for any part, at his discretion.",
+          "The record must be signed by the Magistrate and forms part of the record."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the more rigorous, warrant-case-level evidence-recording standard -- more formal than the memorandum used for summons-cases (section 309), reflecting the greater seriousness of warrant-case offences."
+      }
+    },
+    {
+      "number": "311",
+      "title": "Record in trial before Court of Session",
+      "raw_text": "311. Record in trial before Court of Session.—(1) In all trials before a Court of Session, the evidence\nof each witness shall, as his examination proceeds, be taken down in writing either by the presiding Judge\nhimself or by his dictation in open Court, or under his direction and superintendence, by an officer of the\nCourt appointed by him in this behalf.\n   (2) Such evidence shall ordinarily be taken down in the form of a narrative, but the presiding Judge\nmay, in his discretion, take down, or cause to be taken down, any part of such evidence in the form of\nquestion and answer.\n    (3) The evidence so taken down shall be signed by the presiding Judge and shall form part of the record.",
+      "key_terms": [
+        "narrative form",
+        "Court of Session"
+      ],
+      "breakdown": {
+        "plain_summary": "For Sessions trials, evidence must be taken down in writing as each witness is examined -- by the presiding Judge himself, by his dictation in open Court, or by a court officer under his direction. As with warrant-cases, the default recording form is narrative, with question-and-answer form available at the Judge's discretion for any part, and the record must be signed by the presiding Judge.",
+        "essential_elements": [
+          "Applies to all trials before a Court of Session.",
+          "Evidence of each witness is taken down in writing as examination proceeds, by the presiding Judge himself, by his dictation in open Court, or under his direction/superintendence by an appointed court officer.",
+          "Default form is narrative; the Judge may direct question-and-answer form for any part, at his discretion.",
+          "The record must be signed by the presiding Judge and forms part of the record."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Notice this mirrors section 310's warrant-case standard almost exactly (minus the audio-video proviso and the incapacity-certificate requirement, and using \"presiding Judge\" instead of \"Magistrate\") -- the same rigor applied to the most serious tier of trials."
+      }
+    },
+    {
+      "number": "312",
+      "title": "Language of record of evidence",
+      "raw_text": "312. Language of record of evidence.—In every case where evidence is taken down under\nsection 310 or section 311,—\n        (a) if the witness gives evidence in the language of the Court, it shall be taken down in that\n    language;\n        (b) if he gives evidence in any other language, it may, if practicable, be taken down in that language,\n    and if it is not practicable to do so, a true translation of the evidence in the language of the Court shall\n    be prepared as the examination of the witness proceeds, signed by the Magistrate or presiding Judge,\n    and shall form part of the record;\n        (c) where under clause (b) evidence is taken down in a language other than the language of the\n    Court, a true translation thereof in the language of the Court shall be prepared as soon as practicable,\n    signed by the Magistrate or presiding Judge, and shall form part of the record:\n\n        Provided that when under clause (b) evidence is taken down in English and a translation thereof in\n    the language of the Court is not required by any of the parties, the Court may dispense with such\n    translation.",
+      "key_terms": [
+        "language of the court",
+        "translation"
+      ],
+      "breakdown": {
+        "plain_summary": "For warrant-case and Sessions-trial evidence (sections 310-311), the recording language depends on what the witness actually speaks: if it's the language of the Court, record it in that language; if it's a different language, record it in that language if practicable (with a signed true translation prepared as the examination proceeds), and if recording in the witness's own language isn't practicable, prepare a signed translation into the Court's language as soon as practicable instead. A special exemption applies where evidence is taken down in English -- if no party requires a translation into the language of the Court, the Court may skip preparing one.",
+        "essential_elements": [
+          "Clause (a): witness testifies in the Court's language -> recorded in that language.",
+          "Clause (b): witness testifies in another language -> recorded in that language if practicable, with a signed true translation into the Court's language prepared as examination proceeds; if not practicable to record in the witness's language, a signed translation is prepared instead.",
+          "Clause (c): where evidence was taken down in a non-Court language under clause (b), a true translation into the Court's language must be prepared as soon as practicable and signed.",
+          "Proviso: if evidence was taken down in English under clause (b) and no party requires translation into the language of the Court, the Court may dispense with the translation."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read the three clauses as a decision tree keyed to practicability -- same language as Court (easy case), different language and practicable to record verbatim (record + translate), different language and not practicable to record verbatim (translate only) -- with the English-specific proviso as a practical efficiency carve-out."
       }
     }
   ]
