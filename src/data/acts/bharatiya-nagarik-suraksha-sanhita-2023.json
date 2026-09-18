@@ -45,8 +45,8 @@
     "sessions division": "An administrative territorial unit into which a State is divided for the organisation of Courts of Session, distinct from ordinary district boundaries.",
     "district": "A territorial sub-unit of a sessions division, for the purposes of the Sanhita.",
     "sessions judge": "The presiding judicial officer of a Court of Session, appointed by the High Court.",
-    "additional sessions judge": "A judge appointed by the High Court to assist a Sessions Judge in exercising jurisdiction in a Court of Session.",
-    "chief judicial magistrate": "The senior Judicial Magistrate in a district, vested with specific powers under the Sanhita including supervisory and release functions relating to security proceedings not arising from Executive Magistrate orders.",
+    "additional sessions judge": "A judge appointed to assist a Sessions Judge in a sessions division, empowered to try cases specifically made over by the Sessions Judge or directed by the High Court.",
+    "chief judicial magistrate": "The senior-most Judicial Magistrate in a district, responsible for administrative control over subordinate Magistrates, including empowering, assigning, and transferring cases among them.",
     "additional chief judicial magistrate": "A Judicial Magistrate of the first class appointed to exercise some or all powers of the Chief Judicial Magistrate.",
     "sub-divisional judicial magistrate": "A Judicial Magistrate of the first class designated to supervise Judicial Magistrates within a sub-division.",
     "special judicial magistrate": "A government post-holder conferred Judicial Magistrate powers by the High Court for particular cases or areas, for a term not exceeding one year at a time.",
@@ -158,7 +158,10 @@
     "criminal breach of trust": "An offence where a person entrusted with property, or with dominion over property, dishonestly misappropriates or converts it to their own use in violation of that trust.",
     "venue": "The particular court or place, among those otherwise having jurisdiction, where a case is actually inquired into or tried.",
     "cognizance": "The formal application of judicial mind by a Magistrate or court to the facts of a case for the purpose of proceeding further, marking the point at which a court becomes seized of a matter.",
-    "extraterritorial jurisdiction": "The power of a country's courts to inquire into and try offences committed outside its own territory, typically limited to offences by its own citizens or on its registered ships/aircraft."
+    "extraterritorial jurisdiction": "The power of a country's courts to inquire into and try offences committed outside its own territory, typically limited to offences by its own citizens or on its registered ships/aircraft.",
+    "deposition": "The formal written or recorded record of a witness's testimony, typically taken under oath before a judicial or authorised officer.",
+    "commission (for taking evidence)": "A court's formal authorisation to a designated person to record evidence at a place the court itself cannot conveniently visit, with the recorded evidence then read into the trial record.",
+    "committal": "The formal procedure by which a Magistrate, after a preliminary inquiry, sends a case triable exclusively by a Court of Session to that Court, since a Court of Session generally cannot take original cognizance on its own."
   },
   "sections": [
     {
@@ -4908,6 +4911,136 @@
           "The Central Government sanction requirement is an absolute precondition, not a formality — it overrides every other provision in this Chapter for extraterritorial offences."
         ],
         "how_to_read": "Read the substantive jurisdiction-extending rule in the main text alongside its proviso as a package: India can reach extraterritorial conduct by citizens and on its own registered vessels/aircraft, but only with Central Government sanction acting as a gatekeeper before any court gets involved."
+      }
+    },
+    {
+      "number": "209",
+      "title": "Receipt of evidence relating to offences committed outside India",
+      "raw_text": "209. Receipt of evidence relating to offences committed outside India.—When any offence alleged\n    to have been committed in a territory outside India is being inquired into or tried under the provisions of\n    section 208, the Central Government may, if it thinks fit, direct that copies of depositions made or exhibits\n    produced, either in physical form or in electronic form, before a judicial officer, in or for that territory or\n    before a diplomatic or consular representative of India in or for that territory shall be received as evidence\n    by the Court holding such inquiry or trial in any case in which such Court might issue a commission for\n    taking evidence as to the matters to which such depositions or exhibits relate.",
+      "key_terms": [
+        "deposition",
+        "commission (for taking evidence)",
+        "extraterritorial jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "This closes Chapter XIV by solving a practical problem created by section 208's extraterritorial jurisdiction: if India is trying someone for an offence committed abroad, how does evidence from that foreign territory get before an Indian court? Rather than requiring witnesses to travel to India or the court to issue a formal evidence commission every time, the Central Government can direct that depositions or exhibits already taken before a judicial officer abroad, or before an Indian diplomatic/consular official there (physical or electronic copies), be accepted directly as evidence — provided the situation is one where the trial court could otherwise have issued a commission to take that very evidence anyway.",
+        "essential_elements": [
+          "Applies to trials of offences under section 208 (extraterritorial jurisdiction)",
+          "Central Government may direct acceptance of depositions/exhibits taken before a foreign judicial officer or an Indian diplomatic/consular representative abroad",
+          "Covers both physical and electronic-form copies",
+          "Only applies where the trial court could otherwise have issued a commission to take that evidence"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a Central-Government-gated evidentiary shortcut, not an automatic rule — it requires an affirmative direction, and only substitutes for what a commission for evidence would otherwise achieve."
+        ],
+        "how_to_read": "Read this as the evidentiary companion to section 208 — it exists solely to make extraterritorial prosecutions practically workable once the Central Government has sanctioned them."
+      }
+    },
+    {
+      "number": "210",
+      "title": "Cognizance of offences by Magistrate",
+      "raw_text": "210. Cognizance of offences by Magistrate.—(1) Subject to the provisions of this Chapter, any\n    Magistrate of the first class, and any Magistrate of the second class specially empowered in this behalf\n    under sub-section (2), may take cognizance of any offence—\n    (a) upon receiving a complaint of facts, including any complaint filed by a person authorised under\n    any special law, which constitutes such offence;\n    (b) upon a police report (submitted in any mode including electronic mode) of such facts;\n    (c) upon information received from any person other than a police officer, or upon his own\n    knowledge, that such offence has been committed.\n    (2) The Chief Judicial Magistrate may empower any Magistrate of the second class to take cognizance\n    under sub-section (1) of such offences as are within his competence to inquire into or try.",
+      "key_terms": [
+        "cognizance",
+        "complaint",
+        "police report",
+        "Chief Judicial Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XV, on how criminal proceedings formally get started. A Magistrate can take cognizance of an offence — that is, formally apply their judicial mind to the facts so as to begin proceeding — through any of three routes: (a) a private complaint of facts constituting the offence, including complaints by persons specially authorised under a special law; (b) a police report (the chargesheet under section 193), which can now be submitted electronically; or (c) information from someone other than the police, or even the Magistrate's own personal knowledge, that an offence has occurred. First-class Magistrates can always do this; second-class Magistrates need to be specially empowered by the Chief Judicial Magistrate for offences within their competence.",
+        "essential_elements": [
+          "First-class Magistrates may take cognizance of any offence via any of three routes",
+          "Route (a): a complaint of facts constituting the offence, including complaints by persons authorised under special laws",
+          "Route (b): a police report, submittable in any mode including electronic",
+          "Route (c): information from a non-police source, or the Magistrate's own knowledge",
+          "Second-class Magistrates may take cognizance only if specially empowered by the Chief Judicial Magistrate, and only for offences within their competence"
+        ],
+        "exceptions_and_qualifications": [
+          "\"Subject to the provisions of this Chapter\" signals that later sections (e.g., sanction requirements, complaint-specific procedures) can further condition or restrict when cognizance may actually be taken."
+        ],
+        "how_to_read": "This is the foundational cognizance provision — the three routes in sub-section (1) are the three doors through which a criminal case can formally enter the judicial system, and sub-section (2) is the gatekeeping mechanism for lower-tier Magistrates."
+      }
+    },
+    {
+      "number": "211",
+      "title": "Transfer on application of accused",
+      "raw_text": "211. Transfer on application of accused.—When a Magistrate takes cognizance of an offence under\n    clause (c) of sub-section (1) of section 210, the accused shall, before any evidence is taken, be informed\n    that he is entitled to have the case inquired into or tried by another Magistrate, and if the accused or any of\n    the accused, if there be more than one, objects to further proceedings before the Magistrate taking\n    cognizance, the case shall be transferred to such other Magistrate as may be specified by the Chief Judicial\n    Magistrate in this behalf.",
+      "key_terms": [
+        "cognizance",
+        "transfer",
+        "Chief Judicial Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a specific fairness safeguard for the third cognizance route (section 210(1)(c)) — where the Magistrate acted on information from someone else or their own personal knowledge, rather than a complaint or police report. Because the Magistrate here is, in a sense, closer to being both an information-source and the decision-maker, the accused must be told, before any evidence is taken, that they have a right to have the case heard by a different Magistrate instead. If the accused (or any one of multiple accused) objects to continuing before this Magistrate, the case must be transferred to whichever Magistrate the Chief Judicial Magistrate designates.",
+        "essential_elements": [
+          "Applies only where cognizance was taken under section 210(1)(c) — non-police information or the Magistrate's own knowledge",
+          "Accused must be informed of the right to transfer before any evidence is taken",
+          "If the accused (or any one of several accused) objects to proceeding before that Magistrate, transfer is mandatory",
+          "The Chief Judicial Magistrate specifies which Magistrate the case is transferred to"
+        ],
+        "exceptions_and_qualifications": [
+          "This right is triggered automatically by that specific mode of cognizance and doesn't need to be separately justified by the accused — a bare objection is enough to require transfer."
+        ],
+        "how_to_read": "This is a targeted natural-justice safeguard: read it as balancing the flexibility of the own-knowledge/third-party-information cognizance route against the perceived risk of a Magistrate who is less neutral than one acting purely on a complaint or police report."
+      }
+    },
+    {
+      "number": "212",
+      "title": "Making over of cases to Magistrates",
+      "raw_text": "212. Making over of cases to Magistrates.—(1) Any Chief Judicial Magistrate may, after taking\n    cognizance of an offence, make over the case for inquiry or trial to any competent Magistrate subordinate\n    to him.\n    (2) Any Magistrate of the first class empowered in this behalf by the Chief Judicial Magistrate may,\n    after taking cognizance of an offence, make over the case for inquiry or trial to such other competent\n    Magistrate as the Chief Judicial Magistrate may, by general or special order, specify.",
+      "key_terms": [
+        "Chief Judicial Magistrate",
+        "cognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "Taking cognizance and actually conducting the inquiry or trial don't have to be done by the same Magistrate. This section lets a Chief Judicial Magistrate, after taking cognizance, hand the case off to any competent subordinate Magistrate to actually inquire into or try it — a routine case-management and workload-distribution tool. A specially empowered first-class Magistrate can do the same, but only within the specific routing scheme the Chief Judicial Magistrate has set (by general or special order) for where such cases should go.",
+        "essential_elements": [
+          "Chief Judicial Magistrate may make over a case (after taking cognizance) to any competent subordinate Magistrate",
+          "A specially empowered first-class Magistrate may also make over a case, but only to a Magistrate specified via the Chief Judicial Magistrate's general or special order"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A purely administrative case-distribution provision — cognizance and trial are functionally separable, and this section is the mechanism for that separation within the Magistracy's hierarchy."
+      }
+    },
+    {
+      "number": "213",
+      "title": "Cognizance of offences by Court of Session",
+      "raw_text": "213. Cognizance of offences by Court of Session.—Except as otherwise expressly provided by this\n    Sanhita or by any other law for the time being in force, no Court of Session shall take cognizance of any\n    offence as a Court of original jurisdiction unless the case has been committed to it by a Magistrate under\n    this Sanhita.",
+      "key_terms": [
+        "Court of Session",
+        "committal",
+        "cognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "Unlike a Magistrate, a Court of Session generally cannot start a case from scratch on its own — it can only take cognizance of an offence as a trial court of first instance if a Magistrate has already committed the case to it through the Sanhita's committal procedure. This structural rule keeps the Sessions Court's original-jurisdiction workload flowing through the Magistracy's initial screening, except where some other provision of the Sanhita or another law expressly says otherwise.",
+        "essential_elements": [
+          "General rule: a Court of Session cannot take original cognizance of an offence on its own",
+          "It may act only where a Magistrate has committed the case to it under the Sanhita's committal procedure",
+          "Exception: where this Sanhita or another law expressly provides a different route"
+        ],
+        "exceptions_and_qualifications": [
+          "This reinforces the Magistracy's role as the standard entry-point/screening layer for the criminal justice system, with the Sessions Court reserved for cases that clear that initial screening (or are exempted by special statute)."
+        ],
+        "how_to_read": "Pair this with the committal provisions found later in the Sanhita — this section is the rule that makes committal necessary in the first place for original Sessions Court jurisdiction."
+      }
+    },
+    {
+      "number": "214",
+      "title": "Additional Sessions Judges to try cases made over to them",
+      "raw_text": "214. Additional Sessions Judges to try cases made over to them.—An Additional Sessions Judge\n    shall try such cases as the Sessions Judge of the division may, by general or special order, make over to\n    him for trial or as the High Court may, by special order, direct him to try.",
+      "key_terms": [
+        "Additional Sessions Judge",
+        "Sessions Judge",
+        "High Court"
+      ],
+      "breakdown": {
+        "plain_summary": "This defines how an Additional Sessions Judge gets their caseload: not independently, but only through cases specifically made over by the Sessions Judge of that division (via general or special order), or through a specific High Court direction. This keeps case allocation within the Sessions Court hierarchy centrally controlled by the Sessions Judge (or, exceptionally, the High Court), rather than the Additional Sessions Judge selecting or receiving cases independently.",
+        "essential_elements": [
+          "An Additional Sessions Judge tries only cases made over by the division's Sessions Judge (general or special order)",
+          "Or cases the High Court specially directs the Additional Sessions Judge to try"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short administrative provision — read it as the Sessions Court-level counterpart to section 212's Magistracy case-allocation rule."
       }
     }
   ]
