@@ -224,7 +224,9 @@
     "legal aid": "State-funded legal representation assigned to an accused person who is unrepresented and unable to afford an advocate, mandatory under section 341 once the Court identifies the need -- the practical mechanism giving effect to the constitutional right to a fair trial for indigent accused persons.",
     "day-to-day trial": "The default rule (section 346(1)) that an inquiry or trial must proceed continuously, on successive days, until all attending witnesses have been examined, unless the Court records reasons for adjourning beyond the following day -- aimed at preventing indefinite drift in criminal proceedings.",
     "local inspection": "A Judge's or Magistrate's visit to the scene of an alleged offence, or any other place relevant to properly appreciating the evidence, conducted after due notice to the parties, with a memorandum of observed facts recorded and made part of the case record.",
-    "specimen": "A sample of a person's signature, finger impressions, handwriting, or voice, which a first-class Magistrate may order a person (including an accused) to provide for the purposes of an investigation or proceeding, ordinarily only if the person has been arrested in connection with that matter."
+    "specimen": "A sample of a person's signature, finger impressions, handwriting, or voice, which a first-class Magistrate may order a person (including an accused) to provide for the purposes of an investigation or proceeding, ordinarily only if the person has been arrested in connection with that matter.",
+    "memorandum of arguments": "A written note, submitted to the Court by a party after closing oral arguments, setting out concisely and under distinct headings the arguments supporting that party's case; it becomes part of the case record and a copy must be simultaneously given to the opposite party.",
+    "competent witness": "A person legally qualified to give evidence in a proceeding; section 353 makes an accused person a competent witness for the defence, meaning he may testify on oath to disprove the charge, but only on his own written request, and his choice not to testify cannot be commented on or used to presume guilt."
   },
   "sections": [
     {
@@ -8108,6 +8110,108 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "A practical support provision reducing the financial burden of participating in the criminal justice system on complainants and witnesses, who might otherwise be discouraged from attending or cooperating due to the cost of travel, lost wages, or other attendance-related expenses."
+      }
+    },
+    {
+      "number": "351",
+      "title": "Power to examine accused",
+      "raw_text": "351. Power to examine accused.—(1) In every inquiry or trial, for the purpose of enabling the accused\npersonally to explain any circumstances appearing in the evidence against him, the Court—\n        (a) may at any stage, without previously warning the accused put such questions to him as the\n    Court considers necessary;\n        (b) shall, after the witnesses for the prosecution have been examined and before he is called on\n    for his defence, question him generally on the case:\n        Provided that in a summons case, where the Court has dispensed with the personal attendance of\n    the accused, it may also dispense with his examination under clause (b).\n    (2) No oath shall be administered to the accused when he is examined under sub-section (1).\n    (3) The accused shall not render himself liable to punishment by refusing to answer such questions, or\nby giving false answers to them.\n    (4) The answers given by the accused may be taken into consideration in such inquiry or trial, and put\nin evidence for or against him in any other inquiry into, or trial for, any other offence which such answers\nmay tend to show he has committed.\n     (5) The Court may take help of Prosecutor and Defence Counsel in preparing relevant questions which\nare to be put to the accused and the Court may permit filing of written statement by the accused as sufficient\ncompliance of this section.",
+      "key_terms": [
+        "examination of accused"
+      ],
+      "breakdown": {
+        "plain_summary": "This section gives the Court power -- and in one respect a duty -- to personally question the accused about the evidence against him, so he gets a fair chance to explain it in his own words. The Court can ask questions at any stage without warning, but must, after the prosecution evidence closes and before the defence begins, put the case generally to the accused (skippable only in a summons case where personal attendance has been dispensed with). No oath is taken, so this isn't ordinary witness testimony; the accused cannot be punished merely for refusing to answer or for answering falsely, but whatever he does say can be used as evidence for or against him, including in other proceedings his answers might reveal. The Court may draft questions with help from both Prosecutor and Defence Counsel, and may accept a written statement from the accused instead.",
+        "essential_elements": [
+          "Applies in every inquiry or trial, to let the accused personally explain circumstances appearing in the evidence against him.",
+          "The Court may question him at any stage without prior warning (clause (a)).",
+          "The Court must question him generally on the case after prosecution evidence closes and before the defence is called (clause (b)) -- mandatory, subject to the summons-case proviso.",
+          "No oath is administered for this examination.",
+          "The accused is not liable to punishment for refusing to answer or for giving false answers.",
+          "His answers may be used as evidence for or against him, including in other inquiries/trials the answers may tend to show he committed.",
+          "The Court may take help from the Prosecutor and Defence Counsel in framing the questions, and may permit a written statement in lieu of oral examination."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (b)'s mandatory general examination is dispensed with in a summons case where the Court has already dispensed with the accused's personal attendance."
+        ],
+        "how_to_read": "This is the accused's formal opportunity to respond to the case against him directly to the Court (the modern equivalent of the old 'statement of the accused' stage) -- distinct from giving sworn evidence under section 353. Advocates should treat the clause (b) general examination as a critical juncture: every incriminating circumstance from the prosecution evidence must be specifically put to the accused, since unput circumstances generally cannot be used against him, and answers here can shape both this trial and any related proceeding."
+      }
+    },
+    {
+      "number": "352",
+      "title": "Oral arguments and memorandum of arguments",
+      "raw_text": "352. Oral arguments and memorandum of arguments.—(1) Any party to a proceeding may, as soon\nas may be, after the close of his evidence, address concise oral arguments, and may, before he concludes\nthe oral arguments, if any, submit a memorandum to the Court setting forth concisely and under distinct\nheadings, the arguments in support of his case and every such memorandum shall form part of the record.\n    (2) A copy of every such memorandum shall be simultaneously furnished to the opposite party.\n    (3) No adjournment of the proceedings shall be granted for the purpose of filing the written arguments\nunless the Court, for reasons to be recorded in writing, considers it necessary to grant such adjournment.\n    (4) The Court may, if it is of opinion that the oral arguments are not concise or relevant, regulate such\narguments.",
+      "key_terms": [
+        "memorandum of arguments"
+      ],
+      "breakdown": {
+        "plain_summary": "After a party's evidence closes, that party may address concise oral arguments and, before finishing them, file a written memorandum of arguments that becomes part of the record -- with a copy going to the opposite party at the same time. Adjournments just to file written arguments are disfavoured; the Court can only grant one if it records in writing why it's necessary. The Court can also step in to keep oral arguments concise and relevant.",
+        "essential_elements": [
+          "Applies once a party's evidence has closed, allowing concise oral arguments.",
+          "A written memorandum of arguments may be submitted before concluding oral arguments, setting out arguments concisely under distinct headings; it becomes part of the record.",
+          "A copy of the memorandum must be simultaneously furnished to the opposite party.",
+          "Adjournment solely to file written arguments requires the Court to record reasons in writing for why it is necessary.",
+          "The Court may regulate oral arguments it considers not concise or relevant."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is a trial-delay control measure aimed squarely at the final-arguments stage, which was historically prone to prolonged adjournments for written submissions -- practitioners should prepare the memorandum in parallel with oral arguments rather than assuming a routine adjournment will be granted to draft it afterward."
+      }
+    },
+    {
+      "number": "353",
+      "title": "Accused person to be competent witness",
+      "raw_text": "353. Accused person to be competent witness.—(1) Any person accused of an offence before a\nCriminal Court shall be a competent witness for the defence and may give evidence on oath in disproof of\nthe charges made against him or any person charged together with him at the same trial:\n    Provided that—\n        (a) he shall not be called as a witness except on his own request in writing;\n        (b) his failure to give evidence shall not be made the subject of any comment by any of the parties\n    or the Court or give rise to any presumption against himself or any person charged together with him\n    at the same trial.\n\n    (2) Any person against whom proceedings are instituted in any Criminal Court under section 101, or\nsection 126, or section 127, or section 128, or section 129, or under Chapter X or under Part B, Part C or\nPart D of Chapter XI, may offer himself as a witness in such proceedings:\n    Provided that in proceedings under section 127, section 128, or section 129, the failure of such person\nto give evidence shall not be made the subject of any comment by any of the parties or the Court or give\nrise to any presumption against him or any other person proceeded against together with him at the same\ninquiry.",
+      "key_terms": [
+        "competent witness"
+      ],
+      "breakdown": {
+        "plain_summary": "An accused person is legally allowed to testify on oath in his own defence -- to disprove the charge against himself or a co-accused -- but only if he asks to in writing; nobody can compel him to the stand, and if he chooses not to testify, neither the parties nor the Court may comment on that silence or treat it as suggesting guilt. A parallel protection extends to persons facing certain preventive/security-related proceedings (sections 101, 126-129, Chapter X, and specified Parts of Chapter XI), who may likewise offer themselves as witnesses, with the same no-adverse-comment protection for proceedings under sections 127-129.",
+        "essential_elements": [
+          "Sub-section (1): an accused is a competent witness for the defence and may testify on oath to disprove the charge against himself or a co-accused at the same trial.",
+          "Proviso (a): he can only be called as a witness on his own written request -- he cannot be compelled.",
+          "Proviso (b): his failure to testify cannot be commented on by the parties or the Court, nor give rise to any presumption against him or a co-accused.",
+          "Sub-section (2): persons proceeded against under sections 101, 126-129, Chapter X, or Parts B/C/D of Chapter XI may similarly offer themselves as witnesses.",
+          "For proceedings specifically under sections 127-129, failure to testify likewise cannot be commented on or presumed against him or others proceeded against together with him."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the statutory foundation of the accused's right to silence at trial -- he may testify but cannot be forced to, and exercising the right not to testify must carry no evidentiary cost. Advocates should note the written-request formality is a real precondition (a mere willingness stated informally in court is not enough), and that the no-adverse-comment protection is narrower in sub-section (2) than sub-section (1), applying only to specified proceedings."
+      }
+    },
+    {
+      "number": "354",
+      "title": "No influence to be used to induce disclosure",
+      "raw_text": "354. No influence to be used to induce disclosure.—Except as provided in sections 343 and 344, no\ninfluence, by means of any promise or threat or otherwise, shall be used to an accused person to induce\nhim to disclose or withhold any matter within his knowledge.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Other than the specific tender-of-pardon mechanism in sections 343 and 344, nobody may use promises, threats, or any other kind of influence to pressure an accused person into either revealing or holding back information he knows.",
+        "essential_elements": [
+          "General prohibition on using any promise, threat, or other influence to induce an accused to disclose or withhold any matter within his knowledge.",
+          "The only carved-out exception is the tender-of-pardon mechanism under sections 343 and 344."
+        ],
+        "exceptions_and_qualifications": [
+          "Sections 343 and 344 (tender of pardon to an accomplice, and the power to direct such tender) are expressly excepted from this prohibition -- they are the one lawful route by which official inducement to disclose can be offered."
+        ],
+        "how_to_read": "This is a voluntariness safeguard protecting the reliability and fairness of any disclosure by an accused -- any confession or statement extracted through improper inducement outside the pardon mechanism is vulnerable to challenge, reinforcing the broader evidentiary principle that involuntary statements are unsafe to rely on."
+      }
+    },
+    {
+      "number": "355",
+      "title": "Provision for inquiries and trial being held in absence of accused in certain cases",
+      "raw_text": "355. Provision for inquiries and trial being held in absence of accused in certain cases.—(1) At\nany stage of an inquiry or trial under this Sanhita, if the Judge or Magistrate is satisfied, for reasons to be\nrecorded, that the personal attendance of the accused before the Court is not necessary in the interests of\njustice, or that the accused persistently disturbs the proceedings in Court, the Judge or Magistrate may, if\nthe accused is represented by an advocate, dispense with his attendance and proceed with such inquiry or\ntrial in his absence, and may, at any subsequent stage of the proceedings, direct the personal attendance of\nsuch accused.\n    (2) If the accused in any such case is not represented by an advocate, or if the Judge or Magistrate\nconsiders his personal attendance necessary, he may, if he thinks fit and for reasons to be recorded by him,\neither adjourn such inquiry or trial, or order that the case of such accused be taken up or tried separately.\n    Explanation.—For the purpose of this section, personal attendance of the accused includes attendance\nthrough audio-video electronic means.",
+      "key_terms": [
+        "audio-video electronic means"
+      ],
+      "breakdown": {
+        "plain_summary": "If a Judge or Magistrate is satisfied (with recorded reasons) that the accused's personal presence isn't necessary in the interests of justice, or that the accused keeps disrupting the proceedings, the Court may dispense with his attendance and continue the inquiry/trial in his absence -- but only if he is represented by an advocate; the Court can always call him back in person later. If he has no advocate, or the Court thinks his presence is genuinely necessary, the Court instead adjourns the case or orders his case tried separately. Notably, 'personal attendance' throughout this section is defined to include appearing via audio-video electronic means, not just physical presence.",
+        "essential_elements": [
+          "Applies at any stage of an inquiry or trial under the Sanhita.",
+          "Trigger: the Judge/Magistrate is satisfied, for recorded reasons, that personal attendance is unnecessary in the interests of justice, or that the accused persistently disturbs the proceedings.",
+          "Condition: dispensing with attendance is only available if the accused is represented by an advocate.",
+          "The Court may later direct personal attendance again at any subsequent stage.",
+          "If the accused is unrepresented, or the Court considers his presence necessary, it may instead adjourn the proceedings or order his case tried separately (for reasons recorded).",
+          "Explanation: 'personal attendance' includes attendance through audio-video electronic means."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This provision balances trial efficiency and courtroom order against the accused's right to be present and defended -- it is a discretionary, reasons-recorded power, not an automatic entitlement to proceed in absentia, and the audio-video Explanation reflects BNSS's broader embrace of electronic means as equivalent to physical presence."
       }
     }
   ]
