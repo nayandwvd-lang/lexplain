@@ -125,7 +125,11 @@
     "public tranquillity": "The state of calm and order in society that the criminal law seeks to protect and preserve.",
     "habitual offender": "A person who, by pattern of repeated conduct (not a single isolated act), commits or is involved in specified categories of offences such as theft, receiving stolen property, or breach of the peace.",
     "sureties": "Persons who undertake, by executing a bond, to be answerable for another person's compliance with the terms of that bond (such as keeping the peace or maintaining good behaviour), and who may be held liable if the bond is breached.",
-    "general repute": "A person's reputation in the community, admissible as evidence to prove a fact such as habitual criminal conduct, without requiring proof of specific individual acts."
+    "general repute": "A person's reputation in the community, admissible as evidence to prove a fact such as habitual criminal conduct, without requiring proof of specific individual acts.",
+    "sufficient means": "The financial capacity of a person to provide maintenance to a dependant, a threshold that must be proved before a maintenance order can be made under section 144.",
+    "just ground": "A legally sufficient reason recognised by the Magistrate for a wife's refusal to resume living with her husband, such as his having contracted another marriage or keeping a mistress.",
+    "interim maintenance": "A monthly allowance and proceeding expenses ordered by the Magistrate to a dependant while a maintenance application under section 144 is still pending, meant to provide urgent relief before the case is finally decided.",
+    "wilfully avoiding service": "Deliberately evading being served with legal process, a ground on which a Magistrate may proceed to hear and decide a maintenance case ex parte."
   },
   "sections": [
     {
@@ -3215,6 +3219,103 @@
           "Remand under sub-section (7) remains subject to Section 141's rules (e.g., the three-year absolute imprisonment cap), so it isn't an unlimited re-imprisonment power."
         ],
         "how_to_read": "Read this as the release/relief counterpart to Section 141's enforcement machinery — whenever a client has been imprisoned for security default, this is the section to check for a path back out, whether via outright release, term reduction, or conditional discharge."
+      }
+    },
+    {
+      "number": "143",
+      "title": "Security for unexpired period of bond",
+      "raw_text": "143. Security for unexpired period of bond.—(1) When a person for whose appearance a summons or warrant has been issued under the proviso to sub-section (3) of section 140 or under sub-section (10) of section 142, appears or is brought before the Magistrate or Court, the Magistrate or Court shall cancel the bond or bail bond executed by such person and shall order such person to give, for the unexpired portion of the term of such bond, fresh security of the same description as the original security.\n    (2) Every such order shall, for the purposes of sections 139 to 142 (both inclusive) be deemed to be an order made under section 125 or section 136, as the case may be.",
+      "key_terms": [
+        "bond",
+        "fresh security",
+        "unexpired portion"
+      ],
+      "breakdown": {
+        "plain_summary": "The closing section of Chapter IX ties off two loose ends created earlier in the Chapter: what happens when a previously-accepted surety is rejected (Section 140(3) proviso) or when a surety applies to be discharged from their own obligation (Section 142(10)), and the principal is accordingly summoned or brought before the Court. In either case, once the person appears, the Magistrate or Court must cancel the existing bond and order fresh security of the same kind, running only for whatever portion of the original bond's term remains — not a fresh full term. That new order is then deemed, for all the purposes of Sections 139-142 (bond contents, surety rejection, imprisonment in default, and release/relief), to be an original order made under Section 125 or Section 136, so the whole Chapter's machinery applies to it exactly as if it were a first-time order.",
+        "essential_elements": [
+          "Applies specifically where a person is summoned/brought before the Court under the Section 140(3) proviso (rejected surety) or Section 142(10) (surety's own discharge application).",
+          "The existing bond is cancelled and fresh security of the same description is ordered.",
+          "The fresh security covers only the unexpired portion of the original bond's term.",
+          "The fresh order is deemed, for Sections 139-142 purposes, to be an order under Section 125 or Section 136."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short mechanical closing section — its main function is the 'deeming' clause in sub-section (2), which folds fresh-security orders back into the same enforcement/relief framework (Sections 139-142) rather than creating a separate, undefined procedural track."
+      }
+    },
+    {
+      "number": "144",
+      "title": "Order for maintenance of wives, children and parents",
+      "raw_text": "144. Order for maintenance of wives, children and parents.—(1) If any person having sufficient means neglects or refuses to maintain—\n        (a) his wife, unable to maintain herself; or\n        (b) his legitimate or illegitimate child, whether married or not, unable to maintain itself; or\n        (c) his legitimate or illegitimate child (not being a married daughter) who has attained majority, where such child is, by reason of any physical or mental abnormality or injury unable to maintain itself; or\n        (d) his father or mother, unable to maintain himself or herself,\na Magistrate of the first class may, upon proof of such neglect or refusal, order such person to make a monthly allowance for the maintenance of his wife or such child, father or mother, at such monthly rate as such Magistrate thinks fit and to pay the same to such person as the Magistrate may from time to time direct:\n    Provided that the Magistrate may order the father of a female child referred to in clause (b) to make such allowance, until she attains her majority, if the Magistrate is satisfied that the husband of such female child, if married, is not possessed of sufficient means:\n    Provided further that the Magistrate may, during the pendency of the proceeding regarding monthly allowance for the maintenance under this sub-section, order such person to make a monthly allowance for the interim maintenance of his wife or such child, father or mother, and the expenses of such proceeding which the Magistrate considers reasonable, and to pay the same to such person as the Magistrate may from time to time direct:\n    Provided also that an application for the monthly allowance for the interim maintenance and expenses of proceeding under the second proviso shall, as far as possible, be disposed of within sixty days from the date of the service of notice of the application to such person.\n    Explanation.—For the purposes of this Chapter, \"wife\" includes a woman who has been divorced by, or has obtained a divorce from, her husband and has not remarried.\n    (2) Any such allowance for the maintenance or interim maintenance and expenses of proceeding shall be payable from the date of the order, or, if so ordered, from the date of the application for maintenance or interim maintenance and expenses of proceeding, as the case may be.\n    (3) If any person so ordered fails without sufficient cause to comply with the order, any such Magistrate may, for every breach of the order, issue a warrant for levying the amount due in the manner provided for levying fines, and may sentence such person, for the whole or any part of each month's allowance for the maintenance or the interim maintenance and expenses of proceeding, as the case may be, remaining unpaid after the execution of the warrant, to imprisonment for a term which may extend to one month or until payment if sooner made:\n    Provided that no warrant shall be issued for the recovery of any amount due under this section unless application be made to the Court to levy such amount within a period of one year from the date on which it became due:\n    Provided further that if such person offers to maintain his wife on condition of her living with him, and she refuses to live with him, such Magistrate may consider any grounds of refusal stated by her, and may make an order under this section notwithstanding such offer, if he is satisfied that there is just ground for so doing.\n    Explanation.—If a husband has contracted marriage with another woman or keeps a mistress, it shall be considered to be just ground for his wife's refusal to live with him.\n    (4) No wife shall be entitled to receive an allowance for the maintenance or the interim maintenance and expenses of proceeding, from her husband under this section if she is living in adultery, or if, without any sufficient reason, she refuses to live with her husband, or if they are living separately by mutual consent.\n    (5) On proof that any wife in whose favour an order has been made under this section is living in adultery, or that without sufficient reason she refuses to live with her husband, or that they are living separately by mutual consent, the Magistrate shall cancel the order.",
+      "key_terms": [
+        "maintenance",
+        "interim maintenance",
+        "wife",
+        "sufficient means",
+        "just ground",
+        "adultery"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the BNSS's carry-forward of the well-known summary maintenance remedy (the old CrPC Section 125). It lets a Magistrate of the first class order a person of sufficient means, who neglects or refuses to maintain a dependant, to pay a monthly allowance — covering a wife unable to maintain herself, a legitimate or illegitimate child (married or not) unable to maintain itself, an adult child unable to maintain itself due to physical/mental abnormality or injury (except a married daughter), or a father or mother unable to maintain themselves. A special sub-rule lets the Magistrate order a female child's father to pay until she turns 18 if her husband (if married) lacks sufficient means. Interim maintenance and litigation-expense orders are available while the main proceeding is pending, and applications for interim relief should, as far as possible, be decided within sixty days of notice being served — a built-in speed guarantee recognising that dependants often can't wait for a full trial. \"Wife\" is defined broadly to include a divorced woman who hasn't remarried. Payment runs from the order date, or an earlier application date if the Magistrate so directs. Non-compliance is enforced like a fine — levied by warrant, escalating to up to one month's imprisonment per unpaid instalment (or until payment, if sooner) — but recovery applications must be made within one year of the amount falling due, or the warrant route is barred. A husband's mere offer to resume cohabitation doesn't automatically defeat the wife's claim; the Magistrate can still order maintenance if her stated grounds for refusal are just — and bigamy or keeping a mistress is expressly deemed a just ground by the Explanation. Conversely, a wife is disentitled altogether if she's living in adultery, refuses to live with her husband without sufficient reason, or the couple is separated by mutual consent — and an existing order must be cancelled on proof of any of these.",
+        "essential_elements": [
+          "Four categories of dependants: wife unable to maintain herself; child (legitimate/illegitimate, married or not) unable to maintain itself; a non-married adult child unable to maintain itself due to physical/mental abnormality or injury; parent unable to maintain themselves.",
+          "Threshold: the person ordered to pay must have 'sufficient means' and must have 'neglected or refused' to maintain the dependant.",
+          "Interim maintenance and proceeding-expenses orders are available pending the main case, targeted for disposal within sixty days of notice.",
+          "'Wife' expressly includes an un-remarried divorced woman.",
+          "Enforcement: warrant for levying the amount as a fine, with up to one month's imprisonment per unpaid instalment — but a strict one-year limitation on when a recovery application can be made.",
+          "Bigamy or keeping a mistress is deemed 'just ground' for a wife's refusal to resume living with her husband, defeating his cohabitation-offer defence.",
+          "Wife's disentitlement: living in adultery, refusing to live with husband without sufficient reason, or living separately by mutual consent — grounds for both refusing and cancelling an order."
+        ],
+        "exceptions_and_qualifications": [
+          "The one-year limitation on enforcement applications is calculated from when each instalment 'became due' — a running clock per instalment, not a single deadline for the whole order.",
+          "Imprisonment for default doesn't wipe out the debt — the arrears remain recoverable; imprisonment is coercive, not a substitute for payment ('or until payment if sooner made')."
+        ],
+        "how_to_read": "This is a high-volume, practically important section — read sub-section (1)'s four dependant categories first to check standing, then sub-section (4)'s disentitlement grounds as the standard defence checklist, then sub-section (3)'s enforcement mechanics and one-year limitation for the recovery stage."
+      }
+    },
+    {
+      "number": "145",
+      "title": "Procedure",
+      "raw_text": "145. Procedure.—(1) Proceedings under section 144 may be taken against any person in any district—\n        (a) where he is; or\n        (b) where he or his wife resides; or\n        (c) where he last resided with his wife, or as the case may be, with the mother of the illegitimate child; or\n        (d) where his father or mother resides.\n    (2) All evidence in such proceedings shall be taken in the presence of the person against whom an order for payment of maintenance is proposed to be made, or, when his personal attendance is dispensed with, in the presence of his advocate, and shall be recorded in the manner prescribed for summons-cases:\n    Provided that if the Magistrate is satisfied that the person against whom an order for payment of maintenance is proposed to be made is wilfully avoiding service, or wilfully neglecting to attend the Court, the Magistrate may proceed to hear and determine the case ex parte and any order so made may be set aside for good cause shown on an application made within three months from the date thereof subject to such terms including terms as to payment of costs to the opposite party as the Magistrate may think just and proper.\n    (3) The Court in dealing with applications under section 144 shall have power to make such order as to costs as may be just.",
+      "key_terms": [
+        "ex parte order",
+        "summons-case",
+        "costs"
+      ],
+      "breakdown": {
+        "plain_summary": "Deliberately claimant-friendly venue and evidentiary rules for maintenance proceedings. Venue is flexible — proceedings can be brought wherever the respondent currently is, where he or his wife resides, where he last resided with his wife (or the illegitimate child's mother), or where his parents reside — sparing a dependant claimant from having to chase the respondent to a distant or inconvenient forum. Evidence follows the summons-case procedure and must ordinarily be taken in the respondent's presence (or their advocate's, if personal attendance is dispensed with), but a Magistrate satisfied the respondent is wilfully dodging service or wilfully skipping Court can proceed ex parte — with a three-month window for the respondent to apply to set aside that ex parte order on good cause, potentially subject to a costs condition. The Court also has general power to award costs as it sees fit in these proceedings.",
+        "essential_elements": [
+          "Four alternative venue options, all favouring the claimant's convenience over the respondent's.",
+          "Default evidentiary rule: taken in the respondent's presence (or advocate's, where attendance is dispensed with), following summons-case procedure.",
+          "Ex parte proceeding permitted on proof of wilful evasion of service or wilful non-attendance.",
+          "Ex parte orders can be set aside on an application within three months, for good cause, potentially on costs terms.",
+          "General discretionary costs power for the Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The multiple-venue rule in sub-section (1) is the standout access-to-justice feature — always check all four options when advising a maintenance claimant on where to file, not just the respondent's current residence."
+      }
+    },
+    {
+      "number": "146",
+      "title": "Alteration in allowance",
+      "raw_text": "146. Alteration in allowance.—(1) On proof of a change in the circumstances of any person, receiving, under section 144 a monthly allowance for the maintenance or interim maintenance, or ordered under the same section to pay a monthly allowance for the maintenance, or interim maintenance, to his wife, child, father or mother, as the case may be, the Magistrate may make such alteration, as he thinks fit, in the allowance for the maintenance or the interim maintenance, as the case may be.\n    (2) Where it appears to the Magistrate that in consequence of any decision of a competent Civil Court, any order made under section 144 should be cancelled or varied, he shall cancel the order or, as the case may be, vary the same accordingly.\n    (3) Where any order has been made under section 144 in favour of a woman who has been divorced by, or has obtained a divorce from, her husband, the Magistrate shall, if he is satisfied that—\n        (a) the woman has, after the date of such divorce, remarried, cancel such order as from the date of her remarriage;\n        (b) the woman has been divorced by her husband and that she has received, whether before or after the date of the said order, the whole of the sum which, under any customary or personal law applicable to the parties, was payable on such divorce, cancel such order,—\n            (i) in the case where such sum was paid before such order, from the date on which such order was made;\n            (ii) in any other case, from the date of expiry of the period, if any, for which maintenance has been actually paid by the husband to the woman;\n        (c) the woman has obtained a divorce from her husband and that she had voluntarily surrendered her rights to maintenance or interim maintenance, as the case may be, after her divorce, cancel the order from the date thereof.\n    (4) At the time of making any decree for the recovery of any maintenance or dowry by any person, to whom a monthly allowance for the maintenance and interim maintenance or any of them has been ordered to be paid under section 144, the Civil Court shall take into account the sum which has been paid to, or recovered by, such person as monthly allowance for the maintenance and interim maintenance or any of them, as the case may be, in pursuance of the said order.",
+      "key_terms": [
+        "alteration",
+        "remarriage",
+        "civil court",
+        "decree"
+      ],
+      "breakdown": {
+        "plain_summary": "Closes Chapter X with the mechanics of adjusting, cancelling, or coordinating a Section 144 maintenance order over time. General alteration power: either party (payer or payee) can seek a change in the allowance on proof of a change in circumstances — the Magistrate has full discretion on the new amount. Civil Court deference: if a competent Civil Court's decision makes the existing Section 144 order inappropriate, the Magistrate must cancel or vary it accordingly — the summary criminal maintenance order yields to a subsequent civil adjudication. Divorce-specific cancellation triggers for a wife who was divorced: remarriage cancels the order from the remarriage date; receipt of the full customary/personal-law divorce settlement sum cancels it (with the cancellation date depending on whether that sum was paid before or after the order); and voluntary surrender of her maintenance rights post-divorce cancels it from the surrender date. Finally, a coordination rule prevents double recovery: when a Civil Court later grants a maintenance or dowry decree, it must account for and set off whatever has already been paid or recovered under the Section 144 order.",
+        "essential_elements": [
+          "General alteration on proof of changed circumstances — available to either the paying or receiving party.",
+          "Mandatory cancellation/variation where a competent Civil Court's decision requires it.",
+          "Three specific divorce-related cancellation triggers for a divorced wife: remarriage, receipt of the full customary/personal-law settlement sum, or voluntary surrender of maintenance rights — each with its own effective cancellation date.",
+          "Civil Court maintenance/dowry decrees must set off sums already paid/recovered under the Section 144 order, preventing double recovery."
+        ],
+        "exceptions_and_qualifications": [
+          "The cancellation-date rule for receipt of the full settlement sum (sub-section (3)(b)) varies depending on timing: from the order date if the sum was paid before the order, or from the expiry of the period maintenance was actually paid if paid after."
+        ],
+        "how_to_read": "Treat sub-sections (1)-(2) as the general variation/deference rules and sub-section (3) as a specific divorced-wife checklist — three distinct triggers, each cancelling the order from a different calculated date. Sub-section (4) is the anti-double-recovery coordination clause worth flagging whenever a civil maintenance/dowry decree follows an existing Section 144 order."
       }
     }
   ]
