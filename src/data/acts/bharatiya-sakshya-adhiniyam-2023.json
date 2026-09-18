@@ -1,0 +1,183 @@
+{
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "act_number": "47 of 2023",
+  "enactment_date": "25 December 2023",
+  "preamble": "An Act to consolidate and to provide for general rules and principles of evidence for fair trial.",
+  "glossary": {
+    "adhiniyam": "The Hindi-derived term used throughout this Act to mean the Act itself -- “Adhiniyam” is simply the Bharatiya Sakshya Adhiniyam, 2023's word for “this Act”, used the way “Sanhita” is used in the BNSS and BNS.",
+    "conclusive proof": "The strongest form of proof recognised by this Adhiniyam: when a fact is declared conclusive proof of another under section 2(1)(b), the Court must treat the second fact as proved the moment the first is proved, and no evidence disproving it may even be admitted -- unlike an ordinary presumption, it cannot be rebutted.",
+    "disproved": "A fact is “disproved”, under section 2(1)(c), when the Court either believes it does not exist, or considers its non-existence so probable that a prudent person ought to act on the supposition that it does not exist -- the mirror image of “proved”.",
+    "facts in issue": "Facts from which the existence, non-existence, nature or extent of a right, liability or disability asserted or denied in a suit or proceeding necessarily follows -- in essence, the facts the parties actually dispute and which the Court must decide, as opposed to merely “relevant” facts that help prove or disprove them. Defined in section 2(1)(g).",
+    "may presume": "One of three defined presumption strengths in section 2(1)(h): where the Adhiniyam says the Court “may presume” a fact, the Court has discretion to either treat it as proved unless disproved, or to instead call for proof -- the weakest and most discretionary of the three presumption types (compare “shall presume” and “conclusive proof”).",
+    "shall presume": "The middle tier of the three presumption strengths in section 2(1): where the Adhiniyam directs that the Court “shall presume” a fact, the Court has no discretion -- it must regard the fact as proved unless and until it is disproved by the other side. Unlike “conclusive proof”, this kind of presumption can be rebutted with evidence.",
+    "not proved": "A distinct, third status under section 2(1)(i), separate from both “proved” and “disproved”: a fact is “not proved” when the evidence leaves the Court unable to either believe it exists or believe it does not -- the position of genuine uncertainty.",
+    "res gestae": "A common-law Latin label (not itself used in the Adhiniyam's text) traditionally applied to the doctrine now codified in section 4: facts so closely connected with a fact in issue as to form part of the same transaction are themselves relevant, regardless of whether they occurred at the same time and place.",
+    "conduct": "Under section 6(2), the actions of a party, their agent, or a person whose alleged offence is the subject of the proceeding are relevant if they influence, or are influenced by, a fact in issue or relevant fact. Explanation 1 to section 6 clarifies that mere statements are not “conduct” unless they accompany and explain some other act.",
+    "court": "Defined broadly in section 2(1)(a) to include all Judges and Magistrates, and all persons legally authorised to take evidence -- except arbitrators, who are expressly excluded (consistent with section 1(2) taking arbitration proceedings outside this Adhiniyam's scope entirely).",
+    "document": "Defined in section 2(1)(d) as any matter expressed, described, or otherwise recorded on any substance by letters, figures, marks, or any other means (or combination of means), intended or usable for recording that matter -- and expressly including electronic and digital records such as emails, server logs, and messages, reflecting this Adhiniyam's modernisation of the old Evidence Act's definition.",
+    "evidence": "Defined in section 2(1)(e) to mean and include both oral evidence (statements, including electronic statements, that a witness makes before the Court) and documentary evidence (documents, including electronic or digital records, produced for the Court's inspection).",
+    "fact": "Defined in section 2(1)(f) to include any thing, state of things, or relation of things capable of being perceived by the senses, and any mental condition a person is conscious of -- covering both physical, observable facts and internal mental facts like intention or good faith.",
+    "proved": "Defined in section 2(1)(j): a fact is “proved” when, after considering the matters before it, the Court either believes it exists, or considers its existence so probable that a prudent person ought to act on the supposition that it exists -- the basic evidentiary threshold applied throughout the Adhiniyam.",
+    "relevant": "Defined in section 2(1)(k): a fact is “relevant” to another when it is connected to it in one of the specific ways described in this Adhiniyam's provisions on relevancy of facts (sections 3 onward) -- relevance is not a matter of general logic or common sense alone, but of falling within one of these codified categories of connection."
+  },
+  "sections": [
+    {
+      "number": "1",
+      "title": "Short title, application and commencement",
+      "raw_text": "1. (1) This Act may be called the Bharatiya Sakshya Adhiniyam, 2023.\n(2) It applies to all judicial proceedings in or before any Court, including Courts-martial, but not to affidavits presented to any Court or officer, nor to proceedings before an arbitrator.\n(3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.",
+      "key_terms": [
+        "Adhiniyam",
+        "judicial proceedings",
+        "Courts-martial",
+        "affidavit",
+        "arbitrator",
+        "Official Gazette"
+      ],
+      "breakdown": {
+        "plain_summary": "This opening section names the Act, fixes what kinds of proceedings it governs, and leaves its start date to be announced later by the Central Government. It applies broadly to judicial proceedings before any Court, including Courts-martial, but pointedly excludes affidavits and arbitration proceedings -- both of which follow their own, more relaxed evidentiary norms.",
+        "essential_elements": [
+          "Subsection (1) names the Act the Bharatiya Sakshya Adhiniyam, 2023.",
+          "Subsection (2) applies it to all judicial proceedings in or before any Court, expressly including Courts-martial.",
+          "Subsection (2) excludes affidavits presented to any Court or officer, and proceedings before an arbitrator, from the Act's application.",
+          "Subsection (3) leaves the commencement date to a Central Government notification in the Official Gazette."
+        ],
+        "exceptions_and_qualifications": [
+          "Affidavits are outside the Adhiniyam's scope even though they are sworn statements used in judicial proceedings -- their admissibility and form are governed by procedural law, not by this evidence code.",
+          "Arbitration proceedings are also excluded, consistent with arbitration's traditional freedom from the strict rules of evidence that bind ordinary courts."
+        ],
+        "how_to_read": "This is the BSA's replacement for the old Indian Evidence Act, 1872's section 1 -- functionally identical in scope (Courts-martial included, affidavits and arbitration excluded), confirming continuity in what the new evidence code does and does not cover."
+      }
+    },
+    {
+      "number": "2",
+      "title": "Definitions",
+      "raw_text": "2. (1) In this Adhiniyam, unless the context otherwise requires,—\n(a) “Court” includes all Judges and Magistrates, and all persons, except arbitrators, legally authorised to take evidence;\n(b) “conclusive proof” means when one fact is declared by this Adhiniyam to be conclusive proof of another, the Court shall, on proof of the one fact, regard the other as proved, and shall not allow evidence to be given for the purpose of disproving it;\n(c) “disproved” in relation to a fact, means when, after considering the matters before it, the Court either believes that it does not exist, or considers its non-existence so probable that a prudent man ought, under the circumstances of the particular case, to act upon the supposition that it does not exist;\n(d) “document” means any matter expressed or described or otherwise recorded upon any substance by means of letters, figures or marks or any other means or by more than one of those means, intended to be used, or which may be used, for the purpose of recording that matter and includes electronic and digital records.\n    Illustrations.\n    (i) A writing is a document.\n    (ii) Words printed, lithographed or photographed are documents.\n    (iii) A map or plan is a document.\n    (iv) An inscription on a metal plate or stone is a document.\n    (v) A caricature is a document.\n    (vi) An electronic record on emails, server logs, documents on computers, laptop or smartphone, messages, websites, locational evidence and voice mail messages stored on digital devices are documents;\n(e) “evidence” means and includes—\n    (i) all statements including statements given electronically which the Court permits or requires to be made before it by witnesses in relation to matters of fact under inquiry and such statements are called oral evidence;\n    (ii) all documents including electronic or digital records produced for the inspection of the Court and such documents are called documentary evidence;\n(f) “fact” means and includes—\n    (i) any thing, state of things, or relation of things, capable of being perceived by the senses;\n    (ii) any mental condition of which any person is conscious.\n    Illustrations.\n    (i) That there are certain objects arranged in a certain order in a certain place, is a fact.\n    (ii) That a person heard or saw something, is a fact.\n    (iii) That a person said certain words, is a fact.\n    (iv) That a person holds a certain opinion, has a certain intention, acts in good faith, or fraudulently, or uses a particular word in a particular sense, or is or was at a specified time conscious of a particular sensation, is a fact;\n(g) “facts in issue” means and includes any fact from which, either by itself or in connection with other facts, the existence, non-existence, nature or extent of any right, liability or disability, asserted or denied in any suit or proceeding, necessarily follows.\n    Explanation.—Whenever, under the provisions of the law for the time being in force relating to civil procedure, any Court records an issue of fact, the fact to be asserted or denied in the answer to such issue is a fact in issue.\n    Illustrations.\n    A is accused of the murder of B. At his trial, the following facts may be in issue:—\n    (i) That A caused B's death.\n    (ii) That A intended to cause B's death.\n    (iii) That A had received grave and sudden provocation from B.\n    (iv) That A, at the time of doing the act which caused B's death, was, by reason of unsoundness of mind, incapable of knowing its nature;\n(h) “may presume”.—Whenever it is provided by this Adhiniyam that the Court may presume a fact, it may either regard such fact as proved, unless and until it is disproved or may call for proof of it;\n(i) “not proved”.—A fact is said to be not proved when it is neither proved nor disproved;\n(j) “proved”.—A fact is said to be proved when, after considering the matters before it, the Court either believes it to exist, or considers its existence so probable that a prudent man ought, under the circumstances of the particular case, to act upon the supposition that it exists;\n(k) “relevant”.—A fact is said to be relevant to another when it is connected with the other in any of the ways referred to in the provisions of this Adhiniyam relating to the relevancy of facts;\n(l) “shall presume”.—Whenever it is directed by this Adhiniyam that the Court shall presume a fact, it shall regard such fact as proved, unless and until it is disproved.\n(2) Words and expressions used herein and not defined but defined in the Information Technology Act, 2000, the Bharatiya Nagarik Suraksha Sanhita, 2023 and the Bharatiya Nyaya Sanhita, 2023 shall have the same meanings as assigned to them in the said Act and Sanhitas.",
+      "key_terms": [
+        "Court",
+        "conclusive proof",
+        "disproved",
+        "document",
+        "evidence",
+        "fact",
+        "facts in issue",
+        "may presume",
+        "not proved",
+        "proved",
+        "relevant",
+        "shall presume"
+      ],
+      "breakdown": {
+        "plain_summary": "This dense interpretation clause is the conceptual foundation for the entire Adhiniyam. Its most important work is defining a graduated vocabulary for how confident the Court must be about a fact: 'proved' and 'disproved' set the basic standard (a prudent person acting on the probability), 'not proved' captures genuine uncertainty, and 'may presume' / 'shall presume' / 'conclusive proof' describe three increasingly strict presumption rules the Adhiniyam uses elsewhere. It also defines 'Court', 'document' (expressly including electronic and digital records), 'evidence' (oral and documentary, including electronic statements), 'fact', and 'facts in issue' -- and subsection (2) borrows definitions from the Information Technology Act, 2000 and the sister BNSS/BNS codes for any term used but not separately defined here.",
+        "essential_elements": [
+          "“Court” includes all Judges and Magistrates and any person legally authorised to take evidence, but excludes arbitrators.",
+          "“Conclusive proof”: once the foundational fact is proved, the Court must treat the declared fact as proved and no evidence to disprove it is admissible.",
+          "“Document” covers any matter recorded on any substance by any means intended for recording, and expressly includes electronic and digital records.",
+          "“Evidence” includes both oral evidence (statements, including electronic statements, made before the Court) and documentary evidence (documents, including electronic/digital records, produced for inspection).",
+          "“Fact” includes both physical things/states/relations perceivable by the senses and mental conditions a person is conscious of.",
+          "“Facts in issue” are the facts from which the existence, non-existence, nature or extent of an asserted or denied right, liability or disability necessarily follows.",
+          "“May presume” gives the Court discretion to treat a fact as proved unless disproved, or to instead call for proof.",
+          "“Shall presume” requires the Court to treat a fact as proved unless and until disproved -- no discretion, but rebuttable.",
+          "“Proved” / “disproved” / “not proved” set the basic belief/probability standard courts apply to every factual finding.",
+          "“Relevant” means connected to another fact in one of the specific ways the Adhiniyam's relevancy provisions describe.",
+          "Subsection (2) imports definitions from the Information Technology Act, 2000, the BNSS, and the BNS for undefined terms used in this Adhiniyam."
+        ],
+        "exceptions_and_qualifications": [
+          "Arbitrators are expressly excluded from the definition of “Court” even though they perform an evidence-taking function, consistent with section 1(2) excluding arbitration proceedings from the Adhiniyam's scope altogether."
+        ],
+        "how_to_read": "This section is the master glossary for the whole Adhiniyam -- whenever a later section uses 'shall presume', 'conclusive proof', or 'may presume', the precise legal consequence is fixed here, not by ordinary English usage; misreading which of the three presumption tiers applies to a given provision is a common source of error in evidence-law argument."
+      }
+    },
+    {
+      "number": "3",
+      "title": "Evidence may be given of facts in issue and relevant facts",
+      "raw_text": "3. Evidence may be given in any suit or proceeding of the existence or non-existence of every fact in issue and of such other facts as are hereinafter declared to be relevant, and of no others.\nExplanation.—This section shall not enable any person to give evidence of a fact which he is disentitled to prove by any provision of the law for the time being in force relating to civil procedure.\nIllustrations.\n(a) A is tried for the murder of B by beating him with a club with the intention of causing his death.\nAt A's trial the following facts are in issue:—\nA's beating B with the club;\nA's causing B's death by such beating;\nA's intention to cause B's death.\n(b) A suitor does not bring with him, and have in readiness for production at the first hearing of the case, a bond on which he relies. This section does not enable him to produce the bond or prove its contents at a subsequent stage of the proceedings, otherwise than in accordance with the conditions prescribed by the Code of Civil Procedure, 1908.",
+      "key_terms": [
+        "evidence",
+        "facts in issue",
+        "relevant facts",
+        "Code of Civil Procedure, 1908"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the Adhiniyam's foundational gatekeeping rule: evidence may only be given of facts in issue and of facts the Adhiniyam elsewhere declares relevant -- nothing else. It is both permissive (facts in issue and relevant facts CAN be proved) and restrictive (facts that are neither in issue nor declared relevant CANNOT be proved through evidence), making it the entry point for every relevancy analysis that follows in Chapter II.",
+        "essential_elements": [
+          "Evidence may be given of the existence or non-existence of every fact in issue.",
+          "Evidence may also be given of facts the Adhiniyam elsewhere declares to be relevant.",
+          "Evidence may be given of no facts other than these two categories.",
+          "The Explanation clarifies this section does not override separate civil procedure rules that may disentitle a person from proving a fact (e.g., for failing to produce a document when required)."
+        ],
+        "exceptions_and_qualifications": [
+          "The Explanation is a carve-out: even if a fact is technically a fact in issue or relevant, a person may still be barred from proving it by a specific civil procedure rule (illustration (b)'s example of failing to produce a bond in time)."
+        ],
+        "how_to_read": "This is the threshold question in every evidentiary dispute: before asking whether evidence is admissible under a specific rule, first ask whether the fact it proves is a fact in issue or has been declared relevant by some provision later in this Chapter -- if neither, section 3 bars it outright regardless of how probative it might seem."
+      }
+    },
+    {
+      "number": "4",
+      "title": "Relevancy of facts forming part of same transaction",
+      "raw_text": "4. Facts which, though not in issue, are so connected with a fact in issue or a relevant fact as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places.\nIllustrations.\n(a) A is accused of the murder of B by beating him. Whatever was said or done by A or B or the bystanders at the beating, or so shortly before or after it as to form part of the transaction, is a relevant fact.\n(b) A is accused of waging war against the Government of India by taking part in an armed insurrection in which property is destroyed, troops are attacked and jails are broken open. The occurrence of these facts is relevant, as forming part of the general transaction, though A may not have been present at all of them.\n(c) A sues B for a libel contained in a letter forming part of a correspondence. Letters between the parties relating to the subject out of which the libel arose, and forming part of the correspondence in which it is contained, are relevant facts, though they do not contain the libel itself.\n(d) The question is, whether certain goods ordered from B were delivered to A. The goods were delivered to several intermediate persons successively. Each delivery is a relevant fact.",
+      "key_terms": [
+        "same transaction",
+        "relevant facts"
+      ],
+      "breakdown": {
+        "plain_summary": "Known to lawyers by the common-law label 'res gestae', this section makes facts relevant simply because they form part of the same transaction as a fact in issue or another relevant fact -- even if they occurred at a different time or place. The connecting thread is not chronology or geography, but whether the facts are so bound together that understanding one requires understanding the whole transaction.",
+        "essential_elements": [
+          "The fact need not itself be in issue.",
+          "It must be so connected with a fact in issue or a relevant fact as to form part of the same transaction.",
+          "Such facts are relevant regardless of whether they occurred at the same time and place, or at different times and places."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Courts read 'same transaction' as requiring proximity of purpose and continuity of action, not merely topical relatedness -- illustration (a)'s words spoken 'shortly before or after' a beating qualify, but a loosely related event separated by a meaningful break in the action typically would not."
+      }
+    },
+    {
+      "number": "5",
+      "title": "Facts which are occasion, cause or effect of facts in issue or relevant facts",
+      "raw_text": "5. Facts which are the occasion, cause or effect, immediate or otherwise, of relevant facts, or facts in issue, or which constitute the state of things under which they happened, or which afforded an opportunity for their occurrence or transaction, are relevant.\nIllustrations.\n(a) The question is, whether A robbed B. The facts that, shortly before the robbery, B went to a fair with money in his possession, and that he showed it, or mentioned the fact that he had it, to third persons, are relevant.\n(b) The question is, whether A murdered B. Marks on the ground, produced by a struggle at or near the place where the murder was committed, are relevant facts.\n(c) The question is, whether A poisoned B. The state of B's health before the symptoms ascribed to poison, and habits of B, known to A, which afforded an opportunity for the administration of poison, are relevant facts.",
+      "key_terms": [
+        "occasion",
+        "cause",
+        "effect",
+        "state of things"
+      ],
+      "breakdown": {
+        "plain_summary": "This section widens relevancy to reach facts that are the occasion, cause, or effect of a fact in issue or relevant fact, the surrounding 'state of things' in which it happened, or facts that afforded the opportunity for it to occur -- essentially, the causal and situational backdrop against which the disputed event took place.",
+        "essential_elements": [
+          "Facts that are the occasion of a relevant fact or fact in issue are relevant.",
+          "Facts that are the cause, immediate or otherwise, of a relevant fact or fact in issue are relevant.",
+          "Facts that are the effect, immediate or otherwise, of a relevant fact or fact in issue are relevant.",
+          "Facts constituting the state of things under which the relevant fact or fact in issue happened are relevant.",
+          "Facts affording an opportunity for the occurrence or transaction of a relevant fact or fact in issue are relevant."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This provision is frequently invoked to admit circumstantial, scene-setting evidence -- physical marks at a crime scene, a victim's pre-existing condition, or an opportunity the accused had -- none of which directly proves the fact in issue but which situates it causally and factually."
+      }
+    },
+    {
+      "number": "6",
+      "title": "Motive, preparation and previous or subsequent conduct",
+      "raw_text": "6. (1) Any fact is relevant which shows or constitutes a motive or preparation for any fact in issue or relevant fact.\n(2) The conduct of any party, or of any agent to any party, to any suit or proceeding, in reference to such suit or proceeding, or in reference to any fact in issue therein or relevant thereto, and the conduct of any person, an offence against whom is the subject of any proceeding, is relevant, if such conduct influences or is influenced by any fact in issue or relevant fact, and whether it was previous or subsequent thereto.\nExplanation 1.—The word “conduct” in this section does not include statements, unless those statements accompany and explain acts other than statements; but this explanation is not to affect the relevancy of statements under any other section of this Adhiniyam.\nExplanation 2.—When the conduct of any person is relevant, any statement made to him or in his presence and hearing, which affects such conduct, is relevant.\nIllustrations.\n(a) A is tried for the murder of B. The facts that A murdered C, that B knew that A had murdered C, and that B had tried to extort money from A by threatening to make his knowledge public, are relevant.\n(b) A sues B upon a bond for the payment of money. B denies the making of the bond. The fact that, at the time when the bond was alleged to be made, B required money for a particular purpose, is relevant.\n(c) A is tried for the murder of B by poison. The fact that, before the death of B, A procured poison similar to that which was administered to B, is relevant.\n(d) The question is, whether a certain document is the will of A. The facts that, not long before, the date of the alleged will, A made inquiry into matters to which the provisions of the alleged will relate; that he consulted advocates in reference to making the will, and that he caused drafts of other wills to be prepared, of which he did not approve, are relevant.\n(e) A is accused of a crime. The facts that, either before, or at the time of, or after the alleged crime, A provided evidence which would tend to give to the facts of the case an appearance favourable to himself, or that he destroyed or concealed evidence, or prevented the presence or procured the absence of persons who might have been witnesses, or suborned persons to give false evidence respecting it, are relevant.\n(f) The question is, whether A robbed B. The facts that, after B was robbed, C said in A's presence—“the police are coming to look for the person who robbed B”, and that immediately afterwards A ran away, are relevant.\n(g) The question is, whether A owes B ten thousand rupees. The facts that A asked C to lend him money, and that D said to C in A's presence and hearing—“I advise you not to trust A, for he owes B ten thousand rupees”, and that A went away without making any answer, are relevant facts.\n(h) The question is, whether A committed a crime. The fact that A absconded, after receiving a letter, warning A that inquiry was being made for the criminal, and the contents of the letter, are relevant.\n(i) A is accused of a crime. The facts that, after the commission of the alleged crime, A absconded, or was in possession of property or the proceeds of property acquired by the crime, or attempted to conceal things which were or might have been used in committing it, are relevant.\n(j) The question is, whether A was raped. The fact that, shortly after the alleged rape, A made a complaint relating to the crime, the circumstances under which, and the terms in which, the complaint was made, are relevant. The fact that, without making a complaint, A said that A had been raped is not relevant as conduct under this section, though it may be relevant as a dying declaration under clause (a) of section 26, or as corroborative evidence under section 160.\n(k) The question is, whether A was robbed. The fact that, soon after the alleged robbery, A made a complaint relating to the offence, the circumstances under which, and the terms in which, the complaint was made, are relevant. The fact that A said he had been robbed, without making any complaint, is not relevant, as conduct under this section, though it may be relevant as a dying declaration under clause (a) of section 26, or as corroborative evidence under section 160.",
+      "key_terms": [
+        "motive",
+        "preparation",
+        "conduct",
+        "absconded",
+        "dying declaration",
+        "corroborative evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "This is one of the most heavily litigated relevancy provisions. Subsection (1) makes motive and preparation relevant to any fact in issue. Subsection (2) makes a party's or accused's conduct relevant, before or after the events in question, so long as it influences or is influenced by a fact in issue or relevant fact -- covering things like absconding, destroying evidence, or making (or conspicuously not making) a complaint. Explanation 1 draws a sharp line: mere statements are not 'conduct' unless they accompany and explain a non-verbal act, though they may still be relevant under other sections. Explanation 2 makes a statement made to, or in the presence and hearing of, a person whose conduct is relevant, itself relevant -- because it helps explain that conduct.",
+        "essential_elements": [
+          "Subsection (1): facts showing or constituting motive or preparation for a fact in issue or relevant fact are relevant.",
+          "Subsection (2): the conduct of a party, a party's agent, or the person accused/affected, is relevant if it influences or is influenced by a fact in issue or relevant fact -- whether previous or subsequent.",
+          "Explanation 1: 'conduct' excludes bare statements unless they accompany and explain a non-verbal act -- but this does not stop those statements being relevant under some other section.",
+          "Explanation 2: where a person's conduct is relevant, statements made to that person, or in their presence and hearing, that affect the conduct, are themselves relevant."
+        ],
+        "exceptions_and_qualifications": [
+          "Illustrations (j) and (k) draw a critical distinction: silently claiming to have been raped or robbed, without any accompanying complaint, is not relevant conduct under this section -- though it may still be admissible as a dying declaration under section 26(a) or as corroborative evidence under section 160."
+        ],
+        "how_to_read": "When arguing relevance of an accused's behaviour (fleeing, hiding evidence, staying silent, making a prompt complaint), classify it carefully: is it 'conduct' proper (subsection (2)), or is it really a 'statement' masquerading as conduct that Explanation 1 excludes unless it explains a physical act -- the prompt-complaint illustrations (j) and (k) show how easily the two get confused in practice."
+      }
+    }
+  ]
+}
