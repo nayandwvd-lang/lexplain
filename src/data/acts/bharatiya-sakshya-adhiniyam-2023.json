@@ -27,7 +27,9 @@
     "secondary evidence": "Evidence of a document's contents other than the original document itself -- for example, a certified copy or oral account of its contents. It is generally admissible only where the Adhiniyam's rules permit it in place of the original (primary) document.",
     "estoppel": "A rule that prevents a person from denying or asserting something contrary to what they previously stated or represented, where another person relied on it. Section 25 clarifies that admissions are not themselves conclusive proof but may, independently, operate as an estoppel under the Adhiniyam's estoppel provisions.",
     "dying declaration": "A statement by a person as to the cause of their death, or as to circumstances of the transaction resulting in their death, made relevant under section 26(a) in any proceeding where the cause of that person's death is in question -- whether or not the person was, at the time, under an expectation of death.",
-    "books of account": "Regularly kept business records (including in electronic form) that are relevant under section 28 whenever they bear on a matter the Court must inquire into -- but, standing alone, they are never sufficient by themselves to fix a person with liability; independent corroborating evidence is always required."
+    "books of account": "Regularly kept business records (including in electronic form) that are relevant under section 28 whenever they bear on a matter the Court must inquire into -- but, standing alone, they are never sufficient by themselves to fix a person with liability; independent corroborating evidence is always required.",
+    "cognizance": "The formal act by which a Court takes judicial notice of an offence or a case in order to proceed with it. Section 34 makes the existence of a judgment, order, or decree that legally bars a Court from taking cognizance of a suit, or holding a trial, a relevant fact whenever the question is whether that Court ought to take cognizance or hold the trial.",
+    "legal character": "A person's legal status or standing -- such as being an heir, executor, spouse, or insolvent -- as opposed to their rights over a specific thing. Section 35 makes certain final judgments in probate, matrimonial, admiralty, or insolvency jurisdiction conclusive proof of when a legal character accrued, was declared, or ceased."
   },
   "sections": [
     {
@@ -702,6 +704,179 @@
           "The relevance is limited to the map's customary subject matter -- a government survey map is relevant as to boundaries or terrain it typically depicts, not for unrelated annotations that happen to appear on it."
         ],
         "how_to_read": "Useful for boundary and land-related disputes -- official survey maps or widely-sold published maps can be relied on directly for the facts they typically depict, without separately proving the mapmaker's personal knowledge."
+      }
+    },
+    {
+      "number": "31",
+      "title": "Relevancy of statement as to fact of public nature contained in certain Acts or notifications",
+      "raw_text": "31. When the Court has to form an opinion as to the existence of any fact of a public nature, any statement of it, made in a recital contained in any Central Act or State Act or in a Central Government or State Government notification appearing in the respective Official Gazette or in any printed paper or in electronic or digital form purporting to be such Gazette, is a relevant fact.",
+      "key_terms": [
+        "Official Gazette",
+        "recital",
+        "fact of a public nature"
+      ],
+      "breakdown": {
+        "plain_summary": "When the Court must decide whether a fact of a public nature exists, a recital of that fact in a Central or State Act, or in a government notification published in the Official Gazette (in print or in electronic/digital form), is itself relevant evidence of the fact.",
+        "essential_elements": [
+          "The Court must be forming an opinion on the existence of a fact of a public nature.",
+          "The statement must be a recital in a Central Act, State Act, or a Government notification.",
+          "The notification must appear in the Official Gazette, whether in print or in electronic/digital form purporting to be such Gazette."
+        ],
+        "exceptions_and_qualifications": [
+          "This section covers digital/electronic Gazette copies on the same footing as print ones, so long as they purport to be the Official Gazette."
+        ],
+        "how_to_read": "Use this section to establish facts of public nature (like the creation of an administrative division or the appointment of an authority) directly from the Gazette recital, without needing further proof of the underlying fact."
+      }
+    },
+    {
+      "number": "32",
+      "title": "Relevancy of statements as to any law contained in law books including electronic or digital form",
+      "raw_text": "32. When the Court has to form an opinion as to a law of any country, any statement of such law contained in a book purporting to be printed or published including in electronic or digital form under the authority of the Government of such country and to contain any such law, and any report of a ruling of the Courts of such country contained in a book including in electronic or digital form purporting to be a report of such rulings, is relevant.",
+      "key_terms": [
+        "foreign law",
+        "law reports"
+      ],
+      "breakdown": {
+        "plain_summary": "When the Court needs to determine the content of a foreign country's law, it may rely on a book (print or electronic/digital) purporting to be published under that country's government authority and to contain that law, and on law reports (print or electronic) purporting to report that country's court rulings.",
+        "essential_elements": [
+          "The Court must be forming an opinion as to the law of some country.",
+          "The book must purport to be printed or published, including electronically, under that country's government authority and to contain the law in question.",
+          "Reports of that country's court rulings, in a book purporting to report such rulings (print or electronic), are likewise relevant."
+        ],
+        "exceptions_and_qualifications": [
+          "The section relies on the book's or report's purported authority/authenticity on its face -- it does not require independently proving the foreign legislature enacted the law as printed."
+        ],
+        "how_to_read": "This is the standard route for proving foreign law in Indian courts -- authoritative published compilations and law reports substitute for calling a foreign-law expert every time."
+      }
+    },
+    {
+      "number": "33",
+      "title": "What evidence to be given when statement forms part of a conversation, document, electronic record, book or series of letters or papers",
+      "raw_text": "33. When any statement of which evidence is given forms part of a longer statement, or of a conversation or part of an isolated document, or is contained in a document which forms part of a book, or is contained in part of electronic record or of a connected series of letters or papers, evidence shall be given of so much and no more of the statement, conversation, document, electronic record, book or series of letters or papers as the Court considers necessary in that particular case to the full understanding of the nature and effect of the statement, and of the circumstances under which it was made.",
+      "key_terms": [
+        "connected series",
+        "electronic record"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the anti-cherry-picking rule: when only part of a larger statement, conversation, document, electronic record, book, or series of connected letters/papers is put in evidence, the Court can require as much more of it to be proved as is necessary to fully understand the nature, effect, and context of the part relied upon.",
+        "essential_elements": [
+          "The statement in evidence must form part of a longer statement, conversation, document, book, electronic record, or connected series of letters/papers.",
+          "The Court decides how much of the larger whole is necessary for full understanding of the nature and effect of the statement and the circumstances of its making."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a Court-controlled, case-by-case standard -- there is no fixed proportion; the test is full understanding of the excerpted statement's nature, effect, and circumstances."
+        ],
+        "how_to_read": "Invoke this section whenever an opposing party introduces an out-of-context excerpt -- it entitles you to insist on the surrounding context being placed in evidence too."
+      }
+    },
+    {
+      "number": "34",
+      "title": "Previous judgments relevant to bar a second suit or trial",
+      "raw_text": "34. The existence of any judgment, order or decree which by law prevents any Court from taking cognizance of a suit or holding a trial, is a relevant fact when the question is whether such Court ought to take cognizance of such suit or to hold such trial.",
+      "key_terms": [
+        "cognizance",
+        "res judicata"
+      ],
+      "breakdown": {
+        "plain_summary": "If a prior judgment, order, or decree legally bars a Court from taking up a suit or holding a trial (for instance, on grounds like res judicata or double jeopardy), the existence of that prior judgment is itself a relevant fact whenever the question is whether the Court should take cognizance of the later suit or hold the later trial.",
+        "essential_elements": [
+          "There must exist a judgment, order, or decree that, by law, bars a Court from taking cognizance of a suit or holding a trial.",
+          "Its existence is relevant when the question before the Court is whether it ought to take cognizance of that suit or hold that trial."
+        ],
+        "exceptions_and_qualifications": [
+          "This section only makes the prior judgment's existence relevant to the cognizance/bar question -- the substantive law of when a prior judgment actually operates as a bar (res judicata, autrefois acquit/convict, etc.) lies outside the Adhiniyam itself."
+        ],
+        "how_to_read": "Use this section as the evidentiary hook for raising a bar to a second suit or trial -- it lets the prior judgment's existence in be proved, while the actual bar doctrine comes from the relevant procedural code."
+      }
+    },
+    {
+      "number": "35",
+      "title": "Relevancy of certain judgments in probate, etc., jurisdiction",
+      "raw_text": "35. (1) A final judgment, order or decree of a competent Court or Tribunal, in the exercise of probate, matrimonial, admiralty or insolvency jurisdiction, which confers upon or takes away from any person any legal character, or which declares any person to be entitled to any such character, or to be entitled to any specific thing, not as against any specified person but absolutely, is relevant when the existence of any such legal character, or the title of any such person to any such thing, is relevant.\n(2) Such judgment, order or decree is conclusive proof that—\n(i) any legal character, which it confers accrued at the time when such judgment, order or decree came into operation;\n(ii) any legal character, to which it declares any such person to be entitled, accrued to that person at the time when such judgment, order or decree declares it to have accrued to that person;\n(iii) any legal character which it takes away from any such person ceased at the time from which such judgment, order or decree declared that it had ceased or should cease; and\n(iv) anything to which it declares any person to be so entitled was the property of that person at the time from which such judgment, order or decree declares that it had been or should be his property.",
+      "key_terms": [
+        "probate",
+        "matrimonial jurisdiction",
+        "admiralty",
+        "insolvency jurisdiction",
+        "legal character"
+      ],
+      "breakdown": {
+        "plain_summary": "Final judgments from probate, matrimonial, admiralty, or insolvency proceedings that fix a person's legal character (e.g. declaring someone an heir, a divorced spouse, or an insolvent), or their absolute entitlement to a specific thing, are relevant -- and, under subsection (2), conclusive proof (not merely rebuttable) of exactly when that legal character or entitlement accrued, was declared, or ceased, as fixed by the judgment itself.",
+        "essential_elements": [
+          "The judgment, order, or decree must be final and from a competent Court or Tribunal.",
+          "It must be in probate, matrimonial, admiralty, or insolvency jurisdiction.",
+          "It must confer, take away, or declare a legal character, or declare an absolute (not merely as-against-a-specified-person) entitlement to a specific thing.",
+          "Subsection (2): such a judgment is conclusive proof of the precise timing of the conferral, declaration, cessation, or ownership it states -- this is a stronger evidentiary status than ordinary relevance."
+        ],
+        "exceptions_and_qualifications": [
+          "This is one of the rare instances in the Adhiniyam where a judgment is elevated to 'conclusive proof' rather than merely relevant, rebuttable evidence -- it applies strictly to the four listed jurisdictions and to judgments operating in rem (absolutely), not inter partes."
+        ],
+        "how_to_read": "Distinguish 'absolutely' (in rem, binding the world) from judgments that only bind named parties -- only the former, from these four jurisdictions, gets the conclusive-proof status under subsection (2); everything else falls to section 36 or 37 instead."
+      }
+    },
+    {
+      "number": "36",
+      "title": "Relevancy and effect of judgments, orders or decrees, other than those mentioned in section 35",
+      "raw_text": "36. Judgments, orders or decrees other than those mentioned in section 35 are relevant if they relate to matters of a public nature relevant to the enquiry; but such judgments, orders or decrees are not conclusive proof of that which they state.\nIllustration.\nA sues B for trespass on his land. B alleges the existence of a public right of way over the land, which A denies. The existence of a decree in favour of the defendant, in a suit by A against C for a trespass on the same land, in which C alleged the existence of the same right of way, is relevant, but it is not conclusive proof that the right of way exists.",
+      "key_terms": [
+        "public nature",
+        "not conclusive"
+      ],
+      "breakdown": {
+        "plain_summary": "Judgments outside section 35's four special jurisdictions are still relevant if they concern matters of a public nature bearing on the inquiry -- but unlike section 35 judgments, they are never conclusive; they remain ordinary, rebuttable evidence of what they state.",
+        "essential_elements": [
+          "The judgment, order, or decree must not be one of the section 35 category.",
+          "It must relate to a matter of a public nature relevant to the current enquiry.",
+          "Such a judgment is relevant, but is not conclusive proof of the matters it states."
+        ],
+        "exceptions_and_qualifications": [
+          "The illustration shows the practical effect: a prior decree recognising a public right of way in a different suit is admissible to support the same claim in a new suit, but the new Court remains free to reach its own conclusion on the evidence."
+        ],
+        "how_to_read": "Contrast directly with section 35: same broad category of 'judgment as evidence', but here the evidentiary weight is only relevance, never conclusiveness -- a crucial distinction to flag when arguing how much a prior judgment should count."
+      }
+    },
+    {
+      "number": "37",
+      "title": "Judgments, etc., other than those mentioned in sections 34, 35 and 36 when relevant",
+      "raw_text": "37. Judgments or orders or decrees, other than those mentioned in sections 34, 35 and 36, are irrelevant, unless the existence of such judgment, order or decree is a fact in issue, or is relevant under some other provision of this Adhiniyam.\nIllustrations.\n(a) A and B separately sue C for a libel which reflects upon each of them. C in each case says that the matter alleged to be libellous is true, and the circumstances are such that it is probably true in each case, or in neither. A obtains a decree against C for damages on the ground that C failed to make out his justification. The fact is irrelevant as between B and C.\n(b) A prosecutes B for stealing a cow from him. B is convicted. A afterwards sues C for the cow, which B had sold to him before his conviction. As between A and C, the judgment against B is irrelevant.\n(c) A has obtained a decree for the possession of land against B. C, B's son, murders A in consequence. The existence of the judgment is relevant, as showing motive for a crime.\n(d) A is charged with theft and with having been previously convicted of theft. The previous conviction is relevant as a fact in issue.\n(e) A is tried for the murder of B. The fact that B prosecuted A for libel and that A was convicted and sentenced is relevant under section 6 as showing the motive for the fact in issue.",
+      "key_terms": [
+        "fact in issue",
+        "motive"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the residual, default-exclusion rule: any judgment, order, or decree that does not fall under sections 34, 35, or 36 is irrelevant, unless its existence is itself a fact in issue or is made relevant by some other provision of the Adhiniyam (such as section 6's motive/preparation/conduct rule).",
+        "essential_elements": [
+          "The judgment, order, or decree must not fall within sections 34, 35, or 36.",
+          "Default position: such a judgment is irrelevant.",
+          "Exception: relevant if its existence is itself a fact in issue.",
+          "Exception: relevant if made relevant under any other provision of the Adhiniyam."
+        ],
+        "exceptions_and_qualifications": [
+          "Illustrations (c) and (e) show the most common escape route in practice: a judgment irrelevant on its own terms can still come in through section 6, if it shows motive for the fact in issue.",
+          "Illustrations (a) and (b) show the default bar operating -- a judgment against one party does not bind or even inform a case against a different party absent one of the listed exceptions."
+        ],
+        "how_to_read": "Treat this section as the closing default rule for the whole judgments sub-topic: if a judgment doesn't fit sections 34-36, it is presumptively out, and the only way back in is through 'fact in issue' status or another specific relevancy provision like section 6."
+      }
+    },
+    {
+      "number": "38",
+      "title": "Fraud or collusion in obtaining judgment, or incompetency of Court, may be proved",
+      "raw_text": "38. Any party to a suit or other proceeding may show that any judgment, order or decree which is relevant under section 34, 35 or 36, and which has been proved by the adverse party, was delivered by a Court not competent to deliver it, or was obtained by fraud or collusion.",
+      "key_terms": [
+        "collusion",
+        "competent Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Even a judgment that is relevant (and in section 35's case, otherwise conclusive) under sections 34, 35, or 36 can be attacked: any party may show that the Court that delivered it lacked competence to do so, or that it was obtained through fraud or collusion between the parties to that earlier proceeding.",
+        "essential_elements": [
+          "The judgment, order, or decree must be one relevant under section 34, 35, or 36.",
+          "It must have been proved by the adverse party.",
+          "The party against whom it is used may show either that the delivering Court was not competent, or that the judgment was obtained by fraud or collusion."
+        ],
+        "exceptions_and_qualifications": [
+          "This is the safety valve against sections 34-36's otherwise strong evidentiary effect (including section 35's conclusive proof) -- competence and fraud/collusion attacks are always open, no matter how conclusive the judgment would otherwise be."
+        ],
+        "how_to_read": "Always keep this section in reserve when facing an adverse judgment relied on under sections 34-36 -- even section 35's 'conclusive proof' status yields to a successful showing of incompetent Court or fraud/collusion in obtaining it."
       }
     }
   ]
