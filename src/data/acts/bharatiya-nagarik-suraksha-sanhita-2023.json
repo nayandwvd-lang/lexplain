@@ -290,7 +290,10 @@
     "civil jail": "A place of confinement for persons committed to custody in civil (non-criminal) process, such as under the Code of Civil Procedure, 1908. Section 457 governs the interplay between civil and criminal confinement when a person already held in a civil jail also becomes liable to imprisonment under this Sanhita.",
     "criminal jail": "A place of confinement for persons imprisoned or committed to custody under this Sanhita (i.e., in criminal process), as distinct from a civil jail. Under section 457, a person held in a civil jail may be removed to a criminal jail, but must ordinarily be sent back to the civil jail upon release unless a statutory release trigger under Code of Civil Procedure, 1908 section 58 applies.",
     "state government": "The executive government of a State, which under section 457(1) holds the default power to direct the place of confinement for any person liable to be imprisoned or committed to custody under this Sanhita, except where some other law already provides for it.",
-    "jailor": "The officer with direct custodial charge of a jail. Under section 460, a warrant for a prisoner's confinement in a jail must be lodged with the jailor, completing the execution chain that begins with the Court forwarding the warrant (section 458) and directing it to the officer in charge of the confining place (section 459)."
+    "jailor": "The officer with direct custodial charge of a jail. Under section 460, a warrant for a prisoner's confinement in a jail must be lodged with the jailor, completing the execution chain that begins with the Court forwarding the warrant (section 458) and directing it to the officer in charge of the confining place (section 459).",
+    "arrears of land revenue": "Unpaid dues owed to the State on account of land revenue, recoverable through a well-established summary coercive-recovery machinery under revenue law (attachment/sale of the defaulter's property by the Collector, without needing a fresh civil suit). Section 461(1)(b) lets a Court issue a warrant to the Collector authorising him to realise an unpaid fine using this same land-revenue-recovery machinery, against the offender's movable or immovable property -- but section 461(3) bars using it to arrest or imprison the offender.",
+    "rigorous imprisonment": "A form of imprisonment involving hard labour, as distinct from simple imprisonment (confinement without compulsory labour). Section 466(3) deems rigorous imprisonment 'severer in kind' than simple imprisonment for the purpose of determining when a new sentence on an escaped convict takes effect immediately versus only after the unexpired portion of the earlier sentence.",
+    "simple imprisonment": "A form of imprisonment without compulsory hard labour, as distinct from rigorous imprisonment. Under section 466(3), it is deemed the less severe of the two kinds when comparing sentences for purposes of the escaped-convict rules."
   },
   "sections": [
     {
@@ -10305,6 +10308,199 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Part C ('Levy of fine') begins immediately after this section, shifting Chapter XXXIV's focus from imprisonment mechanics to the machinery for collecting monetary fines imposed as (or alongside) sentences."
+      }
+    },
+    {
+      "number": "461",
+      "title": "Warrant for levy of fine",
+      "raw_text": "461. Warrant for levy of fine.—(1) When an offender has been sentenced to pay a fine, but no such\npayment has been made, the Court passing the sentence may take action for the recovery of the fine in either\nor both of the following ways, that is to say, it may—\n        (a) issue a warrant for the levy of the amount by attachment and sale of any movable property\n    belonging to the offender;\n         (b) issue a warrant to the Collector of the district, authorising him to realise the amount as arrears\n    of land revenue from the movable or immovable property, or both, of the defaulter:\n    Provided that, if the sentence directs that in default of payment of the fine, the offender shall be imprisoned,\nand if such offender has undergone the whole of such imprisonment in default, no Court shall issue such warrant\nunless, for special reasons to be recorded in writing, it considers it necessary so to do, or unless it has made an\norder for the payment of expenses or compensation out of the fine under section 395.\n\n    (2) The State Government may make rules regulating the manner in which warrants under clause (a) of\nsub-section (1) are to be executed, and for the summary determination of any claims made by any person\nother than the offender in respect of any property attached in execution of such warrant.\n    (3) Where the Court issues a warrant to the Collector under clause (b) of sub-section (1), the Collector\nshall realise the amount in accordance with the law relating to recovery of arrears of land revenue, as if\nsuch warrant were a certificate issued under such law:\n    Provided that no such warrant shall be executed by the arrest or detention in prison of the offender.",
+      "key_terms": [
+        "collector",
+        "attachment",
+        "arrears of land revenue",
+        "state government"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Part C (Levy of fine) of Chapter XXXIV, giving a Court two alternative (or combinable) coercive routes to actually collect an unpaid fine, beyond simply letting the offender serve out a default-imprisonment term. First, the Court may issue a warrant for attachment and sale of the offender's movable property. Second, it may issue a warrant to the district Collector authorising recovery as arrears of land revenue from the offender's movable or immovable property -- leveraging the revenue department's own established recovery machinery. A protective proviso applies where default imprisonment was already fully served: the Court cannot then issue a fine-recovery warrant unless it records special reasons, or has already ordered expenses/compensation payable out of the fine under section 395 -- preventing double jeopardy-like stacking of full default imprisonment plus property seizure without justification. The State Government may make rules on how attachment warrants are executed and how third-party property claims are summarily decided. And critically, when the Collector-route warrant is used, recovery follows ordinary land-revenue-recovery law, but can never involve arresting or imprisoning the offender -- that coercive tool is reserved exclusively for the attachment/sale route or the original default-sentence itself.",
+        "essential_elements": [
+          "Applies when a fine sentence remains unpaid.",
+          "The Court may issue a warrant for attachment and sale of the offender's movable property.",
+          "Alternatively (or additionally), the Court may issue a warrant to the district Collector to realise the amount as arrears of land revenue from movable or immovable property.",
+          "If default imprisonment for non-payment has already been fully served, a fresh recovery warrant needs either recorded special reasons or a pre-existing section 395 expenses/compensation order.",
+          "The State Government may make rules on executing attachment warrants and summarily deciding third-party property claims.",
+          "A Collector-route warrant is executed per land-revenue-recovery law but can never involve arrest or imprisonment of the offender."
+        ],
+        "exceptions_and_qualifications": [
+          "The special-reasons/section-395-order requirement applies only where default imprisonment for the fine has already been fully undergone.",
+          "The Collector-route recovery warrant absolutely excludes arrest or detention of the offender, regardless of what ordinary land-revenue-recovery law might otherwise permit against other defaulters."
+        ],
+        "how_to_read": "The two recovery routes (attachment/sale vs. Collector/land-revenue) are not mutually exclusive -- 'either or both' in sub-section (1) -- so a Court can pursue both simultaneously against different classes of the offender's property for maximum recovery efficiency."
+      }
+    },
+    {
+      "number": "462",
+      "title": "Effect of such warrant",
+      "raw_text": "462. Effect of such warrant.—A warrant issued under clause (a) of sub-section (1) of section 461 by\nany Court may be executed within the local jurisdiction of such Court, and it shall authorise the attachment\nand sale of any such property outside such jurisdiction, when it is endorsed by the District Magistrate within\nwhose local jurisdiction such property is found.",
+      "key_terms": [
+        "district magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This solves the territorial-reach problem for an attachment-and-sale warrant issued under section 461(1)(a): such a warrant is directly executable only within the issuing Court's own local jurisdiction. But the offender's property may sit elsewhere. The fix is an endorsement mechanism -- if the District Magistrate of the district where the property is actually located endorses the warrant, it becomes executable there too, extending the warrant's reach without requiring a fresh warrant from a different Court.",
+        "essential_elements": [
+          "A section 461(1)(a) attachment-and-sale warrant is directly executable within the issuing Court's own local jurisdiction.",
+          "For property located outside that jurisdiction, the warrant becomes executable there once endorsed by the District Magistrate of the district where the property is found."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This endorsement mechanism mirrors similar cross-jurisdictional endorsement patterns used elsewhere in this Sanhita (e.g., for warrants of arrest) -- always check whether a warrant has the necessary District Magistrate endorsement before treating it as enforceable against out-of-jurisdiction property."
+      }
+    },
+    {
+      "number": "463",
+      "title": "Warrant for levy of fine issued by a Court in any territory to which this Sanhita does not extend",
+      "raw_text": "463. Warrant for levy of fine issued by a Court in any territory to which this Sanhita does not\nextend.—Notwithstanding anything in this Sanhita or in any other law for the time being in force, when an\noffender has been sentenced to pay a fine by a Criminal Court in any territory to which this Sanhita does\nnot extend and the Court passing the sentence issues a warrant to the Collector of a district in the territories\nto which this Sanhita extends, authorising him to realise the amount as if it were an arrear of land revenue,\nsuch warrant shall be deemed to be a warrant issued under clause (b) of sub-section (1) of section 461 by a\nCourt in the territories to which this Sanhita extends, and the provisions of sub-section (3) of the said section\nas to the execution of such warrant shall apply accordingly.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This is a cross-territory recognition provision, overriding anything else in this Sanhita or any other law (a non-obstante opening). Where a Criminal Court sits in territory where this Sanhita doesn't apply, but sentences an offender to a fine, and that Court sends a Collector-route recovery warrant into territory where this Sanhita does apply, the receiving territory must treat that warrant exactly as if it were a domestic section 461(1)(b) warrant -- with section 461(3)'s execution rules (including the no-arrest/no-imprisonment safeguard) applying in full.",
+        "essential_elements": [
+          "Applies to a fine-recovery warrant issued by a Criminal Court in territory where this Sanhita does not extend.",
+          "Where such a warrant is sent to a Collector of a district where this Sanhita does extend, it is deemed a section 461(1)(b) warrant issued by a domestic Court.",
+          "Section 461(3)'s execution provisions (including the no-arrest/no-imprisonment bar) apply to it accordingly."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a narrow but practically important cross-border enforcement bridge -- without it, a fine sentence from a non-extending territory's Court would have no mechanism for enforcement against property located within Sanhita territory."
+      }
+    },
+    {
+      "number": "464",
+      "title": "Suspension of execution of sentence of imprisonment",
+      "raw_text": "464. Suspension of execution of sentence of imprisonment.—(1) When an offender has been\nsentenced to fine only and to imprisonment in default of payment of the fine, and the fine is not paid\nforthwith, the Court may—\n        (a) order that the fine shall be payable either in full on or before a date not more than thirty days\n    from the date of the order, or in two or three installments, of which the first shall be payable on or\n    before a date not more than thirty days from the date of the order and the other or others at an interval\n    or at intervals, as the case may be, of not more than thirty days;\n         (b) suspend the execution of the sentence of imprisonment and release the offender, on the\n    execution by the offender of a bond or bail bond, as the Court thinks fit, conditioned for his appearance\n    before the Court on the date or dates on or before which payment of the fine or the installments thereof,\n    as the case may be, is to be made; and if the amount of the fine or of any installment, as the case may\n    be, is not realised on or before the latest date on which it is payable under the order, the Court may\n    direct the sentence of imprisonment to be carried into execution at once.\n    (2) The provisions of sub-section (1) shall be applicable also in any case in which an order for the\npayment of money has been made on non-recovery of which imprisonment may be awarded and the money\nis not paid forthwith; and, if the person against whom the order has been made, on being required to enter\ninto a bond such as is referred to in that sub-section, fails to do so, the Court may at once pass sentence of\nimprisonment.",
+      "key_terms": [
+        "bond",
+        "bail bond"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives an offender sentenced to a fine (with default imprisonment) breathing room to pay in installments rather than going straight to jail: the Court may set a payment schedule -- full payment within thirty days, or two-to-three installments each spaced up to thirty days apart -- and suspend the default-imprisonment sentence, releasing the offender on a bond/bail bond conditioned on appearing to make each payment. Miss a payment deadline, and the Court may immediately execute the suspended imprisonment sentence. The same installment-and-suspension mechanism extends to any other Sanhita order requiring payment of money on pain of imprisonment for non-payment (e.g., maintenance-type orders) -- and if the person refuses to even execute the required bond, the Court may skip straight to passing the imprisonment sentence.",
+        "essential_elements": [
+          "Applies to an offender sentenced to fine only, with imprisonment in default of payment, where the fine isn't paid forthwith.",
+          "The Court may set a payment schedule (full payment within 30 days, or 2-3 installments spaced up to 30 days apart) and suspend default imprisonment, releasing the offender on a bond/bail bond.",
+          "Missing a payment deadline lets the Court immediately execute the suspended imprisonment sentence.",
+          "The same mechanism applies to any other money-payment order under this Sanhita backed by a default-imprisonment threat.",
+          "Refusal to execute the required bond lets the Court pass the imprisonment sentence at once."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a debtor-friendly procedural safety valve -- counsel for a fine-sentenced client unable to pay immediately should proactively request an installment order under this section rather than letting default imprisonment simply take effect."
+      }
+    },
+    {
+      "number": "465",
+      "title": "Who may issue warrant",
+      "raw_text": "465. Who may issue warrant.—Every warrant for the execution of a sentence may be issued either by\nthe Judge or Magistrate who passed the sentence, or by his successor-in-office.",
+      "key_terms": [
+        "warrant"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Part D (General provisions regarding execution) of Chapter XXXIV with a simple continuity rule: a sentence-execution warrant may be issued not only by the Judge or Magistrate who originally passed the sentence, but equally by whoever has succeeded him in that office -- ensuring a transfer, retirement, or reassignment of the original judicial officer doesn't stall execution of a valid sentence.",
+        "essential_elements": [
+          "A sentence-execution warrant may be issued by the Judge/Magistrate who passed the sentence.",
+          "It may equally be issued by that officer's successor-in-office."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This continuity-of-office principle recurs throughout this Sanhita wherever a procedural act is tied to a specific judicial officer rather than the Court as an institution -- it prevents administrative churn from becoming a loophole that stalls enforcement."
+      }
+    },
+    {
+      "number": "466",
+      "title": "Sentence on escaped convict when to take effect",
+      "raw_text": "466. Sentence on escaped convict when to take effect.—(1) When a sentence of death, imprisonment\nfor life or fine is passed under this Sanhita on an escaped convict, such sentence shall, subject to the\nprovisions hereinbefore contained, take effect immediately.\n   (2) When a sentence of imprisonment for a term is passed under this Sanhita on an escaped\nconvict, —\n\n        (a) if such sentence is severer in kind than the sentence which such convict was undergoing when\n    he escaped, the new sentence shall take effect immediately;\n        (b) if such sentence is not severer in kind than the sentence which such convict was undergoing\n    when he escaped, the new sentence shall take effect after he has suffered imprisonment for a further\n    period equal to that which, at the time of his escape, remained unexpired of his former sentence.\n    (3) For the purposes of sub-section (2), a sentence of rigorous imprisonment shall be deemed to be\nseverer in kind than a sentence of simple imprisonment.",
+      "key_terms": [
+        "escaped convict",
+        "rigorous imprisonment",
+        "simple imprisonment"
+      ],
+      "breakdown": {
+        "plain_summary": "This addresses the timing question for a fresh sentence imposed on someone who escaped from custody while serving an earlier sentence. If the new sentence is death, life imprisonment, or a fine, it takes effect immediately -- no stacking question arises. But for a new term-of-years imprisonment sentence, timing depends on a severity comparison with the sentence he was serving when he escaped: if the new sentence is severer in kind (e.g., rigorous vs. the simple imprisonment he was escaping from), it takes effect immediately, running alongside/replacing the old one in effect. If it's not severer, the new sentence only starts after he has first served out whatever period remained unexpired of his original sentence at the moment of escape -- ensuring the escape doesn't let him simply substitute a fresh, no-worse sentence for the time he still owed.",
+        "essential_elements": [
+          "A death, life-imprisonment, or fine sentence passed on an escaped convict takes effect immediately.",
+          "A term-of-years imprisonment sentence that is severer in kind than the sentence being served at escape takes effect immediately.",
+          "A term-of-years sentence that is not severer in kind takes effect only after the convict serves the remaining unexpired period of his former sentence.",
+          "Rigorous imprisonment is deemed severer in kind than simple imprisonment for this comparison."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section works together with section 467 (sentence on offender already sentenced for another offence) and section 469 (the saving clause) to form a complete scheme preventing an escape, or a fresh conviction during an existing sentence, from ever operating to reduce the total time a person actually owes to the State."
+      }
+    },
+    {
+      "number": "467",
+      "title": "Sentence on offender already sentenced for another offence",
+      "raw_text": "467. Sentence on offender already sentenced for another offence.—(1) When a person already\nundergoing a sentence of imprisonment is sentenced on a subsequent conviction to imprisonment or\nimprisonment for life, such imprisonment or imprisonment for life shall commence at the expiration of the\nimprisonment to which he has been previously sentenced, unless the Court directs that the subsequent\nsentence shall run concurrently with such previous sentence:\n    Provided that where a person who has been sentenced to imprisonment by an order under section 141\nin default of furnishing security is, whilst undergoing such sentence, sentenced to imprisonment for an\noffence committed prior to the making of such order, the latter sentence shall commence immediately.\n   (2) When a person already undergoing a sentence of imprisonment for life is sentenced on a subsequent\nconviction to imprisonment for a term or imprisonment for life, the subsequent sentence shall run\nconcurrently with such previous sentence.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This sets the default rule for stacking multiple imprisonment sentences on the same person. Ordinarily (sub-section (1)), if someone already serving an imprisonment sentence is sentenced again (imprisonment or life imprisonment) on a later, separate conviction, the new sentence begins only after the earlier one ends -- consecutive, not concurrent -- unless the Court expressly orders the sentences to run concurrently. A carve-out applies for a person imprisoned under section 141 merely for failing to furnish security (a preventive, non-punitive detention): if he's then sentenced for an actual offence committed before that section 141 order, the offence-based sentence starts immediately rather than waiting out the security-default detention. Sub-section (2) flips the default for the specific case where the person is already serving life imprisonment: any subsequent sentence (term or further life imprisonment) must run concurrently with it -- because a term sentence can't meaningfully be served 'after' a life sentence.",
+        "essential_elements": [
+          "Default: a subsequent imprisonment/life-imprisonment sentence on someone already serving imprisonment starts only after the earlier sentence ends (consecutive), unless the Court directs concurrent running.",
+          "Exception: if the earlier sentence was mere section 141 default-of-security detention, a later sentence for an offence committed before that order starts immediately.",
+          "Special rule: if the person is already serving life imprisonment, any subsequent sentence must run concurrently with it."
+        ],
+        "exceptions_and_qualifications": [
+          "The consecutive-by-default rule can be displaced by an express Court direction for concurrent running.",
+          "The section 141 default-detention carve-out and the already-serving-life-imprisonment rule are both exceptions that override the general consecutive default."
+        ],
+        "how_to_read": "Practitioners seeking concurrent sentencing for a client facing multiple convictions must make an affirmative request and secure an express Court direction -- concurrency is not the default outcome except in the life-imprisonment scenario of sub-section (2)."
+      }
+    },
+    {
+      "number": "468",
+      "title": "Period of detention undergone by accused to be set off against sentence of imprisonment",
+      "raw_text": "468. Period of detention undergone by accused to be set off against sentence of imprisonment.—\nWhere an accused person has, on conviction, been sentenced to imprisonment for a term, not being\nimprisonment in default of payment of fine, the period of detention, if any, undergone by him during the\ninvestigation, inquiry or trial of the same case and before the date of such conviction, shall be set off against\nthe term of imprisonment imposed on him on such conviction, and the liability of such person to undergo\nimprisonment on such conviction shall be restricted to the remainder, if any, of the term of imprisonment\nimposed on him:\n    Provided that in cases referred to in section 475, such period of detention shall be set off against the\nperiod of fourteen years referred to in that section.",
+      "key_terms": [
+        "set off",
+        "investigation",
+        "inquiry"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the mandatory pre-trial-detention set-off rule: where a convicted person is sentenced to a term of imprisonment (excluding default-of-fine imprisonment), any time he already spent in detention during the investigation, inquiry, or trial of that same case -- before conviction -- must be credited against (set off) the sentence term, so he only has to actually serve the remainder, if any. For the specific section 475 scenario (life imprisonment imposed for a death-eligible offense, or a death sentence commuted to life imprisonment), the same set-off applies against the fourteen-year minimum-actual-service period fixed by that section, rather than against the notional 'life' term itself.",
+        "essential_elements": [
+          "Applies to a term-of-imprisonment sentence on conviction, excluding default-of-fine imprisonment.",
+          "Pre-conviction detention during investigation, inquiry, or trial of the same case is set off against the sentence term.",
+          "The person's remaining imprisonment liability is restricted to whatever term (if any) remains after the set-off.",
+          "For section 475 cases, the set-off applies against that section's fourteen-year minimum-service period instead."
+        ],
+        "exceptions_and_qualifications": [
+          "Default-of-fine imprisonment is expressly excluded from this set-off entitlement."
+        ],
+        "how_to_read": "This set-off is not discretionary -- 'shall be set off' -- so counsel should always compute and flag the client's pre-conviction custody period at sentencing to ensure the Court's sentence correctly reflects time already served."
+      }
+    },
+    {
+      "number": "469",
+      "title": "Saving",
+      "raw_text": "469. Saving.—(1) Nothing in section 466 or section 467 shall be held to excuse any person from any\npart of the punishment to which he is liable upon his former or subsequent conviction.\n    (2) When an award of imprisonment in default of payment of a fine is annexed to a substantive sentence\nof imprisonment and the person undergoing the sentence is after its execution to undergo a further\nsubstantive sentence or further substantive sentences of imprisonment, effect shall not be given to the award\nof imprisonment in default of payment of the fine until the person has undergone the further sentence or\nsentences.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This is a protective clarification ensuring sections 466 and 467's sequencing/concurrency rules are never misread as excusing any part of a person's total punishment liability -- they govern only timing and stacking order, not whether punishment is owed at all. Sub-section (2) then sequences a specific interaction: where default-of-fine imprisonment is attached to a substantive imprisonment sentence, and the person still has further substantive imprisonment sentences to serve after that one, the default-of-fine imprisonment is held back until all the further substantive sentences are completed -- so fine-default time doesn't get inserted ahead of other substantive sentences still owed.",
+        "essential_elements": [
+          "Sections 466 and 467 never excuse any part of a person's punishment liability -- they only govern sequencing/timing.",
+          "Where default-of-fine imprisonment is annexed to a substantive sentence, and further substantive imprisonment sentences remain to be served after it, the default-of-fine imprisonment is deferred until those further substantive sentences are completed."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a savings/anti-erosion clause -- always read it alongside sections 466 and 467 to confirm that a favorable sequencing outcome under those sections isn't being mistaken for an actual reduction in total punishment owed."
+      }
+    },
+    {
+      "number": "470",
+      "title": "Return of warrant on execution of sentence",
+      "raw_text": "470. Return of warrant on execution of sentence.—When a sentence has been fully executed, the\nofficer executing it shall return the warrant to the Court from which it is issued, with an endorsement under\nhis hand certifying the manner in which the sentence has been executed.",
+      "key_terms": [
+        "warrant"
+      ],
+      "breakdown": {
+        "plain_summary": "A closing accountability step in the execution chain: once a sentence has been fully carried out, the executing officer must return the warrant to the issuing Court, with a signed endorsement certifying exactly how the sentence was executed -- creating a formal record that closes the loop and confirms compliance.",
+        "essential_elements": [
+          "Once a sentence has been fully executed, the executing officer must return the warrant to the issuing Court.",
+          "The return must include a signed endorsement certifying the manner in which the sentence was executed."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This return-and-certify step is the final link in the chain that began with sections 458-459 (forwarding and directing the warrant) and 465 (who may issue it) -- together they form a complete, auditable execution lifecycle from sentencing to confirmed completion."
       }
     }
   ]
