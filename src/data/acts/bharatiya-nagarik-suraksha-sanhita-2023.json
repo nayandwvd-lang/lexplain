@@ -174,7 +174,8 @@
     "sufficient ground for proceeding": "The threshold finding a Magistrate must reach — based on the complainant's sworn statement, witness statements, and any inquiry or investigation — before issuing process against an accused; absence of this ground requires dismissal of the complaint.",
     "petty offence": "An offence punishable only with a fine not exceeding five thousand rupees, excluding Motor Vehicles Act offences and other offences whose law already allows conviction in absentia on a guilty plea — eligible for the simplified special-summons procedure.",
     "process-fees": "Statutory fees payable for the issuance of court process (such as summons or warrants); non-payment within a reasonable time can lead to dismissal of the complaint.",
-    "compounding (of offence)": "The legally permitted settlement of certain offences between the complainant/victim and the accused, which brings the criminal proceeding to an end without a full trial, available only for offences the Sanhita specifically designates as compoundable."
+    "compounding (of offence)": "The legally permitted settlement of certain offences between the complainant/victim and the accused, which brings the criminal proceeding to an end without a full trial, available only for offences the Sanhita specifically designates as compoundable.",
+    "complaint case": "A criminal proceeding instituted otherwise than on a police report — that is, begun directly on a private or authorised complaint, or on the Magistrate's own information/knowledge — as distinguished from a police-report (chargesheet) case."
   },
   "sections": [
     {
@@ -5430,6 +5431,80 @@
           "The victim's entitlement to copies is conditional on being represented by an advocate — an unrepresented victim does not automatically receive this same disclosure under this section."
         ],
         "how_to_read": "Treat this as the disclosure backbone of a police-report case: the fourteen-day deadline and the list of five document categories form the baseline obligation, with the two provisos supplying controlled exceptions (partial withholding for witness protection, electronic/inspection-only for bulk documents) rather than open-ended discretion to withhold."
+      }
+    },
+    {
+      "number": "231",
+      "title": "Supply of copies of statements and documents to accused in other cases triable by Court of Session",
+      "raw_text": "231. Supply of copies of statements and documents to accused in other cases triable by Court of\n    Session.—Where, in a case instituted otherwise than on a police report, it appears to the Magistrate issuing\n    process under section 227 that the offence is triable exclusively by the Court of Session, the Magistrate\n    shall forthwith furnish to the accused, free of cost, a copy of each of the following:—\n        (i) the statements recorded under section 223 or section 225, of all persons examined by the\n    Magistrate;\n        (ii) the statements and confessions, if any, recorded under section 180 or section 183;\n        (iii) any documents produced before the Magistrate on which the prosecution proposes to rely:\n    Provided that if the Magistrate is satisfied that any such document is voluminous, he shall, instead of\n    furnishing the accused with a copy thereof, direct that he will only be allowed to inspect it either personally\n    or through an advocate in Court:\n    Provided further that supply of documents in electronic form shall be considered as duly furnished.",
+      "key_terms": [
+        "complaint case",
+        "committal",
+        "confession"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the disclosure counterpart to section 230, but for complaint cases (rather than police-report cases) that turn out to involve an offence exclusively triable by the Court of Session. Once the Magistrate issuing process realises the offence falls in that category, the accused must be given free copies of everything gathered so far in the Magistrate's own proceedings: the sworn statements recorded during the complainant/witness examination (sections 223, 225), any statements or confessions recorded elsewhere in the investigation (sections 180, 183), and any documents the prosecution intends to rely on that were produced before the Magistrate. This mirrors section 230's fair-trial disclosure logic, adapted for the complaint-case pathway, and carries the same two practical safeguards: voluminous documents may be made available for inspection instead of full copying, and electronic supply counts as valid furnishing.",
+        "essential_elements": [
+          "Applies to complaint cases (not police-report cases) where the offence is exclusively Court of Session-triable",
+          "Accused gets free copies of: Magistrate's own examination statements, any recorded statements/confessions, and prosecution documents produced before the Magistrate",
+          "Voluminous documents: inspection only, in lieu of copies",
+          "Electronic supply is deemed to satisfy the furnishing requirement"
+        ],
+        "exceptions_and_qualifications": [
+          "This section is the deliberate complaint-case mirror of section 230's police-report disclosure regime — together they ensure disclosure parity regardless of how the case was instituted."
+        ],
+        "how_to_read": "Read this alongside section 230: both guarantee pre-committal disclosure to the accused for Sessions-triable offences, differing only in which case-institution pathway (police report vs. complaint) triggers them and which specific document categories apply."
+      }
+    },
+    {
+      "number": "232",
+      "title": "Commitment of case to Court of Session when offence is triable exclusively by it",
+      "raw_text": "232. Commitment of case to Court of Session when offence is triable exclusively by it.—When in\n    a case instituted on a police report or otherwise, the accused appears or is brought before the Magistrate\n    and it appears to the Magistrate that the offence is triable exclusively by the Court of Session, he shall—\n        (a) commit, after complying with the provisions of section 230 or section 231 the case to the Court\n    of Session, and subject to the provisions of this Sanhita relating to bail, remand the accused to custody\n    until such commitment has been made;\n        (b) subject to the provisions of this Sanhita relating to bail, remand the accused to custody during,\n    and until the conclusion of, the trial;\n        (c) send to that Court the record of the case and the documents and articles, if any, which are to be\n    produced in evidence;\n        (d) notify the Public Prosecutor of the commitment of the case to the Court of Session:\n    Provided that the proceedings under this section shall be completed within a period of ninety days from\n    the date of taking cognizance, and such period may be extended by the Magistrate for a period not exceeding\n    one hundred and eighty days for the reasons to be recorded in writing:\n    Provided further that any application filed before the Magistrate by the accused or the victim or any\n    person authorised by such person in a case triable by Court of Session, shall be forwarded to the Court of\n    Session with the committal of the case.",
+      "key_terms": [
+        "committal",
+        "remand",
+        "custody",
+        "public prosecutor"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the operative committal machinery that gives practical effect to section 213's rule that a Court of Session generally cannot take original cognizance — someone has to formally hand the case up, and this section is how. Whenever a Magistrate realises (whether the case started on a police report or otherwise) that the offence is exclusively triable by the Court of Session, four things must happen: after satisfying the relevant disclosure obligations (section 230 for police-report cases, section 231 for complaint cases), the Magistrate commits the case up and remands the accused to custody (subject to bail) until committal is complete; the accused then remains in custody (again subject to bail) through the trial itself; the full case record, documents, and evidentiary articles are transmitted to the Sessions Court; and the Public Prosecutor is notified so the state's prosecution machinery can take over. A significant time discipline is built in: the whole committal process must finish within ninety days of taking cognizance, extendable by the Magistrate up to a maximum of one hundred eighty days only for reasons recorded in writing — preventing committals from languishing indefinitely at the Magistrate stage. Any pending applications filed by the accused, the victim, or their authorised representative travel with the case file to the Sessions Court, so nothing gets lost or has to be refiled in the transition.",
+        "essential_elements": [
+          "Trigger: offence appears exclusively Court of Session-triable, whether the case began on police report or otherwise",
+          "(a) Commit the case (after section 230/231 disclosure) and remand the accused pending commitment, subject to bail",
+          "(b) Continue remand through trial, subject to bail",
+          "(c) Transmit the case record, documents, and evidentiary articles to the Sessions Court",
+          "(d) Notify the Public Prosecutor",
+          "Default 90-day completion deadline from cognizance, extendable to a maximum of 180 days with recorded reasons",
+          "Pending applications by the accused/victim/authorised person are forwarded along with the committal"
+        ],
+        "exceptions_and_qualifications": [
+          "The 90/180-day time limits are a deliberate procedural-delay check specific to the committal stage — distinct from any separate investigation or trial timelines elsewhere in the Sanhita.",
+          "Both remand clauses (a) and (b) remain subject to the Sanhita's bail provisions — committal itself does not override bail entitlements."
+        ],
+        "how_to_read": "Read clauses (a)-(d) as the Magistrate's committal checklist, and the two provisos as the surrounding time-discipline (deadline plus capped extension) and file-continuity (forwarding pending applications) rules that keep the committal stage moving without losing procedural threads."
+      }
+    },
+    {
+      "number": "233",
+      "title": "Procedure to be followed when there is a complaint case and police investigation in respect of same offence",
+      "raw_text": "233. Procedure to be followed when there is a complaint case and police investigation in respect\n    of same offence.—(1) When in a case instituted otherwise than on a police report (hereinafter referred to\n    as a complaint case), it is made to appear to the Magistrate, during the course of the inquiry or trial held by\n    him, that an investigation by the police is in progress in relation to the offence which is the\n    subject-matter of the inquiry or trial held by him, the Magistrate shall stay the proceedings of such inquiry\n    or trial and call for a report on the matter from the police officer conducting the investigation.\n    (2) If a report is made by the investigating police officer under section 193 and on such report\n    cognizance of any offence is taken by the Magistrate against any person who is an accused in the complaint\n    case, the Magistrate shall inquire into or try together the complaint case and the case arising out of the\n    police report as if both the cases were instituted on a police report.\n    (3) If the police report does not relate to any accused in the complaint case or if the Magistrate does not\n    take cognizance of any offence on the police report, he shall proceed with the inquiry or trial, which was\n    stayed by him, in accordance with the provisions of this Sanhita.",
+      "key_terms": [
+        "complaint case",
+        "police report",
+        "cognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "This section, closing Chapter XVII, resolves a practical overlap problem: what happens when a private complaint case and a parallel police investigation are both underway for the same offence? Rather than letting the two tracks run independently and risk inconsistent or duplicated proceedings, the Magistrate handling the complaint case must pause (stay) it as soon as it becomes apparent that police are actively investigating the same matter, and call for a report from the investigating officer to understand where that investigation stands. If that police investigation matures into a formal report under section 193 and the Magistrate takes cognizance against someone who is already an accused in the complaint case, the two cases are merged — inquired into or tried together, treated for all practical purposes as if the whole matter had been a single police-report case from the start. But if the police report doesn't actually implicate anyone from the complaint case, or the Magistrate declines to take cognizance on it at all, there's no merger — the stayed complaint case simply resumes and proceeds under the Sanhita's normal rules, as though the pause had never disrupted anything substantive.",
+        "essential_elements": [
+          "Trigger: during a complaint case's inquiry or trial, it emerges that police are investigating the same offence",
+          "Mandatory response: stay the complaint case proceedings and call for a report from the investigating officer",
+          "If the resulting section 193 police report leads to cognizance against a complaint-case accused: the two cases are inquired into or tried together, treated as a police-report case",
+          "If the police report doesn't implicate a complaint-case accused, or no cognizance is taken on it: the stayed complaint case simply resumes normally"
+        ],
+        "exceptions_and_qualifications": [
+          "The merger outcome specifically requires cognizance being taken against someone who is already an accused in the complaint case — a report implicating only unrelated persons does not trigger merger."
+        ],
+        "how_to_read": "Think of this as a procedural traffic-control mechanism: pause first to avoid parallel-track conflict, then either merge the two proceedings (if the police track catches up to implicate the same accused) or simply resume the original complaint case unchanged. This completes Chapter XVII; Chapter XVIII (The Charge) follows at Section 234."
       }
     }
   ]
