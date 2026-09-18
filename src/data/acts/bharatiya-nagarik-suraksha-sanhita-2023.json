@@ -83,7 +83,7 @@
     "police control room": "A facility established by the State Government at the district and State level to coordinate and record policing information, including arrests.",
     "citizen's arrest": "The power of a private person to arrest another who commits a non-bailable and cognizable offence in his presence, or who is a proclaimed offender.",
     "surety": "A person who undertakes responsibility for ensuring another person's compliance with bail or bond conditions.",
-    "armed forces of the union": "The military forces of the Union of India, whose members enjoy a special protection from arrest for official-duty acts absent Central Government consent.",
+    "armed forces of the union": "The military forces of India (Army, Navy, Air Force, and other forces raised and maintained by the Union) as distinguished from state police and other civil armed forces.",
     "submission to custody": "An arrested person's acknowledgment of arrest by word or conduct, which may substitute for actual physical touch or confinement.",
     "free ingress": "Unobstructed entry into a place, which an occupier must afford to an arresting officer or warrant-holder on demand.",
     "registered medical practitioner": "A medical practitioner who holds a recognised medical qualification and is enrolled on a State or National Medical Register — as defined in section 51, and required to conduct the medical examination of a rape victim under section 184.",
@@ -161,7 +161,11 @@
     "extraterritorial jurisdiction": "The power of a country's courts to inquire into and try offences committed outside its own territory, typically limited to offences by its own citizens or on its registered ships/aircraft.",
     "deposition": "The formal written or recorded record of a witness's testimony, typically taken under oath before a judicial or authorised officer.",
     "commission (for taking evidence)": "A court's formal authorisation to a designated person to record evidence at a place the court itself cannot conveniently visit, with the recorded evidence then read into the trial record.",
-    "committal": "The formal procedure by which a Magistrate, after a preliminary inquiry, sends a case triable exclusively by a Court of Session to that Court, since a Court of Session generally cannot take original cognizance on its own."
+    "committal": "The formal procedure by which a Magistrate, after a preliminary inquiry, sends a case triable exclusively by a Court of Session to that Court, since a Court of Session generally cannot take original cognizance on its own.",
+    "criminal conspiracy": "An agreement between two or more persons to commit an illegal act, or a legal act by illegal means, itself treated as a distinct offence under the Bharatiya Nyaya Sanhita even if the planned act is never carried out.",
+    "contempt of lawful authority": "A category of offences (BNS Chapter X-type provisions) punishing disobedience to, or obstruction of, the lawful orders and processes of public servants and courts.",
+    "proclamation under article 356": "The Constitutional mechanism (President's Rule) by which the President of India assumes the functions of a State Government when satisfied that the State's governance cannot be carried on in accordance with the Constitution.",
+    "preliminary investigation": "A limited, sanction-preceding police inquiry ordered by government before deciding whether to accord sanction or consent to prosecute, distinct from a full investigation under Chapter XIII."
   },
   "sections": [
     {
@@ -5041,6 +5045,98 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "A short administrative provision — read it as the Sessions Court-level counterpart to section 212's Magistracy case-allocation rule."
+      }
+    },
+    {
+      "number": "215",
+      "title": "Prosecution for contempt of lawful authority of public servants, for offences against public justice and for offences relating to documents given in evidence",
+      "raw_text": "215. Prosecution for contempt of lawful authority of public servants, for offences against public\n    justice and for offences relating to documents given in evidence.—(1) No Court shall take cognizance—\n        (a) (i) of any offence punishable under sections 206 to 223 (both inclusive but excluding section\n    209) of the Bharatiya Nyaya Sanhita, 2023; or\n        (ii) of any abetment of, or attempt to commit, such offence; or\n        (iii) of any criminal conspiracy to commit such offence,\n    except on the complaint in writing of the public servant concerned or of some other public servant to\n    whom he is administratively subordinate or of some other public servant who is authorised by the\n    concerned public servant so to do;\n        (b) (i) of any offence punishable under any of the following sections of the Bharatiya Nyaya\n    Sanhita, 2023, namely, sections 229 to 233 (both inclusive), 236, 237, 242 to 248 (both inclusive) and\n    267, when such offence is alleged to have been committed in, or in relation to, any proceeding in any\n    Court; or\n        (ii) of any offence described in sub-section (1) of section 336, or punishable under sub-section (2)\n    of section 340 or section 342 of the said Sanhita, when such offence is alleged to have been committed\n    in respect of a document produced or given in evidence in a proceeding in any Court; or\n        (iii) of any criminal conspiracy to commit, or attempt to commit, or the abetment of, any offence\n    specified in sub-clause (i) or sub-clause (ii),\n    except on the complaint in writing of that Court or by such officer of the Court as that Court may authorise\n    in writing in this behalf, or of some other Court to which that Court is subordinate.",
+      "key_terms": [
+        "cognizance",
+        "criminal conspiracy",
+        "sanction"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a gatekeeping provision protecting two distinct interests from private, freelance prosecutions. Clause (a) covers offences against the lawful authority of public servants — obstruction, disobedience, and similar offences under BNS sections 206-223 (excluding 209) — which can only be prosecuted if the affected public servant (or their administrative superior, or someone they authorise) files a written complaint; a private citizen cannot initiate such a case. Clause (b) covers offences against public justice committed in or in relation to court proceedings (like giving false evidence or fabricating evidence, under a specified list of BNS sections) and offences relating to documents produced in evidence — these can only be prosecuted on the written complaint of the court itself, an officer the court authorises, or a superior court. The underlying policy is to prevent courts and public servants from being harassed by vexatious private prosecutions for offences that are essentially about their own official functioning — only they (or their institutional superior) are positioned to judge whether prosecution is warranted.",
+        "essential_elements": [
+          "Clause (a): offences under BNS sections 206-223 (excluding 209) against public servants' lawful authority — cognizance only on written complaint of the public servant concerned, their administrative superior, or someone authorised by the concerned public servant",
+          "Clause (b): specified offences against public justice (BNS 229-233, 236, 237, 242-248, 267) committed in relation to court proceedings, and offences involving documents given in evidence (BNS 336(1), 340(2), 342) — cognizance only on written complaint of that Court, an officer it authorises, or a superior Court",
+          "Both clauses extend the bar to abetment, attempt, and criminal conspiracy to commit the listed offences"
+        ],
+        "exceptions_and_qualifications": [
+          "This bar applies specifically to the listed sections — it does not bar prosecution of unrelated offences arising from the same facts.",
+          "The complaint must be in writing; an oral report or FIR alone will not satisfy this requirement for the listed offences."
+        ],
+        "how_to_read": "Read this as the institutional-standing requirement: for offences that are essentially attacks on a public servant's or a court's own functioning, only that institution (or its authorised representative or superior) can set prosecution in motion — ordinary complainants are shut out for these specific offence categories."
+      }
+    },
+    {
+      "number": "216",
+      "title": "Procedure for witnesses in case of threatening, etc.",
+      "raw_text": "216. Procedure for witnesses in case of threatening, etc.—A witness or any other person may file a\n    complaint in relation to an offence under section 232 of the Bharatiya Nyaya Sanhita, 2023.",
+      "key_terms": [
+        "witness",
+        "cognizance"
+      ],
+      "breakdown": {
+        "plain_summary": "This short section is a witness-protection clarification sitting between the two gatekeeping provisions (sections 215 and 217). It confirms that a witness — or indeed any other person — who is threatened or intimidated (the offence defined in BNS section 232) can directly file a complaint about that threat, without needing to route it through any special sanctioning authority. It exists to make clear that the complaint-only restrictions of section 215 do not extend to this particular offence.",
+        "essential_elements": [
+          "Applies specifically to the offence of threatening under BNS section 232",
+          "A witness or any other person (not just the direct target) may file the complaint"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat this as a narrow carve-out/clarification protecting witnesses' direct access to court for threats made against them, distinct from the general sanction requirements surrounding it."
+      }
+    },
+    {
+      "number": "217",
+      "title": "Prosecution for offences against State and for criminal conspiracy to commit such offence",
+      "raw_text": "217. Prosecution for offences against State and for criminal conspiracy to commit such\n    offence.—(1) No Court shall take cognizance of—\n        (a) any offence punishable under Chapter VII or under section 196, section 299 or sub-section (1)\n    of section 353 of the Bharatiya Nyaya Sanhita, 2023; or\n        (b) a criminal conspiracy to commit such offence; or\n        (c) any such abetment, as is described in section 47 of the Bharatiya Nyaya Sanhita, 2023, except\n    with the previous sanction of the Central Government or of the State Government.\n    (2) No Court shall take cognizance of—\n        (a) any offence punishable under section 197 or sub-section (2) or sub-section (3) of section 353\n    of the Bharatiya Nyaya Sanhita, 2023; or\n        (b) a criminal conspiracy to commit such offence, except with the previous sanction of the Central\n    Government or of the State Government or of the District Magistrate.\n    (3) No Court shall take cognizance of the offence of any criminal conspiracy punishable under\n    sub-section (2) of section 61 of the Bharatiya Nyaya Sanhita, 2023, other than a criminal conspiracy to\n    commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of two\n    years or upwards, unless the State Government or the District Magistrate has consented in writing to the\n    initiation of the proceedings:\n    Provided that where the criminal conspiracy is one to which the provisions of section 215 apply, no\n    such consent shall be necessary.\n    (4) The Central Government or the State Government may, before according sanction under\n    sub-section (1) or sub-section (2) and the District Magistrate may, before according sanction under\n    sub-section (2) and the State Government or the District Magistrate may, before giving consent under\n    sub-section (3), order a preliminary investigation by a police officer not being below the rank of Inspector,\n    in which case such police officer shall have the powers referred to in sub-section (3) of section 174.",
+      "key_terms": [
+        "sanction",
+        "criminal conspiracy",
+        "preliminary investigation"
+      ],
+      "breakdown": {
+        "plain_summary": "This section erects a high government-sanction barrier before offences against the State itself can be prosecuted — recognising that such offences (sedition-adjacent and related offences under BNS Chapter VII, plus specified public-order offences) carry serious political and public-order sensitivity, so a private complainant or even the police cannot single-handedly trigger prosecution. Sub-section (1) requires Central or State Government sanction for the most serious category (Chapter VII offences and specified sections) plus conspiracy and abetment to commit them. Sub-section (2) requires the same sanction, but also allows a District Magistrate to grant it, for a second, somewhat less serious category. Sub-section (3) is a general safety-valve for criminal conspiracy prosecutions generally — requiring State Government or District Magistrate written consent unless the conspiracy is to commit a very serious offence (death, life imprisonment, or 2+ years' rigorous imprisonment), in which case no consent is needed (ordinary criminal process applies), and this consent requirement is itself switched off where section 215 already governs the conspiracy. Sub-section (4) lets the sanctioning/consenting authority order a preliminary police investigation (by at least an Inspector, with search powers) before deciding whether to grant sanction or consent — a controlled fact-finding step short of a full investigation.",
+        "essential_elements": [
+          "Sub-section (1): Chapter VII offences, sections 196/299/353(1), their conspiracy, and section 47 abetment — need Central or State Government sanction",
+          "Sub-section (2): section 197 and section 353(2)/(3) offences and their conspiracy — need Central Government, State Government, or District Magistrate sanction",
+          "Sub-section (3): criminal conspiracy generally (section 61(2)) needs State Government/District Magistrate written consent, UNLESS the planned offence carries death/life/2+ years' rigorous imprisonment (no consent needed) or section 215 already applies (no consent needed)",
+          "Sub-section (4): before granting sanction or consent, the authority may order a preliminary investigation by an Inspector-or-above police officer, with search powers under section 174(3)"
+        ],
+        "exceptions_and_qualifications": [
+          "The severity-based carve-out in sub-section (3) means the most serious conspiracies bypass the consent requirement entirely — ordinary process applies to them.",
+          "Sub-section (3)'s proviso explicitly avoids double-gatekeeping: if section 215 already governs a conspiracy, section 217(3)'s consent requirement doesn't additionally apply."
+        ],
+        "how_to_read": "Read the four sub-sections as graduated layers: (1) and (2) are offence-specific sanction requirements for State-security and public-order offences, (3) is a general conspiracy-prosecution consent filter with a serious-offence exception, and (4) is a shared procedural tool (preliminary investigation) available to whichever authority is deciding sanction or consent under any of the above."
+      }
+    },
+    {
+      "number": "218",
+      "title": "Prosecution of Judges and public servants",
+      "raw_text": "218. Prosecution of Judges and public servants.—(1) When any person who is or was a Judge or\n    Magistrate or a public servant not removable from his office save by or with the sanction of the Government\n    is accused of any offence alleged to have been committed by him while acting or purporting to act in the\n    discharge of his official duty, no Court shall take cognizance of such offence except with the previous\n    sanction save as otherwise provided in the Lokpal and Lokayuktas Act, 2013 (1 of 2014)—\n        (a) in the case of a person who is employed or, as the case may be, was at the time of commission\n    of the alleged offence employed, in connection with the affairs of the Union, of the Central\n    Government;\n        (b) in the case of a person who is employed or, as the case may be, was at the time of commission\n    of the alleged offence employed, in connection with the affairs of a State, of the State Government:\n    Provided that where the alleged offence was committed by a person referred to in clause (b) during the\n    period while a Proclamation issued under clause (1) of article 356 of the Constitution was in force in a\n    State, clause (b) will apply as if for the expression \"State Government\" occurring therein, the expression\n    \"Central Government\" were substituted:\n    Provided further that such Government shall take a decision within a period of one hundred and twenty\n    days from the date of the receipt of the request for sanction and in case it fails to do so, the sanction shall\n    be deemed to have been accorded by such Government:\n    Provided also that no sanction shall be required in case of a public servant accused of any offence\n    alleged to have been committed under section 64, section 65, section 66, section 68, section 69, section 70,\n    section 71, section 74, section 75, section 76, section 77, section 78, section 79, section 143, section 199 or\n    section 200 of the Bharatiya Nyaya Sanhita, 2023.\n    (2) No Court shall take cognizance of any offence alleged to have been committed by any member of\n    the Armed Forces of the Union while acting or purporting to act in the discharge of his official duty, except\n    with the previous sanction of the Central Government.\n    (3) The State Government may, by notification, direct that the provisions of sub-section (2) shall apply\n    to such class or category of the members of the Forces charged with the maintenance of public order as\n    may be specified therein, wherever they may be serving, and thereupon the provisions of that sub-section\n    will apply as if for the expression \"Central Government\" occurring therein, the expression \"State\n    Government\" were substituted.\n    (4) Notwithstanding anything contained in sub-section (3), no Court shall take cognizance of any\n    offence, alleged to have been committed by any member of the Forces charged with the maintenance of\n    public order in a State while acting or purporting to act in the discharge of his official duty during the period\n    while a Proclamation issued under clause (1) of article 356 of the Constitution was in force therein, except\n    with the previous sanction of the Central Government.\n    (5) The Central Government or the State Government, may determine the person by whom, the manner\n    in which, and the offence or offences for which, the prosecution of such Judge, Magistrate or public servant\n    is to be conducted, and may specify the Court before which the trial is to be held.",
+      "key_terms": [
+        "sanction",
+        "armed forces of the union",
+        "proclamation under article 356"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the constitutional-grade shield protecting judicial officers, tenured public servants, and armed forces personnel from being dragged into court over acts done in their official capacity, without prior government sanction. Sub-section (1) requires sanction from the Central Government (for Union-affairs employees) or the State Government (for State-affairs employees) before any Court can take cognizance of an offence a Judge, Magistrate, or protected public servant is accused of committing while acting or purporting to act in official duty — unless the Lokpal and Lokayuktas Act already governs the situation. During President's Rule (an Article 356 Proclamation), the sanctioning authority for State employees shifts to the Central Government, since the State Government itself is not functioning normally. A firm 120-day deadline forces the sanctioning government to decide — if it doesn't, sanction is deemed granted by default, preventing indefinite stonewalling. Certain serious offences (a specific list of BNS sections covering sexual offences and related provisions) are explicitly exempted from the sanction requirement altogether — protecting victims from being blocked by bureaucratic sanction delays in these especially serious cases. Sub-sections (2)-(4) apply an analogous sanction shield to the Armed Forces of the Union and, by State notification, to public-order forces, with the same President's-Rule Central-Government substitution. Sub-section (5) gives the sanctioning government control over how the prosecution actually proceeds — who conducts it, how, for what offences, and before which Court.",
+        "essential_elements": [
+          "Sub-section (1): sanction (Central for Union employees, State for State employees) required before prosecuting a Judge/Magistrate/tenured public servant for official-duty offences",
+          "During an Article 356 Proclamation in a State, the Central Government becomes the sanctioning authority in place of the State Government",
+          "120-day deemed-sanction rule: if the government doesn't decide within 120 days of the sanction request, sanction is deemed granted",
+          "No sanction required at all for the specifically listed BNS sections (64-79 etc., 143, 199, 200) — mostly serious sexual and bodily-harm offences",
+          "Sub-section (2): Central Government sanction required for Armed Forces of the Union personnel's official-duty offences",
+          "Sub-sections (3)-(4): State Government may extend the sanction requirement to public-order forces by notification, but during President's Rule the Central Government resumes that sanctioning role",
+          "Sub-section (5): sanctioning government controls prosecutor, manner, offences charged, and trial court"
+        ],
+        "exceptions_and_qualifications": [
+          "The Lokpal and Lokayuktas Act, 2013 carve-out means this section's sanction scheme yields to that Act's own procedure where applicable.",
+          "The third proviso's exemption list is a deliberate victim-protective override — sanction delays cannot be used to stall prosecution of these serious offences."
+        ],
+        "how_to_read": "Read sub-section (1) as the general framework (who sanctions, when Centre substitutes for State, the 120-day deadline, and the no-sanction-needed exemption list), and sub-sections (2)-(4) as the parallel, largely mirrored scheme for armed and public-order forces — sub-section (5) then applies across both schemes to control how any sanctioned prosecution is actually run."
       }
     }
   ]
