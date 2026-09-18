@@ -317,7 +317,12 @@
     "quash": "To formally annul or set aside a conviction, order, or proceeding, treating it as void. Under section 510(2)'s proviso, if an appellate, confirmation, or revisional Court finds that no valid charge could ever have been framed against the accused on the facts actually proved, it must quash the conviction outright rather than order a retrial.",
     "period of limitation": "The time window, fixed by section 514, within which a Court must take cognizance of certain offences (six months, one year, or three years, depending on the maximum punishment), after which cognizance is ordinarily barred. Chapter XXXVIII (sections 513-519) governs when this period begins, what time is excluded from it, and when a Court may extend it.",
     "absconding": "Deliberately hiding or fleeing to avoid arrest or legal process. Section 516(4)(b) excludes, from the computation of the period of limitation, any time during which the offender avoided arrest by absconding or concealing himself -- so a fugitive cannot run out the limitation clock by evading capture.",
-    "injunction": "A judicial order restraining a person from doing, or compelling a person to do, a particular act. Section 516(2) excludes, from the computation of the period of limitation, the period during which a prosecution's institution was stayed by an injunction or order, along with the day it was issued and the day it was withdrawn."
+    "injunction": "A judicial order restraining a person from doing, or compelling a person to do, a particular act. Section 516(2) excludes, from the computation of the period of limitation, the period during which a prosecution's institution was stayed by an injunction or order, along with the day it was issued and the day it was withdrawn.",
+    "inherent powers": "The residual authority of the High Court, not derived from any specific statutory provision, to pass orders necessary to give effect to its own orders, prevent abuse of the process of any Court, or otherwise secure the ends of justice. Section 528 clarifies that nothing in this Sanhita limits or affects these inherent powers -- they exist over and above the Sanhita's express provisions.",
+    "repeal": "The formal revocation of a previously operative statute, ending its future application. Section 531(1) repeals the Code of Criminal Procedure, 1973, while section 531(2) and (3) contain 'savings' clauses preserving the effect of things already done, and proceedings already pending, under the repealed Code.",
+    "official gazette": "The government's official publication used to give legal notice of rules, notifications, and other acts of public authorities. Section 523(2) requires every rule a High Court makes under that section to be published in the Official Gazette before it takes effect.",
+    "petition-writer": "A person, not necessarily an enrolled advocate, licensed under rules made by the High Court to draft petitions and applications for litigants in the criminal courts subordinate to it. Section 523 empowers each High Court, with State Government approval, to regulate who may act as a petition-writer, their licensing, fees, and penalties for breach of those rules.",
+    "savings": "A statutory clause that preserves the legal effect of things done, or protects proceedings already pending, under a law that is being repealed -- softening the otherwise total wipeout that a straight repeal would cause. Section 531's title, 'Repeal and savings', reflects this: subsection (1) repeals the Code of Criminal Procedure, 1973, while subsections (2) and (3) are the savings provisions carrying forward pending matters, prior notifications and orders, and existing sanctions/consents."
   },
   "sections": [
     {
@@ -11634,6 +11639,268 @@
           "This is a discretionary override, not an automatic extension -- the Court must be affirmatively satisfied on one of the two specified grounds before proceeding despite the expired limitation period."
         ],
         "how_to_read": "This closes Chapter XXXVIII (Limitation for Taking Cognizance of Certain Offences), sections 513-519, as a complete, self-contained scheme: the bar itself (514), its commencement (515), exclusions (516-517), the continuing-offence exception (518), and this final discretionary extension safety valve (519). Chapter XXXIX (Miscellaneous) begins immediately after at section 520."
+      }
+    },
+    {
+      "number": "520",
+      "title": "Trials before High Courts",
+      "raw_text": "520. Trials before High Courts.—When an offence is tried by the High Court otherwise than under section 447, it shall, in the trial of the offence, observe the same procedure as a Court of Sessions would observe if it were trying the case.",
+      "key_terms": [
+        "High Court",
+        "Court of Sessions"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Chapter XXXIX, the Sanhita's final miscellaneous chapter. When the High Court itself tries an offence as a trial court (not on appeal, and not under section 447's separate procedure for contempt of subordinate courts), it must follow the same trial procedure that a Court of Sessions would use for that case -- the High Court does not get a different, simplified procedure merely because of its higher status.",
+        "essential_elements": [
+          "The High Court is trying an offence directly (as a trial court), not hearing an appeal or revision.",
+          "The trial is not being conducted under section 447 (which has its own dedicated procedure).",
+          "The High Court must observe the same procedure a Court of Sessions would use for that case."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "High Courts trying criminal cases as a court of first instance are rare in practice, but where it happens, this section ensures procedural uniformity -- the same safeguards (charge, evidence, arguments) that would apply in a Sessions trial apply here too, just before a higher forum."
+      }
+    },
+    {
+      "number": "521",
+      "title": "Delivery to commanding officers of persons liable to be tried by Court-martial",
+      "raw_text": "521. Delivery to commanding officers of persons liable to be tried by Court-martial.—(1) The Central Government may make rules consistent with this Sanhita and the Air Force Act, 1950 (45 of 1950), the Army Act, 1950 (46 of 1950), the Navy Act, 1957 (62 of 1957), and any other law, relating to the Armed Forces of the Union, for the time being in force, as to cases in which persons subject to army, naval or air-force law, or such other law, shall be tried by a Court to which this Sanhita applies, or by a Court-martial; and when any person is brought before a Magistrate and charged with an offence for which he is liable to be tried either by a Court to which this Sanhita applies or by a Court-martial, such Magistrate shall have regard to such rules, and shall in proper cases deliver him, together with a statement of the offence of which he is accused, to the commanding officer of the unit to which he belongs, or to the commanding officer of the nearest army, naval or air-force station, as the case may be, for the purpose of being tried by a Court-martial.\n    Explanation.—In this section—\n        (a) “unit” includes a regiment, corps, ship, detachment, group, battalion or company;\n       (b) “Court-martial” includes any Tribunal with the powers similar to those of a Court-martial constituted under the relevant law applicable to the Armed Forces of the Union.\n    (2) Every Magistrate shall, on receiving a written application for that purpose by the commanding officer of any unit or body of soldiers, sailors or airmen stationed or employed at any such place, use his utmost endeavours to apprehend and secure any person accused of such offence.\n    (3) A High Court may, if it thinks fit, direct that a prisoner detained in any jail situate within the State be brought before a Court-martial for trial or to be examined touching any matter pending before the Court-martial.",
+      "key_terms": [
+        "Court-martial",
+        "commanding officer",
+        "Central Government",
+        "Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This section resolves the overlap between ordinary criminal courts and military justice. The Central Government can make rules deciding, for persons subject to military law, whether they are tried by an ordinary criminal court under this Sanhita or by a Court-martial. When such a person is charged before a Magistrate, the Magistrate must follow those rules and, where appropriate, hand the accused over to their commanding officer for a Court-martial instead of proceeding under this Sanhita. Magistrates must also actively help commanding officers apprehend such accused persons on request, and a High Court can order a prisoner already in civil custody produced before a Court-martial.",
+        "essential_elements": [
+          "The Central Government may frame rules, consistent with this Sanhita and the Armed Forces Acts, governing whether a person subject to military law is tried by an ordinary Court or by Court-martial.",
+          "A Magistrate before whom such a person is charged must have regard to those rules and, in proper cases, deliver the accused (with a statement of the offence) to the appropriate commanding officer.",
+          "On written application from a commanding officer, every Magistrate must use utmost endeavours to apprehend and secure the accused person.",
+          "A High Court may direct that a prisoner in a State jail be produced before a Court-martial for trial or examination."
+        ],
+        "exceptions_and_qualifications": [
+          "“Unit” is defined broadly to include a regiment, corps, ship, detachment, group, battalion or company.",
+          "“Court-martial” is defined to include any Tribunal with powers similar to a Court-martial under the law applicable to the Armed Forces of the Union."
+        ],
+        "how_to_read": "This is one of the coordination points between civilian criminal procedure and military law -- it does not itself decide which forum tries a case, but sets up the mechanism (Central Government rules, Magistrate cooperation, High Court directions) by which that choice is implemented in practice."
+      }
+    },
+    {
+      "number": "522",
+      "title": "Forms",
+      "raw_text": "522. Forms.—Subject to the power conferred by article 227 of the Constitution, the forms set forth in the Second Schedule, with such variations as the circumstances of each case require, may be used for the respective purposes therein mentioned, and if used shall be sufficient.",
+      "key_terms": [
+        "Second Schedule",
+        "Constitution"
+      ],
+      "breakdown": {
+        "plain_summary": "The Sanhita's Second Schedule contains model forms (for summonses, warrants, charges, and similar documents). Using these forms, adapted as each case requires, is legally sufficient -- courts and officials do not need to draft such documents from scratch or worry about minor variations, so long as the High Court's own rule-making power under article 227 of the Constitution is respected.",
+        "essential_elements": [
+          "The forms in the Second Schedule may be used, with variations suited to each case's circumstances.",
+          "Using a prescribed form for its stated purpose is legally sufficient.",
+          "This is subject to the High Court's power under article 227 of the Constitution (superintendence over subordinate courts, which includes prescribing forms and practice)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a practical drafting-and-compliance provision: if a summons, warrant, or similar document follows the Second Schedule's model form (adapted as needed), it cannot be challenged merely for not using different wording."
+      }
+    },
+    {
+      "number": "523",
+      "title": "Power of High Court to make rules",
+      "raw_text": "523. Power of High Court to make rules.—(1) Every High Court may, with the previous approval of the State Government, make rules—\n       (a) as to the persons who may be permitted to act as petition-writers in the Criminal Courts subordinate to it;\n        (b) regulating the issue of licences to such persons, the conduct of business by them, and the scale of fees to be charged by them;\n        (c) providing a penalty for a contravention of any of the rules so made and determining the authority by which such contravention may be investigated and the penalties imposed;\n       (d) any other matter which is required to be, or may be, provided by rules made by the State Government.\n    (2) All rules made under this section shall be published in the Official Gazette.",
+      "key_terms": [
+        "High Court",
+        "State Government",
+        "Official Gazette",
+        "petition-writer"
+      ],
+      "breakdown": {
+        "plain_summary": "Each High Court, with the State Government's prior approval, can make rules governing 'petition-writers' -- non-advocate persons permitted to draft petitions for litigants in the criminal courts under it -- including who may act as one, how licences are issued, what fees they may charge, and penalties for breaking these rules. All such rules must be published in the Official Gazette to take effect.",
+        "essential_elements": [
+          "The High Court makes the rules, but only with the State Government's previous approval.",
+          "The rules may govern: who may act as a petition-writer, licensing and conduct, fee scales, and penalties (with the authority to investigate and impose them) for contravention.",
+          "The High Court may also make rules on any other matter the State Government is required or permitted to provide for by rules.",
+          "Every rule made under this section must be published in the Official Gazette."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Petition-writers are a recognised, regulated category assisting unrepresented litigants in lower criminal courts (distinct from enrolled advocates); this section is the source of the licensing regime that governs them in each State."
+      }
+    },
+    {
+      "number": "524",
+      "title": "Power to alter functions allocated to Executive Magistrate in certain cases",
+      "raw_text": "524. Power to alter functions allocated to Executive Magistrate in certain cases.—If the Legislative Assembly of a State by a resolution so permits, the State Government may, after consultation with the High Court, by notification, direct that references in sections 127, 128, 129, 164 and 166 to an Executive Magistrate shall be construed as references to a Judicial Magistrate of the first class.",
+      "key_terms": [
+        "Executive Magistrate",
+        "Judicial Magistrate of the first class",
+        "State Government",
+        "notification"
+      ],
+      "breakdown": {
+        "plain_summary": "Certain functions under sections 127, 128, 129, 164, and 166 (all dealing with unlawful assemblies and use of force to disperse them) are ordinarily assigned to Executive Magistrates. This section lets a State, if its Legislative Assembly passes a resolution permitting it, shift those functions to Judicial Magistrates of the first class instead, by State Government notification issued after consulting the High Court.",
+        "essential_elements": [
+          "The State's Legislative Assembly must first pass a resolution permitting the change.",
+          "The State Government then consults the High Court.",
+          "The State Government issues a notification redirecting references to 'Executive Magistrate' in sections 127, 128, 129, 164, and 166 to mean 'Judicial Magistrate of the first class' instead."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a State-specific opt-in mechanism: it does not itself change who exercises these dispersal-of-assembly powers nationally, but gives individual States a constitutionally sanctioned route to move that function from the executive to the judicial magistracy if their legislature and High Court agree."
+      }
+    },
+    {
+      "number": "525",
+      "title": "Cases in which Judge or Magistrate is personally interested",
+      "raw_text": "525. Cases in which Judge or Magistrate is personally interested.—No Judge or Magistrate shall, except with the permission of the Court to which an appeal lies from his Court, try or commit for trial any case to or in which he is a party, or personally interested, and no Judge or Magistrate shall hear an appeal from any judgment or order passed or made by himself.\n    Explanation.—A Judge or Magistrate shall not be deemed to be a party to, or personally interested in, any case by reason only that he is concerned therein in a public capacity, or by reason only that he has viewed the place in which an offence is alleged to have been committed, or any other place in which any other transaction material to the case is alleged to have occurred, and made an inquiry in connection with the case.",
+      "key_terms": [
+        "Judge",
+        "Magistrate",
+        "committal",
+        "personally interested"
+      ],
+      "breakdown": {
+        "plain_summary": "This codifies the rule against bias: a Judge or Magistrate cannot try or commit for trial a case in which they are personally a party or personally interested, unless the appellate court above them permits it. They also can never hear an appeal from their own earlier judgment or order. The Explanation clarifies that merely acting in an official/public capacity, or having visited the crime scene or another relevant site to make an inquiry, does not by itself make a Judge or Magistrate 'interested' in the case.",
+        "essential_elements": [
+          "A Judge or Magistrate must not try or commit for trial any case in which they are a party or personally interested.",
+          "The only exception is with the express permission of the Court to which an appeal from their Court lies.",
+          "A Judge or Magistrate can never hear an appeal from a judgment or order they themselves passed.",
+          "Acting in a public/official capacity, or having viewed the offence scene or a related site for the purpose of inquiry, does not count as being a party or personally interested."
+        ],
+        "exceptions_and_qualifications": [
+          "The Explanation is itself an exception-defining clause: it narrows what 'personally interested' means so that ordinary judicial functions (site inspections, acting in one's official capacity) don't trigger disqualification."
+        ],
+        "how_to_read": "This is a natural-justice safeguard (nemo judex in causa sua -- no one should judge their own cause) with a narrow, permission-based escape valve; a challenge to a Judge's or Magistrate's participation on bias grounds should be tested against both the general rule and the Explanation's carve-outs."
+      }
+    },
+    {
+      "number": "526",
+      "title": "Practising advocate not to sit as Magistrate in certain Courts",
+      "raw_text": "526. Practising advocate not to sit as Magistrate in certain Courts.—No advocate who practices in the Court of any Magistrate shall sit as a Magistrate in that Court or in any Court within the local jurisdiction of that Court.",
+      "key_terms": [
+        "advocate",
+        "Magistrate",
+        "local jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "An advocate who practises before a particular Magistrate's Court is barred from ever sitting as a Magistrate in that same Court, or in any other Court within that Court's local jurisdiction -- preventing an obvious conflict of interest between a lawyer's practice and judicial office in the same local forum.",
+        "essential_elements": [
+          "The bar applies to an advocate who practises in the Court of a particular Magistrate.",
+          "That advocate cannot sit as Magistrate in that same Court.",
+          "The bar extends to any other Court within the local jurisdiction of that Court as well."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is another conflict-of-interest safeguard, complementing section 525's bias rule -- it prevents the structural problem of a practising lawyer adjudicating in the very local judicial ecosystem where they appear as counsel."
+      }
+    },
+    {
+      "number": "527",
+      "title": "Public servant concerned in sale not to purchase or bid for property",
+      "raw_text": "527. Public servant concerned in sale not to purchase or bid for property.—A public servant having any duty to perform in connection with the sale of any property under this Sanhita shall not purchase or bid for the property.",
+      "key_terms": [
+        "public servant",
+        "sale of property"
+      ],
+      "breakdown": {
+        "plain_summary": "A public servant who has an official duty relating to a sale of property conducted under this Sanhita (for example, a sale of confiscated or unclaimed property under Chapter XXXVI) is barred from purchasing that property or bidding for it themselves.",
+        "essential_elements": [
+          "The public servant must have some duty to perform in connection with the particular sale.",
+          "That public servant is prohibited from purchasing the property being sold.",
+          "The public servant is equally prohibited from bidding for it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a straightforward anti-self-dealing rule for property sales conducted under the Sanhita's own procedures (e.g., disposal of case property) -- it prevents the official running or supervising the sale from also being its buyer."
+      }
+    },
+    {
+      "number": "528",
+      "title": "Saving of inherent powers of High Court",
+      "raw_text": "528. Saving of inherent powers of High Court.—Nothing in this Sanhita shall be deemed to limit or affect the inherent powers of the High Court to make such orders as may be necessary to give effect to any order under this Sanhita, or to prevent abuse of the process of any Court or otherwise to secure the ends of justice.",
+      "key_terms": [
+        "High Court",
+        "inherent powers",
+        "abuse of the process"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the Sanhita's counterpart to the old Code's section 482 -- it preserves the High Court's broad, residual inherent powers untouched by anything else in the Sanhita. The High Court can still make whatever orders are necessary to give effect to its own or a subordinate court's orders, to stop abuse of any Court's process, or more generally to secure the ends of justice, regardless of whether a specific provision elsewhere in the Sanhita covers the situation.",
+        "essential_elements": [
+          "The High Court's inherent powers are not limited or affected by anything in this Sanhita.",
+          "Those powers extend to making orders necessary to give effect to any order under this Sanhita.",
+          "They also extend to preventing abuse of the process of any Court.",
+          "They also extend, more broadly, to securing the ends of justice."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is one of the most powerful and frequently invoked provisions in criminal practice (quashing of FIRs and proceedings, staying trials, and other extraordinary relief typically rest on this section) -- a petition invoking it should tie the relief sought to one of the three named purposes: giving effect to an order, preventing abuse of process, or securing the ends of justice."
+      }
+    },
+    {
+      "number": "529",
+      "title": "Duty of High Court to exercise continuous superintendence over Courts",
+      "raw_text": "529. Duty of High Court to exercise continuous superintendence over Courts.—Every High Court shall so exercise its superintendence over the Courts of Session and Courts of Judicial Magistrates subordinate to it as to ensure that there is an expeditious and proper disposal of cases by the Judges and Magistrates.",
+      "key_terms": [
+        "High Court",
+        "Courts of Session",
+        "Judicial Magistrates",
+        "superintendence"
+      ],
+      "breakdown": {
+        "plain_summary": "Every High Court has an affirmative duty -- not merely a power -- to continuously superintend the Courts of Session and Judicial Magistrates below it, specifically so as to ensure cases are disposed of both expeditiously and properly.",
+        "essential_elements": [
+          "Every High Court must exercise superintendence over subordinate Courts of Session and Courts of Judicial Magistrates.",
+          "That superintendence must be exercised so as to ensure expeditious disposal of cases.",
+          "It must also ensure proper disposal of cases -- speed alone is not the goal."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This duty-framing (as opposed to a mere discretionary power) underlies High Courts' administrative oversight of trial-court pendency and delay, and is often cited alongside section 528's inherent powers when seeking directions for expeditious disposal of a stalled case."
+      }
+    },
+    {
+      "number": "530",
+      "title": "Trial and proceedings to be held in electronic mode",
+      "raw_text": "530. Trial and proceedings to be held in electronic mode.—All trials, inquires and proceedings under this Sanhita, including—\n        (i) issuance, service and execution of summons and warrant;\n        (ii) examination of complainant and witnesses;\n        (iii) recording of evidence in inquiries and trials; and\n        (iv) all appellate proceedings or any other proceeding,\nmay be held in electronic mode, by use of electronic communication or use of audio-video electronic means.",
+      "key_terms": [
+        "electronic mode",
+        "summons",
+        "warrant",
+        "audio-video electronic means"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a sweeping, general enabling provision (new to the BNSS, without a direct predecessor in the old Code) that authorises essentially the entire criminal process -- trials, inquiries, and other proceedings, including issuing and serving summonses and warrants, examining complainants and witnesses, recording evidence, and appeals -- to be conducted electronically, using electronic communication or audio-video means, instead of requiring physical presence.",
+        "essential_elements": [
+          "The provision covers all trials, inquiries and proceedings under the Sanhita.",
+          "It expressly lists issuance, service and execution of summons and warrant as coverable.",
+          "It expressly lists examination of complainant and witnesses as coverable.",
+          "It expressly lists recording of evidence in inquiries and trials as coverable.",
+          "It expressly lists all appellate proceedings or any other proceeding as coverable.",
+          "Such proceedings 'may' -- not must -- be held electronically, by electronic communication or audio-video electronic means."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the Sanhita's technology-modernisation cornerstone, working together with the electronic-FIR, electronic-summons, and electronic-evidence provisions found earlier in the Sanhita -- it is permissive ('may'), so a party cannot demand a purely electronic proceeding as of right, but it removes any doubt that courts and police may lawfully conduct these steps online."
+      }
+    },
+    {
+      "number": "531",
+      "title": "Repeal and savings",
+      "raw_text": "531. Repeal and savings.—(1) The Code of Criminal Procedure, 1973 (2 of 1974) is hereby repealed.\n    (2) Notwithstanding such repeal—\n        (a) if, immediately before the date on which this Sanhita comes into force, there is any appeal, application, trial, inquiry or investigation pending, then, such appeal, application, trial, inquiry or investigation shall be disposed of, continued, held or made, as the case may be, in accordance with the provisions of the Code of Criminal Procedure, 1973 (2 of 1974), as in force immediately before such commencement (hereinafter referred to as the said Code), as if this Sanhita had not come into force;\n        (b) all notifications published, proclamations issued, powers conferred, forms provided by rules, local jurisdictions defined, sentences passed and orders, rules and appointments, not being appointments as Special Magistrates, made under the said Code and which are in force immediately before the commencement of this Sanhita, shall be deemed, respectively, to have been published, issued, conferred, specified, defined, passed or made under the corresponding provisions of this Sanhita;\n        (c) any sanction accorded or consent given under the said Code in pursuance of which no proceeding was commenced under that Code, shall be deemed to have been accorded or given under the corresponding provisions of this Sanhita and proceedings may be commenced under this Sanhita in pursuance of such sanction or consent.\n    (3) Where the period specified for an application or other proceeding under the said Code had expired on or before the commencement of this Sanhita, nothing in this Sanhita shall be construed as enabling any such application to be made or proceeding to be commenced under this Sanhita by reason only of the fact that a longer period therefor is specified by this Sanhita or provisions are made in this Sanhita for the extension of time.",
+      "key_terms": [
+        "repeal",
+        "Code of Criminal Procedure, 1973",
+        "savings",
+        "pending",
+        "sanction"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the Sanhita's final section, and its transition bridge from the old law to the new. Subsection (1) repeals the Code of Criminal Procedure, 1973, outright. But subsections (2) and (3) are 'savings' clauses softening that repeal's impact: pending appeals, applications, trials, inquiries, and investigations continue under the old Code as if the Sanhita never came into force; things already done under the old Code (notifications, forms, jurisdictions, sentences, orders, rules, and most appointments) are deemed to have been done under the new Sanhita's equivalent provisions; and sanctions or consents already given but not yet acted upon carry over to support proceedings under the new Sanhita. Subsection (3), however, is a limit on that generosity: if a limitation period under the old Code had already expired before the Sanhita commenced, the Sanhita's own (possibly longer) limitation periods cannot be used to revive it.",
+        "essential_elements": [
+          "Subsection (1): the Code of Criminal Procedure, 1973 is repealed.",
+          "Subsection (2)(a): matters pending immediately before commencement continue to be governed by the old Code as if the Sanhita had not come into force.",
+          "Subsection (2)(b): notifications, proclamations, conferred powers, prescribed forms, defined jurisdictions, passed sentences, and orders/rules/appointments (other than Special Magistrate appointments) made under the old Code and still in force are deemed made under the Sanhita's corresponding provisions.",
+          "Subsection (2)(c): sanctions or consents given under the old Code, where no proceeding had yet begun, are deemed given under the Sanhita, and proceedings may now be commenced under the Sanhita on that basis.",
+          "Subsection (3): where a limitation period under the old Code had already expired before the Sanhita commenced, the Sanhita's provisions (including any longer periods or extension mechanisms) cannot be used to enable an application or proceeding that was already time-barred."
+        ],
+        "exceptions_and_qualifications": [
+          "Appointments as Special Magistrates are expressly carved out of subsection (2)(b)'s savings -- they are not automatically deemed to continue under the Sanhita.",
+          "Subsection (3) is itself an exception to the generally generous savings scheme -- it prevents the Sanhita's provisions from reviving claims already dead under the old Code's limitation rules."
+        ],
+        "how_to_read": "This closing section is essential in any transitional dispute over whether the old Code or the new Sanhita governs a given case: the default rule is 'pending matters continue under the old Code, everything else deemed carried over,' but always check subsection (3) where limitation has already run out under the old Code before concluding the new Sanhita revives it."
       }
     }
   ]
