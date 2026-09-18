@@ -293,7 +293,14 @@
     "jailor": "The officer with direct custodial charge of a jail. Under section 460, a warrant for a prisoner's confinement in a jail must be lodged with the jailor, completing the execution chain that begins with the Court forwarding the warrant (section 458) and directing it to the officer in charge of the confining place (section 459).",
     "arrears of land revenue": "Unpaid dues owed to the State on account of land revenue, recoverable through a well-established summary coercive-recovery machinery under revenue law (attachment/sale of the defaulter's property by the Collector, without needing a fresh civil suit). Section 461(1)(b) lets a Court issue a warrant to the Collector authorising him to realise an unpaid fine using this same land-revenue-recovery machinery, against the offender's movable or immovable property -- but section 461(3) bars using it to arrest or imprison the offender.",
     "rigorous imprisonment": "A form of imprisonment involving hard labour, as distinct from simple imprisonment (confinement without compulsory labour). Section 466(3) deems rigorous imprisonment 'severer in kind' than simple imprisonment for the purpose of determining when a new sentence on an escaped convict takes effect immediately versus only after the unexpired portion of the earlier sentence.",
-    "simple imprisonment": "A form of imprisonment without compulsory hard labour, as distinct from rigorous imprisonment. Under section 466(3), it is deemed the less severe of the two kinds when comparing sentences for purposes of the escaped-convict rules."
+    "simple imprisonment": "A form of imprisonment without compulsory hard labour, as distinct from rigorous imprisonment. Under section 466(3), it is deemed the less severe of the two kinds when comparing sentences for purposes of the escaped-convict rules.",
+    "mercy petition": "A petition filed by a death-sentenced convict (or his legal heir/relative) seeking clemency from the Governor (under Article 161 of the Constitution) or the President (under Article 72), the only route for relief once judicial remedies (appeal, review, special leave) are exhausted. Section 472 sets strict timelines -- thirty days to file after being informed of exhaustion of judicial remedies, then sixty days from a Governor's rejection/disposal to escalate to the President -- and makes the eventual Presidential/Gubernatorial order final and immune from judicial appeal or inquiry into how the decision was reached (section 472(7)).",
+    "president": "The President of India, who under Article 72 of the Constitution holds the power to grant pardons, reprieves, respites, or remissions of punishment, or to suspend, remit, or commute a sentence -- including, most significantly, a sentence of death. Section 472 channels mercy petitions in death sentence cases to the President (after first going to the Governor), and section 472(7) makes the President's decision final and non-appealable.",
+    "governor": "The Governor of a State, who under Article 161 of the Constitution holds a power of pardon, reprieve, respite, or remission of punishment, or to suspend, remit, or commute a sentence, parallel to the President's Article 72 power. Section 472(2) requires a death-sentence mercy petition to be made initially to the Governor, escalating to the President only upon the Governor's rejection or disposal.",
+    "superintendent of jail": "The officer in charge of a jail, who under section 472 bears specific procedural duties in death sentence cases: informing the convict of the dismissal of his appeal/review/special leave or of death-sentence confirmation (triggering the thirty-day mercy-petition window), ensuring every convict in a multi-convict case files a mercy petition, and forwarding case records to the government where a convict fails to do so, plus receiving communication of the President's final order within forty-eight hours.",
+    "appropriate government": "As defined in section 473(7), either the Central Government (where the sentence/order relates to a matter within the Union's executive power) or the State Government (in other cases) -- whichever government holds the power under sections 473 and 474 to suspend, remit, or commute a sentence in a given case.",
+    "suspension": "The temporary deferral of a sentence's execution, without altering its underlying character or duration -- as distinct from remission (permanent reduction of the term) and commutation (substitution of a different, lesser kind of punishment). Section 473 empowers the appropriate Government to suspend a sentence's execution, with or without conditions.",
+    "remission": "A reduction of the whole or part of the punishment to which a person has been sentenced, without changing its character -- as distinct from commutation (substituting a different kind of punishment) and suspension (temporary deferral without reduction). Section 473 empowers the appropriate Government to remit a sentence, subject to conditions it may impose and to the restrictions in section 475 for certain life-imprisonment cases."
   },
   "sections": [
     {
@@ -10501,6 +10508,122 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This return-and-certify step is the final link in the chain that began with sections 458-459 (forwarding and directing the warrant) and 465 (who may issue it) -- together they form a complete, auditable execution lifecycle from sentencing to confirmed completion."
+      }
+    },
+    {
+      "number": "471",
+      "title": "Money ordered to be paid recoverable as a fine",
+      "raw_text": "471. Money ordered to be paid recoverable as a fine.—Any money (other than a fine) payable by\nvirtue of any order made under this Sanhita, and the method of recovery of which is not otherwise expressly\nprovided for, shall be recoverable as if it were a fine:\n    Provided that section 461 shall, in its application to an order under section 400, by virtue of this section,\nbe construed as if in the proviso to sub-section (1) of section 461, after the words and figures \"under section\n395\", the words and figures \"or an order for payment of costs under section 400\" had been inserted.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This closes Part D (General provisions regarding execution) with a default recovery mechanism: any money payable under a Sanhita order (other than a fine itself) that has no other express recovery method specified is simply treated and recovered as if it were a fine, plugging into the entire section 461-464 fine-recovery machinery (attachment/sale, Collector-route land-revenue recovery, installment suspension). A specific drafting fix is included for section 400 costs orders -- section 461's proviso (which normally references only section 395 expenses/compensation orders as an exception to the default-imprisonment-already-served bar) is deemed amended to also reference section 400 costs orders, ensuring costs orders get the same treatment.",
+        "essential_elements": [
+          "Any money payable under a Sanhita order, other than a fine, with no other express recovery method, is recoverable as if it were a fine.",
+          "This plugs such orders into the full section 461-464 fine-recovery machinery.",
+          "A specific proviso extends section 461's section 395 cross-reference to also cover section 400 costs orders."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a catch-all default-recovery provision -- whenever a Sanhita order requires payment of money and you can't find a bespoke recovery mechanism elsewhere in the Sanhita, section 471 supplies one by routing it through the fine-recovery machinery."
+      }
+    },
+    {
+      "number": "472",
+      "title": "Mercy petition in death sentence cases",
+      "raw_text": "472. Mercy petition in death sentence cases.—(1) A convict under the sentence of death or his legal\nheir or any other relative may, if he has not already submitted a petition for mercy, file a mercy petition\nbefore the President of India under article 72 or the Governor of the State under article 161 of the\nConstitution within a period of thirty days from the date on which the Superintendent of the jail, —\n       (i) informs him about the dismissal of the appeal, review or special leave to appeal by the Supreme\n    Court; or\n        (ii) informs him about the date of confirmation of the sentence of death by the High Court and the\n    time allowed to file an appeal or special leave in the Supreme Court has expired.\n    (2) The petition under sub-section (1) may, initially be made to the Governor and on its rejection or\ndisposal by the Governor, the petition shall be made to the President within a period of sixty days from the\ndate of rejection or disposal of such petition.\n    (3) The Superintendent of the jail or officer in charge of the jail shall ensure, that every convict, in case\nthere are more than one convict in a case, also files the mercy petition within a period of sixty days and on\nnon-receipt of such petition from the other convicts, Superintendent of the jail shall send the names,\naddresses, copy of the record of the case and all other details of the case to the Central Government or the\nState Government for consideration along with the said mercy petition.\n    (4) The Central Government shall, on receipt of the mercy petition seek the comments of the State\nGovernment and consider the petition along with the records of the case and make recommendations to the\nPresident in this behalf, as expeditiously as possible, within a period of sixty days from the date of receipt\nof comments of the State Government and records from Superintendent of the Jail.\n    (5) The President may, consider, decide and dispose of the mercy petition and, in case there are more\nthan one convict in a case, the petitions shall be decided by the President together in the interests of justice.\n    (6) Upon receipt of the order of the President on the mercy petition, the Central Government shall\nwithin forty-eight hours, communicate the same to the Home Department of the State Government and the\nSuperintendent of the jail or officer in charge of the jail.\n    (7) No appeal shall lie in any Court against the order of the President or of the Governor made\nunder article 72 or article 161 of the Constitution and it shall be final, and any question as to the arriving of\nthe decision by the President or the Governor shall not be inquired into in any Court.",
+      "key_terms": [
+        "mercy petition",
+        "president",
+        "governor",
+        "superintendent of jail",
+        "central government",
+        "state government",
+        "supreme court",
+        "high court"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Part E (Suspension, remission and commutation of sentences) with a detailed, timeline-driven procedure for the executive clemency route in death sentence cases -- the last resort after judicial remedies are exhausted. A death-sentenced convict (or his legal heir/relative) gets thirty days from being informed of either the Supreme Court's dismissal of his appeal/review/special leave, or the expiry of his time to approach the Supreme Court after High Court confirmation, to file a mercy petition. The petition goes first to the Governor; if rejected or disposed of, the convict has sixty days to escalate to the President. Where multiple convicts share a case, the jail Superintendent must ensure all of them file, and must proactively forward case details to the Government for any convict who doesn't. The Central Government must gather State Government comments and make recommendations to the President within sixty days of receiving those comments and records. The President decides -- and for multiple convicts in the same case, must decide all their petitions together, in the interests of justice (avoiding inconsistent clemency outcomes for co-convicts). Once decided, the Central Government must notify the State's Home Department and the jail Superintendent within forty-eight hours. And critically, sub-section (7) makes the President's or Governor's clemency decision completely final and unappealable -- no Court may even inquire into how the decision was reached.",
+        "essential_elements": [
+          "A death-row convict (or his legal heir/relative) may file a mercy petition within 30 days of being informed of judicial-remedy exhaustion (Supreme Court dismissal, or expiry of the appeal window after High Court confirmation).",
+          "The petition goes first to the Governor; upon rejection/disposal, the convict has 60 days to escalate to the President.",
+          "The jail Superintendent must ensure all co-convicts in a multi-convict case file mercy petitions, forwarding case details to the Government for any who don't, within 60 days.",
+          "The Central Government must seek State Government comments and make recommendations to the President within 60 days of receiving those comments and records.",
+          "The President decides the petition(s); multiple convicts in the same case must have their petitions decided together.",
+          "The Central Government must communicate the President's order to the State Home Department and jail Superintendent within 48 hours.",
+          "The President's or Governor's order is final, unappealable, and immune even from judicial inquiry into how the decision was reached."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-section (7)'s finality bar is absolute -- it excludes both appeal and any inquiry into the decision-making process, not just review on the merits."
+        ],
+        "how_to_read": "The strict, cascading timelines here (30 days to file, 60 days Governor-to-President escalation, 60 days for Central Government recommendations, 48 hours for post-decision communication) are the practical heart of this section -- missing any deadline can have irreversible consequences in a death-sentence case, so counsel must track each trigger date precisely."
+      }
+    },
+    {
+      "number": "473",
+      "title": "Power to suspend or remit sentences",
+      "raw_text": "473. Power to suspend or remit sentences.—(1) When any person has been sentenced to punishment\nfor an offence, the appropriate Government may, at any time, without conditions or upon any conditions\nwhich the person sentenced accepts, suspend the execution of his sentence or remit the whole or any part\nof the punishment to which he has been sentenced.\n    (2) Whenever an application is made to the appropriate Government for the suspension or remission of\na sentence, the appropriate Government may require the presiding Judge of the Court before or by which\nthe conviction was had or confirmed, to state his opinion as to whether the application should be granted or\nrefused, together with his reasons for such opinion and also to forward with the statement of such opinion\na certified copy of the record of the trial or of such record thereof as exists.\n    (3) If any condition on which a sentence has been suspended or remitted is, in the opinion of the\nappropriate Government, not fulfilled, the appropriate Government may cancel the suspension or remission,\nand thereupon the person in whose favour the sentence has been suspended or remitted may, if at large, be\narrested by any police officer, without warrant and remanded to undergo the unexpired portion of the\nsentence.\n    (4) The condition on which a sentence is suspended or remitted under this section may be one to be\nfulfilled by the person in whose favour the sentence is suspended or remitted, or one independent of his\nwill.\n    (5) The appropriate Government may, by general rules or special orders, give directions as to the\nsuspension of sentences and the conditions on which petitions should be presented and dealt with:\n    Provided that in the case of any sentence (other than a sentence of fine) passed on a person above the\nage of eighteen years, no such petition by the person sentenced or by any other person on his behalf shall\nbe entertained, unless the person sentenced is in jail, and—\n         (a) where such petition is made by the person sentenced, it is presented through the officer in charge\n    of the jail; or\n        (b) where such petition is made by any other person, it contains a declaration that the person\n    sentenced is in jail.\n    (6) The provisions of the above sub-sections shall also apply to any order passed by a Criminal Court\nunder any section of this Sanhita or of any other law, which restricts the liberty of any person or imposes\nany liability upon him or his property.\n    (7) In this section and in section 474, the expression \"appropriate Government\" means,—\n        (a) in cases where the sentence is for an offence against, or the order referred to in sub-section (6)\n    is passed under, any law relating to a matter to which the executive power of the Union extends, the\n    Central Government;\n        (b) in other cases, the Government of the State within which the offender is sentenced or the said\n    order is passed.",
+      "key_terms": [
+        "appropriate government",
+        "suspension",
+        "remission"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the general executive clemency power (distinct from the death-sentence-specific mercy petition of section 472), letting the appropriate Government suspend execution of, or remit whole or part of, any sentence -- with or without conditions the sentenced person accepts. Before deciding, the Government may seek the trial/confirming Judge's opinion and reasons, along with the trial record. If an accepted condition is later breached, the Government may cancel the suspension/remission, and the person may be arrested without warrant by any police officer and remanded to serve out the unexpired sentence -- conditions can bind the person's own conduct, or be entirely independent of his will (e.g., a change in law or circumstance). The Government may set general rules for how suspension petitions are handled, but a protective proviso requires that (for non-fine sentences on adults) such petitions only be entertained if the sentenced person is actually in jail, and channeled either through the jail officer-in-charge (if filed by the sentenced person) or with a declaration of jail-custody (if filed by someone else) -- preventing petitions from persons who are, say, absconding or out on bail from clogging this clemency channel. The same framework extends to any liberty-restricting or liability-imposing order under this Sanhita or any other law, not just formal sentences. And sub-section (7) defines 'appropriate Government' for both this section and section 474: Central Government for Union-executive-power matters, State Government otherwise.",
+        "essential_elements": [
+          "The appropriate Government may, at any time, suspend execution of a sentence or remit it wholly/partly, with or without conditions the sentenced person accepts.",
+          "The Government may seek the presiding/confirming Judge's opinion and the trial record before deciding.",
+          "Breach of a suspension/remission condition lets the Government cancel it; the person may then be arrested without warrant and remanded to serve the unexpired sentence.",
+          "Conditions may bind the sentenced person's own conduct or be independent of his will.",
+          "The Government may make general rules on suspension petitions; for non-fine adult sentences, petitions are entertained only if the person is in jail, via the jail officer-in-charge or with a declaration of custody.",
+          "The same framework applies to any liberty-restricting or property-liability-imposing order under this Sanhita or other law.",
+          "'Appropriate Government' means the Central Government for Union-executive-power matters, and the State Government otherwise."
+        ],
+        "exceptions_and_qualifications": [
+          "The jail-custody filing requirement doesn't apply to fine sentences or to persons below eighteen years of age."
+        ],
+        "how_to_read": "This general suspension/remission power under section 473 operates alongside, not instead of, the death-sentence-specific mercy petition machinery of section 472 -- the two exist for overlapping but distinct scenarios (all sentences generally, versus death sentences specifically via Presidential/Gubernatorial constitutional power)."
+      }
+    },
+    {
+      "number": "474",
+      "title": "Power to commute sentence",
+      "raw_text": "474. Power to commute sentence.—The appropriate Government may, without the consent of the\nperson sentenced, commute—\n        (a) a sentence of death, for imprisonment for life;\n        (b) a sentence of imprisonment for life, for imprisonment for a term not less than seven years;\n        (c) a sentence of imprisonment for seven years or more, for imprisonment for a term not less than\n    three years;\n        (d) a sentence of imprisonment for less than seven years, for fine;\n       (e) a sentence of rigorous imprisonment, for simple imprisonment for any term to which that person\n    might have been sentenced.",
+      "key_terms": [
+        "appropriate government",
+        "commutation",
+        "imprisonment for life",
+        "rigorous imprisonment",
+        "simple imprisonment"
+      ],
+      "breakdown": {
+        "plain_summary": "This gives the appropriate Government a structured ladder of commutation options -- substituting a lesser kind of punishment for a harsher one already imposed -- and, notably, this power can be exercised without the sentenced person's consent (unlike the conditions-based suspension/remission scheme of section 473, where the person must accept any conditions). Five specific commutation moves are authorized: death down to life imprisonment; life imprisonment down to a term of at least seven years; a term of seven-plus years down to a term of at least three years; a term of less than seven years down to a fine; and rigorous imprisonment down to simple imprisonment for whatever term the person could have received.",
+        "essential_elements": [
+          "The appropriate Government may commute a sentence without the sentenced person's consent.",
+          "Death may be commuted to imprisonment for life.",
+          "Imprisonment for life may be commuted to a term of not less than seven years.",
+          "A term of seven years or more may be commuted to a term of not less than three years.",
+          "A term of less than seven years may be commuted to a fine.",
+          "Rigorous imprisonment may be commuted to simple imprisonment for any term the person might have received."
+        ],
+        "exceptions_and_qualifications": [
+          "This commutation power expressly does not require the sentenced person's consent -- a sharp contrast to section 473's suspension/remission conditions, which the person must accept."
+        ],
+        "how_to_read": "Note the minimum floors built into each commutation step (not less than seven years for life imprisonment, not less than three years for a seven-plus-year term) -- commutation is not a blank cheque to reduce a sentence to any lesser amount; it must land within the specific bands this section fixes."
+      }
+    },
+    {
+      "number": "475",
+      "title": "Restriction on powers of remission or commutation in certain cases",
+      "raw_text": "475. Restriction on powers of remission or commutation in certain cases.—Notwithstanding\nanything contained in section 473, where a sentence of imprisonment for life is imposed on conviction of a\nperson for an offence for which death is one of the punishments provided by law, or where a sentence of\ndeath imposed on a person has been commuted under section 474 into one of imprisonment for life, such\nperson shall not be released from prison unless he had served at least fourteen years of imprisonment.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This is a hard floor overriding section 473's general remission power (non-obstante opening) for two specific categories of life-imprisonment cases: (1) where life imprisonment was imposed for an offence for which death was also an available punishment, or (2) where a death sentence was commuted to life imprisonment under section 474. In either scenario, the person cannot be released from prison until he has actually served at least fourteen years -- no remission, however generous, can bring actual release below that fourteen-year floor. This is the section referenced by section 468's proviso, which directs pre-conviction detention to be set off against this fourteen-year period rather than against a notional 'life' term.",
+        "essential_elements": [
+          "Applies where life imprisonment is imposed for a death-eligible offence, or where a death sentence is commuted to life imprisonment under section 474.",
+          "In either case, the person cannot be released from prison until he has served at least fourteen years of imprisonment.",
+          "This overrides section 473's general remission power to that extent."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This fourteen-year floor is a frequently litigated benchmark in Indian sentencing practice -- always check whether a life sentence falls into one of these two triggering categories before assuming ordinary remission policies can shorten actual custody below fourteen years."
       }
     }
   ]
