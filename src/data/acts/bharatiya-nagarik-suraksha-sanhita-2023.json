@@ -183,7 +183,9 @@
     "conviction": "The Court's formal finding, after trial, that the accused is guilty of the offence charged.",
     "discharge": "An order releasing an accused person from a case before trial proper begins, made when the Judge finds insufficient ground to proceed against him — distinct from an acquittal, which follows a full trial on the merits.",
     "plea": "The accused's formal response to a charge once it has been read and explained to him — typically either pleading guilty (admitting the offence) or claiming to be tried (denying it and requiring the prosecution to prove its case).",
-    "cross-examination": "The questioning of a witness by the opposing party (typically the defence, for a prosecution witness) after that witness's initial examination, aimed at testing or challenging the witness's testimony."
+    "cross-examination": "The questioning of a witness by the opposing party (typically the defence, for a prosecution witness) after that witness's initial examination, aimed at testing or challenging the witness's testimony.",
+    "in camera": "A trial or hearing conducted privately, with the general public excluded from the courtroom — as opposed to an open, public hearing.",
+    "compensation": "A sum of money ordered to be paid, under section 260, by a person whose unfounded accusation led to a discharge or acquittal, to the wrongly accused person -- distinct from a fine, though recovered in the same manner as one."
   },
   "sections": [
     {
@@ -5972,6 +5974,152 @@
           "The audio-video electronic recording options in (1) and (2) are permissive, not mandatory — the default in-person mode of evidence remains available and is not displaced."
         ],
         "how_to_read": "Read (1)-(2) as the Sanhita's embrace of remote evidence-taking (general witnesses under (1)'s proviso, public servants specifically under (2)), and (3) as a separate, purely case-management power over cross-examination sequencing and recall."
+      }
+    },
+    {
+      "number": "255",
+      "title": "Acquittal",
+      "raw_text": "255. Acquittal.—If, after taking the evidence for the prosecution, examining the accused and hearing\n    the prosecution and the defence on the point, the Judge considers that there is no evidence that the accused\n    committed the offence, the Judge shall record an order of acquittal.",
+      "key_terms": [
+        "acquittal",
+        "evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "This section supplies the Sessions trial's first exit ramp for the accused, positioned right after the prosecution's evidence has been taken (section 254) and before the accused is ever called upon to mount a defence (section 256). It functions much like a 'no case to answer' checkpoint: having now heard the prosecution's evidence, examined the accused, and heard both sides argue the point, the Judge must ask a narrow, evidence-only question -- is there any evidence at all that the accused committed the offence? This is deliberately a lower threshold than asking whether the prosecution has proved guilt beyond reasonable doubt; it only asks whether there is a case to answer in the first place. If the answer is no -- if the prosecution's evidence, even taken at its highest, does not implicate the accused -- the Judge is not merely permitted but affirmatively required ('shall') to record an acquittal at this stage, sparing the accused the burden of mounting a defence to a case that was never made out.",
+        "essential_elements": [
+          "Precondition: prosecution's evidence has been taken (section 254), the accused has been examined, and the Judge has heard both prosecution and defence on the specific point of whether there is any evidence of guilt",
+          "Test applied: whether there is no evidence that the accused committed the offence (not whether guilt is proved beyond reasonable doubt -- a lower, threshold-only inquiry)",
+          "Outcome if the test is met: the Judge shall record an order of acquittal -- a mandatory, non-discretionary duty",
+          "This acquittal occurs before the defence stage (section 256) is ever reached"
+        ],
+        "exceptions_and_qualifications": [
+          "This is not a merits acquittal weighing the credibility or sufficiency of evidence -- it is a threshold screen asking only whether any evidence of guilt exists at all; if some evidence exists (even if weak), the case proceeds to the defence stage under section 256 instead.",
+          "The duty to acquit here is mandatory ('shall'), leaving no discretion to the Judge once the no-evidence finding is made."
+        ],
+        "how_to_read": "Read this as the Sessions-trial mirror of the 'no case to answer' checkpoints found elsewhere in the Sanhita's trial chapters -- a safety valve that prevents an accused from being forced into a defence when the prosecution's own evidence, even unrebutted, does not implicate him. If the accused is not acquitted here, the trial moves forward into section 256 (Entering upon defence)."
+      }
+    },
+    {
+      "number": "256",
+      "title": "Entering upon defence",
+      "raw_text": "256. Entering upon defence.—(1) Where the accused is not acquitted under section 255, he shall be\n    called upon to enter on his defence and adduce any evidence he may have in support thereof.\n\n        (2) If the accused puts in any written statement, the Judge shall file it with the record.\n        (3) If the accused applies for the issue of any process for compelling the attendance of any witness or\n    the production of any document or thing, the Judge shall issue such process unless he considers, for reasons\n    to be recorded, that such application should be refused on the ground that it is made for the purpose of\n    vexation or delay or for defeating the ends of justice.",
+      "key_terms": [
+        "defence",
+        "process"
+      ],
+      "breakdown": {
+        "plain_summary": "Once the accused survives the section 255 no-evidence screen, the trial formally shifts to the defence's turn. Sub-section (1) calls upon the accused to enter on his defence -- to actually put forward whatever evidence he has in his favour, if any (there is no obligation to present a defence at all; the accused may rest on the prosecution's failure to prove its case). Sub-section (2) is a simple recordkeeping duty: if the accused chooses to put in a written statement, the Judge must file it with the case record so it becomes part of the permanent record available on appeal or revision. Sub-section (3) gives the accused the same compulsory-process power the prosecution enjoys -- the right to have the Court compel the attendance of defence witnesses or the production of documents or things -- but this right is not absolute: the Judge may refuse the application if he records specific reasons for concluding it is a tactic aimed at vexation, delay, or defeating the ends of justice, protecting the trial from being weaponised through frivolous or abusive process applications.",
+        "essential_elements": [
+          "Triggered only where the accused was not acquitted under section 255",
+          "The accused is called upon to enter on his defence and may adduce any evidence he has in support",
+          "Any written statement put in by the accused must be filed with the record by the Judge",
+          "The accused may apply for process to compel attendance of witnesses or production of documents/things",
+          "Such process must be issued unless the Judge, for reasons recorded in writing, refuses it as vexatious, dilatory, or aimed at defeating the ends of justice"
+        ],
+        "exceptions_and_qualifications": [
+          "The accused is not compelled to adduce any evidence at all -- the section only requires that he be given the opportunity ('called upon'), not that he must exercise it.",
+          "The right to compulsory process for defence witnesses/documents is presumptively granted, and refusal requires the Judge to record specific reasons -- a deliberate procedural safeguard against arbitrary denial of defence rights."
+        ],
+        "how_to_read": "Read this as the defence-side counterpart to sections 253-254 (which set up the prosecution's evidence-taking stage) -- the same basic machinery (fixing evidence, summoning witnesses/documents) now runs in the accused's favour, with a built-in check against abuse of the process power. After the defence evidence (if any) is complete, the trial moves to closing arguments under section 257."
+      }
+    },
+    {
+      "number": "257",
+      "title": "Arguments",
+      "raw_text": "257. Arguments.—When the examination of the witnesses (if any) for the defence is complete, the\n    prosecutor shall sum up his case and the accused or his advocate shall be entitled to reply:\n        Provided that where any point of law is raised by the accused or his advocate, the prosecution may,\n    with the permission of the Judge, make his submissions with regard to such point of law.",
+      "key_terms": [
+        "arguments",
+        "advocate"
+      ],
+      "breakdown": {
+        "plain_summary": "This section structures the closing-arguments phase of a Sessions trial, once all evidence -- prosecution and defence alike -- has been led. The default sequence gives the prosecutor the first word (summing up the case built through the evidence) and then guarantees the accused, or his advocate, the right to reply -- the defence effectively gets the last word on the facts, a traditional protection reflecting the presumption of innocence and the burden resting on the prosecution. The proviso carves out a narrow exception for pure points of law: if the accused or his advocate raises a legal issue (as opposed to a factual argument) during his reply, the prosecution is not simply shut out -- it may, but only with the Judge's permission, respond specifically to that point of law. This prevents the defence from sandbagging the prosecution with an unanswerable legal argument saved for the very last word, while still preserving the defence's general right to close on the facts.",
+        "essential_elements": [
+          "Triggered once examination of defence witnesses (if any) is complete",
+          "Default order: prosecutor sums up his case first",
+          "The accused or his advocate is then entitled to reply -- and effectively gets the last word on the facts",
+          "Proviso: if the accused/advocate raises a point of law, the prosecution may respond to that specific legal point, but only with the Judge's permission"
+        ],
+        "exceptions_and_qualifications": [
+          "The prosecution's right to respond to a point of law is not automatic -- it requires the Judge's permission, and is limited strictly to the point of law raised, not a general re-argument of the facts.",
+          "This section applies regardless of whether the defence actually led any evidence -- 'if any' makes clear the arguments phase proceeds even where the accused adduced no defence evidence at all."
+        ],
+        "how_to_read": "Read this as the bridge between the evidence-taking stages (sections 253-256) and the judgment stage (section 258) -- it is purely a sequencing rule for oral advocacy, not a source of any new substantive right or duty. Once arguments conclude, the Judge must render judgment under section 258."
+      }
+    },
+    {
+      "number": "258",
+      "title": "Judgment of acquittal or conviction",
+      "raw_text": "258. Judgment of acquittal or conviction.—(1) After hearing arguments and points of law (if any),\n    the Judge shall give a judgment in the case, as soon as possible, within a period of thirty days from the date\n    of completion of arguments, which may be extended to a period of forty-five days for reasons to be recorded\n    in writing.\n        (2) If the accused is convicted, the Judge shall, unless he proceeds in accordance with the provisions of\n    section 401, hear the accused on the questions of sentence, and then pass sentence on him according to law.",
+      "key_terms": [
+        "judgment",
+        "conviction",
+        "sentence"
+      ],
+      "breakdown": {
+        "plain_summary": "This section imposes a firm judicial timeline on delivering the verdict, one of the Sanhita's recurring speedy-trial reforms: after hearing all arguments and any points of law under section 257, the Judge must deliver judgment -- acquittal or conviction -- within thirty days of the completion of arguments, extendable only to forty-five days, and only where the Judge records his reasons in writing for needing the extra time. This closes off indefinite or unexplained delay between the end of arguments and the pronouncement of the verdict. Sub-section (2) then addresses what happens upon conviction: rather than immediately imposing a sentence, the Judge must separately hear the accused specifically on the question of sentence (a distinct process from the guilt-finding stage, giving the convicted person a chance to plead mitigating circumstances) before passing sentence according to law -- unless the Judge instead proceeds under section 401, a separate mechanism (release on probation of good conduct / after admonition) that substitutes for an ordinary sentence.",
+        "essential_elements": [
+          "Applies after arguments and any points of law (section 257) have been heard",
+          "The Judge shall give judgment within thirty days from the date of completion of arguments",
+          "That period may be extended to forty-five days, but only for reasons recorded in writing",
+          "If the accused is convicted, the Judge must hear the accused specifically on the question of sentence before passing sentence, unless proceeding instead under section 401"
+        ],
+        "exceptions_and_qualifications": [
+          "The thirty-day default period is not absolute -- it may be extended up to forty-five days, but the extension is conditional on the Judge recording written reasons, not a matter of unexplained discretion.",
+          "The separate pre-sentence hearing requirement in sub-section (2) is itself subject to an exception where the Judge instead proceeds under section 401 (dealing with release of certain offenders on probation of good conduct or after admonition rather than ordinary sentencing)."
+        ],
+        "how_to_read": "Read this as both a speedy-trial discipline (the 30/45-day judgment deadline) and a fair-sentencing safeguard (the mandatory separate hearing on sentence before punishment is imposed) bundled into a single section marking the normal endpoint of a Sessions trial. Section 259 then addresses a specialised evidentiary wrinkle -- proof of a previously charged prior conviction -- that can follow immediately after a conviction recorded here."
+      }
+    },
+    {
+      "number": "259",
+      "title": "Previous conviction",
+      "raw_text": "259. Previous conviction.— In a case where a previous conviction is charged under the provisions of\n    sub-section (7) of section 234, and the accused does not admit that he has been previously convicted as\n    alleged in the charge, the Judge may, after he has convicted the said accused under section 252 or section\n    258, take evidence in respect of the alleged previous conviction, and shall record a finding thereon:\n        Provided that no such charge shall be read out by the Judge nor shall the accused be asked to plead\n    thereto nor shall the previous conviction be referred to by the prosecution or in any evidence adduced by it,\n    unless and until the accused has been convicted under section 252 or section 258.",
+      "key_terms": [
+        "previous conviction",
+        "charge",
+        "conviction"
+      ],
+      "breakdown": {
+        "plain_summary": "This section protects an accused from prejudice arising out of a charged previous conviction (charged under section 234(7), which permits alleging a prior conviction where it enhances the punishment liable for the present offence) by strictly sequencing when that prior-conviction allegation may be raised. If the accused does not admit the alleged previous conviction, the Judge may only take evidence on it, and must record a finding on it, after the accused has already been convicted of the present offence -- either on a guilty plea under section 252 or after a full trial under section 258. The proviso makes this sequencing airtight: the previous-conviction charge cannot even be read out to the accused, the accused cannot be asked to plead to it, and neither the prosecution nor any evidence it leads may refer to the previous conviction at all, until and unless the present-offence conviction has already occurred. This prevents the fact of a prior criminal record from tainting the jury's -- or here, the Judge's -- assessment of guilt on the present charge.",
+        "essential_elements": [
+          "Applies where a previous conviction has been charged under section 234(7) and the accused does not admit it",
+          "The Judge may take evidence on the alleged previous conviction, and shall record a finding on it, only after the accused has already been convicted of the present offence (under section 252 or section 258)",
+          "Proviso: the previous-conviction charge may not be read out, the accused may not be asked to plead to it, and neither the prosecution nor its evidence may refer to it, until the present conviction has occurred"
+        ],
+        "exceptions_and_qualifications": [
+          "This sequencing protection applies only where the accused does not admit the previous conviction -- if he admits it, there is no need for this evidence-taking/finding process at all.",
+          "The prohibition in the proviso is comprehensive: it bars not just formal reading of the charge and plea, but any reference to the previous conviction by the prosecution or its evidence, at any point before the present conviction is recorded."
+        ],
+        "how_to_read": "Read this alongside section 234(7) (which permits charging a previous conviction to support enhanced punishment) as a two-part scheme: the charge may be laid at the outset, but the trial on the present offence must proceed uncontaminated by that allegation until guilt is independently established, with the previous-conviction question addressed only afterward, as an incident of the conviction already secured."
+      }
+    },
+    {
+      "number": "260",
+      "title": "Procedure in cases instituted under sub-section (2) of section 222",
+      "raw_text": "260. Procedure in cases instituted under sub-section (2) of section 222.—(1) A Court of Session\n    taking cognizance of an offence under sub-section (2) of section 222 shall try the case in accordance with\n    the procedure for the trial of warrant-cases instituted otherwise than on a police report before a Court of\n    Magistrate:\n        Provided that the person against whom the offence is alleged to have been committed shall, unless the\n    Court of Session, for reasons to be recorded, otherwise directs, be examined as a witness for the prosecution.\n        (2) Every trial under this section shall be held in camera if either party thereto so desires or if the Court\n    thinks fit so to do.\n        (3) If, in any such case, the Court discharges or acquits all or any of the accused and is of opinion that\n    there was no reasonable cause for making the accusation against them or any of them, it may, by its order\n    of discharge or acquittal, direct the person against whom the offence was alleged to have been committed\n    (other than the President, the Vice-President or the Governor of a State or the Administrator of a Union\n    territory) to show cause why he should not pay compensation to such accused or to each or any of such\n    accused, when there are more than one.\n        (4) The Court shall record and consider any cause which may be shown by the person so directed, and\n    if it is satisfied that there was no reasonable cause for making the accusation, it may, for reasons to be\n    recorded, make an order that compensation to such amount not exceeding five thousand rupees, as it may\n    determine, be paid by such person to the accused or to each or any of them.\n        (5) Compensation awarded under sub-section (4) shall be recovered as if it were a fine imposed by a\n    Magistrate.\n        (6) No person who has been directed to pay compensation under sub-section (4) shall, by reason of\n    such order, be exempted from any civil or criminal liability in respect of the complaint made under this\n    section:\n        Provided that any amount paid to an accused person under this section shall be taken into account in\n    awarding compensation to such person in any subsequent civil suit relating to the same matter.\n        (7) The person who has been ordered under sub-section (4) to pay compensation may appeal from the\n    order, in so far as it relates to the payment of compensation, to the High Court.\n        (8) When an order for payment of compensation to an accused person is made, the compensation shall\n    not be paid to him before the period allowed for the presentation of the appeal has elapsed, or, if an appeal\n    is presented, before the appeal has been decided.",
+      "key_terms": [
+        "cognizance",
+        "in camera",
+        "discharge",
+        "acquittal",
+        "compensation",
+        "appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "This section closes Chapter XIX with a specialised procedure for a narrow category of cases: those instituted under section 222(2), which deals with complaints of offences against high constitutional functionaries or similar sensitive accusations taken directly on a Court of Session's own cognizance. Sub-section (1) directs that such a case, despite being tried by a Court of Session, must actually follow the procedure for warrant-cases instituted otherwise than on a police report before a Magistrate's Court -- essentially importing Chapter XX's Magistrate-level procedure into a Sessions-level forum for this specific category -- while a proviso ordinarily requires the complainant (the person against whom the offence was allegedly committed) to be examined as a prosecution witness, unless the Court records reasons to excuse this. Sub-section (2) allows the trial to be held in camera (privately, public excluded) if either party wants it or the Court thinks it fit -- reflecting the sensitivity such accusations often carry. Sub-sections (3)-(8) then build a compensation-for-false-accusation regime distinct from ordinary costs: if the accused is discharged or acquitted and the Court believes the accusation had no reasonable cause, it may direct the complainant (except if that complainant were the President, Vice-President, a Governor, or a Union territory Administrator -- who are exempted from this liability) to show cause why he should not pay compensation, capped at five thousand rupees, recoverable like a Magistrate's fine; this compensation liability does not displace any separate civil or criminal liability the complainant may otherwise bear (though sums already paid are credited against any later civil suit for the same matter); the person directed to pay may appeal to the High Court on the compensation point; and the compensation itself is held back from actual payment until the appeal period lapses or any appeal is decided, protecting against payment followed by reversal.",
+        "essential_elements": [
+          "Applies to cases instituted under section 222(2), tried by a Court of Session but following Magistrate-level warrant-case-otherwise-than-on-police-report procedure",
+          "The person against whom the offence was allegedly committed must ordinarily be examined as a prosecution witness, absent recorded reasons excusing this",
+          "Trial may be held in camera on either party's desire or the Court's own view",
+          "On discharge/acquittal with no reasonable cause for the accusation, the Court may call on the complainant to show cause on compensation (up to five thousand rupees), except where the complainant is the President, Vice-President, a State Governor, or a Union territory Administrator",
+          "Compensation is recovered as a fine, does not extinguish separate civil/criminal liability (subject to a set-off proviso for later civil suits), is appealable to the High Court, and is withheld from actual payment until the appeal window closes or any appeal is decided"
+        ],
+        "exceptions_and_qualifications": [
+          "The President, Vice-President, Governor of a State, and Administrator of a Union territory are expressly carved out of the compensation-liability regime under sub-section (3) -- a deliberate constitutional-office exemption.",
+          "Compensation liability under this section is additional to, not a substitute for, other civil or criminal liability the complainant may face for the same complaint -- though amounts actually paid are credited against a later civil damages award on the same matter.",
+          "Actual payment of awarded compensation is suspended pending the appeal period/appeal outcome, protecting the person ordered to pay from an unreversible payment before appellate review concludes."
+        ],
+        "how_to_read": "Read this as a self-contained procedural code-within-a-code for the narrow section 222(2) category -- it borrows Magistrate-level warrant-trial procedure for a Sessions-level forum and bolts on a bespoke compensation-for-false-accusation mechanism to deter baseless complaints against private individuals while carving out constitutional high officers from personal financial exposure. This completes Chapter XIX (Trial before a Court of Session, Sections 248-260) in full; Chapter XX (Trial of Warrant-Cases by Magistrates, beginning with sub-heading A: Cases instituted on a police report) follows at Section 261."
       }
     }
   ]
