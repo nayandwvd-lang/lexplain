@@ -28,8 +28,8 @@
     "place": "Includes a house, building, tent, vehicle and vessel.",
     "police report": "A report forwarded by a police officer to a Magistrate under sub-section (3) of section 193.",
     "police station": "Any post or place declared by the State Government to be a police station, including any local area so specified.",
-    "public prosecutor": "A person appointed under section 18, or a person acting under the directions of a Public Prosecutor.",
-    "sub-division": "A sub-division of a district.",
+    "public prosecutor": "A law officer appointed by the Central or State Government to conduct prosecutions, appeals, or other proceedings on the government's behalf in the High Court or a district.",
+    "sub-division": "A territorial sub-unit of a district, created by the State Government after consultation with the High Court.",
     "summons-case": "A case relating to an offence that is not a warrant-case.",
     "victim": "A person who has suffered loss or injury from an offence, including the guardian or legal heir of such a person.",
     "warrant-case": "A case relating to an offence punishable with death, imprisonment for life, or imprisonment exceeding two years.",
@@ -39,7 +39,37 @@
     "bharatiya nyaya sanhita": "The Bharatiya Nyaya Sanhita, 2023 — India's substantive criminal (penal) code, replacing the Indian Penal Code, 1860.",
     "saving clause": "A statutory provision preserving the operation of other laws or rights that would otherwise be affected by the new enactment.",
     "special law": "A law applicable to a particular subject matter, as distinct from a general law.",
-    "local law": "A law applicable only to a particular part of the country."
+    "local law": "A law applicable only to a particular part of the country.",
+    "criminal courts": "The classes of courts constituted under the Sanhita for criminal trials: Courts of Session, Judicial Magistrates (first and second class), and Executive Magistrates.",
+    "court of session": "The principal criminal trial court of a sessions division, presided over by a Sessions Judge appointed by the High Court.",
+    "sessions division": "A territorial unit of a State, comprising one or more districts, for which a Court of Session is established.",
+    "district": "A territorial sub-unit of a sessions division, for the purposes of the Sanhita.",
+    "sessions judge": "The presiding judicial officer of a Court of Session, appointed by the High Court.",
+    "additional sessions judge": "A judge appointed by the High Court to assist a Sessions Judge in exercising jurisdiction in a Court of Session.",
+    "chief judicial magistrate": "The senior Judicial Magistrate of the first class in a district, appointed by the High Court, subordinate to the Sessions Judge.",
+    "additional chief judicial magistrate": "A Judicial Magistrate of the first class appointed to exercise some or all powers of the Chief Judicial Magistrate.",
+    "sub-divisional judicial magistrate": "A Judicial Magistrate of the first class designated to supervise Judicial Magistrates within a sub-division.",
+    "special judicial magistrate": "A government post-holder conferred Judicial Magistrate powers by the High Court for particular cases or areas, for a term not exceeding one year at a time.",
+    "special court": "A Court of Judicial Magistrates established for a particular case or class of cases, with exclusive jurisdiction over that category in its local area.",
+    "district magistrate": "The senior Executive Magistrate of a district, appointed by the State Government.",
+    "additional district magistrate": "An Executive Magistrate appointed to exercise some or all powers of the District Magistrate.",
+    "sub-divisional magistrate": "An Executive Magistrate placed in charge of a sub-division by the State Government.",
+    "special executive magistrate": "An Executive Magistrate or senior police officer (Superintendent of Police rank or above) appointed for particular areas or functions, for a fixed term.",
+    "commissioner of police": "A senior police officer who may, under other laws, be conferred some or all powers of an Executive Magistrate.",
+    "additional public prosecutor": "A law officer appointed to assist or act alongside the Public Prosecutor.",
+    "special public prosecutor": "An advocate of at least ten years' practice appointed by the Central or State Government to conduct a particular case or class of cases.",
+    "assistant public prosecutor": "A law officer appointed to conduct prosecutions in the Courts of Magistrates.",
+    "panel of names": "A list of persons considered fit for appointment as Public Prosecutor or Additional Public Prosecutor, prepared by the District Magistrate in consultation with the Sessions Judge.",
+    "cadre of prosecuting officers": "A regular service cadre in a State that includes the post of Public Prosecutor and provides for promotion of Assistant Public Prosecutors to that post.",
+    "directorate of prosecution": "A State-level body headed by the Director of Prosecution, functioning under the Home Department, overseeing and monitoring prosecution of criminal cases.",
+    "director of prosecution": "The head of the State's Directorate of Prosecution, responsible for monitoring the most serious criminal cases.",
+    "deputy director of prosecution": "An officer of the Directorate of Prosecution responsible for scrutinising police reports and monitoring mid-severity criminal cases.",
+    "assistant director of prosecution": "An officer of the District Directorate of Prosecution responsible for monitoring less serious criminal cases.",
+    "first schedule": "The Schedule to the Sanhita classifying offences by their triable court, cognizability, and bailability.",
+    "community service": "Unremunerated work ordered by a Court as a form of punishment that benefits the community, available as a sentencing option to Magistrates.",
+    "default imprisonment": "Imprisonment imposed in lieu of payment of a fine, subject to statutory caps under Section 24.",
+    "consecutive sentences": "Sentences for multiple offences at one trial that run one after another, subject to statutory caps on the aggregate term.",
+    "concurrent sentences": "Sentences for multiple offences at one trial that run simultaneously."
   },
   "sections": [
     {
@@ -188,6 +218,466 @@
           "The protection only fails where the BNSS has an explicit, specific contrary provision — general overlap or inconsistency alone is not enough to displace a special law"
         ],
         "how_to_read": "Pair this with Section 4: Section 4 says BNSS is the default procedural code, and Section 5 is the safety net confirming that special/local statutes retain their own jurisdiction, powers and procedures unless the BNSS specifically legislates otherwise."
+      }
+    },
+    {
+      "number": "6",
+      "title": "Classes of Criminal Courts",
+      "raw_text": "Besides the High Courts and the Courts constituted under any law, other than this Sanhita, there shall be, in every State, the following classes of Criminal Courts, namely:—\n(i) Courts of Session;\n(ii) Judicial Magistrates of the first class;\n(iii) Judicial Magistrates of the second class; and\n(iv) Executive Magistrates.",
+      "key_terms": [
+        "Criminal Courts",
+        "Court of Session",
+        "Judicial Magistrate",
+        "Executive Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This section lays the foundation of the entire criminal court hierarchy under the Sanhita. Below the High Courts (which exist under the Constitution, not this Sanhita) and any special courts created by other laws, every State has exactly four classes of Criminal Courts: the Court of Session at the top, then two tiers of Judicial Magistrates (first class, with greater sentencing and procedural powers, and second class), and Executive Magistrates, who handle administrative rather than judicial criminal functions.",
+        "essential_elements": [
+          "Four classes of Criminal Courts in every State: Court of Session, Judicial Magistrates (first class), Judicial Magistrates (second class), Executive Magistrates",
+          "This list is in addition to the High Courts and any courts constituted under other laws"
+        ],
+        "exceptions_and_qualifications": [
+          "Courts constituted under laws other than this Sanhita (e.g., special tribunals) are not covered by, or limited to, this four-class list"
+        ],
+        "how_to_read": "Treat this as the org chart for the rest of the Sanhita — nearly every later section that assigns power to a “Court” or “Magistrate” is assigning it to one of these four classes, so knowing the hierarchy here makes the powers/jurisdiction sections that follow much easier to place."
+      }
+    },
+    {
+      "number": "7",
+      "title": "Territorial divisions",
+      "raw_text": "(1) Every State shall be a sessions division or shall consist of sessions divisions; and every sessions division shall, for the purposes of this Sanhita, be a district or consist of districts.\n(2) The State Government may, after consultation with the High Court, alter the limits or the number of such divisions and districts.\n(3) The State Government may, after consultation with the High Court, divide any district into sub-divisions and may alter the limits or the number of such sub-divisions.\n(4) The sessions divisions, districts and sub-divisions existing in a State at the commencement of this Sanhita, shall be deemed to have been formed under this section.",
+      "key_terms": [
+        "sessions division",
+        "district",
+        "sub-division",
+        "territorial divisions"
+      ],
+      "breakdown": {
+        "plain_summary": "This section carves each State into a nested territorial map that the whole Sanhita's court structure sits on: sessions divisions (made up of one or more districts), which in turn can be further divided into sub-divisions. The State Government controls this map, but only after consulting the High Court — a check that keeps judicial administration input in territorial boundary decisions. Sub-section (4) is a transitional/continuity provision: the divisions that already existed under the old Code of Criminal Procedure carry over automatically as if created under this section, so nothing needs to be redrawn on day one.",
+        "essential_elements": [
+          "Every State is organised into sessions divisions, each made up of one or more districts",
+          "Districts may be further split into sub-divisions",
+          "State Government alters these boundaries only after consulting the High Court",
+          "Pre-existing divisions/districts/sub-divisions are deemed formed under this section (continuity on commencement)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the geographic skeleton underlying Sections 8-20 — every Court of Session, Magistrate, and Public Prosecutor appointed in the following sections operates within a sessions division, district, or sub-division defined here."
+      }
+    },
+    {
+      "number": "8",
+      "title": "Court of Session",
+      "raw_text": "(1) The State Government shall establish a Court of Session for every sessions division.\n(2) Every Court of Session shall be presided over by a Judge, to be appointed by the High Court.\n(3) The High Court may also appoint Additional Sessions Judges to exercise jurisdiction in a Court of Session.\n(4) The Sessions Judge of one sessions division may be appointed by the High Court to be also an Additional Sessions Judge of another division, and in such case, he may sit for the disposal of cases at such place or places in the other division as the High Court may direct.\n(5) Where the office of the Sessions Judge is vacant, the High Court may make arrangements for the disposal of any urgent application which is, or may be, made or pending before such Court of Session by an Additional Sessions Judge or if there be no Additional Sessions Judge, by a Chief Judicial Magistrate, in the sessions division; and every such Judge or Magistrate shall have jurisdiction to deal with any such application.\n(6) The Court of Session shall ordinarily hold its sitting at such place or places as the High Court may, by notification, specify; but, if, in any particular case, the Court of Session is of opinion that it will tend to the general convenience of the parties and witnesses to hold its sittings at any other place in the sessions division, it may, with the consent of the prosecution and the accused, sit at that place for the disposal of the case or the examination of any witness or witnesses therein.\n(7) The Sessions Judge may, from time to time, make orders consistent with this Sanhita, as to the distribution of business among such Additional Sessions Judges.\n(8) The Sessions Judge may also make provision for the disposal of any urgent application, in the event of his absence or inability to act, by an Additional Sessions Judge or if there be no Additional Sessions Judge, by the Chief Judicial Magistrate, and such Judge or Magistrate shall be deemed to have jurisdiction to deal with any such application.\nExplanation.—For the purposes of this Sanhita, “appointment” does not include the first appointment, posting or promotion of a person by the Government to any Service, or post in connection with the affairs of the Union or of a State, where under any law, such appointment, posting or promotion is required to be made by the Government.",
+      "key_terms": [
+        "Court of Session",
+        "Sessions Judge",
+        "Additional Sessions Judge",
+        "Chief Judicial Magistrate",
+        "vacancy arrangements"
+      ],
+      "breakdown": {
+        "plain_summary": "This section establishes the Court of Session — one per sessions division — as the senior trial court under the Sanhita, and works out the mechanics of who presides over it and how continuity is maintained. A Sessions Judge, appointed by the High Court, presides; Additional Sessions Judges may be appointed to share the caseload, and can even be shared across two divisions. If the Sessions Judge's post falls vacant, urgent matters don't stall — an Additional Sessions Judge, or failing that the Chief Judicial Magistrate, steps in with full jurisdiction over urgent applications. The Court normally sits at High-Court-designated places, but can relocate within its division for a particular case if both prosecution and accused consent.",
+        "essential_elements": [
+          "One Court of Session per sessions division, established by the State Government",
+          "Presided over by a Sessions Judge appointed by the High Court; Additional Sessions Judges may also be appointed",
+          "Vacancy in the Sessions Judge's office: urgent applications handled by an Additional Sessions Judge or, absent one, the Chief Judicial Magistrate",
+          "Ordinary sitting place fixed by High Court notification; relocation within the division for a specific case requires both prosecution's and accused's consent",
+          "Sessions Judge distributes business among Additional Sessions Judges and provides for urgent matters during his own absence"
+        ],
+        "exceptions_and_qualifications": [
+          "The Explanation clarifies “appointment” under the Sanhita excludes a person's very first appointment, posting or promotion to a government post/service — relevant to interpreting other appointment-related provisions in this Chapter"
+        ],
+        "how_to_read": "Read sub-sections (5) and (8) together as the Sanhita's built-in continuity mechanism for Sessions Courts — whether the vacancy is in the top post or the Sessions Judge is merely absent, the Sanhita always identifies a fallback officer with full jurisdiction so urgent matters are never left unaddressed."
+      }
+    },
+    {
+      "number": "9",
+      "title": "Courts of Judicial Magistrates",
+      "raw_text": "(1) In every district there shall be established as many Courts of Judicial Magistrates of the first class and of the second class, and at such places, as the State Government may, after consultation with the High Court, by notification, specify:\nProvided that the State Government may, after consultation with the High Court, establish, for any local area, one or more Special Courts of Judicial Magistrates of the first class or of the second class to try any particular case or particular class of cases, and where any such Special Court is established, no other Court of Magistrate in the local area shall have jurisdiction to try any case or class of cases for the trial of which such Special Court of Judicial Magistrate has been established.\n(2) The presiding officers of such Courts shall be appointed by the High Court.\n(3) The High Court may, whenever it appears to it to be expedient or necessary, confer the powers of a Judicial Magistrate of the first class or of the second class on any member of the Judicial Service of the State, functioning as a Judge in a Civil Court.",
+      "key_terms": [
+        "Courts of Judicial Magistrates",
+        "Special Court",
+        "presiding officer",
+        "Civil Court Judge"
+      ],
+      "breakdown": {
+        "plain_summary": "This section sets up the Judicial Magistrate courts at the district level — the workhorses of everyday criminal trials. The State Government (after consulting the High Court) decides how many first-class and second-class Magistrate courts a district needs and where they sit, and can also carve out Special Courts dedicated to particular cases or categories of cases, which then have exclusive jurisdiction over that category in the local area (ousting other Magistrate courts there). The High Court appoints the presiding officers, and can also give Magisterial powers to a sitting Civil Court Judge — a flexible mechanism to use existing judicial manpower for criminal work.",
+        "essential_elements": [
+          "District-level Courts of Judicial Magistrates (first and second class), number and location fixed by State Government notification after High Court consultation",
+          "Special Courts of Judicial Magistrates may be created for particular cases/classes of cases in a local area, with exclusive jurisdiction over that category once established",
+          "Presiding officers appointed by the High Court",
+          "High Court may confer Judicial Magistrate powers on a civil-court Judge from the State Judicial Service"
+        ],
+        "exceptions_and_qualifications": [
+          "Once a Special Court is established for a category of cases in a local area, no other Magistrate court in that area retains jurisdiction over that category — exclusivity is automatic on establishment"
+        ],
+        "how_to_read": "Note the proviso's exclusivity effect carefully: creating a Special Court isn't just adding another forum — it strips jurisdiction from every other Magistrate court in that local area for the specified class of cases, which matters when checking which court a case must be filed in."
+      }
+    },
+    {
+      "number": "10",
+      "title": "Chief Judicial Magistrate and Additional Chief Judicial Magistrate, etc.",
+      "raw_text": "(1) In every district, the High Court shall appoint a Judicial Magistrate of the first class to be the Chief Judicial Magistrate.\n(2) The High Court may appoint any Judicial Magistrate of the first class to be an Additional Chief Judicial magistrate, and such Magistrate shall have all or any of the powers of a Chief Judicial Magistrate under this Sanhita or under any other law for the time being in force as the High Court may direct.\n(3) The High Court may designate any Judicial Magistrate of the first class in any sub-division as the Sub-divisional Judicial Magistrate and relieve him of the responsibilities specified in this section as occasion requires.\n(4) Subject to the general control of the Chief Judicial Magistrate, every Sub-divisional Judicial Magistrate shall also have and exercise, such powers of supervision and control over the work of the Judicial Magistrates (other than Additional Chief Judicial Magistrates) in the sub-division as the High Court may, by general or special order, specify in this behalf.",
+      "key_terms": [
+        "Chief Judicial Magistrate",
+        "Additional Chief Judicial Magistrate",
+        "Sub-divisional Judicial Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "This section creates a supervisory tier within the Judicial Magistracy of each district: one Chief Judicial Magistrate at the top (always a first-class Magistrate), optionally assisted by Additional Chief Judicial Magistrates with delegated powers, and Sub-divisional Judicial Magistrates who supervise the Magistrates within their own sub-division, subject to the Chief Judicial Magistrate's overall control. This creates a clean chain of supervisory authority beneath the Sessions Judge (who, per Section 13, sits above the Chief Judicial Magistrate).",
+        "essential_elements": [
+          "One Chief Judicial Magistrate per district, appointed by the High Court from first-class Judicial Magistrates",
+          "Additional Chief Judicial Magistrates may be appointed with all or specified powers of the CJM",
+          "Sub-divisional Judicial Magistrates designated for sub-divisions, removable from that role as occasion requires",
+          "Sub-divisional Judicial Magistrates supervise other Judicial Magistrates in their sub-division (excluding Additional CJMs), subject to the CJM's general control"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is purely about internal supervisory hierarchy, not sentencing power — pair it with Section 23 (sentencing limits of each Magistrate class) and Section 13 (subordination to the Sessions Judge) to get the complete picture of how authority flows within a district's Magistracy."
+      }
+    },
+    {
+      "number": "11",
+      "title": "Special Judicial Magistrates",
+      "raw_text": "(1) The High Court may, if requested by the Central or State Government so to do, confer upon any person who holds or has held any post under the Government, all or any of the powers conferred or conferrable by or under this Sanhita on a Judicial Magistrate of the first class or of the second class, in respect to particular cases or to particular classes of cases, in any local area:\nProvided that no such power shall be conferred on a person unless he possesses such qualification or experience in relation to legal affairs as the High Court may, by rules, specify.\n(2) Such Magistrates shall be called Special Judicial Magistrates and shall be appointed for such term, not exceeding one year at a time, as the High Court may, by general or special order, direct.",
+      "key_terms": [
+        "Special Judicial Magistrate",
+        "qualification or experience",
+        "term of appointment"
+      ],
+      "breakdown": {
+        "plain_summary": "This section lets government functionaries (current or former government-post-holders) be pressed into service as Judicial Magistrates for specific case types, but only at the request of the Central or State Government, only by High Court conferral, only if they meet legal qualification/experience standards set by High Court rules, and only for a limited renewable term of up to one year at a time. This is a narrow, closely controlled mechanism — distinct from the regular first/second class Magistrates appointed under Section 9.",
+        "essential_elements": [
+          "Government-initiated request to the High Court to confer Judicial Magistrate powers on a current/former government post-holder",
+          "Powers limited to particular cases or classes of cases in a specified local area",
+          "Person must meet High-Court-specified legal qualification or experience requirements",
+          "Appointment term capped at one year at a time (renewable by fresh order)"
+        ],
+        "exceptions_and_qualifications": [
+          "The qualification/experience proviso is a hard gate — no power can be conferred without it, regardless of government request"
+        ],
+        "how_to_read": "Treat this as a controlled, temporary supplementation mechanism for the regular Magistracy — useful for specialized or high-volume case categories where the regular first/second-class Magistrate roster under Section 9 needs targeted reinforcement."
+      }
+    },
+    {
+      "number": "12",
+      "title": "Local Jurisdiction of Judicial Magistrates",
+      "raw_text": "(1) Subject to the control of the High Court, the Chief Judicial Magistrate may, from time to time, define the local limits of the areas within which the Magistrates appointed under section 9 or under section 11 may exercise all or any of the powers with which they may respectively be invested under this Sanhita:\nProvided that the Court of Special Judicial Magistrate may hold its sitting at any place within the local area for which it is established.\n(2) Except as otherwise provided by such definition, the jurisdiction and powers of every such Magistrate shall extend throughout the district.\n(3) Where the local jurisdiction of a Magistrate appointed under section 9 or section 11 extends to an area beyond the district in which he ordinarily holds Court, any reference in this Sanhita to the Court of Session or Chief Judicial Magistrate shall, in relation to such Magistrate, throughout the area within his local jurisdiction, be construed, unless the context otherwise requires, as a reference to the Court of Session or Chief Judicial Magistrate, as the case may be, exercising jurisdiction in relation to the said district.",
+      "key_terms": [
+        "local jurisdiction",
+        "Chief Judicial Magistrate",
+        "cross-district jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "This section gives the Chief Judicial Magistrate the power to draw jurisdictional boundaries for Judicial Magistrates within the district (subject to High Court control) — but the default, absent a specific definition, is that a Magistrate's jurisdiction covers the whole district. It also handles the cross-border scenario: if a Magistrate's defined jurisdiction spills into another district, references elsewhere in the Sanhita to “the Court of Session” or “Chief Judicial Magistrate” are read, for that Magistrate, as referring to the Session Court/CJM of whichever district his jurisdiction actually falls in — avoiding confusion about which supervisory court a cross-district Magistrate answers to.",
+        "essential_elements": [
+          "Chief Judicial Magistrate defines local jurisdictional limits for Magistrates appointed under Sections 9 and 11, subject to High Court control",
+          "Default (absent specific definition): Magistrate's jurisdiction and powers extend throughout the district",
+          "Special Judicial Magistrates may sit anywhere within their established local area",
+          "Cross-district jurisdiction: references to Court of Session/CJM are read relative to the district in which the relevant jurisdiction falls"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read this as the jurisdictional zoning provision beneath Sections 9-11's appointment powers — it answers “where can this Magistrate actually exercise the powers just conferred on him?”"
+      }
+    },
+    {
+      "number": "13",
+      "title": "Subordination of Judicial Magistrates",
+      "raw_text": "(1) Every Chief Judicial Magistrate shall be subordinate to the Sessions Judge; and every other Judicial Magistrate shall, subject to the general control of the Sessions Judge, be subordinate to the Chief Judicial Magistrate.\n(2) The Chief Judicial Magistrate may, from time to time, make rules or give special orders, consistent with this Sanhita, as to the distribution of business among the Judicial Magistrates subordinate to him.",
+      "key_terms": [
+        "subordination",
+        "Sessions Judge",
+        "Chief Judicial Magistrate",
+        "distribution of business"
+      ],
+      "breakdown": {
+        "plain_summary": "This section completes the chain of command for Judicial Magistrates: the Chief Judicial Magistrate answers to the Sessions Judge, and every other Judicial Magistrate answers to the Chief Judicial Magistrate, who in turn operates under the Sessions Judge's general control. The CJM also has administrative power to allocate business (i.e., assign which cases go to which Magistrate) among the Magistrates below him.",
+        "essential_elements": [
+          "Chief Judicial Magistrate is subordinate to the Sessions Judge",
+          "All other Judicial Magistrates are subordinate to the Chief Judicial Magistrate, itself subject to the Sessions Judge's general control",
+          "CJM may make rules/special orders for distributing business among subordinate Magistrates"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the administrative-hierarchy counterpart to Section 10's supervisory-tier creation — read together they establish a clean top-down chain: Sessions Judge → Chief Judicial Magistrate → other Judicial Magistrates."
+      }
+    },
+    {
+      "number": "14",
+      "title": "Executive Magistrates",
+      "raw_text": "(1) In every district, the State Government may appoint as many persons as it thinks fit to be Executive Magistrates and shall appoint one of them to be the District Magistrate.\n(2) The State Government may appoint any Executive Magistrate to be an Additional District Magistrate, and such Magistrate shall have such of the powers of a District Magistrate under this Sanhita or under any other law for the time being in force as may be directed by the State Government.\n(3) Whenever, in consequence of the office of a District Magistrate becoming vacant, any officer succeeds temporarily to the executive administration of the district, such officer shall, pending the orders of the State Government, exercise all the powers and perform all the duties respectively conferred and imposed by this Sanhita on the District Magistrate.\n(4) The State Government may place an Executive Magistrate in charge of a sub-division and may relieve him of the charge as occasion requires; and the Magistrate so placed in charge of a sub-division shall be called the Sub-divisional Magistrate.\n(5) The State Government may, by general or special order and subject to such control and directions as it may deem fit to impose, delegate its powers under sub-section (4) to the District Magistrate.\n(6) Nothing in this section shall preclude the State Government from conferring, under any law for the time being in force, on a Commissioner of Police all or any of the powers of an Executive Magistrate.",
+      "key_terms": [
+        "Executive Magistrate",
+        "District Magistrate",
+        "Additional District Magistrate",
+        "Sub-divisional Magistrate",
+        "Commissioner of Police"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is the Executive-Magistracy counterpart to Sections 9-10's Judicial-Magistracy structure. The State Government appoints Executive Magistrates in each district, one of whom must be designated District Magistrate — the senior executive criminal-administration officer. It provides for Additional District Magistrates with delegated DM powers, automatic continuity when the DM's post is vacant (a temporary successor gets full DM powers pending State Government orders), Sub-divisional Magistrates in charge of sub-divisions, and delegation of the sub-divisional-charge power to the DM. It also preserves the State Government's separate power to give Executive Magistrate powers to a Commissioner of Police under other laws (relevant in commissionerate policing systems).",
+        "essential_elements": [
+          "State Government appoints Executive Magistrates in every district; one must be the District Magistrate",
+          "Additional District Magistrates may be appointed with DM powers as directed",
+          "Automatic temporary succession to DM powers/duties when the DM's office is vacant, pending State Government orders",
+          "Sub-divisional Magistrates placed in charge of sub-divisions by the State Government",
+          "State Government may delegate the sub-divisional-appointment power to the District Magistrate",
+          "Commissioner of Police may separately be given Executive Magistrate powers under other laws"
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-section (6) is a non-obstante-style clarification, not a grant of new power itself — it simply confirms this section doesn't block Commissioner-of-Police empowerment under other laws"
+        ],
+        "how_to_read": "Mirror this against Sections 9-10 (Judicial Magistrates) to see the Sanhita's parallel-but-separate structures for judicial and executive criminal administration within a district."
+      }
+    },
+    {
+      "number": "15",
+      "title": "Special Executive Magistrates",
+      "raw_text": "The State Government may appoint, for such term as it may think fit, Executive Magistrates or any police officer not below the rank of Superintendent of Police or equivalent, to be known as Special Executive Magistrates, for particular areas or for the performance of particular functions and confer on such Special Executive Magistrates such of the powers as are conferrable under this Sanhita on Executive Magistrates, as it may deem fit.",
+      "key_terms": [
+        "Special Executive Magistrate",
+        "Superintendent of Police",
+        "particular functions"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the executive-side analogue to Section 11's Special Judicial Magistrates. The State Government can appoint Special Executive Magistrates — either existing Executive Magistrates or senior police officers (Superintendent of Police rank or above) — for a fixed term, to handle specific areas or specific functions, with whichever Executive Magistrate powers the Government chooses to confer. This is commonly used, for example, to empower senior police officers to handle law-and-order functions like prohibitory orders during particular events or areas.",
+        "essential_elements": [
+          "State Government may appoint Special Executive Magistrates for a fixed term",
+          "Eligible appointees: Executive Magistrates, or police officers of Superintendent of Police rank or above",
+          "Appointment is for particular areas or particular functions",
+          "Conferred powers are a State-Government-chosen subset of ordinary Executive Magistrate powers"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Notice this is the only route by which a police officer can himself hold Magisterial powers — a targeted exception used for specific law-and-order needs, not a general blending of police and magisterial roles."
+      }
+    },
+    {
+      "number": "16",
+      "title": "Local Jurisdiction of Executive Magistrates",
+      "raw_text": "(1) Subject to the control of the State Government, the District Magistrate may, from time to time, define the local limits of the areas within which the Executive Magistrates may exercise all or any of the powers with which they may be invested under this Sanhita.\n(2) Except as otherwise provided by such definition, the jurisdiction and powers of every such Magistrate shall extend throughout the district.",
+      "key_terms": [
+        "local jurisdiction",
+        "District Magistrate",
+        "Executive Magistrate"
+      ],
+      "breakdown": {
+        "plain_summary": "The executive-side mirror of Section 12: the District Magistrate (subject to State Government control) can define local jurisdictional boundaries for Executive Magistrates within the district, and absent such a specific definition, an Executive Magistrate's jurisdiction and powers extend throughout the whole district by default.",
+        "essential_elements": [
+          "District Magistrate defines local jurisdictional limits for Executive Magistrates, subject to State Government control",
+          "Default (absent a specific definition): jurisdiction and powers extend throughout the district"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Pair directly with Section 12 — same structure, same default rule, just for the executive rather than judicial branch of the Magistracy."
+      }
+    },
+    {
+      "number": "17",
+      "title": "Subordination of Executive Magistrates",
+      "raw_text": "(1) All Executive Magistrates shall be subordinate to the District Magistrate, and every Executive Magistrate (other than the Sub-divisional Magistrate) exercising powers in a sub-division shall also be subordinate to the Sub-divisional Magistrate, subject, to the general control of the District Magistrate.\n(2) The District Magistrate may, from time to time, make rules or give special orders, consistent with this Sanhita, as to the distribution or allocation of business among the Executive Magistrates subordinate to him.",
+      "key_terms": [
+        "subordination",
+        "District Magistrate",
+        "Sub-divisional Magistrate",
+        "distribution of business"
+      ],
+      "breakdown": {
+        "plain_summary": "The executive-side mirror of Section 13: every Executive Magistrate is subordinate to the District Magistrate, and one exercising powers within a sub-division is additionally subordinate to that sub-division's Sub-divisional Magistrate (itself under the DM's general control). The District Magistrate also has administrative power to allocate business among the Executive Magistrates below him.",
+        "essential_elements": [
+          "All Executive Magistrates subordinate to the District Magistrate",
+          "Executive Magistrates in a sub-division (other than the Sub-divisional Magistrate himself) are also subordinate to the Sub-divisional Magistrate",
+          "District Magistrate allocates business among subordinate Executive Magistrates"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Pair with Section 13 for the complete two-branch subordination structure: judicial Magistrates run up through the CJM to the Sessions Judge, executive Magistrates run up through the Sub-divisional/District Magistrate to the State Government."
+      }
+    },
+    {
+      "number": "18",
+      "title": "Public Prosecutors",
+      "raw_text": "(1) For every High Court, the Central Government or the State Government shall, after consultation with the High Court, appoint a Public Prosecutor and may also appoint one or more Additional Public Prosecutors, for conducting in such Court, any prosecution, appeal or other proceeding on behalf of the Central Government or the State Government, as the case may be:\nProvided that for National Capital Territory of Delhi, the Central Government shall, after consultation with the High Court of Delhi, appoint the Public Prosecutor or Additional Public Prosecutors for the purposes of this sub-section.\n(2) The Central Government may appoint one or more Public Prosecutors for the purpose of conducting any case in any district or local area.\n(3) For every district, the State Government shall appoint a Public Prosecutor and may also appoint one or more Additional Public Prosecutors for the district:\nProvided that the Public Prosecutor or Additional Public Prosecutor appointed for one district may be appointed also to be a Public Prosecutor or an Additional Public Prosecutor, as the case may be, for another district.\n(4) The District Magistrate shall, in consultation with the Sessions Judge, prepare a panel of names of persons, who are, in his opinion fit to be appointed as Public Prosecutors or Additional Public Prosecutors for the district.\n(5) No person shall be appointed by the State Government as the Public Prosecutor or Additional Public Prosecutor for the district unless his name appears in the panel of names prepared by the District Magistrate under sub-section (4).\n(6) Notwithstanding anything in sub-section (5), where in a State there exists a regular Cadre of Prosecuting Officers, the State Government shall appoint a Public Prosecutor or an Additional Public Prosecutor only from among the persons constituting such Cadre:\nProvided that where, in the opinion of the State Government, no suitable person is available in such Cadre for such appointment, that Government may appoint a person as Public Prosecutor or Additional Public Prosecutor, as the case may be, from the panel of names prepared by the District Magistrate under sub-section (4).\nExplanation.—For the purposes of this sub-section,—\n(a) “regular Cadre of Prosecuting Officers” means a Cadre of Prosecuting Officers which includes therein the post of Public Prosecutor, by whatever name called, and which provides for promotion of Assistant Public Prosecutors, by whatever name called, to that post;\n(b) “Prosecuting Officer” means a person, by whatever name called, appointed to perform the functions of a Public Prosecutor, Special Public Prosecutor, Additional Public Prosecutor or Assistant Public Prosecutor under this Sanhita.\n(7) A person shall be eligible to be appointed as a Public Prosecutor or an Additional Public Prosecutor under sub-section (1) or sub-section (2) or sub-section (3) or sub-section (6), only if he has been in practice as an advocate for not less than seven years.\n(8) The Central Government or the State Government may appoint, for the purposes of any case or class of cases, a person who has been in practice as an advocate for not less than ten years as a Special Public Prosecutor:\nProvided that the Court may permit the victim to engage an advocate of his choice to assist the prosecution under this sub-section.\n(9) For the purposes of sub-section (7) and sub-section (8), the period during which a person has been in practice as an advocate, or has rendered (whether before or after the commencement of this Sanhita) service as a Public Prosecutor or as an Additional Public Prosecutor or Assistant Public Prosecutor or other Prosecuting Officer, by whatever name called, shall be deemed to be the period during which such person has been in practice as an advocate.",
+      "key_terms": [
+        "Public Prosecutor",
+        "Additional Public Prosecutor",
+        "Special Public Prosecutor",
+        "panel of names",
+        "Cadre of Prosecuting Officers",
+        "victim's advocate"
+      ],
+      "breakdown": {
+        "plain_summary": "This detailed section sets up the machinery for who prosecutes criminal cases on behalf of the State. High-Court-level and district-level Public Prosecutors are appointed by the appropriate government, but appointment at the district level is gate-kept: the District Magistrate (with the Sessions Judge) prepares a fitness panel, and no one can be appointed unless on that panel — unless a regular Cadre of Prosecuting Officers exists, in which case appointment must come from that Cadre first, falling back to the panel only if no suitable cadre officer is available. A minimum seven-year advocacy practice (or equivalent prosecutorial service) is required for ordinary Public Prosecutors/Additional Public Prosecutors; a higher ten-year threshold applies to Special Public Prosecutors appointed for particular cases. Notably, sub-section (8)'s proviso lets a victim engage their own advocate to assist (not replace) the prosecution when a Special Public Prosecutor is appointed — a meaningful victim-participation right.",
+        "essential_elements": [
+          "Public Prosecutors and Additional Public Prosecutors appointed for every High Court and every district, after due process (High Court consultation / DM-prepared panel)",
+          "Delhi has a special dispensation: Central Government appoints after consulting the Delhi High Court",
+          "District-level appointments require inclusion in the District Magistrate's fitness panel (prepared in consultation with the Sessions Judge)",
+          "Where a regular Cadre of Prosecuting Officers exists, appointment must ordinarily be made from that Cadre",
+          "Minimum 7 years' advocacy practice (or equivalent prosecutorial service) for PP/Addl. PP; minimum 10 years for Special Public Prosecutor",
+          "Victim may engage an advocate of choice to assist the prosecution where a Special Public Prosecutor is appointed"
+        ],
+        "exceptions_and_qualifications": [
+          "Cadre-first rule yields where the State Government finds no suitable Cadre officer available — appointment then reverts to the DM's panel",
+          "Prosecutorial service (not just private advocacy practice) counts toward the 7/10-year eligibility thresholds"
+        ],
+        "how_to_read": "This section rewards careful sub-section tracking — note the layered gatekeeping (panel requirement → cadre-first override → panel-fallback exception) before jumping to the eligibility thresholds in sub-sections (7)-(9), since a candidate must clear both the process gate and the experience gate."
+      }
+    },
+    {
+      "number": "19",
+      "title": "Assistant Public Prosecutors",
+      "raw_text": "(1) The State Government shall appoint in every district one or more Assistant Public Prosecutors for conducting prosecutions in the Courts of Magistrates.\n(2) The Central Government may appoint one or more Assistant Public Prosecutors for the purpose of conducting any case or class of cases in the Courts of Magistrates.\n(3) Without prejudice to provisions contained in sub-sections (1) and (2), where no Assistant Public Prosecutor is available for the purposes of any particular case, the District Magistrate may appoint any other person to be the Assistant Public Prosecutor in charge of that case after giving notice of fourteen days to the State Government:\nProvided that no police officer shall be eligible to be appointed as an Assistant Public Prosecutor, if he—\n(a) has taken any part in the investigation into the offence with respect to which the accused is being prosecuted; or\n(b) is below the rank of Inspector.",
+      "key_terms": [
+        "Assistant Public Prosecutor",
+        "Magistrate Courts",
+        "police officer ineligibility"
+      ],
+      "breakdown": {
+        "plain_summary": "While Section 18's Public Prosecutors handle Sessions/High Court-level work, this section deals with prosecution at the Magistrate-court level, staffed by Assistant Public Prosecutors appointed by the State (or, for specific cases, the Central) Government. If none is available for a particular case, the District Magistrate can deputize someone else on 14 days' notice to the State Government — but never a police officer who investigated that very offence, or one below Inspector rank, preserving separation between investigation and prosecution and a baseline seniority for the role.",
+        "essential_elements": [
+          "State Government appoints one or more Assistant Public Prosecutors in every district for Magistrate-court prosecutions",
+          "Central Government may separately appoint Assistant Public Prosecutors for specific cases/classes of cases",
+          "Fallback: District Magistrate may appoint another person as case-specific Assistant Public Prosecutor if none is available, after 14 days' notice to the State Government"
+        ],
+        "exceptions_and_qualifications": [
+          "A police officer is categorically ineligible as Assistant Public Prosecutor if he investigated the very offence being prosecuted, or if he is below the rank of Inspector"
+        ],
+        "how_to_read": "The proviso's investigator-prosecutor separation rule is the key safeguard here — it prevents the same police officer who built the case from also prosecuting it, protecting the fairness of the trial."
+      }
+    },
+    {
+      "number": "20",
+      "title": "Directorate of Prosecution",
+      "raw_text": "(1) The State Government may establish,—\n(a) a Directorate of Prosecution in the State consisting of a Director of Prosecution and as many Deputy Directors of Prosecution as it thinks fit; and\n(b) a District Directorate of Prosecution in every district consisting of as many Deputy Directors and Assistant Directors of Prosecution, as it thinks fit.\n(2) A person shall be eligible to be appointed,—\n(a) as a Director of Prosecution or a Deputy Director of Prosecution, if he has been in practice as an advocate for not less than fifteen years or is or has been a Sessions Judge;\n(b) as an Assistant Director of Prosecution, if he has been in practice as an advocate for not less than seven years or has been a Magistrate of the first class.\n(3) The Directorate of Prosecution shall be headed by the Director of Prosecution, who shall function under the administrative control of the Home Department in the State.\n(4) Every Deputy Director of Prosecution or Assistant Director of Prosecution shall be subordinate to the Director of Prosecution; and every Assistant Director of Prosecution shall be subordinate to the Deputy Director of Prosecution.\n(5) Every Public Prosecutor, Additional Public Prosecutor and Special Public Prosecutor appointed by the State Government under sub-section (1) or sub-section (8) of section 18 to conduct cases in the High Court shall be subordinate to the Director of Prosecution.\n(6) Every Public Prosecutor, Additional Public Prosecutor and Special Public Prosecutor appointed by the State Government under sub-section (3) or sub-section (8) of section 18 to conduct cases in District Courts and every Assistant Public Prosecutor appointed under sub-section (1) of section 19 shall be subordinate to the Deputy Director of Prosecution or the Assistant Director of Prosecution.\n(7) The powers and functions of the Director of Prosecution shall be to monitor cases in which offences are punishable for ten years or more, or with life imprisonment, or with death; to expedite the proceedings and to give opinion on filing of appeals.\n(8) The powers and functions of the Deputy Director of Prosecution shall be to examine and scrutinise police report and monitor the cases in which offences are punishable for seven years or more, but less than ten years, for ensuring their expeditious disposal.\n(9) The functions of the Assistant Director of Prosecution shall be to monitor cases in which offences are punishable for less than seven years.\n(10) Notwithstanding anything contained in sub-sections (7), (8) and (9), the Director, Deputy Director or Assistant Director of Prosecution shall have the power to deal with and be responsible for all proceedings under this Sanhita.\n(11) The other powers and functions of the Director of Prosecution, Deputy Directors of Prosecution and Assistant Directors of Prosecution and the areas for which each of the Deputy Directors of Prosecution or Assistant Directors of Prosecution have been appointed shall be such as the State Government may, by notification, specify.\n(12) The provisions of this section shall not apply to the Advocate General for the State while performing the functions of a Public Prosecutor.",
+      "key_terms": [
+        "Directorate of Prosecution",
+        "Director of Prosecution",
+        "Deputy Director of Prosecution",
+        "Assistant Director of Prosecution",
+        "Home Department"
+      ],
+      "breakdown": {
+        "plain_summary": "This section, entirely new compared to the old CrPC framework, creates a supervisory management layer over prosecution across the State: a Directorate of Prosecution (Director + Deputy Directors) at the State level and District Directorates (Deputy + Assistant Directors) at the district level, administratively under the Home Department. Their oversight is stratified by offence severity — the Director monitors the most serious cases (10+ years, life, or death-punishable offences), Deputy Directors the mid-tier (7-10 years) and scrutinize police reports, and Assistant Directors the lighter cases (under 7 years) — though sub-section (10) makes clear this stratification doesn't actually limit any of their powers; all three levels retain full authority over all proceedings. Public Prosecutors and Assistant Public Prosecutors are made subordinate to this Directorate structure, adding an administrative accountability layer over the prosecutorial function.",
+        "essential_elements": [
+          "State-level Directorate of Prosecution (Director + Deputy Directors) and district-level District Directorates (Deputy + Assistant Directors), both optional (“may establish”)",
+          "Eligibility: 15 years' advocacy or Sessions Judge experience for Director/Deputy Director level; 7 years' advocacy or first-class Magistrate experience for Assistant Director level",
+          "Directorate functions under the administrative control of the State Home Department",
+          "Clear subordination chain: Assistant Director → Deputy Director → Director, and Public Prosecutors/Assistant Public Prosecutors subordinate to the appropriate Director/Deputy/Assistant Director depending on court level",
+          "Case-monitoring responsibility is stratified by offence severity across the three tiers"
+        ],
+        "exceptions_and_qualifications": [
+          "Despite the severity-based stratification in sub-sections (7)-(9), sub-section (10) preserves full authority for all three tiers over all proceedings, notwithstanding that stratification",
+          "This entire section does not apply to the Advocate General for the State when performing Public Prosecutor functions"
+        ],
+        "how_to_read": "Read the severity-tiered functions in sub-sections (7)-(9) as an internal case-allocation/monitoring scheme, not a jurisdictional limit — sub-section (10)'s non-obstante clause is what confirms none of the three tiers is actually restricted from handling any proceeding."
+      }
+    },
+    {
+      "number": "21",
+      "title": "Courts by which offences are triable",
+      "raw_text": "Subject to the other provisions of this Sanhita,—\n(a) any offence under the Bharatiya Nyaya Sanhita, 2023 may be tried by—\n(i) the High Court; or\n(ii) the Court of Session; or\n(iii) any other Court by which such offence is shown in the First Schedule to be triable:\nProvided that any offence under section 64, section 65, section 66, section 67, section 68, section 69, section 70 or section 71 of the Bharatiya Nyaya Sanhita, 2023 shall be tried as far as practicable by a Court presided over by a woman;\n(b) any offence under any other law shall, when any Court is mentioned in this behalf in such law, be tried by such Court and when no Court is so mentioned, may be tried by—\n(i) the High Court; or\n(ii) any other Court by which such offence is shown in the First Schedule to be triable.",
+      "key_terms": [
+        "Courts by which offences are triable",
+        "First Schedule",
+        "woman-presided Court",
+        "Bharatiya Nyaya Sanhita"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the master allocation rule for which Court has jurisdiction to try which offence. For offences under the new penal code (Bharatiya Nyaya Sanhita, 2023), trial can be by the High Court, Court of Session, or whichever Court the First Schedule specifies for that offence — with a notable new safeguard: sexual-offence provisions (Sections 64-71 of the BNS, covering rape and related offences) must, as far as practicable, be tried by a Court presided over by a woman. For offences under other laws, the specific law's own designated Court controls if it names one; otherwise the same High-Court-or-First-Schedule-Court default applies.",
+        "essential_elements": [
+          "BNS offences triable by the High Court, Court of Session, or the First-Schedule-designated Court",
+          "Sexual offence provisions (BNS Sections 64-71) to be tried, as far as practicable, by a woman-presided Court",
+          "Offences under other laws: tried by the Court that law itself designates, if any",
+          "If no Court is designated by the other law, default to High Court or First-Schedule-designated Court"
+        ],
+        "exceptions_and_qualifications": [
+          "The woman-presided-Court requirement for sexual offences is qualified by “as far as practicable” — not an absolute bar if unavailable",
+          "This entire allocation is expressly “subject to the other provisions of this Sanhita” — more specific provisions elsewhere can override the general rule"
+        ],
+        "how_to_read": "Always check two things before filing/appearing in a criminal matter: which statute creates the offence (BNS vs. another law), and then which specific Court the First Schedule (or the other law itself) assigns to it — this section is the entry point into that lookup, not the full answer by itself."
+      }
+    },
+    {
+      "number": "22",
+      "title": "Sentences which High Courts and Sessions Judges may pass",
+      "raw_text": "(1) A High Court may pass any sentence authorised by law.\n(2) A Sessions Judge or Additional Sessions Judge may pass any sentence authorised by law; but any sentence of death passed by any such Judge shall be subject to confirmation by the High Court.",
+      "key_terms": [
+        "High Court sentencing power",
+        "Sessions Judge",
+        "death sentence confirmation"
+      ],
+      "breakdown": {
+        "plain_summary": "High Courts have unlimited sentencing power (any sentence the law authorises for the offence). Sessions Judges and Additional Sessions Judges have the same unlimited power in principle, but with one crucial check: a death sentence they impose does not take effect on its own — it must first be confirmed by the High Court, a mandatory judicial safeguard given the irreversibility of capital punishment.",
+        "essential_elements": [
+          "High Court: unlimited sentencing power (any sentence authorised by law)",
+          "Sessions Judge/Additional Sessions Judge: unlimited sentencing power, but",
+          "Death sentences passed by a Sessions Judge require High Court confirmation before execution"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read this alongside the confirmation-of-death-sentence procedure found later in the Sanhita's trial and appeal chapters — this section only establishes that confirmation is required, not the process for obtaining it."
+      }
+    },
+    {
+      "number": "23",
+      "title": "Sentences which Magistrates may pass",
+      "raw_text": "(1) The Court of a Chief Judicial Magistrate may pass any sentence authorised by law except a sentence of death or of imprisonment for life or of imprisonment for a term exceeding seven years.\n(2) The Court of a Magistrate of the first class may pass a sentence of imprisonment for a term not exceeding three years, or of fine not exceeding fifty thousand rupees, or of both, or of community service.\n(3) The Court of Magistrate of the second class may pass a sentence of imprisonment for a term not exceeding one year, or of fine not exceeding ten thousand rupees, or of both, or of community service.\nExplanation.—“Community service” shall mean the work which the Court may order a convict to perform as a form of punishment that benefits the community, for which he shall not be entitled to any remuneration.",
+      "key_terms": [
+        "Chief Judicial Magistrate sentencing cap",
+        "Magistrate first class",
+        "Magistrate second class",
+        "community service",
+        "fine limits"
+      ],
+      "breakdown": {
+        "plain_summary": "This section sets hard sentencing ceilings for each Magistrate tier, scaling down from the Chief Judicial Magistrate (up to seven years, but never death or life imprisonment) to first-class Magistrates (up to three years / ₹50,000 fine) to second-class Magistrates (up to one year / ₹10,000 fine). Notably, it introduces “community service” as an available sentencing option at every Magistrate level — a new, BNSS-specific form of punishment (unpaid work benefiting the community) that did not exist as a sentencing option under the old Code of Criminal Procedure.",
+        "essential_elements": [
+          "Chief Judicial Magistrate: any sentence except death, life imprisonment, or imprisonment exceeding 7 years",
+          "First-class Magistrate: up to 3 years' imprisonment, up to ₹50,000 fine, or both, or community service",
+          "Second-class Magistrate: up to 1 year's imprisonment, up to ₹10,000 fine, or both, or community service",
+          "Community service is unremunerated work ordered by the Court as a form of punishment benefiting the community"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Keep this section's caps handy whenever checking whether a particular Magistrate had jurisdiction to pass a given sentence — exceeding these limits is a classic ground of challenge, and community service as a new sentencing tool is worth flagging as a BNSS-specific innovation whenever comparing to the old CrPC framework."
+      }
+    },
+    {
+      "number": "24",
+      "title": "Sentence of imprisonment in default of fine",
+      "raw_text": "(1) The Court of a Magistrate may award such term of imprisonment in default of payment of fine as is authorised by law:\nProvided that the term—\n(a) is not in excess of the powers of the Magistrate under section 23;\n(b) shall not, where imprisonment has been awarded as part of the substantive sentence, exceed one-fourth of the term of imprisonment which the Magistrate is competent to inflict as punishment for the offence otherwise than as imprisonment in default of payment of the fine.\n(2) The imprisonment awarded under this section may be in addition to a substantive sentence of imprisonment for the maximum term awardable by the Magistrate under section 23.",
+      "key_terms": [
+        "default imprisonment",
+        "substantive sentence",
+        "one-fourth cap"
+      ],
+      "breakdown": {
+        "plain_summary": "When a Magistrate imposes a fine, the law also authorizes a backstop: imprisonment if the fine goes unpaid. This section caps that default-imprisonment term in two ways — it can never exceed what the Magistrate could impose under Section 23 in the first place, and where the fine is combined with a substantive prison sentence, the default term is additionally capped at one-fourth of the maximum substantive imprisonment that Magistrate could impose for the offence. Sub-section (2) confirms this default-imprisonment term stacks on top of (is additional to) the substantive sentence, up to the Magistrate's maximum under Section 23.",
+        "essential_elements": [
+          "Default imprisonment for unpaid fine is capped by the Magistrate's general sentencing power under Section 23",
+          "Where combined with a substantive imprisonment sentence, default imprisonment is additionally capped at one-fourth of the maximum substantive term the Magistrate could impose",
+          "Default imprisonment may be awarded in addition to (stacked on top of) the maximum substantive sentence"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always run the two-step cap check together: first confirm the default term doesn't exceed the Magistrate's overall Section 23 ceiling, then separately check the one-fourth-of-substantive-term cap if a substantive prison sentence was also imposed — both limits apply simultaneously."
+      }
+    },
+    {
+      "number": "25",
+      "title": "Sentence in cases of conviction of several offences at one trial",
+      "raw_text": "(1) When a person is convicted at one trial of two or more offences, the Court may, subject to the provisions of section 9 of the Bharatiya Nyaya Sanhita, 2023, sentence him for such offences, to the several punishments prescribed therefor which such Court is competent to inflict and the Court shall, considering the gravity of offences, order such punishments to run concurrently or consecutively.\n(2) In the case of consecutive sentences, it shall not be necessary for the Court by reason only of the aggregate punishment for the several offences being in excess of the punishment which it is competent to inflict on conviction of a single offence, to send the offender for trial before a higher Court:\nProvided that—\n(a) in no case shall such person be sentenced to imprisonment for a longer period than twenty years;\n(b) the aggregate punishment shall not exceed twice the amount of punishment which the Court is competent to inflict for a single offence.\n(3) For the purpose of appeal by a convicted person, the aggregate of the consecutive sentences passed against him under this section shall be deemed to be a single sentence.",
+      "key_terms": [
+        "consecutive sentences",
+        "concurrent sentences",
+        "aggregate punishment",
+        "twenty-year cap"
+      ],
+      "breakdown": {
+        "plain_summary": "When one trial results in convictions on multiple offences, the Court must decide whether the sentences run concurrently (simultaneously) or consecutively (back-to-back), weighing the gravity of the offences. Consecutive sentencing is allowed to push the aggregate punishment above what the Court could impose for any single offence — without needing to refer the case up to a higher Court purely because the total exceeds the Court's ordinary per-offence ceiling — but two hard limits apply: total imprisonment can never exceed twenty years, and the aggregate cannot exceed twice what the Court could impose for a single offence. For appeal purposes, the combined consecutive sentence is treated as one single sentence, not multiple separate ones.",
+        "essential_elements": [
+          "Applies where one trial results in conviction of two or more offences",
+          "Court decides concurrent vs. consecutive sentencing based on gravity of the offences",
+          "Consecutive sentencing may push the aggregate above the Court's per-offence ceiling without requiring reference to a higher Court",
+          "Hard cap: aggregate imprisonment never exceeds 20 years",
+          "Hard cap: aggregate punishment never exceeds twice the Court's per-single-offence competence",
+          "For appeal purposes, the aggregate consecutive sentence is deemed a single sentence"
+        ],
+        "exceptions_and_qualifications": [
+          "The whole section operates subject to Section 9 of the Bharatiya Nyaya Sanhita, 2023 (the substantive-law provision on punishment for multiple offences)"
+        ],
+        "how_to_read": "Apply both caps in sub-section (2) independently — a sentence must satisfy both the absolute 20-year ceiling and the twice-the-single-offence-competence ceiling; whichever is lower actually controls in a given case."
       }
     }
   ]
