@@ -180,7 +180,10 @@
     "joinder of charges": "The rule-set governing when multiple distinct offences (or multiple accused persons) may lawfully be combined into a single charge and tried together in one trial, rather than requiring a separate charge and separate trial for each offence.",
     "same transaction": "A series of acts so connected in purpose, time, and continuity that they form one continuous course of criminal conduct — the legal test that allows multiple offences arising from that connected conduct to be charged and tried together instead of separately.",
     "acquittal": "A formal finding or legal outcome that the accused is not held guilty of the charge — either by the Court's decision after trial, or, as under section 247, by operation of law when a remaining charge is withdrawn or its trial stayed after conviction on another charge from the same charge-sheet.",
-    "conviction": "The Court's formal finding, after trial, that the accused is guilty of the offence charged."
+    "conviction": "The Court's formal finding, after trial, that the accused is guilty of the offence charged.",
+    "discharge": "An order releasing an accused person from a case before trial proper begins, made when the Judge finds insufficient ground to proceed against him — distinct from an acquittal, which follows a full trial on the merits.",
+    "plea": "The accused's formal response to a charge once it has been read and explained to him — typically either pleading guilty (admitting the offence) or claiming to be tried (denying it and requiring the prosecution to prove its case).",
+    "cross-examination": "The questioning of a witness by the opposing party (typically the defence, for a prosecution witness) after that witness's initial examination, aimed at testing or challenging the witness's testimony."
   },
   "sections": [
     {
@@ -5831,6 +5834,144 @@
           "Resumption after a conviction is set aside is expressly conditional on, and bounded by, the superior Court's own order — the trial Court cannot resume more broadly than that order permits."
         ],
         "how_to_read": "Read this as the practical endgame for Chapter XVIII's multi-charge joinder machinery: once one head of a multi-headed charge results in conviction, the remaining heads can be shelved with acquittal-level finality — but that finality is itself conditional on the triggering conviction actually standing. This section completes Chapter XVIII (The Charge, Sections 234-247) in full; Chapter XIX (Trial before a Court of Session) follows at Section 248."
+      }
+    },
+    {
+      "number": "248",
+      "title": "Trial to be conducted by Public Prosecutor",
+      "raw_text": "248. Trial to be conducted by Public Prosecutor.—In every trial before a Court of Session, the\n    prosecution shall be conducted by a Public Prosecutor.",
+      "key_terms": [
+        "public prosecutor"
+      ],
+      "breakdown": {
+        "plain_summary": "This one-line provision opens Chapter XIX (Trial before a Court of Session) by fixing who must conduct the State's case at this level: exclusively a Public Prosecutor. Unlike complaint cases before a Magistrate, where a private complainant or their advocate may sometimes drive the prosecution directly, a Sessions trial — reserved for the most serious offences — is institutionally run by the State's own designated prosecuting officer. This reflects both the gravity of Sessions-triable offences and the structural design already seen in section 232(d) (notifying the Public Prosecutor upon committal) — the Public Prosecutor's role begins the moment the case reaches the Sessions Court and continues as the sole conductor of the prosecution's case throughout the trial.",
+        "essential_elements": [
+          "Every trial before a Court of Session must be conducted by a Public Prosecutor",
+          "This is a mandatory institutional requirement, not merely a default or option"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short but foundational rule: read it alongside section 232(d)'s Public Prosecutor notification requirement on committal — together they ensure institutional continuity from committal through to trial conduct at the Sessions stage."
+      }
+    },
+    {
+      "number": "249",
+      "title": "Opening case for prosecution",
+      "raw_text": "249. Opening case for prosecution.—When the accused appears or is brought before the Court, in\n    pursuance of a commitment of the case under section 232, or under any other law for the time being in\n    force, the prosecutor shall open his case by describing the charge brought against the accused and stating\n    by what evidence he proposes to prove the guilt of the accused.",
+      "key_terms": [
+        "public prosecutor",
+        "committal",
+        "charge"
+      ],
+      "breakdown": {
+        "plain_summary": "This section marks the formal start of Sessions trial proceedings once the accused actually appears or is brought before the Court, following committal under section 232 (or under any other applicable law). The prosecutor's first substantive act is to 'open the case' — a structured opening statement that must do two specific things: describe the charge brought against the accused, and state by what evidence the prosecution intends to prove the accused's guilt. This opening statement serves a genuine notice function for the Court (and, indirectly, the accused): everyone in the room understands from the outset both what is alleged and how the prosecution plans to prove it, before a single witness is called.",
+        "essential_elements": [
+          "Trigger: the accused appears/is brought before the Court following committal under section 232 or other applicable law",
+          "The prosecutor must open the case by (i) describing the charge, and (ii) stating the evidence he proposes to rely on to prove guilt"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the procedural starting gun for the trial narrative proper — everything that follows (discharge consideration, charge-framing, plea, evidence) builds on the roadmap the prosecutor lays out here."
+      }
+    },
+    {
+      "number": "250",
+      "title": "Discharge",
+      "raw_text": "250. Discharge.—(1) The accused may prefer an application for discharge within a period of sixty days\n    from the date of commitment of the case under section 232.\n        (2) If, upon consideration of the record of the case and the documents submitted therewith, and after\n    hearing the submissions of the accused and the prosecution in this behalf, the Judge considers that there is\n    not sufficient ground for proceeding against the accused, he shall discharge the accused and record his\n    reasons for so doing.",
+      "key_terms": [
+        "discharge",
+        "committal"
+      ],
+      "breakdown": {
+        "plain_summary": "This section gives the accused a genuine early exit opportunity before the trial's evidentiary phase begins, preventing weak Sessions cases from dragging an accused through a full trial. Within sixty days of the case being committed under section 232, the accused may apply for discharge. The Judge then reviews the case record and the documents submitted with it, hears both sides' submissions on the point, and — if satisfied there isn't sufficient ground to proceed — must discharge the accused, giving written reasons for doing so. This is a documentary, record-based assessment at this stage (not a mini-trial with live evidence): the Judge is testing whether what's already on the file, as committed from the Magistrate stage, makes out enough of a case to justify putting the accused through a full Sessions trial.",
+        "essential_elements": [
+          "The accused may apply for discharge within sixty days of commitment under section 232",
+          "The Judge reviews the case record and submitted documents, and hears both sides",
+          "If there is not sufficient ground for proceeding, the Judge must discharge the accused and record reasons"
+        ],
+        "exceptions_and_qualifications": [
+          "The sixty-day window is specifically measured from the date of commitment, not from any other procedural milestone — an accused who misses this window has effectively waived this particular discharge route."
+        ],
+        "how_to_read": "Read this as the Sessions-stage counterpart to a Magistrate-stage screening: the sixty-day window is a deliberate time discipline, and 'insufficient ground' is assessed on the committed record, not on live testimony — that comes later, if the case survives this stage."
+      }
+    },
+    {
+      "number": "251",
+      "title": "Framing of charge",
+      "raw_text": "251. Framing of charge.—(1) If, after such consideration and hearing as aforesaid, the Judge is of\n    opinion that there is ground for presuming that the accused has committed an offence which—\n            (a) is not exclusively triable by the Court of Session, he may, frame a charge against the accused\n        and, by order, transfer the case for trial to the Chief Judicial Magistrate, or any other Judicial Magistrate\n        of the first class and direct the accused to appear before the Chief Judicial Magistrate, or the Judicial\n        Magistrate of the first class, on such date as he deems fit, and thereupon such Magistrate shall try the\n        offence in accordance with the procedure for the trial of warrant-cases instituted on a police report;\n            (b) is exclusively triable by the Court, he shall frame in writing a charge against the accused within\n        a period of sixty days from the date of first hearing on charge.\n        (2) Where the Judge frames any charge under clause (b) of sub-section (1), the charge shall be read and\n    explained to the accused present either physically or through audio-video electronic means and the accused\n    shall be asked whether he pleads guilty of the offence charged or claims to be tried.",
+      "key_terms": [
+        "charge",
+        "plea"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is the fork in the road that follows a failed discharge application (or a decision not to seek discharge): the Judge, having found ground to presume the accused committed an offence, must next determine whether that offence genuinely needs to stay in the Court of Session. If the offence turns out not to be exclusively triable by the Court of Session, the Judge may frame a charge and then transfer the case down to the Chief Judicial Magistrate or a Judicial Magistrate of the first class, who then tries it using the warrant-case-on-police-report procedure — a jurisdiction-correcting redirect, ensuring cases don't linger at the Sessions level when they don't belong there. But if the offence is exclusively Sessions-triable, the Judge must frame a written charge, and must do so within sixty days from the date of the first hearing on charge — another deliberate time discipline against delay. Sub-section (2) then requires that any charge framed under the exclusively-triable route be formally read and explained to the accused — who may be present either physically or via audio-video electronic means, reflecting the Sanhita's broader modernisation of court attendance — after which the accused must be asked to plead: guilty, or claiming to be tried (i.e., contesting the charge).",
+        "essential_elements": [
+          "(1)(a): If the offence is not exclusively Sessions-triable, the Judge may frame a charge and transfer the case to the Chief Judicial Magistrate/a Judicial Magistrate of the first class for warrant-case (police-report) trial",
+          "(1)(b): If the offence is exclusively Sessions-triable, the Judge must frame a written charge within sixty days of the first hearing on charge",
+          "(2): The framed charge under (1)(b) must be read and explained to the accused (physically present or via audio-video electronic means), who is then asked to plead guilty or claim trial"
+        ],
+        "exceptions_and_qualifications": [
+          "The transfer route in (1)(a) is expressed as discretionary ('may'), while the direct-framing route in (1)(b) for exclusively Sessions-triable offences is mandatory ('shall'), and time-bound to sixty days."
+        ],
+        "how_to_read": "Read (1)(a) and (1)(b) as a jurisdiction-sorting fork triggered by whether the offence is exclusively Sessions-triable, and (2) as the immediate procedural follow-through — charge read, explained, and put to the accused for plea — once the exclusively-triable route is taken."
+      }
+    },
+    {
+      "number": "252",
+      "title": "Conviction on plea of guilty",
+      "raw_text": "252. Conviction on plea of guilty.—If the accused pleads guilty, the Judge shall record the plea and\n    may, in his discretion, convict him thereon.",
+      "key_terms": [
+        "plea",
+        "conviction"
+      ],
+      "breakdown": {
+        "plain_summary": "This section governs the immediate consequence of a guilty plea taken under section 251(2). If the accused pleads guilty to the charge as read and explained, the Judge must record that plea — but conviction itself is not automatic; the Judge retains discretion whether to convict on the plea alone. This built-in judicial discretion is a safeguard against convicting someone purely on a plea that might, on the Judge's own assessment, not be reliable, fully informed, or otherwise safe to act upon without further inquiry — the Judge can instead choose to proceed to the evidence stage even after a guilty plea is entered.",
+        "essential_elements": [
+          "If the accused pleads guilty, the Judge must record the plea",
+          "Conviction on the plea alone is discretionary, not automatic"
+        ],
+        "exceptions_and_qualifications": [
+          "A recorded guilty plea does not by itself compel conviction — the Judge may still decline to convict on the plea and instead require the case to proceed to evidence."
+        ],
+        "how_to_read": "A short but consequential discretion-preserving rule: recording the plea is mandatory, but converting that plea into a conviction is left to the Judge's considered judgment."
+      }
+    },
+    {
+      "number": "253",
+      "title": "Date for prosecution evidence",
+      "raw_text": "253. Date for prosecution evidence.—If the accused refuses to plead, or does not plead, or claims to\n    be tried or is not convicted under section 252, the Judge shall fix a date for the examination of witnesses,\n    and may, on the application of the prosecution, issue any process for compelling the attendance of any\n    witness or the production of any document or other thing.",
+      "key_terms": [
+        "plea"
+      ],
+      "breakdown": {
+        "plain_summary": "This section covers every scenario in which the trial must actually proceed to the evidence stage: the accused refuses to plead, simply does not plead, affirmatively claims to be tried (denying guilt), or pleads guilty but the Judge, exercising the section 252 discretion, chooses not to convict on that plea alone. In any of these situations, the Judge must fix a date for examining witnesses, moving the case forward into its evidentiary phase. To make sure that evidence can actually be produced on that date, the Judge may also, on the prosecution's application, issue compulsory process — summons, warrants, or similar orders — to secure the attendance of witnesses or the production of documents or other things needed for the trial.",
+        "essential_elements": [
+          "Triggers: refusal to plead, no plea entered, a claim to be tried, or a guilty plea not resulting in conviction under section 252",
+          "Response: the Judge fixes a date for examination of witnesses",
+          "The Judge may issue compulsory process (for witness attendance or document/thing production) on the prosecution's application"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Think of this as the pivot point where the case formally exits the plea stage and enters the evidence stage — every non-conviction outcome from sections 251-252 funnels into this section's witness-date-fixing mechanism."
+      }
+    },
+    {
+      "number": "254",
+      "title": "Evidence for prosecution",
+      "raw_text": "254. Evidence for prosecution.— (1) On the date so fixed, the Judge shall proceed to take all such\n    evidence as may be produced in support of the prosecution:\n       Provided that evidence of a witness under this sub-section may be recorded by audio-video electronic\n    means.\n       (2) The deposition of evidence of any public servant may be taken through audio-video electronic\n    means.\n        (3) The Judge may, in his discretion, permit the cross-examination of any witness to be deferred until\n    any other witness or witnesses have been examined or recall any witness for further cross-examination.",
+      "key_terms": [
+        "deposition",
+        "cross-examination",
+        "public servant"
+      ],
+      "breakdown": {
+        "plain_summary": "This section governs the actual taking of prosecution evidence once the date fixed under section 253 arrives. Sub-section (1) requires the Judge to take all evidence produced in support of the prosecution on that date, with a proviso confirming this evidence may be recorded via audio-video electronic means — reflecting the Sanhita's broader embrace of remote/digital testimony where appropriate. Sub-section (2) specifically permits any public servant's deposition to be taken through audio-video electronic means, recognising the practical reality that public servants (such as investigating officers or forensic experts) often face heavy demands on their in-person time and can testify efficiently without always being physically present. Sub-section (3) gives the Judge case-management flexibility over cross-examination sequencing: rather than requiring every witness to be fully cross-examined immediately after their examination-in-chief, the Judge may, at his discretion, defer a witness's cross-examination until other witnesses have testified, or recall a witness later for further cross-examination — useful where, for instance, later testimony or documents may usefully inform how an earlier witness should be cross-examined.",
+        "essential_elements": [
+          "(1): The Judge takes all prosecution evidence on the fixed date; witness evidence may be recorded via audio-video electronic means",
+          "(2): Any public servant's deposition may specifically be taken via audio-video electronic means",
+          "(3): The Judge may, in his discretion, defer a witness's cross-examination until after other witnesses are examined, or recall a witness for further cross-examination"
+        ],
+        "exceptions_and_qualifications": [
+          "The audio-video electronic recording options in (1) and (2) are permissive, not mandatory — the default in-person mode of evidence remains available and is not displaced."
+        ],
+        "how_to_read": "Read (1)-(2) as the Sanhita's embrace of remote evidence-taking (general witnesses under (1)'s proviso, public servants specifically under (2)), and (3) as a separate, purely case-management power over cross-examination sequencing and recall."
       }
     }
   ]
