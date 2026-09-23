@@ -1,13 +1,27 @@
 import { Link } from "react-router-dom";
-import { ScrollText } from "lucide-react";
+import { ScrollText, MessageSquarePlus } from "lucide-react";
 import { actSummaries } from "../data/actRegistry";
+
+const FEEDBACK_FORM_URL =
+  "https://docs.google.com/forms/d/e/1FAIpQLScGjthU229w2wfjJbgr7uvcSM3dMaCV2JyS4BkrYRr95Nqrpw/viewform";
 
 export default function Library() {
   return (
     <div className="bg-[#FDFBF7] min-h-screen">
-      <header className="font-sans flex items-center gap-2 border-b border-stone-200 bg-white/90 backdrop-blur px-4 py-3 shadow-sm">
-        <ScrollText className="w-5 h-5 text-amber-600" />
-        <span className="font-semibold text-stone-800">LexPlain</span>
+      <header className="font-sans flex items-center justify-between gap-2 border-b border-stone-200 bg-white/90 backdrop-blur px-4 py-3 shadow-sm">
+        <div className="flex items-center gap-2">
+          <ScrollText className="w-5 h-5 text-amber-600" />
+          <span className="font-semibold text-stone-800">LexPlain</span>
+        </div>
+        <a
+          href={FEEDBACK_FORM_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-1.5 text-sm text-amber-700 border border-amber-200 bg-amber-50 rounded-md px-2.5 sm:px-3 py-1.5 hover:bg-amber-100 transition shrink-0"
+        >
+          <MessageSquarePlus className="w-4 h-4" />
+          <span className="hidden sm:inline">Feedback</span>
+        </a>
       </header>
       <main className="max-w-5xl mx-auto px-6 py-10">
         <h1 className="font-serif text-2xl font-bold text-stone-900 mb-1">Bare Act Library</h1>
