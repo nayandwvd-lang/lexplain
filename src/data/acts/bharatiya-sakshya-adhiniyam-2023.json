@@ -78,7 +78,16 @@
     "leading question": "A question that suggests the answer the questioner wishes or expects to receive, as defined in s.146(1); generally restricted in examination-in-chief and re-examination but freely permitted in cross-examination.",
     "prior inconsistent statement": "An earlier statement by a witness, made in writing or reduced to writing, that conflicts with their current testimony and may be used to impeach their credibility under s.148, subject to first putting the contradicting portions to the witness.",
     "character-shaking question": "A cross-examination question permitted under s.149(c) aimed at damaging a witness's credibility by attacking their character, subject to the s.149 proviso protecting sexual-offence victims from character/sexual-history questioning on the issue of consent.",
-    "unsound mind": "A mental condition impairing a person's ability to understand questions and give rational answers; under s.124 it disqualifies a witness only where it actually prevents rational testimony, not merely because it exists."
+    "unsound mind": "A mental condition impairing a person's ability to understand questions and give rational answers; under s.124 it disqualifies a witness only where it actually prevents rational testimony, not merely because it exists.",
+    "hostile witness": "A witness who, having been called by a party, gives testimony adverse to that party's case, permitting the Court under s.157 to allow that party to cross-examine their own witness.",
+    "impeachment of credit": "The process of attacking a witness's credibility under s.158, through opinion evidence of untrustworthiness, proof of bribery/corrupt inducement, or prior inconsistent statements.",
+    "corroboration": "Independent evidence supporting or confirming a witness's testimony on a relevant fact, which under s.159 may be sought through the witness's account of surrounding circumstances.",
+    "refreshing memory": "The process under s.162 by which a witness, during examination, consults a contemporaneous writing to revive their independent recollection of a transaction before testifying.",
+    "past recollection recorded": "The doctrine under s.163 permitting a witness to testify to facts recorded in a contemporaneous document even without independent memory of them, based solely on confidence that the record was accurate when made.",
+    "judicial questioning power": "The Judge's power under s.168 to question any witness or party and order production of documents at any stage, subject to the constraints that judgments must rest on relevant, duly proved facts and that the same privileges and improper-question bars binding the parties also bind the Judge.",
+    "harmless error": "An evidentiary ruling (wrongly admitting or excluding evidence) that, under s.169, does not by itself justify a new trial or reversal because it did not affect the ultimate outcome given the balance of evidence.",
+    "repeal": "The formal abolition of a prior statute — here, the Indian Evidence Act, 1872, repealed by s.170(1) of the BSA.",
+    "savings clause": "A statutory provision, such as s.170(2), that preserves the application of a repealed law to matters already pending at the time of repeal, ensuring continuity for ongoing proceedings."
   },
   "sections": [
     {
@@ -2995,6 +3004,297 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "A general decorum/dignity-protecting power for the Court, cabined so it cannot be used to suppress genuinely necessary evidence on the actual issues in the case."
+      }
+    },
+    {
+      "number": "155",
+      "title": "Questions intended to insult or annoy",
+      "raw_text": "The Court shall forbid any question which appears to it to be intended to insult or annoy, or which, though proper in itself, appears to the Court needlessly offensive in form.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Even a technically proper question must be forbidden by the Court if it is designed to insult or annoy the witness, or is phrased in a needlessly offensive way — a mandatory (not discretionary) duty on the Court, unlike s.154's 'may forbid'.",
+        "essential_elements": [
+          "Court must (mandatory 'shall') forbid questions intended to insult or annoy.",
+          "Also covers questions that are substantively proper but needlessly offensive in form."
+        ],
+        "exceptions_and_qualifications": [
+          "Note the drafting contrast with s.154, which uses the discretionary 'may' — s.155 is mandatory, reflecting a stronger duty to protect witness dignity from gratuitously offensive questioning."
+        ],
+        "how_to_read": "Pair with s.154: s.154 (discretionary) screens indecent/scandalous questions for relevance; s.155 (mandatory) screens for gratuitous insult/annoyance regardless of the question's underlying propriety."
+      }
+    },
+    {
+      "number": "156",
+      "title": "Exclusion of evidence to contradict answers to questions testing veracity",
+      "raw_text": "When a witness has been asked and has answered any question which is relevant to the inquiry only in so far as it tends to shake his credit by injuring his character, no evidence shall be given to contradict him; but, if he answers falsely, he may afterwards be charged with giving false evidence.\n\nException 1.—If a witness is asked whether he has been previously convicted of any crime and denies it, evidence may be given of his previous conviction.\n\nException 2.—If a witness is asked any question tending to impeach his impartiality, and answers it by denying the facts suggested, he may be contradicted.\n\nIllustrations\n(a) A claim against an underwriter is resisted on the ground of fraud. The claimant is asked whether, in a former transaction, he had not made a fraudulent claim. He denies it. Evidence is offered to show that he did make such a claim. The evidence is inadmissible.\n(b) A witness is asked whether he was not dismissed from a situation for dishonesty. He denies it. Evidence is offered to show that he was dismissed for dishonesty. The evidence is not admissible.\n(c) A affirms that on a certain day he saw B at Goa. A is asked whether he himself was not on that day at Varanasi. He denies it. Evidence is offered to show that A was on that day at Varanasi. The evidence is admissible, not as contradicting A on a fact which affects his credit, but as contradicting the alleged fact that B was seen on the day in question in Goa. In each of these cases, the witness might, if his denial was false, be charged with giving false evidence.\n(d) A is asked whether his family has not had a blood feud with the family of B against whom he gives evidence. He denies it. He may be contradicted on the ground that the question tends to impeach his impartiality.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "You must generally take a witness's answer to a pure credit-testing question as final — you cannot call further evidence to contradict it (though a false denial can later support a perjury charge). Two exceptions let you contradict: denial of a prior conviction, and denial of facts suggesting bias/partiality.",
+        "essential_elements": [
+          "General rule: no contradicting evidence for answers to purely credit-testing questions.",
+          "Exception 1: prior-conviction denials can be contradicted with proof of the conviction.",
+          "Exception 2: denials of facts suggesting partiality/bias can be contradicted.",
+          "A false denial, even where uncontradictable substantively, can still found a perjury prosecution.",
+          "Illustration (c) shows the boundary: if the 'credit' question is actually a backdoor way of contradicting a substantive fact in the case (not just credit), contradiction is allowed — because it's no longer collateral."
+        ],
+        "exceptions_and_qualifications": [
+          "Illustration (c) is the trickiest: distinguishing genuinely collateral credit questions from questions that double as substantive contradiction is a recurring examination skill."
+        ],
+        "how_to_read": "Treat this as the 'collateral evidence rule' — answers on purely collateral credit matters are final except via the two named exceptions or where the question turns out not to be truly collateral (illustration (c))."
+      }
+    },
+    {
+      "number": "157",
+      "title": "Question by party to his own witness",
+      "raw_text": "(1) The Court may, in its discretion, permit the person who calls a witness to put any question to him which might be put in cross-examination by the adverse party.\n\n(2) Nothing in this section shall disentitle the person so permitted under sub-section (1), to rely on any part of the evidence of such witness.",
+      "key_terms": [
+        "hostile witness"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the statutory basis for declaring/treating a witness as 'hostile' — the Court can let the calling party cross-examine (rather than merely lead) their own witness. Doing so does not forfeit the right to still rely on parts of that witness's evidence that remain favourable.",
+        "essential_elements": [
+          "Court has discretion to permit cross-examination-style questioning of one's own witness.",
+          "The calling party may still rely on any part of that witness's evidence, even after such questioning."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the 'hostile witness' provision in substance (though the Adhiniyam doesn't use that label) — invoke it when your own witness turns adverse mid-testimony."
+      }
+    },
+    {
+      "number": "158",
+      "title": "Impeaching credit of witness",
+      "raw_text": "The credit of a witness may be impeached in the following ways by the adverse party, or, with the consent of the Court, by the party who calls him—\n(a) by the evidence of persons who testify that they, from their knowledge of the witness, believe him to be unworthy of credit;\n(b) by proof that the witness has been bribed, or has accepted the offer of a bribe, or has received any other corrupt inducement to give his evidence;\n(c) by proof of former statements inconsistent with any part of his evidence which is liable to be contradicted.\n\nExplanation.—A witness declaring another witness to be unworthy of credit may not, upon his examination-in-chief, give reasons for his belief, but he may be asked his reasons in cross-examination, and the answers which he gives cannot be contradicted, though, if they are false, he may afterwards be charged with giving false evidence.\n\nIllustrations\n(a) A sues B for the price of goods sold and delivered to B. C says that he delivered the goods to B. Evidence is offered to show that, on a previous occasion, he said that he had not delivered goods to B. The evidence is admissible.\n(b) A is accused of the murder of B. C says that B, when dying, declared that A had given B the wound of which he died. Evidence is offered to show that, on a previous occasion, C said that B, when dying, did not declare that A had given B the wound of which he died. The evidence is admissible.",
+      "key_terms": [
+        "impeachment of credit"
+      ],
+      "breakdown": {
+        "plain_summary": "Three recognised methods to attack a witness's credibility: opinion evidence that they're unworthy of belief, proof of bribery/corrupt inducement, and prior inconsistent statements. A character-attacking witness must give bare opinion in chief (reasons only come out in cross, and those reasons can't be further contradicted, only prosecuted as perjury if false).",
+        "essential_elements": [
+          "Method (a): opinion evidence that the witness is unworthy of credit.",
+          "Method (b): proof of bribery or corrupt inducement to testify.",
+          "Method (c): proof of prior inconsistent statements.",
+          "The adverse party may impeach freely; the calling party needs the Court's consent to impeach their own witness.",
+          "Explanation: an impeaching witness gives bare opinion in chief; reasons come out only in cross, and those reasons are final (not contradictable, only perjury-punishable if false)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the master list of credibility attacks — cross-reference method (c) with ss.148/156 (mechanics of using prior statements) and method (a)'s Explanation with the collateral-finality rule of s.156."
+      }
+    },
+    {
+      "number": "159",
+      "title": "Questions tending to corroborate evidence of relevant fact, admissible",
+      "raw_text": "When a witness whom it is intended to corroborate gives evidence of any relevant fact, he may be questioned as to any other circumstances which he observed at or near to the time or place at which such relevant fact occurred, if the Court is of opinion that such circumstances, if proved, would corroborate the testimony of the witness as to the relevant fact which he testifies.\n\nIllustration\nA, an accomplice, gives an account of a robbery in which he took part. He describes various incidents unconnected with the robbery which occurred on his way to and from the place where it was committed. Independent evidence of these facts may be given in order to corroborate his evidence as to the robbery itself.",
+      "key_terms": [
+        "corroboration"
+      ],
+      "breakdown": {
+        "plain_summary": "A witness can be asked about surrounding circumstantial details (even ones unconnected to the core fact) if proving those details would tend to corroborate their core testimony — the classic 'peripheral detail accuracy implies core accuracy' corroboration technique.",
+        "essential_elements": [
+          "Applies to a witness whose evidence on a relevant fact is intended to be corroborated.",
+          "Permits questioning on other surrounding circumstances observed at/near the time or place of the relevant fact.",
+          "Test: would proof of those circumstances corroborate the witness's core testimony, in the Court's opinion."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The accomplice-robbery illustration is the standard teaching example: peripheral, unconnected details that check out lend credibility to the core account."
+      }
+    },
+    {
+      "number": "160",
+      "title": "Former statements of witness may be proved to corroborate later testimony as to same fact",
+      "raw_text": "In order to corroborate the testimony of a witness, any former statement made by such witness relating to the same fact, at or about the time when the fact took place, or before any authority legally competent to investigate the fact, may be proved.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A witness's own earlier consistent statement (made near the time of the event, or before a competent investigating authority) can be proved to corroborate — bolster the credibility of — their present testimony on the same fact.",
+        "essential_elements": [
+          "Corroborating evidence: the witness's own former statement on the same fact.",
+          "Timing/context qualifiers: made at or about the time of the fact, OR made before an authority legally competent to investigate the fact."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the 'prior consistent statement' corroboration rule — the mirror image of prior inconsistent statements (ss.148/156/158) which are used to impeach rather than corroborate."
+      }
+    },
+    {
+      "number": "161",
+      "title": "What matters may be proved in connection with proved statement relevant under section 26 or 27",
+      "raw_text": "Whenever any statement, relevant under section 26 or 27, is proved, all matters may be proved either in order to contradict or to corroborate it, or in order to impeach or confirm the credit of the person by whom it was made, which might have been proved if that person had been called as a witness and had denied upon cross-examination the truth of the matter suggested.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "When an out-of-court statement is admitted under ss.26-27 (statements by persons who cannot be called as witnesses, e.g. dying declarations or statements by deceased/untraceable declarants), the statement-maker is treated, for corroboration/contradiction/credit purposes, as if they had actually testified and denied the matter on cross — opening the door to the same range of credibility evidence that would apply to a live witness.",
+        "essential_elements": [
+          "Applies to statements admitted under s.26 or s.27 (functionally, statements by unavailable declarants).",
+          "All matters may be proved to contradict, corroborate, impeach, or confirm the statement-maker's credit.",
+          "The test: whatever could have been proved had the declarant testified and denied the matter in cross-examination."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This extends the full toolkit of witness-credibility rules (ss.156-160) to declarants who never actually took the stand, wherever their statement comes in under ss.26/27."
+      }
+    },
+    {
+      "number": "162",
+      "title": "Refreshing memory",
+      "raw_text": "(1) A witness may, while under examination, refresh his memory by referring to any writing made by himself at the time of the transaction concerning which he is questioned, or so soon afterwards that the Court considers it likely that the transaction was at that time fresh in his memory:\n\nProvided that the witness may also refer to any such writing made by any other person, and read by the witness within the time aforesaid, if when he read it, he knew it to be correct.\n\n(2) Whenever a witness may refresh his memory by reference to any document, he may, with the permission of the Court, refer to a copy of such document:\n\nProvided that the Court be satisfied that there is sufficient reason for the non-production of the original:\n\nProvided further that an expert may refresh his memory by reference to professional treatises.",
+      "key_terms": [
+        "refreshing memory"
+      ],
+      "breakdown": {
+        "plain_summary": "A witness testifying live may consult a contemporaneous writing (their own, or someone else's that they read and knew to be correct at the time) to jog their memory. With Court permission and sufficient reason for the original's absence, a copy can be used instead; experts get a special allowance to refresh memory from professional treatises.",
+        "essential_elements": [
+          "Core rule: refresh memory using a writing made by the witness at, or soon after, the transaction while it was fresh in memory.",
+          "Proviso: also covers another person's contemporaneous writing that the witness read and knew to be correct at the time.",
+          "Sub-section (2): a copy may be used instead of the original, with Court permission and sufficient reason for non-production of the original.",
+          "Further proviso: experts may refresh memory using professional treatises, without the contemporaneity requirement."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Distinguish 'refreshing memory' (witness still testifies from revived recollection) from s.163's 'testimony to facts stated in document' (witness has no independent recollection at all and relies on the document's accuracy)."
+      }
+    },
+    {
+      "number": "163",
+      "title": "Testimony to facts stated in document mentioned in section 162",
+      "raw_text": "A witness may also testify to facts mentioned in any such document as is mentioned in section 162, although he has no specific recollection of the facts themselves, if he is sure that the facts were correctly recorded in the document.\n\nIllustration\nA book-keeper may testify to facts recorded by him in books regularly kept in the course of business, if he knows that the books were correctly kept, although he has forgotten the particular transactions entered.",
+      "key_terms": [
+        "past recollection recorded"
+      ],
+      "breakdown": {
+        "plain_summary": "Unlike s.162 (reviving actual memory), this section lets a witness testify to facts they no longer independently remember at all, purely on the strength of their confidence that the record was accurately made at the time — the classic 'past recollection recorded' doctrine, illustrated by a book-keeper vouching for entries they've since forgotten.",
+        "essential_elements": [
+          "No independent recollection of the facts themselves is required.",
+          "Witness must be sure the facts were correctly recorded in the s.162 document at the time.",
+          "Illustration: a book-keeper testifying to correctly-kept business records despite forgetting the underlying transactions."
+        ],
+        "exceptions_and_qualifications": [
+          "The dividing line from s.162: s.162 is 'memory refreshed, now I recall and testify from memory'; s.163 is 'I don't recall at all, but I vouch the record was accurate' — different evidentiary bases though procedurally adjacent."
+        ],
+        "how_to_read": "Use s.163 for business-records-style testimony (book-keepers, routine record custodians) where genuine independent memory of each transaction is neither expected nor required."
+      }
+    },
+    {
+      "number": "164",
+      "title": "Right of adverse party as to writing used to refresh memory",
+      "raw_text": "Any writing referred to under the provisions of the two last preceding sections shall be produced and shown to the adverse party if he requires it; such party may, if he pleases, cross-examine the witness thereupon.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Fairness safeguard: any writing a witness used under ss.162-163 to refresh memory or vouch for recorded facts must be shown to the adverse party on demand, who may then cross-examine on it.",
+        "essential_elements": [
+          "Applies to writings referred to under ss.162 and 163.",
+          "Must be produced and shown to the adverse party if demanded.",
+          "Adverse party may cross-examine the witness on that writing."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A natural-justice check on ss.162-163 — the other side gets full visibility and cross-examination rights over any memory-aid document used against them."
+      }
+    },
+    {
+      "number": "165",
+      "title": "Production of documents",
+      "raw_text": "(1) A witness summoned to produce a document shall, if it is in his possession or power, bring it to Court, notwithstanding any objection which there may be to its production or to its admissibility:\n\nProvided that the validity of any such objection shall be decided on by the Court.\n\n(2) The Court, if it sees fit, may inspect the document, unless it refers to matters of State, or take other evidence to enable it to determine on its admissibility.\n\n(3) If for such a purpose it is necessary to cause any document to be translated, the Court may, if it thinks fit, direct the translator to keep the contents secret, unless the document is to be given in evidence and, if the interpreter disobeys such direction, he shall be held to have committed an offence under section 198 of the Bharatiya Nyaya Sanhita, 2023:\n\nProvided that no Court shall require any communication between the Ministers and the President of India to be produced before it.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A summoned document must be brought to Court regardless of objections — objections are for the Court to rule on, not the witness to pre-judge by withholding. The Court may inspect the document itself (except State-affairs documents) to assess admissibility, may compel a translator to keep contents secret (breach being a BNS offence), and is barred from ever compelling production of Minister-President communications.",
+        "essential_elements": [
+          "A summoned witness must produce the document notwithstanding objections; the Court, not the witness, decides the objection's validity.",
+          "Court may inspect the document (except matters of State) or take other evidence to assess admissibility.",
+          "Court may direct a translator to keep contents secret pending an admissibility ruling; disobedience is a criminal offence under BNS s.198.",
+          "Absolute bar: Minister-President communications can never be required to be produced before any Court."
+        ],
+        "exceptions_and_qualifications": [
+          "The Minister-President communications bar is unqualified ('no Court shall require') — unlike the qualified affairs-of-State privilege in s.129, this one admits no judicial override on the face of the text."
+        ],
+        "how_to_read": "Note the graded privilege structure across the Adhiniyam: s.129 (departmental-head-gated), s.130 (officer's own judgment), and s.165's proviso (absolute bar for Minister-President communications) — increasing levels of protection."
+      }
+    },
+    {
+      "number": "166",
+      "title": "Giving, as evidence, of document called for and produced on notice",
+      "raw_text": "When a party calls for a document which he has given the other party notice to produce, and such document is produced and inspected by the party calling for its production, he is bound to give it as evidence if the party producing it requires him to do so.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "If you demand a document via notice, and the other side produces it and you inspect it, you can be forced to actually put it into evidence if the producing party insists — you can't inspect and then simply discard an unhelpful document.",
+        "essential_elements": [
+          "Applies where a party gives notice to produce, the document is produced, and the calling party inspects it.",
+          "The calling party is bound to tender it in evidence if the producing party requires."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A tactical trap for the unwary: calling for and inspecting a document under notice-to-produce can backfire if it turns out unfavourable — the other side can force you to put it in evidence anyway."
+      }
+    },
+    {
+      "number": "167",
+      "title": "Using, as evidence, of document production of which was refused on notice",
+      "raw_text": "When a party refuses to produce a document which he has had notice to produce, he cannot afterwards use the document as evidence without the consent of the other party or the order of the Court.\n\nIllustration\nA sues B on an agreement and gives B notice to produce it. At the trial, A calls for the document and B refuses to produce it. A gives secondary evidence of its contents. B seeks to produce the document itself to contradict the secondary evidence given by A, or in order to show that the agreement is not stamped. He cannot do so.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "The flip-side sanction: if you refuse to produce a document despite notice (forcing the other side to rely on secondary evidence), you cannot later spring that same document as evidence yourself, without consent or a Court order — you don't get to have it both ways.",
+        "essential_elements": [
+          "Applies to a party who refuses to produce a document despite notice to produce.",
+          "That party is barred from later using the document as evidence, absent the other party's consent or a Court order.",
+          "Illustration: having forced the plaintiff to give secondary evidence by refusing production, the defendant cannot then produce the original to contradict that secondary evidence or attack its stamping."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read ss.166-167 together as a matched pair of tactical-fairness rules governing notice-to-produce: s.166 traps the demanding party who inspects and then wants to bury the document; s.167 traps the refusing party who wants to ambush with it later."
+      }
+    },
+    {
+      "number": "168",
+      "title": "Judge's power to put questions or order production",
+      "raw_text": "The Judge may, in order to discover or obtain proof of relevant facts, ask any question he considers necessary, in any form, at any time, of any witness, or of the parties about any fact; and may order the production of any document or thing; and neither the parties nor their representatives shall be entitled to make any objection to any such question or order, nor, without the leave of the Court, to cross-examine any witness upon any answer given in reply to any such question:\n\nProvided that the judgment must be based upon facts declared by this Adhiniyam to be relevant, and duly proved:\n\nProvided further that this section shall not authorise any Judge to compel any witness to answer any question, or to produce any document which such witness would be entitled to refuse to answer or produce under sections 127 to 136, both inclusive, if the question were asked or the document were called for by the adverse party; nor shall the Judge ask any question which it would be improper for any other person to ask under section 151 or 152; nor shall he dispense with primary evidence of any document, except in the cases hereinbefore excepted.",
+      "key_terms": [
+        "judicial questioning power"
+      ],
+      "breakdown": {
+        "plain_summary": "A sweeping power for the Judge to actively question any witness or party, and order production of any document/thing, at any time, without the parties being entitled to object or (without leave) cross-examine on the answers — but bounded by three limits: judgments must still rest on relevant, duly-proved facts; the same privileges (ss.127-136) and improper-question bars (ss.151-152) that bind the parties bind the Judge too; and the primary-evidence rule isn't dispensed with beyond its existing exceptions.",
+        "essential_elements": [
+          "Judge may ask any question, in any form, at any time, of any witness or party, to discover or prove relevant facts.",
+          "Judge may order production of any document or thing.",
+          "Parties/representatives cannot object to such questions/orders, nor cross-examine on the answers without Court leave.",
+          "Proviso 1: the ultimate judgment must still rest on facts the Adhiniyam declares relevant and duly proved — the Judge's questioning power doesn't relax the standard of proof.",
+          "Proviso 2: the Judge is bound by the same privileges (ss.127-136) and improper-question bars (ss.151-152) as the parties, and cannot dispense with primary evidence beyond the Act's own exceptions."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a strong inquisitorial power layered onto an otherwise adversarial system — practitioners should expect active judicial questioning and know it cannot be objected to, only its ultimate reliance on proper relevant/proved facts can be challenged on appeal."
+        ],
+        "how_to_read": "The two provisos are the exam-answer core: the Judge's power is broad procedurally but is fenced in substantively by ordinary relevance/proof standards and by the same privilege and improper-question rules that bind everyone else."
+      }
+    },
+    {
+      "number": "169",
+      "title": "No new trial for improper admission or rejection of evidence",
+      "raw_text": "The improper admission or rejection of evidence shall not be ground of itself for a new trial or reversal of any decision in any case, if it shall appear to the Court before which such objection is raised that, independently of the evidence objected to and admitted, there was sufficient evidence to justify the decision, or that, if the rejected evidence had been received, it ought not to have varied the decision.",
+      "key_terms": [
+        "harmless error"
+      ],
+      "breakdown": {
+        "plain_summary": "An evidentiary error (wrongly admitting or wrongly rejecting evidence) is not, by itself, grounds for a new trial or reversal on appeal — the appellate/reviewing Court asks whether the error actually mattered: was there enough other evidence to sustain the decision anyway, or would the wrongly-excluded evidence not have changed the outcome even if let in?",
+        "essential_elements": [
+          "Improper admission or rejection of evidence, standing alone, is not automatically reversible error.",
+          "Test for admission errors: was there sufficient other evidence, independent of the improperly admitted evidence, to justify the decision?",
+          "Test for rejection errors: would the wrongly-excluded evidence, if received, have failed to vary the decision anyway?"
+        ],
+        "exceptions_and_qualifications": [
+          "This is India's statutory version of the 'harmless error' doctrine — it prevents technical evidentiary slip-ups from automatically upending otherwise sound decisions."
+        ],
+        "how_to_read": "The go-to section for resisting an appeal grounded purely on an evidentiary admission/rejection ruling — frame the argument around whether the error was actually outcome-determinative."
+      }
+    },
+    {
+      "number": "170",
+      "title": "Repeal and savings",
+      "raw_text": "(1) The Indian Evidence Act, 1872 is hereby repealed.\n\n(2) Notwithstanding such repeal, if, immediately before the date on which this Adhiniyam comes into force, there is any application, trial, inquiry, investigation, proceeding or appeal pending, then, such application, trial, inquiry, investigation, proceeding or appeal shall be dealt with under the provisions of the Indian Evidence Act, 1872, as in force immediately before such commencement, as if this Adhiniyam had not come into force.",
+      "key_terms": [
+        "repeal",
+        "savings clause"
+      ],
+      "breakdown": {
+        "plain_summary": "The closing section: it formally repeals the Indian Evidence Act, 1872 (the 151-year-old predecessor this Adhiniyam replaces), but protects continuity — anything already pending (applications, trials, inquiries, investigations, proceedings, appeals) as of the commencement date continues to be governed by the old 1872 Act, not the BSA, as if the BSA had never come into force for that matter.",
+        "essential_elements": [
+          "Sub-section (1): outright repeal of the Indian Evidence Act, 1872.",
+          "Sub-section (2): savings clause — pending matters (applications, trials, inquiries, investigations, proceedings, appeals) as of the commencement date continue under the old 1872 Act.",
+          "The fiction used is 'as if this Adhiniyam had not come into force' for those specific pending matters — full continuity, not a hybrid application of old and new law."
+        ],
+        "exceptions_and_qualifications": [
+          "Practitioners must check whether a matter was 'pending' immediately before the BSA's commencement to know which evidence regime (1872 Act vs. BSA, 2023) governs it — this is a live, practically significant threshold question for ongoing litigation from the transition period."
+        ],
+        "how_to_read": "This is the transition/vesting-of-rights section common to all repeal-and-reenactment statutes — always check the commencement date and pendency status first when a case straddles the 1872 Act/BSA boundary."
       }
     }
   ]
