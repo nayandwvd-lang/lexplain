@@ -700,7 +700,18 @@
     "mandatory reservation for High-Court-endangering Bills": "The Article 200 second proviso requiring a Governor to reserve — never directly assent to — any Bill that in his opinion would, if enacted, so derogate from a High Court's powers as to endanger the position the Constitution designed it to fill; a State-specific judicial-independence safeguard with no Union-level parallel.",
     "President's binary assent/withhold choice on reserved Bills": "The Article 201 rule that once a Governor reserves a State Bill for Presidential consideration, the President's own choice is limited to assent or withholding — no further reservation is available at this final stage.",
     "President's non-Money-Bill return-for-reconsideration power": "The Article 201 proviso letting the President, for non-Money Bills only, direct the Governor to return a reserved Bill to the State Legislature with a reconsideration message paralleling Article 200's first proviso.",
-    "six-month reconsideration window (President-returned State Bills)": "The Article 201 proviso's mandatory time limit — six months from receipt of the President's return message — within which a State Legislature must reconsider a returned Bill; re-passage (with or without amendment) sends it back to the President for renewed, still-discretionary consideration."
+    "six-month reconsideration window (President-returned State Bills)": "The Article 201 proviso's mandatory time limit — six months from receipt of the President's return message — within which a State Legislature must reconsider a returned Bill; re-passage (with or without amendment) sends it back to the President for renewed, still-discretionary consideration.",
+    "annual financial statement (State budget)": "The Article 202(1) term for the State budget — the Governor's yearly statement of estimated receipts and expenditure laid before the State Legislature, mirroring the Union's Article 112 annual financial statement.",
+    "charged-versus-votable expenditure split (State budget)": "The Article 202(2) requirement that estimated State expenditure be shown separately as expenditure charged on the Consolidated Fund of the State (immune from an Assembly vote) versus other, votable expenditure.",
+    "expenditure charged on Consolidated Fund of the State (six categories)": "The Article 202(3) list of six automatically charged expenditure categories — Governor's emoluments/office expenses, presiding officers' salaries, State debt charges, High Court Judges' salaries, court/arbitral award satisfaction, and any other law-declared charged expenditure — insulated from the ordinary vote-of-confidence budget process.",
+    "no-vote-but-discussable rule for charged estimates": "The Article 203(1) rule that charged expenditure estimates cannot be put to an Assembly vote for approval or rejection, but remain fully open to legislative discussion and scrutiny.",
+    "demands for grants (votable State expenditure)": "The Article 203(2) mechanism by which non-charged (votable) State expenditure estimates are presented to the Legislative Assembly as individual demands for grants, each subject to Assembly assent, reduction, or refusal.",
+    "Assembly's power to reduce or refuse a grant demand": "The Article 203(2) power letting the Legislative Assembly assent to, reduce the amount of, or wholly refuse any demand for a grant — the Assembly's role is to scrutinise and cut proposed votable expenditure, not to originate it.",
+    "Governor's recommendation precondition for grant demands": "The Article 203(3) rule that no demand for a grant may be made in the Legislative Assembly except on the Governor's recommendation, reserving the power to originate spending proposals to the executive.",
+    "Appropriation Bill combining Assembly grants and charged expenditure": "The Article 204(1) Bill introduced after the Assembly makes its grants, appropriating from the Consolidated Fund of the State all money needed to meet both the Assembly-approved grants and the fixed charged-expenditure amounts (capped at the previously laid statement's figures).",
+    "amendment bar on grant amount/destination and charged expenditure amount": "The Article 204(2) rule barring any Appropriation Bill amendment that would vary a grant's amount or destination, or vary the amount of charged expenditure — the underlying figures, once fixed by the grants process, cannot be reopened at the appropriation stage.",
+    "presiding officer's final ruling on amendment inadmissibility": "The Article 204(2) rule making the presiding officer's decision on whether a proposed Appropriation Bill amendment is inadmissible under the amendment bar final and unchallengeable.",
+    "legal-appropriation precondition for withdrawing Consolidated Fund moneys": "The Article 204(3) rule that no money may be withdrawn from a State's Consolidated Fund except under an appropriation made by law passed under this Article, subject only to the special mechanisms in Articles 205 and 206."
   },
   "sections": [
     {
@@ -5744,6 +5755,75 @@
           "The six-month window is the outer limit for reconsideration, but there is no fixed deadline by which the President must act on the Bill in the first place or upon its return."
         ],
         "how_to_read": "Read Article 201 alongside Article 200 as a two-stage assent pipeline for reserved Bills, and pay particular attention to the asymmetry at the final stage: the President's discretion survives re-passage in a way the Governor's does not, giving the Union a genuine, unconditional check on State legislation flagged for Presidential consideration."
+      }
+    },
+    {
+      "number": "202",
+      "title": "Annual financial statement",
+      "raw_text": "(1) The Governor shall in respect of every financial year cause to be laid before the House or Houses of the Legislature of the State a statement of the estimated receipts and expenditure of the State for that year, in this Part referred to as the \"annual financial statement\".\n(2) The estimates of expenditure embodied in the annual financial statement shall show separately—\n(a) the sums required to meet expenditure described by this Constitution as expenditure charged upon the Consolidated Fund of the State; and\n(b) the sums required to meet other expenditure proposed to be made from the Consolidated Fund of the State;\nand shall distinguish expenditure on revenue account from other expenditure.\n(3) The following expenditure shall be expenditure charged on the Consolidated Fund of each State—\n(a) the emoluments and allowances of the Governor and other expenditure relating to his office;\n(b) the salaries and allowances of the Speaker and the Deputy Speaker of the Legislative Assembly and, in the case of a State having a Legislative Council, also of the Chairman and the Deputy Chairman of the Legislative Council;\n(c) debt charges for which the State is liable including interest, sinking fund charges and redemption charges, and other expenditure relating to the raising of loans and the service and redemption of debt;\n(d) expenditure in respect of the salaries and allowances of Judges of any High Court;\n(e) any sums required to satisfy any judgment, decree or award of any court or arbitral tribunal;\n(f) any other expenditure declared by this Constitution, or by the Legislature of the State by law, to be so charged.",
+      "key_terms": [
+        "annual financial statement (State budget)",
+        "charged-versus-votable expenditure split (State budget)",
+        "expenditure charged on Consolidated Fund of the State (six categories)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 202 is the State-level counterpart to Article 112, requiring the Governor to lay a State budget (the 'annual financial statement') before the Legislature every financial year, splitting estimated expenditure into two categories: 'charged' expenditure (a fixed list the Legislature cannot vote down, only discuss) and 'other' (votable) expenditure. The six charged categories protect institutional independence and honour pre-existing legal/financial obligations — the Governor's own establishment, the four presiding officers' salaries, State debt servicing, High Court Judges' salaries, court/arbitral-award satisfaction, and any other expenditure a law declares charged — deliberately insulating these from the ordinary political vote-of-confidence dynamics that govern the rest of the budget.",
+        "essential_elements": [
+          "Clause (1): the Governor must cause an annual financial statement (the State budget) to be laid before the Legislature every financial year.",
+          "Clause (2): expenditure estimates must separately show charged versus other (votable) expenditure, and distinguish revenue-account from other expenditure.",
+          "Clause (3): the six specific categories of automatically charged expenditure — Governor's establishment, presiding officers' salaries, debt servicing, High Court Judges' salaries, court/tribunal award satisfaction, and any other law-declared charged expenditure."
+        ],
+        "exceptions_and_qualifications": [
+          "Charged expenditure can be discussed by the Legislature but not put to a vote for approval or rejection — this is a structural protection, not a secrecy or opacity measure.",
+          "The presiding-officer-salary charged category covers all four officers only when the State is bicameral (Chairman/Deputy Chairman apply only where a Legislative Council exists) — a unicameral State's charged list under clause 3(b) covers only the Speaker and Deputy Speaker."
+        ],
+        "how_to_read": "Read Article 202 as Article 112's precise State-level mirror — note the charged-expenditure list is nearly identical in structure and purpose to the Union list (Article 112(3)), just scaled to State institutions (Governor instead of President, High Court Judges' State-borne salary share instead of Supreme Court Judges)."
+      }
+    },
+    {
+      "number": "203",
+      "title": "Procedure in Legislature with respect to estimates",
+      "raw_text": "(1) So much of the estimates as relates to expenditure charged upon the Consolidated Fund of a State shall not be submitted to the vote of the Legislative Assembly, but nothing in this clause shall be construed as preventing the discussion in the Legislature of any of those estimates.\n(2) So much of the said estimates as relates to other expenditure shall be submitted in the form of demands for grants to the Legislative Assembly, and the Legislative Assembly shall have power to assent, or to refuse to assent, to any demand, or to assent to any demand subject to a reduction of the amount specified therein.\n(3) No demand for a grant shall be made except on the recommendation of the Governor.",
+      "key_terms": [
+        "no-vote-but-discussable rule for charged estimates",
+        "demands for grants (votable State expenditure)",
+        "Assembly's power to reduce or refuse a grant demand",
+        "Governor's recommendation precondition for grant demands"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 203 is the State-level counterpart to Article 113, translating Article 202's charged/votable split into concrete legislative procedure. Charged estimates cannot be voted on (though they can still be freely debated), reinforcing their protected status. Votable estimates are presented to the Legislative Assembly alone (never the Council, which has no financial-approval role) as individual 'demands for grants,' which the Assembly may approve in full, reduce, or reject outright — but every demand must first be recommended by the Governor, since only the executive can propose new spending, with the Legislature's role confined to scrutinising and cutting rather than originating expenditure demands.",
+        "essential_elements": [
+          "Clause (1): charged expenditure is immune from an Assembly vote but remains fully open to legislative discussion and scrutiny.",
+          "Clause (2): votable expenditure goes to the Legislative Assembly alone as demands for grants, which it may assent to, reduce, or refuse.",
+          "Clause (3): a Governor's recommendation is a mandatory precondition for any demand for a grant — the Legislature cannot originate spending demands on its own initiative."
+        ],
+        "exceptions_and_qualifications": [
+          "Only the Legislative Assembly votes on demands for grants — the Legislative Council, even where it exists, has no role in approving, reducing, or rejecting the State budget's votable expenditure."
+        ],
+        "how_to_read": "Read Article 203 as Article 113's precise State-level mirror — the Assembly's power here is essentially the power to cut, not to add: it can reduce or refuse a Governor-recommended demand, but cannot originate new spending demands itself."
+      }
+    },
+    {
+      "number": "204",
+      "title": "Appropriation Bills",
+      "raw_text": "(1) As soon as may be after the grants under article 203 have been made by the Assembly, there shall be introduced a Bill to provide for the appropriation out of the Consolidated Fund of the State of all moneys required to meet—\n(a) the grants so made by the Assembly; and\n(b) the expenditure charged on the Consolidated Fund of the State but not exceeding in any case the amount shown in the statement previously laid before the House or Houses.\n(2) No amendment shall be proposed to any such Bill in the House or either House of the Legislature of the State which will have the effect of varying the amount or altering the destination of any grant so made or of varying the amount of any expenditure charged on the Consolidated Fund of the State, and the decision of the person presiding as to whether an amendment is inadmissible under this clause shall be final.\n(3) Subject to the provisions of articles 205 and 206, no money shall be withdrawn from the Consolidated Fund of the State except under appropriation made by law passed in accordance with the provisions of this article.",
+      "key_terms": [
+        "Appropriation Bill combining Assembly grants and charged expenditure",
+        "amendment bar on grant amount/destination and charged expenditure amount",
+        "presiding officer's final ruling on amendment inadmissibility",
+        "legal-appropriation precondition for withdrawing Consolidated Fund moneys"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 204 is the State-level counterpart to Article 114, converting the Assembly's approved grants (Article 203) plus the fixed charged-expenditure amounts (Article 202) into a single Appropriation Bill that legally authorises actual withdrawal of money from the Consolidated Fund. Once the underlying figures have been settled through the grants process, no amendment altering a grant's amount/destination or a charged item's amount is permitted at this later Bill stage — the figures are locked in, and the presiding officer's ruling on whether a proposed amendment violates this bar is final and unchallengeable. Critically, no money can leave the Consolidated Fund at all without this Appropriation Law (subject only to the special mechanisms in Articles 205 and 206) — the entire elaborate estimates/grants/appropriation sequence exists precisely to satisfy this constitutional gatekeeping requirement.",
+        "essential_elements": [
+          "Clause (1): a single Appropriation Bill covers both Assembly-approved grants and charged expenditure (capped at the previously laid statement's figures), introduced promptly after grants are made.",
+          "Clause (2): amendments altering a grant's amount/destination or a charged item's amount are barred; the presiding officer's inadmissibility ruling is final.",
+          "Clause (3): no money leaves the Consolidated Fund without appropriation under this Article, subject only to Articles 205 (supplementary/excess grants) and 206 (votes on account/credit/exceptional grants)."
+        ],
+        "exceptions_and_qualifications": [
+          "The amendment bar in clause (2) only blocks changes to amounts/destinations already fixed by the grants process — it does not bar all amendments to the Appropriation Bill whatsoever, just those that would re-open figures already settled."
+        ],
+        "how_to_read": "Read Article 204 as Article 114's precise State-level mirror, and read it as the necessary final legal step converting political approval (grants) into legal authority (appropriation) — Articles 205 and 206 exist as the recognised escape valves for situations this basic sequence can't handle in real time."
       }
     }
   ]
