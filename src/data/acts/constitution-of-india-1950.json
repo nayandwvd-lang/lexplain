@@ -649,7 +649,27 @@
     "common posts across both Houses proviso (State Secretariat)": "The proviso to Article 187(1) permitting a bicameral State's Legislature to create secretarial posts common to both the Assembly and the Council, avoiding unnecessary staffing duplication while still guaranteeing each House its own dedicated staff.",
     "State law regulating Legislature secretarial staff recruitment/conditions": "The Article 187(2) power letting a State Legislature regulate, by law, the recruitment and conditions of service of persons appointed to its House(s)' secretarial staff — the primary, preferred regulatory mechanism.",
     "Governor's interim rules for Secretariat staff (post-Speaker/Chairman consultation)": "The Article 187(3) interim rule-making power letting the Governor regulate Secretariat staff recruitment and service conditions absent a State law on the subject, but only after consulting the Speaker (Assembly staff) or Chairman (Council staff), with such rules yielding to any later State law.",
-    "member's oath before taking seat (State Legislature)": "The Article 188 requirement that every State Legislature member — Assembly or Council — make and subscribe the Third Schedule oath or affirmation before the Governor (or his delegate) before actually taking his seat, distinct from the earlier Article 173(a) pre-candidacy oath."
+    "member's oath before taking seat (State Legislature)": "The Article 188 requirement that every State Legislature member — Assembly or Council — make and subscribe the Third Schedule oath or affirmation before the Governor (or his delegate) before actually taking his seat, distinct from the earlier Article 173(a) pre-candidacy oath.",
+    "ordinary-majority voting rule (State Legislature)": "The Article 189(1) default rule that all questions in either House of a State Legislature are decided by a majority of members present and voting (excluding the presiding officer), other than matters for which the Constitution prescribes a special majority.",
+    "Speaker/Chairman's no-vote-except-casting-vote rule": "The Article 189(1) proviso barring the Speaker, Chairman, or person acting as such from voting in the first instance, while giving him a casting vote in the case of an equality of votes — the Council/Assembly-level mirror of Article 100(1)'s Union rule.",
+    "House's power to act despite vacancies/ineligible participants": "The Article 189(2) validity-preserving rule that proceedings of a State House remain valid despite an unfilled vacancy or the participation of a person later found not entitled to sit/vote, ensuring legislative business isn't retroactively invalidated.",
+    "quorum: 10 members or one-tenth, whichever greater (State House)": "The Article 189(3) quorum rule for a State Legislature House — the greater of ten members or one-tenth of the total membership — and the linked duty of the presiding officer to adjourn or suspend the sitting if quorum is not met.",
+    "bar on dual-House membership within one State": "The Article 190(1) rule that no person may simultaneously be a member of both the Legislative Assembly and Legislative Council of the same State; State law prescribes how the seat in one House is vacated upon election/nomination to the other.",
+    "bar on membership across multiple States' Legislatures": "The Article 190(1)/Article 190(2) rule barring simultaneous membership in the Legislatures of two or more States, with Parliament empowered to make the specifying law; a person elected to Legislatures of two or more States must vacate his seat in all but one within the prescribed time or his seat in every House becomes automatically vacant.",
+    "seat vacation on Article 191 disqualification or accepted resignation": "The Article 190(3) rule that a State Legislature member's seat becomes vacant if he becomes subject to any Article 191 disqualification, or if he resigns in writing addressed to the Speaker/Chairman and the resignation is accepted.",
+    "genuineness-of-resignation inquiry by Speaker/Chairman": "The Article 190(3) proviso (inserted by the Thirty-third Amendment, 1974) requiring the Speaker or Chairman, before accepting a resignation, to satisfy himself that it is voluntary and genuine, with a discretion to withhold acceptance if not so satisfied — a safeguard against coerced or fraudulent resignations.",
+    "sixty-day unauthorised absence seat forfeiture (State House)": "The Article 190(4) rule letting a State House declare a member's seat vacant if he is absent from all its sittings for sixty days without its permission, excluding periods of prorogation or adjournment for more than four consecutive days when computing the sixty days.",
+    "office of profit disqualification (State Legislature)": "The Article 191(1)(a) disqualification barring a person from being chosen as, or being, a State Legislature member if he holds an office of profit under the Union or State Government (other than an office Parliamentary/State law declares not to disqualify) — the State-level mirror of Article 102(1)(a).",
+    "unsound mind disqualification (State Legislature)": "The Article 191(1)(b) disqualification for a person of unsound mind so declared by a competent court, mirroring Article 102(1)(b) at Union level.",
+    "undischarged insolvent disqualification (State Legislature)": "The Article 191(1)(c) disqualification for an undischarged insolvent, mirroring Article 102(1)(c) at Union level.",
+    "citizenship/foreign allegiance disqualification (State Legislature)": "The Article 191(1)(d) disqualification for a person not an Indian citizen, or who has voluntarily acquired foreign citizenship, or is under any acknowledgement of allegiance/adherence to a foreign State, mirroring Article 102(1)(d).",
+    "Parliamentary-law disqualification ground (State Legislature)": "The Article 191(1)(e) residual disqualification ground for grounds made by or under any law enacted by Parliament, mirroring Article 102(1)(e); Parliament, not the State Legislature, holds this residual law-making power.",
+    "Minister exemption from office-of-profit bar (State)": "The Explanation to Article 191(1) clarifying that a person is not disqualified merely for being a Minister of the Union or a State — the office-of-profit bar does not reach a Minister's own ministerial office.",
+    "Tenth Schedule anti-defection disqualification (State Legislature)": "The Article 191(2) disqualification (added by the Fifty-second Amendment, 1985) for defection under the Tenth Schedule, applying to State Legislature members exactly as Article 102(2) applies it to Parliament members.",
+    "Governor as adjudicator of Article 191(1) disqualification disputes": "The Article 192(1) rule that questions on whether a sitting State Legislature member has become subject to any Article 191(1) disqualification are decided by the Governor, whose decision is final — the State-level mirror of the President's role under Article 103, but confined to Article 191(1) grounds only (Tenth Schedule defection questions go to the Speaker/Chairman instead).",
+    "mandatory, binding Election Commission opinion (Governor's disqualification decision)": "The Article 192(2) requirement that before deciding any Article 191(1) disqualification question, the Governor must obtain the Election Commission's opinion and act according to it — making the Governor's 'final' decision substantively an Election-Commission-driven determination.",
+    "per-day penalty for sitting/voting without oath or while disqualified (State Legislature)": "The Article 193 penalty of five hundred rupees for each day a person sits or votes as a State Legislature member before making the Article 188 oath, or while knowing he is not qualified or is disqualified, or while knowing a Parliamentary law forbids it.",
+    "penalty recovered as a debt due to the State": "The Article 193 enforcement mechanism specifying that the per-day penalty for improper sitting/voting is recovered as an ordinary civil debt owed to the State Government, not through a separate criminal or contempt process."
   },
   "sections": [
     {
@@ -5378,6 +5398,130 @@
           "This Article 188 oath is textually and functionally distinct from the Article 173(a) pre-candidacy oath — the latter must be made before an Election-Commission-authorised person as a condition of candidacy itself; this one is made before the Governor (or his delegate) as a condition of actually sitting after being duly chosen."
         ],
         "how_to_read": "Read Article 188 as Article 99's precise State-level mirror — always distinguish it from Article 173(a)'s earlier, differently-administered pre-candidacy oath; a member takes two separate oaths at two separate stages of the process."
+      }
+    },
+    {
+      "number": "189",
+      "title": "Voting in Houses, power of Houses to act notwithstanding vacancies and quorum",
+      "raw_text": "(1) Save as otherwise provided in this Constitution, all questions at any sitting of a House of the Legislature of a State shall be determined by a majority of votes of the members present and voting, other than the Speaker or Chairman, or person acting as such.\nThe Speaker or Chairman, or person acting as such, shall not vote in the first instance, but shall have and exercise a casting vote in the case of an equality of votes.\n(2) A House of the Legislature of a State shall have power to act notwithstanding any vacancy in the membership thereof, and any proceedings in the Legislature of a State shall be valid notwithstanding that it is discovered subsequently that some person who was not entitled so to do sat or voted or otherwise took part in the proceedings.\n(3) Until the Legislature of the State by law otherwise provides, the quorum to constitute a meeting of a House of the Legislature of a State shall be ten members or one-tenth of the total number of members of the House, whichever is greater.\n(4) If at any time during a meeting of the Legislative Assembly or the Legislative Council of a State there is no quorum, it shall be the duty of the Speaker or Chairman, or person acting as such, either to adjourn the House or to suspend the meeting until there is a quorum.",
+      "key_terms": [
+        "ordinary-majority voting rule (State Legislature)",
+        "Speaker/Chairman's no-vote-except-casting-vote rule",
+        "House's power to act despite vacancies/ineligible participants",
+        "quorum: 10 members or one-tenth, whichever greater (State House)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 189 mirrors Article 100's Union-level rules on voting, quorum, and procedural validity, transposed to State Houses. Ordinary questions are decided by simple majority of members present and voting, excluding the presiding officer, who votes only to break a tie (never in the first instance). Houses can validly function despite membership vacancies, and proceedings remain valid even if it later emerges an ineligible person sat or voted. Quorum, absent State legislation otherwise, is 10 members or one-tenth of total House membership (whichever is greater); if quorum is lost mid-meeting, the presiding officer must adjourn or suspend until quorum is restored.",
+        "essential_elements": [
+          "Clause (1): simple majority of members present and voting decides ordinary questions, excluding the Speaker/Chairman (or acting equivalent), who has only a casting vote in case of a tie — never a first-instance vote.",
+          "Clause (2): vacancies in House membership don't disable the House from acting, and later-discovered participation by an ineligible person doesn't retroactively invalidate proceedings — protecting institutional stability against technical challenges.",
+          "Clause (3): default quorum is 10 members or one-tenth of total House membership, whichever is greater, until the State Legislature legislates a different figure.",
+          "Clause (4): losing quorum mid-meeting obliges the presiding officer to either adjourn the House or suspend the meeting until quorum is restored — not to continue proceedings without quorum."
+        ],
+        "exceptions_and_qualifications": [
+          "'Save as otherwise provided in this Constitution' in clause (1) flags that some specific matters require a different (often higher) voting threshold elsewhere in the Constitution — e.g., the absolute-majority-plus-14-day-notice threshold for removing a Speaker/Chairman under Articles 179(c)/183(c)."
+        ],
+        "how_to_read": "Read Article 189 as Article 100's precise State-level mirror — the quorum and casting-vote rules are frequently tested distinctions from ordinary parliamentary procedure, and the clause (2) validity-preservation rule is an important practical safeguard against procedural challenges to legislative business."
+      }
+    },
+    {
+      "number": "190",
+      "title": "Vacation of seats",
+      "raw_text": "(1) No person shall be a member of both Houses of the Legislature of a State and provision shall be made by the Legislature of the State by law for the vacation by a person who is chosen a member of both Houses of his seat in one house or the other.\n(2) No person shall be a member of the Legislatures of two or more States specified in the First Schedule and if a person is chosen a member of the Legislatures of two or more such States, then, at the expiration of such period as may be specified in rules made by the President, that person's seat in the Legislatures of all such States shall become vacant, unless he has previously resigned his seat in the Legislatures of all but one of the States.\n(3) If a member of a House of the Legislature of a State—\n(a) becomes subject to any of the disqualifications mentioned in clause (1) or clause (2) of article 191; or\n(b) resigns his seat by writing under his hand addressed to the Speaker or the Chairman, as the case may be, and his resignation is accepted by the Speaker or the Chairman, as the case may be,\nhis seat shall thereupon become vacant:\nProvided that in the case of any resignation referred to in sub-clause (b), if from information received or otherwise and after making such inquiry as he thinks fit, the Speaker or the Chairman, as the case may be, is satisfied that such resignation is not voluntary or genuine, he shall not accept such resignation.\n(4) If for a period of sixty days a member of a House of the Legislature of a State is without permission of the House absent from all meetings thereof, the House may declare his seat vacant:\nProvided that in computing the said period of sixty days no account shall be taken of any period during which the House is prorogued or is adjourned for more than four consecutive days.",
+      "key_terms": [
+        "bar on dual-House membership within one State",
+        "bar on membership across multiple States' Legislatures",
+        "seat vacation on Article 191 disqualification or accepted resignation",
+        "genuineness-of-resignation inquiry by Speaker/Chairman",
+        "sixty-day unauthorised absence seat forfeiture (State House)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 190 mirrors Article 101's Union-level rules on seat vacation, applied to State Legislatures. A person cannot simultaneously be a member of both Houses within one State (State law resolves the conflict if someone is chosen to both) or a member of multiple States' Legislatures simultaneously (President's rules fix a grace period to resign all-but-one, after which all such seats automatically vacate). A seat also vacates on becoming disqualified under Article 191 or on a resignation that the presiding officer accepts — but crucially, the presiding officer must first satisfy himself the resignation is genuinely voluntary, a Thirty-third Amendment (1974) safeguard against coerced or bogus mass resignations. Finally, sixty consecutive days' unauthorised absence (excluding prorogation periods and adjournments exceeding four days) lets the House declare the seat vacant.",
+        "essential_elements": [
+          "Clause (1): no dual membership of both Houses within a single State's bicameral Legislature — State law provides the mechanism for the affected person to choose one House and vacate the other.",
+          "Clause (2): no membership across multiple States' Legislatures simultaneously — President-made rules (the Prohibition of Simultaneous Membership Rules, 1950) fix a grace period, after which all such seats automatically vacate unless the person has already resigned from all but one.",
+          "Clause (3)(a): automatic seat vacation on becoming subject to an Article 191(1) or (2) disqualification.",
+          "Clause (3)(b) plus proviso: seat vacation on a written resignation addressed to and accepted by the Speaker/Chairman — but the presiding officer must inquire into and be satisfied the resignation is voluntary and genuine before accepting it, and must refuse to accept it if not so satisfied.",
+          "Clause (4): sixty consecutive days' unauthorised absence from all House meetings lets the House declare the seat vacant, with prorogation periods and adjournments of more than four consecutive days excluded from the sixty-day computation."
+        ],
+        "exceptions_and_qualifications": [
+          "The resignation-genuineness inquiry proviso (added by the Thirty-third Amendment, 1974) was a direct response to concerns about members being pressured or induced to resign en masse — it gives the presiding officer real gatekeeping power, not a mere formality.",
+          "The sixty-day absence rule under clause (4) is discretionary ('the House may declare') rather than automatic, unlike the disqualification/resignation triggers in clause (3)."
+        ],
+        "how_to_read": "Read Article 190 as Article 101's precise State-level mirror — the resignation-genuineness safeguard and the sixty-day-absence discretionary (not automatic) forfeiture are the two provisions most likely to matter in a real defection or coerced-resignation dispute."
+      }
+    },
+    {
+      "number": "191",
+      "title": "Disqualifications for membership",
+      "raw_text": "(1) A person shall be disqualified for being chosen as, and for being, a member of the Legislative Assembly or Legislative Council of a State—\n(a) if he holds any office of profit under the Government of India or the Government of any State specified in the First Schedule, other than an office declared by the Legislature of the State by law not to disqualify its holder;\n(b) if he is of unsound mind and stands so declared by a competent court;\n(c) if he is an undischarged insolvent;\n(d) if he is not a citizen of India, or has voluntarily acquired the citizenship of a foreign State, or is under any acknowledgment of allegiance or adherence to a foreign State;\n(e) if he is so disqualified by or under any law made by Parliament.\nExplanation.—For the purposes of this clause, a person shall not be deemed to hold an office of profit under the Government of India or the Government of any State specified in the First Schedule by reason only that he is a Minister either for the Union or for such State.\n(2) A person shall be disqualified for being a member of the Legislative Assembly or Legislative Council of a State if he is so disqualified under the Tenth Schedule.",
+      "key_terms": [
+        "office of profit disqualification (State Legislature)",
+        "unsound mind disqualification (State Legislature)",
+        "undischarged insolvent disqualification (State Legislature)",
+        "citizenship/foreign allegiance disqualification (State Legislature)",
+        "Parliamentary-law disqualification ground (State Legislature)",
+        "Minister exemption from office-of-profit bar (State)",
+        "Tenth Schedule anti-defection disqualification (State Legislature)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 191 mirrors Article 102's Union-level disqualification grounds, applied to State Legislature membership: holding a disqualifying office of profit under the Union or any State (unless the State Legislature exempts that office by law), unsound mind judicially declared, undischarged insolvency, non-citizenship or foreign allegiance, and any further ground Parliament prescribes by law. A Minister's office (Union or State) is expressly excluded from counting as a disqualifying office of profit — otherwise every Minister would be automatically disqualified from the very Legislature they must belong to. Clause (2), added by the Fifty-second Amendment (1985), adds Tenth Schedule anti-defection disqualification as a further, freestanding ground.",
+        "essential_elements": [
+          "Clause (1)(a): office-of-profit disqualification, with a State-legislative-exemption safety valve and the Explanation's blanket carve-out for Ministerial office.",
+          "Clause (1)(b): unsound mind, but only if judicially declared by a competent court — not merely alleged.",
+          "Clause (1)(c): undischarged insolvency.",
+          "Clause (1)(d): non-citizenship, voluntary acquisition of foreign citizenship, or acknowledgment of allegiance/adherence to a foreign State.",
+          "Clause (1)(e): any further disqualification Parliament prescribes by law (e.g., certain election-related and criminal-conviction disqualifications under the Representation of the People Act, 1951).",
+          "Clause (2) (1985): Tenth Schedule anti-defection disqualification — a member who defects per the Tenth Schedule's criteria is disqualified independent of the clause (1) grounds."
+        ],
+        "exceptions_and_qualifications": [
+          "The Explanation's Ministerial exemption applies only to the office-of-profit ground (clause (1)(a)) — it does not exempt a Minister from the other four grounds in clause (1) or from Tenth Schedule disqualification under clause (2).",
+          "'Office of profit' disqualification disputes have generated substantial litigation over what counts as an 'office' and what counts as 'profit,' and over the scope of State-legislative exemption laws."
+        ],
+        "how_to_read": "Read Article 191 as Article 102's precise State-level mirror, right down to the same five original grounds plus the identical 1985 Tenth Schedule addition — always check whether a State-legislative exemption law covers the specific office in question before concluding an office-of-profit disqualification applies."
+      }
+    },
+    {
+      "number": "192",
+      "title": "Decision on questions as to disqualifications of members",
+      "raw_text": "(1) If any question arises as to whether a member of a House of the Legislature of a State has become subject to any of the disqualifications mentioned in clause (1) of article 191, the question shall be referred for the decision of the Governor and his decision shall be final.\n(2) Before giving any decision on any such question, the Governor shall obtain the opinion of the Election Commission and shall act according to such opinion.",
+      "key_terms": [
+        "Governor as adjudicator of Article 191(1) disqualification disputes",
+        "mandatory, binding Election Commission opinion (Governor's disqualification decision)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 192 mirrors Article 103's Union-level rule, making the Governor (rather than a court) the adjudicator of disputes over whether a sitting State Legislature member has incurred an Article 191(1) disqualification, with his decision declared final. But that gubernatorial finality is substantially hollowed out by clause (2): the Governor must first obtain, and is bound to act according to, the Election Commission's opinion — meaning the real adjudicatory judgment is effectively the Election Commission's, with the Governor's role reduced to a formal channel for pronouncing that opinion as a decision.",
+        "essential_elements": [
+          "Clause (1): only Article 191(1) disqualification questions (office of profit, unsound mind, insolvency, citizenship/allegiance, Parliamentary-law grounds) are referred to the Governor for decision — Tenth Schedule (Article 191(2)) disqualification questions are handled separately by the presiding officer under the Tenth Schedule's own procedure, not this Article.",
+          "Clause (2): the Governor's decision is not independently formed — he must obtain the Election Commission's opinion and is bound to act according to it, making the Commission the real decision-maker in substance.",
+          "The Governor's decision is declared 'final' — though, as with analogous finality clauses elsewhere in the Constitution, this doesn't wholly oust judicial review for jurisdictional error, mala fides, or a failure to follow the mandated procedure (e.g., not obtaining the Election Commission's opinion at all)."
+        ],
+        "exceptions_and_qualifications": [
+          "This Article does not cover Tenth Schedule anti-defection disqualification questions — those are decided by the Speaker/Chairman under the Tenth Schedule's own paragraph 6 procedure, a separately litigated and much-scrutinised mechanism distinct from Article 192."
+        ],
+        "how_to_read": "Read Article 192 as Article 103's precise State-level mirror — the Governor's apparent finality is, by clause (2)'s binding-opinion requirement, really an Election-Commission-driven process; and always distinguish Article 191(1) disqualification questions (Article 192 procedure) from Tenth Schedule defection questions (separate Speaker/Chairman procedure)."
+      }
+    },
+    {
+      "number": "193",
+      "title": "Penalty for sitting and voting before making oath or affirmation under article 188 or when not qualified or when disqualified",
+      "raw_text": "If a person sits or votes as a member of the Legislative Assembly or the Legislative Council of a State before he has complied with the requirements of article 188, or when he knows that he is not qualified or that he is disqualified for membership thereof, or that he is prohibited from so doing by the provisions of any law made by Parliament or the Legislature of the State, he shall be liable in respect of each day on which he so sits or votes to a penalty of five hundred rupees to be recovered as a debt due to the State.",
+      "key_terms": [
+        "per-day penalty for sitting/voting without oath or while disqualified (State Legislature)",
+        "penalty recovered as a debt due to the State"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 193 mirrors Article 104's Union-level enforcement provision, imposing a financial penalty on anyone who sits or votes as a State Legislature member before taking the Article 188 oath, or while knowingly unqualified, disqualified, or otherwise legally prohibited from sitting/voting. The penalty is five hundred rupees for each day of such unauthorised participation, recoverable as an ordinary civil debt owed to the State.",
+        "essential_elements": [
+          "Triggering conduct: sitting or voting (a) before complying with Article 188's oath requirement, (b) while knowingly unqualified or disqualified for membership, or (c) while prohibited by Parliamentary or State legislative law.",
+          "Knowledge element: for the unqualified/disqualified/prohibited grounds, the person must know of that status — the provision targets knowing violations, not innocent mistakes (though the pre-oath ground under (a) appears to impose liability regardless of knowledge).",
+          "Penalty: five hundred rupees per day of violation.",
+          "Recovery mechanism: as a debt due to the State — an ordinary civil recovery process, not a criminal prosecution."
+        ],
+        "exceptions_and_qualifications": [
+          "The ₹500-per-day figure is a fixed, unindexed constitutional amount dating to 1950 and has never been revised — its deterrent value has eroded substantially with inflation, though the provision remains a live enforcement mechanism."
+        ],
+        "how_to_read": "Read Article 193 as Article 104's precise State-level mirror — a civil-debt penalty mechanism, not a criminal offence, reinforcing that Article 188's oath and Article 191's disqualification rules have real teeth even before any formal seat-vacation process under Article 190 concludes."
       }
     }
   ]
