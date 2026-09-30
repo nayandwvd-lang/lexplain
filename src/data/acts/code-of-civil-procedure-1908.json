@@ -1,0 +1,1017 @@
+{
+  "act_title": "The Code of Civil Procedure, 1908",
+  "act_number": "5 of 1908",
+  "enactment_date": "21 March 1908",
+  "preamble": "An Act to consolidate and amend the laws relating to the procedure of the Courts of Civil Judicature.",
+  "glossary": {
+    "Code of Civil Procedure": "The 1908 Act consolidating and amending the general procedure followed by civil courts in India.",
+    "tribal areas": "The territories included, immediately before 21 January 1972, in the tribal areas of Assam under the Sixth Schedule to the Constitution.",
+    "Official Gazette": "The government's official publication used to give legal notice of notifications, rules, and other statutory actions.",
+    "Sixth Schedule": "The part of the Constitution providing for administration of tribal areas in Assam, Meghalaya, Tripura and Mizoram.",
+    "decree": "The formal expression of an adjudication that conclusively determines the rights of the parties on any matter in controversy in the suit; may be preliminary, final, or partly both.",
+    "decree-holder": "Any person in whose favour a decree has been passed or an order capable of execution has been made.",
+    "district": "The local limits of the jurisdiction of a principal civil court of original jurisdiction (a District Court), including a High Court's ordinary original civil jurisdiction.",
+    "foreign Court": "A court situated outside India that is not established or continued by the authority of the Central Government.",
+    "foreign judgment": "The judgment of a foreign Court.",
+    "judgment": "The statement given by a Judge of the grounds of a decree or order.",
+    "legal representative": "A person who in law represents the estate of a deceased person, including an intermeddler with the estate and a successor on whom the estate devolves in a representative suit.",
+    "mesne profits": "Profits a wrongful possessor of property actually received, or could have received with ordinary diligence, plus interest, excluding profits from the possessor's own improvements.",
+    "order": "The formal expression of any decision of a civil court that is not a decree.",
+    "pleader": "Any person entitled to appear and plead for another in court, including an advocate, vakil, or attorney of a High Court.",
+    "public officer": "A person falling within one of eight defined categories of government, judicial, military, or local-authority service or duty under section 2(17).",
+    "District Court": "The principal civil court of original jurisdiction for a district.",
+    "High Court": "The highest court of civil (and other) jurisdiction in a State or Union territory, to which District Courts and subordinate courts answer.",
+    "Court of Small Causes": "A court of summary civil jurisdiction constituted under the Small Cause Courts Acts to try suits of limited value quickly and cheaply.",
+    "special law": "A law applicable to a particular subject matter, as distinguished from the Code's general procedure.",
+    "local law": "A law applicable only to a particular part of the territory, as distinguished from a law of general application.",
+    "landlord": "A person entitled to receive rent for agricultural or other land from a tenant or occupier.",
+    "agricultural land": "Land used for agricultural purposes, relevant to rent-recovery remedies and Revenue Court jurisdiction.",
+    "Revenue Court": "A court with jurisdiction under local law over suits/proceedings relating to rent, revenue, or profits of agricultural land, excluding an ordinary civil court exercising civil-nature jurisdiction.",
+    "pecuniary jurisdiction": "The monetary ceiling on the value of a suit's subject-matter that a given court is competent to try.",
+    "subject-matter": "The property, right, or relief that is the substance of the dispute in a suit.",
+    "Provincial Small Cause Courts Act": "The Provincial Small Cause Courts Act, 1887, constituting Small Cause Courts outside the Presidency towns.",
+    "execution of decrees": "The formal process by which a court enforces and gives practical effect to a decree or order.",
+    "Presidency Small Cause Courts": "Small Cause Courts established at Calcutta, Madras, and Bombay under the Presidency Small Cause Courts Act, 1882.",
+    "Presidency Small Cause Courts Act, 1882": "The Act constituting and governing the Small Cause Courts of the Presidency towns of Calcutta, Madras, and Bombay.",
+    "civil nature": "The quality of a suit or right that makes it triable as a civil matter, as opposed to a purely religious, political, or non-justiciable question.",
+    "jurisdiction": "The legal authority of a court to hear and decide a particular matter.",
+    "expressly barred": "A statutory bar on a court's jurisdiction stated in clear, specific words in a statute.",
+    "impliedly barred": "A bar on a court's jurisdiction arising from the scheme and language of a special statute, even without explicit ousting words.",
+    "stay of suit": "An order halting the trial of a suit, typically pending the outcome of an earlier suit on the same matter.",
+    "same matter in issue": "A fact or question directly and substantially contested and requiring decision in both the earlier and later proceeding.",
+    "previously instituted suit": "A suit filed before the suit now under consideration, relevant to the section 10 stay-of-suit bar.",
+    "same title": "The same legal basis or capacity under which parties claim, used to determine whether privies are bound alongside the original parties.",
+    "res judicata": "The doctrine barring re-litigation of a matter directly and substantially in issue that has already been heard and finally decided between the same parties by a competent court.",
+    "former suit": "For res judicata purposes, whichever of two suits was decided first, regardless of the order in which they were filed.",
+    "matter directly and substantially in issue": "An issue that is a real and material point of controversy actually requiring decision in the suit, as opposed to a collateral or incidental question.",
+    "constructive res judicata": "The rule that a matter which ought to have been raised as a ground of attack or defence in a former suit is deemed to have been in issue, even if never actually pleaded.",
+    "competent Court": "A court legally empowered, by jurisdiction over subject-matter, value, and territory, to try and decide the suit or issue in question.",
+    "cause of action": "The bundle of essential facts that a plaintiff must prove to be entitled to the relief claimed.",
+    "bar to suit": "A rule or provision that prevents a party from instituting or maintaining a particular suit.",
+    "competent jurisdiction": "Jurisdiction properly and validly held by a court under applicable law, including private international law standards for foreign courts.",
+    "natural justice": "The basic fair-procedure requirements of a proper hearing and an unbiased decision-maker.",
+    "fraud": "Deliberate deception used to obtain an unfair or unlawful advantage, including in obtaining a judgment.",
+    "international law": "The body of rules governing relations between states and, here, the recognised principles applied to determine jurisdiction and recognition of foreign judgments.",
+    "presumption": "A rule by which a court infers a fact to be true unless and until it is disproved by evidence to the contrary.",
+    "certified copy": "An official copy of a document, authenticated as a true copy by a competent authority.",
+    "lowest grade": "The court of the least seniority or jurisdictional rank that is nonetheless competent to try a given suit.",
+    "immovable property": "Land and things permanently attached to land, including benefits arising out of land, but excluding standing timber, growing crops, and grass.",
+    "mortgage": "A transfer of an interest in immovable property to secure the repayment of a debt or performance of an obligation.",
+    "foreclosure": "A mortgagee's remedy extinguishing the mortgagor's right to redeem the mortgaged property.",
+    "redemption": "A mortgagor's right to recover mortgaged property upon repayment of the secured debt.",
+    "distraint": "The act of seizing property, often to enforce payment of rent or a debt.",
+    "personal obedience": "Relief that can be fully satisfied by compelling a defendant's own personal act, rather than by operating directly on property.",
+    "different Courts": "Two or more courts whose separate local jurisdictional limits each cover part of the property or subject-matter in suit.",
+    "cognizable": "Capable of being taken up and tried by a court, having regard to its jurisdiction over the value or nature of the claim.",
+    "uncertainty of jurisdiction": "A genuine doubt as to which of two or more courts has territorial jurisdiction over particular property.",
+    "recorded statement": "A court's formal note, made under section 18, recording its satisfaction that jurisdictional uncertainty exists.",
+    "failure of justice": "A real prejudice or injustice actually resulting from an error or irregularity, as opposed to a mere technical defect.",
+    "compensation for wrong": "Monetary relief claimed for a civil wrong done to a person or to movable property.",
+    "movable property": "Property other than immovable property; under the Code it expressly includes growing crops.",
+    "option of plaintiff": "The plaintiff's statutory right to choose between two or more permissible venues for filing a suit.",
+    "corporation": "A legal entity such as a company, deemed under section 20 to carry on business at its principal or a relevant subordinate office.",
+    "subordinate office": "A branch or secondary office of a corporation, relevant for founding venue where the cause of action arises there.",
+    "leave of the Court": "Formal permission granted by the court to take a procedural step, such as suing a non-local defendant jointly with a local one.",
+    "acquiescence": "A party's conduct amounting to tacit consent or non-objection to a procedural step, such as the venue chosen for a suit.",
+    "objection to jurisdiction": "A challenge to a court's competence to try a suit, based on place of suing, pecuniary limits, or local execution limits.",
+    "place of suing": "The territorial venue in which a suit is properly instituted.",
+    "earliest possible opportunity": "The first available procedural moment, generally at or before the settlement of issues, at which an objection must be raised to preserve it.",
+    "set aside decree": "To annul or nullify a decree, whether by appeal, review, revision, or a separate suit where permitted.",
+    "transfer of suit": "The movement of a pending suit from one court to another for trial or disposal.",
+    "notice to parties": "Formal intimation given to the parties to a proceeding before an order affecting them, such as a transfer, is made.",
+    "Appellate Court": "A court exercising jurisdiction to hear appeals from the decrees or orders of a subordinate court.",
+    "application for transfer": "A formal request made to the appropriate court seeking transfer of a suit under sections 22-25.",
+    "transfer": "The act of moving a pending suit, appeal, or proceeding from one court to another for trial or disposal.",
+    "withdrawal": "The act of a superior court taking a pending suit or proceeding out of a subordinate court, for itself or further transfer.",
+    "suo motu": "An action taken by a court on its own initiative, without a party's application.",
+    "proceeding": "Under section 24, a term extended to include a proceeding for the execution of a decree or order, in addition to suits and appeals.",
+    "Supreme Court": "The apex court of India, here exercising the power under section 25 to transfer suits, appeals, or proceedings between States.",
+    "transfer between States": "The Supreme Court's power under section 25 to move litigation from a court in one State to a court in another State.",
+    "motion": "A formal application made to a court, here the prescribed mode for a section 25 transfer application.",
+    "affidavit": "A written statement of facts sworn to be true, used to support applications and, under section 26(2), to prove plaint facts.",
+    "frivolous application": "An application devoid of merit or seriousness, attracting a possible compensatory costs order under section 25(4).",
+    "plaint": "The formal written statement of a plaintiff's claim by which a civil suit is instituted.",
+    "institution of suit": "The formal commencement of a suit, ordinarily by presentation of a plaint.",
+    "summons": "A court process calling upon a defendant or witness to appear before the court.",
+    "duly instituted": "A suit that has been properly and validly commenced in accordance with the Code's requirements.",
+    "thirty days": "The outer time limit from institution of the suit within which a summons must call for the defendant's appearance under section 27.",
+    "interstate service": "Service of a summons routed through a court in another State under section 28.",
+    "translation": "A rendering of a document into another language, required under section 28(3) when languages of the summons and record differ.",
+    "record of proceedings": "The documented history of steps taken by a court in a matter, returned along with an executed summons under section 28(2).",
+    "foreign summons": "A summons or process issued by a non-Code-governed Indian court, a Central-Government-established court abroad, or a notified foreign court under section 29.",
+    "reciprocity": "The mutual arrangement by which summonses from certain outside courts are served within Code territory, and vice versa.",
+    "discovery": "The pre-trial process by which a party obtains disclosure of facts, documents, or objects relevant to the suit.",
+    "interrogatories": "Written questions formally put by one party to another, to be answered under oath, as part of discovery.",
+    "inspection": "The examination of documents or objects produced by a party for the purposes of the suit.",
+    "impounding": "The court's act of retaining custody of a document produced before it.",
+    "witness summons": "A summons issued to compel a person's attendance to give evidence or produce documents or objects.",
+    "warrant of arrest": "A judicial order authorising the arrest of a person, here to compel attendance under section 32.",
+    "attachment of property": "The seizure of a person's property by court order to compel compliance or to satisfy a decree.",
+    "fine": "A monetary penalty imposed by a court, capped at five thousand rupees under section 32(c).",
+    "civil prison": "A place of civil (non-criminal) detention used to enforce compliance, such as furnishing security under section 32(d).",
+    "security for appearance": "A guarantee, often monetary, required from a person to ensure their future attendance before the court.",
+    "hearing": "The stage at which a court considers the evidence and arguments in a case before pronouncing judgment.",
+    "interest": "A sum payable on a principal amount for the use of money or as compensation for delayed payment.",
+    "principal sum": "The core amount of money adjudged due in a money decree, exclusive of interest.",
+    "commercial transaction": "Under section 34, a transaction connected with the industry, trade, or business of the party incurring the liability.",
+    "nationalised bank": "A corresponding new bank as defined in the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970.",
+    "pendente lite interest": "Interest awarded for the period from the institution of the suit to the date of the decree.",
+    "costs": "Expenses of and incidental to litigation, which a court may order one party to pay to another.",
+    "discretion of the Court": "The court's power to decide a matter, such as costs, based on the facts and circumstances rather than a fixed rule.",
+    "follow the event": "The general costs principle that the unsuccessful party pays the costs of the successful party.",
+    "compensatory costs": "Costs awarded under section 35A to compensate a party who successfully objects to a false or vexatious claim or defence.",
+    "vexatious claim": "A claim made without genuine merit, known by its proponent to be false, and pursued to harass or burden the other party.",
+    "false defence": "A defence raised to the knowledge of the party raising it that it is untrue.",
+    "objector": "The party who raises an objection under section 35A to an opponent's false or vexatious claim or defence.",
+    "adjournment costs": "Costs ordered under section 35B against a party who defaults on a required step or obtains an adjournment, to reimburse the other side's attendance expenses.",
+    "condition precedent": "A requirement that must be satisfied before a party is entitled to take a further step, such as continuing to prosecute a suit or defence.",
+    "delay": "Postponement in the progress of a suit, which section 35B specifically targets by shifting the cost of the resulting wasted attendance."
+  },
+  "sections": [
+    {
+      "number": "1",
+      "title": "Short title, commencement and extent",
+      "raw_text": "1. (1) This Act may be cited as the Code of Civil Procedure, 1908.\n(2) It shall come into force on the first day of January, 1909.\n(3) It extends to the whole of India except—\n(a) [***]\n(b) the State of Nagaland and the tribal areas:\nProvided that the State Government concerned may, by notification in the Official Gazette, extend the provisions of this Code or any of them to the whole or part of the State of Nagaland or such tribal areas, as the case may be, with such supplemental, incidental or consequential modifications, as may be specified in the notification.\nExplanation.—In this clause, \"tribal areas\" means the territories which immediately before the 21st day of January, 1972, were included in the tribal areas of Assam, as referred to in paragraph 20 of the Sixth Schedule to the Constitution.\n(4) In the absence of any specific provision to the contrary, nothing in this Code shall be deemed to limit or otherwise affect any special jurisdiction or power conferred, or any special form of procedure prescribed, by or under any other law for the time being in force.",
+      "key_terms": [
+        "Code of Civil Procedure",
+        "tribal areas",
+        "Official Gazette",
+        "Sixth Schedule"
+      ],
+      "breakdown": {
+        "plain_summary": "The opening section names the Act, fixes its commencement date as 1 January 1909, and marks out its territorial reach. The Code applies across India except Nagaland and the Sixth Schedule tribal areas of Assam (as they stood in 1972), though the State Government can switch it on there by gazette notification with local modifications. Sub-section (4) is a residual savings clause: unless the Code expressly says otherwise, it does not override special jurisdiction or procedure created by other laws.",
+        "essential_elements": [
+          "Sub-section (2) fixes 1 January 1909 as the date the Code came into force.",
+          "Sub-section (3) extends the Code to the whole of India except Nagaland and the tribal areas defined by reference to the Sixth Schedule to the Constitution.",
+          "The proviso lets the State Government extend the Code (wholly or partly, with modifications) to Nagaland or the tribal areas by Gazette notification.",
+          "Sub-section (4) preserves special jurisdiction, powers, or procedures created by other laws unless the Code expressly overrides them."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a general default-applicability clause, not a code of exhaustive procedure — special statutes (e.g., the Provincial/Presidency Small Cause Courts Acts, the Arbitration and Conciliation Act, tribunal statutes) can and do displace the Code's ordinary procedure for their own proceedings.",
+          "The Nagaland/tribal-area exclusion is a live, checkable jurisdictional fact — before invoking the Code in those areas, confirm whether a State notification has actually extended the relevant provisions."
+        ],
+        "how_to_read": "Treat this as the Code's on/off switch and geographic map, not as substantive law. When a procedural question arises in Nagaland or an excluded tribal area, the first move is to check for an extending notification under the proviso, not to assume the Code applies by default."
+      }
+    },
+    {
+      "number": "2",
+      "title": "Definitions",
+      "raw_text": "2. In this Act, unless there is anything repugnant in the subject or context,—\n(1) \"Code\" includes rules;\n(2) \"decree\" means the formal expression of an adjudication which, so far as regards the Court expressing it, conclusively determines the rights of the parties with regard to all or any of the matters in controversy in the suit and may be either preliminary or final. It shall be deemed to include the rejection of a plaint and the determination of any question within section 144, but shall not include—\n(a) any adjudication from which an appeal lies as an appeal from an order, or\n(b) any order of dismissal for default.\nExplanation.—A decree is preliminary when further proceedings have to be taken before the suit can be completely disposed of. It is final when such adjudication completely disposes of the suit. It may be partly preliminary and partly final;\n(3) \"decree-holder\" means any person in whose favour a decree has been passed or an order capable of execution has been made;\n(4) \"district\" means the local limits of the jurisdiction of a principal Civil Court of original jurisdiction (hereinafter called a \"District Court\"), and includes the local limits of the ordinary original civil jurisdiction of a High Court;\n(5) \"foreign Court\" means a Court situate outside India and not established or continued by the authority of the Central Government;\n(6) \"foreign judgment\" means the judgment of a foreign Court;\n(7) \"Government Pleader\" includes any officer appointed by the State Government to perform all or any of the functions expressly imposed by this Code on the Government Pleader and also any pleader acting under the directions of the Government Pleader;\n(7A) \"High Court\", in relation to Union territory of Delhi, means the High Court of Delhi;\n(7B) \"India\" means the territory of India excluding the State of Jammu and Kashmir;\n(8) \"Judge\" means the presiding officer of a Civil Court;\n(9) \"judgment\" means the statement given by the Judge of the grounds of a decree or order;\n(10) \"judgment-debtor\" means any person against whom a decree has been passed or an order capable of execution has been made;\n(11) \"legal representative\" means a person who in law represents the estate of a deceased person, and includes any person who intermeddles with the estate of the deceased and where a party sues or is sued in a representative character the person on whom the estate devolves on the death of the party so suing or sued;\n(12) \"mesne profits\" of property means those profits which the person in wrongful possession of such property actually received or might with ordinary diligence have received therefrom, together with interest on such profits, but shall not include profits due to improvements made by the person in wrongful possession;\n(13) \"movable property\" includes growing crops;\n(14) \"order\" means the formal expression of any decision of a Civil Court which is not a decree;\n(15) \"pleader\" means any person entitled to appear and plead for another in Court, and includes an advocate, a vakil and an attorney of a High Court;\n(16) \"prescribed\" means prescribed by rules;\n(17) \"public officer\" means a person falling under any of the following descriptions, namely:—\n(a) every person in the service or pay of the Government or remunerated by fees or commission for the performance of any public duty;\n(b) every officer in the military, naval or air forces of the Union;\n(c) every officer of a Court of Justice;\n(d) every officer whose duty it is to take, receive, keep or expend any property on behalf of the Government, or to make any survey, assessment or contract on behalf of the Government;\n(e) every officer whose duty it is to prevent offences, to give information of offences, to bring offenders to justice, or to protect the public health, safety or convenience;\n(f) every officer whose duty it is to take, receive, keep or expend any property, to make any survey or assessment or to levy any rate or tax on behalf of a local authority;\n(g) every person who holds any office by virtue of which he is empowered to place or keep any person in confinement;\n(h) every officer whose duty it is, as such officer, to investigate any matter which forms the basis of a report or a return, and the making of which report or return is by law declared to be a public duty;\n(18) \"rules\" means rules and forms contained in the First Schedule or made under section 122 or section 125;\n(19) \"share in a corporation\" shall be deemed to include stock, debenture-stock, debentures or bonds; and\n(20) \"signed\" shall, with reference to a person who is unable to write his name, include \"marked\", except in the case of a judgment or a decree.",
+      "key_terms": [
+        "decree",
+        "decree-holder",
+        "district",
+        "foreign Court",
+        "foreign judgment",
+        "judgment",
+        "legal representative",
+        "mesne profits",
+        "order",
+        "pleader",
+        "public officer"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 2 is the Code's dictionary, and by far its most-cited provision for setting up other doctrines — especially the decree/order distinction, which controls appeal rights throughout the Code. A decree is a conclusive adjudication on rights in controversy (preliminary, final, or partly both); an order is any other formal decision of a civil Court. Other defined terms (decree-holder, judgment-debtor, legal representative, mesne profits, pleader, public officer) recur across execution, representation, and evidentiary provisions.",
+        "essential_elements": [
+          "Clause (2): a decree conclusively determines rights in controversy in the suit; it excludes appealable orders and default dismissals, but expressly includes rejection of a plaint and section 144 restitution determinations.",
+          "The Explanation to clause (2) distinguishes preliminary decrees (more proceedings needed to fully dispose of the suit) from final decrees (suit fully disposed of), and allows a decree to be partly each.",
+          "Clause (12) defines mesne profits as actual or ordinary-diligence-obtainable profits from wrongful possession, plus interest, excluding the wrongful possessor's own improvement-driven profits.",
+          "Clause (11) gives \"legal representative\" a wide meaning covering not just heirs but intermeddlers with a deceased person's estate and successors-in-representative-capacity.",
+          "Clause (17) enumerates eight categories of \"public officer\" (a)-(h), relevant to service-of-notice, evidentiary, and immunity provisions elsewhere in the Code."
+        ],
+        "exceptions_and_qualifications": [
+          "The decree/order line is not merely academic — misclassifying an adjudication determines whether an appeal lies as of right (decree) or only as an order under section 104/Order XLIII, or not at all.",
+          "Clause (7B)'s definition of \"India\" excluding Jammu and Kashmir reflects the historical position under Article 370-era special status; practitioners should check current constitutional and statutory position given J&K's post-2019 reorganisation, since Code provisions referencing this clause may need updated reading.",
+          "\"Order\" under clause (14) is defined only negatively (not a decree) — its content is filled in by Order XLIII Rule 1, which lists which orders are appealable."
+        ],
+        "how_to_read": "Keep this section open as a running reference while reading the rest of the Code — nearly every substantive provision leans on one of these definitions, and the decree/order distinction in particular should be tested against clause (2) every time an appeal-eligibility question comes up."
+      }
+    },
+    {
+      "number": "3",
+      "title": "Subordination of Courts",
+      "raw_text": "3. For the purposes of this Code, the District Court is subordinate to the High Court, and every Civil Court of a grade inferior to that of a District Court and every Court of Small Causes is subordinate to the High Court and District Court.",
+      "key_terms": [
+        "District Court",
+        "High Court",
+        "Court of Small Causes"
+      ],
+      "breakdown": {
+        "plain_summary": "This section fixes the hierarchical chain of civil courts for the Code's purposes: the District Court answers to the High Court, and every court below District Court grade — including Small Cause Courts — answers to both the District Court and the High Court.",
+        "essential_elements": [
+          "The District Court is subordinate to the High Court.",
+          "Every Civil Court of a grade inferior to the District Court, and every Court of Small Causes, is subordinate to both the High Court and the District Court."
+        ],
+        "exceptions_and_qualifications": [
+          "This hierarchy underpins revisional jurisdiction (section 115), appellate jurisdiction, and the transfer powers in sections 22-25 — subordination as defined here is a precondition for those powers to operate."
+        ],
+        "how_to_read": "Use this section to quickly answer 'who can this court's orders be revised or appealed to' — it is the structural map that sections 24, 25, and 115 build on."
+      }
+    },
+    {
+      "number": "4",
+      "title": "Savings",
+      "raw_text": "4. (1) In the absence of any specific provision to the contrary, nothing in this Code shall be deemed to limit or otherwise affect any special or local law now in force or any special jurisdiction or power conferred, or any special form of procedure prescribed, by or under any other law for the time being in force.\n(2) In particular and without prejudice to the generality of the proposition contained in sub-section (1), nothing in this Code shall be deemed to limit or otherwise affect any remedy which a landholder or landlord may have under any law for the time being in force for the recovery of rent of agricultural land from the produce of such land.",
+      "key_terms": [
+        "special law",
+        "local law",
+        "landlord",
+        "agricultural land"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 4 confirms the Code's default, non-overriding character. Unless the Code specifically says otherwise, it does not cut down special or local laws, or special jurisdiction/procedure created elsewhere, and it specifically preserves a landlord's separate remedies for recovering agricultural rent from produce.",
+        "essential_elements": [
+          "Sub-section (1) is a general savings clause protecting special/local laws and special jurisdiction or procedure, absent an express contrary provision in the Code.",
+          "Sub-section (2) specifically preserves landlord/landholder remedies for recovering agricultural rent out of the land's produce."
+        ],
+        "exceptions_and_qualifications": [
+          "This overlaps with section 1(4) — both function as anti-override clauses; section 4 is broader (special/local laws generally) while section 1(4) is framed around special jurisdiction/procedure."
+        ],
+        "how_to_read": "Invoke this section whenever a special statute (rent law, revenue law, tribunal statute) appears to conflict with the Code's general procedure — the Code yields unless it expressly overrides."
+      }
+    },
+    {
+      "number": "5",
+      "title": "Application of the Code to Revenue Courts",
+      "raw_text": "5. (1) Where any Revenue Courts are governed by the provisions of this Code in those matters of procedure upon which any special enactment applicable to them is silent, the State Government may, by notification in the Official Gazette, declare that any portions of those provisions which are not expressly made applicable by this Code shall not apply to those Courts, or shall only apply to them with such modifications as the State Government may prescribe.\n(2) \"Revenue Court\" in sub-section (1) means a Court having jurisdiction under any local law to entertain suits or other proceedings relating to the rent, revenue or profits of land used for agricultural purposes, but does not include a Civil Court having original jurisdiction under this Code to try such suits or proceedings as being suits or proceedings of a civil nature.",
+      "key_terms": [
+        "Revenue Court",
+        "Official Gazette",
+        "agricultural land"
+      ],
+      "breakdown": {
+        "plain_summary": "This section lets a State Government dial down how much of the Code applies to Revenue Courts — courts that handle agricultural rent/revenue/profit disputes under local land-revenue law — where their own special enactment is silent on a procedural point.",
+        "essential_elements": [
+          "Sub-section (1) empowers the State Government to notify that Code provisions not expressly made applicable shall not apply, or apply only with modification, to Revenue Courts.",
+          "Sub-section (2) defines \"Revenue Court\" as a court with local-law jurisdiction over agricultural rent/revenue/profit disputes, expressly excluding ordinary Civil Courts exercising civil-nature jurisdiction over the same subject matter."
+        ],
+        "exceptions_and_qualifications": [
+          "Whether the Code applies to a given Revenue Court proceeding, and to what extent, is not fixed by the Code alone — it depends on the applicable State notification and the Revenue Court's own special enactment."
+        ],
+        "how_to_read": "Before applying general Code procedure to a Revenue Court matter, check the special enactment and any State notification under this section — the Code may only be a gap-filler there, not the primary source of procedure."
+      }
+    },
+    {
+      "number": "6",
+      "title": "Pecuniary jurisdiction",
+      "raw_text": "6. Save in so far as is otherwise expressly provided, nothing herein contained shall operate to give any Court jurisdiction over suits the amount or value of the subject-matter of which exceeds the pecuniary limits (if any) of its ordinary jurisdiction.",
+      "key_terms": [
+        "pecuniary jurisdiction",
+        "subject-matter"
+      ],
+      "breakdown": {
+        "plain_summary": "A court cannot try a suit whose subject-matter value exceeds its own pecuniary jurisdiction limit, unless the Code expressly says otherwise somewhere else.",
+        "essential_elements": [
+          "The default rule bars a court from entertaining suits above its pecuniary jurisdiction ceiling.",
+          "This default yields only where the Code itself expressly provides otherwise."
+        ],
+        "exceptions_and_qualifications": [
+          "Pecuniary jurisdiction limits themselves are fixed by State-specific Civil Courts Acts, not by this Code — section 6 only states the general principle that such limits bind the court."
+        ],
+        "how_to_read": "Use this alongside the applicable State Civil Courts Act to check valuation-based jurisdiction at the plaint-drafting stage — an over-valued or under-valued suit risks return/rejection under Order VII."
+      }
+    },
+    {
+      "number": "7",
+      "title": "Provincial Small Cause Courts",
+      "raw_text": "7. The following provisions shall not extend to Courts constituted under the Provincial Small Cause Courts Act, 1887, or to Courts exercising the jurisdiction of a Court of Small Causes under the said Act or any other enactment for the time being in force—\n(a) so much of the body of the Code as relates to—\n(i) suits excepted from the cognizance of a Court of Small Causes;\n(ii) the execution of decrees in such suits;\n(iii) the execution of decrees against immovable property; and\n(b) the whole of Sections 9, 91 and 92 and Chapters IX, X and XI.",
+      "key_terms": [
+        "Provincial Small Cause Courts Act",
+        "Court of Small Causes",
+        "execution of decrees"
+      ],
+      "breakdown": {
+        "plain_summary": "Small Cause Courts (constituted under the Provincial Small Cause Courts Act, 1887, or exercising similar jurisdiction) run on their own simplified procedure — this section carves out large swathes of the Code, including suits excluded from small-cause cognizance, execution against immovable property, and specific Chapters/Sections, as inapplicable to them.",
+        "essential_elements": [
+          "The carve-out excludes Code provisions on suits excepted from small-cause cognizance and on executing decrees in such suits, including execution against immovable property.",
+          "It expressly excludes sections 9, 91, 92 and Chapters IX, X and XI from applying to Small Cause Courts."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a procedural simplification device, not a substantive jurisdiction grant — the Small Cause Courts Act itself defines what these courts can hear; this section just narrows which Code machinery governs how they hear it."
+        ],
+        "how_to_read": "When a matter is before a Provincial Small Cause Court, check this list first — assuming the full Code applies (e.g., trying to invoke Chapter IX-XI machinery) will misfire."
+      }
+    },
+    {
+      "number": "8",
+      "title": "Presidency Small Cause Courts",
+      "raw_text": "8. Save as provided in this section and in sections 24, 38 to 41, 75, clauses (a), (b) and (c), 76, 77, 157 and 158, none of the provisions of this Code, other than sections 27, 32 and 33, sections 96 to 112 and sections 115, 116 and 152 shall extend to any suit or proceeding in any Court of Small Causes established at Calcutta, Madras or Bombay:\nProvided that the High Courts of Judicature at Fort William, Madras and Bombay respectively may, from time to time, by notification in the Official Gazette, declare all or any of the provisions of this Code not hereby extended to those Courts, and not inconsistent with the Presidency Small Cause Courts Act, 1882, to be applicable to the said Courts or with the aforesaid Act, respectively, or to any class of suits therein, and may, in like manner, from time to time, withdraw any such declaration:\nProvided also that all such declarations and withdrawals of declarations shall be subject to the previous sanction of the State Government.",
+      "key_terms": [
+        "Presidency Small Cause Courts",
+        "Official Gazette",
+        "Presidency Small Cause Courts Act, 1882"
+      ],
+      "breakdown": {
+        "plain_summary": "The Presidency towns' Small Cause Courts (Calcutta, Madras, Bombay) get an even narrower default slice of the Code than the provincial ones — only a short specified list of sections applies by default — but the respective High Courts can extend further Code provisions to them by gazette notification, subject to State Government sanction.",
+        "essential_elements": [
+          "By default, only the specifically listed sections/provisions (including 24, 27, 32-33, 38-41, 75(a)-(c), 76-77, 96-112, 115-116, 152, 157-158) extend to these Courts.",
+          "The first proviso lets the relevant High Court extend additional, not-inconsistent Code provisions to these Courts by Official Gazette notification, and later withdraw such extension.",
+          "The second proviso conditions any such High Court declaration or withdrawal on prior State Government sanction."
+        ],
+        "exceptions_and_qualifications": [
+          "Any extension is also capped by consistency with the Presidency Small Cause Courts Act, 1882 — the High Court cannot extend a Code provision that conflicts with that Act."
+        ],
+        "how_to_read": "For litigation in a Presidency Small Cause Court, verify both this section's default list and whether the relevant High Court has issued an extending notification — do not assume ordinary Code procedure applies wholesale."
+      }
+    },
+    {
+      "number": "9",
+      "title": "Courts to try all civil suits unless barred",
+      "raw_text": "9. The Courts shall (subject to the provisions herein contained) have jurisdiction to try all suits of a civil nature excepting suits of which their cognizance is either expressly or impliedly barred.\nExplanation I.—A suit in which the right to property or to an office is contested is a suit of a civil nature, notwithstanding that such right may depend entirely on the decision of questions as to religious rites or ceremonies.\nExplanation II.—For the purposes of this section, it is immaterial whether or not any fees are attached to the office referred to in Explanation I or whether or not such office is attached to a particular place.",
+      "key_terms": [
+        "civil nature",
+        "jurisdiction",
+        "expressly barred",
+        "impliedly barred"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the Code's foundational jurisdiction-conferring section: civil courts have default jurisdiction over every suit of a civil nature, unless a statute expressly or impliedly bars that particular kind of suit. Even disputes over religious offices or property turning on religious-rite questions remain civil in nature, and it does not matter whether the office carries fees or is tied to a specific place.",
+        "essential_elements": [
+          "The default rule is broad, positive jurisdiction: all suits of a civil nature are triable, subject only to express or implied bars.",
+          "An express bar is a statute specifically ousting civil court jurisdiction over a class of disputes (e.g., committing them exclusively to a tribunal).",
+          "An implied bar arises where a special statute's scheme (a self-contained code of rights and remedies) necessarily excludes the ordinary civil court's jurisdiction, even without express words.",
+          "Explanation I confirms property/office disputes remain civil in nature even if they turn on religious-rite questions.",
+          "Explanation II clarifies fee-attachment or place-attachment of the office is irrelevant to that classification."
+        ],
+        "exceptions_and_qualifications": [
+          "\"Civil nature\" is broader than \"civil proceeding\" — the test looks to whether the right claimed and relief sought are civil, not to the character of the parties or the forum in which the dispute arose.",
+          "Implied ouster is construed strictly against exclusion of civil court jurisdiction — courts presume jurisdiction survives unless the special statute's language and scheme clearly show otherwise, especially where the special forum cannot grant the relief sought or where the special provision itself is under challenge as ultra vires."
+        ],
+        "how_to_read": "When a defendant argues the civil court lacks jurisdiction, locate the specific statutory bar (express or implied) rather than arguing in the abstract — section 9's default is jurisdiction, and the burden is on the party asserting the bar to point to the ousting provision or scheme."
+      }
+    },
+    {
+      "number": "10",
+      "title": "Stay of suit",
+      "raw_text": "10. No Court shall proceed with the trial of any suit in which the matter in issue is also directly and substantially in issue in a previously instituted suit between the same parties, or between parties under whom they or any of them claim litigating under the same title where such suit is pending in the same or any other Court in India having jurisdiction to grant the relief claimed, or in any Court beyond the limits of India established or continued by the Central Government and having like jurisdiction, or before the Supreme Court.\nExplanation.—The pendency of a suit in a foreign Court does not preclude the Courts in India from trying a suit founded on the same cause of action.",
+      "key_terms": [
+        "stay of suit",
+        "same matter in issue",
+        "previously instituted suit",
+        "same title"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 10 prevents parallel civil litigation on the same issue: once a suit raising a matter directly and substantially in issue has already been filed between the same parties (or their privies claiming under the same title), a later suit on that same matter cannot be tried while the earlier one is pending, whether the earlier suit is in an Indian court, a comparable court abroad established by the Central Government, or the Supreme Court.",
+        "essential_elements": [
+          "The bar applies only where the matter in issue is directly and substantially the same in both suits, not merely similar or overlapping.",
+          "The parties (or persons claiming under the same title as them) must be the same in both suits.",
+          "The earlier suit must be pending and in a court competent to grant the relief claimed in it.",
+          "The rule is a stay/trial-bar, not a bar to institution — the later suit can be filed, just not tried, until the earlier one is decided."
+        ],
+        "exceptions_and_qualifications": [
+          "The Explanation clarifies that a foreign-court suit's pendency does not by itself stop Indian courts from trying a suit on the same cause of action — the stay mechanism under this section operates only among courts of the described kind (Indian courts, Central-Government-established courts abroad with like jurisdiction, and the Supreme Court)."
+        ],
+        "how_to_read": "Check this section at the earliest stage when a client's proposed suit might overlap with pending litigation — raising it early (via an application to stay) avoids wasted trial proceedings and conflicting decrees on the same issue."
+      }
+    },
+    {
+      "number": "11",
+      "title": "Res judicata",
+      "raw_text": "11. No Court shall try any suit or issue in which the matter directly and substantially in issue has been directly and substantially in issue in a former suit between the same parties, or between parties under whom they or any of them claim, litigating under the same title, in a Court competent to try such subsequent suit or the suit in which such issue has been subsequently raised, and has been heard and finally decided by such Court.\nExplanation I.—The expression \"former suit\" shall denote a suit which has been decided prior to the suit in question whether or not it was instituted prior thereto.\nExplanation II.—For the purposes of this section, the competence of a Court shall be determined irrespective of any provisions as to a right of appeal from the decision of such Court.\nExplanation III.—The matter above referred to must in the former suit have been alleged by one party and either denied or admitted, expressly or impliedly, by the other.\nExplanation IV.—Any matter which might and ought to have been made ground of defence or attack in such former suit shall be deemed to have been a matter directly and substantially in issue in such suit.\nExplanation V.—Any relief claimed in the plaint, which is not expressly granted by the decree, shall for the purposes of this section, be deemed to have been refused.\nExplanation VI.—Where persons litigate bona fide in respect of public right or of a private right claimed in common for themselves and others, all persons interested in such right shall, for the purposes of this section, be deemed to claim under the persons so litigating.\nExplanation VII.—The provisions of this section shall apply to a proceeding for the execution of a decree and references in this section to any suit, issue or former suit shall be construed as references, respectively, to a proceeding for the execution of the decree, question arising in such proceeding and a former proceeding for the execution of that decree.\nExplanation VIII.—An issue heard and finally decided by a Court of limited jurisdiction, competent to decide such issue, shall operate as res judicata in a subsequent suit, notwithstanding that such Court of limited jurisdiction was not competent to try such subsequent suit or the suit in which such issue has been subsequently raised.",
+      "key_terms": [
+        "res judicata",
+        "former suit",
+        "matter directly and substantially in issue",
+        "constructive res judicata",
+        "same title",
+        "competent Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 11 is the Code's res judicata bar: once a matter directly and substantially in issue has actually been heard and finally decided between the same parties (or privies) by a competent court, it cannot be re-litigated in a later suit or issue. Eight Explanations flesh out edge cases — from which suit counts as \"former\" (Explanation I), to constructive res judicata for matters that ought to have been raised (Explanation IV), to representative-litigation binding effect (Explanation VI), to extension into execution proceedings (Explanation VII) and limited-jurisdiction court decisions (Explanation VIII).",
+        "essential_elements": [
+          "The bar requires the same matter directly and substantially in issue in both the former and the present suit/issue.",
+          "The parties (or those claiming under them, under the same title) must be identical across both proceedings.",
+          "The former suit must have been decided by a court competent to try the subsequent suit, and the issue must have been heard and finally decided (Explanation II disregards mere appeal-right differences for this competence test).",
+          "Explanation I: \"former suit\" means whichever suit was decided first, regardless of filing order.",
+          "Explanation IV (constructive res judicata): matters that ought to have been raised as attack or defence in the former suit are deemed to have been in issue, even if never actually pleaded.",
+          "Explanation VI extends res judicata to bind all persons interested in a bona fide public or common private right litigated by representative parties.",
+          "Explanation VII extends the whole section to execution proceedings.",
+          "Explanation VIII (inserted 1976) makes a limited-jurisdiction court's decision on an issue operate as res judicata even where that court could not have tried the later, larger suit."
+        ],
+        "exceptions_and_qualifications": [
+          "Res judicata requires an actual hearing and final decision on the merits of the matter — it does not apply to matters left undecided, or decided only on a technical/procedural ground without touching the merits, except as extended by the Explanations.",
+          "Explanation V treats an unaddressed relief claimed in the plaint but not expressly granted as impliedly refused, which itself becomes res judicata against re-claiming it later.",
+          "Constructive res judicata (Explanation IV) is a frequently litigated trap for parties who split their claims or defences across successive suits — failing to raise an available ground the first time can permanently bar it."
+        ],
+        "how_to_read": "Plead res judicata as a mixed question of fact and law, supported by the pleadings, issues, and judgment of the former suit — courts look at the substance of what was actually in controversy and decided, not just matching case titles. When defending against it, check whether the earlier decision was truly \"heard and finally decided\" on that specific matter, or whether the forum was actually incompetent to decide it."
+      }
+    },
+    {
+      "number": "12",
+      "title": "Bar to further suit",
+      "raw_text": "12. Where a plaintiff is precluded by rules from instituting a further suit in respect of any particular cause of action, he shall not be entitled to institute a suit in respect of such cause of action in any Court to which this Code applies.",
+      "key_terms": [
+        "cause of action",
+        "bar to suit"
+      ],
+      "breakdown": {
+        "plain_summary": "If procedural rules (elsewhere in the Code, notably Order II Rule 2 on splitting claims) already bar a plaintiff from bringing a further suit on a given cause of action, section 12 makes that bar absolute across every court to which the Code applies — the plaintiff cannot route around it by suing in a different court.",
+        "essential_elements": [
+          "The bar operates only where some rule of the Code already precludes a further suit on the cause of action in question.",
+          "Once that rule-based preclusion exists, it extends to bar suit in any Code-governed court, not just the court where the original suit was brought."
+        ],
+        "exceptions_and_qualifications": [
+          "This section is a reinforcing/jurisdiction-wide extension provision — the substantive preclusion itself typically arises from Order II Rule 2 (omission to sue for whole claim or relief) rather than from section 12 in isolation."
+        ],
+        "how_to_read": "Read this together with Order II Rule 2 when assessing whether a client's proposed second suit on a related cause of action is viable — the preclusion, once triggered, cannot be escaped by forum-shopping to another court."
+      }
+    },
+    {
+      "number": "13",
+      "title": "When foreign judgment not conclusive",
+      "raw_text": "13. A foreign judgment shall be conclusive as to any matter thereby directly adjudicated upon between the same parties or between parties under whom they or any of them claim litigating under the same title except—\n(a) where it has not been pronounced by a Court of competent jurisdiction;\n(b) where it has not been given on the merits of the case;\n(c) where it appears on the face of the proceedings to be founded on an incorrect view of international law or a refusal to recognise the law of India in cases in which such law is applicable;\n(d) where the proceedings in which the judgment was obtained are opposed to natural justice;\n(e) where it has been obtained by fraud;\n(f) where it sustains a claim founded on a breach of any law in force in India.",
+      "key_terms": [
+        "foreign judgment",
+        "competent jurisdiction",
+        "natural justice",
+        "fraud",
+        "international law"
+      ],
+      "breakdown": {
+        "plain_summary": "A foreign judgment generally binds the same parties on matters it directly adjudicated — but section 13 carves out six situations (a)-(f) where an Indian court will refuse to treat it as conclusive: lack of jurisdiction, no decision on the merits, a flawed view of international law or refusal to recognise Indian law, breach of natural justice, fraud, or upholding a claim that breaches Indian law.",
+        "essential_elements": [
+          "The general rule is conclusiveness of a foreign judgment on matters it directly adjudicated, between the same parties or privies under the same title.",
+          "Exception (a): the foreign court must have had competent jurisdiction by international-law/private-international-law standards, not merely its own domestic law.",
+          "Exception (b): the judgment must be on the merits, not a default or purely procedural dismissal.",
+          "Exception (c): an incorrect view of international law, or refusal to apply Indian law where applicable, defeats conclusiveness.",
+          "Exception (d): proceedings opposed to natural justice (e.g., no proper notice or opportunity to be heard) defeat conclusiveness.",
+          "Exception (e): a judgment obtained by fraud (on the court or on the party) is not conclusive.",
+          "Exception (f): a judgment sustaining a claim founded on breach of Indian law is not conclusive."
+        ],
+        "exceptions_and_qualifications": [
+          "These six exceptions are exhaustive grounds of attack when resisting enforcement or reliance on a foreign judgment — a party challenging conclusiveness must bring the case within one of clauses (a)-(f), not merely disagree with the foreign court's outcome."
+        ],
+        "how_to_read": "When a foreign judgment is sought to be relied upon (including via section 14's presumption), test it methodically against each of the six exceptions in turn — this is the standard checklist used to resist recognition or execution."
+      }
+    },
+    {
+      "number": "14",
+      "title": "Presumption as to foreign judgments",
+      "raw_text": "14. The Court shall presume, upon the production of any document purporting to be a certified copy of a foreign judgment, that such judgment was pronounced by a Court of competent jurisdiction, unless the contrary appears on the record; but such presumption may be displaced by proving want of jurisdiction.",
+      "key_terms": [
+        "presumption",
+        "certified copy",
+        "competent jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "Producing a certified copy of a foreign judgment triggers a rebuttable presumption that it was pronounced by a competent court — the opposing party bears the burden of proving want of jurisdiction to displace that presumption.",
+        "essential_elements": [
+          "The presumption is triggered by production of a document purporting to be a certified copy of the foreign judgment.",
+          "The presumption is that the judgment was pronounced by a court of competent jurisdiction.",
+          "The presumption is rebuttable — it falls away if the contrary appears on the record, or if want of jurisdiction is affirmatively proved."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a burden-shifting evidentiary rule, not a conclusive validation — it works alongside, not instead of, the section 13(a) competent-jurisdiction exception."
+        ],
+        "how_to_read": "Use a certified copy to establish the initial presumption efficiently, but be ready to meet a jurisdiction challenge with independent proof of how the foreign court's jurisdiction was founded, since the presumption yields once want of jurisdiction is shown."
+      }
+    },
+    {
+      "number": "15",
+      "title": "Court in which suits to be instituted",
+      "raw_text": "15. Every suit shall be instituted in the Court of the lowest grade competent to try it.",
+      "key_terms": [
+        "lowest grade",
+        "competent Court"
+      ],
+      "breakdown": {
+        "plain_summary": "A plaintiff must file suit in the lowest-grade court that is competent (has jurisdiction) to try it — not in a higher court merely for convenience or perceived advantage.",
+        "essential_elements": [
+          "The obligation is to sue in the lowest grade of court that has jurisdiction over the suit's subject-matter and value.",
+          "\"Competent\" here refers to the court's pecuniary and subject-matter jurisdiction to try the suit."
+        ],
+        "exceptions_and_qualifications": [
+          "This is chiefly an administrative/docket-management rule to prevent overburdening higher courts; a suit instituted in a higher court in breach of this section is not automatically a nullity, but the objection can be raised and is governed by the section 21 framework on jurisdictional objections."
+        ],
+        "how_to_read": "Check the applicable court-fee/pecuniary jurisdiction schedule at the drafting stage to identify the correct lowest-grade court — filing too high invites an avoidable objection and possible transfer."
+      }
+    },
+    {
+      "number": "16",
+      "title": "Suits to be instituted where subject-matter situate",
+      "raw_text": "16. Subject to the pecuniary or other limitations prescribed by any law, suits—\n(a) for the recovery of immovable property with or without rent or profits,\n(b) for the partition of immovable property,\n(c) for foreclosure, sale or redemption in the case of a mortgage of or charge upon immovable property,\n(d) for the determination of any other right to or interest in immovable property,\n(e) for compensation for wrong to immovable property,\n(f) for the recovery of movable property actually under distraint or attachment,\nshall be instituted in the Court within the local limits of whose jurisdiction the property is situate:\nProvided that a suit to obtain relief respecting, or compensation for wrong to, immovable property held by or on behalf of the defendant, may where the relief sought can be entirely obtained through his personal obedience, be instituted either in the Court within the local limits of whose jurisdiction the property is situate, or in the Court within the local limits of whose jurisdiction the defendant actually and voluntarily resides, or carries on business, or personally works for gain.\nExplanation.—In this section \"property\" means property situate in India.",
+      "key_terms": [
+        "immovable property",
+        "mortgage",
+        "foreclosure",
+        "redemption",
+        "distraint",
+        "personal obedience"
+      ],
+      "breakdown": {
+        "plain_summary": "For suits about immovable property (recovery, partition, mortgage foreclosure/sale/redemption, other rights/interests, compensation for wrong to it) or movable property already under distraint/attachment, venue is normally fixed by where the property is situated. A proviso softens this for relief that can be fully satisfied through the defendant's personal obedience (e.g., specific performance-type relief) — such suits can instead be filed where the defendant resides, does business, or works for gain.",
+        "essential_elements": [
+          "Clauses (a)-(f) list the categories of suits governed by this situs-based venue rule.",
+          "The default venue is the court within whose local limits the immovable property is situate.",
+          "The proviso creates an alternative venue — the defendant's residence/business/work-for-gain location — but only where the relief sought is one satisfiable entirely through the defendant's personal obedience.",
+          "The Explanation confines \"property\" under this section to property situate in India."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso's personal-obedience alternative is narrow — it applies only when the decree can be wholly executed by compelling the defendant's personal act, not where the relief inherently requires action on/against the property itself (e.g., a sale or partition decree operating on the property)."
+        ],
+        "how_to_read": "Classify the suit's true relief carefully before choosing venue: property-situs suits generally must go where the property sits, and the personal-obedience proviso is the narrow exception, not the rule — misjudging this risks a return of plaint for want of jurisdiction."
+      }
+    },
+    {
+      "number": "17",
+      "title": "Suits for immovable property situate within jurisdiction of different Courts",
+      "raw_text": "17. Where a suit is to obtain relief respecting, or compensation for wrong to, immovable property situate within the jurisdiction of different Courts, the suit may be instituted in any Court within the local limits of whose jurisdiction any portion of the property is situate:\nProvided that, in respect of the value of the subject-matter of the suit, the entire claim is cognizable by such Court.",
+      "key_terms": [
+        "immovable property",
+        "different Courts",
+        "cognizable"
+      ],
+      "breakdown": {
+        "plain_summary": "When immovable property forming the subject of a suit straddles the territorial jurisdiction of more than one court, the plaintiff can sue in any one of those courts within whose limits any part of the property lies — provided that court's pecuniary jurisdiction is large enough to cognize the entire claim's value.",
+        "essential_elements": [
+          "The rule applies where the property in suit spans multiple courts' local jurisdictional limits.",
+          "The plaintiff may choose any one such court, so long as some portion of the property lies within its local limits.",
+          "The proviso requires that the chosen court's pecuniary jurisdiction be sufficient to cover the full value of the subject-matter claimed."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a venue-convenience provision for property straddling boundaries; it does not dispense with the ordinary pecuniary jurisdiction requirement under section 6."
+        ],
+        "how_to_read": "When property spans two or more districts, pick the forum strategically among the qualifying courts, but always cross-check pecuniary competence for the full claim value against the proviso before filing."
+      }
+    },
+    {
+      "number": "18",
+      "title": "Place of institution where local limits of jurisdiction uncertain",
+      "raw_text": "18. (1) Where it is alleged to be uncertain within the local limits of the jurisdiction of which of two or more Courts any immovable property is situate, any one of those Courts may, if satisfied that there is such uncertainty, record a statement to that effect and thereupon proceed to entertain and dispose of any suit relating to that property, and its decree in the suit shall have the same effect as if the property were situate within the local limits of its jurisdiction:\nProvided that the suit is one with respect to which the Court is competent as regards the nature and value of the suit to exercise jurisdiction.\n(2) Where a statement has not been recorded under sub-section (1), and an objection is taken before an Appellate or Revisional Court that a decree or order in a suit relating to such property was made by a Court not having jurisdiction where the property is situate, the Appellate or Revisional Court shall not allow the objection unless in its opinion there was, at the time of the institution of the suit, no reasonable ground for uncertainty as to the Court having jurisdiction with respect thereto and there has been a consequent failure of justice.",
+      "key_terms": [
+        "uncertainty of jurisdiction",
+        "recorded statement",
+        "failure of justice"
+      ],
+      "breakdown": {
+        "plain_summary": "When it is genuinely uncertain which of two or more courts has territorial jurisdiction over immovable property, any one of those courts can record that uncertainty and then proceed with the suit as if the property were within its jurisdiction — as long as it is otherwise competent by nature and value. If this recording step is skipped, an appellate/revisional court will still not disturb the decree on this ground unless there was no reasonable ground for the uncertainty at the time of filing and a failure of justice actually resulted.",
+        "essential_elements": [
+          "Sub-section (1) lets any one of the genuinely competing courts record its satisfaction of uncertainty and then validly try the suit as though the property were within its limits.",
+          "That court must still otherwise be competent as to the nature and value of the suit.",
+          "Sub-section (2) protects decrees even where no formal statement of uncertainty was recorded — an appellate/revisional court will only entertain a jurisdiction objection if there was no reasonable ground for uncertainty AND a failure of justice resulted."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a curative/validating provision aimed at preventing decrees from being upset on hyper-technical local-limits disputes; it does not cure genuine, non-borderline lack of jurisdiction."
+        ],
+        "how_to_read": "Where property location straddles an unclear boundary, proactively get the uncertainty recorded under sub-section (1) at the outset — relying on sub-section (2)'s protective shield later is a fallback, not a substitute, since it requires proving both unreasonableness of any ground for certainty and actual failure of justice."
+      }
+    },
+    {
+      "number": "19",
+      "title": "Suits for compensation for wrongs to person or movables",
+      "raw_text": "19. Where a suit is for compensation for wrong done to the person or to movable property, if the wrong was done within the local limits of the jurisdiction of one Court and the defendant resides, or carries on business, or personally works for gain, within the local limits of the jurisdiction of another Court, the suit may be instituted at the option of the plaintiff in either of the said Courts.\nIllustrations\n(a) A, residing in Delhi, beats B in Calcutta. B may sue A either in Calcutta or in Delhi.\n(b) A, residing in Delhi, publishes in Calcutta statements defamatory of B. B may sue A either in Calcutta or in Delhi.",
+      "key_terms": [
+        "compensation for wrong",
+        "movable property",
+        "option of plaintiff"
+      ],
+      "breakdown": {
+        "plain_summary": "For tort-type suits (personal injury or wrongs to movable property), the plaintiff gets a choice of venue where the place of the wrong and the defendant's residence/business fall in different courts' jurisdictions — either the place-of-wrong court or the defendant's-location court.",
+        "essential_elements": [
+          "The suit must be for compensation for a wrong done to the person or to movable property.",
+          "The rule applies specifically when the wrong-location and the defendant's residence/business/work-for-gain location fall under different courts.",
+          "The plaintiff has the option to sue in either court."
+        ],
+        "exceptions_and_qualifications": [
+          "This is narrower than section 20's general venue rule — it is specific to person/movable-property wrong suits, and only kicks in when the two relevant locations diverge across court jurisdictions."
+        ],
+        "how_to_read": "When advising a tort plaintiff, compare both potential venues for practical advantages (e.g., evidence location, convenience) since the choice is entirely the plaintiff's under this section."
+      }
+    },
+    {
+      "number": "20",
+      "title": "Other suits to be instituted where defendants reside or cause of action arises",
+      "raw_text": "20. Subject to the limitations aforesaid, every suit shall be instituted in a Court within the local limits of whose jurisdiction—\n(a) the defendant, or each of the defendants where there are more than one, at the time of the commencement of the suit, actually and voluntarily resides, or carries on business, or personally works for gain; or\n(b) any of the defendants, where there are more than one, at the time of the commencement of the suit, actually and voluntarily resides, or carries on business, or personally works for gain, provided that in such case either the leave of the Court is given, or the defendants who do not reside, or carry on business, or personally work for gain, as aforesaid, acquiesce in such institution; or\n(c) the cause of action, wholly or in part, arises.\nExplanation.—A corporation shall be deemed to carry on business at its sole or principal office in India or, in respect of any cause of action arising at any place where it has also a subordinate office, at such place.\nIllustrations\n(a) A is a tradesman in Calcutta, B carries on business in Delhi. B, by his agent in Calcutta, buys goods of A and requests A to deliver them to the East India Railway Company. A delivers the goods accordingly in Calcutta. A may sue B for the price of the goods either in Calcutta, where the cause of action arose, or in Delhi, where B carries on business.\n(b) A resides at Simla, B at Calcutta and C at Delhi. A, B and C being together at Benaras, C makes a promissory note payable on demand and delivers it to B, who at Benaras sues A and C on the note. The suit may be brought in any Court in which any one of the defendants might be sued, but if the leave of the Court is not given, it must be brought where A and C actually and voluntarily reside, carry on business or personally work for gain, since A and C do not both reside, carry on business or personally work for gain at Benaras.",
+      "key_terms": [
+        "cause of action",
+        "corporation",
+        "subordinate office",
+        "leave of the Court",
+        "acquiescence"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the Code's residual, general venue provision, applying whenever no more specific rule (sections 16-19) governs: a suit can be filed where the (sole) defendant resides/does business/works for gain, or where any one of multiple defendants does so (with leave of court or acquiescence of the others), or where the cause of action wholly or partly arises.",
+        "essential_elements": [
+          "Clause (a) covers the single-defendant (or all-defendants-together) residence/business/work location.",
+          "Clause (b) covers multiple defendants at different locations — suit can be at any one defendant's location, but only with either court leave or the other defendants' acquiescence.",
+          "Clause (c) covers the cause-of-action location, whether the whole or only part of the cause of action arose there.",
+          "The Explanation deems a corporation to carry on business at its sole/principal office in India, or at a subordinate office for a cause of action arising there."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (b)'s leave-or-acquiescence requirement is a real procedural gate — suing a non-local defendant purely by joining them with a local co-defendant, without leave or acquiescence, is vulnerable to a jurisdiction objection under section 21.",
+          "\"Cause of action\" under clause (c) means the bundle of facts that must be proved to obtain the relief claimed — partial arising is sufficient, so long as some material fact forming part of the cause of action arose within the forum."
+        ],
+        "how_to_read": "This is the default venue toolbox for most ordinary suits (contract, debt, etc.) — work through clauses (a)-(c) in order, and for multi-defendant suits always check whether leave or acquiescence is actually in place before relying on a non-local defendant's presence to found jurisdiction."
+      }
+    },
+    {
+      "number": "21",
+      "title": "Objections to jurisdiction",
+      "raw_text": "21. (1) No objection as to the place of suing shall be allowed by any Appellate or Revisional Court unless such objection was taken in the Court of first instance at the earliest possible opportunity and in all cases where issues are settled at or before such settlement, and unless there has been a consequent failure of justice.\n(2) No objection as to the competence of a Court with reference to the pecuniary limits of its jurisdiction shall be allowed by any Appellate or Revisional Court unless such objection was taken in the Court of first instance at the earliest possible opportunity, and in all cases where issues are settled at or before such settlement, and unless there has been a consequent failure of justice.\n(3) No objection as to the competence of the executing Court with reference to the local limits of its jurisdiction shall be allowed by any Appellate or Revisional Court unless such objection was taken in the executing Court at the earliest possible opportunity, and unless there has been a consequent failure of justice.",
+      "key_terms": [
+        "objection to jurisdiction",
+        "place of suing",
+        "pecuniary jurisdiction",
+        "failure of justice",
+        "earliest possible opportunity"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 21 protects decrees from being upset on jurisdictional technicalities raised too late. Objections to place of suing, pecuniary jurisdiction, or (for executing courts) local territorial limits are all barred on appeal or revision unless raised at the earliest possible opportunity in the court of first instance (or executing court) AND the objecting party shows a consequent failure of justice.",
+        "essential_elements": [
+          "Sub-section (1) governs place-of-suing objections; sub-section (2) (inserted 1976) governs pecuniary-jurisdiction objections; sub-section (3) (inserted 1976) governs local-limits objections to the executing court's competence.",
+          "All three require the objection to have been raised at the earliest possible opportunity — generally by or at the settlement of issues — in the trial or executing court.",
+          "All three additionally require proof of a consequent failure of justice before an appellate or revisional court will entertain the objection."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a twin-condition test — timeliness alone is not enough, and failure of justice alone (raised too late) is not enough; both must be satisfied together.",
+          "This section addresses procedural/territorial and pecuniary jurisdiction defects, which are curable/waivable in this manner — it does not validate a decree passed wholly without subject-matter jurisdiction, which remains a nullity regardless of when objected to."
+        ],
+        "how_to_read": "Raise any place-of-suing, pecuniary-jurisdiction, or executing-court-local-limits objection immediately, at or before the settlement of issues — waiting until appeal is a common, often-fatal drafting/strategy trap given the strict two-part test in this section."
+      }
+    },
+    {
+      "number": "21A",
+      "title": "Bar on suit to set aside decree on objection as to place of suing",
+      "raw_text": "21A. No suit shall lie to set aside a decree passed in a former suit between the same parties, or between parties under whom they or any of them claim, litigating under the same title, on any ground based on an objection as to the place of suing.\nExplanation.—The expression \"former suit\" means a suit which has been decided prior to the decision in the suit in which the objection as to the place of suing is raised.",
+      "key_terms": [
+        "set aside decree",
+        "place of suing",
+        "former suit"
+      ],
+      "breakdown": {
+        "plain_summary": "This section (inserted in 1976) closes an indirect route around section 21's timing bar: a party cannot file a fresh, separate suit to set aside an earlier decree purely on the ground that the earlier suit was filed in the wrong place.",
+        "essential_elements": [
+          "The bar applies to a fresh suit whose object is to set aside a decree passed in a former suit between the same parties or their privies under the same title.",
+          "The ground barred is specifically an objection as to place of suing (territorial venue), not other jurisdictional or merits-based grounds.",
+          "The Explanation defines \"former suit\" as whichever suit was decided earlier in time."
+        ],
+        "exceptions_and_qualifications": [
+          "This provision only bars place-of-suing-based collateral attacks; it does not immunise a decree from challenge on genuine want of subject-matter/pecuniary jurisdiction or other independent grounds available under general law."
+        ],
+        "how_to_read": "If a client wants to challenge an old decree, check first whether the sole ground is territorial venue — if so, section 21A forecloses a fresh suit, and the correct remedy (if any) had to be pursued as an objection under section 21 in the original proceeding itself."
+      }
+    },
+    {
+      "number": "22",
+      "title": "Power to transfer suits which may be instituted in more than one Court",
+      "raw_text": "22. Where a suit may be instituted in any one of two or more Courts and is instituted in one of such Courts, any defendant, after notice to the other parties, may, at the earliest possible opportunity and in all cases where issues are settled at or before such settlement, apply to have the suit transferred to another Court, and the Court to which such application is made, after considering the objections of the other parties (if any), shall determine in which of the several Courts having jurisdiction the suit shall proceed.",
+      "key_terms": [
+        "transfer of suit",
+        "notice to parties",
+        "earliest possible opportunity"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a suit could validly have been filed in more than one competent court, a defendant may apply, at the earliest opportunity and after notifying the other parties, to have it transferred to one of the other eligible courts; the receiving court then decides, after hearing objections, which of the eligible courts should actually proceed with it.",
+        "essential_elements": [
+          "The provision applies only when the suit could properly have been instituted in more than one court.",
+          "The application must come from a defendant, with notice to other parties, at the earliest possible opportunity (generally at or before settlement of issues).",
+          "The court to which the application is made decides, after considering objections, which of the several eligible courts should proceed with the suit."
+        ],
+        "exceptions_and_qualifications": [
+          "This is distinct from section 21's objection-to-jurisdiction mechanism — section 22 presumes the suit was validly filed in a competent court and is about choosing among multiple equally valid venues, not challenging validity."
+        ],
+        "how_to_read": "Use this provision (rather than section 21) when the objection is not that the filing court lacked jurisdiction, but that a different, equally competent court would be more appropriate — and raise it promptly, since it carries the same earliest-opportunity discipline as section 21."
+      }
+    },
+    {
+      "number": "23",
+      "title": "To what Court application lies",
+      "raw_text": "23. (1) Where the several Courts having jurisdiction are subordinate to the same Appellate Court, the application under section 22 shall be made to the Appellate Court.\n(2) Where such Courts are subordinate to different Appellate Courts but to the same High Court, the application shall be made to the said High Court.\n(3) Where such Courts are subordinate to different High Courts, the application shall be made to the High Court within the local limits of whose jurisdiction the Court in which the suit is brought is situate.",
+      "key_terms": [
+        "Appellate Court",
+        "High Court",
+        "application for transfer"
+      ],
+      "breakdown": {
+        "plain_summary": "This section routes a section 22 transfer application to the correct forum, scaled to how far apart the competing courts sit in the judicial hierarchy: same Appellate Court's subordinates go to that Appellate Court; different Appellate Courts under the same High Court go to that High Court; and courts under different High Courts go to the High Court local to the court where the suit was actually filed.",
+        "essential_elements": [
+          "Sub-section (1): common Appellate Court scenario — application goes to that Appellate Court.",
+          "Sub-section (2): different Appellate Courts but common High Court — application goes to that High Court.",
+          "Sub-section (3): different High Courts entirely — application goes to the High Court local to where the suit was instituted."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat this as a simple routing table for section 22 applications — identify the lowest common judicial authority over the competing courts and file there."
+      }
+    },
+    {
+      "number": "24",
+      "title": "General power of transfer and withdrawal",
+      "raw_text": "24. (1) On the application of any of the parties and after notice to the parties and after hearing such of them as desired to be heard, or of its own motion without such notice, the High Court or the District Court may at any stage—\n(a) transfer any suit, appeal or other proceeding pending before it for trial or disposal to any Court subordinate to it and competent to try or dispose of the same, or\n(b) withdraw any suit, appeal or other proceeding pending in any Court subordinate to it, and—\n(i) try or dispose of the same, or\n(ii) transfer the same for trial or disposal to any Court subordinate to it and competent to try or dispose of the same, or\n(iii) retransfer the same for trial or disposal to the Court from which it was withdrawn.\n(2) Where any suit or proceeding has been transferred or withdrawn under sub-section (1), the Court which is thereafter to try or dispose of such suit or proceeding may, subject to any special directions in the case of an order of transfer, either retry it or proceed from the point at which it was transferred or withdrawn.\n(3) For the purposes of this section,—\n(a) Courts of Additional and Assistant Judges shall be deemed to be subordinate to the District Court;\n(b) \"proceeding\" includes a proceeding for the execution of a decree or order.\n(4) The Court trying any suit transferred or withdrawn under this section from a Court of Small Causes shall, for the purposes of such suit, be deemed to be a Court of Small Causes.\n(5) A suit or proceeding may be transferred under this section from a Court which has no jurisdiction to try it.",
+      "key_terms": [
+        "transfer",
+        "withdrawal",
+        "suo motu",
+        "Court of Small Causes",
+        "proceeding"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the broad, general transfer/withdrawal power of the High Court and District Court over any suit, appeal, or proceeding pending in or under them, exercisable at any stage, on application or on their own motion, with the receiving court free to either retry the matter or continue from where it was left off.",
+        "essential_elements": [
+          "Sub-section (1)(a) permits transfer from the High Court/District Court itself down to a competent subordinate court.",
+          "Sub-section (1)(b) permits withdrawal of a matter from a subordinate court, followed by the withdrawing court trying it itself, transferring it onward to another competent subordinate court, or sending it back to the original court.",
+          "Sub-section (2) lets the receiving court choose to retry from scratch or continue from the transfer/withdrawal point, subject to any special directions.",
+          "Sub-section (3)(a) deems Additional and Assistant Judge courts subordinate to the District Court for this section; (3)(b) extends \"proceeding\" to execution proceedings.",
+          "Sub-section (4) preserves Small Cause Court character/procedure for a suit transferred from such a court.",
+          "Sub-section (5) (inserted 1976) clarifies transfer power extends even to a matter pending in a court that lacked jurisdiction to try it."
+        ],
+        "exceptions_and_qualifications": [
+          "The power can be exercised suo motu, without any party's application, distinguishing it from the narrower, party-driven section 22 mechanism."
+        ],
+        "how_to_read": "Reach for section 24 (rather than section 22) whenever the goal is a discretionary administrative transfer for convenience, docket management, or to cure a jurisdictional defect — it is the High Court/District Court's general supervisory transfer tool, broader than section 22's multiple-competent-venue scenario."
+      }
+    },
+    {
+      "number": "25",
+      "title": "Power of Supreme Court to transfer suits, etc.",
+      "raw_text": "25. (1) On the application of a party, and after notice to the other party and after hearing him, the Supreme Court may, at any stage, if satisfied that an order under this section is expedient for the ends of justice, direct that any suit, appeal or other proceeding be transferred from a High Court or other Civil Court in one State to a High Court or other Civil Court in any other State.\n(2) Every application under this section shall be made by a motion which shall be supported by an affidavit.\n(3) The Court to which such suit, appeal or other proceeding is transferred shall, subject to any special directions in the order of transfer, either retry it or proceed from the point at which it was transferred to it.\n(4) In dismissing any application under this section, the Supreme Court may, if it is of opinion that the application was frivolous or vexatious, order the applicant to pay by way of compensation to any person who has opposed the application such sum, not exceeding two thousand rupees, as it considers appropriate in the circumstances of the case.\n(5) The law applicable to any suit, appeal or other proceeding transferred under this section shall be the law which the Court in which the suit, appeal or other proceeding was originally instituted ought to have applied to such suit, appeal or proceeding.",
+      "key_terms": [
+        "Supreme Court",
+        "transfer between States",
+        "motion",
+        "affidavit",
+        "frivolous application"
+      ],
+      "breakdown": {
+        "plain_summary": "The Supreme Court holds the ultimate, inter-State transfer power — it can move a suit, appeal, or proceeding from a High Court or civil court in one State to one in another, on a party's application (by motion with supporting affidavit, after notice and hearing) wherever expedient for the ends of justice, with a costs deterrent against frivolous or vexatious applications.",
+        "essential_elements": [
+          "Sub-section (1) empowers transfer at any stage, on the expediency-for-ends-of-justice standard, only after notice to and hearing of the other party.",
+          "Sub-section (2) requires the application to be by motion supported by affidavit.",
+          "Sub-section (3) lets the transferee court retry or continue from the transfer point, subject to special directions in the transfer order.",
+          "Sub-section (4) lets the Supreme Court penalise a frivolous or vexatious application with compensation up to ₹2,000 payable to the party who opposed it.",
+          "Sub-section (5) preserves the choice of law — the transferred matter continues to be governed by the law the originating court ought to have applied, not the transferee State's law."
+        ],
+        "exceptions_and_qualifications": [
+          "This is reserved for genuinely inter-State transfers; intra-State transfers between courts under the same High Court are handled under sections 22-24, not this section."
+        ],
+        "how_to_read": "Reserve section 25 applications for real inter-State transfer needs (e.g., witness safety, fair trial concerns, convenience spanning States) and expect the Supreme Court to scrutinise expediency carefully given the express frivolous-application cost deterrent in sub-section (4)."
+      }
+    },
+    {
+      "number": "26",
+      "title": "Institution of suits",
+      "raw_text": "26. (1) Every suit shall be instituted by the presentation of a plaint or in such other manner as may be prescribed.\n(2) In every plaint, facts shall be proved by affidavit.",
+      "key_terms": [
+        "plaint",
+        "affidavit",
+        "institution of suit"
+      ],
+      "breakdown": {
+        "plain_summary": "A civil suit formally begins when a plaint is presented (or through whatever other manner is prescribed by rules), and the facts pleaded in it must be supported by affidavit.",
+        "essential_elements": [
+          "Sub-section (1) fixes presentation of a plaint (or a prescribed alternative manner) as the mode of instituting a suit.",
+          "Sub-section (2) (inserted 2002) requires the facts in every plaint to be proved by affidavit."
+        ],
+        "exceptions_and_qualifications": [
+          "The affidavit requirement in sub-section (2) works alongside Order VI Rule 15A, which prescribes the form and manner of that affidavit."
+        ],
+        "how_to_read": "Treat plaint presentation as the trigger date for limitation and other institution-linked consequences, and ensure the accompanying affidavit is in the prescribed form — an incomplete or missing affidavit is a common, easily avoidable filing defect."
+      }
+    },
+    {
+      "number": "27",
+      "title": "Summons to defendants",
+      "raw_text": "27. Where a suit has been duly instituted, a summons may be issued to the defendant to appear and answer the claim and may be served in manner prescribed on such day not beyond thirty days from date of the institution of the suit.",
+      "key_terms": [
+        "summons",
+        "duly instituted",
+        "thirty days"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a suit is duly instituted, the court issues a summons calling the defendant to appear and answer the claim, to be served in the prescribed manner, returnable on a day within thirty days of institution.",
+        "essential_elements": [
+          "A summons issues only after the suit has been duly instituted.",
+          "It must be served in the manner prescribed by the rules.",
+          "It must call for appearance on a day not beyond thirty days from the date of institution of the suit."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Check the summons's return date against the thirty-day outer limit from institution when scrutinising procedural compliance, and pair this section with Order V's detailed service-of-summons machinery."
+      }
+    },
+    {
+      "number": "28",
+      "title": "Service of summons where defendant resides in another State",
+      "raw_text": "28. (1) A summons may be sent for service in another State to such Court and in such manner as may be prescribed by rules in force in that State.\n(2) The Court to which such summons is sent shall, upon receipt thereof, proceed as if it had been issued by such Court and shall then return the summons to the Court of issue together with the record (if any) of its proceedings with regard thereto.\n(3) Where the language of the summons sent for service in another State is different from the language of the record referred to in sub-section (2), a translation of the record,—\n(a) in Hindi, where the language of the Court issuing the summons is Hindi, or\n(b) in Hindi or English where the language of such record is other than Hindi or English,\nshall also be sent together with the record sent under that sub-section.",
+      "key_terms": [
+        "interstate service",
+        "translation",
+        "record of proceedings"
+      ],
+      "breakdown": {
+        "plain_summary": "For a defendant in another State, the issuing court routes the summons through the receiving State's own court and rules; the receiving court executes it as if it were its own summons and returns both the summons and its service record, with a Hindi/English translation attached if the languages differ.",
+        "essential_elements": [
+          "Sub-section (1): the summons is sent to a court in the other State, served under that State's own prescribed rules.",
+          "Sub-section (2): the receiving court treats it as its own summons, then returns the summons plus its service record to the issuing court.",
+          "Sub-section (3) (inserted 1976): a translation (Hindi, or Hindi/English) accompanies the returned record where the languages differ."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Use this as the inter-State service channel distinct from section 29's cross-border (outside-India) channel — the two sections should not be conflated."
+      }
+    },
+    {
+      "number": "29",
+      "title": "Service of foreign summonses",
+      "raw_text": "29. Summonses and other processes issued by—\n(a) any Civil or Revenue Court established in any part of India to which the provisions of this Code do not extend, or\n(b) any Civil or Revenue Court established or continued by the authority of the Central Government outside India, or\n(c) any other Civil or Revenue Court outside India to which the Central Government has, by notification in the Official Gazette, declared the provisions of this section to apply,\nmay be sent to the Courts in the territories to which this Code extends, and served as if they were summonses issued by such Courts.",
+      "key_terms": [
+        "foreign summons",
+        "Revenue Court",
+        "reciprocity",
+        "Official Gazette"
+      ],
+      "breakdown": {
+        "plain_summary": "This section creates a reciprocal service channel: summonses from certain non-Code-governed Indian courts, Central-Government-established courts abroad, or notified foreign courts can be routed into Code territory and served there exactly as if they were locally issued summonses.",
+        "essential_elements": [
+          "Clause (a) covers Civil/Revenue Courts within India but outside the Code's territorial extent.",
+          "Clause (b) covers Civil/Revenue Courts established or continued by the Central Government outside India.",
+          "Clause (c) covers other foreign Civil/Revenue Courts specifically notified by the Central Government in the Official Gazette as covered by this section.",
+          "Once channeled in, such process is served in Code territory exactly as if it were a domestic summons."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Confirm notification status under clause (c) before assuming a particular foreign court's process qualifies for this service route — absent notification, that specific foreign court's summonses fall outside this mechanism."
+      }
+    },
+    {
+      "number": "30",
+      "title": "Power to order discovery and the like",
+      "raw_text": "30. Subject to such conditions and limitations as may be prescribed, the Court may, at any time, either of its own motion or on the application of any party,—\n(a) make such orders as may be necessary or reasonable in all matters relating to the delivery and answering of interrogatories, the admission of documents and facts, and the discovery, inspection, production, impounding and return of documents or other material objects producible as evidence;\n(b) issue summonses to persons whose attendance is required either to give evidence or to produce documents or such other objects as aforesaid;\n(c) order any fact to be proved by affidavit.",
+      "key_terms": [
+        "discovery",
+        "interrogatories",
+        "inspection",
+        "impounding",
+        "affidavit"
+      ],
+      "breakdown": {
+        "plain_summary": "The court has a broad, flexible power — usable on its own motion or a party's application, at any time — to manage pre-trial evidentiary matters: interrogatories, admissions, discovery/inspection/production/impounding of documents or objects, summoning witnesses or document-holders, and directing proof of facts by affidavit.",
+        "essential_elements": [
+          "Clause (a) covers the full discovery toolkit: interrogatories, admissions, and discovery/inspection/production/impounding/return of documents or material objects.",
+          "Clause (b) covers summoning persons needed to give evidence or produce documents/objects.",
+          "Clause (c) covers ordering proof of any fact by affidavit.",
+          "The power is exercisable at any time, suo motu or on application, subject to prescribed conditions and limitations."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the general engine behind pre-trial procedural orders (interrogatories, discovery, inspection) — pair it with the detailed machinery in Order XI (discovery and inspection) and Order XVI (summoning witnesses) when drafting or opposing such applications."
+      }
+    },
+    {
+      "number": "31",
+      "title": "Summons to witness",
+      "raw_text": "31. The provisions in sections 27, 28 and 29 shall apply to summonses to give evidence or to produce documents or other material objects.",
+      "key_terms": [
+        "witness summons"
+      ],
+      "breakdown": {
+        "plain_summary": "The same service rules that govern defendant-summonses (timing, inter-State routing, foreign-court reciprocity) also apply to summonses issued to witnesses to give evidence or produce documents/objects.",
+        "essential_elements": [
+          "Sections 27 (issuance/timing), 28 (inter-State service), and 29 (foreign summonses) are all extended to witness summonses by this section."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "When serving a witness summons across State lines or from outside Code territory, apply the identical mechanics used for defendant summonses under sections 27-29."
+      }
+    },
+    {
+      "number": "32",
+      "title": "Penalty for default",
+      "raw_text": "32. The Court may compel the attendance of any person to whom a summons has been issued under section 30 and for that purpose may—\n(a) issue a warrant for his arrest;\n(b) attach and sell his property;\n(c) impose a fine upon him not exceeding five thousand rupees;\n(d) order him to furnish security for his appearance and in default commit him to the civil prison.",
+      "key_terms": [
+        "warrant of arrest",
+        "attachment of property",
+        "fine",
+        "civil prison",
+        "security for appearance"
+      ],
+      "breakdown": {
+        "plain_summary": "If a person summoned under section 30 (e.g., for discovery-related attendance) defaults, the court has coercive tools to compel compliance: arrest warrant, attachment and sale of property, a fine up to ₹5,000, or a security-for-appearance order backed by committal to civil prison on default.",
+        "essential_elements": [
+          "The power applies to compelling attendance of a person summoned specifically under section 30.",
+          "Clause (a): arrest warrant.",
+          "Clause (b): attachment and sale of the defaulter's property.",
+          "Clause (c): a fine, capped at ₹5,000.",
+          "Clause (d): a security-for-appearance order, with civil imprisonment as the consequence of default on furnishing security."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Reserve reliance on this section for genuine section 30 summons defaults — it is a targeted enforcement tool, not a general contempt power, and each of the four listed measures (a)-(d) is a distinct order the court must specifically make."
+      }
+    },
+    {
+      "number": "33",
+      "title": "Judgment and decree",
+      "raw_text": "33. The Court, after the case has been heard, shall pronounce judgment, and on such judgment a decree shall follow.",
+      "key_terms": [
+        "judgment",
+        "decree",
+        "hearing"
+      ],
+      "breakdown": {
+        "plain_summary": "After the case has been heard, the court must pronounce judgment, and a decree follows from that judgment — the two-step sequence (judgment first, decree drawn up from it) that structures how a civil suit concludes.",
+        "essential_elements": [
+          "Judgment is pronounced only after the case has been heard.",
+          "The decree is the formal expression that follows from, and gives effect to, the judgment."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Use this as the anchor for the judgment/decree sequence — read alongside section 2(2) (decree definition), section 2(9) (judgment definition), and Order XX for the detailed procedure on pronouncement and drawing up of decrees."
+      }
+    },
+    {
+      "number": "34",
+      "title": "Interest",
+      "raw_text": "34. (1) Where and in so far as a decree is for the payment of money, the Court may, in the decree, order interest at such rate as the Court deems reasonable to be paid on the principal sum adjudged, from the date of the suit to the date of the decree, in addition to any interest adjudged on such principal sum for any period prior to the institution of the suit, with further interest at such rate not exceeding six per cent. per annum as the Court deems reasonable on such principal sum, from the date of the decree to the date of payment, or to such earlier date as the Court thinks fit:\nProvided that where the liability in relation to the sum so adjudged had arisen out of a commercial transaction, the rate of such further interest may exceed six per cent. per annum, but shall not exceed the contractual rate of interest or where there is no contractual rate, the rate at which moneys are lent or advanced by nationalised banks in relation to commercial transactions.\nExplanation I.—In this sub-section, \"nationalised bank\" means a corresponding new bank as defined in the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970.\nExplanation II.—For the purposes of this section, a transaction is a commercial transaction, if it is connected with the industry, trade or business of the party incurring the liability.\n(2) Where such a decree is silent with respect to the payment of further interest on such principal sum from the date of the decree to the date of payment or other earlier date, the Court shall be deemed to have refused such interest, and a separate suit therefor shall not lie.",
+      "key_terms": [
+        "interest",
+        "principal sum",
+        "commercial transaction",
+        "nationalised bank",
+        "pendente lite interest"
+      ],
+      "breakdown": {
+        "plain_summary": "For money decrees, section 34 lets the court award three distinct interest components: pre-suit interest (if otherwise adjudged), pendente-lite interest (date of suit to date of decree) at a court-determined reasonable rate, and post-decree interest (decree to payment) generally capped at 6% per annum — except for commercial transactions, where it can go up to the contractual rate or the nationalised-bank commercial lending rate. Silence on post-decree interest is deemed a refusal, foreclosing a separate suit for it.",
+        "essential_elements": [
+          "The power applies only where, and to the extent, a decree is for payment of money.",
+          "The court sets its own reasonable rate for interest from the date of suit to the date of decree.",
+          "Post-decree interest (decree to payment) is capped at 6% per annum as the general rule.",
+          "The proviso lifts that cap for commercial-transaction liabilities, allowing up to the contractual rate, or (absent a contractual rate) the nationalised banks' commercial lending rate.",
+          "Explanation I defines \"nationalised bank\"; Explanation II defines \"commercial transaction\" as one connected with the liable party's industry, trade, or business.",
+          "Sub-section (2) deems silence on further interest as a refusal, barring a fresh suit to claim it separately."
+        ],
+        "exceptions_and_qualifications": [
+          "The 6% cap is a default ceiling, not an entitlement — the court retains discretion on whether to award post-decree interest at all, and at what rate up to the applicable cap."
+        ],
+        "how_to_read": "When drafting prayer clauses in money suits, specifically plead for pendente-lite and post-decree interest (and, for commercial transactions, the higher contractual/bank rate) — silence in the decree is treated as a deemed refusal under sub-section (2), and there is no second bite via a fresh suit."
+      }
+    },
+    {
+      "number": "35",
+      "title": "Costs",
+      "raw_text": "35. (1) Subject to such conditions and limitations as may be prescribed, and to the provisions of any law for the time being in force, the costs of an incident to all suits shall be in the discretion of the Court, and the Court shall have full power to determine by whom or out of what property and to what extent such costs are to be paid, and to give all necessary directions for the purposes aforesaid. The fact that the Court has no jurisdiction to try the suit shall be no bar to the exercise of such powers.\n(2) Where the Court directs that any costs shall not follow the event, the Court shall state its reasons in writing.",
+      "key_terms": [
+        "costs",
+        "discretion of the Court",
+        "follow the event"
+      ],
+      "breakdown": {
+        "plain_summary": "Costs of and incidental to a suit are in the court's discretion — it decides who pays, out of what property, and how much, and can exercise this power even if it turns out the court lacked jurisdiction to try the suit itself. If costs are not awarded to follow the usual rule (the losing party pays), the court must record written reasons.",
+        "essential_elements": [
+          "The general default is \"costs follow the event\" — the unsuccessful party ordinarily pays, though this section frames it as discretionary rather than an absolute rule.",
+          "The court determines who pays, out of what property, and to what extent, with full power to give necessary directions.",
+          "Lack of jurisdiction to try the suit does not disable the court's power to make costs orders.",
+          "Sub-section (2) requires written reasons whenever the court departs from the usual costs-follow-the-event approach."
+        ],
+        "exceptions_and_qualifications": [
+          "A separate, later-inserted version of section 35 (applicable specifically to commercial disputes of specified value, per the Commercial Courts Act regime) sets out a more detailed, structured costs framework — check whether the dispute qualifies as a commercial dispute before relying on the general section 35 alone."
+        ],
+        "how_to_read": "Always ask for costs specifically in the prayer, and if arguing against the costs-follow-the-event default, be ready for the court to record reasons under sub-section (2) — this reasoned-departure requirement is a useful check when costs orders appear to deviate from outcome without explanation."
+      }
+    },
+    {
+      "number": "35A",
+      "title": "Compensatory costs in respect of false or vexatious claims or defences",
+      "raw_text": "35A. (1) If in any suit or other proceedings including an execution proceeding but excluding an appeal or a revision any party objects to the claim or defence on the ground that the claim or defence or any part of it is, as against the objector, false or vexatious to the knowledge of the party by whom it has been put forward, and if thereafter, as against the objector, such claim or defence is disallowed, abandoned or withdrawn in whole or in part, the Court, if it so thinks fit, may, after recording its reasons for holding such claim or defence to be false or vexatious, make an order for the payment to the objector by the party by whom such claim or defence has been put forward, of costs by way of compensation.\n(2) No Court shall make any such order for the payment of an amount exceeding three thousand rupees or exceeding the limits of its pecuniary jurisdiction, whichever amount is less:\nProvided that where the pecuniary limits of the jurisdiction of any Court exercising the jurisdiction of a Court of Small Causes under the Provincial Small Cause Courts Act, 1887, or under a corresponding law in force in any part of India to which the said Act does not extend and not being a Court constituted under such Act or law, are less than two hundred and fifty rupees, the High Court may empower such Court to award as costs under this section any amount not exceeding two hundred and fifty rupees and not exceeding those limits by more than one hundred rupees:\nProvided, further, that the High Court may limit the amount which any Court or class of Courts is empowered to award as costs under this section.\n(3) No person against whom an order has been made under this section shall, by reason thereof, be exempted from any criminal liability in respect of any claim or defence made by him.\n(4) The amount of any compensation awarded under this section in respect of a false or vexatious claim or defence shall be taken into account in any subsequent suit for damages or compensation in respect of such claim or defence.",
+      "key_terms": [
+        "compensatory costs",
+        "vexatious claim",
+        "false defence",
+        "objector"
+      ],
+      "breakdown": {
+        "plain_summary": "This section lets a party who successfully objects to an opponent's knowingly false or vexatious claim/defence (which is then disallowed, abandoned, or withdrawn) recover compensatory costs, capped at ₹3,000 or the court's pecuniary jurisdiction limit, whichever is lower — with the court required to record reasons for the false/vexatious finding, and the award neither shielding the wrongdoer from criminal liability nor precluding it being set off against a later damages suit on the same claim/defence.",
+        "essential_elements": [
+          "Applies to suits and other proceedings, including execution, but expressly excludes appeals and revisions.",
+          "Requires an objection by a party that the claim/defence (or part of it) is false or vexatious to the knowledge of the party asserting it.",
+          "Requires the claim/defence to then actually be disallowed, abandoned, or withdrawn (in whole or part) as against the objector.",
+          "The court must record reasons for holding the claim/defence false or vexatious before awarding compensatory costs.",
+          "Sub-section (2) caps the award at ₹3,000 or the court's own pecuniary jurisdiction limit, whichever is less, with special (lower) sub-limits for certain Small Cause Courts under the provisos.",
+          "Sub-section (3) preserves criminal liability notwithstanding the civil costs order.",
+          "Sub-section (4) requires this compensation to be set off against any later damages suit on the same claim/defence."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a distinct, additional remedy from ordinary section 35 costs — it specifically targets knowing falsity/vexatiousness, not mere loss on the merits."
+        ],
+        "how_to_read": "Plead section 35A compensatory costs as a specific, reasoned application (not just a request folded into general costs) when a party has knowingly advanced a false or vexatious claim or defence — and remember the modest statutory cap, which limits its deterrent value compared to a full damages suit."
+      }
+    },
+    {
+      "number": "35B",
+      "title": "Costs for causing delay",
+      "raw_text": "35B. (1) If, on any date fixed for the hearing of a suit or for taking any step therein, a party to the suit—\n(a) fails to take the step which he was required by or under this Code to take on that date, or\n(b) obtains an adjournment for taking such step or for producing evidence or on any other ground,\nthe Court may, for reasons to be recorded, make an order requiring such party to pay to the other party such costs as would, in the opinion of the Court, be reasonably sufficient to reimburse the other party in respect of the expenses incurred by him in attending the Court on that date, and payment of such costs, on the date next following the date of such order, shall be a condition precedent to the further prosecution of—\n(a) the suit by the plaintiff, where the plaintiff was ordered to pay such costs,\n(b) the defence by the defendant, where the defendant was ordered to pay such costs.\nExplanation.—Where separate defences have been raised by the defendant or groups of defendants, payment of such costs shall be a condition precedent to the further prosecution of the defence by such defendants or groups of defendants as have been ordered by the Court to pay such costs.\n(2) The costs, ordered to be paid under sub-section (1), shall not, if paid, be included in the costs awarded in the decree passed in the suit; but, if such costs are not paid, a separate order shall be drawn up indicating the amount of such costs and the names and addresses of the persons by whom such costs are payable and the order so drawn up shall be executable against such persons.",
+      "key_terms": [
+        "adjournment costs",
+        "condition precedent",
+        "delay"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 35B is a delay deterrent: if a party defaults on a required procedural step on a fixed hearing date, or obtains an adjournment, the court can order it to reimburse the other side's costs of attendance that day — and payment of those costs by the next date becomes a condition precedent to that party continuing to prosecute its suit or defence at all.",
+        "essential_elements": [
+          "Triggered by either failing to take a required step on a fixed date, or obtaining an adjournment (for a step, evidence, or any other ground).",
+          "The court must record reasons before ordering costs.",
+          "The costs are pegged to reasonably reimbursing the other party's attendance expenses for that date.",
+          "Payment by the next following date is a condition precedent to further prosecution of the suit (if the plaintiff defaulted) or the defence (if the defendant defaulted).",
+          "The Explanation extends this defence-by-defence, where separate defendants/groups have raised separate defences.",
+          "Sub-section (2) keeps these costs separate from the final decree's costs award if paid, but makes them independently executable via a separate order if unpaid."
+        ],
+        "exceptions_and_qualifications": [
+          "This is procedural-delay costs, distinct from both section 35 (general costs) and section 35A (false/vexatious-claim compensatory costs) — all three can operate independently in the same suit."
+        ],
+        "how_to_read": "Track adjournment and default costs orders carefully as litigation counsel — under sub-section (1), unpaid section 35B costs can genuinely stall further prosecution of a claim or defence, making prompt payment a real, not merely nominal, procedural obligation."
+      }
+    }
+  ]
+}
