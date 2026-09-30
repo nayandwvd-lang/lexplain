@@ -62,7 +62,23 @@
     "disturbed area": "An area declared disturbed under a public-order enactment, or an area with over one month of extensive disturbance of the public peace, within the meaning of section 115 -- triggering a rebuttable presumption of guilt for specified grave public-order offences where firearms/explosives were used against armed or public-order forces.",
     "legitimacy": "The legal status of a child as born to parents in a valid marriage; under section 116, conclusively proved by birth during the marriage's continuance (or within 280 days of its dissolution, mother unmarried), unless non-access is shown.",
     "dowry death": "As defined in section 80 of the Bharatiya Nyaya Sanhita, 2023: broadly, a woman's death by burns, bodily injury, or under otherwise abnormal circumstances within seven years of marriage, connected with cruelty or harassment for a dowry demand. Section 118 mandatorily presumes the accused caused it where such cruelty/harassment is shown soon before death.",
-    "natural presumption": "The broad discretionary power under section 119 to presume any fact likely to have happened based on the common course of natural events, human conduct, and business -- illustrated with maxims like recent-possession-implies-guilt and adverse inference from withheld evidence, each subject to case-specific caveats under sub-section (2)."
+    "natural presumption": "The broad discretionary power under section 119 to presume any fact likely to have happened based on the common course of natural events, human conduct, and business -- illustrated with maxims like recent-possession-implies-guilt and adverse inference from withheld evidence, each subject to case-specific caveats under sub-section (2).",
+    "competent witness": "A person legally qualified to give evidence; under s.124 the default for everyone unless a specific incapacity to understand or rationally answer questions is shown.",
+    "special educator": "A trained professional who assists witnesses with communication or developmental disabilities in giving evidence, as mandated under s.125's proviso.",
+    "marital communication privilege": "The rule under s.128 that confidential communications between spouses made during the marriage cannot be disclosed in evidence without the consent of the spouse who made them, except in litigation between the spouses themselves.",
+    "affairs of State": "Matters of governmental or sovereign concern (e.g. national security, diplomacy, internal policy deliberation) whose unpublished records attract a qualified privilege from disclosure under s.129.",
+    "revenue officer": "Any officer employed in or about the business of any branch of the public revenue, as defined in the Explanation to s.131.",
+    "professional communication privilege": "The advocate-client privilege under s.132 protecting client communications, document contents, and legal advice from disclosure without the client's express consent, subject to the illegal-purpose and ongoing-fraud exceptions.",
+    "use immunity": "Protection under s.137's proviso ensuring that an answer a witness is compelled to give (over a self-incrimination objection) cannot later be used to arrest, prosecute, or convict them, except for a perjury charge on that same answer.",
+    "accomplice": "A person who participated, with the accused, in the commission of a crime, and who may be called as a competent prosecution witness against the accused under s.138.",
+    "conditional relevancy": "The situation under s.141 where the relevance or admissibility of one fact depends on another fact being proved first, requiring the Judge to manage the order of proof.",
+    "examination-in-chief": "The initial questioning of a witness by the party who called them, as defined in s.142(1).",
+    "cross-examination": "The questioning of a witness by the adverse (opposing) party, as defined in s.142(2).",
+    "re-examination": "The questioning of a witness by the party who called them, conducted after cross-examination, as defined in s.142(3).",
+    "leading question": "A question that suggests the answer the questioner wishes or expects to receive, as defined in s.146(1); generally restricted in examination-in-chief and re-examination but freely permitted in cross-examination.",
+    "prior inconsistent statement": "An earlier statement by a witness, made in writing or reduced to writing, that conflicts with their current testimony and may be used to impeach their credibility under s.148, subject to first putting the contradicting portions to the witness.",
+    "character-shaking question": "A cross-examination question permitted under s.149(c) aimed at damaging a witness's credibility by attacking their character, subject to the s.149 proviso protecting sexual-offence victims from character/sexual-history questioning on the issue of consent.",
+    "unsound mind": "A mental condition impairing a person's ability to understand questions and give rational answers; under s.124 it disqualifies a witness only where it actually prevents rational testimony, not merely because it exists."
   },
   "sections": [
     {
@@ -2425,6 +2441,560 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Closes Chapter VIII. Note how the two Explanations carve out real, substantive defences that remain open despite the general estoppel -- denying genuineness of the instrument itself (Explanation 1) and asserting a third party's superior right (Explanation 2) are conceptually different from denying the counterparty's authority, which is what the estoppel actually forecloses."
+      }
+    },
+    {
+      "number": "124",
+      "title": "Who may testify",
+      "raw_text": "All persons shall be competent to testify unless the Court considers that they are prevented from understanding the questions put to them, or from giving rational answers to those questions, by tender years, extreme old age, disease, whether of body or mind, or any other cause of the same kind.\n\nExplanation.—A person of unsound mind is not incompetent to testify, unless he is prevented by his unsoundness of mind from understanding the questions put to him and giving rational answers to them.",
+      "key_terms": [
+        "competent witness",
+        "unsound mind"
+      ],
+      "breakdown": {
+        "plain_summary": "The default rule is universal competence: everyone can testify. The only disqualification is functional — an actual, present inability to understand questions or answer rationally, whatever its cause (childhood, old age, illness). It is not a status-based bar.",
+        "essential_elements": [
+          "General rule: all persons are competent witnesses.",
+          "Exception is functional, not categorical: incapacity to understand questions or give rational answers.",
+          "Cause of incapacity is irrelevant — tender years, extreme old age, physical or mental disease, or any similar cause.",
+          "Unsoundness of mind alone does not disqualify; only unsoundness that actually prevents rational testimony does."
+        ],
+        "exceptions_and_qualifications": [
+          "A child witness or a person with a mental health condition is not automatically excluded — the Court must test actual capacity, often via preliminary questioning (voir dire).",
+          "The bar is high: partial impairment does not disqualify, only impairment severe enough to defeat rational understanding and response."
+        ],
+        "how_to_read": "Start from the presumption of competence; only exclude a witness where the Court has actually tested and found incapacity of the specific functional kind described."
+      }
+    },
+    {
+      "number": "125",
+      "title": "Witness unable to communicate verbally",
+      "raw_text": "A witness who is unable to speak may give his evidence in any other manner in which he can make it intelligible, as by writing or by signs; but such writing must be written and the signs made in open Court and evidence so given shall be deemed to be oral evidence:\n\nProvided that if the witness is unable to communicate verbally, the Court shall take the assistance of an interpreter or a special educator in recording the statement, and such statement shall be videographed.",
+      "key_terms": [
+        "special educator"
+      ],
+      "breakdown": {
+        "plain_summary": "A witness who cannot speak is not thereby incompetent — they may testify by writing or signs in open Court, and this counts as oral evidence. The 2023 proviso adds a modern safeguard: an interpreter or special educator must assist, and the statement must be videographed.",
+        "essential_elements": [
+          "Applies to witnesses unable to speak.",
+          "Evidence may be given by writing or signs, made in open Court.",
+          "Such evidence is deemed oral evidence, not documentary.",
+          "Proviso (new in BSA): Court must use an interpreter or special educator, and videograph the statement."
+        ],
+        "exceptions_and_qualifications": [
+          "The videography requirement is a procedural safeguard new to the BSA — absent from the old Evidence Act — aimed at reliability and protecting vulnerable witnesses."
+        ],
+        "how_to_read": "Treat this as making disability no bar to giving oral evidence, with the videography/interpreter proviso as a mandatory modern procedural add-on."
+      }
+    },
+    {
+      "number": "126",
+      "title": "Competency of husband and wife as witnesses in certain cases",
+      "raw_text": "(1) In all civil proceedings the parties to the suit, and the husband or wife of any party to the suit, shall be competent witnesses.\n\n(2) In criminal proceedings against any person, the husband or wife of such person, respectively, shall be a competent witness.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Spouses of parties are competent witnesses — in civil suits for either side, and in criminal proceedings for or against the accused's spouse. This removes any old common-law-style bar on spousal testimony based on marital status alone.",
+        "essential_elements": [
+          "Civil proceedings: parties and their spouses are competent witnesses.",
+          "Criminal proceedings: the accused's spouse is a competent witness.",
+          "Competence is distinct from compellability and from spousal-communication privilege under s.128."
+        ],
+        "exceptions_and_qualifications": [
+          "Competence under s.126 does not override the privilege for marital communications in s.128 — a spouse can testify generally, but cannot be forced to disclose confidential communications made during the marriage."
+        ],
+        "how_to_read": "Read s.126 (competence to testify at all) and s.128 (privilege against disclosing marital communications) together — they operate on different questions."
+      }
+    },
+    {
+      "number": "127",
+      "title": "Judges and Magistrates",
+      "raw_text": "No Judge or Magistrate shall, except upon the special order of some Court to which he is subordinate, be compelled to answer any question as to his own conduct in Court as such Judge or Magistrate, or as to anything which came to his knowledge in Court as such Judge or Magistrate; but he may be examined as to other matters which occurred in his presence whilst he was so acting.\n\nIllustrations\n(a) A, on his trial before the Court of Session, says that a deposition was improperly taken by B, the Magistrate. B cannot be compelled to answer questions as to this, except upon the special order of a superior Court.\n(b) A is accused before the Court of Session of having given false evidence before B, a Magistrate. B cannot be asked what A said, except upon the special order of the superior Court.\n(c) A is accused before the Court of Session of attempting to murder a police officer whilst on his trial before B, a Sessions Judge. B may be examined as to what occurred.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A judicial officer cannot be compelled to testify about their own judicial conduct or what came to their knowledge while acting judicially, unless a superior court specially orders it. But they can be examined about other things that happened in their presence while on the bench (e.g. an assault in the courtroom).",
+        "essential_elements": [
+          "Protection applies to Judges and Magistrates regarding their own conduct as such.",
+          "Compulsion requires special order of a superior/subordinating court.",
+          "Carve-out: they may be examined on other matters occurring in their presence while so acting (illustration (c))."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a functional immunity protecting judicial independence, not a blanket exemption from being a witness."
+        ],
+        "how_to_read": "Distinguish 'conduct as Judge/Magistrate' (protected) from 'other events witnessed while on the bench' (not protected) — illustration (c) is the key dividing example."
+      }
+    },
+    {
+      "number": "128",
+      "title": "Communications during marriage",
+      "raw_text": "No person who is or has been married, shall be compelled to disclose any communication made to him during marriage by any person to whom he is or has been married; nor shall he be permitted to disclose any such communication, unless the person who made it, or his representative in interest, consents, except in suits between married persons, or proceedings in which one married person is prosecuted for any crime committed against the other.",
+      "key_terms": [
+        "marital communication privilege"
+      ],
+      "breakdown": {
+        "plain_summary": "Marital communications are privileged both ways: the spouse cannot be compelled to disclose them, and cannot even voluntarily disclose them, without the consent of the spouse who made the communication (or their legal representative) — except in spouse-vs-spouse litigation.",
+        "essential_elements": [
+          "Privilege covers communications made during the marriage (survives after divorce/death for past communications).",
+          "Dual bar: cannot be compelled to disclose, and is not permitted to voluntarily disclose.",
+          "Waiver requires consent of the communicating spouse or their representative-in-interest.",
+          "Exception: suits between married persons, or prosecutions where one spouse is the victim of the other's crime."
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike ordinary privileges which the holder alone can waive, here the person who made the communication (not necessarily the witness-spouse) controls the waiver."
+        ],
+        "how_to_read": "Treat this as the spousal-privacy counterpart to advocate-client privilege (ss.132-134) — same structure of compelled/voluntary bar with a consent-based waiver and litigation-between-the-parties carve-out."
+      }
+    },
+    {
+      "number": "129",
+      "title": "Evidence as to affairs of State",
+      "raw_text": "No one shall be permitted to give any evidence derived from unpublished official records relating to any affairs of State, except with the permission of the officer at the head of the department concerned, who shall give or withhold such permission as he thinks fit.",
+      "key_terms": [
+        "affairs of State"
+      ],
+      "breakdown": {
+        "plain_summary": "Unpublished government records touching on affairs of State cannot be given in evidence without the head of the concerned department's permission — a form of executive/state privilege, with the department head having unreviewable discretion on the face of the text.",
+        "essential_elements": [
+          "Applies only to unpublished official records relating to affairs of State.",
+          "Permission to adduce such evidence rests with the head of the department concerned.",
+          "Discretion is framed as the officer's own judgment ('as he thinks fit')."
+        ],
+        "exceptions_and_qualifications": [
+          "Courts have historically read in some judicial oversight of a blanket claim of privilege under the predecessor provision, especially where the claim is a pretext to hide wrongdoing rather than protect genuine State interest — practitioners should be aware this is litigated, not absolute in practice."
+        ],
+        "how_to_read": "Use this section when a party seeks disclosure of internal government files; expect the opposing department to invoke this section and be ready to test whether the document genuinely concerns 'affairs of State'."
+      }
+    },
+    {
+      "number": "130",
+      "title": "Official communications",
+      "raw_text": "No public officer shall be compelled to disclose communications made to him in official confidence, when he considers that the public interests would suffer by the disclosure.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A public officer can refuse to disclose communications received in official confidence if they believe disclosure would harm the public interest — a narrower, officer-level cousin of the department-head privilege in s.129.",
+        "essential_elements": [
+          "Applies to communications made to the officer in official confidence.",
+          "Trigger is the officer's own assessment that public interest would suffer."
+        ],
+        "exceptions_and_qualifications": [
+          "This is the officer's personal judgment call, distinguishable from s.129's departmental-head gatekeeping over affairs-of-State records generally."
+        ],
+        "how_to_read": "Compare with s.129: s.130 is about confidential communications to an officer; s.129 is about unpublished State records more broadly, gated by the department head."
+      }
+    },
+    {
+      "number": "131",
+      "title": "Information as to commission of offences",
+      "raw_text": "No Magistrate or police officer shall be compelled to say when he got any information as to the commission of any offence, and no revenue officer shall be compelled to say when he got any information as to the commission of any offence against the public revenue.\n\nExplanation.—\"revenue officer\" means any officer employed in or about the business of any branch of the public revenue.",
+      "key_terms": [
+        "revenue officer"
+      ],
+      "breakdown": {
+        "plain_summary": "Protects the source/timing of tip-offs to law enforcement: Magistrates, police, and revenue officers cannot be compelled to reveal when (and by extension, often from whom) they received information about an offence — protecting informants.",
+        "essential_elements": [
+          "Covers Magistrates and police officers (any offence) and revenue officers (revenue offences).",
+          "Protection is specifically about the timing of receipt of information, which in practice shields the informant."
+        ],
+        "exceptions_and_qualifications": [
+          "This underpins informer protection in criminal investigations — relevant in bail and disclosure disputes where the defence seeks informant identity."
+        ],
+        "how_to_read": "Use this section to resist defence attempts to unmask police informants via questions about when/how a tip was received."
+      }
+    },
+    {
+      "number": "132",
+      "title": "Professional communications",
+      "raw_text": "(1) No advocate, shall at any time be permitted, unless with his client's express consent, to disclose any communication made to him in the course and for the purpose of his service as such advocate, by or on behalf of his client, or to state the contents or condition of any document with which he has become acquainted in the course and for the purpose of his professional service, or to disclose any advice given by him to his client in the course and for the purpose of such service:\n\nProvided that nothing in this section shall protect from disclosure of—\n(a) any such communication made in furtherance of any illegal purpose;\n(b) any fact observed by any advocate, in the course of his service as such, showing that any crime or fraud has been committed since the commencement of his service.\n\n(2) It is immaterial whether the attention of such advocate referred to in the proviso to sub-section (1), was or was not directed to such fact by or on behalf of his client.\n\nExplanation.—The obligation stated in this section continues after the professional service has ceased.\n\nIllustrations\n(a) A, a client, says to B, an advocate—\"I have committed forgery, and I wish you to defend me\". As the defence of a man known to be guilty is not a criminal purpose, this communication is protected from disclosure.\n(b) A, a client, says to B, an advocate—\"I wish to obtain possession of property by the use of a forged deed on which I request you to sue\". This communication, being made in furtherance of a criminal purpose, is not protected from disclosure.\n(c) A, being charged with embezzlement, retains B, an advocate, to defend him. In the course of the proceedings, B observes that an entry has been made in A's account book, charging A with the sum said to have been embezzled, which entry was not in the book at the commencement of his professional service. This being a fact observed by B in the course of his service, showing that a fraud has been committed since the commencement of the proceedings, it is not protected from disclosure.\n\n(3) The provisions of this section shall apply to interpreters, and the clerks or employees of advocates.",
+      "key_terms": [
+        "professional communication privilege"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the core advocate-client privilege: an advocate cannot disclose client communications, document contents learned professionally, or advice given, without the client's express consent. Two carve-outs pierce it — communications furthering an illegal purpose, and facts showing crime or fraud committed since the advocate's engagement began. The privilege survives the end of the engagement and extends to interpreters, clerks, and employees of advocates.",
+        "essential_elements": [
+          "Bars disclosure of client communications, document contents, and advice given in course of professional service.",
+          "Waiver requires client's express consent.",
+          "Exception (a): communications made in furtherance of an illegal purpose — e.g. planning a future crime, not confessing a past one.",
+          "Exception (b): facts observed by the advocate showing crime/fraud committed since the engagement began — irrespective of whether the client drew attention to it (sub-section (2)).",
+          "Privilege survives termination of the professional relationship (Explanation).",
+          "Extends to interpreters and the advocate's clerks/employees (sub-section (3))."
+        ],
+        "exceptions_and_qualifications": [
+          "The classic illustration-(a)/(b) distinction: confessing past guilt while seeking defence is protected; instructing the lawyer to commit a future fraud (e.g. suing on a forged deed) is not.",
+          "This is the single most litigated privilege in practice — disputes usually turn on whether communications fall within exception (a) or (b)."
+        ],
+        "how_to_read": "Anchor on illustrations (a)-(c): they are the exam/courtroom test for where the privilege ends and the illegal-purpose/ongoing-fraud exceptions begin."
+      }
+    },
+    {
+      "number": "133",
+      "title": "Privilege not waived by volunteering evidence",
+      "raw_text": "If any party to a suit gives evidence therein at his own instance or otherwise, he shall not be deemed to have consented thereby to such disclosure as is mentioned in section 132; and, if any party to a suit or proceeding calls any such advocate, as a witness, he shall be deemed to have consented to such disclosure only if he questions such advocate, on matters which, but for such question, he would not be at liberty to disclose.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A client testifying in their own case does not automatically waive advocate-client privilege. Waiver by calling one's own advocate as a witness is narrow — it only extends to whatever specific matters the client actually questions the advocate about that would otherwise be privileged.",
+        "essential_elements": [
+          "Giving evidence generally does not imply consent to disclosure under s.132.",
+          "Calling one's advocate as a witness implies consent only to the specific privileged matters actually put in question."
+        ],
+        "exceptions_and_qualifications": [
+          "Practitioners should question their own advocate-witness narrowly to avoid inadvertently waiving privilege beyond what is intended."
+        ],
+        "how_to_read": "Read as a waiver-scoping rule: it prevents accidental blanket waiver of s.132 privilege merely by testifying or calling one's lawyer."
+      }
+    },
+    {
+      "number": "134",
+      "title": "Confidential communications with legal advisers",
+      "raw_text": "No one shall be compelled to disclose to the Court any confidential communication which has taken place between him and his legal adviser, unless he offers himself as a witness, in which case he may be compelled to disclose any such communications as may appear to the Court necessary to be known in order to explain any evidence which he has given, but no others.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "This is the client-side mirror of s.132's advocate-side privilege: the client cannot be compelled to disclose confidential communications with their legal adviser, unless they testify, in which case disclosure is compelled only to the extent necessary to explain evidence they have given.",
+        "essential_elements": [
+          "Default: client cannot be compelled to disclose confidential legal-adviser communications.",
+          "If client testifies, compelled disclosure is limited to what is necessary to explain the evidence actually given — not a general waiver."
+        ],
+        "exceptions_and_qualifications": [
+          "Read together with ss.132-133: s.132 binds the advocate, s.134 binds/protects the client, s.133 governs what testifying does to the s.132 privilege."
+        ],
+        "how_to_read": "Think of ss.132-134 as one privilege with two mouths (advocate and client) that can each assert it, and a carefully scoped waiver mechanism."
+      }
+    },
+    {
+      "number": "135",
+      "title": "Production of title-deeds of witness not a party",
+      "raw_text": "No witness who is not a party to a suit shall be compelled to produce his title-deeds to any property, or any document in virtue of which he holds any property as pledgee or mortgagee or any document the production of which might tend to criminate him, unless he has agreed in writing to produce them with the person seeking the production of such deeds or some person through whom he claims.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A non-party witness cannot be forced to produce their own title-deeds, pledge/mortgage documents, or self-incriminating documents, unless they have already agreed in writing to produce them (with the party seeking production or someone through whom that party claims).",
+        "essential_elements": [
+          "Protection applies only to witnesses who are not parties to the suit.",
+          "Covers title-deeds, pledgee/mortgagee documents, and self-incriminating documents.",
+          "Exception: a prior written agreement to produce, made with the requesting party or their predecessor-in-title."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Use to protect a non-party witness's property documents from compelled production absent a pre-existing written agreement to produce."
+      }
+    },
+    {
+      "number": "136",
+      "title": "Production of documents or electronic records which another person, having possession, could refuse to produce",
+      "raw_text": "No one shall be compelled to produce documents in his possession or electronic records under his control, which any other person would be entitled to refuse to produce if they were in his possession or control, unless such last-mentioned person consents to their production.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A derivative protection: if the true owner/interested party could refuse to produce a document, the person who currently merely holds it also cannot be compelled to produce it, unless the owner consents.",
+        "essential_elements": [
+          "Applies to documents in possession or electronic records under a person's control.",
+          "The test is whether a third party (the person who would otherwise be entitled to refuse) consents."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Think of this as privilege 'following' the document to whoever holds it, protecting the true interest-holder's refusal right even when someone else has physical custody."
+      }
+    },
+    {
+      "number": "137",
+      "title": "Witness not excused from answering on ground that answer will criminate",
+      "raw_text": "A witness shall not be excused from answering any question as to any matter relevant to the matter in issue in any suit or in any civil or criminal proceeding, upon the ground that the answer to such question will criminate, or may tend directly or indirectly to criminate, such witness, or that it will expose, or tend directly or indirectly to expose, such witness to a penalty or forfeiture of any kind:\n\nProvided that no such answer, which a witness shall be compelled to give, shall subject him to any arrest or prosecution, or be proved against him in any criminal proceeding, except a prosecution for giving false evidence by such answer.",
+      "key_terms": [
+        "use immunity"
+      ],
+      "breakdown": {
+        "plain_summary": "A witness cannot dodge a relevant question merely because the truthful answer would incriminate them or expose them to penalty — but in exchange, the law grants 'use immunity': that compelled answer cannot later be used to arrest, prosecute, or convict them (except for perjury on that very answer).",
+        "essential_elements": [
+          "General rule: relevance overrides the self-incrimination objection — a witness must answer.",
+          "Proviso grants use immunity: the compelled answer cannot found arrest, prosecution, or be proved against the witness in any criminal proceeding.",
+          "Sole exception to the immunity: a prosecution for giving false evidence by that very answer (perjury)."
+        ],
+        "exceptions_and_qualifications": [
+          "This trades away the witness's right to silence on relevance grounds in exchange for a shield against the answer's use — distinct from and narrower than a blanket immunity from all future prosecution on the underlying conduct."
+        ],
+        "how_to_read": "Pair the compulsion-to-answer rule with its counterweight proviso — witnesses are examined on the trade-off between compelled testimony and use immunity, not on an absolute privilege against self-incrimination in the witness-box."
+      }
+    },
+    {
+      "number": "138",
+      "title": "Accomplice",
+      "raw_text": "An accomplice shall be a competent witness against an accused person; and a conviction is not illegal if it proceeds upon the corroborated testimony of an accomplice.",
+      "key_terms": [
+        "accomplice"
+      ],
+      "breakdown": {
+        "plain_summary": "An accomplice can testify against a co-accused, and a conviction based on corroborated accomplice testimony is legally valid — the statute doesn't forbid it, though courts as a rule of prudence generally look for corroboration before relying on uncorroborated accomplice evidence.",
+        "essential_elements": [
+          "Accomplices are competent witnesses against an accused.",
+          "Conviction on corroborated accomplice testimony is not illegal."
+        ],
+        "exceptions_and_qualifications": [
+          "The section validates corroborated accomplice evidence; it does not say uncorroborated accomplice evidence is inadmissible — but courts, as a matter of prudence (read with the presumption in s.119), are cautious about convicting on wholly uncorroborated accomplice testimony alone."
+        ],
+        "how_to_read": "Read with s.119(1)(b)'s illustrative presumption that an accomplice is unworthy of credit unless corroborated — the two sections together drive the corroboration-in-practice rule."
+      }
+    },
+    {
+      "number": "139",
+      "title": "Number of witnesses",
+      "raw_text": "No particular number of witnesses shall in any case be required for the proof of any fact.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "There is no minimum-witness-count rule under Indian evidence law — a single credible witness's testimony can prove a fact; quality, not quantity, governs.",
+        "essential_elements": [
+          "No statutory minimum number of witnesses is needed to prove any fact."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Cite this to rebut arguments that a case must fail merely for having 'only one witness' — the touchstone is credibility, not headcount."
+      }
+    },
+    {
+      "number": "140",
+      "title": "Order of production and examination of witnesses",
+      "raw_text": "The order in which witnesses are produced and examined shall be regulated by the law and practice for the time being relating to civil and criminal procedure respectively, and, in the absence of any such law, by the discretion of the Court.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "The BSA doesn't itself fix witness order — that's left to the applicable procedural law (CPC for civil, BNSS for criminal), and failing any specific rule, to the trial Court's discretion.",
+        "essential_elements": [
+          "Order of witnesses is governed by procedural law (civil or criminal, as applicable).",
+          "Residual discretion vests in the Court where no procedural rule governs."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a signpost section — it defers to CPC/BNSS rather than legislating witness sequencing itself; don't expect substantive content here beyond the deferral."
+      }
+    },
+    {
+      "number": "141",
+      "title": "Judge to decide as to admissibility of evidence",
+      "raw_text": "(1) When either party proposes to give evidence of any fact, the Judge may ask the party proposing to give the evidence in what manner the alleged fact, if proved, would be relevant; and the Judge shall admit the evidence if he thinks that the fact, if proved, would be relevant, and not otherwise.\n\n(2) If the fact proposed to be proved is one of which evidence is admissible only upon proof of some other fact, such last mentioned fact must be proved before evidence is given of the fact first mentioned, unless the party undertakes to give proof of such fact, and the Court is satisfied with such undertaking.\n\n(3) If the relevancy of one alleged fact depends upon another alleged fact being first proved, the Judge may, in his discretion, either permit evidence of the first fact to be given before the second fact is proved, or require evidence to be given of the second fact before evidence is given of the first fact.\n\nIllustrations\n(a) It is proposed to prove a statement about a relevant fact by a person alleged to be dead, which statement is relevant under section 26. The fact that the person is dead must be proved by the person proposing to prove the statement, before evidence is given of the statement.\n(b) It is proposed to prove, by a copy, the contents of a document said to be lost. The fact that the original is lost must be proved by the person proposing to produce the copy, before the copy is produced.\n(c) A is accused of receiving stolen property knowing it to have been stolen. It is proposed to prove that he denied the possession of the property. The relevancy of the denial depends on the identity of the property. The Court may, in its discretion, either require the property to be identified before the denial of the possession is proved, or permit the denial of the possession to be proved before the property is identified.\n(d) It is proposed to prove a fact A which is said to have been the cause or effect of a fact in issue. There are several intermediate facts B, C and D which must be shown to exist before the fact A can be regarded as the cause or effect of the fact in issue. The Court may either permit A to be proved before B, C or D is proved, or may require proof of B, C and D before permitting proof of A.",
+      "key_terms": [
+        "conditional relevancy"
+      ],
+      "breakdown": {
+        "plain_summary": "The trial Judge gatekeeps admissibility by testing relevance before evidence goes in, and manages the sequencing problem of 'conditional facts' — where a fact is only relevant/admissible once some foundational fact is proved (e.g. proving a person is dead before admitting their dying declaration-style statement).",
+        "essential_elements": [
+          "Judge tests relevance of proposed evidence before admitting it (sub-section (1)).",
+          "Where admissibility of Fact A depends on Fact B being proved first, Fact B ordinarily must be proved first, unless the party undertakes to prove it and the Court accepts the undertaking (sub-section (2)).",
+          "Where relevancy (not admissibility) is conditional on another fact, the Judge has discretion on the order of proof (sub-section (3)).",
+          "Four illustrations model this: unavailable-declarant statements, lost-document copies, stolen-property identification, and multi-link causation chains."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-section (2) (foundational fact for admissibility) is stricter than sub-section (3) (foundational fact for relevancy only) — the former generally requires proof first unless the Court accepts an undertaking; the latter is squarely discretionary."
+        ],
+        "how_to_read": "This is the 'conditional relevance' engine of the Adhiniyam — map any foundational-fact dispute (dead declarant, lost document, disputed identity) onto sub-sections (2)/(3) using the illustrations as templates."
+      }
+    },
+    {
+      "number": "142",
+      "title": "Examination of witnesses",
+      "raw_text": "(1) The examination of a witness by the party who calls him shall be called his examination-in-chief.\n\n(2) The examination of a witness by the adverse party shall be called his cross-examination.\n\n(3) The examination of a witness, subsequent to the cross-examination, by the party who called him, shall be called his re-examination.",
+      "key_terms": [
+        "examination-in-chief",
+        "cross-examination",
+        "re-examination"
+      ],
+      "breakdown": {
+        "plain_summary": "Defines the three stages of witness examination by name: examination-in-chief (calling party), cross-examination (adverse party), re-examination (calling party again, after cross).",
+        "essential_elements": [
+          "Examination-in-chief: by the party who called the witness.",
+          "Cross-examination: by the adverse party.",
+          "Re-examination: by the calling party, after cross-examination."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Foundational vocabulary section — every subsequent section in this Chapter (order, scope, leading questions) builds on these three defined stages."
+      }
+    },
+    {
+      "number": "143",
+      "title": "Order of examinations",
+      "raw_text": "(1) Witnesses shall be first examined-in-chief, then (if the adverse party so desires) cross-examined, then (if the party calling him so desires) re-examined.\n\n(2) The examination-in-chief and cross-examination must relate to relevant facts, but the cross-examination need not be confined to the facts to which the witness testified on his examination-in-chief.\n\n(3) The re-examination shall be directed to the explanation of matters referred to in cross-examination; and, if new matter is, by permission of the Court, introduced in re-examination, the adverse party may further cross-examine upon that matter.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Fixes the sequence (chief → cross → re-examination) and the scope rules for each: chief and cross must stick to relevant facts, but cross can range beyond what was covered in chief; re-examination is normally confined to explaining cross-examination points, with new matter allowed only with Court permission (which then reopens cross-examination on that new matter).",
+        "essential_elements": [
+          "Fixed order: examination-in-chief, then cross-examination (if desired), then re-examination (if desired).",
+          "Chief and cross must relate to relevant facts.",
+          "Cross-examination is not confined to the topics raised in chief — it can range wider (within relevance).",
+          "Re-examination is normally limited to explaining matters raised in cross.",
+          "New matter in re-examination requires Court permission, and triggers a further right of cross-examination on that new matter for the adverse party."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The key asymmetry to remember: cross-examination is broader than chief (can go beyond chief's topics), while re-examination is narrower (confined to explaining cross) unless the Court specially allows new matter."
+      }
+    },
+    {
+      "number": "144",
+      "title": "Cross-examination of person called to produce a document",
+      "raw_text": "A person summoned to produce a document does not become a witness by the mere fact that he produces it, and cannot be cross-examined unless and until he is called as a witness.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Merely producing a document in response to a summons does not turn someone into a witness subject to cross-examination — they must actually be called as a witness first.",
+        "essential_elements": [
+          "Production of a document alone does not confer witness status.",
+          "Cross-examination is only permissible once the person is formally called as a witness."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Useful shield for custodians/record-keepers who produce documents under summons without wanting to be drawn into the witness box and cross-examined."
+      }
+    },
+    {
+      "number": "145",
+      "title": "Witnesses to character",
+      "raw_text": "Witnesses to character may be cross-examined and re-examined.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Character witnesses are not exempt from the ordinary examination process — they too can be cross-examined and re-examined like any other witness.",
+        "essential_elements": [
+          "Character witnesses are subject to cross-examination and re-examination."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short confirmatory section — removes any doubt that character evidence gets special protection from normal testing."
+      }
+    },
+    {
+      "number": "146",
+      "title": "Leading questions",
+      "raw_text": "(1) Any question suggesting the answer which the person putting it wishes or expects to receive, is called a leading question.\n\n(2) Leading questions must not, if objected to by the adverse party, be asked in an examination-in-chief, or in a re-examination, except with the permission of the Court.\n\n(3) The Court shall permit leading questions as to matters which are introductory or undisputed, or which have, in its opinion, been already sufficiently proved.\n\n(4) Leading questions may be asked in cross-examination.",
+      "key_terms": [
+        "leading question"
+      ],
+      "breakdown": {
+        "plain_summary": "Defines leading questions and where they're allowed: generally barred (if objected to) in examination-in-chief and re-examination, but permitted for introductory/undisputed/already-proved matters, and freely permitted in cross-examination.",
+        "essential_elements": [
+          "Leading question = one that suggests the desired answer.",
+          "Barred in chief/re-examination only if objected to by the adverse party — not an automatic bar.",
+          "Court must permit leading questions for introductory, undisputed, or already-sufficiently-proved matters.",
+          "Freely permitted in cross-examination (no restriction)."
+        ],
+        "exceptions_and_qualifications": [
+          "The bar in chief/re-examination is objection-triggered, not automatic — if the adverse party doesn't object, a leading question can stand."
+        ],
+        "how_to_read": "Classic trial-advocacy rule: no leading your own witness on contested matters (unless unopposed or the Court allows it for uncontested ground), but leading is the norm in cross-examination."
+      }
+    },
+    {
+      "number": "147",
+      "title": "Evidence as to matters in writing",
+      "raw_text": "Any witness may be asked, while under examination, whether any contract, grant or other disposition of property, as to which he is giving evidence, was not contained in a document, and if he says that it was, or if he is about to make any statement as to the contents of any document, which, in the opinion of the Court, ought to be produced, the adverse party may object to such evidence being given until such document is produced, or until facts have been proved which entitle the party who called the witness to give secondary evidence of it.\n\nExplanation.—A witness may give oral evidence of statements made by other persons about the contents of documents if such statements are in themselves relevant facts.\n\nIllustration\nThe question is, whether A assaulted B. C deposes that he heard A say to D—\"B wrote a letter accusing me of theft, and I will be revenged on him\". This statement is relevant, as showing A's motive for the assault, and evidence may be given of it, though no other evidence is given about the letter.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Enforces the documents-over-oral-testimony preference at the examination stage: if a witness's evidence effectively restates a document's contents, the adverse party can demand the document be produced (or secondary evidence conditions be met) before that oral evidence continues. But testimony about statements that are independently relevant (e.g. as showing motive) is not caught by this bar, even if those statements refer to a document's existence.",
+        "essential_elements": [
+          "Applies where a witness's evidence concerns a contract/grant/disposition that was reduced to a document.",
+          "Adverse party may object and demand production of the document (or proof enabling secondary evidence) before the oral account continues.",
+          "Explanation carve-out: oral evidence of a third party's statement about a document's contents is fine if the statement itself is independently relevant (not being used to prove the document's contents)."
+        ],
+        "exceptions_and_qualifications": [
+          "The illustration is key: the letter's contents are never proved, but the fact that A referenced the letter and threatened revenge is independently relevant to show motive — that's different from trying to prove what the letter said."
+        ],
+        "how_to_read": "Link back to the best-evidence-rule ss.94-95 (Chapter VI) — s.147 is the trial-mechanics enforcement tool for that same document-priority principle."
+      }
+    },
+    {
+      "number": "148",
+      "title": "Cross-examination as to previous statements in writing",
+      "raw_text": "A witness may be cross-examined as to previous statements made by him in writing or reduced into writing, and relevant to matters in question, without such writing being shown to him, or being proved; but, if it is intended to contradict him by the writing, his attention must, before the writing can be proved, be called to those parts of it which are to be used for the purpose of contradicting him.",
+      "key_terms": [
+        "prior inconsistent statement"
+      ],
+      "breakdown": {
+        "plain_summary": "A witness can be cross-examined about their own earlier written statements without first showing them the writing — but if counsel actually wants to use that writing to contradict them (impeach credibility), the witness's attention must first be drawn to the specific contradicting portions before the writing is formally proved.",
+        "essential_elements": [
+          "Cross-examination on prior written statements is allowed without first showing or proving the writing.",
+          "To use the writing to contradict the witness, the specific contradicting parts must first be put to the witness before the writing is proved."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the procedural foundation for classic impeachment-by-prior-statement cross-examination — fairness requires giving the witness a chance to explain before the document is formally proved against them."
+      }
+    },
+    {
+      "number": "149",
+      "title": "Questions lawful in cross-examination",
+      "raw_text": "When a witness is cross-examined, he may, in addition to the questions hereinbefore referred to, be asked any questions which tend—\n(a) to test his veracity; or\n(b) to discover who he is and what is his position in life; or\n(c) to shake his credit, by injuring his character, although the answer to such questions might tend directly or indirectly to criminate him, or might expose or tend directly or indirectly to expose him to a penalty or forfeiture:\n\nProvided that in a prosecution for an offence under section 64, section 65, section 66, section 67, section 68, section 69, section 70 or section 71 of the Bharatiya Nyaya Sanhita, 2023 or for attempt to commit any such offence, where the question of consent is an issue, it shall not be permissible to adduce evidence or to put questions in the cross-examination of the victim as to the general immoral character, or previous sexual experience, of such victim with any person for proving such consent or the quality of consent.",
+      "key_terms": [
+        "character-shaking question"
+      ],
+      "breakdown": {
+        "plain_summary": "Broadens permissible cross-examination to include credibility-testing, identity, and character-attacking questions, even where answers might self-incriminate. But the proviso carves out a crucial protection: in sexual offence prosecutions where consent is in issue, the victim cannot be cross-examined on general immoral character or past sexual history to prove consent.",
+        "essential_elements": [
+          "Permissible cross-examination purposes: testing veracity, establishing identity/position in life, and shaking credit via character.",
+          "Such questions are allowed even if the answer could tend to incriminate the witness or expose them to penalty/forfeiture.",
+          "Proviso bars questioning a sexual-offence victim's general immoral character or prior sexual history to prove consent, in prosecutions under BNS ss.64-71 (and attempts thereof)."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso is a significant victim-protection reform — it forecloses the old 'character assassination' cross-examination tactic in rape/sexual-assault trials on the consent question."
+        ],
+        "how_to_read": "Flag the proviso prominently in any sexual-offence trial prep — it is a hard bar, not a discretionary one, on a specific and historically abused line of cross-examination."
+      }
+    },
+    {
+      "number": "150",
+      "title": "When witness to be compelled to answer",
+      "raw_text": "If any such question relates to a matter relevant to the suit or proceeding, the provisions of section 137 shall apply thereto.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Where a s.149-type character/credit question also happens to be relevant to the case itself (not just to credit), the s.137 rule kicks in — the witness must answer despite self-incrimination concerns, but gets use immunity for the compelled answer.",
+        "essential_elements": [
+          "Applies only where the s.149 question is also relevant to the matter in issue.",
+          "In that overlap, s.137 (compelled answer + use immunity) governs."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A cross-referencing bridge section — it routes relevance-overlapping credit questions back into the s.137 compulsion-plus-immunity framework."
+      }
+    },
+    {
+      "number": "151",
+      "title": "Court to decide when question shall be asked and when witness compelled to answer",
+      "raw_text": "(1) If any such question relates to a matter not relevant to the suit or proceeding, except in so far as it affects the credit of the witness by injuring his character, the Court shall decide whether or not the witness shall be compelled to answer it, and may, if it thinks fit, warn the witness that he is not obliged to answer it.\n\n(2) In exercising its discretion, the Court shall have regard to the following considerations, namely:—\n(a) such questions are proper if they are of such a nature that the truth of the imputation conveyed by them would seriously affect the opinion of the Court as to the credibility of the witness on the matter to which he testifies;\n(b) such questions are improper if the imputation which they convey relates to matters so remote in time, or of such a character, that the truth of the imputation would not affect, or would affect in a slight degree, the opinion of the Court as to the credibility of the witness on the matter to which he testifies;\n(c) such questions are improper if there is a great disproportion between the importance of the imputation made against the witness's character and the importance of his evidence;\n(d) the Court may, if it sees fit, draw, from the witness's refusal to answer, the inference that the answer if given would be unfavourable.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "For purely credit-damaging questions with no independent relevance, the Court has discretion whether to compel an answer, guided by four factors: seriousness of impact on credibility, remoteness/triviality of the imputation, proportionality between the character attack and the importance of the evidence, and the option to draw an adverse inference from refusal.",
+        "essential_elements": [
+          "Applies to questions relevant only to credit, not to the substance of the case.",
+          "Court has discretion to compel or excuse the answer, and may warn the witness they need not answer.",
+          "Four guiding considerations: seriousness of the imputation's effect on credibility; remoteness/triviality cutting against compulsion; disproportionality between the attack and the evidence's importance cutting against compulsion; and permissible adverse inference from refusal."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the discretionary balancing counterpart to s.149's broader permission — s.149 says such questions CAN be asked, s.151 tells the Court how to decide whether the witness must actually answer."
+      }
+    },
+    {
+      "number": "152",
+      "title": "Question not to be asked without reasonable grounds",
+      "raw_text": "No such question as is referred to in section 151 ought to be asked, unless the person asking it has reasonable grounds for thinking that the imputation which it conveys is well-founded.\n\nIllustrations\n(a) An advocate is instructed by another advocate that an important witness is a dacoit. This is a reasonable ground for asking the witness whether he is a dacoit.\n(b) An advocate is informed by a person in Court that an important witness is a dacoit. The informant, on being questioned by the advocate, gives satisfactory reasons for his statement. This is a reasonable ground for asking the witness whether he is a dacoit.\n(c) A witness, of whom nothing whatever is known, is asked at random whether he is a dacoit. There are here no reasonable grounds for the question.\n(d) A witness, of whom nothing whatever is known, being questioned as to his mode of life and means of living, gives unsatisfactory answers. This may be a reasonable ground for asking him if he is a dacoit.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Imposes a good-faith requirement on s.151-type credit-attacking questions: counsel must have reasonable grounds to believe the imputation is true before asking, illustrated by contrasts between properly-instructed questions and random fishing expeditions.",
+        "essential_elements": [
+          "Reasonable grounds for believing the imputation well-founded are a precondition to asking a s.151 question.",
+          "Illustrations distinguish instructed/corroborated grounds (proper) from asking 'at random' with no information (improper), and note that unsatisfactory answers during questioning can themselves generate reasonable grounds."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Pair with s.153: this section sets the good-faith precondition, s.153 supplies the sanction (report to the High Court/disciplinary authority) for advocates who breach it."
+      }
+    },
+    {
+      "number": "153",
+      "title": "Procedure of Court in case of question being asked without reasonable grounds",
+      "raw_text": "If the Court is of opinion that any such question was asked without reasonable grounds, it may, if it was asked by any advocate, report the circumstances of the case to the High Court or other authority to which such advocate is subject in the exercise of his profession.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Provides the enforcement mechanism for s.152: an advocate who asks a baseless character-attacking question can be reported by the Court to the High Court or the relevant disciplinary authority.",
+        "essential_elements": [
+          "Applies where the Court finds a s.151/152 question was asked without reasonable grounds.",
+          "Sanction: the Court may report the advocate to the High Court or other disciplinary authority."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The disciplinary backstop that gives s.152's good-faith requirement real teeth against abusive cross-examination tactics."
+      }
+    },
+    {
+      "number": "154",
+      "title": "Indecent and scandalous questions",
+      "raw_text": "The Court may forbid any questions or inquiries which it regards as indecent or scandalous, although such questions or inquiries may have some bearing on the questions before the Court, unless they relate to facts in issue, or to matters necessary to be known in order to determine whether or not the facts in issue existed.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Gives the Court a general power to block indecent or scandalous questions even if somewhat relevant, unless they concern facts actually in issue or facts necessary to determine those issues.",
+        "essential_elements": [
+          "Court may forbid indecent/scandalous questions notwithstanding some relevance.",
+          "Exception: questions relating to facts in issue, or facts necessary to determine whether those facts in issue existed, cannot be forbidden on this ground."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A general decorum/dignity-protecting power for the Court, cabined so it cannot be used to suppress genuinely necessary evidence on the actual issues in the case."
       }
     }
   ]
