@@ -197,7 +197,16 @@
     "private alienation void": "The rule under Section 64 that any private transfer, delivery, or contrary payment concerning attached property made after attachment is void as against claims enforceable under that attachment.",
     "pre-attachment registered contract exception": "The exception under Section 64(2) preserving a private transfer of attached property from being voided, where the transfer was made pursuant to a contract both entered into and registered before the attachment took place.",
     "retroactive vesting of title": "The principle under Section 65 that a purchaser's ownership of immovable property bought at an execution sale is deemed to date back to the time of the sale itself, once the sale becomes absolute, rather than to the later confirmation date.",
-    "sale becoming absolute": "The point at which an execution sale of property is confirmed under the applicable procedural rules (typically after the period for filing objections has passed without success), after which the purchaser's title is treated as vesting from the original sale date."
+    "sale becoming absolute": "The point at which an execution sale of property is confirmed under the applicable procedural rules (typically after the period for filing objections has passed without success), after which the purchaser's title is treated as vesting from the original sale date.",
+    "uncertain land interest sale rules": "Special rules a State Government may frame by Gazette notification under Section 67 to govern the sale, in execution of money decrees, of land interests too uncertain or undetermined in value for ordinary sale procedure.",
+    "rateable distribution of assets": "The proportionate division, under Section 73, of assets recovered from a judgment-debtor among all decree-holders who had applied for execution of their money decrees against that debtor before the assets were received by the court.",
+    "mortgagee surplus exclusion": "The rule under Section 73's proviso (a) that a mortgagee or incumbrancer whose secured property is sold in execution is not entitled to share in any surplus proceeds beyond satisfying their own secured interest.",
+    "incumbrance sale proceeds order": "The statutory order of priority under Section 73's proviso (c) for applying proceeds from the sale of immovable property sold to discharge an incumbrance: sale expenses first, then the decree amount, then subsequent incumbrances, and finally rateable distribution among other applicant decree-holders.",
+    "resistance to possession": "Obstruction by a judgment-debtor, or someone acting on their behalf, that prevents a decree-holder or execution-sale purchaser from actually obtaining possession of immovable property they are legally entitled to.",
+    "detention for obstruction of possession": "The coercive remedy under Section 74 allowing a court to detain a judgment-debtor or other obstructing person in civil prison for up to thirty days where they have, without just cause, resisted a decree-holder or purchaser from obtaining possession of immovable property.",
+    "commission (court)": "A formal delegation by a court to a court-appointed commissioner to carry out a specified task — such as examining a witness, investigating a site, auditing accounts, or effecting a partition — under Section 75 and Order XXVI.",
+    "local investigation commission": "A commission issued under Section 75(b) directing a commissioner to visit and investigate a place or site relevant to the suit, and report findings back to the court.",
+    "ministerial act commission": "A commission issued under Section 75(g) delegating a routine, non-adjudicatory administrative task to a court-appointed commissioner."
   },
   "sections": [
     {
@@ -1728,6 +1737,200 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Important for tracing title disputes and for computing limitation/possession periods in cases involving auction-purchased immovable property — the relevant date is the sale date, not the confirmation date."
+      }
+    },
+    {
+      "number": "66",
+      "title": "[Suit purchase being on behalf of plaintiff.] Repealed.",
+      "raw_text": "Repealed by the Code of Civil Procedure (Amendment) Act, 1988 (45 of 1988), section 7, with effect from 19 May 1988. This section formerly dealt with the position where property was purchased at an execution sale in the name of one person but on behalf of another (a decree-holder), including restrictions on suits challenging the real ownership of such purchases.",
+      "key_terms": [
+        "repealed section"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 66 is no longer in force. It used to regulate suits challenging benami-style execution-sale purchases made nominally in one person's name but actually on behalf of the decree-holder or another.",
+        "essential_elements": [
+          "Formally repealed with effect from 19 May 1988."
+        ],
+        "exceptions_and_qualifications": [
+          "Retained here only as a numbering placeholder; it has no current legal effect."
+        ],
+        "how_to_read": "A stub entry preserving section-number contiguity — do not cite this as live law."
+      }
+    },
+    {
+      "number": "67",
+      "title": "Power for State Government to make rules as to sales of land in execution of decrees for payment of money.",
+      "raw_text": "(1) The State Government may, by notification in the Official Gazette, make rules for any local area imposing conditions in respect of the sale of any class of interests in land in execution of decrees for the payment of money, where such interests are so uncertain or undetermined as, in the opinion of the State Government, to make it impossible to fix their value.\n(2) When on the date on which this Code came into operation in any local area, any special rules as to sale of land in execution of decrees were in force therein, the State Government may, by notification in the Official Gazette, declare such rules to be in force, or may by a like notification, modify the same. Every notification issued in the exercise of the powers conferred by this sub-section shall set out the rules so continued or modified.\n(3) Every rule made under this section shall be laid, as soon as may be after it is made, before the State Legislature.",
+      "key_terms": [
+        "uncertain land interest sale rules"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the value of a land interest is too uncertain or undetermined to fix normally (making an ordinary sale-in-execution impractical), the State Government can make special rules by Gazette notification governing how such interests are sold to satisfy money decrees, and can continue or modify any pre-existing local special rules on the same subject.",
+        "essential_elements": [
+          "Power applies specifically to interests in land whose uncertainty/indeterminacy makes valuation impossible, in the State Government's opinion.",
+          "Rules are made by notification in the Official Gazette and apply to a specified local area.",
+          "Pre-existing special local sale rules in force when the Code commenced may be continued or modified by similar notification.",
+          "Every rule made under this section must be laid before the State Legislature."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A narrow rule-making power for an edge case (unvaluable land interests) — mostly relevant in areas with unusual tenurial arrangements; check for a State-specific notification before assuming ordinary Order XXI sale procedure applies."
+      }
+    },
+    {
+      "number": "68",
+      "title": "[Power to prescribe rules for transferring to collector execution of certain decrees.] Repealed.",
+      "raw_text": "Repealed by the Code of Civil Procedure (Amendment) Act, 1956 (66 of 1956), section 7, with effect from 1 January 1957. This section, together with Sections 69 to 72, formerly formed a scheme permitting execution of certain decrees against immovable property to be transferred to the Collector for execution under special rules, rather than through the ordinary civil court process.",
+      "key_terms": [
+        "repealed section"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 68 is no longer in force. It used to let the State Government make rules transferring execution of certain decrees against immovable property to the Collector instead of the civil court.",
+        "essential_elements": [
+          "Formally repealed with effect from 1 January 1957."
+        ],
+        "exceptions_and_qualifications": [
+          "Retained here only as a numbering placeholder; it has no current legal effect."
+        ],
+        "how_to_read": "Part of a now wholly repealed Collector-execution scheme (Sections 68-72) — see the repeal notes on Sections 69-72 for the rest of the scheme."
+      }
+    },
+    {
+      "number": "69",
+      "title": "[Provisions of Third Schedule to apply.] Repealed.",
+      "raw_text": "Repealed by the Code of Civil Procedure (Amendment) Act, 1956 (66 of 1956), section 7, with effect from 1 January 1957. This section formerly applied the Code's Third Schedule (governing procedure for Collector-executed decrees) to executions transferred to the Collector under the since-repealed Section 68 scheme.",
+      "key_terms": [
+        "repealed section"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 69 is no longer in force. It used to apply special Third Schedule procedure to decrees whose execution had been transferred to the Collector.",
+        "essential_elements": [
+          "Formally repealed with effect from 1 January 1957."
+        ],
+        "exceptions_and_qualifications": [
+          "Retained here only as a numbering placeholder; it has no current legal effect."
+        ],
+        "how_to_read": "Part of the repealed Collector-execution scheme — see Sections 68, 70, 71, 72."
+      }
+    },
+    {
+      "number": "70",
+      "title": "[Rules of Procedure.] Repealed.",
+      "raw_text": "Repealed by the Code of Civil Procedure (Amendment) Act, 1956 (66 of 1956), section 7, with effect from 1 January 1957. This section formerly empowered rule-making for the procedure to be followed by Collectors executing decrees transferred to them under the since-repealed Section 68 scheme.",
+      "key_terms": [
+        "repealed section"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 70 is no longer in force. It used to allow procedural rules to be made for Collectors executing transferred decrees.",
+        "essential_elements": [
+          "Formally repealed with effect from 1 January 1957."
+        ],
+        "exceptions_and_qualifications": [
+          "Retained here only as a numbering placeholder; it has no current legal effect."
+        ],
+        "how_to_read": "Part of the repealed Collector-execution scheme — see Sections 68, 69, 71, 72."
+      }
+    },
+    {
+      "number": "71",
+      "title": "[Jurisdiction of Civil Courts barred.] Repealed.",
+      "raw_text": "Repealed by the Code of Civil Procedure (Amendment) Act, 1956 (66 of 1956), section 7, with effect from 1 January 1957. This section formerly barred civil courts from entertaining matters that fell within the Collector's execution jurisdiction under the since-repealed Section 68 scheme.",
+      "key_terms": [
+        "repealed section"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 71 is no longer in force. It used to oust civil court jurisdiction over matters assigned to the Collector under the repealed execution-transfer scheme.",
+        "essential_elements": [
+          "Formally repealed with effect from 1 January 1957."
+        ],
+        "exceptions_and_qualifications": [
+          "Retained here only as a numbering placeholder; it has no current legal effect."
+        ],
+        "how_to_read": "Part of the repealed Collector-execution scheme — see Sections 68, 69, 70, 72."
+      }
+    },
+    {
+      "number": "72",
+      "title": "[Collector to be deemed to be acting judicially.] Repealed.",
+      "raw_text": "Repealed by the Code of Civil Procedure (Amendment) Act, 1956 (66 of 1956), section 7, with effect from 1 January 1957. This section formerly deemed a Collector executing a transferred decree under the since-repealed Section 68 scheme to be acting judicially, for purposes such as immunity and procedural protection.",
+      "key_terms": [
+        "repealed section"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 72 is no longer in force. It used to treat a Collector executing a transferred decree as acting in a judicial capacity.",
+        "essential_elements": [
+          "Formally repealed with effect from 1 January 1957."
+        ],
+        "exceptions_and_qualifications": [
+          "Retained here only as a numbering placeholder; it has no current legal effect."
+        ],
+        "how_to_read": "The last of the repealed Collector-execution scheme sections (68-72) — none of Sections 68-72 (except the still-live Section 67, which precedes this repealed block) reflect current law."
+      }
+    },
+    {
+      "number": "73",
+      "title": "Proceeds of execution-sale to be rateably distributed among decree-holders.",
+      "raw_text": "(1) Where assets are held by a Court and more persons than one have, before the receipt of such assets, made application to the Court for the execution of decrees for the payment of money passed against the same judgment-debtor and have not obtained satisfaction thereof, the assets, after deducting the costs of realization, shall be rateably distributed among all such persons:\nProvided as follows:—\n(a) where any property is sold subject to a mortgage or charge, the mortgagee or incumbrancer shall not be entitled to share in any surplus arising from such sale;\n(b) where any property liable to be sold in execution of a decree is subject to a mortgage or charge, the Court may, with the consent of the mortgagee or incumbrancer, order that the property be sold free from the mortgage or charge, giving to the mortgagee or incumbrancer the same interest in the proceeds of the sale as he had in the property sold;\n(c) where any immovable property is sold in execution of a decree ordering its sale for the discharge of an incumbrance thereon, the proceeds of sale shall be applied — First, in defraying the expenses of the sale; Secondly, in discharging the amount due under the decree; Thirdly, in discharging the interest and principal monies due on subsequent incumbrances (if any); and Fourthly, rateably among the holders of decrees for the payment of money against the judgment-debtor, who have, prior to the sale of the property, applied to the Court which passed the decree ordering such sale for execution of such decrees, and have not obtained satisfaction thereof.\n(2) Where all or any of the assets liable to be rateably distributed under this section are paid to a person not entitled to receive the same, any person so entitled may sue such person to compel him to refund the assets.\n(3) Nothing in this section affects any right of the Government.",
+      "key_terms": [
+        "rateable distribution of assets",
+        "mortgagee surplus exclusion",
+        "incumbrance sale proceeds order"
+      ],
+      "breakdown": {
+        "plain_summary": "When a court is holding money recovered from a judgment-debtor and several different decree-holders (with separate money decrees against that same debtor) have all applied for execution before the money came in, the court doesn't pay whoever applied first in full — it divides the assets proportionately (rateably) among all of them, after deducting realization costs. Special rules apply where the property was mortgaged or charged.",
+        "essential_elements": [
+          "Applies where a court holds assets and multiple decree-holders, each with unsatisfied money decrees against the same judgment-debtor, applied for execution before those assets were received.",
+          "After deducting realization costs, the assets are distributed rateably (proportionately) among all such applicants.",
+          "A mortgagee/incumbrancer whose secured property was sold does not share in any surplus from that sale (proviso (a)).",
+          "With the mortgagee's consent, property may be sold free of the mortgage, with the mortgagee's interest shifting to the sale proceeds instead (proviso (b)).",
+          "Where property is sold specifically to discharge an incumbrance, proceeds go first to sale expenses, then the decree amount, then subsequent incumbrances, and only then rateably among other money-decree holders who applied before the sale (proviso (c)).",
+          "A person who wrongly receives assets that should have been rateably distributed can be sued by the rightful claimant to compel a refund.",
+          "The section does not affect any right of the Government (which retains its own priority elsewhere in law)."
+        ],
+        "exceptions_and_qualifications": [
+          "Rateable distribution requires the competing applications to have been made before the assets were actually received by the court — later applicants do not automatically share."
+        ],
+        "how_to_read": "The key equitable-sharing rule among competing money-decree holders — read with Section 63 (multi-court attachment priority) and Section 64 (void private alienation) as the trio governing multi-claimant execution scenarios."
+      }
+    },
+    {
+      "number": "74",
+      "title": "Resistance to execution.",
+      "raw_text": "Where the Court is satisfied that the holder of a decree for the possession of immovable property or that the purchaser of immovable property sold in execution of a decree has been resisted or obstructed in obtaining possession of the property by the judgment-debtor or some person on his behalf and that such resistance or obstruction was without any just cause, the Court may, at the instance of the decree-holder or purchaser, order the judgment-debtor or such other person to be detained in the civil prison for a term which may extend to thirty days and may further direct that the decree-holder or purchaser be put into possession of the property.",
+      "key_terms": [
+        "resistance to possession",
+        "detention for obstruction of possession"
+      ],
+      "breakdown": {
+        "plain_summary": "If a judgment-debtor (or someone acting for them) blocks the decree-holder or auction-purchaser from actually taking possession of immovable property they're legally entitled to, and the court finds this obstruction had no genuine justification, the court can jail the obstructor for up to thirty days and order that the decree-holder or purchaser be physically given possession.",
+        "essential_elements": [
+          "Applies to resistance or obstruction in obtaining possession of immovable property, whether by a decree-holder or an execution-sale purchaser.",
+          "The resistance/obstruction must be by the judgment-debtor or someone acting on their behalf.",
+          "The court must be satisfied the resistance was without any just cause.",
+          "Remedy: detention in civil prison for up to thirty days, plus a direction to put the decree-holder/purchaser into possession."
+        ],
+        "exceptions_and_qualifications": [
+          "If the resistance has a genuine/just cause (e.g. a bona fide third-party claim), this coercive remedy is not available — the matter typically proceeds through the investigation machinery in Order XXI instead."
+        ],
+        "how_to_read": "A frontline remedy for obstructive judgment-debtors in possession decrees — read alongside Order XXI Rules 97-103, which supply the fuller procedural machinery for resistance and dispossession disputes."
+      }
+    },
+    {
+      "number": "75",
+      "title": "Power of Court to issue commissions.",
+      "raw_text": "Subject to such conditions and limitations as may be prescribed, the Court may issue a commission—\n(a) to examine any person;\n(b) to make a local investigation;\n(c) to examine or adjust accounts;\n(d) to make a partition;\n(e) to hold a scientific, technical, or expert investigation;\n(f) to conduct sale of property which is subject to speedy and natural decay and which is in the custody of the Court pending the determination of the suit;\n(g) to perform any ministerial act.",
+      "key_terms": [
+        "commission (court)",
+        "local investigation commission",
+        "ministerial act commission"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 75 opens Part III's 'Incidental Proceedings' by giving courts a general power to delegate specific fact-finding or administrative tasks to a court-appointed commissioner — from examining witnesses and investigating sites, to auditing accounts, dividing property, running expert investigations, selling perishable goods in custody, or handling routine ministerial acts.",
+        "essential_elements": [
+          "The power to issue a commission is subject to prescribed conditions and limitations (fleshed out in Order XXVI).",
+          "Seven distinct purposes are listed: examining a person, local investigation, examining/adjusting accounts, partition, scientific/technical/expert investigation, sale of speedily-decaying property in court custody, and ministerial acts."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The gateway provision for Order XXVI's detailed commission procedure — useful whenever a fact-finding task (site inspection, accounts, expert opinion) needs a court-appointed intermediary rather than direct oral evidence."
       }
     }
   ]
