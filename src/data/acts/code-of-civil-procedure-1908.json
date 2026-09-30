@@ -206,7 +206,39 @@
     "detention for obstruction of possession": "The coercive remedy under Section 74 allowing a court to detain a judgment-debtor or other obstructing person in civil prison for up to thirty days where they have, without just cause, resisted a decree-holder or purchaser from obtaining possession of immovable property.",
     "commission (court)": "A formal delegation by a court to a court-appointed commissioner to carry out a specified task — such as examining a witness, investigating a site, auditing accounts, or effecting a partition — under Section 75 and Order XXVI.",
     "local investigation commission": "A commission issued under Section 75(b) directing a commissioner to visit and investigate a place or site relevant to the suit, and report findings back to the court.",
-    "ministerial act commission": "A commission issued under Section 75(g) delegating a routine, non-adjudicatory administrative task to a court-appointed commissioner."
+    "ministerial act commission": "A commission issued under Section 75(g) delegating a routine, non-adjudicatory administrative task to a court-appointed commissioner.",
+    "inter-State commission": "A commission issued under Section 76 by a court in one State to a (non-High Court) court in another State, directing the latter to examine a witness residing within its jurisdiction on the issuing court's behalf.",
+    "commission return": "The process by which a court that has executed a commission sends the resulting evidence back to the court that issued it, as required by Section 76(2) unless the issuing order specifies otherwise.",
+    "letter of request": "A request issued by a court under Section 77, in lieu of a formal commission, seeking the examination of a witness who resides outside India, typically routed through the foreign jurisdiction's own courts.",
+    "reciprocal commission execution": "The obligation under Section 78 for Indian courts to execute and return commissions issued by non-Code-territory Indian courts, Central-Government-established courts outside India, or foreign courts, mirroring the procedure for commissions Indian courts themselves issue.",
+    "Union of India as party": "The requirement under Section 79(a) that in any suit by or against the Central Government, the party named in the cause title must be 'the Union of India', not a particular ministry or department.",
+    "State as party": "The requirement under Section 79(b) that in any suit by or against a State Government, the party named in the cause title must be 'the State' (the relevant State itself), not a particular department.",
+    "two-month statutory notice": "The mandatory two-month advance written notice that Section 80(1) requires before instituting a suit against the Government or a public officer acting in official capacity, giving the authority a chance to consider the claim before litigation.",
+    "urgent relief carve-out": "The exception under Section 80(2) permitting a suit for urgent or immediate relief against the Government or a public officer to be instituted with the court's leave, without prior notice, though relief can only be granted after the Government/officer is given a reasonable opportunity to show cause.",
+    "curable notice defect": "The saving rule under Section 80(3) that a suit against the Government or a public officer will not be dismissed merely for an error or defect in the statutory notice, provided the plaintiff's identity and the cause of action/relief were substantially and properly conveyed.",
+    "public officer arrest immunity": "The protection under Section 81(a) shielding a public officer sued for an official act from arrest or attachment of property during the suit, except as part of executing an eventual decree.",
+    "personal appearance exemption": "The court's obligation under Section 81(b) to excuse a public-officer defendant from appearing in person where requiring attendance would harm public service, in a suit concerning an official act.",
+    "three-month execution grace period": "The mandatory waiting period under Section 82(2) during which execution cannot be issued on a decree against the Government or a public officer, running three months from the date of the decree.",
+    "decree against Union or State": "A decree passed against the Union of India or a State Government (or a public officer sued for an official act), subject to the special three-month execution grace period under Section 82.",
+    "alien friend": "A foreign national whose country is not at war with India, who under Section 83 may sue in an Indian court as freely as an Indian citizen.",
+    "alien enemy": "A national of a country at war with India who, under Section 83, may sue in an Indian court only if residing in India with the Central Government's permission; an alien enemy residing abroad, or in India without permission, cannot sue at all.",
+    "foreign State suing right": "The qualified right of a foreign State to institute a suit in an Indian court under Section 84, limited to suits aimed at enforcing a private right vested in that State's Ruler or an officer acting in a public capacity.",
+    "recognized agent (foreign Ruler)": "A person appointed by the Central Government under Section 85 to prosecute or defend litigation on behalf of a foreign Ruler, through whom all appearances, acts, and applications under the Code are made on that Ruler's behalf.",
+    "sovereign immunity from suit": "The general bar under Section 86(1) against suing a foreign State in an Indian court without the Central Government's written, certified consent, subject to a narrow tenant-suit exception and specified consent conditions.",
+    "diplomatic arrest immunity": "The absolute bar under Section 86(5) against arresting a foreign Ruler, Ambassador, Envoy, Commonwealth High Commissioner, or specified staff/retinue member under the Code, regardless of consent.",
+    "tenant-suit exception": "The proviso to Section 86(1) permitting a tenant of immovable property to sue a foreign State landlord regarding that tenancy without needing the Central Government's consent.",
+    "consent conditions for suing foreign State": "The four circumstances under Section 86(2) in which the Central Government may grant consent to sue a foreign State: the State itself sued first, it trades locally, it owns local property connected to the suit, or it has waived the immunity.",
+    "Ruler's suit style": "The convention under Section 87 that a foreign Ruler is named as party in litigation by the name of his State, unless the Central Government directs an alternative style, such as suing through a named agent, in its Section 86 consent.",
+    "recognised foreign State": "A State outside India that the Central Government has formally recognised as such, which is the sole criterion for a State to qualify as a 'foreign State' under Section 87A for Part IV's purposes.",
+    "judicial notice of recognition": "The obligation under Section 87A(2) for every court to accept, without requiring separate proof, whether the Central Government has recognized a particular foreign State or a particular person as its head.",
+    "former Indian State Ruler protection": "The extension, under Section 87B, of Section 85's representation-appointment machinery and Section 86(1)/(3)'s consent protections to Rulers of former (princely) Indian States, for suits based on pre-26-January-1950 causes of action, as notified by the Central Government.",
+    "interpleader suit": "A suit under Section 88 brought by a neutral stakeholder holding disputed money or property, against two or more rival claimants, seeking a court decision on who is rightfully entitled so the stakeholder can safely deliver it and be indemnified.",
+    "stakeholder with no personal interest": "The plaintiff in an interpleader suit, who holds a debt, sum, or property claimed by rival third parties but asserts no interest in it beyond recovering charges or costs.",
+    "ADR reference": "The court's referral of a pending suit, under Section 89, to one of four alternative dispute resolution tracks — arbitration, conciliation, judicial settlement/Lok Adalat, or mediation — after formulating possible settlement terms.",
+    "Lok Adalat settlement": "Resolution of a dispute referred by a court under Section 89(2)(b) to a Lok Adalat, governed by Section 20(1) of the Legal Services Authority Act, 1987 and the rest of that Act.",
+    "judicial settlement": "A Section 89 referral track in which the court sends a dispute to a suitable institution or person, who is then deemed a Lok Adalat and whose proceedings are governed by the Legal Services Authority Act, 1987.",
+    "court-annexed mediation": "The Section 89(2)(d) track under which the court itself works to bring about a compromise between the parties through mediation, following prescribed procedure.",
+    "special case procedure": "The consent-based procedure under Section 90 and Order XXXVI by which parties who agree in writing on the facts can place a stated case before the court solely to obtain its opinion on the legal question involved."
   },
   "sections": [
     {
@@ -1931,6 +1963,346 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "The gateway provision for Order XXVI's detailed commission procedure — useful whenever a fact-finding task (site inspection, accounts, expert opinion) needs a court-appointed intermediary rather than direct oral evidence."
+      }
+    },
+    {
+      "number": "76",
+      "title": "Commission to another Court.",
+      "raw_text": "(1) A commission for the examination of any person may be issued to any Court (not being a High Court) situate in a State other than the State in which the Court of issue is situate and having jurisdiction in the place in which the person to be examined resides.\n(2) Every Court receiving a commission for the examination of any person under sub-section (1) shall examine him or cause him to be examined pursuant thereto, and the commission, when it has been duly executed, shall be returned together with the evidence taken under it to the Court from which it was issued, unless the order for issuing the commission has otherwise directed, in which case the commission shall be returned in terms of such order.",
+      "key_terms": [
+        "inter-State commission",
+        "commission return"
+      ],
+      "breakdown": {
+        "plain_summary": "When a witness lives in a different State from the trial court, that court can send a commission to a (non-High Court) court in the witness's State asking it to examine the witness; the receiving court conducts the examination and sends the evidence back to the issuing court.",
+        "essential_elements": [
+          "The receiving court must not be a High Court and must be situated in a different State from the issuing court.",
+          "The receiving court must have jurisdiction over the place where the person to be examined resides.",
+          "The receiving court examines the person (or arranges for their examination) and returns the executed commission with the evidence to the issuing court, unless the issuing order directs otherwise."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read with Section 75(a) (the general power to issue a commission to examine a person) and Order XXVI for detailed procedure — Section 76 specifically addresses the inter-State transmission mechanics."
+      }
+    },
+    {
+      "number": "77",
+      "title": "Letter of request.",
+      "raw_text": "In lieu of issuing a commission the Court may issue a letter of request to examine a witness residing at any place not within India.",
+      "key_terms": [
+        "letter of request"
+      ],
+      "breakdown": {
+        "plain_summary": "Instead of a formal commission, a court can use a letter of request — essentially a diplomatic/judicial request — to get a witness residing outside India examined, typically through the foreign judicial system.",
+        "essential_elements": [
+          "Available as an alternative to issuing a commission.",
+          "Applies specifically to witnesses residing outside India."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The cross-border evidence-gathering tool of choice when a formal commission to a foreign court (Section 78 machinery) is impractical — commonly used in international commercial litigation."
+      }
+    },
+    {
+      "number": "78",
+      "title": "Commissions issued by foreign Courts.",
+      "raw_text": "Subject to such conditions and limitations as may be prescribed the provisions as to the execution and return of commissions for the examination of witnesses shall apply to commissions issued by or at the instance of—\n(a) Courts situate in any part of India to which the provisions of this Code do not extend; or\n(b) Courts established or continued by the authority of the Central Government outside India; or\n(c) Courts of any State or country outside India.",
+      "key_terms": [
+        "reciprocal commission execution"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 78 makes the Code's commission-execution machinery a two-way street: Indian courts must also execute and return commissions sent to them by courts in non-Code parts of India, by Indian-authority courts abroad, or by courts of other States/countries.",
+        "essential_elements": [
+          "Applies to commissions issued by, or at the instance of, three categories of foreign/external courts: non-Code-territory Indian courts, Central-Government-established courts outside India, and courts of any foreign State or country.",
+          "Such commissions are executed and returned following the same provisions applicable to commissions issued by Indian courts, subject to prescribed conditions and limitations."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The reciprocal counterpart to Sections 76-77 — completes the cross-border evidence framework by obligating Indian courts to assist foreign commissions, not just to send their own."
+      }
+    },
+    {
+      "number": "79",
+      "title": "Suits by or against Government.",
+      "raw_text": "In a suit by or against the Government, the authority to be named as plaintiff or defendant, as the case may be, shall be—\n(a) in the case of a suit by or against the Central Government, the Union of India, and\n(b) in the case of a suit by or against a State Government, the State.",
+      "key_terms": [
+        "Union of India as party",
+        "State as party"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 79 fixes exactly who to name in the cause title when suing the Government: for the Central Government it is always 'the Union of India'; for a State Government it is simply 'the State' (i.e., the relevant State by name).",
+        "essential_elements": [
+          "Suits involving the Central Government must name the Union of India as the plaintiff or defendant.",
+          "Suits involving a State Government must name the State (that specific State) as the plaintiff or defendant."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A basic but frequently checked drafting rule — getting the cause-title party wrong (naming a ministry or department instead of the Union of India) is a common, avoidable defect that invites objections."
+      }
+    },
+    {
+      "number": "80",
+      "title": "Notice.",
+      "raw_text": "(1) Save as otherwise provided in sub-section (2), no suit shall be instituted against the Government (including the Government of the State of Jammu and Kashmir) or against a public officer in respect of any act purporting to be done by such public officer in his official capacity, until the expiration of two months next after notice in writing has been delivered to, or left at the office of—\n(a) in the case of a suit against the Central Government, except where it relates to a railway, a Secretary to that Government;\n(b) in the case of a suit against the Central Government where it relates to a railway, the General Manager of that railway;\n(bb) in the case of a suit against the Government of the State of Jammu and Kashmir, the Chief Secretary to that Government or any other officer authorized by that Government in this behalf;\n(c) in the case of a suit against any other State Government, a Secretary to that Government or the Collector of the district;\nand, in the case of a public officer, delivered to him or left at his office, stating the cause of action, the name, description and place of residence of the plaintiff and the relief which he claims; and the plaint shall contain a statement that such notice has been so delivered or left.\n(2) A suit to obtain an urgent or immediate relief against the Government (including the Government of the State of Jammu and Kashmir) or any public officer in respect of any act purporting to be done by such public officer in his official capacity, may be instituted, with the leave of the Court, without serving any notice as required by sub-section (1); but the Court shall not grant relief in the suit, whether interim or otherwise, except after giving to the Government or public officer, as the case may be, a reasonable opportunity of showing cause in respect of the relief prayed for in the suit:\nProvided that the Court shall, if it is satisfied, after hearing the parties, that no urgent or immediate relief need be granted in the suit, return the plaint for presentation to it after complying with the requirements of sub-section (1).\n(3) No suit instituted against the Government or against a public officer in respect of any act purporting to be done by such public officer in his official capacity shall be dismissed merely by reason of any error or defect in the notice referred to in sub-section (1), if in such notice—\n(a) the name, description and the residence of the plaintiff had been so given as to enable the appropriate authority or the public officer to identify the person serving the notice and such notice had been delivered or left at the office of the appropriate authority specified in sub-section (1), and\n(b) the cause of action and the relief claimed by the plaintiff had been substantially indicated.",
+      "key_terms": [
+        "two-month statutory notice",
+        "urgent relief carve-out",
+        "curable notice defect"
+      ],
+      "breakdown": {
+        "plain_summary": "Before suing the Government or a public officer for something done in their official capacity, Section 80 requires giving two months' advance written notice to the correct authority, spelling out the cause of action, plaintiff's details, and relief claimed — a cooling-off period meant to let the Government consider settling before litigation. Urgent cases can skip the wait with the court's leave, and minor notice defects don't automatically sink the suit if the core information got through.",
+        "essential_elements": [
+          "The two-month notice requirement applies to suits against the Government or against a public officer for acts purporting to be done in official capacity.",
+          "Notice must be delivered/left at the office of the specified authority: a Secretary for the Central Government (or the Railway General Manager for railway matters), the J&K Chief Secretary or authorized officer, or a Secretary/Collector for other State Governments.",
+          "The notice must state the cause of action, the plaintiff's name/description/residence, and the relief claimed; the plaint must recite that notice was given.",
+          "Sub-section (2) allows bypassing notice, with the court's leave, for suits seeking urgent or immediate relief — but relief (interim or final) can only be granted after giving the Government/officer a reasonable opportunity to show cause.",
+          "If the court later finds no real urgency existed, it must return the plaint for re-presentation after proper Section 80(1) notice.",
+          "Sub-section (3) saves the suit from dismissal for a defective notice if the plaintiff's identifying details and the cause of action/relief were substantially conveyed and properly delivered."
+        ],
+        "exceptions_and_qualifications": [
+          "The urgent-relief carve-out in sub-section (2) is not a free pass — it still requires the Government/officer be heard before any relief is actually granted, and a false claim of urgency risks the plaint being returned."
+        ],
+        "how_to_read": "One of the most litigated procedural bars in government litigation — always check notice compliance first; sub-section (3)'s substantial-compliance saving clause is the key defence against a hyper-technical dismissal."
+      }
+    },
+    {
+      "number": "81",
+      "title": "Exemption from arrest and personal appearance.",
+      "raw_text": "In a suit instituted against a public officer in respect of any act purporting to be done by him in his official capacity—\n(a) the defendant shall not be liable to arrest nor his property to attachment otherwise than in execution of a decree, and,\n(b) where the Court is satisfied that the defendant cannot absent himself from his duty without detriment to the public service, it shall exempt him from appearing in person.",
+      "key_terms": [
+        "public officer arrest immunity",
+        "personal appearance exemption"
+      ],
+      "breakdown": {
+        "plain_summary": "A public officer sued for an official act gets two protections during the suit itself: they can't be arrested or have property attached (except as part of actually executing a decree at the end), and if leaving their post would harm public service, the court must excuse them from appearing in person.",
+        "essential_elements": [
+          "Applies to suits against a public officer for acts purporting to be done in official capacity.",
+          "No arrest of the defendant, and no attachment of property, except through execution of an eventual decree.",
+          "Personal appearance is excused where the court is satisfied the officer's absence from duty would harm public service."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A protective shield for officers during the pendency of the suit — note it does not block ultimate execution of a decree once passed, only pre-decree coercive measures and the appearance requirement."
+      }
+    },
+    {
+      "number": "82",
+      "title": "Execution of decree.",
+      "raw_text": "(1) Where, in a suit by or against the Government or by or against a public officer in respect of any act purporting to be done by him in his official capacity, a decree is passed against the Union of India or a State or, as the case may be, the public officer, such decree shall not be executed except in accordance with the provisions of sub-section (2).\n(2) Execution shall not be issued on any such decree unless it remains unsatisfied for the period of three months computed from the date of such decree.\n(3) The provisions of sub-sections (1) and (2) shall apply in relation to an order or award as they apply in relation to a decree, if the order or award—\n(a) is passed or made against the Union of India or a State or a public officer in respect of any such act as aforesaid, whether by a Court or by any other authority; and\n(b) is capable of being executed under the provisions of this Code or of any other law for the time being in force as if it were a decree.",
+      "key_terms": [
+        "three-month execution grace period",
+        "decree against Union or State"
+      ],
+      "breakdown": {
+        "plain_summary": "A decree against the Government or a public officer (for an official act) cannot be executed immediately — the Government gets a built-in three-month grace period from the date of the decree to satisfy it voluntarily before coercive execution can begin. The same grace period extends to orders and awards against the Government/officer that are otherwise executable like a decree.",
+        "essential_elements": [
+          "Applies to decrees passed against the Union of India, a State, or a public officer (for an official act) in a suit by or against them.",
+          "Execution cannot be issued until the decree has remained unsatisfied for three months from its date.",
+          "The same rule extends to orders or awards against the Union/State/public officer that are executable as if they were decrees, whether passed by a court or another authority."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A significant timing shield for government litigants — always check whether the three-month window has actually expired before pursuing execution against the Government."
+      }
+    },
+    {
+      "number": "83",
+      "title": "When aliens may sue.",
+      "raw_text": "Alien enemies residing in India with the permission of the Central Government, and alien friends, may sue in any Court otherwise competent to try the suit, as if they were citizens of India, but alien enemies residing in India without such permission, or residing in a foreign country, shall not sue in any such Court.\nExplanation.—Every person residing in a foreign country, the Government of which is at war with India and carrying on business in that country without a licence in that behalf granted by the Central Government, shall, for the purpose of this section, be deemed to be an alien enemy residing in a foreign country.",
+      "key_terms": [
+        "alien friend",
+        "alien enemy"
+      ],
+      "breakdown": {
+        "plain_summary": "Foreign nationals generally ('alien friends') can sue in Indian courts just like Indian citizens. Nationals of a country at war with India ('alien enemies') can only sue if they reside in India with Central Government permission — an alien enemy abroad, or in India without permission, is barred from suing entirely.",
+        "essential_elements": [
+          "Alien friends may sue as if they were Indian citizens.",
+          "Alien enemies residing in India may sue only with the Central Government's permission.",
+          "Alien enemies residing in a foreign country, or in India without permission, are barred from suing.",
+          "A person trading in an enemy country without a Central Government licence is deemed an alien enemy residing abroad for this purpose."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A wartime-oriented access-to-courts rule — rarely invoked outside actual conflict scenarios, but the alien-friend/alien-enemy distinction is the key classification to check."
+      }
+    },
+    {
+      "number": "84",
+      "title": "When foreign States may sue.",
+      "raw_text": "A foreign State may sue in any competent Court: Provided that the object of the suit is to enforce a private right vested in the Ruler of such State or in any officer of such State in his public capacity.",
+      "key_terms": [
+        "foreign State suing right"
+      ],
+      "breakdown": {
+        "plain_summary": "A foreign State can bring a suit in an Indian court, but only if the suit is aimed at enforcing a genuinely private right belonging to that State's Ruler or one of its officers acting in their public capacity — not just any claim a foreign State might wish to pursue.",
+        "essential_elements": [
+          "The plaintiff must be a foreign State suing in a court otherwise competent to try the suit.",
+          "The suit's object must be to enforce a private right vested in the Ruler of that State, or in an officer of that State acting in a public capacity."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Narrower than it first appears — the proviso restricts foreign-State suits to private-right enforcement, so verify the underlying right's character before assuming a foreign State can sue on any claim."
+      }
+    },
+    {
+      "number": "85",
+      "title": "Persons specially appointed by Government to prosecute or defend on behalf of foreign Rulers.",
+      "raw_text": "(1) The Central Government may, at the request of the Ruler of a foreign State or at the request of any person competent in the opinion of the Central Government to act on behalf of such Ruler, by order, appoint any persons to prosecute or defend any suit on behalf of such Ruler, and any persons so appointed shall be deemed to be the recognized agents by whom appearances, acts and applications under this Code may be made or done on behalf of such Ruler.\n(2) An appointment under this section may be made for the purpose of a specified suit or of several specified suits, or for the purpose of all such suits as it may from time to time be necessary to prosecute or defend on behalf of such Ruler.\n(3) A person appointed under this section may authorise or appoint any other persons to make appearances and applications and do acts in any such suit or suits as if he were himself a party thereto.",
+      "key_terms": [
+        "recognized agent (foreign Ruler)"
+      ],
+      "breakdown": {
+        "plain_summary": "The Central Government can formally appoint someone to represent a foreign Ruler in Indian litigation — that appointee becomes the Ruler's official ('recognized') agent for all procedural purposes under the Code, and can even sub-delegate to other people to appear and act in the suit.",
+        "essential_elements": [
+          "Appointment is made by the Central Government, on request of the foreign Ruler or someone the Central Government considers competent to act for the Ruler.",
+          "The appointed person becomes the recognized agent through whom appearances, acts, and applications under the Code are made on the Ruler's behalf.",
+          "The appointment can cover a single suit, several specified suits, or an open-ended class of suits from time to time.",
+          "The appointed agent may further authorise or appoint others to appear and act in the suit(s) as if that sub-delegate were a party."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The procedural machinery that makes Section 84's foreign-State suing right practically workable — a foreign Ruler rarely litigates personally; this is how representation is formally established."
+      }
+    },
+    {
+      "number": "86",
+      "title": "Suits against foreign Rulers, Ambassadors and Envoys.",
+      "raw_text": "(1) No foreign State may be sued in any Court otherwise competent to try the suit except with the consent of the Central Government certified in writing by a Secretary to that Government: Provided that a person may, as a tenant of immovable property, sue without such consent as aforesaid a foreign State from whom he holds or claims to hold the property.\n(2) Such consent may be given with respect to a specified suit or to several specified suits or with respect to all suits of any specified class or classes, and may specify, in the case of any suit or class of suits, the Court in which the foreign State may be sued, but it shall not be given, unless it appears to the Central Government that the foreign State—\n(a) has instituted a suit in the Court against the person desiring to sue it, or\n(b) by itself or another, trades within the local limits of the jurisdiction of the Court, or\n(c) is in possession of immovable property situate within those limits and is to be sued with reference to such property or for money charged thereon, or\n(d) has expressly or impliedly waived the privilege accorded to it by this section.\n(3) Except with the consent of the Central Government, certified in writing by a Secretary to that Government, no decree shall be executed against the property of any foreign State.\n(4) The preceding provisions of this section shall apply in relation to—\n(a) any Ruler of a foreign State;\n(aa) any Ambassador or Envoy of a foreign State;\n(b) any High Commissioner of a Commonwealth country; and\n(c) any such member of the staff of the foreign State or the staff or retinue of the Ambassador or Envoy of a foreign State or of the High Commissioner of a Commonwealth country as the Central Government may, by general or special order, specify in this behalf, as they apply in relation to a foreign State.\n(5) The following persons shall not be arrested under this Code, namely:—\n(a) any Ruler of a foreign State;\n(b) any Ambassador or Envoy of a foreign State;\n(c) any High Commissioner of a Commonwealth country;\n(d) any such member of the staff of the foreign State or the staff or retinue of the Ruler, Ambassador or Envoy of a foreign State or of the High Commissioner of a Commonwealth country, as the Central Government may, by general or special order, specify in this behalf.\n(6) Where a request is made to the Central Government for the grant of any consent referred to in sub-section (1), the Central Government shall, before refusing to accede to the request in whole or in part, give to the person making the request a reasonable opportunity of being heard.",
+      "key_terms": [
+        "sovereign immunity from suit",
+        "diplomatic arrest immunity",
+        "tenant-suit exception",
+        "consent conditions for suing foreign State"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 86 codifies sovereign and diplomatic immunity in Indian civil procedure: a foreign State (and, by extension, its Ruler, Ambassadors/Envoys, Commonwealth High Commissioners, and specified staff) generally cannot be sued in India without the Central Government's written consent, and cannot be arrested at all. Consent is granted only in narrow circumstances (the foreign State itself sued first, trades locally, owns local property being sued over, or has waived the privilege) — with a landlord's tenant-suit exception and a right to a hearing before consent is refused.",
+        "essential_elements": [
+          "No suit against a foreign State without the Central Government's written, certified consent, except a tenant may sue the foreign State landlord without consent regarding the tenancy property.",
+          "Consent can cover one suit, several suits, or a whole class, and may specify the competent court.",
+          "Consent is only to be given where the foreign State itself sued the person first, trades locally, owns local property connected to the suit, or has waived the privilege.",
+          "Executing a decree against a foreign State's property likewise requires separate Central Government consent.",
+          "The immunity from suit extends to foreign Rulers, Ambassadors/Envoys, Commonwealth High Commissioners, and Central-Government-specified staff/retinue members.",
+          "A wider group (Rulers, Ambassadors/Envoys, High Commissioners, and specified staff/retinue) enjoys absolute immunity from arrest under the Code.",
+          "Before refusing a consent request, the Central Government must give the requester a reasonable opportunity of being heard."
+        ],
+        "exceptions_and_qualifications": [
+          "The tenant-suit exception in the proviso to sub-section (1) is the one clear route to sue a foreign State without Government consent."
+        ],
+        "how_to_read": "The core sovereign-immunity provision in Indian civil procedure — always check for Central Government consent before proceeding against a foreign State, Ruler, or diplomat; arrest is barred outright regardless of consent."
+      }
+    },
+    {
+      "number": "87",
+      "title": "Style of foreign Rulers as parties to suits.",
+      "raw_text": "The Ruler of a foreign State may sue, and shall be sued, in the name of his State: Provided that in giving the consent referred to in section 86, the Central Government may direct that the Ruler may be sued in the name of an agent or in any other name.",
+      "key_terms": [
+        "Ruler's suit style"
+      ],
+      "breakdown": {
+        "plain_summary": "When a foreign Ruler is a party to litigation, the cause title normally uses the name of their State rather than their personal name — though the Central Government, when granting consent to sue under Section 86, can direct a different naming convention, such as suing through a named agent.",
+        "essential_elements": [
+          "Default rule: a foreign Ruler sues and is sued in the name of his State.",
+          "The Central Government may direct an alternative style (e.g., naming an agent) as part of its Section 86 consent."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A drafting-style rule to check when preparing a cause title involving a foreign Ruler — always verify whether the Section 86 consent order specifies a particular naming format."
+      }
+    },
+    {
+      "number": "87A",
+      "title": "Definitions of \"Foreign State\" and \"Rulers\".",
+      "raw_text": "(1) In this Part—\n(a) \"foreign State\" means any State outside India which has been recognised by the Central Government; and\n(b) \"Ruler\", in relation to a foreign State, means the person who is for the time being recognized by the Central Government to be the head of that State.\n(2) Every Court shall take judicial notice of the fact—\n(a) that a State has or has not been recognized by the Central Government;\n(b) that a person has or has not been recognized by the Central Government to be the head of a State.",
+      "key_terms": [
+        "recognised foreign State",
+        "judicial notice of recognition"
+      ],
+      "breakdown": {
+        "plain_summary": "This section fixes the meaning of 'foreign State' and 'Ruler' for the whole of Part IV's foreign-State provisions: both terms hinge entirely on Central Government recognition, and courts must simply accept (take judicial notice of) whatever the Central Government has recognized, without needing separate proof.",
+        "essential_elements": [
+          "'Foreign State' means a State outside India recognized as such by the Central Government.",
+          "'Ruler' means the person currently recognized by the Central Government as head of that foreign State.",
+          "Courts must take judicial notice of Central Government recognition decisions on both points — no independent evidence is required."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A definitional anchor for the whole foreign-State litigation scheme (Sections 83-87B) — recognition is purely an executive, Central Government act that courts accept at face value."
+      }
+    },
+    {
+      "number": "87B",
+      "title": "Application of sections 85 and 86 to Rulers of former Indian States.",
+      "raw_text": "(1) In the case of any suit by or against the Ruler of any former Indian State which is based wholly or in part upon a cause of action which arose before the commencement of the Constitution or any proceeding arising out of such suit, the provisions of section 85 and sub-sections (1) and (3) of section 86 shall apply in relation to such Ruler as they apply in relation to the Ruler of a foreign State.\n(2) In this section—\n(a) \"former Indian State\" means any such Indian State as the Central Government may, by notification in the Official Gazette, specify for the purposes of this section;\n(b) \"Commencement of the Constitution\" means the 26th day of January, 1950; and\n(c) \"Ruler\", in relation to a former Indian State, has the same meaning as in article 363 of the Constitution.",
+      "key_terms": [
+        "former Indian State Ruler protection"
+      ],
+      "breakdown": {
+        "plain_summary": "For pre-Independence-era claims (arising before 26 January 1950) against the Ruler of a former princely Indian State, Section 87B extends the same representation-appointment (Section 85) and consent/execution-against-property protections (Section 86(1) and (3)) that apply to foreign-State Rulers.",
+        "essential_elements": [
+          "Applies to suits (or proceedings arising from them) against a Ruler of a former Indian State, where the cause of action arose wholly or partly before 26 January 1950.",
+          "Extends Section 85 (appointment of recognized agents) and Section 86(1) and (3) (consent to sue / consent to execute against property) to such Rulers as if they were foreign-State Rulers.",
+          "\"Former Indian State\" is limited to States the Central Government has specifically notified for this purpose.",
+          "\"Ruler\" carries the meaning given in Article 363 of the Constitution."
+        ],
+        "exceptions_and_qualifications": [
+          "Only Section 86 sub-sections (1) and (3) are extended, not the full section — the trading/local-property consent conditions in sub-section (2) are not incorporated by this cross-reference."
+        ],
+        "how_to_read": "A historical transitional provision, now of narrowing relevance given its pre-1950 cause-of-action requirement, but still material in long-pending or property-succession litigation tracing back to princely-State-era claims."
+      }
+    },
+    {
+      "number": "88",
+      "title": "Where interpleader suit may be instituted.",
+      "raw_text": "Where two or more persons claim adversely to one another the same debts, sum of money or other property, movable or immovable, from another person, who claims no interest therein other than for charges or costs and who is ready to pay or deliver it to the rightful claimant, such other person may institute a suit of interpleader against all the claimants for the purpose of obtaining a decision as to the person to whom the payment or delivery shall be made and of obtaining indemnity for himself: Provided that where any suit is pending in which the rights of all parties can properly be decided, no such suit of interpleader shall be instituted.",
+      "key_terms": [
+        "interpleader suit",
+        "stakeholder with no personal interest"
+      ],
+      "breakdown": {
+        "plain_summary": "An interpleader suit lets a neutral stakeholder — someone holding money or property that two or more rival claimants are fighting over, and who has no personal stake beyond costs — ask the court to decide who the rightful claimant actually is, so the stakeholder can safely hand it over and be done with the dispute.",
+        "essential_elements": [
+          "Two or more persons must claim, adversely to each other, the same debt, sum, or property from a third party.",
+          "That third party (the stakeholder) must claim no interest in the subject-matter beyond charges or costs, and must be ready to hand it to whoever is rightfully entitled.",
+          "The stakeholder sues all the rival claimants together, seeking a decision on entitlement and indemnity for themselves.",
+          "Barred if a suit is already pending in which the rights of all parties can properly be decided."
+        ],
+        "exceptions_and_qualifications": [
+          "Not available where existing litigation already covers the same ground between all the relevant parties."
+        ],
+        "how_to_read": "Read with Order XXXV for the detailed interpleader-suit procedure; the plaintiff's defining feature is genuine neutrality — no real stake in who wins beyond wanting to safely discharge the obligation."
+      }
+    },
+    {
+      "number": "89",
+      "title": "Settlement of disputes outside the Court.",
+      "raw_text": "(1) Where it appears to the Court that there exist elements of a settlement which may be acceptable to the parties, the Court shall formulate the terms of settlement and give them to the parties for their observations and after receiving the observations of the parties, the Court may reformulate the terms of a possible settlement and refer the same for:—\n(a) arbitration;\n(b) conciliation;\n(c) judicial settlement including settlement through Lok Adalat; or\n(d) mediation.\n(2) Where a dispute has been referred—\n(a) for arbitration or conciliation, the provisions of the Arbitration and Conciliation Act, 1996 (26 of 1996) shall apply as if the proceedings for arbitration or conciliation were referred for settlement under the provisions of that Act;\n(b) to Lok Adalat, the Court shall refer the same to the Lok Adalat in accordance with the provisions of sub-section (1) of section 20 of the Legal Services Authority Act, 1987 (39 of 1987) and all other provisions of that Act shall apply in respect of the dispute so referred to the Lok Adalat;\n(c) for judicial settlement, the Court shall refer the same to a suitable institution or person and such institution or person shall be deemed to be a Lok Adalat and all the provisions of the Legal Services Authority Act, 1987 (39 of 1987) shall apply as if the dispute were referred to a Lok Adalat under the provisions of that Act;\n(d) for mediation, the Court shall effect a compromise between the parties and shall follow such procedure as may be prescribed.",
+      "key_terms": [
+        "ADR reference",
+        "Lok Adalat settlement",
+        "judicial settlement",
+        "court-annexed mediation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 89 institutionalizes alternative dispute resolution within civil litigation: if the court senses a settlement is possible, it drafts settlement terms, gets the parties' reactions, refines them, and then sends the dispute off to one of four tracks — arbitration, conciliation, Lok Adalat/judicial settlement, or mediation — each governed by its own specialized statute once referred.",
+        "essential_elements": [
+          "Trigger: the court perceives elements of an acceptable settlement.",
+          "Process: the court formulates settlement terms, invites party observations, and may reformulate before referring the dispute out.",
+          "Four referral tracks are available: arbitration, conciliation, judicial settlement (including Lok Adalat), or mediation.",
+          "Arbitration/conciliation references are governed by the Arbitration and Conciliation Act, 1996 as if the parties had referred the matter under that Act.",
+          "Lok Adalat references follow Section 20(1) of the Legal Services Authority Act, 1987, with that Act applying fully.",
+          "Judicial settlement references go to a suitable institution or person, deemed a Lok Adalat, again attracting the full Legal Services Authority Act, 1987 framework.",
+          "Mediation references require the court itself to work towards effecting a compromise following prescribed procedure."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a court-driven referral mechanism triggered by the court's own assessment, though in practice courts commonly invite party consent before referring."
+        ],
+        "how_to_read": "The gateway provision for court-referred ADR — a landmark modernization of the Code; practitioners should be alert to which of the four tracks is chosen, since each pulls in a distinct external statutory regime."
+      }
+    },
+    {
+      "number": "90",
+      "title": "Power to state case for opinion of Court.",
+      "raw_text": "Where any person agree in writing to state a case for the opinion of the Court, then the Court shall try and determine the same in the manner prescribed.",
+      "key_terms": [
+        "special case procedure"
+      ],
+      "breakdown": {
+        "plain_summary": "Parties who agree in writing can jointly place an agreed statement of facts (a 'special case') before the court simply to get its opinion/ruling on the legal question involved, using the prescribed procedure, without a full adversarial trial of disputed facts.",
+        "essential_elements": [
+          "Requires a written agreement between the parties to state a case for the court's opinion.",
+          "The court then tries and determines the stated case following the manner prescribed (Order XXXVI)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A streamlined, consent-based route to obtain judicial clarity on a legal question where the facts are not really in dispute — see Order XXXVI for the procedural mechanics of framing and trying a special case."
       }
     }
   ]
