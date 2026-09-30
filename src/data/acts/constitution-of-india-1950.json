@@ -877,7 +877,17 @@
     "Municipality's own tax/toll/fee levy authorisation power": "The Article 243X(a) enabling provision letting State law authorise a Municipality to levy, collect, and appropriate its own taxes, duties, tolls, and fees, subject to State-specified procedure and limits — the urban mirror of Article 243H(a).",
     "State-collected tax assignment to Municipalities": "The Article 243X(b) enabling provision letting State law assign to Municipalities specific taxes/duties/tolls/fees that the State Government itself levies and collects — a revenue-sharing mechanism mirroring Article 243H(b).",
     "single Finance Commission reviewing both Panchayat and Municipal finances": "The Article 243Y(1) rule extending the same Article 243-I State Finance Commission's mandate to also review Municipal financial position and recommend on State-Municipality revenue distribution, tax assignment, and grants-in-aid — confirming there is no separate Municipal Finance Commission, only a single unified body covering both rural and urban local government.",
-    "State-law Municipal account-maintenance and audit framework": "The Article 243Z enabling provision leaving the entire framework for Municipal account maintenance and auditing to State legislation, without constitutionally designating any specific auditing authority — the urban mirror of Article 243J."
+    "State-law Municipal account-maintenance and audit framework": "The Article 243Z enabling provision leaving the entire framework for Municipal account maintenance and auditing to State legislation, without constitutionally designating any specific auditing authority — the urban mirror of Article 243J.",
+    "shared State Election Commission for Municipal elections": "The Article 243ZA(1) rule placing Municipal elections under the same Article 243K State Election Commission that administers Panchayat elections, confirming a single Commission covers both rural and urban local-body elections in a State.",
+    "Union-territory extension of Part IXA with Governor-to-Administrator substitution": "The Article 243ZB mechanism extending the entire Municipalities Part to Union territories by textually substituting 'Administrator appointed under article 239' for 'Governor' and a Union territory's own Legislative Assembly for 'State Legislature,' subject to Presidential exceptions/modifications by public notification — the urban mirror of Article 243L.",
+    "Scheduled/tribal-area and Darjeeling Gorkha Hill Council carve-out from Part IXA": "The Article 243ZC exclusion of Fifth Schedule Scheduled Areas and Sixth Schedule tribal areas from Part IXA by default, protection of the Darjeeling Gorkha Hill Council's functions and powers, and the Parliamentary ordinary-law extension route for Scheduled/tribal areas — a shorter, urban-tailored version of Article 243M lacking that Article's Northeast-hill-State-specific clauses.",
+    "mandatory District Planning Committee consolidating rural and urban plans": "The Article 243ZD(1) requirement that every State constitute, at the district level, a District Planning Committee to consolidate Panchayat and Municipality plans into a single draft district development plan — the structural bridge connecting Part IX (Panchayats) and Part IXA (Municipalities).",
+    "four-fifths rural/urban-elected-member composition floor for District Planning Committees": "The proviso to Article 243ZD(2)(b) requiring at least four-fifths of a District Planning Committee's members be elected members of the district Panchayat and district Municipalities, apportioned by rural/urban population ratio — an unusually high elected-member floor signalling strong preference for local, elected-body-driven district planning.",
+    "mandatory Metropolitan Planning Committee for ten-lakh-plus conurbations": "The Article 243ZE(1) requirement that every Article 243P(c) Metropolitan area (population ten lakh or more, spanning multiple Municipalities/Panchayats) have its own Metropolitan Planning Committee to prepare an integrated draft development plan for the area as a whole.",
+    "two-thirds elected-member composition floor for Metropolitan Planning Committees": "The proviso to Article 243ZE(2)(b) requiring at least two-thirds of a Metropolitan Planning Committee's members be elected Municipality members and Panchayat Chairpersons in the Metropolitan area, proportionate to Municipal/Panchayat population ratio — lower than the four-fifths floor for District Planning Committees, reflecting Metropolitan Committees' additional institutional and Union-Government representation.",
+    "one-year transitional continuance of pre-1993 inconsistent Municipal laws": "The Article 243ZF rule letting State Municipal laws inconsistent with Part IXA continue in force for up to one year after the Seventy-fourth Amendment's 1992-93 commencement (or until sooner amended/repealed), while separately protecting already-sitting Municipalities' existing terms — a now largely spent transitional provision, the urban mirror of Article 243N.",
+    "delimitation-law judicial-review bar for Municipal elections": "The Article 243ZG(a) absolute bar preventing any court from questioning the validity of delimitation or seat-allotment laws made under Article 243ZA — the urban mirror of Article 243-O(a) and Article 329(a).",
+    "election-petition-only channel for challenging Municipal elections": "The Article 243ZG(b) rule confining every challenge to a Municipal election's validity to an election petition presented under State-enacted procedure — the urban mirror of Article 243-O(b) and Article 329(b)."
   },
   "sections": [
     {
@@ -7528,6 +7538,156 @@
           "This is the shortest substantive Article across both Part IX and Part IXA, textually near-identical to Article 243J save for the Municipality/Panchayat substitution."
         ],
         "how_to_read": "Read Article 243Z as confirming that, just as with Panchayats, Municipal financial accountability runs through State-created audit machinery rather than any constitutionally fixed national auditor."
+      }
+    },
+    {
+      "number": "243ZA",
+      "title": "Elections to the Municipalities",
+      "raw_text": "243ZA. Elections to the Municipalities.—(1) The superintendence, direction and control of the preparation of electoral rolls for, and the conduct of, all elections to the Municipalities shall be vested in the State Election Commission referred to in article 243K.\n(2) Subject to the provisions of this Constitution, the Legislature of a State may, by law, make provision with respect to all matters relating to, or in connection with, elections to the Municipalities.",
+      "key_terms": [
+        "shared State Election Commission for Municipal elections"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243ZA does not create a second election-management body — it places Municipal elections under the same Article 243K State Election Commission that already administers Panchayat elections, and leaves the substantive law of Municipal elections to State legislation.",
+        "essential_elements": [
+          "Clause (1) vests superintendence, direction, and control of Municipal electoral rolls and election conduct in the same Article 243K State Election Commission used for Panchayat elections.",
+          "Clause (2) leaves substantive Municipal election law to State legislation, subject to the Constitution."
+        ],
+        "exceptions_and_qualifications": [
+          "This confirms the single-Commission design already implicit from Article 243K's drafting — one State Election Commissioner administers both rural (Panchayat) and urban (Municipal) local body elections in a State, rather than two separate bodies.",
+          "As with Article 243K, this Commission is entirely distinct from the Election Commission of India under Article 324, which has no role in Panchayat or Municipal elections."
+        ],
+        "how_to_read": "Read Article 243ZA as a short mandate-extension clause, exactly like Article 243Y's relationship to Article 243-I's Finance Commission — always read it together with Article 243K to see the complete picture of the State Election Commission's jurisdiction."
+      }
+    },
+    {
+      "number": "243ZB",
+      "title": "Application to Union territories (Municipalities)",
+      "raw_text": "243ZB. Application to Union territories.—The provisions of this Part shall apply to the Union territories and shall, in their application to a Union territory, have effect as if the references to the Governor of a State were references to the Administrator of the Union territory appointed under article 239 and references to the Legislature or the Legislative Assembly of a State were references in relation to a Union territory having a Legislative Assembly, to that Legislative Assembly: Provided that the President may, by public notification, direct that the provisions of this Part shall apply to any Union territory or part thereof subject to such exceptions and modifications as he may specify in the notification.",
+      "key_terms": [
+        "Union-territory extension of Part IXA with Governor-to-Administrator substitution"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243ZB extends the entire Municipalities Part to Union territories using the identical Governor-to-Administrator, Legislature-to-Legislative-Assembly substitution formula that Article 243L uses for Part IX, again subject to Presidential tailoring by public notification.",
+        "essential_elements": [
+          "'Governor of a State' reads as 'Administrator of the Union territory appointed under article 239.'",
+          "'Legislature or Legislative Assembly of a State' reads as the Union territory's own Legislative Assembly, where one exists.",
+          "The proviso lets the President tailor the Part's application to a specific Union territory by public notification."
+        ],
+        "exceptions_and_qualifications": [
+          "This is textually identical to Article 243L save for the Part IXA cross-reference, confirming the same drafting-economy technique was reused for the urban local-government Part."
+        ],
+        "how_to_read": "Read Article 243ZB as Article 243L's exact urban mirror — no substantive analysis differs between the two beyond which Part is being extended."
+      }
+    },
+    {
+      "number": "243ZC",
+      "title": "Part not to apply to certain areas (Municipalities)",
+      "raw_text": "243ZC. Part not to apply to certain areas.—(1) Nothing in this Part shall apply to the Scheduled Areas referred to in clause (1), and the tribal areas referred to in clause (2) of article 244.\n(2) Nothing in this Part shall be construed to affect the functions and powers of the Darjeeling Gorkha Hill Council constituted under any law for the time being in force for the hill areas of the district of Darjeeling in the State of West Bengal.\n(3) Notwithstanding anything in this Constitution, Parliament may, by law, extend the provisions of this Part to the Scheduled Areas and the tribal areas referred to in clause (1) subject to such exceptions and modifications as may be specified in such law, and no such law shall be deemed to be an amendment of this Constitution for the purposes of article 368.",
+      "key_terms": [
+        "Scheduled/tribal-area and Darjeeling Gorkha Hill Council carve-out from Part IXA"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243ZC excludes Fifth Schedule Scheduled Areas and Sixth Schedule tribal areas from Part IXA by default, protects the Darjeeling Gorkha Hill Council's functions and powers from being affected by the Part, and gives Parliament the same PESA-style ordinary-law extension route Article 243M(4)(b) gives for Part IX.",
+        "essential_elements": [
+          "Clause (1) excludes Fifth Schedule Scheduled Areas and Sixth Schedule tribal areas outright.",
+          "Clause (2) protects the Darjeeling Gorkha Hill Council's functions and powers from being affected by this Part.",
+          "Clause (3) lets Parliament extend the Part to Scheduled/tribal areas by ordinary law (not an Article 368 amendment) with tailored exceptions and modifications."
+        ],
+        "exceptions_and_qualifications": [
+          "Article 243ZC is a noticeably shorter carve-out than Article 243M — it has no counterpart to Article 243M(2)'s exclusion of Nagaland/Meghalaya/Mizoram/Manipur hill areas, and no counterpart to the clause (4)(a) special-majority Assembly opt-in route, reflecting that those particular exclusions were specific to Panchayati Raj's rural character rather than to urban local government generally.",
+          "The Darjeeling protection here is framed slightly differently from Article 243M(3) — Article 243M(3)(a) excludes only the district-level Panchayat tier from Darjeeling, while Article 243ZC(2) protects the Hill Council's functions/powers generally without a tier-specific carve-out, since Part IXA's Municipality structure does not have a directly analogous district-level tier concept."
+        ],
+        "how_to_read": "Read Article 243ZC as a shorter, urban-tailored version of Article 243M — same Scheduled/tribal-area logic and same PESA-style Parliamentary extension route, but without the Northeast-hill-State-specific clauses that have no urban-local-government equivalent."
+      }
+    },
+    {
+      "number": "243ZD",
+      "title": "Committee for district planning",
+      "raw_text": "243ZD. Committee for district planning.—(1) There shall be constituted in every State at the district level a District Planning Committee to consolidate the plans prepared by the Panchayats and the Municipalities in the district and to prepare a draft development plan for the district as a whole.\n(2) The Legislature of a State may, by law, make provision with respect to—\n(a) the composition of the District Planning Committees;\n(b) the manner in which the seats in such Committees shall be filled: Provided that not less than four-fifths of the total number of members of such Committee shall be elected by, and from amongst, the elected members of the Panchayat at the district level and of the Municipalities in the district in proportion to the ratio between the population of the rural areas and of the urban areas in the district;\n(c) the functions relating to district planning which may be assigned to such Committees;\n(d) the manner in which the Chairpersons of such Committees shall be chosen.\n(3) Every District Planning Committee shall, in preparing the draft development plan,—\n(a) have regard to—\n(i) matters of common interest between the Panchayats and the Municipalities including spatial planning, sharing of water and other physical and natural resources, the integrated development of infrastructure and environmental conservation;\n(ii) the extent and type of available resources whether financial or otherwise;\n(b) consult such institutions and organisations as the Governor may, by order, specify.\n(4) The Chairperson of every District Planning Committee shall forward the development plan, as recommended by such Committee, to the Government of the State.",
+      "key_terms": [
+        "mandatory District Planning Committee consolidating rural and urban plans",
+        "four-fifths rural/urban-elected-member composition floor for District Planning Committees"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243ZD is the constitutional hinge connecting Part IX and Part IXA — it mandates a District Planning Committee in every State to consolidate the separate plans prepared by district Panchayats and Municipalities into one integrated district development plan, with at least four-fifths of the Committee's membership drawn proportionately from elected rural and urban local-body members, and forwards the resulting plan to the State Government.",
+        "essential_elements": [
+          "Clause (1) mandates a District Planning Committee in every State at the district level, with the dual function of consolidating Panchayat/Municipality plans and preparing a whole-district development plan.",
+          "Clause (2)'s proviso fixes a hard floor: at least four-fifths of Committee members must be elected members of the district-level Panchayat and district Municipalities, apportioned by rural/urban population ratio.",
+          "Clause (2)(a),(c),(d) otherwise leave composition, assigned functions, and Chairperson-selection method to State law.",
+          "Clause (3) requires the Committee to have regard to spatial planning, shared natural resources, infrastructure integration, and available resources, and to consult Governor-specified institutions/organisations.",
+          "Clause (4) requires the Chairperson to forward the recommended plan to the State Government."
+        ],
+        "exceptions_and_qualifications": [
+          "This is the first Article in either Part IX or Part IXA that operates across both Parts simultaneously — it is the structural bridge ensuring rural and urban local planning are not developed in silos within a single district.",
+          "The four-fifths elected-member floor is unusually high compared to most other composition rules in this Part, signalling a strong constitutional preference for genuinely local, elected-body-driven district planning over bureaucratic or nominated control.",
+          "Neither Article 243ZD nor Article 243ZE creates a body with binding decision-making power over Panchayats/Municipalities themselves — their output is a consolidated 'draft development plan' forwarded to the State Government, not a directly enforceable order."
+        ],
+        "how_to_read": "Read Article 243ZD as evidence that Parts IX and IXA, though textually separate, were designed as a single integrated decentralization scheme — the District Planning Committee is where the rural and urban tracks formally converge."
+      }
+    },
+    {
+      "number": "243ZE",
+      "title": "Committee for Metropolitan planning",
+      "raw_text": "243ZE. Committee for Metropolitan planning.—(1) There shall be constituted in every Metropolitan area a Metropolitan Planning Committee to prepare a draft development plan for the Metropolitan area as a whole.\n(2) The Legislature of a State may, by law, make provision with respect to—\n(a) the composition of the Metropolitan Planning Committees;\n(b) the manner in which the seats in such Committees shall be filled: Provided that not less than two-thirds of the members of such Committee shall be elected by, and from amongst, the elected members of the Municipalities and Chairpersons of the Panchayats in the Metropolitan area in proportion to the ratio between the population of the Municipalities and of the Panchayats in that area;\n(c) the representation in such Committees of the Government of India and the Government of the State and of such organisations and institutions as may be deemed necessary for carrying out the functions assigned to such Committees;\n(d) the functions relating to planning and coordination for the Metropolitan area which may be assigned to such Committees;\n(e) the manner in which the Chairpersons of such Committees shall be chosen.\n(3) Every Metropolitan Planning Committee shall, in preparing the draft development plan,—\n(a) have regard to—\n(i) the plans prepared by the Municipalities and the Panchayats in the Metropolitan area;\n(ii) matters of common interest between the Municipalities and the Panchayats, including coordinated spatial planning of the area, sharing of water and other physical and natural resources, the integrated development of infrastructure and environmental conservation;\n(iii) the overall objectives and priorities set by the Government of India and the Government of the State;\n(iv) the extent and nature of investments likely to be made in the Metropolitan area by agencies of the Government of India and of the Government of the State and other available resources whether financial or otherwise;\n(b) consult such institutions and organisations as the Governor may, by order, specify.\n(4) The Chairperson of every Metropolitan Planning Committee shall forward the development plan, as recommended by such Committee, to the Government of the State.",
+      "key_terms": [
+        "mandatory Metropolitan Planning Committee for ten-lakh-plus conurbations",
+        "two-thirds elected-member composition floor for Metropolitan Planning Committees"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243ZE requires every Article 243P(c) Metropolitan area (ten-lakh-plus conurbations spanning multiple Municipalities/Panchayats) to have its own Metropolitan Planning Committee, with at least two-thirds elected membership proportionate to Municipal/Panchayat population, tasked with producing an integrated draft development plan that also factors in Union and State government investment priorities — reflecting that large metropolitan regions need planning coordination beyond what a single Municipality or district can provide.",
+        "essential_elements": [
+          "Clause (1) mandates a Metropolitan Planning Committee in every Metropolitan area (as defined in Article 243P(c)) to prepare a whole-area draft development plan.",
+          "Clause (2)'s proviso fixes at least two-thirds elected membership, drawn from Municipality members and Panchayat Chairpersons in the Metropolitan area, proportionate to Municipal/Panchayat population ratio.",
+          "Clause (2)(c) uniquely allows representation of the Government of India itself on this Committee — no equivalent Union-Government representation appears in Article 243ZD's District Planning Committee scheme.",
+          "Clause (3) requires regard to existing Municipal/Panchayat plans, shared-resource coordination, Union/State objectives and priorities, and likely Union/State investment levels, plus consultation with Governor-specified institutions.",
+          "Clause (4) requires the Chairperson to forward the plan to the State Government."
+        ],
+        "exceptions_and_qualifications": [
+          "The two-thirds elected-member floor here is lower than Article 243ZD's four-fifths floor for District Planning Committees — reflecting that Metropolitan Planning Committees are expected to also seat a meaningful share of non-elected institutional/expert/Union-Government representation given the scale and complexity of metropolitan-region planning.",
+          "The explicit Union-Government representation clause reflects the practical reality that metropolitan-region infrastructure (e.g., transport, water, environment) often involves Union agencies and Union-funded schemes, unlike ordinary district-level planning.",
+          "As with Article 243ZD, the Metropolitan Planning Committee's output is a non-binding draft development plan forwarded to the State Government, not an order enforceable directly against Municipalities or Panchayats."
+        ],
+        "how_to_read": "Read Article 243ZE alongside Article 243ZD as a matched pair — compare the different elected-member thresholds (two-thirds vs. four-fifths) and the Metropolitan Committee's additional Union-Government representation clause as the two clauses' main points of structural divergence."
+      }
+    },
+    {
+      "number": "243ZF",
+      "title": "Continuance of existing laws and Municipalities",
+      "raw_text": "243ZF. Continuance of existing laws and Municipalities.—Notwithstanding anything in this Part, any provision of any law relating to Municipalities in force in a State immediately before the commencement of the Constitution (Seventy-fourth Amendment) Act, 1992, which is inconsistent with the provisions of this Part, shall continue to be in force until amended or repealed by a competent Legislature or other competent authority or until the expiration of one year from such commencement, whichever is earlier: Provided that all the Municipalities existing immediately before such commencement shall continue till the expiration of their duration, unless sooner dissolved by a resolution passed to that effect by the Legislative Assembly of that State or, in the case of a State having a Legislative Council, by each House of the Legislature of that State.",
+      "key_terms": [
+        "one-year transitional continuance of pre-1993 inconsistent Municipal laws"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243ZF is the transitional savings clause for Part IXA, mirroring Article 243N for Part IX: pre-existing State Municipal laws inconsistent with the new scheme continue for up to one year after the Seventy-fourth Amendment's commencement, and already-sitting Municipalities continue for their existing term absent affirmative Legislative Assembly dissolution.",
+        "essential_elements": [
+          "Inconsistent pre-commencement Municipal laws continue notwithstanding Part IXA, but only until the earlier of competent amendment/repeal or one year from the Seventy-fourth Amendment's commencement.",
+          "The proviso protects already-existing Municipalities' current terms, subject to early dissolution only via an affirmative Legislative Assembly resolution."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a now-largely-spent, purely historical transitional provision tied to the 1992-93 commencement, exactly like Article 243N — retained in the text as a record of the transition, with no ongoing operative significance today."
+        ],
+        "how_to_read": "Read Article 243ZF as Article 243N's exact urban mirror — no substantive analysis differs beyond which Amendment and which institution it references."
+      }
+    },
+    {
+      "number": "243ZG",
+      "title": "Bar to interference by courts in electoral matters (Municipalities)",
+      "raw_text": "243ZG. Bar to interference by courts in electoral matters.—Notwithstanding anything in this Constitution,—\n(a) the validity of any law relating to the delimitation of constituencies or the allotment of seats to such constituencies, made or purporting to be made under article 243ZA shall not be called in question in any court;\n(b) no election to any Municipality shall be called in question except by an election petition presented to such authority and in such manner as is provided for by or under any law made by the Legislature of a State.",
+      "key_terms": [
+        "delimitation-law judicial-review bar for Municipal elections",
+        "election-petition-only channel for challenging Municipal elections"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243ZG closes Part IXA with the identical electoral-non-interference bar Article 243-O provides for Panchayats: Municipal delimitation/seat-allotment laws made under Article 243ZA cannot be questioned in any court, and Municipal election validity can only be challenged via a State-law-governed election petition.",
+        "essential_elements": [
+          "Clause (a) is an absolute bar on questioning delimitation/seat-allotment law validity under Article 243ZA.",
+          "Clause (b) channels all Municipal election-validity challenges exclusively through an election petition mechanism under State-enacted procedure."
+        ],
+        "exceptions_and_qualifications": [
+          "This is textually identical to Article 243-O save for the Article 243ZA cross-reference in place of Article 243K, and 'Municipality' in place of 'Panchayat' — the same Article 329 interpretive analogy applies with equal force here."
+        ],
+        "how_to_read": "Read Article 243ZG as Article 243-O's exact urban mirror, completing Part IXA's parallel structure with Part IX — with this Article, both the rural (Part IX) and urban (Part IXA) local self-government Parts of the Constitution are now fully captured."
       }
     }
   ]
