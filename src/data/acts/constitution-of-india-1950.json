@@ -676,7 +676,20 @@
     "pre-44th-Amendment default privileges (State Legislature)": "The Article 194(3) fallback rule that, absent State legislative law defining privileges, a State House's powers/privileges/immunities default to whatever applied immediately before the 44th Amendment Act, 1978's section 26 came into force (20-6-1979) — not automatically equated with UK House of Commons privileges.",
     "privileges extended to non-member floor-right holders (State)": "The Article 194(4) rule extending clauses (1)-(3)'s speech/vote/privilege protections to any person who, though not a member, has a constitutional right to speak and participate in a State House's proceedings (e.g., a Minister or the Advocate-General under Article 177).",
     "salaries and allowances of ordinary members (State Legislature)": "The Article 195 guarantee that ordinary members of a State's Legislative Assembly and Legislative Council — as distinct from the four presiding officers covered by Article 186 — receive salaries and allowances fixed by State legislative law.",
-    "pre-Constitution Provincial Assembly rates default": "The Article 195 fallback rule that, absent State legislative law on member salaries/allowances, the rates and conditions applicable immediately before the Constitution's commencement to the corresponding pre-Constitution Province's Legislative Assembly members apply instead."
+    "pre-Constitution Provincial Assembly rates default": "The Article 195 fallback rule that, absent State legislative law on member salaries/allowances, the rates and conditions applicable immediately before the Constitution's commencement to the corresponding pre-Constitution Province's Legislative Assembly members apply instead.",
+    "either-House origination for ordinary Bills (bicameral State)": "The Article 196(1) rule that an ordinary (non-Money, non-financial) Bill may originate in either House of a bicameral State's Legislature, subject to Articles 198 and 207's Money/financial Bill restrictions.",
+    "both-Houses agreement requirement (bicameral State Bills)": "The Article 196(2) rule that a Bill is deemed passed by a bicameral State's Legislature only once both Houses agree to it (with or without mutually accepted amendments), subject to Article 197's override mechanism for Council disagreement.",
+    "non-lapse of pending Bills on prorogation": "The Article 196(3) rule that a Bill pending in either House of a State Legislature does not lapse merely because that House is prorogued.",
+    "non-lapse of Council-pending Bills on Assembly dissolution": "The Article 196(4) rule that a Bill pending only in the Legislative Council — one the Assembly has not yet passed — survives an Assembly dissolution, since it was never the Assembly's interrupted business.",
+    "lapse of Assembly-pending/Assembly-passed-but-Council-pending Bills on dissolution": "The Article 196(5) rule that a Bill still pending in the Legislative Assembly, or already passed by the Assembly and awaiting the Council, lapses automatically when the Assembly is dissolved.",
+    "Legislative Council's suspensive (delaying) veto only": "The structural characterisation, confirmed by Article 197, that a State Legislative Council can only delay and recommend changes to ordinary Bills, never permanently block them — the Assembly's second passage overrides any Council objection.",
+    "three-month Council delay threshold (first passage)": "The Article 197(1)(b) rule letting the Assembly invoke its override procedure if more than three months elapse after an ordinary Bill is laid before the Council without the Council passing it.",
+    "one-month Council delay threshold (second passage)": "The Article 197(2)(b) rule letting a Bill be deemed passed if, after the Assembly's second passage, more than one month elapses without the Council passing it.",
+    "Assembly's deemed-passage override on second passage": "The Article 197(2) rule that after the Assembly passes an ordinary Bill a second time and transmits it to the Council, the Bill is deemed passed by the Legislature in the Assembly's second-passage form regardless of the Council's rejection, delay, or unaccepted amendments.",
+    "Money Bill introduction restricted to Assembly": "The Article 198(1) rule barring a Money Bill from being introduced in a State's Legislative Council — it must originate in the Legislative Assembly.",
+    "fourteen-day Council recommendation window (Money Bills)": "The Article 198(2) time limit within which a State Legislative Council must return a Money Bill to the Assembly with its recommendations, mirroring the Rajya Sabha's identical fourteen-day window under Article 109(2).",
+    "Assembly's absolute accept/reject discretion over Council recommendations": "The Article 198(3)-(4) rule that the Legislative Assembly may accept or reject, wholly or partly and at its own discretion, any Money Bill recommendation from the Council, with the Bill deemed passed in whatever form results from the Assembly's decision.",
+    "deemed passage on Council silence past fourteen days": "The Article 198(5) rule that if the Council does not return a Money Bill within fourteen days, the Bill is deemed passed by both Houses in the form the Assembly originally passed it."
   },
   "sections": [
     {
@@ -5576,6 +5589,80 @@
           "This default fallback is structurally different from Article 186's Second Schedule default for presiding officers — Article 195 looks backward to pre-Constitution Provincial practice rather than to any Schedule of this Constitution."
         ],
         "how_to_read": "Read Article 195 as Article 106's precise State-level mirror for ordinary members, and note it complements rather than duplicates Article 186 (which covers only the four presiding/deputy-presiding officers) — together the two Articles cover every State Legislature member's compensation."
+      }
+    },
+    {
+      "number": "196",
+      "title": "Provisions as to introduction and passing of Bills",
+      "raw_text": "(1) Subject to the provisions of articles 198 and 207 with respect to Money Bills and other financial Bills, a Bill may originate in either House of the Legislature of a State which has a Legislative Council.\n(2) Subject to the provisions of articles 197 and 198, a Bill shall not be deemed to have been passed by the Houses of the Legislature of a State having a Legislative Council unless it has been agreed to by both Houses, either without amendment or with such amendments only as are agreed to by both Houses.\n(3) A Bill pending in the Legislature of a State shall not lapse by reason of the prorogation of the House or Houses thereof.\n(4) A Bill pending in the Legislative Council of a State which has not been passed by the Legislative Assembly shall not lapse on a dissolution of the Assembly.\n(5) A Bill which is pending in the Legislative Assembly of a State, or which having been passed by the Legislative Assembly is pending in the Legislative Council, shall lapse on a dissolution of the Assembly.",
+      "key_terms": [
+        "either-House origination for ordinary Bills (bicameral State)",
+        "both-Houses agreement requirement (bicameral State Bills)",
+        "non-lapse of pending Bills on prorogation",
+        "non-lapse of Council-pending Bills on Assembly dissolution",
+        "lapse of Assembly-pending/Assembly-passed-but-Council-pending Bills on dissolution"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 196 is the State-level counterpart to Article 107, setting the basic mechanics of Bill introduction and passage in a bicameral State Legislature: an ordinary Bill may originate in either House (subject to Money/financial Bill restrictions), and requires both Houses' agreement to be deemed passed. Prorogation never kills a pending Bill, and a Bill stuck in the Council (never reaching the Assembly) survives an Assembly dissolution too — but a Bill still pending in the Assembly, or passed by the Assembly and awaiting the Council, lapses the moment the Assembly is dissolved, since it was the Assembly's business that was interrupted.",
+        "essential_elements": [
+          "Clause (1): ordinary Bills may originate in either House, subject to Articles 198 (Money Bills) and 207 (other financial Bills, discussed later).",
+          "Clause (2): a Bill needs both Houses' agreement (with or without mutually accepted amendments) to count as passed, subject to Articles 197 and 198's override mechanisms for Council disagreement.",
+          "Clauses (3)-(4): prorogation of either House, or dissolution of the Assembly while a Bill sits only in the Council (Assembly never having passed it), does not kill the Bill.",
+          "Clause (5): a Bill still pending in the Assembly, or already passed by the Assembly and pending in the Council, lapses on the Assembly's dissolution."
+        ],
+        "exceptions_and_qualifications": [
+          "This Article applies only to States with a Legislative Council (bicameral States) — a unicameral State's Bills simply require Assembly passage alone, with no second-House mechanics to navigate.",
+          "The lapse rule in clause (5) turns on whether the Assembly itself has finished with the Bill: once the Assembly has passed it and it awaits only the Council, dissolution still kills it (unlike a Bill that started and stayed entirely within the Council)."
+        ],
+        "how_to_read": "Read Article 196 as Article 107's precise State-level mirror, restricted in practical effect to the eight-or-so bicameral States — the lapse/non-lapse distinctions all hinge on whether the interrupted business was the Assembly's or purely the Council's."
+      }
+    },
+    {
+      "number": "197",
+      "title": "Restriction on powers of Legislative Council as to Bills other than Money Bills",
+      "raw_text": "(1) If after a Bill has been passed by the Legislative Assembly of a State having a Legislative Council and transmitted to the Legislative Council—\n(a) the Bill is rejected by the Council; or\n(b) more than three months elapse from the date on which the Bill is laid before the Council without the Bill being passed by it; or\n(c) the Bill is passed by the Council with amendments to which the Legislative Assembly does not agree;\nthe Legislative Assembly may, subject to the rules regulating its procedure, pass the Bill again in the same or in any subsequent session with or without such amendments, if any, as have been made, suggested or agreed to by the Legislative Council and then transmit the Bill as so passed to the Legislative Council.\n(2) If after a Bill has been so passed for the second time by the Legislative Assembly and transmitted to the Legislative Council—\n(a) the Bill is rejected by the Council; or\n(b) more than one month elapses from the date on which the Bill is laid before the Council without the Bill being passed by it; or\n(c) the Bill is passed by the Council with amendments to which the Legislative Assembly does not agree;\nthe Bill shall be deemed to have been passed by the Houses of the Legislature of the State in the form in which it was passed by the Legislative Assembly for the second time with such amendments, if any, as have been made or suggested by the Legislative Council and agreed to by the Legislative Assembly.\n(3) Nothing in this article shall apply to a Money Bill.",
+      "key_terms": [
+        "Legislative Council's suspensive (delaying) veto only",
+        "three-month Council delay threshold (first passage)",
+        "one-month Council delay threshold (second passage)",
+        "Assembly's deemed-passage override on second passage"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 197 confirms the Legislative Council is structurally a revising, delaying chamber only — never a co-equal veto power — for ordinary (non-Money) Bills, mirroring the Rajya Sabha's position relative to the Lok Sabha under Article 108's joint-sitting logic but with an even more direct override mechanism (no joint sitting needed at State level, since only the Assembly's will ultimately counts). If the Council rejects, sits on for more than three months, or amends unacceptably a Bill the Assembly has passed, the Assembly may simply pass it again (with or without the Council's suggestions) and send it back. If the Council again rejects, delays beyond one month, or amends unacceptably, the Bill is deemed passed by the Legislature in the Assembly's second-passage form — the Council's objection is legally overridden.",
+        "essential_elements": [
+          "Clause (1): first-passage triggers for the Assembly's override right — Council rejection, over three months' inaction, or unacceptable amendments.",
+          "Clause (2): second-passage triggers (shorter one-month window) after which the Bill is deemed passed by both Houses regardless of the Council's position.",
+          "Clause (3): Money Bills are entirely outside this Article's scope — they follow the separate, even more Council-restrictive Article 198 procedure."
+        ],
+        "exceptions_and_qualifications": [
+          "There is no joint-sitting mechanism at the State level (unlike Article 108 for Parliament) — the Assembly's second passage alone is sufficient to deem the Bill passed, reflecting the Council's genuinely subordinate constitutional status.",
+          "The Assembly is not required to accept any Council amendment; it may pass the Bill on the second round with or without incorporating the Council's suggestions."
+        ],
+        "how_to_read": "Read Article 197 as the practical enforcement mechanism proving the Legislative Council's revising-chamber-only status: contrast its shorter, Assembly-only override with Article 108's joint-sitting deadlock-resolution at the Union level, which exists precisely because the Rajya Sabha is NOT subordinate to the Lok Sabha the way a State Council is subordinate to its Assembly."
+      }
+    },
+    {
+      "number": "198",
+      "title": "Special procedure in respect of Money Bills",
+      "raw_text": "(1) A Money Bill shall not be introduced in a Legislative Council.\n(2) After a Money Bill has been passed by the Legislative Assembly of a State having a Legislative Council, it shall be transmitted to the Legislative Council for its recommendations, and the Legislative Council shall within a period of fourteen days from the date of its receipt of the Bill return the Bill to the Legislative Assembly with its recommendations, and the Legislative Assembly may thereupon either accept or reject all or any of the recommendations of the Legislative Council.\n(3) If the Legislative Assembly accepts any of the recommendations of the Legislative Council, the Money Bill shall be deemed to have been passed by both Houses with the amendments recommended by the Legislative Council and accepted by the Legislative Assembly.\n(4) If the Legislative Assembly does not accept any of the recommendations of the Legislative Council, the Money Bill shall be deemed to have been passed by both Houses in the form in which it was passed by the Legislative Assembly without any of the amendments recommended by the Legislative Council.\n(5) If a Money Bill passed by the Legislative Assembly and transmitted to the Legislative Council for its recommendations is not returned to the Legislative Assembly within the said period of fourteen days, it shall be deemed to have been passed by both Houses at the expiration of the said period in the form in which it was passed by the Legislative Assembly.",
+      "key_terms": [
+        "Money Bill introduction restricted to Assembly",
+        "fourteen-day Council recommendation window (Money Bills)",
+        "Assembly's absolute accept/reject discretion over Council recommendations",
+        "deemed passage on Council silence past fourteen days"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 198 gives Money Bills the most Council-restrictive treatment of all — even more one-sided than Article 197's ordinary-Bill override. A Money Bill can only be introduced in the Assembly; once passed there, the Council gets a mere fourteen days to offer recommendations (not amendments it can insist on), and the Assembly may accept or reject each recommendation entirely at its own discretion. Whatever the Assembly decides — full acceptance, partial acceptance, or outright rejection of Council input, or the Council simply staying silent past the fourteen-day window — the Bill is deemed passed by both Houses in the Assembly's chosen form. This mirrors Article 109's Union-level Lok Sabha/Rajya Sabha Money Bill procedure almost exactly, with the fourteen-day window matching the Rajya Sabha's own fourteen-day limit under Article 109(2).",
+        "essential_elements": [
+          "Clause (1): a Money Bill's introduction is confined to the Legislative Assembly.",
+          "Clause (2): the Council has only fourteen days to return the Bill with recommendations (not binding amendments).",
+          "Clauses (3)-(4): the Assembly's acceptance or rejection of any Council recommendation is dispositive — the Bill is deemed passed either way in whatever form the Assembly settles on.",
+          "Clause (5): Council inaction past fourteen days results in deemed passage in the Assembly's original passed form."
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike Article 197's ordinary-Bill procedure (which requires a second Assembly passage round to override Council objections), Money Bills need only a single Assembly passage — the Council's role is advisory-only from the outset, with no possibility of even a delaying second round."
+        ],
+        "how_to_read": "Read Article 198 as Article 109's precise State-level mirror — the Council's role over Money Bills is purely recommendatory and time-boxed at fourteen days, making it the clearest textual proof that the Legislative Council has no genuine veto or even meaningful delay power over the State's money Bills, consistent with Article 199's certification mechanism (next) settling any dispute over whether a Bill even qualifies as a Money Bill."
       }
     }
   ]
