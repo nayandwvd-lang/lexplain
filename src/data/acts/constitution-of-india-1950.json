@@ -123,7 +123,28 @@
     "specific appropriation of tax proceeds": "The key trigger for Article 27's bar — the proceeds of the tax must be earmarked specifically for a particular religion's promotion or maintenance, as opposed to flowing into general State revenue that incidentally funds diverse purposes.",
     "religious instruction in State-funded institutions": "The subject of Article 28(1)'s bar — teaching of religious doctrine or practice, prohibited in any educational institution wholly maintained out of State funds.",
     "State-administered endowment institution exception": "The Article 28(2) carve-out permitting religious instruction to continue in an institution that is administered by the State but was established under a trust or endowment requiring such instruction.",
-    "consent for religious instruction or worship": "The Article 28(3) safeguard requiring the free consent of a student (or, if a minor, their guardian) before they can be required to participate in religious instruction or worship at a State-recognised or State-aided educational institution."
+    "consent for religious instruction or worship": "The Article 28(3) safeguard requiring the free consent of a student (or, if a minor, their guardian) before they can be required to participate in religious instruction or worship at a State-recognised or State-aided educational institution.",
+    "right to conserve distinct language script or culture": "The Article 29(1) guarantee allowing any section of citizens with a distinct language, script, or culture of its own to preserve that identity, available to any such group and not confined to numerically small or religious minorities.",
+    "denial of admission to educational institutions": "The specific discriminatory act barred by Article 29(2) — refusing a citizen admission to a State-maintained or State-aided educational institution on grounds only of religion, race, caste, or language.",
+    "religious or linguistic minority": "The right-holder category under Article 30(1) — a group defined by religion or by language — entitled to establish and administer educational institutions of its own choice, distinct from the broader 'any section of citizens' language of Article 29(1).",
+    "establish and administer educational institutions": "The twin Article 30(1) rights of a religious or linguistic minority — founding (establishing) an educational institution and thereafter running (administering) it according to its own choices, subject only to reasonable regulatory measures.",
+    "compulsory acquisition of minority institution property": "The subject of Article 30(1A) — State acquisition of property belonging to a minority-established educational institution, which the clause requires be compensated at a level that does not restrict or abrogate the Article 30(1) right.",
+    "non-discrimination in grant of aid": "The Article 30(2) guarantee barring the State from discriminating against an educational institution, in the grant of aid, merely because it is managed by a religious or linguistic minority.",
+    "saving of laws (Article 31A)": "The Article 31A mechanism immunising five specified categories of land-reform and corporate-management legislation from challenge under Articles 14 or 19, subject to a Presidential-assent proviso for State laws.",
+    "acquisition of estate": "The first category of law protected by Article 31A(1)(a) — State acquisition of any estate, or of rights therein, or the extinguishment or modification of such rights, immunised from Article 14/19 challenge.",
+    "taking over management of property": "The second category of law protected by Article 31A(1)(b) — temporary State takeover of the management of property, whether in the public interest or to secure the property's proper management.",
+    "amalgamation of corporations": "The third category of law protected by Article 31A(1)(c) — State-directed merger of two or more corporations, in the public interest or to secure proper management of any of them.",
+    "extinguishment of managing agents' rights": "The fourth category of law protected by Article 31A(1)(d) — extinguishing or modifying the rights of managing agents, secretaries and treasurers, managing directors, directors, or managers of corporations, or shareholders' voting rights.",
+    "mineral or mineral oil agreement rights": "The fifth category of law protected by Article 31A(1)(e) — extinguishing or modifying rights under, or prematurely terminating, an agreement, lease, or licence for searching for or winning any mineral or mineral oil.",
+    "personal cultivation ceiling proviso": "The second proviso to Article 31A(1), protecting a personal cultivator by requiring that acquisition of land within their statutory ceiling limit (or buildings/structures on it) be compensated at not less than market value.",
+    "estate (Article 31A definition)": "The Article 31A(2)(a) definition — bearing the local-law meaning of 'estate' in each area, and expressly including jagir/inam/muafi grants, janmam rights (Tamil Nadu and Kerala), ryotwari-settlement land, and agricultural or ancillary land including waste, forest, and pasture land.",
+    "rights (Article 31A definition)": "The Article 31A(2)(b) definition — including rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder, raiyat, under-raiyat, or other intermediary, and rights or privileges in respect of land revenue.",
+    "Ninth Schedule": "A schedule to the Constitution listing specific Acts and Regulations that Article 31B immunises from challenge on the ground of inconsistency with any Part III fundamental right, subject to the post-Kesavananda basic-structure qualification for post-1973 insertions (I.R. Coelho v. State of Tamil Nadu).",
+    "validation of Acts and Regulations": "The Article 31B mechanism retrospectively validating every Act and Regulation listed in the Ninth Schedule, overriding any contrary prior judicial decision, while leaving the enacting Legislature's ordinary power to repeal or amend the law intact.",
+    "without prejudice to Article 31A": "The opening phrase of Article 31B clarifying that its Ninth-Schedule-based validation operates in addition to, not in substitution for, Article 31A's separate category-based immunity for land-reform and corporate-management laws.",
+    "directive principles (Article 31C saving)": "The Part IV policies referenced in Article 31C — originally covering all Directive Principles, but confined after Minerva Mills v. Union of India (1980) to laws implementing Article 39(b) and (c) specifically for the purpose of Article 31C's protection from Article 14/19 challenge.",
+    "declaration of policy under Article 31C": "A law's own recital that it is enacted to give effect to Article 39(b)/(c) policy — intended by Article 31C's text to be non-justiciable, though courts retain power under Minerva Mills to verify a genuine nexus between the law and the stated directive principle.",
+    "reservation for Presidential consideration": "The process, referenced in the provisos to both Article 31A and Article 31C, by which a State Bill is reserved and submitted for the President's assent — a condition precedent for a State law to receive either article's protection."
   },
   "sections": [
     {
@@ -836,6 +857,151 @@
           "Consent under clause (3) must be free and can be withheld even after initial enrolment, protecting ongoing rather than merely one-time choice"
         ],
         "how_to_read": "When analysing a religious-instruction dispute in an educational institution, first classify the institution correctly among the three categories (wholly State-funded / State-administered-but-endowment-bound / merely recognised-or-aided) — the entire Article 28 analysis turns on this classification, and clause (3)'s consent requirement is the most commonly litigated limb in practice."
+      }
+    },
+    {
+      "number": "29",
+      "title": "Protection of interests of minorities",
+      "raw_text": "29. Protection of interests of minorities.—(1) Any section of the citizens residing in the territory of India or any part thereof having a distinct language, script or culture of its own shall have the right to conserve the same.\n(2) No citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them.",
+      "key_terms": [
+        "right to conserve distinct language script or culture",
+        "denial of admission to educational institutions"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 29 protects the cultural identity of any group of citizens — not just religious or linguistic 'minorities' in the numerical sense, but any section with a distinct language, script, or culture. Clause (1) gives them a right to conserve that identity. Clause (2) is a separate, individual-facing guarantee: no citizen (of any community, majority or minority) can be refused admission to a State-run or State-aided educational institution purely on grounds of religion, race, caste, or language.",
+        "essential_elements": [
+          "Clause (1): applies to any 'section of citizens', not exclusively religious or linguistic minorities — the group must have a distinct language, script, or culture of its own.",
+          "Clause (1): confers a right to conserve that language, script, or culture — protecting cultural continuity against forced assimilation.",
+          "Clause (2): protects the individual citizen, of any community, from denial of admission to a State-maintained or State-aided educational institution.",
+          "Clause (2)'s bar operates only where the denial rests on grounds only of religion, race, caste, or language (or a combination of only those grounds)."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (2) does not bar reasonable, non-discriminatory admission criteria (merit, reserved seats under Article 15(4)/(5)) — only denial resting solely on the listed grounds.",
+          "Article 29 is available to citizens; it does not, by its own text, restrict the special right of minorities to establish and administer their own institutions under Article 30 (a distinct right)."
+        ],
+        "how_to_read": "Read Article 29(1) as a group cultural-conservation right and 29(2) as an individual non-discrimination right in education — the two clauses protect different interests and are often pleaded together with Article 30 in minority-institution litigation."
+      }
+    },
+    {
+      "number": "30",
+      "title": "Right of minorities to establish and administer educational institutions",
+      "raw_text": "30. Right of minorities to establish and administer educational institutions.—(1) All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice.\n(1A) In making any law providing for the compulsory acquisition of any property of an educational institution established and administered by a minority, referred to in clause (1), the State shall ensure that the amount fixed by or determined under such law for the acquisition of such property is such as would not restrict or abrogate the right guaranteed under that clause.\n(2) The State shall not, in granting aid to educational institutions, discriminate against any educational institution on the ground that it is under the management of a minority, whether based on religion or language.",
+      "key_terms": [
+        "religious or linguistic minority",
+        "establish and administer educational institutions",
+        "compulsory acquisition of minority institution property",
+        "non-discrimination in grant of aid"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 30 is the cornerstone minority-rights provision on education: religious and linguistic minorities have a specific, independent right to found and run their own educational institutions. Clause (1A), inserted in 1978, protects that right from being hollowed out by inadequate compensation if the State compulsorily acquires the institution's property. Clause (2) requires the State to be even-handed when disbursing aid — it cannot discriminate against an institution merely because a minority manages it.",
+        "essential_elements": [
+          "Clause (1): the right-holder is a 'minority' defined by religion or language (not the broader 'any section of citizens' language of Article 29(1)).",
+          "Clause (1): the right covers both establishing (founding) and administering (running) educational institutions of the minority's choice.",
+          "Clause (1A): where the State compulsorily acquires such an institution's property, the compensation fixed must not restrict or abrogate the clause (1) right — inadequate compensation cannot be used to defeat the right indirectly.",
+          "Clause (2): bars discrimination in the grant of State aid to educational institutions on the ground of minority management."
+        ],
+        "exceptions_and_qualifications": [
+          "The right to administer is not a right to maladminister — reasonable regulatory measures ensuring educational standards, discipline, and accountability remain permissible even for minority institutions (judicially developed limitation).",
+          "Clause (1A) is confined to compulsory acquisition of property of minority educational institutions; it does not touch other forms of regulation.",
+          "Clause (2) prohibits discrimination in aid on the specific ground of minority management — it does not compel the State to grant aid to any institution in the first place."
+        ],
+        "how_to_read": "Treat Article 30(1) as creating a distinct, minority-specific institutional right layered on top of the general cultural right in Article 29(1) — and remember clause (1A) exists specifically to prevent compensation law from being used as a backdoor way to defeat clause (1)."
+      }
+    },
+    {
+      "number": "31",
+      "title": "[Compulsory acquisition of property.] Omitted",
+      "raw_text": "31. [Compulsory acquisition of property.]—Omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 6 (w.e.f. 20-6-1979).",
+      "key_terms": [
+        "omitted section"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 31, which originally guaranteed a fundamental right against compulsory acquisition of property without compensation, was omitted by the Constitution (Forty-fourth Amendment) Act, 1978, with effect from 20 June 1979 — the same reform that downgraded the right to property from Part III to the ordinary constitutional right under Article 300A.",
+        "essential_elements": [
+          "The article no longer exists in operative form; any reference to it in older case law or statutes should be read as historical."
+        ],
+        "exceptions_and_qualifications": [
+          "Superseded by Article 300A (right to property as a constitutional, non-fundamental right) inserted by the same 44th Amendment."
+        ],
+        "how_to_read": "Cross-refer to Article 300A for the modern property-right provision, and to Articles 31A-31C (which remain in force) for the surviving saving clauses on land-reform and directive-principle legislation that originally clustered around the old Article 31."
+      }
+    },
+    {
+      "number": "31A",
+      "title": "Saving of laws providing for acquisition of estates, etc.",
+      "raw_text": "31A. Saving of laws providing for acquisition of estates, etc.—(1) Notwithstanding anything contained in article 13, no law providing for—\n(a) the acquisition by the State of any estate or of any rights therein or the extinguishment or modification of any such rights, or\n(b) the taking over of the management of any property by the State for a limited period either in the public interest or in order to secure the proper management of the property, or\n(c) the amalgamation of two or more corporations either in the public interest or in order to secure the proper management of any of the corporations, or\n(d) the extinguishment or modification of any rights of managing agents, secretaries and treasurers, managing directors, directors or managers of corporations, or of any voting rights of shareholders thereof, or\n(e) the extinguishment or modification of any rights accruing by virtue of any agreement, lease or licence for the purpose of searching for, or winning, any mineral or mineral oil, or the premature termination or cancellation of any such agreement, lease or licence,\nshall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by article 14 or article 19:\nProvided that where such law is a law made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent:\nProvided further that where any law makes any provision for the acquisition by the State of any estate and where any land comprised therein is held by a person under his personal cultivation, it shall not be lawful for the State to acquire any portion of such land as is within the ceiling limit applicable to him under any law for the time being in force or any building or structure standing thereon or appurtenant thereto, unless the law relating to the acquisition of such land, building or structure, provides for payment of compensation at a rate which shall not be less than the market value thereof.\n(2) In this article,—\n(a) the expression \"estate\" shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area and shall also include—\n(i) any jagir, inam or muafi or other similar grant and in the States of Tamil Nadu and Kerala, any janmam right;\n(ii) any land held under ryotwari settlement;\n(iii) any land held or let for purposes of agriculture or for purposes ancillary thereto, including waste land, forest land, land for pasture or sites of buildings and other structures occupied by cultivators of land, agricultural labourers and village artisans;\n(b) the expression \"rights\", in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder, raiyat, under-raiyat or other intermediary and any rights or privileges in respect of land revenue.",
+      "key_terms": [
+        "saving of laws (Article 31A)",
+        "acquisition of estate",
+        "taking over management of property",
+        "amalgamation of corporations",
+        "extinguishment of managing agents' rights",
+        "mineral or mineral oil agreement rights",
+        "personal cultivation ceiling proviso",
+        "estate (Article 31A definition)",
+        "rights (Article 31A definition)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 31A immunises a specific, narrow class of land-reform and corporate-management laws from being struck down for conflicting with Articles 14 or 19. It was inserted early (by the First Amendment, 1951) to protect zamindari-abolition and estate-acquisition legislation from constitutional challenge, and was later extended to cover State takeovers of mismanaged property/corporations and mineral-lease terminations. A proviso requires State-legislature laws under this article to have received Presidential assent, and a further proviso protects small cultivators by requiring market-value compensation for land within their personal-cultivation ceiling.",
+        "essential_elements": [
+          "Opens with a non-obstante clause overriding Article 13, and immunises the listed categories of law from challenge under Article 14 or Article 19 specifically (not all of Part III).",
+          "Covers five categories of law: (a) acquisition of estates/rights therein, (b) temporary State takeover of property management, (c) amalgamation of corporations, (d) extinguishment of managing agents'/directors'/shareholders' rights, (e) extinguishment of mineral/mineral-oil agreement or lease rights.",
+          "First proviso: a State law under this article needs Presidential assent (reservation of the Bill) to attract the article's protection.",
+          "Second proviso: protects personal cultivators by requiring market-value compensation for acquisition of land within their statutory ceiling limit, or of buildings/structures on it.",
+          "Clause (2) supplies definitions of 'estate' (including jagir, inam, muafi, janmam rights, ryotwari land, and agricultural/ancillary land) and 'rights' (including proprietor, tenure-holder, raiyat, and land-revenue privileges) for the article's purposes."
+        ],
+        "exceptions_and_qualifications": [
+          "The immunity runs only against Articles 14 and 19 challenges — the original text also referenced Article 31, but that reference was substituted following Article 31's 1978 omission.",
+          "The State-legislature proviso is a condition precedent: without Presidential assent, a State enactment does not get Article 31A's protection even if it otherwise fits one of the five categories.",
+          "The personal-cultivation proviso is itself a protective carve-out within the saving clause, ensuring small cultivators still receive fair (market-value) compensation despite the general immunity."
+        ],
+        "how_to_read": "Read Article 31A as a category-based (not individual-law-based) shield for land-reform and corporate-management legislation — check first whether the law fits one of the five listed categories, then check the assent proviso if it is a State law, then check whether the personal-cultivation proviso's compensation requirement applies."
+      }
+    },
+    {
+      "number": "31B",
+      "title": "Validation of certain Acts and Regulations",
+      "raw_text": "31B. Validation of certain Acts and Regulations.—Without prejudice to the generality of the provisions contained in article 31A, none of the Acts and Regulations specified in the Ninth Schedule nor any of the provisions thereof shall be deemed to be void, or ever to have become void, on the ground that such Act, Regulation or provision is inconsistent with, or takes away or abridges any of the rights conferred by, any provisions of this Part, and notwithstanding any judgment, decree or order of any court or Tribunal to the contrary, each of the said Acts and Regulations shall, subject to the power of any competent Legislature to repeal or amend it, continue in force.",
+      "key_terms": [
+        "Ninth Schedule",
+        "validation of Acts and Regulations",
+        "without prejudice to Article 31A"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 31B goes further than Article 31A: it individually and retrospectively validates every Act and Regulation specifically listed in the Ninth Schedule, immunising them from challenge under any provision of Part III (not just Articles 14/19), and even overriding any earlier court judgment that had struck them down. It operates in addition to, not instead of, Article 31A's category-based protection.",
+        "essential_elements": [
+          "Protection is instrument-specific — an Act or Regulation must actually be listed in the Ninth Schedule to get Article 31B's immunity, unlike Article 31A's category-based test.",
+          "The immunity runs against 'any provisions of this Part' (all of Part III), a wider shield than Article 31A's Article 14/19-only protection.",
+          "The validation is retrospective and overrides contrary judicial decisions — a listed Act cannot be treated as having ever been void on Part III grounds.",
+          "The listed Legislature retains ordinary power to repeal or amend the protected Act or Regulation — the immunity is from judicial invalidation, not from legislative change."
+        ],
+        "exceptions_and_qualifications": [
+          "Judicially qualified by the basic structure doctrine (I.R. Coelho v. State of Tamil Nadu, 2007): Ninth Schedule insertions made after 24 April 1973 (the date of Kesavananda Bharati) remain open to challenge if they damage the basic structure, including the Part III rights test."
+        ],
+        "how_to_read": "Treat Article 31B as a blanket, list-based immunity for Ninth Schedule enactments, but always check the post-Kesavananda basic-structure qualification from I.R. Coelho before assuming an entry is beyond all judicial review."
+      }
+    },
+    {
+      "number": "31C",
+      "title": "Saving of laws giving effect to certain directive principles",
+      "raw_text": "31C. Saving of laws giving effect to certain directive principles.—Notwithstanding anything contained in article 13, no law giving effect to the policy of the State towards securing all or any of the principles laid down in Part IV shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by article 14 or article 19; and no law containing a declaration that it is for giving effect to such policy shall be called in question in any court on the ground that it does not give effect to such policy:\nProvided that where such law is made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent.",
+      "key_terms": [
+        "directive principles (Article 31C saving)",
+        "declaration of policy under Article 31C",
+        "reservation for Presidential consideration"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 31C protects laws genuinely enacted to implement the Directive Principles of State Policy (Part IV) from being struck down for conflicting with Articles 14 or 19. Its scope was originally wider (all Part III rights, and a bar on judicial review of the policy declaration itself for all directive principles) but the Supreme Court in Kesavananda Bharati and Minerva Mills struck down those broader portions as damaging the basic structure, leaving the article's protection confined to laws implementing Article 39(b)/(c) specifically, with judicial review of the genuine nexus between the law and the directive principle preserved.",
+        "essential_elements": [
+          "Non-obstante clause overriding Article 13, protecting laws implementing Part IV policy from invalidation on Article 14 or Article 19 grounds.",
+          "A law's own declaration that it gives effect to such policy is, on the article's text, meant to be non-justiciable as to whether it in fact does so — though courts retain the power to verify a genuine nexus exists (per Minerva Mills).",
+          "Proviso: a State law requires Presidential assent (reservation for consideration) to attract the article's protection, mirroring Article 31A's structure."
+        ],
+        "exceptions_and_qualifications": [
+          "Minerva Mills v. Union of India (1980) struck down the 42nd Amendment's attempt to extend Article 31C's protection to laws implementing any Directive Principle (not just Article 39(b)/(c)) and to laws impacting all Part III rights, holding that the balance between Parts III and IV is itself part of the basic structure.",
+          "Judicial review of whether a law genuinely and reasonably implements Article 39(b)/(c) survives — the bar on 'calling in question' the declaration does not oust courts from testing the real nexus."
+        ],
+        "how_to_read": "Read Article 31C today as a narrower, post-Minerva-Mills protection confined to laws implementing Article 39(b) and (c), not the full Directive Principles list the 42nd Amendment briefly attempted — and always check whether the law was reserved for Presidential assent if enacted by a State Legislature."
       }
     }
   ]
