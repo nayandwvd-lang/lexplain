@@ -184,7 +184,20 @@
     "monetary threshold for detention": "The minimum decretal amount below which Section 58(1A) forbids any order of civil-prison detention against a judgment-debtor for a money decree.",
     "release without discharge of debt": "The principle that a judgment-debtor's release from civil prison on expiry of the permitted detention period does not extinguish the underlying debt, though it does bar re-arrest under the same decree.",
     "release on medical grounds": "The set of powers under Section 59 permitting cancellation of an arrest warrant, or release from arrest or civil-prison detention, on account of a judgment-debtor's serious illness or, in the case of already-committed persons, infectious or contagious disease.",
-    "warrant cancellation for illness": "The court's power under Section 59(1) to cancel an arrest warrant issued against a judgment-debtor before it is executed, on the ground of the judgment-debtor's serious illness."
+    "warrant cancellation for illness": "The court's power under Section 59(1) to cancel an arrest warrant issued against a judgment-debtor before it is executed, on the ground of the judgment-debtor's serious illness.",
+    "attachable property": "The broad category of a judgment-debtor's movable and immovable saleable property, and property over which they hold a beneficial disposing power, that is liable to attachment and sale in execution of a decree under Section 60(1).",
+    "exemption from attachment": "The list of specific property categories under the proviso to Section 60(1) — such as basic necessities, tools of trade, certain wages and pensions, and insurance proceeds — that are protected from attachment or sale in execution of a decree.",
+    "attachable salary portion": "The fraction of a judgment-debtor's monthly salary that may be attached in execution — generally the first exempt slice plus one-third of the remainder attachable (two-thirds exempt) for ordinary decrees, with a larger attachable share for maintenance decrees.",
+    "waiver of exemption void": "The rule under Section 60(1A) that any agreement by which a person purports to give up in advance the benefit of an attachment exemption is legally void and unenforceable.",
+    "future maintenance right": "A person's right to receive maintenance payments in the future, which under Section 60(1)(n) cannot be attached or sold in execution of a decree because it has not yet accrued as property.",
+    "agricultural produce exemption order": "A general or special order that a State Government may publish in the Official Gazette under Section 61, exempting a specified portion of agricultural produce from attachment so that a farmer judgment-debtor can continue cultivation and support their family until the next harvest.",
+    "seizure of movable property safeguards": "The procedural protections under Section 62 governing how and when an officer executing process may enter a dwelling-house to seize movable property, including a night-time entry ban and special protection for women in purdah, mirroring the arrest safeguards in Section 55.",
+    "multiple-attachment priority rule": "The rule under Section 63 determining which of several courts that have attached the same property under different decrees gets to receive and realize that property and decide related claims — the highest-grade court, or, if equal in grade, whichever attached first.",
+    "Court of highest grade": "Among courts that have attached the same property under different decrees, the court occupying the superior position in the judicial hierarchy, which under Section 63 takes priority in receiving and realizing that property.",
+    "private alienation void": "The rule under Section 64 that any private transfer, delivery, or contrary payment concerning attached property made after attachment is void as against claims enforceable under that attachment.",
+    "pre-attachment registered contract exception": "The exception under Section 64(2) preserving a private transfer of attached property from being voided, where the transfer was made pursuant to a contract both entered into and registered before the attachment took place.",
+    "retroactive vesting of title": "The principle under Section 65 that a purchaser's ownership of immovable property bought at an execution sale is deemed to date back to the time of the sale itself, once the sale becomes absolute, rather than to the later confirmation date.",
+    "sale becoming absolute": "The point at which an execution sale of property is confirmed under the applicable procedural rules (typically after the period for filing objections has passed without success), after which the purchaser's title is treated as vesting from the original sale date."
   },
   "sections": [
     {
@@ -1590,6 +1603,131 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "A humane safety-valve running through the whole arrest-and-detention pipeline — useful to invoke at whichever stage the judgment-debtor's health becomes an issue, not just at the outset."
+      }
+    },
+    {
+      "number": "60",
+      "title": "Property liable to attachment and sale in execution of decree.",
+      "raw_text": "(1) The following property is liable to attachment and sale in execution of a decree, namely, lands, houses or other buildings, goods, money, bank-notes, cheques, bills of exchange, hundis, promissory notes, Government securities, bonds or other securities for money, debts, shares in a corporation and, save as hereinafter mentioned, all other saleable property, movable or immovable, belonging to the judgment-debtor, or over which, or the profits of which, he has a disposing power which he may exercise for his own benefit, whether the same be held in the name of the judgment-debtor or by another person in trust for him or on his behalf:\nProvided that the following particulars shall not be liable to such attachment or sale, namely:—\n(a) the necessary wearing-apparel, cooking vessels, beds and bedding of the judgment-debtor, his wife and children, and such personal ornaments as, in accordance with religious usage, cannot be parted with by any woman;\n(b) tools of artisans, and, where the judgment-debtor is an agriculturist, his implements of husbandry and such cattle and seed-grain as may, in the opinion of the Court, be necessary to enable him to earn his livelihood as such, and such portion of agricultural produce or of any class of agricultural produce as may have been declared to be free from liability under section 61;\n(c) houses and other buildings (with the materials and the sites thereof and the land immediately appurtenant thereto and necessary for their enjoyment) belonging to an agriculturist or a labourer or a domestic servant and occupied by him;\n(d) books of account;\n(e) a mere right to sue for damages;\n(f) any right of personal service;\n(g) stipends and gratuities allowed to pensioners of the Government or of a local authority or of any other employer, or payable out of any service family pension fund notified in the Official Gazette by the Central Government or the State Government in this behalf, and political pensions;\n(h) the wages of labourers and domestic servants, whether payable in money or in kind;\n(i) salary to the extent of the first one thousand rupees and two-third of the remainder in execution of any decree other than a decree for maintenance: Provided that where any part of such portion of the salary as is liable to attachment has been under attachment, whether continuously or intermittently, for a total period of twenty-four months, such portion shall be exempt from attachment until the expiry of a further period of twelve months, and, where such attachment has been made in execution of one and the same decree, shall, after the attachment has continued for a total period of twenty-four months, be finally exempt from attachment in execution of that decree;\n(ia) one-third of the salary in execution of any decree for maintenance;\n(j) the pay and allowances of persons to whom the Air Force Act, 1950, the Army Act, 1950, or the Navy Act, 1957, applies;\n(k) all compulsory deposits and other sums in or derived from any fund to which the Provident Funds Act, 1925, for the time being applies, in so far as they are declared by the said Act not to be liable to attachment;\n(ka) all deposits and other sums in or derived from any fund to which the Public Provident Fund Act, 1968, for the time being applies, in so far as they are declared by the said Act as not to be liable to attachment;\n(kb) all moneys payable under a policy of insurance on the life of the judgment-debtor;\n(kc) the interest of a lessee of a residential building to which the provisions of law for the time being in force relating to control of rents and accommodation apply;\n(l) any allowance forming part of the emoluments of any servant of the Government or of any servant of a railway company or local authority which the appropriate Government may by notification in the Official Gazette declare to be exempt from attachment, and any subsistence grant or allowance made to any such servant while under suspension;\n(m) an expectancy of succession by survivorship or other merely contingent or possible right or interest;\n(n) a right to future maintenance;\n(o) any allowance declared by any Indian law to be exempt from liability to attachment or sale in execution of a decree; and\n(p) where the judgment-debtor is a person liable for the payment of land-revenue, any movable property which, under any law for the time being applicable to him, is exempt from sale for the recovery of an arrear of such revenue.\nExplanation I.—The moneys payable in relation to the matters mentioned in clauses (g), (h), (i), (ia), (j), (l) and (o) are exempt from attachment or sale, whether before or after they are actually payable, and, in the case of salary, the attachable portion thereof is liable to attachment, whether before or after it is actually payable.\nExplanation II.—In clauses (i) and (ia), \"salary\" means the total monthly emoluments, excluding any allowance declared exempt from attachment under the provisions of clause (l), derived by a person from his employment whether on duty or on leave.\nExplanation III.—In clause (l) \"appropriate Government\" means: (i) as respects any person in the service of the Central Government, or any servant of a Railway Administration or of a cantonment authority or of the port authority of a major port, the Central Government; (iii) as respects any other servant of the Government or a servant of any other local authority, the State Government.\nExplanation IV.—For the purposes of this proviso, \"wages\" includes bonus, and \"labourer\" includes a skilled, unskilled or semi-skilled labourer.\nExplanation V.—For the purposes of this proviso, the expression \"agriculturist\" means a person who cultivates land personally and who depends for his livelihood mainly on the income from agricultural land, whether as owner, tenant, partner or agricultural labourer.\nExplanation VI.—For the purposes of Explanation V an agriculturist shall be deemed to cultivate land personally, if he cultivates land (a) by his own labour, or (b) by the labour of any member of his family, or (c) by servants or labourers on wages payable in cash or in kind (not being as a share of the produce), or both.\n(1A) Notwithstanding anything contained in any other law for the time being in force, an agreement by which a person agrees to waive the benefit of any exemption under this section shall be void.\n(2) Nothing in this section shall be deemed to exempt houses and other buildings (with the materials and the sites thereof and the lands immediately appurtenant thereto and necessary for their enjoyment) from attachment or sale in execution of decrees for rent of any such house, building, site or land.",
+      "key_terms": [
+        "attachable property",
+        "exemption from attachment",
+        "attachable salary portion",
+        "waiver of exemption void",
+        "future maintenance right"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 60 is the master list defining what property of a judgment-debtor can be seized and sold to satisfy a decree — essentially everything of value the debtor owns or can dispose of for their own benefit — and then carves out a long, deliberately protective list of exemptions covering basic necessities (clothing, cooking vessels, tools of trade), a portion of salary and wages, pensions, insurance proceeds, provident fund deposits, and other categories Parliament considered too essential to seize. Crucially, a debtor cannot contractually waive these protections in advance.",
+        "essential_elements": [
+          "Attachable property broadly covers all movable and immovable saleable property belonging to, or beneficially disposable by, the judgment-debtor.",
+          "The proviso lists specific exempt categories (a) through (p): basic necessities, tools of trade for agriculturists/artisans, certain dwellings, books of account, mere rights to sue, rights of personal service, pensions/gratuities, wages, a protected slice of salary, armed-forces pay, provident fund deposits, life insurance proceeds, protected tenancies, notified allowances, contingent/expectant interests, future maintenance rights, and other legally exempted allowances.",
+          "Salary is only partly attachable: the first slice plus two-thirds of the remainder is exempt (one-third exempt only, i.e. two-thirds attachable, for maintenance decrees), with a further tapering exemption once attachment has run for two years.",
+          "Sub-section (1A) voids any agreement by which a judgment-debtor purports to waive these exemptions in advance.",
+          "Sub-section (2) clarifies that the housing exemption in clause (c) does not protect against execution of a decree for rent on that very property."
+        ],
+        "exceptions_and_qualifications": [
+          "The exemptions are calibrated differently for maintenance decrees (only one-third of salary exempt, i.e. more is attachable) than for other decrees (larger exempt slice).",
+          "State Amendments (e.g., Kerala) can add further exempt categories to the clause (g)-style pension list."
+        ],
+        "how_to_read": "The single most consulted execution provision in practice — when resisting or planning an attachment, always check clause (a)-(p) first; the salary-attachment mechanics in clause (i)/(ia) plus Explanations I-II are a frequent litigation flashpoint in maintenance-decree enforcement."
+      }
+    },
+    {
+      "number": "61",
+      "title": "Partial exemption of agricultural produce.",
+      "raw_text": "The State Government may, by general or special order published in the Official Gazette, declare that such portion of agricultural produce, or of any class of agricultural produce, as may appear to the State Government to be necessary for the purpose of providing until the next harvest for the due cultivation of the land and for the support of the judgment-debtor and his family, shall, in the case of all agriculturists or of any class of agriculturists, be exempted from liability to attachment or sale in execution of a decree.",
+      "key_terms": [
+        "agricultural produce exemption order"
+      ],
+      "breakdown": {
+        "plain_summary": "The State Government can shield a portion of a farmer judgment-debtor's crop from attachment, specifically the amount needed to keep farming until the next harvest and to feed the family in the meantime, by issuing a Gazette order.",
+        "essential_elements": [
+          "Exemption is created only by a State Government order, general or special, published in the Official Gazette.",
+          "The exempted quantity is whatever the State Government considers necessary for continued cultivation and family support until the next harvest.",
+          "Can apply to all agriculturists or to a specified class of agriculturists."
+        ],
+        "exceptions_and_qualifications": [
+          "The exemption is not self-executing — it depends entirely on an actual Gazette notification being issued; absent one, Section 60(1)(b)'s cross-reference to this section has no separate operative content."
+        ],
+        "how_to_read": "Operates as a delegated-legislation supplement to Section 60(1)(b)'s agricultural-produce exemption; always check whether the relevant State has actually issued such an order before relying on it."
+      }
+    },
+    {
+      "number": "62",
+      "title": "Seizure of property in dwelling-house.",
+      "raw_text": "(1) No person executing any process under this Code directing or authorizing seizure of movable property shall enter any dwelling-house after sunset and before sunrise.\n(2) No outer door of a dwelling-house shall be broken open unless such dwelling-house is in the occupancy of the judgment-debtor and he refuses or in any way prevents access thereto, but when the person executing any such process has duly gained access to any dwelling-house, he may break open the door of any room in which he has reason to believe any such property to be.\n(3) Where a room in a dwelling-house is in the actual occupancy of a woman who, according to the customs of the country, does not appear in public, the person executing the process shall give notice to such woman that she is at liberty to withdraw; and, after allowing reasonable time for her to withdraw and giving her reasonable facility for withdrawing, he may enter such room for the purpose of seizing the property, using at the same time every precaution, consistent with these provisions, to prevent its clandestine removal.",
+      "key_terms": [
+        "seizure of movable property safeguards"
+      ],
+      "breakdown": {
+        "plain_summary": "This mirrors the dwelling-house entry safeguards for arrest (Section 55) but for seizing movable property in execution: no night-time entry, no breaking open doors except where the debtor refuses access, and special notice-and-withdrawal protection for women observing purdah.",
+        "essential_elements": [
+          "No entry into a dwelling-house between sunset and sunrise for the purpose of seizing movable property.",
+          "Outer doors may only be broken open where the judgment-debtor occupies the house and refuses or obstructs access; once access is gained, doors of rooms believed to contain the property may be broken open.",
+          "A woman in purdah occupying a room must be given notice and reasonable opportunity to withdraw before entry, with precautions taken against the property being clandestinely removed during the process."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A direct structural parallel to Section 55's arrest safeguards, applied instead to seizure of movable property — useful to cite together when challenging execution-process irregularities in the debtor's home."
+      }
+    },
+    {
+      "number": "63",
+      "title": "Property attached in execution of decrees of several Courts.",
+      "raw_text": "(1) Where property not in the custody of any Court is under attachment in execution of decrees of more Courts than one, the Court which shall receive or realize such property and shall determine any claim thereto and any objection to the attachment thereof shall be the Court of highest grade, or, where there is no difference in grade between such Courts, the Court under whose decree the property was first attached.\n(2) Nothing in this section shall be deemed to invalidate any proceeding taken by a Court executing one of such decrees.\nExplanation.—For the purposes of sub-section (2), \"proceeding taken by a Court\" does not include an order allowing, to a decree-holder who has purchased property at a sale held in execution of a decree, set off to the extent of the purchase price payable by him.",
+      "key_terms": [
+        "multiple-attachment priority rule",
+        "Court of highest grade"
+      ],
+      "breakdown": {
+        "plain_summary": "When the same property (not already in any court's custody) is attached by more than one court under different decrees, only one court gets to actually receive/realize the property and resolve claims and objections about it — the highest-grade court, or, if the courts are equal in grade, whichever court attached first.",
+        "essential_elements": [
+          "Applies only to property not already in the custody of any court.",
+          "Where multiple courts have attached the same property under different decrees, priority for receiving/realizing it and deciding related claims/objections goes to the highest-grade court.",
+          "If the attaching courts are of equal grade, priority goes to whichever court attached the property first.",
+          "Earlier proceedings taken by any of the executing courts remain valid despite this priority rule, except a set-off order in favour of a decree-holder who purchased property at auction, which is excluded from that protection."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A jurisdiction-traffic-control rule for multi-decree attachments — decisive in determining which court a claimant should approach when several courts have attached the same asset."
+      }
+    },
+    {
+      "number": "64",
+      "title": "Private alienation of property after attachment to be void.",
+      "raw_text": "(1) Where an attachment has been made, any private transfer or delivery of the property attached or of any interest therein and any payment to the judgment-debtor of any debt, dividend or other monies contrary to such attachment, shall be void as against all claims enforceable under the attachment.\n(2) Nothing in this section shall apply to any private transfer or delivery of the property attached or of any interest therein, made in pursuance of any contract for such transfer or delivery entered into and registered before the attachment.\nExplanation.—For the purpose of this section, claims enforceable under an attachment include claims for the rateable distribution of assets.",
+      "key_terms": [
+        "private alienation void",
+        "pre-attachment registered contract exception"
+      ],
+      "breakdown": {
+        "plain_summary": "Once property is attached, the judgment-debtor cannot secretly sell, transfer, or hand it over to someone else, nor can a third party pay the debtor money owed to them in a way that defeats the attachment — any such attempt is void against attachment claims. The one carve-out is a transfer made under a contract that was both entered into and registered before the attachment happened.",
+        "essential_elements": [
+          "Applies to private transfers or delivery of attached property (or any interest in it), and to payments of debts/dividends/monies to the judgment-debtor made contrary to the attachment.",
+          "Such transfers/payments are void as against all claims enforceable under the attachment, including claims for rateable distribution of assets.",
+          "Exception: a transfer made under a contract that was both entered into and registered before the attachment is unaffected."
+        ],
+        "exceptions_and_qualifications": [
+          "The registered-contract exception is narrow — it requires both execution and registration of the contract to predate the attachment, not merely an informal prior agreement."
+        ],
+        "how_to_read": "The anti-evasion backbone of the attachment regime — pair with Section 63's Explanation on rateable distribution and with Order XXI's attachment procedure when advising a decree-holder worried about the debtor dissipating assets."
+      }
+    },
+    {
+      "number": "65",
+      "title": "Purchaser's title.",
+      "raw_text": "Where immovable property is sold in execution of a decree and such sale has become absolute, the property shall be deemed to have vested in the purchaser from the time when the property is sold and not from the time when the sale becomes absolute.",
+      "key_terms": [
+        "retroactive vesting of title",
+        "sale becoming absolute"
+      ],
+      "breakdown": {
+        "plain_summary": "Once an execution sale of immovable property is confirmed (becomes absolute), the law treats the purchaser as having owned the property from the moment of the actual sale — not merely from the later date of confirmation — giving the purchaser's title retroactive effect back to the sale date.",
+        "essential_elements": [
+          "Applies to sales of immovable property in execution of a decree.",
+          "Operative only once the sale has become absolute (i.e., confirmed under the applicable execution rules).",
+          "Title is deemed to vest in the purchaser retroactively from the date of sale, not from the later date of confirmation."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Important for tracing title disputes and for computing limitation/possession periods in cases involving auction-purchased immovable property — the relevant date is the sale date, not the confirmation date."
       }
     }
   ]
