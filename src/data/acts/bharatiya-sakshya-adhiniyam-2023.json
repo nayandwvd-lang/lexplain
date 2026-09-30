@@ -38,7 +38,20 @@
     "electronic evidence certificate": "The signed certificate required by section 63(4) whenever electronic/digital 'computer output' is tendered in evidence. It must identify the electronic record and how it was produced, give particulars of the producing device, and address the reliability conditions in section 63(2) -- given to the best of the signer's knowledge and belief. Without it, computer output generally cannot be admitted through the section 63 route, making the certificate a practical precondition to admissibility, not a mere formality.",
     "attesting witness": "A person who has signed a document to testify that they witnessed its execution (e.g., its signing) by the person who made it. Under section 67, a document that the law requires to be attested (such as a will or a mortgage deed) generally cannot be used as evidence until at least one living, traceable, competent attesting witness has been called to prove its execution -- subject to the registered-document proviso and the fallback routes in sections 68-70 when no attesting witness is available or willing to confirm it.",
     "electronic signature": "A method of authenticating an electronic record, as defined under the Information Technology Act, 2000. Section 66 requires proof that an alleged electronic signature actually belongs to the person it is attributed to -- except where it is a 'secure electronic signature', which carries a stronger presumption and does not need this proof.",
-    "notice to produce": "A formal request by one party to the other, before or during trial, to produce a specified document for inspection or to be tendered in evidence. Under section 64, if a party who has such notice fails to produce the original document when called upon, the party who gave the notice may then prove its contents by secondary evidence -- unless one of the six listed exceptions applies (e.g., the document is itself meant to put the other side on notice, or is in the possession of a stranger, or its production would incriminate the holder)."
+    "notice to produce": "A formal request by one party to the other, before or during trial, to produce a specified document for inspection or to be tendered in evidence. Under section 64, if a party who has such notice fails to produce the original document when called upon, the party who gave the notice may then prove its contents by secondary evidence -- unless one of the six listed exceptions applies (e.g., the document is itself meant to put the other side on notice, or is in the possession of a stranger, or its production would incriminate the holder).",
+    "comparison of handwriting": "The process, under section 72, of checking a disputed signature, writing, seal, or finger impression against a sample admitted or proved to be genuine -- done by the Court itself, an expert, or a witness familiar with the handwriting.",
+    "digital signature": "A specific, technically defined category of electronic signature under the Information Technology Act, 2000 -- created using an asymmetric cryptosystem and hash function, and certified by a licensed Certifying Authority via a Digital Signature Certificate. Narrower than the general term \"electronic signature\".",
+    "public document": "Under section 74, a document forming the acts or records of acts of the sovereign authority, official bodies/tribunals, or legislative/judicial/executive public officers (Indian or foreign); or a public record keeping a private document. Gets special proof shortcuts under sections 75-78.",
+    "private document": "Any document that does not fall within section 74's definition of a public document -- proved through the ordinary primary/secondary evidence rules rather than the certified-copy shortcuts.",
+    "certified copy": "A copy of a public document issued under section 75 by the officer having its custody, bearing a dated certificate (signed, and sealed if applicable) confirming it is a true copy. Certified copies can be produced to prove the underlying document's contents under section 76.",
+    "proper custody": "Custody, for the purposes of sections 80, 81, 92, and 93, in the place where and with the person by whom a document is required to be kept -- though custody is not improper merely for departing from this if a legitimate origin is proved or made probable by the circumstances.",
+    "power-of-attorney": "An instrument authorising one person to act on behalf of another. Under section 84, one purporting to be executed before and authenticated by a Notary Public, Court, Judge, Magistrate, Indian Consul/Vice-Consul, or Central Government representative is presumed duly executed and authenticated.",
+    "secure electronic record": "An electronic record that has undergone a security procedure under the Information Technology Act, 2000 at a specific point in time -- a narrower, technically heightened category than an ordinary electronic record. Presumed unaltered since that point under section 86(1).",
+    "secure electronic signature": "An electronic signature that has undergone a security procedure under the Information Technology Act, 2000 -- a narrower category than an ordinary electronic signature. Presumed affixed by the subscriber with intent to sign/approve under section 86(2).",
+    "electronic signature certificate": "A certificate issued to a subscriber under the Information Technology Act, 2000 framework, listing identifying and technical information about the subscriber's electronic signature. Once accepted by the subscriber, its listed information (other than flagged unverified subscriber information) is presumed correct under section 87.",
+    "subscriber": "A person in whose name an Electronic Signature Certificate is issued, and who holds the corresponding private/signature key.",
+    "originator": "The person by whom, or on whose behalf, an electronic message is sent, and to whom section 90's presumption of transmission-correspondence (but not sender identity) attaches.",
+    "ancient document": "A colloquial term (not itself used in the Adhiniyam's text) for a document thirty years or older produced from proper custody, which under section 92 may be presumed to be in the handwriting it purports to be in and, if executed or attested, duly executed and attested."
   },
   "sections": [
     {
@@ -1510,6 +1523,390 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "A useful distinction to keep straight: attestation only matters procedurally when the law mandates it (section 67). Voluntary or incidental attestation on a document that the law doesn't require to be attested is legally surplus for proof purposes."
+      }
+    },
+    {
+      "number": "72",
+      "title": "Comparison of signature, writing or seal with others admitted or proved",
+      "raw_text": "72. (1) In order to ascertain whether a signature, writing or seal is that of the person by whom it purports to have been written or made, any signature, writing, or seal admitted or proved to the satisfaction of the Court to have been written or made by that person may be compared with the one which is to be proved, although that signature, writing or seal has not been produced or proved for any other purpose.\n(2) The Court may direct any person present in Court to write any words or figures for the purpose of enabling the Court to compare the words or figures so written with any words or figures alleged to have been written by such person.\n(3) This section applies also, with any necessary modifications, to finger impressions.",
+      "key_terms": [
+        "comparison of handwriting"
+      ],
+      "breakdown": {
+        "plain_summary": "Lets a disputed signature, handwriting, seal, or finger impression be checked against a genuine sample -- even if that genuine sample was never otherwise going to be produced in the case. The Court can also make someone write on the spot to get a fresh comparison sample.",
+        "essential_elements": [
+          "The genuine specimen must itself be admitted, or proved to the Court's satisfaction, to be that person's writing/signature/seal.",
+          "The disputed item is then compared against the genuine specimen -- by the Court, an expert (section 39), or a witness familiar with the handwriting (section 51).",
+          "Sub-section (2) lets the Court order a person present in Court to write specific words/figures then and there, purely to create a comparison sample.",
+          "Sub-section (3) extends the whole mechanism to finger impressions, not just signatures and writing."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a court-comparison power, distinct from an expert's opinion under section 39 -- the Court itself may compare, though in practice it will usually be assisted by an expert or a familiar witness. Getting someone to write in open court is a useful tool where no undisputed prior sample exists."
+      }
+    },
+    {
+      "number": "73",
+      "title": "Proof as to verification of digital signature",
+      "raw_text": "73. In order to ascertain whether a digital signature is that of the person by whom it purports to have been affixed, the Court may direct—\n(a) that person or the Controller or the Certifying Authority to produce the Digital Signature Certificate;\n(b) any other person to apply the public key listed in the Digital Signature Certificate and verify the digital signature purported to have been affixed by that person.",
+      "key_terms": [
+        "digital signature"
+      ],
+      "breakdown": {
+        "plain_summary": "The digital analogue of section 72 -- instead of visually comparing handwriting, the Court gets the Digital Signature Certificate produced and has someone apply the public key on it to cryptographically verify whether the digital signature checks out.",
+        "essential_elements": [
+          "Applies specifically to digital signatures (as distinct from broader \"electronic signatures\").",
+          "The Court may direct the alleged signer, the Controller, or the Certifying Authority to produce the Digital Signature Certificate.",
+          "The Court may direct any other person to apply the public key on that certificate to verify the signature."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Under the Information Technology Act, 2000 scheme, \"digital signature\" (asymmetric cryptosystem + hash function, certified by a licensed Certifying Authority) is a narrower, more specific category than the general \"electronic signature\". This section gives the Court a direct verification route for that specific, technically standardised category."
+      }
+    },
+    {
+      "number": "74",
+      "title": "Public and private documents",
+      "raw_text": "74. (1) The following documents are public documents:—\n(a) documents forming the acts, or records of the acts—\n(i) of the sovereign authority;\n(ii) of official bodies and tribunals; and\n(iii) of public officers, legislative, judicial and executive of India or of a foreign country;\n(b) public records kept in any State or Union territory of private documents.\n(2) All other documents except the documents referred to in sub-section (1) are private.",
+      "key_terms": [
+        "public document",
+        "private document"
+      ],
+      "breakdown": {
+        "plain_summary": "Sorts every document into one of two buckets: public documents (records of acts of government/official bodies/officers, or a public registry's record of a private document) or private documents (everything else). This classification matters because public documents get their own, easier proof route in the sections that follow.",
+        "essential_elements": [
+          "Public documents include: acts/records of the sovereign authority; acts/records of official bodies and tribunals; acts/records of legislative, judicial, and executive public officers, whether of India or a foreign country.",
+          "Public documents also include a public record (e.g. a Sub-Registrar's registry) that itself keeps a copy of a private document.",
+          "Everything not fitting sub-section (1) is private, by residual definition."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is purely a classification section -- it doesn't itself prescribe how to prove either category. Sections 75-77 give the proof machinery for public documents (certified copies etc.); private documents fall back on the ordinary primary/secondary evidence rules from Chapter V."
+      }
+    },
+    {
+      "number": "75",
+      "title": "Certified copies of public documents",
+      "raw_text": "75. Every public officer having the custody of a public document, which any person has a right to inspect, shall give that person on demand a copy of it on payment of the legal fees therefor, together with a certificate written at the foot of such copy that it is a true copy of such document or part thereof, as the case may be, and such certificate shall be dated and subscribed by such officer with his name and his official title, and shall be sealed, whenever such officer is authorised by law to make use of a seal; and such copies so certified shall be called certified copies.\nExplanation.—Any officer who, by the ordinary course of official duty, is authorised to deliver such copies, shall be deemed to have the custody of such documents within the meaning of this section.",
+      "key_terms": [
+        "certified copy"
+      ],
+      "breakdown": {
+        "plain_summary": "Creates the machinery for \"certified copies\": a custodian public officer must, on demand and payment of fees, hand over a copy of an inspectable public document with a dated, signed (and sealed, where applicable) certificate at the foot confirming it's a true copy.",
+        "essential_elements": [
+          "Applies only to public documents which the requester has a right to inspect.",
+          "The officer must supply the copy on demand and payment of legal fees.",
+          "The certificate must be at the foot of the copy, dated, and subscribed with the officer's name and official title, and sealed if the officer is authorised to use a seal.",
+          "A document satisfying these formalities is what the Adhiniyam calls a \"certified copy\"."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The Explanation widens \"custody\" so that an officer routinely tasked with issuing such copies counts as having custody, even if they aren't the document's original keeper -- important in large record offices where issuing copies is delegated to a specific desk/officer."
+      }
+    },
+    {
+      "number": "76",
+      "title": "Proof of documents by production of certified copies",
+      "raw_text": "76. Such certified copies may be produced in proof of the contents of the public documents or parts of the public documents of which they purport to be copies.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "The payoff of section 75: once you have a certified copy, you can simply produce it in court to prove the contents of the underlying public document -- no need to separately establish loss of the original or satisfy the ordinary secondary-evidence conditions.",
+        "essential_elements": [
+          "Only certified copies made under section 75 qualify for this shortcut.",
+          "The certified copy proves the contents of the public document (or the certified part of it) it purports to copy."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a standalone, self-sufficient proof route for public documents -- it operates independently of the general primary/secondary evidence hierarchy in sections 57-63."
+      }
+    },
+    {
+      "number": "77",
+      "title": "Proof of other official documents",
+      "raw_text": "77. The following public documents may be proved as follows:—\n(a) Acts, orders or notifications of the Central Government in any of its Ministries and Departments or of any State Government or any Department of any State Government or Union territory Administration—\n(i) by the records of the Departments, certified by the head of those Departments respectively; or\n(ii) by any document purporting to be printed by order of any such Government;\n(b) the proceedings of Parliament or a State Legislature, by the journals of those bodies respectively, or by published Acts or abstracts, or by copies purporting to be printed by order of the Government concerned;\n(c) proclamations, orders or Regulations issued by the President of India or the Governor of a State or the Administrator or Lieutenant Governor of a Union territory, by copies or extracts contained in the Official Gazette;\n(d) the Acts of the Executive or the proceedings of the Legislature of a foreign country, by journals published by their authority, or commonly received in that country as such, or by a copy certified under the seal of the country or sovereign, or by a recognition thereof in any Central Act;\n(e) the proceedings of a municipal or local body in a State, by a copy of such proceedings, certified by the legal keeper thereof, or by a printed book purporting to be published by the authority of such body;\n(f) public documents of any other class in a foreign country, by the original or by a copy certified by the legal keeper thereof, with a certificate under the seal of a Notary Public, or of an Indian Consul or diplomatic agent, that the copy is duly certified by the officer having the legal custody of the original, and upon proof of the character of the document according to the law of the foreign country.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Beyond the general certified-copy route of section 75-76, this section gives specific, ready-made proof methods for particular categories of official material -- government orders/notifications, legislative proceedings, gubernatorial/presidential proclamations, foreign government acts, municipal proceedings, and other foreign public documents.",
+        "essential_elements": [
+          "Government Acts/orders/notifications: departmental records certified by the department head, or a document purporting to be government-printed.",
+          "Legislative proceedings: journals of the House, published Acts/abstracts, or government-printed copies.",
+          "Presidential/Gubernatorial/Administrator proclamations, orders, Regulations: Official Gazette copies or extracts.",
+          "Foreign executive Acts/legislative proceedings: authoritative foreign journals, seal-certified copies, or recognition in a Central Act.",
+          "Municipal/local body proceedings: copies certified by the legal keeper, or a body-authorised printed book.",
+          "Other foreign public documents: original, or a copy certified by the foreign legal keeper plus a Notary Public/Indian Consul/diplomatic agent certificate, plus proof of the document's character under the foreign law."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read this as a menu of convenient, self-authenticating proof shortcuts for specific document types -- it supplements rather than replaces sections 75-76's general certified-copy mechanism for public documents that don't fit these specific categories."
+      }
+    },
+    {
+      "number": "78",
+      "title": "Presumption as to genuineness of certified copies",
+      "raw_text": "78. (1) The Court shall presume to be genuine every document purporting to be a certificate, certified copy or other document, which is by law declared to be admissible as evidence of any particular fact and which purports to be duly certified by any officer of the Central Government or of a State Government:\nProvided that such document is substantially in the form and purports to be executed in the manner directed by law in that behalf.\n(2) The Court shall also presume that any officer by whom any such document purports to be signed or certified, held, when he signed it, the official character which he claims in such paper.",
+      "key_terms": [
+        "shall presume"
+      ],
+      "breakdown": {
+        "plain_summary": "A mandatory presumption: a document that on its face is a certificate/certified copy/other document made admissible by law and purporting to be duly certified by a Central or State Government officer must be presumed genuine, provided it's substantially in the legally prescribed form and manner. The Court must also presume the certifying officer actually held the official position he claims.",
+        "essential_elements": [
+          "The document must purport to be a certificate, certified copy, or other document that some law declares admissible as evidence of a particular fact.",
+          "It must purport to be duly certified by a Central or State Government officer.",
+          "Proviso: it must be substantially in the form and manner directed by law -- a document wildly departing from the prescribed form loses the presumption.",
+          "Sub-section (2) separately presumes the certifying officer's claimed official character/capacity at the time of signing."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a \"shall presume\" (mandatory, though rebuttable) provision -- contrast with the \"may presume\" (discretionary) presumptions later in this cluster (e.g. sections 82-83, 88-90). The presumption of genuineness saves the proponent from separately proving the officer's signature and authority every time a certified copy is tendered."
+      }
+    },
+    {
+      "number": "79",
+      "title": "Presumption as to documents produced as record of evidence, etc.",
+      "raw_text": "79. Whenever any document is produced before any Court, purporting to be a record or memorandum of the evidence, or of any part of the evidence, given by a witness in a judicial proceeding or before any officer authorised by law to take such evidence or to be a statement or confession by any prisoner or accused person, taken in accordance with law, and purporting to be signed by any Judge or Magistrate, or by any such officer as aforesaid, the Court shall presume that—\n(i) the document is genuine;\n(ii) any statements as to the circumstances under which it was taken, purporting to be made by the person signing it, are true; and\n(iii) such evidence, statement or confession was duly taken.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Where a document purports to be a Judge's/Magistrate's/authorised officer's signed record of a witness's evidence, or a prisoner's/accused's statement or confession, the Court must presume three things at once: the record is genuine, any recital of the circumstances of recording is true, and the underlying evidence/statement/confession was duly (i.e. properly) taken.",
+        "essential_elements": [
+          "Applies to records/memoranda of evidence in a judicial proceeding or before a legally authorised officer, and to statements or confessions of a prisoner or accused.",
+          "The document must purport to be signed by a Judge, Magistrate, or the authorised officer who took it.",
+          "Three simultaneous presumptions follow: genuineness, truth of any recorded circumstances, and due/proper taking of the evidence or statement."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the presumption that gives a properly signed 164-statement-style record (recorded confession/statement, or a deposition) its evidentiary weight without the recording officer needing to separately prove every formality each time it's tendered -- though it remains rebuttable."
+      }
+    },
+    {
+      "number": "80",
+      "title": "Presumption as to Gazettes, newspapers, and other documents",
+      "raw_text": "80. The Court shall presume the genuineness of every document purporting to be the Official Gazette, or to be a newspaper or journal, and of every document purporting to be a document directed by any law to be kept by any person, if such document is kept substantially in the form required by law and is produced from proper custody.\nExplanation.—For the purposes of this section and section 92, document is said to be in proper custody if it is in the place in which, and looked after by the person with whom such document is required to be kept; but no custody is improper if it is proved to have had a legitimate origin, or if the circumstances of the particular case are such as to render that origin probable.",
+      "key_terms": [
+        "proper custody"
+      ],
+      "breakdown": {
+        "plain_summary": "Extends a genuineness presumption to the Official Gazette, newspapers/journals, and any document that some law requires a particular person to keep -- so long as it's kept substantially in the legally required form and comes from \"proper custody\" as defined in the Explanation.",
+        "essential_elements": [
+          "Covers three categories: the Official Gazette; newspapers/journals; and law-mandated kept documents.",
+          "The document must be substantially in the legally required form.",
+          "It must be produced from proper custody -- i.e. the place where, and with the person by whom, it is required to be kept.",
+          "The Explanation relaxes this: custody isn't improper merely because it deviates, so long as a legitimate origin is proved or is rendered probable by the circumstances."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "\"Proper custody\" as defined here is a recurring concept -- the Explanation is expressly incorporated by reference into section 92 (thirty-year-old documents) as well, so master the definition once and apply it in both places."
+      }
+    },
+    {
+      "number": "81",
+      "title": "Presumption as to Gazettes in electronic or digital record",
+      "raw_text": "81. The Court shall presume the genuineness of every electronic or digital record purporting to be the Official Gazette, or purporting to be electronic or digital record directed by any law to be kept by any person, if such electronic or digital record is kept substantially in the form required by law and is produced from proper custody.\nExplanation.—For the purposes of this section and section 93 electronic records are said to be in proper custody if they are in the place in which, and looked after by the person with whom such document is required to be kept; but no custody is improper if it is proved to have had a legitimate origin, or the circumstances of the particular case are such as to render that origin probable.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "The electronic/digital-record counterpart to section 80 -- an Official Gazette or law-mandated record kept in electronic or digital form gets the same genuineness presumption, on the same substantially-in-form-and-proper-custody conditions.",
+        "essential_elements": [
+          "Covers the Official Gazette and law-mandated records, specifically in electronic or digital record form.",
+          "Same two conditions as section 80: substantially the required form, and proper custody.",
+          "Its own Explanation on \"proper custody\" is expressly carried over into section 93 (five-year-old electronic records)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "BSA consistently pairs a paper-document presumption with a parallel electronic-record presumption (80/81, 92/93) rather than folding electronic records into the same section -- a structural pattern worth noticing across this Chapter."
+      }
+    },
+    {
+      "number": "82",
+      "title": "Presumption as to maps or plans made by authority of Government",
+      "raw_text": "82. The Court shall presume that maps or plans purporting to be made by the authority of the Central Government or any State Government were so made, and are accurate; but maps or plans made for the purposes of any cause must be proved to be accurate.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Maps/plans that purport to be made under Central or State Government authority are presumed both genuine and accurate. But a map/plan specially made for the purposes of the very case at hand doesn't get this free pass -- its accuracy must actually be proved.",
+        "essential_elements": [
+          "Presumption applies to maps/plans purporting to be made under Central/State Government authority.",
+          "Covers both genuineness (that it was so made) and accuracy.",
+          "Carve-out: maps/plans made specifically for the purposes of a cause (i.e. litigation-generated) must be proved accurate -- no presumption."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The litigation-generated-map carve-out guards against a party commissioning a self-serving map and then trying to claim an automatic accuracy presumption for it."
+      }
+    },
+    {
+      "number": "83",
+      "title": "Presumption as to collections of laws and reports of decisions",
+      "raw_text": "83. The Court shall presume the genuineness of, every book purporting to be printed or published under the authority of the Government of any country, and to contain any of the laws of that country, and of every book purporting to contain reports of decisions of the Courts of such country.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Law books and law reports that purport to be government-authorised (for the former) get a genuineness presumption -- useful for proving foreign law and foreign case law without separately authenticating every volume.",
+        "essential_elements": [
+          "Two categories: books purporting to be printed/published under a country's government authority and containing that country's laws; and books purporting to contain that country's court decisions.",
+          "Only genuineness is presumed here (unlike section 82's accuracy presumption for government maps)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is a practical tool in cases involving foreign law or comparative authority -- it removes the need to formally prove the authenticity of the statute book or law report itself before relying on its contents."
+      }
+    },
+    {
+      "number": "84",
+      "title": "Presumption as to powers-of-attorney",
+      "raw_text": "84. The Court shall presume that every document purporting to be a power-of-attorney, and to have been executed before, and authenticated by, a Notary Public, or any Court, Judge, Magistrate, Indian Consul or Vice-Consul, or representative of the Central Government, was so executed and authenticated.",
+      "key_terms": [
+        "power-of-attorney"
+      ],
+      "breakdown": {
+        "plain_summary": "A power-of-attorney that purports to have been executed before, and authenticated by, one of a specified list of authorities (Notary Public, Court, Judge, Magistrate, Indian Consul/Vice-Consul, or a Central Government representative) is presumed to have actually been so executed and authenticated.",
+        "essential_elements": [
+          "Applies only to documents purporting to be powers-of-attorney.",
+          "The authenticating authority must be one of the specified list -- Notary Public, Court, Judge, Magistrate, Indian Consul/Vice-Consul, or Central Government representative.",
+          "What's presumed is due execution and authentication, not the underlying content/authority granted by the instrument."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This presumption smooths the everyday use of powers-of-attorney (very common in property and commercial transactions) by removing the need to independently prove the formalities of execution before a listed authority."
+      }
+    },
+    {
+      "number": "85",
+      "title": "Presumption as to electronic agreements",
+      "raw_text": "85. The Court shall presume that every electronic record purporting to be an agreement containing the electronic or digital signature of the parties was so concluded by affixing the electronic or digital signature of the parties.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "An electronic record that purports to be an agreement bearing the parties' electronic/digital signatures is presumed to have actually been concluded by those parties affixing their signatures.",
+        "essential_elements": [
+          "The electronic record must purport to be an agreement containing the electronic or digital signature of the parties.",
+          "What's presumed: the agreement was concluded through the parties affixing their electronic/digital signatures."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the electronic-contracting counterpart to the presumption of due execution that attaches to a conventionally signed agreement -- it supports the enforceability of e-contracts and click-wrap/digitally-signed agreements."
+      }
+    },
+    {
+      "number": "86",
+      "title": "Presumption as to electronic records and electronic signatures",
+      "raw_text": "86. (1) In any proceeding involving a secure electronic record, the Court shall presume unless contrary is proved, that the secure electronic record has not been altered since the specific point of time to which the secure status relates.\n(2) In any proceeding, involving secure electronic signature, the Court shall presume unless the contrary is proved that—\n(a) the secure electronic signature is affixed by subscriber with the intention of signing or approving the electronic record;\n(b) except in the case of a secure electronic record or a secure electronic signature, nothing in this section shall create any presumption, relating to authenticity and integrity of the electronic record or any electronic signature.",
+      "key_terms": [
+        "secure electronic record",
+        "secure electronic signature"
+      ],
+      "breakdown": {
+        "plain_summary": "Confers strong, though rebuttable, presumptions specifically on \"secure\" electronic records and \"secure\" electronic signatures (as opposed to ordinary electronic records/signatures): a secure record is presumed unaltered since it attained secure status, and a secure signature is presumed affixed by the subscriber with intent to sign/approve. Clause (b) is a clarifying carve-out that this special presumption doesn't extend to ordinary (non-secure) electronic records or signatures.",
+        "essential_elements": [
+          "Sub-section (1): applies only to a \"secure electronic record\" -- presumed unaltered since the point in time its secure status attached, unless the contrary is proved.",
+          "Sub-section (2)(a): applies only to a \"secure electronic signature\" -- presumed affixed by the subscriber with intent to sign/approve, unless the contrary is proved.",
+          "Sub-section (2)(b): no equivalent presumption of authenticity/integrity arises for electronic records or signatures that are not \"secure\" in the technical sense."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "\"Secure electronic record\" and \"secure electronic signature\" are technical terms of art from the Information Technology Act, 2000 framework (tied to specific security procedures), distinct from an ordinary electronic signature under section 66-67. Don't assume every digitally signed document is automatically \"secure\" in this heightened sense."
+      }
+    },
+    {
+      "number": "87",
+      "title": "Presumption as to Electronic Signature Certificates",
+      "raw_text": "87. The Court shall presume, unless contrary is proved, that the information listed in an Electronic Signature Certificate is correct, except for information specified as subscriber information which has not been verified, if the certificate was accepted by the subscriber.",
+      "key_terms": [
+        "electronic signature certificate",
+        "subscriber"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a subscriber has accepted an Electronic Signature Certificate, the Court presumes the information listed on it is correct -- except for any information flagged on the certificate itself as unverified subscriber information, which gets no such presumption.",
+        "essential_elements": [
+          "Precondition: the certificate must have been accepted by the subscriber.",
+          "General rule: information listed on the certificate is presumed correct, rebuttably.",
+          "Carve-out: information specifically marked as unverified subscriber information is excluded from the presumption."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This presumption is what makes Electronic Signature Certificates practically usable in court -- without it, every detail on the certificate would need independent proof each time."
+      }
+    },
+    {
+      "number": "88",
+      "title": "Presumption as to certified copies of foreign judicial records",
+      "raw_text": "88. (1) The Court may presume that any document purporting to be a certified copy of any judicial record of any country beyond India is genuine and accurate, if the document purports to be certified in any manner which is certified by any representative of the Central Government in or for such country to be the manner commonly in use in that country for the certification of copies of judicial records.\n(2) An officer who, with respect to any territory or place outside India is a Political Agent therefor, as defined in clause (43) of section 3 of the General Clauses Act, 1897, shall, for the purposes of this section, be deemed to be a representative of the Central Government in and for the country comprising that territory or place.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A discretionary (\"may presume\") presumption of genuineness and accuracy for certified copies of foreign judicial records, provided the certification method is itself certified by a Central Government representative in that country as the commonly used method there.",
+        "essential_elements": [
+          "Applies to certified copies of judicial records of a country outside India.",
+          "The certification manner must itself be certified, by a Central Government representative in/for that country, as the manner commonly in use there.",
+          "Discretionary presumption (\"may presume\") -- the Court is not bound to presume, unlike section 78's \"shall presume\".",
+          "Sub-section (2) deems a Political Agent (as defined in the General Clauses Act, 1897) to be such a Central Government representative for this purpose."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the deliberate shift from \"shall presume\" (sections 78-81, mandatory) to \"may presume\" (this section onward through 90) -- foreign-sourced documents get a more cautious, discretionary treatment than domestic government-certified ones."
+      }
+    },
+    {
+      "number": "89",
+      "title": "Presumption as to books, maps and charts",
+      "raw_text": "89. The Court may presume that any book to which it may refer for information on matters of public or general interest, and that any published map or chart, the statements of which are relevant facts, and which is produced for its inspection, was written and published by the person, and at the time and place, by whom or at which it purports to have been written or published.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A discretionary presumption covering reference books on matters of public/general interest, and published maps/charts whose statements are relevant -- the Court may presume they were written/published by the person, and at the time and place, they purport to have been.",
+        "essential_elements": [
+          "Two categories: (a) books the Court may refer to for information on matters of public or general interest; (b) published maps/charts whose statements are relevant facts.",
+          "The book/map/chart must be produced for the Court's inspection.",
+          "The presumption covers authorship/publication attribution -- who published it, and when and where."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This overlaps functionally with judicial notice (section 52) for well-known reference works, but operates as a document-specific evidentiary presumption rather than dispensing with proof altogether."
+      }
+    },
+    {
+      "number": "90",
+      "title": "Presumption as to electronic messages",
+      "raw_text": "90. The Court may presume that an electronic message, forwarded by the originator through an electronic mail server to the addressee to whom the message purports to be addressed corresponds with the message as fed into his computer for transmission; but the Court shall not make any presumption as to the person by whom such message was sent.",
+      "key_terms": [
+        "originator"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court may presume that an email, as received by the addressee, matches what the originator actually typed/fed into the computer for sending -- but this presumption stops at message-integrity; it does not extend to who actually sent it.",
+        "essential_elements": [
+          "Applies to an electronic message forwarded by the originator through a mail server to the addressee it purports to be addressed to.",
+          "Presumption covers only correspondence between the sent version and the received version (transmission integrity).",
+          "Express bar: no presumption arises as to the identity of the person who actually sent the message."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The identity carve-out is deliberate and important -- email accounts can be spoofed, shared, or compromised, so BSA declines to presume that the named originator was the actual human who sent it; that must be independently proved."
+      }
+    },
+    {
+      "number": "91",
+      "title": "Presumption as to due execution, etc., of documents not produced",
+      "raw_text": "91. The Court shall presume that every document, called for and not produced after notice to produce, was attested, stamped and executed in the manner required by law.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "If a party is given notice to produce a document (the section 64 mechanism) and fails to produce it, the Court must presume that the document -- whatever it said -- was properly attested, stamped, and executed as the law requires.",
+        "essential_elements": [
+          "Applies where a document was called for (i.e. notice to produce was given) and not produced.",
+          "Mandatory presumption (\"shall presume\") of due attestation, stamping, and execution."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a penalty-style presumption against the non-producing party -- it works alongside section 64 (notice to produce triggering secondary evidence) and section 167 (barring later use of a document whose production was earlier refused), together discouraging strategic withholding of documents."
+      }
+    },
+    {
+      "number": "92",
+      "title": "Presumption as to documents thirty years old",
+      "raw_text": "92. Where any document, purporting or proved to be thirty years old, is produced from any custody which the Court in the particular case considers proper, the Court may presume that the signature and every other part of such document, which purports to be in the handwriting of any particular person, is in that person's handwriting, and, in the case of a document executed or attested, that it was duly executed and attested by the persons by whom it purports to be executed and attested.\nExplanation.—The Explanation to section 80 shall also apply to this section.\nIllustrations.\n(a) A has been in possession of landed property for a long time. He produces from his custody deeds relating to the land showing his titles to it. The custody shall be proper.\n(b) A produces deeds relating to landed property of which he is the mortgagee. The mortgagor is in possession. The custody shall be proper.\n(c) A, a connection of B, produces deeds relating to lands in B's possession, which were deposited with him by B for safe custody. The custody shall be proper.",
+      "key_terms": [
+        "ancient document"
+      ],
+      "breakdown": {
+        "plain_summary": "The classic \"thirty-year-old document\" presumption: a document that is (or purports to be) thirty years old, produced from custody the Court considers proper in the circumstances, may be presumed to be in the handwriting it purports to be in, and, if it purports to be executed/attested, to have been duly executed and attested.",
+        "essential_elements": [
+          "The document must purport, or be proved, to be thirty years old.",
+          "It must be produced from custody the Court considers proper in the particular case -- \"proper custody\" borrows section 80's Explanation.",
+          "Presumption covers handwriting attribution and, for executed/attested documents, due execution and attestation.",
+          "Discretionary (\"may presume\"), not mandatory.",
+          "The Illustrations show \"proper custody\" is interpreted flexibly -- a title-holder's own possession, a mortgagee's possession while the mortgagor holds the land, or a relative's safe-custody holding, are all proper."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This presumption is a major practical tool in title/property litigation involving old deeds where the original executants and attesting witnesses are long dead and direct proof of execution is impossible -- age plus proper custody substitutes for that proof."
+      }
+    },
+    {
+      "number": "93",
+      "title": "Presumption as to electronic records five years old",
+      "raw_text": "93. Where any electronic record, purporting or proved to be five years old, is produced from any custody which the Court in the particular case considers proper, the Court may presume that the electronic signature which purports to be the electronic signature of any particular person was so affixed by him or any person authorised by him in this behalf.\nExplanation.—The Explanation to section 81 shall also apply to this section.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "The electronic-record counterpart to section 92's thirty-year presumption, but with a much shorter threshold (five years) reflecting how quickly electronic records age and turn over -- an electronic signature on a five-year-old record from proper custody may be presumed affixed by the person it purports to be, or someone they authorised.",
+        "essential_elements": [
+          "The electronic record must purport, or be proved, to be five years old.",
+          "It must be produced from custody the Court considers proper -- borrowing section 81's proper-custody Explanation.",
+          "Presumption covers the electronic signature's attribution to the purported signer or their authorised delegate.",
+          "Discretionary (\"may presume\")."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the much shorter five-year threshold compared to section 92's thirty years -- a deliberate recognition that electronic records and their custodial systems don't have the same multi-generational lifespan as paper deeds."
       }
     }
   ]
