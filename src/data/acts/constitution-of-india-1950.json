@@ -452,7 +452,20 @@
     "Parliament's law-making power for NJAC procedure (inoperative)": "The Article 124C power that would have let Parliament legislate the NJAC's detailed appointment procedure and authorise the NJAC to frame its own regulations, exercised via the National Judicial Appointments Commission Act, 2014 — struck down together with Article 124A-124C in 2015 and no longer in legal force.",
     "salaries of Supreme Court Judges": "The Article 125(1) rule that Supreme Court Judges' salaries are fixed by Parliament by law, defaulting to the Second Schedule figures absent such law.",
     "Second Schedule default (Judges' salaries)": "The Article 125(1)-(2) fallback mechanism under which, absent a Parliamentary law fixing salaries, privileges, allowances, leave, or pension for Supreme Court Judges, the Second Schedule's specified figures apply by default — the same drafting pattern used for the President, Ministers, and presiding officers.",
-    "non-disadvantageous variation rule (Judges' privileges)": "The proviso to Article 125(2), guaranteeing that a Supreme Court Judge's privileges, allowances, leave-of-absence rights, and pension rights can never be varied to his disadvantage after his appointment — a structural financial-independence safeguard against retaliatory pay or benefit cuts."
+    "non-disadvantageous variation rule (Judges' privileges)": "The proviso to Article 125(2), guaranteeing that a Supreme Court Judge's privileges, allowances, leave-of-absence rights, and pension rights can never be varied to his disadvantage after his appointment — a structural financial-independence safeguard against retaliatory pay or benefit cuts.",
+    "acting Chief Justice of India": "The Article 126 mechanism by which the President appoints one of the other Supreme Court Judges to perform the Chief Justice of India's duties during an actual vacancy in that office or the sitting CJI's temporary inability to perform duties — conventionally the senior-most puisne Judge, though the text leaves the choice to Presidential discretion.",
+    "ad hoc Judge (Supreme Court)": "A High Court Judge duly qualified for Supreme Court appointment, temporarily designated under Article 127 to sit with full Supreme Court jurisdiction and powers when the Court lacks a quorum of its own Judges to hold or continue a session.",
+    "quorum shortage trigger for ad hoc appointment": "The Article 127(1) precondition for appointing an ad hoc Judge — an actual absence of the quorum of Supreme Court Judges needed to hold or continue any session of the Court.",
+    "retired Judge recalled to sit (Supreme Court)": "A retired Supreme Court Judge, retired Federal Court Judge, or retired/qualified High Court Judge specially requested under Article 128 to sit and act as a Supreme Court Judge, exercising full jurisdiction and privileges during that engagement without becoming a permanent Judge of the Court.",
+    "consent requirement for recalled retired Judge": "The proviso to Article 128 making a retired Judge's own consent mandatory before he can be required to sit and act as a recalled Supreme Court Judge — the recall cannot be compelled.",
+    "Supreme Court as a court of record": "The first limb of Article 129, designating the Supreme Court a court of record whose proceedings and judgments carry perpetual, unimpeachable evidentiary status when produced elsewhere — a status mirrored for High Courts under Article 215.",
+    "contempt power (Supreme Court)": "The second limb of Article 129, granting the Supreme Court a direct constitutional (not merely statutory) power to punish for contempt of itself, protecting the Court's dignity, authority, and the due administration of justice, supplemented but not created by the Contempt of Courts Act, 1971.",
+    "seat of the Supreme Court": "The Article 130 designation of Delhi as the Supreme Court's default sitting location, subject to the Chief Justice of India's power, with Presidential approval, to appoint other places from time to time — a provision underlying ongoing but unimplemented regional-bench proposals.",
+    "Chief Justice's power to appoint alternate sitting places": "The Article 130 power vested in the Chief Justice of India, exercisable only with the President's approval, to designate places other than Delhi where the Supreme Court may sit from time to time.",
+    "original jurisdiction of the Supreme Court": "The Article 131 grant of exclusive first-instance jurisdiction to the Supreme Court over genuinely federal disputes — Centre v. State(s), Centre-with-States v. other States, and State v. State — where the dispute turns on the existence or extent of a legal right.",
+    "exclusive federal-dispute jurisdiction": "The Article 131 rule that no court other than the Supreme Court may entertain a qualifying Centre-State or inter-State legal-right dispute — this jurisdiction is exclusive from the outset, not merely appellate.",
+    "legal-right-dependent dispute requirement": "The Article 131 threshold requirement confining original jurisdiction to disputes involving a question of law or fact on which the existence or extent of a legal right depends, excluding purely political or policy disagreements between governments.",
+    "pre-Constitution treaty/instrument exclusion": "The proviso to Article 131 excluding from Supreme Court original jurisdiction any dispute arising from a treaty, agreement, covenant, engagement, sanad, or similar instrument executed before the Constitution's commencement and still in operation, or which itself excludes this jurisdiction — a legacy carve-out from the princely-state integration era."
   },
   "sections": [
     {
@@ -3689,6 +3702,137 @@
           "This financial-security structure mirrors the identical Second-Schedule-default-plus-law pattern used for other high constitutional offices, reinforcing a consistent constitutional design choice across the President, Ministers, presiding officers, and now the Judges"
         ],
         "how_to_read": "Focus on the proviso's non-disadvantage guarantee as the practitioner-relevant protection — it is the textual anchor for judicial financial independence, distinguishing sitting Judges' locked-in terms from any general downward revision Parliament might later make to the salary/allowance scale."
+      }
+    },
+    {
+      "number": "126",
+      "title": "Appointment of acting Chief Justice",
+      "raw_text": "When the office of Chief Justice of India is vacant or when the Chief Justice is, by reason of absence or otherwise, unable to perform the duties of his office, the duties of the office shall be performed by such one of the other Judges of the Court as the President may appoint for the purpose.",
+      "key_terms": [
+        "acting Chief Justice of India"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 126 ensures the Chief Justice of India's office never goes unattended — whether the post is genuinely vacant (e.g., between a CJI's retirement and the successor's appointment) or the sitting CJI is merely temporarily unable to function (absence, illness, etc.), the President appoints one of the other Supreme Court Judges to perform the CJI's duties in an acting capacity. In practice, by settled convention (not textual compulsion), the senior-most puisne Judge is appointed acting CJI, mirroring the seniority convention generally followed for the substantive CJI appointment itself.",
+        "essential_elements": [
+          "The trigger is either an actual vacancy in the CJI's office or the sitting CJI's temporary inability to perform duties (absence or otherwise)",
+          "The President appoints one of the other sitting Supreme Court Judges to perform the CJI's duties during that period"
+        ],
+        "exceptions_and_qualifications": [
+          "The article itself gives the President unstructured discretion in choosing which Judge to appoint — the near-universal practice of appointing the senior-most Judge is a constitutional convention, not a textual requirement of this article"
+        ],
+        "how_to_read": "A short, purely administrative continuity provision — the key fact is that it covers both true vacancy and mere temporary inability, and that the choice of acting CJI is textually open but conventionally seniority-based."
+      }
+    },
+    {
+      "number": "127",
+      "title": "Appointment of ad hoc Judges",
+      "raw_text": "(1) If at any time there should not be a quorum of the Judges of the Supreme Court available to hold or continue any session of the Court, the National Judicial Appointments Commission on a reference made to it by the Chief Justice of India, may with the previous consent of the President and after consultation with the Chief Justice of the High Court concerned, request in writing the attendance at the sittings of the Court, as an ad hoc Judge, for such period as may be necessary, of a Judge of a High Court duly qualified for appointment as a Judge of the Supreme Court to be designated by the Chief Justice of India. (2) It shall be the duty of the Judge who has been so designated, in priority to other duties of his office, to attend the sittings of the Supreme Court at the time and for the period for which his attendance is required, and while so attending he shall have all the jurisdiction, powers and privileges, and shall discharge the duties, of a Judge of the Supreme Court.",
+      "key_terms": [
+        "ad hoc Judge (Supreme Court)",
+        "quorum shortage trigger for ad hoc appointment"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 127 is a rarely-used stop-gap mechanism for the unusual situation where the Supreme Court cannot muster enough Judges to sit at all — a High Court Judge duly qualified for Supreme Court appointment can be temporarily drafted in as an 'ad hoc Judge' to fill the gap, with full Supreme Court jurisdiction and powers while sitting. Note that the article's text still refers to the National Judicial Appointments Commission, which was struck down in 2015 (see Article 124A) — in current practice, this function would be exercised through the collegium mechanism the CJI leads, since no NJAC exists to make the reference described here.",
+        "essential_elements": [
+          "The trigger is an actual absence of quorum among sitting Supreme Court Judges needed to hold or continue a session",
+          "A duly qualified High Court Judge is designated by the Chief Justice of India and requested (with Presidential consent and consultation with the concerned High Court's Chief Justice) to attend as an ad hoc Judge for the necessary period",
+          "While attending, the designated Judge has the full jurisdiction, powers, privileges, and duties of a regular Supreme Court Judge, and must prioritise this attendance over his other High Court duties"
+        ],
+        "exceptions_and_qualifications": [
+          "The article's reference to the National Judicial Appointments Commission is a textual relic of the 2014 amendment that was struck down in 2015 — since the NJAC does not currently exist as a functioning body, this power in practice would need to be exercised through whatever appointment mechanism (the collegium) currently operates, an unresolved textual-practical gap",
+          "This mechanism has historically been used only rarely, since Supreme Court quorum shortages of the kind contemplated are uncommon given the Court's now much-enlarged sanctioned strength (33 Judges beyond the CJI)"
+        ],
+        "how_to_read": "Treat this as an emergency quorum-filling device, but flag the NJAC textual reference as outdated in light of the 2015 judgment discussed under Article 124A — the mechanism's practical operating authority today would need to route through the collegium instead."
+      }
+    },
+    {
+      "number": "128",
+      "title": "Attendance of retired Judges at sittings of the Supreme Court",
+      "raw_text": "Notwithstanding anything in this Chapter, the National Judicial Appointments Commission may at any time, with the previous consent of the President, request any person who has held the office of a Judge of the Supreme Court or of the Federal Court or who has held the office of a Judge of a High Court and is duly qualified for appointment as a Judge of the Supreme Court to sit and act as a Judge of the Supreme Court, and every such person so requested shall, while so sitting and acting, be entitled to such allowances as the President may by order determine and have all the jurisdiction, powers and privileges of, but shall not otherwise be deemed to be, a Judge of that Court: Provided that nothing in this article shall be deemed to require any such person as aforesaid to sit and act as a Judge of that Court unless he consents so to do.",
+      "key_terms": [
+        "retired Judge recalled to sit (Supreme Court)",
+        "consent requirement for recalled retired Judge"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 128 allows a retired Supreme Court Judge, a retired Federal Court Judge (a pre-Constitution transitional category), or a retired/qualified High Court Judge to be specially recalled to sit and act as a Supreme Court Judge, drawing on the deep bench of judicial experience among retirees. While sitting under this recall, the person exercises full Supreme Court jurisdiction and privileges — but is not thereby 'deemed to be' a permanent Judge of the Court, and critically, cannot be compelled to accept the recall; the proviso makes consent mandatory. As with Article 127, the text's reference to the National Judicial Appointments Commission is now a relic of the struck-down 2014 scheme.",
+        "essential_elements": [
+          "Eligible recall candidates are retired Supreme Court Judges, retired Federal Court Judges, or retired/otherwise-qualified High Court Judges",
+          "The recall requires the President's previous consent, and the recalled Judge receives Presidentially-determined allowances while sitting",
+          "While sitting under recall, the person has full Supreme Court jurisdiction, powers, and privileges, but is not thereby deemed a permanent Judge of the Court",
+          "The recalled person's own consent is mandatory — nothing in the article compels attendance without it"
+        ],
+        "exceptions_and_qualifications": [
+          "Like Article 127, this article's reference to the National Judicial Appointments Commission reflects the struck-down 2014-2015 scheme and would need to be read today as operating through the collegium or whatever body currently exercises equivalent authority",
+          "The 'not otherwise deemed to be a Judge' language confines the recall strictly to the sitting/acting period — it creates no ongoing or permanent judicial status beyond that specific engagement"
+        ],
+        "how_to_read": "Key practitioner distinction from Article 127: this covers retired Judges (Supreme Court, Federal Court, or High Court) rather than sitting High Court Judges, and uniquely requires the recalled individual's own consent as an express proviso — a safeguard against compelled post-retirement service."
+      }
+    },
+    {
+      "number": "129",
+      "title": "Supreme Court to be a court of record",
+      "raw_text": "The Supreme Court shall be a court of record and shall have all the powers of such a court including the power to punish for contempt of itself.",
+      "key_terms": [
+        "Supreme Court as a court of record",
+        "contempt power (Supreme Court)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 129 confers two related but distinct attributes on the Supreme Court: first, being a 'court of record' means its proceedings and judgments are recorded for perpetual memory and its records carry evidentiary weight that cannot be questioned when produced elsewhere; second, and separately highlighted, the Court has the power to punish for contempt of itself — protecting the dignity and authority of the institution and the due administration of justice from actions that scandalise the Court, obstruct its process, or wilfully disobey its orders. This contempt power is a direct constitutional grant, not merely a statutory one (the Contempt of Courts Act, 1971 supplements but does not create it).",
+        "essential_elements": [
+          "The Supreme Court is constitutionally designated a court of record, giving its records unimpeachable evidentiary status",
+          "The Court possesses inherent power to punish for contempt of itself, sourced directly in this constitutional provision rather than solely in ordinary legislation"
+        ],
+        "exceptions_and_qualifications": [
+          "The contempt power under this article is available for contempt 'of itself' — the Supreme Court's own dignity and process — and operates alongside (not merely as a creature of) the Contempt of Courts Act, 1971, which regulates procedure but cannot curtail the constitutional power itself",
+          "High Courts possess an equivalent court-of-record and contempt power under the parallel Article 215, reflecting the same institutional-dignity principle at the State level"
+        ],
+        "how_to_read": "The two halves of this short article are both significant: 'court of record' has an evidentiary-status meaning practitioners should not conflate purely with the contempt power, which is the second, separately stated attribute."
+      }
+    },
+    {
+      "number": "130",
+      "title": "Seat of Supreme Court",
+      "raw_text": "The Supreme Court shall sit in Delhi or in such other place or places, as the Chief Justice of India may, with the approval of the President, from time to time, appoint.",
+      "key_terms": [
+        "seat of the Supreme Court",
+        "Chief Justice's power to appoint alternate sitting places"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 130 fixes Delhi as the Supreme Court's default seat but keeps the location flexible — the Chief Justice of India, with the President's approval, may designate other places for the Court to sit from time to time. This provision has occasionally featured in public debate about establishing regional Supreme Court benches to improve access to justice outside Delhi, though no such regional bench has actually been constituted to date; any such move would require exactly this Chief-Justice-plus-Presidential-approval mechanism (or a constitutional amendment, depending on how it is structured).",
+        "essential_elements": [
+          "Delhi is the Supreme Court's default and primary seat",
+          "The Chief Justice of India, with the President's approval, may appoint other places for the Court to sit from time to time"
+        ],
+        "exceptions_and_qualifications": [
+          "This flexibility has never in practice been exercised to establish a standing regional bench of the Supreme Court — proposals for regional benches remain a live but unimplemented policy debate, distinct from the National Court of Appeal proposals sometimes discussed alongside it"
+        ],
+        "how_to_read": "A short but practically significant provision for the ongoing 'Supreme Court regional benches' debate — note the twin-consent structure (CJI plus Presidential approval) required for any change from the Delhi default."
+      }
+    },
+    {
+      "number": "131",
+      "title": "Original jurisdiction of the Supreme Court",
+      "raw_text": "Subject to the provisions of this Constitution, the Supreme Court shall, to the exclusion of any other court, have original jurisdiction in any dispute— (a) between the Government of India and one or more States; or (b) between the Government of India and any State or States on one side and one or more other States on the other; or (c) between two or more States, if and in so far as the dispute involves any question (whether of law or fact) on which the existence or extent of a legal right depends: Provided that the said jurisdiction shall not extend to a dispute arising out of any treaty, agreement, covenant, engagement, sanad or other similar instrument which, having been entered into or executed before the commencement of this Constitution, continues in operation after such commencement, or which provides that the said jurisdiction shall not extend to such a dispute.",
+      "key_terms": [
+        "original jurisdiction of the Supreme Court",
+        "exclusive federal-dispute jurisdiction",
+        "legal-right-dependent dispute requirement",
+        "pre-Constitution treaty/instrument exclusion"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 131 gives the Supreme Court sole, exclusive original jurisdiction over genuinely federal disputes — Centre versus State(s), Centre-plus-some-States versus other States, or State versus State — but only where the dispute actually turns on a question (of law or fact) affecting the existence or extent of a legal right, not mere political or policy disagreement between governments. No other court in India can entertain such a dispute at all; it is the Supreme Court's exclusive domain from the outset (unlike its appellate jurisdiction, which reviews lower-court decisions). The proviso carves out a historical category: disputes arising from pre-Constitution treaties, agreements, or similar instruments that continue in force are excluded from this jurisdiction, addressing legacy arrangements from the princely-state integration era.",
+        "essential_elements": [
+          "Only three categories of parties qualify: Centre v. State(s), Centre-with-some-States v. other States, and State v. State",
+          "The dispute must involve a question of law or fact on which the existence or extent of a legal right depends — purely political disagreements between governments are not covered",
+          "The Supreme Court's jurisdiction here is exclusive — no other court may entertain such a dispute at all",
+          "This jurisdiction is 'subject to the provisions of this Constitution,' meaning other constitutional provisions can qualify or limit its reach"
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso excludes disputes arising from pre-Constitution treaties, agreements, covenants, engagements, sanads, or similar instruments that continue in operation, or that themselves exclude Article 131 jurisdiction — a carve-out rooted in India's historical integration of princely states and their pre-existing legal arrangements",
+          "Disputes between private parties, or between a private party and a State/the Union, do not fall within Article 131 at all regardless of how significant the legal question, since the article is confined strictly to Centre-State or inter-State disputes",
+          "The former Article 131A (exclusive Supreme Court jurisdiction over the constitutional validity of Central laws) was inserted by the 42nd Amendment and later omitted by the 43rd Amendment (1977), so no such provision exists today"
+        ],
+        "how_to_read": "The practitioner's checklist for Article 131: (1) are the parties confined to the Centre and/or States only; (2) does the dispute genuinely turn on a legal right rather than pure policy; (3) does the pre-Constitution-instrument proviso apply — all three gate whether this exclusive original jurisdiction is even available."
       }
     }
   ]
