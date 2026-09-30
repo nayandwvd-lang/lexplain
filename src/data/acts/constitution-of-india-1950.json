@@ -868,7 +868,16 @@
     "non-voting expert-member representation in a Municipality": "The Article 243R(2)(a)(i) optional State-law provision letting persons with special municipal-administration knowledge or experience sit in a Municipality, subject to the proviso denying them any right to vote in Municipality meetings — ensuring unelected experts cannot outvote directly elected ward members.",
     "mandatory Wards Committee for three-lakh-plus-population Municipalities": "The Article 243S(1) requirement that every Municipality with a population of three lakhs or more constitute Wards Committees (each covering one or more wards) as a sub-Municipal representative tier, with elected ward members automatically sitting on the corresponding Committee under clause (3).",
     "population-proportionate SC/ST seat reservation in Municipalities": "The Article 243T(1) rule reserving Municipality seats for Scheduled Castes and Scheduled Tribes in proportion to their population share within that specific Municipal area, with reserved seats rotated among constituencies — the urban counterpart to Article 243D(1)'s Panchayat rule.",
-    "one-third overall women reservation in Municipalities (inclusive of SC/ST women)": "The Article 243T(3) rule reserving at least one-third of all directly elected Municipality seats for women generally, inclusive of the SC/ST women already counted under clause (2), and — unlike SC/ST reservation — not subject to the Article 334 sunset under clause (5)."
+    "one-third overall women reservation in Municipalities (inclusive of SC/ST women)": "The Article 243T(3) rule reserving at least one-third of all directly elected Municipality seats for women generally, inclusive of the SC/ST women already counted under clause (2), and — unlike SC/ST reservation — not subject to the Article 334 sunset under clause (5).",
+    "fixed five-year Municipality term with hearing-before-dissolution right": "The Article 243U(1) rule fixing every Municipality's term at exactly five years from its first meeting, 'and no longer,' coupled with a proviso guaranteeing the Municipality a reasonable opportunity of being heard before dissolution — the urban counterpart to Article 243E(1), with an added explicit hearing right not textually present in the Panchayat provision.",
+    "State-Legislature-election disqualification grounds imported for Municipality membership": "The Article 243V(1)(a) default rule disqualifying a person from Municipality membership if he is disqualified under the law governing elections to that State's own Legislature, subject to the Article's own age-floor proviso — the urban mirror of Article 243F(1)(a).",
+    "twenty-one-year minimum age floor for Municipality membership": "The proviso to Article 243V(1)(a) ensuring no person is disqualified for Municipality membership merely for being under twenty-five, provided he has attained twenty-one — identical in substance to Article 243F(1)(a)'s proviso for Panchayats.",
+    "State-law devolution of self-government powers to Municipalities": "The Article 243W enabling provision letting a State Legislature, by law, endow Municipalities and Article 243S Committees with powers and authority necessary to function as institutions of self-government, including devolving economic-development/social-justice planning and scheme implementation — the urban mirror of Article 243G.",
+    "Twelfth Schedule as the illustrative subject-matter list for Municipal devolution": "The Article 243W(a)(ii)/(b) cross-reference to the Twelfth Schedule's subject-matter entries (urban planning, public health, slum upgradation, fire services, etc.) as illustrative areas for Municipal/Committee devolution — the Schedule itself does not transfer legislative authority; actual devolution still requires specific State legislation.",
+    "Municipality's own tax/toll/fee levy authorisation power": "The Article 243X(a) enabling provision letting State law authorise a Municipality to levy, collect, and appropriate its own taxes, duties, tolls, and fees, subject to State-specified procedure and limits — the urban mirror of Article 243H(a).",
+    "State-collected tax assignment to Municipalities": "The Article 243X(b) enabling provision letting State law assign to Municipalities specific taxes/duties/tolls/fees that the State Government itself levies and collects — a revenue-sharing mechanism mirroring Article 243H(b).",
+    "single Finance Commission reviewing both Panchayat and Municipal finances": "The Article 243Y(1) rule extending the same Article 243-I State Finance Commission's mandate to also review Municipal financial position and recommend on State-Municipality revenue distribution, tax assignment, and grants-in-aid — confirming there is no separate Municipal Finance Commission, only a single unified body covering both rural and urban local government.",
+    "State-law Municipal account-maintenance and audit framework": "The Article 243Z enabling provision leaving the entire framework for Municipal account maintenance and auditing to State legislation, without constitutionally designating any specific auditing authority — the urban mirror of Article 243J."
   },
   "sections": [
     {
@@ -7384,6 +7393,141 @@
           "As with Article 243D, the 106th Amendment Act, 2023's new Lok Sabha/Assembly women's-reservation Articles (330A/332A) are structurally distinct and leave this Municipality women's-reservation scheme untouched."
         ],
         "how_to_read": "Read Article 243T side by side with Article 243D — treat any analysis or case law developed under the Panchayat reservation Article as directly transferable to the Municipality reservation Article, since the two provisions were drafted to be substantively identical."
+      }
+    },
+    {
+      "number": "243U",
+      "title": "Duration of Municipalities, etc.",
+      "raw_text": "243U. Duration of Municipalities, etc.—(1) Every Municipality, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer: Provided that a Municipality shall be given a reasonable opportunity of being heard before its dissolution.\n(2) No amendment of any law for the time being in force shall have the effect of causing dissolution of a Municipality at any level, which is functioning immediately before such amendment, till the expiration of its duration specified in clause (1).\n(3) An election to constitute a Municipality shall be completed,—\n(a) before the expiry of its duration specified in clause (1);\n(b) before the expiration of a period of six months from the date of its dissolution: Provided that where the remainder of the period for which the dissolved Municipality would have continued is less than six months, it shall not be necessary to hold any election under this clause for constituting the Municipality for such period.\n(4) A Municipality constituted upon the dissolution of a Municipality before the expiration of its duration shall continue only for the remainder of the period for which the dissolved Municipality would have continued under clause (1) had it not been so dissolved.",
+      "key_terms": [
+        "fixed five-year Municipality term with hearing-before-dissolution right"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243U reproduces Article 243E's Panchayat duration scheme for Municipalities essentially clause-for-clause: a fixed five-year term from the first meeting, protection against dissolution by mere legislative amendment, a mandatory six-month re-election deadline after dissolution, and a reconstituted Municipality inheriting only its predecessor's remaining term — with one textual addition, an explicit proviso guaranteeing the Municipality a reasonable hearing before dissolution.",
+        "essential_elements": [
+          "Clause (1) fixes the term at five years from the first-meeting date, 'and no longer,' subject to earlier dissolution under existing law.",
+          "The proviso to clause (1) guarantees the Municipality a reasonable opportunity of being heard before dissolution — a right with no explicit textual counterpart in Article 243E for Panchayats.",
+          "Clause (2) prevents a mere legislative amendment from itself dissolving an already-functioning Municipality before its term expires.",
+          "Clause (3) mandates fresh elections within six months of dissolution, subject to the de minimis exception where under six months of the term would have remained anyway.",
+          "Clause (4) confirms a reconstituted Municipality serves only the remainder of its predecessor's original term."
+        ],
+        "exceptions_and_qualifications": [
+          "The reasonable-opportunity-of-hearing proviso is the one substantive textual difference from Article 243E — its absence from the Panchayat provision does not necessarily mean Panchayats lack any analogous natural-justice protection (general administrative-law principles may still apply), but Article 243U makes the protection explicit and constitutionally guaranteed for Municipalities specifically.",
+          "As with Article 243E, this Article imports timing discipline analogous to Article 172's fixed Legislative Assembly term and Article 356's structured dissolution/reconstitution scheme."
+        ],
+        "how_to_read": "Read Article 243U side by side with Article 243E, and specifically flag the added hearing-before-dissolution proviso as the one point of textual divergence worth remembering between the rural and urban duration schemes."
+      }
+    },
+    {
+      "number": "243V",
+      "title": "Disqualifications for membership (Municipalities)",
+      "raw_text": "243V. Disqualifications for membership.—(1) A person shall be disqualified for being chosen as, and for being, a member of a Municipality—\n(a) if he is so disqualified by or under any law for the time being in force for the purposes of elections to the Legislature of the State concerned: Provided that no person shall be disqualified on the ground that he is less than twenty-five years of age, if he has attained the age of twenty-one years;\n(b) if he is so disqualified by or under any law made by the Legislature of the State.\n(2) If any question arises as to whether a member of a Municipality has become subject to any of the disqualifications mentioned in clause (1), the question shall be referred for the decision of such authority and in such manner as the Legislature of a State may, by law, provide.",
+      "key_terms": [
+        "State-Legislature-election disqualification grounds imported for Municipality membership",
+        "twenty-one-year minimum age floor for Municipality membership"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243V reproduces Article 243F's Panchayat disqualification scheme for Municipalities word-for-word in substance: State Legislature election disqualification grounds import by default (subject to the twenty-one-year age-floor proviso lowering the usual candidacy age), plus any additional State-law-specific disqualification, with the adjudicating authority and procedure for disqualification disputes left entirely to State legislation.",
+        "essential_elements": [
+          "Clause (1)(a) imports the disqualification grounds applicable to that State's own Legislature elections as the default rule for Municipality membership.",
+          "The proviso to clause (1)(a) ensures no one is disqualified merely for being under twenty-five, provided they have attained twenty-one — the same age-floor exception as Article 243F(1)(a)'s proviso.",
+          "Clause (1)(b) allows additional State-law-specific disqualification grounds beyond the imported Legislature-election grounds.",
+          "Clause (2) leaves the adjudicating authority and procedure for disqualification disputes entirely to State legislation, just as Article 243F(2) does for Panchayats."
+        ],
+        "exceptions_and_qualifications": [
+          "This is textually identical in structure and substance to Article 243F, differing only in referring to 'member of a Municipality' rather than 'member of a Panchayat' — any interpretive principle under Article 243F transfers directly.",
+          "As with Article 243F, the State-law-designated disqualification authority contrasts with Article 192's constitutionally fixed Governor-plus-Election-Commission mechanism for State Legislature members themselves."
+        ],
+        "how_to_read": "Read Article 243V as Article 243F's urban mirror — the twenty-one-year age floor and State-law dispute-forum design are the two features worth remembering, both carried over unchanged from the Panchayat scheme."
+      }
+    },
+    {
+      "number": "243W",
+      "title": "Powers, authority and responsibilities of Municipalities, etc.",
+      "raw_text": "243W. Powers, authority and responsibilities of Municipalities, etc.—Subject to the provisions of this Constitution, the Legislature of a State may, by law, endow—\n(a) the Municipalities with such powers and authority as may be necessary to enable them to function as institutions of self-government and such law may contain provisions for the devolution of powers and responsibilities upon Municipalities, subject to such conditions as may be specified therein, with respect to—\n(i) the preparation of plans for economic development and social justice;\n(ii) the performance of functions and the implementation of schemes as may be entrusted to them including those in relation to the matters listed in the Twelfth Schedule;\n(b) the Committees with such powers and authority as may be necessary to enable them to carry out the responsibilities conferred upon them including those in relation to the matters listed in the Twelfth Schedule.",
+      "key_terms": [
+        "State-law devolution of self-government powers to Municipalities",
+        "Twelfth Schedule as the illustrative subject-matter list for Municipal devolution"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243W mirrors Article 243G's Panchayat devolution enabling provision for the urban context: State Legislatures may, by law, endow Municipalities (and, separately, the Article 243S Committees) with the powers and authority needed to function as genuine self-government institutions, including devolving economic-development/social-justice planning and scheme implementation drawn from the Twelfth Schedule's illustrative subject list.",
+        "essential_elements": [
+          "The power is permissive ('may'), not mandatory — a State is not constitutionally compelled to devolve any specific power to its Municipalities.",
+          "Clause (a) covers Municipalities themselves, including plan preparation for economic development/social justice and scheme implementation.",
+          "Clause (a)(ii) cross-references the Twelfth Schedule as the illustrative area list for Municipal devolution.",
+          "Clause (b) separately empowers devolution to the Article 243S Committees (Wards Committees and others), also with Twelfth Schedule cross-reference."
+        ],
+        "exceptions_and_qualifications": [
+          "This is the direct urban counterpart of Article 243G, sharing the identical 'illustrative, not authority-transferring' character — the Twelfth Schedule's eighteen entries (urban planning, land-use regulation, roads, water supply, public health, slum upgradation, urban poverty alleviation, fire services, etc.) do not by themselves confer legislative competence; actual devolution requires specific State legislation.",
+          "The separate treatment of Committees under clause (b) has no precise Part IX analogue, reflecting that Part IX's devolution clause (Article 243G) does not separately address sub-Panchayat committees the way Article 243W addresses Article 243S Wards Committees."
+        ],
+        "how_to_read": "Read Article 243W together with the Twelfth Schedule exactly as Article 243G is read together with the Eleventh Schedule — the Schedule supplies subject-matter examples, the Article supplies the enabling legal mechanism, and actual power transfer requires a third ingredient: specific State legislation."
+      }
+    },
+    {
+      "number": "243X",
+      "title": "Power to impose taxes by, and Funds of, the Municipalities",
+      "raw_text": "243X. Power to impose taxes by, and Funds of, the Municipalities.—The Legislature of a State may, by law,—\n(a) authorise a Municipality to levy, collect and appropriate such taxes, duties, tolls and fees in accordance with such procedure and subject to such limits;\n(b) assign to a Municipality such taxes, duties, tolls and fees levied and collected by the State Government for such purposes and subject to such conditions and limits;\n(c) provide for making such grants-in-aid to the Municipalities from the Consolidated Fund of the State; and\n(d) provide for constitution of such Funds for crediting all moneys received, respectively, by or on behalf of the Municipalities and also for the withdrawal of such moneys therefrom,\nas may be specified in the law.",
+      "key_terms": [
+        "Municipality's own tax/toll/fee levy authorisation power",
+        "State-collected tax assignment to Municipalities"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243X reproduces Article 243H's Panchayat finance-enabling scheme for Municipalities: State law may authorise a Municipality's own-source taxation, assign State-collected levies to Municipalities, provide Consolidated-Fund grants-in-aid, and constitute dedicated Municipal Funds for crediting and withdrawing money — the complete four-part urban local-finance toolkit mirroring the rural one.",
+        "essential_elements": [
+          "Clause (a) enables own-source Municipal taxation, subject to State-specified procedure and limits.",
+          "Clause (b) enables revenue-sharing via assignment of State-levied/collected taxes to Municipalities.",
+          "Clause (c) enables Consolidated Fund of the State grants-in-aid to Municipalities.",
+          "Clause (d) enables constitution of dedicated Municipal Funds for crediting and withdrawal of Municipal moneys."
+        ],
+        "exceptions_and_qualifications": [
+          "This is textually parallel to Article 243H across all four sub-clauses, differing only in substituting 'Municipality/Municipalities' for 'Panchayat' — the same practical reality applies that grants-in-aid under clause (c) are typically the dominant revenue source given limited own-source taxation potential, especially for smaller Municipalities.",
+          "Larger Municipal Corporations (e.g., in major metropolitan cities) often have comparatively stronger own-source revenue bases (property tax, octroi/local body tax where retained, etc.) than most rural Panchayats, making clause (a) practically more significant for urban local bodies than its Article 243H(a) Panchayat counterpart."
+        ],
+        "how_to_read": "Read Article 243X as Article 243H's direct urban mirror — the four-part own-tax/assigned-tax/grants-in-aid/dedicated-Fund structure is identical, only the institutional beneficiary changes from Panchayat to Municipality."
+      }
+    },
+    {
+      "number": "243Y",
+      "title": "Finance Commission (Municipalities)",
+      "raw_text": "243Y. Finance Commission.—(1) The Finance Commission constituted under article 243-I shall also review the financial position of the Municipalities and make recommendations to the Governor as to—\n(a) the principles which should govern—\n(i) the distribution between the State and the Municipalities of the net proceeds of the taxes, duties, tolls and fees leviable by the State, which may be divided between them under this Part and the allocation between the Municipalities at all levels of their respective shares of such proceeds;\n(ii) the determination of the taxes, duties, tolls and fees which may be assigned to, or appropriated by, the Municipalities;\n(iii) the grants-in-aid to the Municipalities from the Consolidated Fund of the State;\n(b) the measures needed to improve the financial position of the Municipalities;\n(c) any other matter referred to the Finance Commission by the Governor in the interests of sound finance of the Municipalities.\n(2) The Governor shall cause every recommendation made by the Commission under this article together with an explanatory memorandum as to the action taken thereon to be laid before the Legislature of the State.",
+      "key_terms": [
+        "single Finance Commission reviewing both Panchayat and Municipal finances"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243Y does not create a second Finance Commission — it extends the same Article 243-I State Finance Commission's mandate to also review Municipal finances and recommend on State-Municipality revenue distribution, tax assignment, and grants-in-aid, with the same mandatory laying-before-Legislature transparency obligation as Article 243I(4).",
+        "essential_elements": [
+          "The Article 243-I Finance Commission is a single body reviewing both Panchayat (under 243-I) and Municipal (under 243Y) finances — there is no separate Municipal Finance Commission.",
+          "Clause (1)(a) mandates recommendations on State-Municipality revenue division, inter-Municipality-tier allocation, tax assignment, and grants-in-aid — mirroring Article 243I(1)(a)'s Panchayat-side mandate.",
+          "Clause (1)(b) additionally mandates recommendations on measures to improve Municipal financial position generally.",
+          "Clause (1)(c) allows the Governor to refer any other sound-finance matter to the Commission.",
+          "Clause (2) mandates the Governor lay every recommendation, with an action-taken explanatory memorandum, before the State Legislature."
+        ],
+        "exceptions_and_qualifications": [
+          "The unification of the Panchayat and Municipal finance-review function in a single Article 243-I Commission (rather than two separate bodies) is a deliberate design choice ensuring a coherent, single view of the State's overall local-government finance picture across both rural and urban tiers.",
+          "As with Article 243I(4), the recommendations are not textually made binding on the State Government — only the laying-before-Legislature transparency obligation is mandatory."
+        ],
+        "how_to_read": "Read Article 243Y not as a standalone institution-creating provision but as a mandate-extension clause bolted onto the Article 243-I Commission — always read the two Articles together to get the complete picture of a State Finance Commission's full jurisdiction."
+      }
+    },
+    {
+      "number": "243Z",
+      "title": "Audit of accounts of Municipalities",
+      "raw_text": "243Z. Audit of accounts of Municipalities.—The Legislature of a State may, by law, make provisions with respect to the maintenance of accounts by the Municipalities and the auditing of such accounts.",
+      "key_terms": [
+        "State-law Municipal account-maintenance and audit framework"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243Z is the brief urban mirror of Article 243J — it leaves the entire framework for Municipal account-keeping and auditing to State legislation, without constitutionally designating any specific auditing authority.",
+        "essential_elements": [
+          "The power is permissive State legislative competence, not a mandatory constitutional audit mechanism.",
+          "Both account-maintenance standards and the audit process itself are left to State law."
+        ],
+        "exceptions_and_qualifications": [
+          "As with Article 243J, no constitutional counterpart to Article 148's entrenched Comptroller and Auditor-General is designated here — States commonly designate Directors of Local Fund Audit, examiners of local accounts, or similar State-created authorities by ordinary statute.",
+          "This is the shortest substantive Article across both Part IX and Part IXA, textually near-identical to Article 243J save for the Municipality/Panchayat substitution."
+        ],
+        "how_to_read": "Read Article 243Z as confirming that, just as with Panchayats, Municipal financial accountability runs through State-created audit machinery rather than any constitutionally fixed national auditor."
       }
     }
   ]
