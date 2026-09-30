@@ -689,7 +689,18 @@
     "Money Bill introduction restricted to Assembly": "The Article 198(1) rule barring a Money Bill from being introduced in a State's Legislative Council — it must originate in the Legislative Assembly.",
     "fourteen-day Council recommendation window (Money Bills)": "The Article 198(2) time limit within which a State Legislative Council must return a Money Bill to the Assembly with its recommendations, mirroring the Rajya Sabha's identical fourteen-day window under Article 109(2).",
     "Assembly's absolute accept/reject discretion over Council recommendations": "The Article 198(3)-(4) rule that the Legislative Assembly may accept or reject, wholly or partly and at its own discretion, any Money Bill recommendation from the Council, with the Bill deemed passed in whatever form results from the Assembly's decision.",
-    "deemed passage on Council silence past fourteen days": "The Article 198(5) rule that if the Council does not return a Money Bill within fourteen days, the Bill is deemed passed by both Houses in the form the Assembly originally passed it."
+    "deemed passage on Council silence past fourteen days": "The Article 198(5) rule that if the Council does not return a Money Bill within fourteen days, the Bill is deemed passed by both Houses in the form the Assembly originally passed it.",
+    "seven-category exhaustive Money Bill definition (State)": "The Article 199(1) exhaustive list of seven subject-matter categories — taxation, State borrowing/guarantees, Consolidated/Contingency Fund custody and flows, appropriation, charged expenditure, and incidental matters — that alone can make a State Bill a Money Bill; a Bill containing other subject matter falls outside this definition even if it also touches these topics.",
+    "fines/fees/local-tax carve-out from Money Bill status": "The Article 199(2) exclusion providing that a Bill is not a Money Bill merely because it imposes fines or pecuniary penalties, licence or service fees, or because it lets a local authority impose/alter taxes for local purposes.",
+    "Speaker's final certification of Money Bill status": "The Article 199(3) rule making the Legislative Assembly Speaker's decision on whether a State Bill is a Money Bill conclusive and final, foreclosing further dispute over its classification in ordinary practice.",
+    "mandatory Speaker's certificate endorsement on Money Bills": "The Article 199(4) requirement that the Speaker sign and endorse a certificate on every Money Bill both when it is transmitted to the Legislative Council and when it is presented to the Governor for assent, giving downstream actors conclusive documentary proof of its status.",
+    "Governor's three options on a passed Bill (assent/withhold/reserve)": "The Article 200 rule that a Governor presented with a duly passed State Bill must choose one of three responses: assent to it, withhold assent, or reserve it for the President's consideration.",
+    "Governor's non-Money-Bill return-for-reconsideration power": "The Article 200 first proviso letting the Governor, for non-Money Bills only, return a Bill once with a message suggesting reconsideration or specific amendments before deciding on assent.",
+    "mandatory assent on Bill's reconsidered re-passage": "The Article 200 first-proviso rule that once a State Legislature re-passes a Governor-returned Bill (with or without amendment), the Governor is constitutionally bound to assent and cannot withhold assent on that second presentation.",
+    "mandatory reservation for High-Court-endangering Bills": "The Article 200 second proviso requiring a Governor to reserve — never directly assent to — any Bill that in his opinion would, if enacted, so derogate from a High Court's powers as to endanger the position the Constitution designed it to fill; a State-specific judicial-independence safeguard with no Union-level parallel.",
+    "President's binary assent/withhold choice on reserved Bills": "The Article 201 rule that once a Governor reserves a State Bill for Presidential consideration, the President's own choice is limited to assent or withholding — no further reservation is available at this final stage.",
+    "President's non-Money-Bill return-for-reconsideration power": "The Article 201 proviso letting the President, for non-Money Bills only, direct the Governor to return a reserved Bill to the State Legislature with a reconsideration message paralleling Article 200's first proviso.",
+    "six-month reconsideration window (President-returned State Bills)": "The Article 201 proviso's mandatory time limit — six months from receipt of the President's return message — within which a State Legislature must reconsider a returned Bill; re-passage (with or without amendment) sends it back to the President for renewed, still-discretionary consideration."
   },
   "sections": [
     {
@@ -5663,6 +5674,76 @@
           "Unlike Article 197's ordinary-Bill procedure (which requires a second Assembly passage round to override Council objections), Money Bills need only a single Assembly passage — the Council's role is advisory-only from the outset, with no possibility of even a delaying second round."
         ],
         "how_to_read": "Read Article 198 as Article 109's precise State-level mirror — the Council's role over Money Bills is purely recommendatory and time-boxed at fourteen days, making it the clearest textual proof that the Legislative Council has no genuine veto or even meaningful delay power over the State's money Bills, consistent with Article 199's certification mechanism (next) settling any dispute over whether a Bill even qualifies as a Money Bill."
+      }
+    },
+    {
+      "number": "199",
+      "title": "Definition of “Money Bills”",
+      "raw_text": "(1) For the purposes of this Chapter, a Bill shall be deemed to be a Money Bill if it contains only provisions dealing with all or any of the following matters, namely:—\n(a) the imposition, abolition, remission, alteration or regulation of any tax;\n(b) the regulation of the borrowing of money or the giving of any guarantee by the State, or the amendment of the law with respect to any financial obligations undertaken or to be undertaken by the State;\n(c) the custody of the Consolidated Fund or the Contingency Fund of the State, the payment of moneys into or the withdrawal of moneys from any such Fund;\n(d) the appropriation of moneys out of the Consolidated Fund of the State;\n(e) the declaring of any expenditure to be expenditure charged on the Consolidated Fund of the State, or the increasing of the amount of any such expenditure;\n(f) the receipt of money on account of the Consolidated Fund of the State or the public account of the State or the custody or issue of such money; or\n(g) any matter incidental to any of the matters specified in sub-clauses (a) to (f).\n(2) A Bill shall not be deemed to be a Money Bill by reason only that it provides for the imposition of fines or other pecuniary penalties, or for the demand or payment of fees for licences or fees for services rendered, or by reason that it provides for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes.\n(3) If any question arises whether a Bill introduced in the Legislature of a State which has a Legislative Council is a Money Bill or not, the decision of the Speaker of the Legislative Assembly of such State thereon shall be final.\n(4) There shall be endorsed on every Money Bill when it is transmitted to the Legislative Council under article 198, and when it is presented to the Governor for assent under article 200, the certificate of the Speaker of the Legislative Assembly signed by him that it is a Money Bill.",
+      "key_terms": [
+        "seven-category exhaustive Money Bill definition (State)",
+        "fines/fees/local-tax carve-out from Money Bill status",
+        "Speaker's final certification of Money Bill status",
+        "mandatory Speaker's certificate endorsement on Money Bills"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 199 is the State-level counterpart to Article 110, exhaustively defining a Money Bill as one containing only provisions on taxation, State borrowing/guarantees, the Consolidated/Contingency Fund's custody or moneys in/out of it, appropriation, charged expenditure, or matters incidental to these — a Bill mixing in other subject matter is not a Money Bill at all, even if it also touches these topics. Fines, licence/service fees, and local-body taxation for local purposes don't count as making a Bill a 'Money Bill' even though they involve money. Because so much hinges on this classification (Article 198's Council-bypass procedure applies only to genuine Money Bills), the Speaker of the Legislative Assembly has the final, conclusive word on the question, certified in writing on the Bill itself at both the Council-transmission and Governor-assent stages.",
+        "essential_elements": [
+          "Clause (1): the seven-category exhaustive list — a Bill qualifies as a Money Bill only if it deals exclusively with these subjects.",
+          "Clause (2): fines/penalties, licence or service fees, and local-authority taxation for local purposes are expressly excluded from Money Bill status even though money is involved.",
+          "Clause (3): the Speaker's decision on whether a given Bill is a Money Bill is final — not appealable or reviewable by the Council.",
+          "Clause (4): a signed Speaker's certificate must be endorsed on the Bill both when sent to the Council and when presented to the Governor for assent, giving downstream actors conclusive proof of its status."
+        ],
+        "exceptions_and_qualifications": [
+          "The 'only' in clause (1)'s opening words is doing heavy lifting — a Bill with substantial non-financial provisions alongside financial ones is not a Money Bill, even if the financial provisions alone would otherwise qualify; the Speaker's certification effectively forecloses that line of challenge in ordinary legislative practice, though courts have in limited instances examined whether a certified Bill genuinely fits the definition."
+        ],
+        "how_to_read": "Read Article 199 as Article 110's precise State-level mirror, and always cross-read it together with Article 198 (Money Bill procedure) and Article 197 (ordinary Bill procedure) — the entire point of this Article is to draw the line determining which of those two very different procedures applies to a given Bill."
+      }
+    },
+    {
+      "number": "200",
+      "title": "Assent to Bills",
+      "raw_text": "When a Bill has been passed by the Legislative Assembly of a State or, in the case of a State having a Legislative Council, has been passed by both Houses of the Legislature of the State, it shall be presented to the Governor and the Governor shall declare either that he assents to the Bill or that he withholds assent therefrom or that he reserves the Bill for the consideration of the President:\nProvided that the Governor may, as soon as possible after the presentation to him of the Bill for assent, return the Bill if it is not a Money Bill together with a message requesting that the House or Houses will reconsider the Bill or any specified provisions thereof and, in particular, will consider the desirability of introducing any such amendments as he may recommend in his message and, when a Bill is so returned, the House or Houses shall reconsider the Bill accordingly, and if the Bill is passed again by the House or Houses with or without amendment and presented to the Governor for assent, the Governor shall not withhold assent therefrom:\nProvided further that the Governor shall not assent to, but shall reserve for the consideration of the President, any Bill which in the opinion of the Governor would, if it became law, so derogate from the powers of the High Court as to endanger the position which that Court is by this Constitution designed to fill.",
+      "key_terms": [
+        "Governor's three options on a passed Bill (assent/withhold/reserve)",
+        "Governor's non-Money-Bill return-for-reconsideration power",
+        "mandatory assent on Bill's reconsidered re-passage",
+        "mandatory reservation for High-Court-endangering Bills"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 200 is the State-level counterpart to Article 111, giving the Governor three formal options on any Bill duly passed by the State Legislature: assent, withhold assent, or reserve it for the President's consideration. For non-Money Bills only, the Governor may first return the Bill with a message suggesting reconsideration or specific amendments — but if the Legislature simply re-passes it (with or without adopting the suggestions), the Governor is constitutionally bound to assent; there is no second withholding round, mirroring the President's identical constraint under Article 111's proviso. A special mandatory-reservation rule applies regardless of the Governor's own preference: any Bill that would, in the Governor's opinion, so undermine a High Court's constitutional position that it endangers the Court's role must be reserved for the President — the Governor has no discretion to assent to such a Bill directly, a safeguard protecting judicial independence that has no Union-level parallel (since Parliament cannot legislate to undermine the Supreme Court the same way a State Legislature conceivably could a High Court within its own sphere).",
+        "essential_elements": [
+          "Every duly passed Bill must be presented to the Governor, who must choose one of three responses: assent, withhold assent, or reserve for President.",
+          "First proviso: a one-time return-for-reconsideration option, available only for non-Money Bills, after which re-passage forecloses withholding.",
+          "Second proviso: mandatory reservation (no discretion) for any Bill the Governor believes would endanger a High Court's constitutionally designed position."
+        ],
+        "exceptions_and_qualifications": [
+          "A Money Bill cannot be returned for reconsideration under the first proviso — the Governor's only options for a Money Bill are immediate assent, withholding, or reservation.",
+          "The second proviso's mandatory reservation is unique to the State-level Governor-High Court relationship and has no textual equivalent constraining the President's own assent powers under Article 111."
+        ],
+        "how_to_read": "Read Article 200 as Article 111's precise State-level mirror for the general structure, but note its extra, State-specific second proviso protecting High Courts — a safeguard reflecting the particular vulnerability of High Courts to State legislative interference that doesn't have a Union-level analogue for the Supreme Court."
+      }
+    },
+    {
+      "number": "201",
+      "title": "Bills reserved for consideration",
+      "raw_text": "When a Bill is reserved by a Governor for the consideration of the President, the President shall declare either that he assents to the Bill or that he withholds assent therefrom:\nProvided that, where the Bill is not a Money Bill, the President may direct the Governor to return the Bill to the House or, as the case may be, the Houses of the Legislature of the State together with such a message as is mentioned in the first proviso to article 200 and, when a Bill is so returned, the House or Houses shall reconsider it accordingly within a period of six months from the date of receipt of such message and, if it is again passed by the House or Houses with or without amendment, it shall be presented again to the President for his consideration.",
+      "key_terms": [
+        "President's binary assent/withhold choice on reserved Bills",
+        "President's non-Money-Bill return-for-reconsideration power",
+        "six-month reconsideration window (President-returned State Bills)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 201 governs what happens once a Governor reserves a State Bill for the President under Article 200: unlike the Governor's own three-way choice, the President has only two options for a reserved Bill — assent or withhold assent (no further reservation, since the buck stops here). For non-Money Bills, the President may instead direct the Governor to send the Bill back to the State Legislature with a reconsideration message paralleling Article 200's first proviso, and the Legislature then has a firm six-month window to reconsider and, if it chooses, re-pass the Bill (with or without amendments) for renewed Presidential consideration. Critically — and unlike Article 200's proviso for the Governor — there is no rule here compelling the President to assent even if the State Legislature re-passes the returned Bill unchanged; the President retains an absolute, unconditional discretion at this final stage, a significant asymmetry that gives the Union ultimate control over State legislation the Governor has flagged as reservation-worthy.",
+        "essential_elements": [
+          "The President's only two responses to a reserved Bill are assent or withholding — there is no further reservation option available.",
+          "The proviso's return-for-reconsideration option is available only for non-Money Bills, with a mandatory six-month window for the State Legislature's reconsideration."
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike Article 200's proviso (which binds the Governor to assent once the Legislature re-passes a returned Bill), Article 201's proviso imposes no such compulsion on the President — re-passage by the State Legislature does not force Presidential assent; the President may still withhold assent even after reconsideration.",
+          "The six-month window is the outer limit for reconsideration, but there is no fixed deadline by which the President must act on the Bill in the first place or upon its return."
+        ],
+        "how_to_read": "Read Article 201 alongside Article 200 as a two-stage assent pipeline for reserved Bills, and pay particular attention to the asymmetry at the final stage: the President's discretion survives re-passage in a way the Governor's does not, giving the Union a genuine, unconditional check on State legislation flagged for Presidential consideration."
       }
     }
   ]
