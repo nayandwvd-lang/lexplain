@@ -669,7 +669,14 @@
     "Governor as adjudicator of Article 191(1) disqualification disputes": "The Article 192(1) rule that questions on whether a sitting State Legislature member has become subject to any Article 191(1) disqualification are decided by the Governor, whose decision is final — the State-level mirror of the President's role under Article 103, but confined to Article 191(1) grounds only (Tenth Schedule defection questions go to the Speaker/Chairman instead).",
     "mandatory, binding Election Commission opinion (Governor's disqualification decision)": "The Article 192(2) requirement that before deciding any Article 191(1) disqualification question, the Governor must obtain the Election Commission's opinion and act according to it — making the Governor's 'final' decision substantively an Election-Commission-driven determination.",
     "per-day penalty for sitting/voting without oath or while disqualified (State Legislature)": "The Article 193 penalty of five hundred rupees for each day a person sits or votes as a State Legislature member before making the Article 188 oath, or while knowing he is not qualified or is disqualified, or while knowing a Parliamentary law forbids it.",
-    "penalty recovered as a debt due to the State": "The Article 193 enforcement mechanism specifying that the per-day penalty for improper sitting/voting is recovered as an ordinary civil debt owed to the State Government, not through a separate criminal or contempt process."
+    "penalty recovered as a debt due to the State": "The Article 193 enforcement mechanism specifying that the per-day penalty for improper sitting/voting is recovered as an ordinary civil debt owed to the State Government, not through a separate criminal or contempt process.",
+    "freedom of speech in State Legislature": "The Article 194(1) guarantee of freedom of speech within a State Legislature, subject to the Constitution and to the House's own rules and standing orders — the State-level mirror of Article 105(1)'s Parliamentary freedom of speech.",
+    "immunity from court proceedings for legislative speech/votes (State)": "The Article 194(2) absolute immunity shielding a State Legislature member from any court proceeding over anything said or any vote given in the House or its committees, and shielding authorised publication of House reports/papers/proceedings from liability.",
+    "State-law-defined residual powers/privileges/immunities": "The Article 194(3) rule that beyond the specific speech/vote immunities, a State House's other powers, privileges, and immunities are whatever the State Legislature defines by law.",
+    "pre-44th-Amendment default privileges (State Legislature)": "The Article 194(3) fallback rule that, absent State legislative law defining privileges, a State House's powers/privileges/immunities default to whatever applied immediately before the 44th Amendment Act, 1978's section 26 came into force (20-6-1979) — not automatically equated with UK House of Commons privileges.",
+    "privileges extended to non-member floor-right holders (State)": "The Article 194(4) rule extending clauses (1)-(3)'s speech/vote/privilege protections to any person who, though not a member, has a constitutional right to speak and participate in a State House's proceedings (e.g., a Minister or the Advocate-General under Article 177).",
+    "salaries and allowances of ordinary members (State Legislature)": "The Article 195 guarantee that ordinary members of a State's Legislative Assembly and Legislative Council — as distinct from the four presiding officers covered by Article 186 — receive salaries and allowances fixed by State legislative law.",
+    "pre-Constitution Provincial Assembly rates default": "The Article 195 fallback rule that, absent State legislative law on member salaries/allowances, the rates and conditions applicable immediately before the Constitution's commencement to the corresponding pre-Constitution Province's Legislative Assembly members apply instead."
   },
   "sections": [
     {
@@ -5522,6 +5529,53 @@
           "The ₹500-per-day figure is a fixed, unindexed constitutional amount dating to 1950 and has never been revised — its deterrent value has eroded substantially with inflation, though the provision remains a live enforcement mechanism."
         ],
         "how_to_read": "Read Article 193 as Article 104's precise State-level mirror — a civil-debt penalty mechanism, not a criminal offence, reinforcing that Article 188's oath and Article 191's disqualification rules have real teeth even before any formal seat-vacation process under Article 190 concludes."
+      }
+    },
+    {
+      "number": "194",
+      "title": "Powers, privileges, etc., of the Houses of Legislatures and of the members and committees thereof",
+      "raw_text": "(1) Subject to the provisions of this Constitution and to the rules and standing orders regulating the procedure of the Legislature, there shall be freedom of speech in the Legislature of every State.\n(2) No member of the Legislature of a State shall be liable to any proceedings in any court in respect of anything said or any vote given by him in the Legislature or any committee thereof, and no person shall be so liable in respect of the publication by or under the authority of a House of such a Legislature of any report, paper, votes or proceedings.\n(3) In other respects, the powers, privileges and immunities of a House of the Legislature of a State, and of the members and the committees of a House of such Legislature, shall be such as may from time to time be defined by the Legislature by law, and, until so defined, shall be those of that House and of its members and committees immediately before the coming into force of section 26 of the Constitution (Forty-fourth Amendment) Act, 1978.\n(4) The provisions of clauses (1), (2) and (3) shall apply in relation to persons who by virtue of this Constitution have the right to speak in, and otherwise to take part in the proceedings of, a House of the Legislature of a State or any committee thereof as they apply in relation to members of that Legislature.",
+      "key_terms": [
+        "freedom of speech in State Legislature",
+        "immunity from court proceedings for legislative speech/votes (State)",
+        "State-law-defined residual powers/privileges/immunities",
+        "pre-44th-Amendment default privileges (State Legislature)",
+        "privileges extended to non-member floor-right holders (State)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 194 is the Legislative-Assembly/Council-level counterpart to Article 105, guaranteeing freedom of speech within a State Legislature (subject to the Constitution and the House's own procedural rules) and immunising members from court proceedings over anything said or any vote cast in the House or its committees, as well as immunising authorised publication of House reports/papers/proceedings. Beyond these two specific immunities, the House's other powers, privileges, and immunities are whatever the State Legislature defines by law; until so defined, they default to whatever applied immediately before the 44th Amendment (1978) took effect — deliberately avoiding automatic equation with UK House of Commons privileges, mirroring the same 42nd/44th Amendment history at Union level. These protections extend to non-members like Ministers or the Advocate-General who have a constitutional right to speak in the House.",
+        "essential_elements": [
+          "Clause (1): freedom of speech within the House, subject to the Constitution and the House's own procedural rules.",
+          "Clause (2): absolute immunity from court proceedings for anything said or voted in the House/committee, and for authorised publication of House proceedings/papers.",
+          "Clause (3): residual powers/privileges/immunities are State-law-defined; absent such law, they default to the pre-44th-Amendment (pre-20-6-1979) position — not automatically equated with House of Commons privileges.",
+          "Clause (4): these protections extend beyond members to any person with a constitutional right to speak/participate in the House (e.g., Ministers, Advocate-General under Article 177) as if they were members."
+        ],
+        "exceptions_and_qualifications": [
+          "The clause (2)/clause (3) immunities are not absolute license — they operate 'subject to the provisions of this Constitution' and the House's own standing orders, and courts have held that fundamental rights and constitutional limits still constrain what genuinely qualifies as 'proceedings in the Legislature.'",
+          "Clause (3)'s current text (the 44th Amendment default) replaced an intervening 42nd Amendment formula that would have let evolving Lok Sabha/Rajya Sabha privileges flow down to State Houses — that formula never came into force and was itself omitted before commencement, so only the pre-1979 default applies."
+        ],
+        "how_to_read": "Read Article 194 as Article 105's precise State-level mirror, clause-for-clause — including sharing the same 42nd/44th Amendment drafting history for clause (3)'s residual-privileges default."
+      }
+    },
+    {
+      "number": "195",
+      "title": "Salaries and allowances of members",
+      "raw_text": "Members of the Legislative Assembly and the Legislative Council of a State shall be entitled to receive such salaries and allowances as may from time to time be determined, by the Legislature of the State by law and, until provision in that respect is so made, salaries and allowances at such rates and upon such conditions as were immediately before the commencement of this Constitution applicable in the case of members of the Legislative Assembly of the corresponding Province.",
+      "key_terms": [
+        "salaries and allowances of ordinary members (State Legislature)",
+        "pre-Constitution Provincial Assembly rates default"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 195 is the State-level counterpart to Article 106, entitling ordinary members of both a State's Houses — not just the four presiding officers already covered by Article 186 — to salaries and allowances fixed by State legislative law. Unlike Article 186's Second-Schedule-default pattern, the fallback here (absent State law) is whatever rates and conditions applied to members of the corresponding pre-Constitution Provincial Legislative Assembly, a historical anchor rather than a Schedule figure.",
+        "essential_elements": [
+          "Covers all ordinary members of both Houses (Assembly and, where it exists, Council) — distinct from Article 186's presiding-officer-specific salaries.",
+          "Primary source: State legislative law fixing rates and conditions.",
+          "Default fallback (absent such law): the rates/conditions applicable immediately before the Constitution's commencement to members of the corresponding Province's Legislative Assembly — a historical anchor, not a Schedule figure."
+        ],
+        "exceptions_and_qualifications": [
+          "This default fallback is structurally different from Article 186's Second Schedule default for presiding officers — Article 195 looks backward to pre-Constitution Provincial practice rather than to any Schedule of this Constitution."
+        ],
+        "how_to_read": "Read Article 195 as Article 106's precise State-level mirror for ordinary members, and note it complements rather than duplicates Article 186 (which covers only the four presiding/deputy-presiding officers) — together the two Articles cover every State Legislature member's compensation."
       }
     }
   ]
