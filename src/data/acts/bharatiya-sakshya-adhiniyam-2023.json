@@ -51,7 +51,18 @@
     "electronic signature certificate": "A certificate issued to a subscriber under the Information Technology Act, 2000 framework, listing identifying and technical information about the subscriber's electronic signature. Once accepted by the subscriber, its listed information (other than flagged unverified subscriber information) is presumed correct under section 87.",
     "subscriber": "A person in whose name an Electronic Signature Certificate is issued, and who holds the corresponding private/signature key.",
     "originator": "The person by whom, or on whose behalf, an electronic message is sent, and to whom section 90's presumption of transmission-correspondence (but not sender identity) attaches.",
-    "ancient document": "A colloquial term (not itself used in the Adhiniyam's text) for a document thirty years or older produced from proper custody, which under section 92 may be presumed to be in the handwriting it purports to be in and, if executed or attested, duly executed and attested."
+    "ancient document": "A colloquial term (not itself used in the Adhiniyam's text) for a document thirty years or older produced from proper custody, which under section 92 may be presumed to be in the handwriting it purports to be in and, if executed or attested, duly executed and attested.",
+    "best evidence rule": "The principle underlying section 94 that where contract, grant, or property-disposition terms (or any legally required documentation) have been reduced to a document, only the document itself or its admissible secondary evidence -- not oral recreation -- may prove those terms.",
+    "parol evidence rule": "The rule in section 95 that once a document's terms are proved, oral evidence generally cannot contradict, vary, add to, or subtract from them, subject to seven listed provisos covering vitiating facts, silence-filling agreements, conditions precedent, subsequent rescission/modification, usage/custom, and facts explaining the document's application.",
+    "patent ambiguity": "Ambiguity or defect apparent on the face of a document itself (section 96), as opposed to ambiguity that only emerges on applying the document to the facts (sections 97-101). Extrinsic evidence cannot cure a patent ambiguity.",
+    "burden of proof": "Under section 104, the obligation of a person who wants a Court to give judgment on asserted facts to prove those facts exist. Section 105 gives the practical test (who would fail if no evidence were led) and sections 106-114 allocate the burden for specific categories of facts.",
+    "general exceptions": "The chapter of defences (such as unsoundness of mind, grave and sudden provocation, private defence) in the Bharatiya Nyaya Sanhita, 2023 which an accused may invoke to avoid liability; under section 108, the burden of proving facts bringing a case within a General Exception lies on the accused.",
+    "seven years' presumption of death": "The presumption under section 111 that a person not heard of for seven years, by those who would naturally have heard from him if alive, is dead -- shifting the burden of proving continued life onto whoever asserts it.",
+    "active confidence": "A relationship of dominance and trust (e.g. advocate-client, parent-child just come of age) referred to in section 114, in which the dominant party bears the burden of proving the good faith of a transaction with the other, weaker party.",
+    "disturbed area": "An area declared disturbed under a public-order enactment, or an area with over one month of extensive disturbance of the public peace, within the meaning of section 115 -- triggering a rebuttable presumption of guilt for specified grave public-order offences where firearms/explosives were used against armed or public-order forces.",
+    "legitimacy": "The legal status of a child as born to parents in a valid marriage; under section 116, conclusively proved by birth during the marriage's continuance (or within 280 days of its dissolution, mother unmarried), unless non-access is shown.",
+    "dowry death": "As defined in section 80 of the Bharatiya Nyaya Sanhita, 2023: broadly, a woman's death by burns, bodily injury, or under otherwise abnormal circumstances within seven years of marriage, connected with cruelty or harassment for a dowry demand. Section 118 mandatorily presumes the accused caused it where such cruelty/harassment is shown soon before death.",
+    "natural presumption": "The broad discretionary power under section 119 to presume any fact likely to have happened based on the common course of natural events, human conduct, and business -- illustrated with maxims like recent-possession-implies-guilt and adverse inference from withheld evidence, each subject to case-specific caveats under sub-section (2)."
   },
   "sections": [
     {
@@ -1907,6 +1918,513 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Note the much shorter five-year threshold compared to section 92's thirty years -- a deliberate recognition that electronic records and their custodial systems don't have the same multi-generational lifespan as paper deeds."
+      }
+    },
+    {
+      "number": "94",
+      "title": "Evidence of terms of contracts, grants and other dispositions of property reduced to form of document",
+      "raw_text": "94. When the terms of a contract, or of a grant, or of any other disposition of property, have been reduced to the form of a document, and in all cases in which any matter is required by law to be reduced to the form of a document, no evidence shall be given in proof of the terms of such contract, grant or other disposition of property, or of such matter, except the document itself, or secondary evidence of its contents in cases in which secondary evidence is admissible under the provisions hereinbefore contained.\nException 1.—When a public officer is required by law to be appointed in writing, and when it is shown that any particular person has acted as such officer, the writing by which he is appointed need not be proved.\nException 2.—Wills admitted to probate in India may be proved by the probate.\nExplanation 1.—This section applies equally to cases in which the contracts, grants or dispositions of property referred to are contained in one document, and to cases in which they are contained in more documents than one.\nExplanation 2.—Where there are more originals than one, one original only need be proved.\nExplanation 3.—The statement, in any document whatever, of a fact other than the facts referred to in this section, shall not preclude the admission of oral evidence as to the same fact.",
+      "key_terms": [
+        "best evidence rule"
+      ],
+      "breakdown": {
+        "plain_summary": "Opens Chapter VI's \"best evidence\" regime: once a contract, grant, or other disposition of property has been put into a document -- or wherever the law requires something to be documented -- the document itself (or admissible secondary evidence of it) is the only way to prove its terms. Oral evidence of what the document said is shut out.",
+        "essential_elements": [
+          "Applies where contract/grant/property-disposition terms have been reduced to a document, or any matter is legally required to be documented.",
+          "Only the document itself, or secondary evidence admissible under the earlier sections (57-63), may prove the terms.",
+          "Exception 1: where a public officer's appointment must be in writing, and someone has actually acted in that office, the appointment writing itself need not be proved.",
+          "Exception 2: probated wills may be proved by the probate.",
+          "Explanation 1: applies whether the terms are in one document or spread across several.",
+          "Explanation 2: where several originals exist (e.g. counterparts), proving just one suffices.",
+          "Explanation 3: a document's incidental recital of some unrelated fact doesn't block oral evidence of that unrelated fact -- the exclusion is narrowly about the contract/grant/disposition terms themselves."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section works hand-in-hand with section 95 -- section 94 says you must prove the document (not orally recreate its terms); section 95 says that once proved, you generally can't contradict/vary it with oral evidence either. Together they form the classic parol evidence rule."
+      }
+    },
+    {
+      "number": "95",
+      "title": "Exclusion of evidence of oral agreement",
+      "raw_text": "95. When the terms of any such contract, grant or other disposition of property, or any matter required by law to be reduced to the form of a document, have been proved according to section 94, no evidence of any oral agreement or statement shall be admitted, as between the parties to any such instrument or their representatives in interest, for the purpose of contradicting, varying, adding to, or subtracting from, its terms:\nProvided that any fact may be proved which would invalidate any document, or which would entitle any person to any decree or order relating thereto; such as fraud, intimidation, illegality, want of due execution, want of capacity in any contracting party, want or failure of consideration, or mistake in fact or law:\nProvided further that the existence of any separate oral agreement as to any matter on which a document is silent, and which is not inconsistent with its terms, may be proved. In considering whether or not this proviso applies, the Court shall have regard to the degree of formality of the document:\nProvided also that the existence of any separate oral agreement, constituting a condition precedent to the attaching of any obligation under any such contract, grant or disposition of property, may be proved:\nProvided also that the existence of any distinct subsequent oral agreement to rescind or modify any such contract, grant or disposition of property, may be proved, except in cases in which such contract, grant or disposition of property is by law required to be in writing, or has been registered according to the law in force for the time being as to the registration of documents:\nProvided also that any usage or custom by which incidents not expressly mentioned in any contract are usually annexed to contracts of that description, may be proved:\nProvided also that the annexing of such incident would not be repugnant to, or inconsistent with, the express terms of the contract:\nProvided also that any fact may be proved which shows in what manner the language of a document is related to existing facts.",
+      "key_terms": [
+        "parol evidence rule"
+      ],
+      "breakdown": {
+        "plain_summary": "The core parol evidence rule: once a document's terms are proved under section 94, the parties to it (or their representatives) cannot use oral evidence to contradict, vary, add to, or subtract from those terms. But this bar comes with six significant carve-outs listed as provisos.",
+        "essential_elements": [
+          "General bar: no oral agreement/statement admissible to contradict, vary, add to, or subtract from proved document terms, as between the parties/their representatives in interest.",
+          "Proviso 1: facts invalidating the document (fraud, intimidation, illegality, want of due execution, incapacity, failure of consideration, mistake) remain provable.",
+          "Proviso 2: a separate oral agreement on a matter the document is silent about, and not inconsistent with it, may be proved -- degree of formality of the document is a relevant factor.",
+          "Proviso 3: a separate oral agreement operating as a condition precedent to the obligation attaching may be proved.",
+          "Proviso 4: a distinct subsequent oral agreement to rescind or modify may be proved -- except where the instrument is legally required to be in writing or has been registered.",
+          "Proviso 5 & 6: usage/custom annexing unstated incidents to contracts of that description may be proved, provided it isn't repugnant to the document's express terms.",
+          "Proviso 7 (final): facts showing how the document's language relates to existing facts (i.e. facts needed to apply the document) remain provable."
+        ],
+        "exceptions_and_qualifications": [
+          "The registered/required-to-be-in-writing carve-out inside proviso 4 is a frequent litigation flashpoint -- oral rescission/modification of a registered sale deed or lease cannot be proved even under this proviso."
+        ],
+        "how_to_read": "Treat this as: general bar, then work through the provisos as recognised exceptions -- vitiating facts, silence-filling collateral agreements, conditions precedent, subsequent rescission/variation (subject to the writing/registration carve-out), usage/custom, and application-to-facts evidence. This is one of the most litigated sections in evidence law -- know each proviso by its function, not just its number."
+      }
+    },
+    {
+      "number": "96",
+      "title": "Exclusion of evidence to explain or amend ambiguous document",
+      "raw_text": "96. When the language used in a document is, on its face, ambiguous or defective, evidence may not be given of facts which would show its meaning or supply its defects.\nIllustrations.\n(a) A agrees, in writing, to sell a horse to B for \"one lakh rupees or one lakh fifty thousand rupees\". Evidence cannot be given to show which price was to be given.\n(b) A deed contains blanks. Evidence cannot be given of facts which would show how they were meant to be filled.",
+      "key_terms": [
+        "patent ambiguity"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a document is ambiguous or defective on its own face (a \"patent\" ambiguity, visible without looking outside the document), extrinsic evidence cannot be used to clear it up or fill the gap -- the document simply fails for uncertainty as to that term.",
+        "essential_elements": [
+          "Applies only to ambiguity/defect apparent on the face of the document itself.",
+          "No evidence of outside facts is admissible to resolve the ambiguity or supply the missing content."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Contrast this with sections 97-101, which deal with ambiguity that only emerges when the document is applied to the facts (\"latent\" ambiguity) -- there, extrinsic evidence IS admissible. Section 96 is specifically about ambiguity visible on the document's face alone."
+      }
+    },
+    {
+      "number": "97",
+      "title": "Exclusion of evidence against application of document to existing facts",
+      "raw_text": "97. When language used in a document is plain in itself, and when it applies accurately to existing facts, evidence may not be given to show that it was not meant to apply to such facts.\nIllustration.\nA sells to B, by deed, \"my estate at Rampur containing one hundred bighas\". A has an estate at Rampur containing one hundred bighas. Evidence may not be given of the fact that the estate meant to be sold was one situated at a different place and of a different size.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "If a document's plain language accurately matches an existing set of facts, no evidence is admissible to claim the document actually meant something else -- plain language that fits is taken at face value.",
+        "essential_elements": [
+          "Applies where the language is plain in itself and accurately applies to existing facts.",
+          "Bars evidence attempting to show the plain, fitting language was meant to apply to something different."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the flip side of section 98 -- section 97 deals with language that fits the facts perfectly (no extrinsic evidence allowed to unsettle it); section 98 deals with language that is plain but doesn't fit any existing fact (extrinsic evidence allowed to find its peculiar sense)."
+      }
+    },
+    {
+      "number": "98",
+      "title": "Evidence as to document unmeaning in reference to existing facts",
+      "raw_text": "98. When language used in a document is plain in itself, but is unmeaning in reference to existing facts, evidence may be given to show that it was used in a peculiar sense.\nIllustration.\nA sells to B, by deed, \"my house in Kolkata\". A had no house in Kolkata, but it appears that he had a house at Howrah, of which B had been in possession since the execution of the deed. These facts may be proved to show that the deed related to the house at Howrah.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "When a document's plain language, though clear in itself, simply doesn't correspond to any existing fact (there is no such thing to which it could refer, literally), evidence is admissible to show the words were actually used in some special or peculiar sense that does fit the facts.",
+        "essential_elements": [
+          "Applies where language is plain in itself but unmeaning -- doesn't correspond to any existing fact -- when applied literally.",
+          "Evidence is admissible to show a peculiar/special sense in which the words were actually used."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The Illustration is the classic example: literal language (\"house in Kolkata\") that describes nothing that exists opens the door to evidence showing what was really meant (the Howrah house), based on surrounding conduct like possession."
+      }
+    },
+    {
+      "number": "99",
+      "title": "Evidence as to application of language which can apply to one only of several persons",
+      "raw_text": "99. When the facts are such that the language used might have been meant to apply to any one, and could not have been meant to apply to more than one, of several persons or things, evidence may be given of facts which show which of those persons or things it was intended to apply to.\nIllustrations.\n(a) A agrees to sell to B, for one thousand rupees, \"my white horse\". A has two white horses. Evidence may be given of facts which show which of them was meant.\n(b) A agrees to accompany B to Ramgarh. Evidence may be given of facts showing whether Ramgarh in Rajasthan or Ramgarh in Uttarakhand was meant.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Where document language could fit any one, but not more than one, of several possible persons/things, extrinsic evidence is admissible to identify which specific one was actually intended.",
+        "essential_elements": [
+          "Applies where the language could apply to any single one, but not simultaneously to more than one, of several candidates.",
+          "Evidence is admissible to pin down which particular person/thing was meant."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Classic latent-ambiguity scenario -- \"my white horse\" is perfectly plain until you discover the seller owns two; extrinsic facts (which horse was shown, discussed, etc.) resolve which one the words point to."
+      }
+    },
+    {
+      "number": "100",
+      "title": "Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies",
+      "raw_text": "100. When the language used applies partly to one set of existing facts, and partly to another set of existing facts, but the whole of it does not apply correctly to either, evidence may be given to show to which of the two it was meant to apply.\nIllustration.\nA agrees to sell to B \"my land at X in the occupation of Y\". A has land at X, but not in the occupation of Y, and he has land in the occupation of Y but it is not at X. Evidence may be given of facts showing which he meant to sell.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Where a document's description is split between two possible referents -- partly matching one, partly matching another, but wholly matching neither -- evidence is admissible to determine which one was actually meant.",
+        "essential_elements": [
+          "Applies where language partly fits one set of facts and partly fits a different set, but fully fits neither.",
+          "Evidence is admissible to determine the intended referent."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The Illustration shows a description split across two properties (right location/wrong occupier vs. wrong location/right occupier) -- neither matches the full description, so extrinsic evidence decides which one the parties meant."
+      }
+    },
+    {
+      "number": "101",
+      "title": "Evidence as to meaning of illegible characters, etc.",
+      "raw_text": "101. Evidence may be given to show the meaning of illegible or not commonly intelligible characters, of foreign, obsolete, technical, local and regional expressions, of abbreviations and of words used in a peculiar sense.\nIllustration.\nA, sculptor, agrees to sell to B, \"all my mods\". A has both models and modelling tools. Evidence may be given to show which he meant to sell.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Extrinsic evidence is admissible to decode illegible writing, uncommon characters, foreign/obsolete/technical/local/regional expressions, abbreviations, and words used in a special sense -- essentially a translation/decoding gateway, not a rule about contested meaning of otherwise-clear language.",
+        "essential_elements": [
+          "Covers: illegible or not commonly intelligible characters; foreign, obsolete, technical, local, and regional expressions; abbreviations; and peculiarly used words.",
+          "Evidence (e.g. expert or trade-usage testimony) is admissible to establish what such characters/expressions/abbreviations/words mean."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This closes out the run of sections 96-101, which collectively map out exactly when extrinsic evidence can and cannot be used to interpret a document -- barred for patent, face-of-document ambiguity (s.96), but allowed for the various latent-ambiguity and decoding scenarios (s.97-101)."
+      }
+    },
+    {
+      "number": "102",
+      "title": "Who may give evidence of agreement varying terms of document",
+      "raw_text": "102. Persons who are not parties to a document, or their representatives in interest, may give evidence of any facts tending to show a contemporaneous agreement varying the terms of the document.\nIllustration.\nA and B make a contract in writing that B shall sell A certain cotton, to be paid for on delivery. At the same time, they make an oral agreement that three months' credit shall be given to A. This could not be shown as between A and B, but it might be shown by C, if it affected his interests.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "The parol evidence exclusion in sections 94-95 only binds the actual parties to a document (and their representatives in interest) -- a stranger to the document whose own interests are affected may still lead evidence of a contemporaneous oral agreement varying its terms.",
+        "essential_elements": [
+          "Applies to persons who are not parties to the document, or their representatives in interest.",
+          "Such persons may prove facts showing a contemporaneous oral agreement varying the document's terms."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the privity limit on the parol evidence rule -- sections 94/95's bar is specifically \"as between the parties to any such instrument or their representatives in interest\"; a third party whose rights are affected by the document is not bound by that restriction."
+      }
+    },
+    {
+      "number": "103",
+      "title": "Saving of provisions of Indian Succession Act relating to wills",
+      "raw_text": "103. Nothing in this Chapter shall be taken to affect any of the provisions of the Indian Succession Act, 1925 (39 of 1925) as to the construction of wills.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A savings clause: nothing in Chapter VI (sections 94-102) overrides the Indian Succession Act, 1925's own special rules for construing wills -- will-construction continues to be governed by that Act.",
+        "essential_elements": [
+          "Closes Chapter VI.",
+          "Preserves the Indian Succession Act, 1925's provisions on construction of wills, unaffected by this Chapter's document-interpretation rules."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short but important carve-out -- wills have their own specialised body of construction rules under succession law, and this section makes clear Chapter VI's general document-interpretation framework doesn't displace them."
+      }
+    },
+    {
+      "number": "104",
+      "title": "Burden of proof",
+      "raw_text": "104. Whoever desires any Court to give judgment as to any legal right or liability dependent on the existence of facts which he asserts must prove that those facts exist, and when a person is bound to prove the existence of any fact, it is said that the burden of proof lies on that person.\nIllustrations.\n(a) A desires a Court to give judgment that B shall be punished for a crime which A says B has committed. A must prove that B has committed the crime.\n(b) A desires a Court to give judgment that he is entitled to certain land in the possession of B, by reason of facts which he asserts, and which B denies, to be true. A must prove the existence of those facts.",
+      "key_terms": [
+        "burden of proof"
+      ],
+      "breakdown": {
+        "plain_summary": "Opens Chapter VII with the foundational definition: whoever wants a Court to grant a judgment based on asserted facts must prove those facts -- that obligation to prove is what \"burden of proof\" means.",
+        "essential_elements": [
+          "Applies to anyone desiring a judgment on a legal right/liability that depends on asserted facts.",
+          "That person must prove the facts they assert.",
+          "Definitional: being \"bound to prove\" a fact is what it means for the burden of proof to lie on someone."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the general, abstract definition; sections 105 onward operationalise it with more specific, practical rules about exactly whom the burden falls on in particular scenarios."
+      }
+    },
+    {
+      "number": "105",
+      "title": "On whom burden of proof lies",
+      "raw_text": "105. The burden of proof in a suit or proceeding lies on that person who would fail if no evidence at all were given on either side.\nIllustrations.\n(a) A sues B for land of which B is in possession, and which, as A asserts, was left to A by the will of C, B's father. If no evidence were given on either side, B would be entitled to retain his possession. Therefore, the burden of proof is on A.\n(b) A sues B for money due on a bond. The execution of the bond is admitted, but B says that it was obtained by fraud, which A denies. If no evidence were given on either side, A would succeed, as the bond is not disputed and the fraud is not proved. Therefore, the burden of proof is on B.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Gives the practical test for locating the overall burden in a suit/proceeding: ask who would lose if absolutely no evidence were led by either side -- that person carries the burden of proof.",
+        "essential_elements": [
+          "The test: who would fail if no evidence at all were given on either side.",
+          "Illustration (a): a possessor-defendant wins by default, so the burden is on the claimant asserting a competing right.",
+          "Illustration (b): an admitted, undisputed bond means the plaintiff would win by default, so the burden of proving the fraud defence shifts to the defendant."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This \"who loses by default\" test is the practical operationalisation of section 104's abstract definition, and is frequently invoked in pleadings-stage arguments about which side must lead evidence first."
+      }
+    },
+    {
+      "number": "106",
+      "title": "Burden of proof as to particular fact",
+      "raw_text": "106. The burden of proof as to any particular fact lies on that person who wishes the Court to believe in its existence, unless it is provided by any law that the proof of that fact shall lie on any particular person.\nIllustration.\nA prosecutes B for theft, and wishes the Court to believe that B admitted the theft to C. A must prove the admission. B wishes the Court to believe that, at the time in question, he was elsewhere. He must prove it.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Beyond the overall suit-level burden (section 105), each individual particular fact has its own burden: whoever wants the Court to believe that specific fact exists must prove it -- unless some other law specifically assigns that fact's proof to someone else.",
+        "essential_elements": [
+          "Default rule: the burden of any particular fact lies on the person who wants the Court to believe it.",
+          "Overridden wherever another law specifically allocates proof of that fact to a particular person."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 105 and 106 operate at different levels of granularity -- 105 identifies who bears the ultimate, overall burden of the case; 106 governs shifting, fact-by-fact burdens for individual assertions within that case (e.g. an alibi, as in the Illustration)."
+      }
+    },
+    {
+      "number": "107",
+      "title": "Burden of proving fact to be proved to make evidence admissible",
+      "raw_text": "107. The burden of proving any fact necessary to be proved in order to enable any person to give evidence of any other fact is on the person who wishes to give such evidence.\nIllustrations.\n(a) A wishes to prove a dying declaration by B. A must prove B's death.\n(b) A wishes to prove, by secondary evidence, the contents of a lost document. A must prove that the document has been lost.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Where some \"gateway fact\" must be established before other evidence becomes admissible at all (e.g. proving a declarant is dead before their dying declaration can be led, or proving a document is lost before secondary evidence of it can be led), the burden of proving that gateway fact is on whoever wants to lead the dependent evidence.",
+        "essential_elements": [
+          "Applies to facts that are preconditions for the admissibility of other evidence.",
+          "The burden of proving the precondition falls on the party wishing to lead the evidence that depends on it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This connects directly to section 141(2) later in the Adhiniyam, which requires such foundational facts to be proved before the dependent evidence is admitted -- section 107 tells you who carries that foundational burden."
+      }
+    },
+    {
+      "number": "108",
+      "title": "Burden of proving that case of accused comes within exceptions",
+      "raw_text": "108. When a person is accused of any offence, the burden of proving the existence of circumstances bringing the case within any of the General Exceptions in the Bharatiya Nyaya Sanhita, 2023 or within any special exception or proviso contained in any other part of the said Sanhita, or in any law defining the offence, is upon him, and the Court shall presume the absence of such circumstances.\nIllustrations.\n(a) A, accused of murder, alleges that, by reason of unsoundness of mind, he did not know the nature of the act. The burden of proof is on A.\n(b) A, accused of murder, alleges that, by grave and sudden provocation, he was deprived of the power of self-control. The burden of proof is on A.\n(c) Section 117 of the Bharatiya Nyaya Sanhita, 2023 provides that whoever, except in the case provided for by sub-section (2) of section 122, voluntarily causes grievous hurt, shall be subject to certain punishments. A is charged with voluntarily causing grievous hurt under section 117. The burden of proving the circumstances bringing the case under sub-section (2) of section 122 lies on A.",
+      "key_terms": [
+        "general exceptions"
+      ],
+      "breakdown": {
+        "plain_summary": "In a criminal case, if the accused wants to rely on a General Exception (like unsoundness of mind or grave and sudden provocation) or any special exception/proviso in the Bharatiya Nyaya Sanhita or the law defining the offence, the burden of proving those exculpatory circumstances is on the accused -- and the Court must otherwise presume such circumstances are absent.",
+        "essential_elements": [
+          "Applies to General Exceptions in the Bharatiya Nyaya Sanhita, 2023, and to special exceptions/provisos in the BNS or the offence-defining law.",
+          "The accused bears the burden of proving facts bringing the case within such an exception.",
+          "Default presumption: the Court presumes the absence of such circumstances unless the accused discharges this burden."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This doesn't shift the prosecution's fundamental burden of proving guilt beyond reasonable doubt on the offence's essential ingredients -- it specifically allocates the burden for exculpatory exceptions the accused affirmatively invokes, typically on the lighter preponderance-of-probability standard as developed in case law."
+      }
+    },
+    {
+      "number": "109",
+      "title": "Burden of proving fact especially within knowledge",
+      "raw_text": "109. When any fact is especially within the knowledge of any person, the burden of proving that fact is upon him.\nIllustrations.\n(a) When a person does an act with some intention other than that which the character and circumstances of the act suggest, the burden of proving that intention is upon him.\n(b) A is charged with travelling on a railway without a ticket. The burden of proving that he had a ticket is on him.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Where a fact is especially within one person's own knowledge -- something far easier for them to prove than for the other side to disprove -- the burden of proving that fact shifts onto that person.",
+        "essential_elements": [
+          "Applies where a fact is especially within a particular person's knowledge.",
+          "The burden of proving that fact rests on that person."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The classic \"ticketless travel\" illustration shows this section's practical utility -- it would be absurdly hard for the prosecution to prove a negative (no ticket existed); it is trivially easy for the accused to produce the ticket if he has one, so the burden shifts."
+      }
+    },
+    {
+      "number": "110",
+      "title": "Burden of proving death of person known to have been alive within thirty years",
+      "raw_text": "110. When the question is whether a man is alive or dead, and it is shown that he was alive within thirty years, the burden of proving that he is dead is on the person who affirms it.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "If someone is shown to have been alive within the last thirty years, the law's starting assumption is that they're still alive -- so anyone asserting that person is now dead carries the burden of proving it.",
+        "essential_elements": [
+          "Applies where the question is whether a man is alive or dead.",
+          "Precondition: shown to have been alive within thirty years.",
+          "Burden of proving death is on the person who affirms it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section and section 111 form a matched pair covering opposite ends of a timeline -- recent proof of life (within 30 years) puts the burden on whoever alleges death; a long, unexplained absence (7+ years, section 111) flips the burden onto whoever alleges continued life."
+      }
+    },
+    {
+      "number": "111",
+      "title": "Burden of proving that person is alive who has not been heard of for seven years",
+      "raw_text": "111. When the question is whether a man is alive or dead, and it is proved that he has not been heard of for seven years by those who would naturally have heard of him if he had been alive, the burden of proving that he is alive is shifted to the person who affirms it.",
+      "key_terms": [
+        "seven years' presumption of death"
+      ],
+      "breakdown": {
+        "plain_summary": "If a person has not been heard of for seven years by those who would naturally have heard from them if alive, the law's presumption flips to death -- the burden then falls on anyone who wants to assert that the person is still alive.",
+        "essential_elements": [
+          "Applies where the question is whether a man is alive or dead.",
+          "Precondition: not heard of for seven years by people who would naturally have heard from him if alive.",
+          "Burden of proving he is still alive shifts to the person who affirms that."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note this section only creates a burden-shift/presumption of death -- it does not, by itself, fix a date of death; the precise date of death (relevant e.g. for succession) is a separate question courts have had to work out under general principles."
+      }
+    },
+    {
+      "number": "112",
+      "title": "Burden of proof as to relationship in the cases of partners, landlord and tenant, principal and agent",
+      "raw_text": "112. When the question is whether persons are partners, landlord and tenant, or principal and agent, and it has been shown that they have been acting as such, the burden of proving that they do not stand, or have ceased to stand, to each other in those relationships respectively, is on the person who affirms it.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Once it's shown that two people have been acting as partners, or as landlord-tenant, or as principal-agent, the law presumes that relationship continues -- the burden of proving it does not exist, or has ended, falls on whoever asserts that.",
+        "essential_elements": [
+          "Applies to three specific relationship pairs: partners; landlord and tenant; principal and agent.",
+          "Precondition: shown to have been acting in that capacity.",
+          "Burden of proving non-existence or cessation of the relationship is on the person who affirms it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical continuity presumption -- useful in disputes over rent, partnership dissolution, or agency authority where one side wants to claim the relationship had already ended by the relevant date."
+      }
+    },
+    {
+      "number": "113",
+      "title": "Burden of proof as to ownership",
+      "raw_text": "113. When the question is whether any person is owner of anything of which he is shown to be in possession, the burden of proving that he is not the owner is on the person who affirms that he is not the owner.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Possession triggers a presumption of ownership -- if someone is shown to be in possession of something, the burden of proving they are NOT the owner falls on whoever makes that claim.",
+        "essential_elements": [
+          "Applies where the question is ownership of something the person is shown to be in possession of.",
+          "Burden of proving non-ownership is on the person who affirms it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a narrow, practical presumption tied strictly to possession -- it does not create any presumption about how the possessor acquired the thing, only about who currently owns it."
+      }
+    },
+    {
+      "number": "114",
+      "title": "Proof of good faith in transactions where one party is in relation of active confidence",
+      "raw_text": "114. Where there is a question as to the good faith of a transaction between parties, one of whom stands to the other in a position of active confidence, the burden of proving the good faith of the transaction is on the party who is in a position of active confidence.\nIllustrations.\n(a) The good faith of a sale by a client to an advocate is in question in a suit brought by the client. The burden of proving the good faith of the transaction is on the advocate.\n(b) The good faith of a sale by a son just come of age to a father is in question in a suit brought by the son. The burden of proving the good faith of the transaction is on the father.",
+      "key_terms": [
+        "active confidence"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a transaction's good faith is questioned and one party stood in a position of active confidence over the other (e.g. advocate-client, parent-child just come of age), the burden of proving the transaction was in good faith rests on the dominant, trusted party -- not the weaker party alleging bad faith.",
+        "essential_elements": [
+          "Applies where good faith of a transaction is in question, and one party is in a position of active confidence relative to the other.",
+          "Burden of proving good faith is on the party in the position of active confidence.",
+          "Illustrations: advocate-client (advocate bears the burden); father-son just come of age (father bears the burden)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a fiduciary-relationship burden-reversal -- it recognises that the dominant party in a confidence relationship is better placed to explain and justify a transaction than the vulnerable party is to disprove its fairness."
+      }
+    },
+    {
+      "number": "115",
+      "title": "Presumption as to certain offences",
+      "raw_text": "115. (1) Where a person is accused of having committed any offence specified in sub-section (2), in—\n(a) any area declared to be a disturbed area under any enactment for the time being in force, making provision for the suppression of disorder and restoration and maintenance of public order; or\n(b) any area in which there has been, over a period of more than one month, extensive disturbance of the public peace,\nand it is shown that such person had been at a place in such area at a time when firearms or explosives were used at or from that place to attack or resist the members of any armed forces or the forces charged with the maintenance of public order acting in the discharge of their duties, it shall be presumed, unless the contrary is shown, that such person had committed such offence.\n(2) The offences referred to in sub-section (1) are the following, namely:—\n(a) an offence under section 147, section 148, section 149 or section 150 of the Bharatiya Nyaya Sanhita, 2023;\n(b) criminal conspiracy or attempt to commit, or abetment of, an offence under section 149 or section 150 of the Bharatiya Nyaya Sanhita, 2023.",
+      "key_terms": [
+        "disturbed area"
+      ],
+      "breakdown": {
+        "plain_summary": "In a declared disturbed area, or an area with over a month of extensive public-peace disturbance, if an accused was present at a place where firearms/explosives were used to attack or resist armed/public-order forces, the law presumes -- unless the accused shows otherwise -- that the accused committed the specified BNS public-order offences (waging war/related offences, or conspiracy/attempt/abetment of them).",
+        "essential_elements": [
+          "Applies only to the specific offences listed in sub-section (2) -- BNS sections 147-150 and conspiracy/attempt/abetment of sections 149-150.",
+          "Applies only in a declared disturbed area, or an area with over one month of extensive public-peace disturbance.",
+          "Trigger fact: the accused's presence at a place where firearms/explosives were used against armed/public-order forces.",
+          "Effect: presumption of guilt of the specified offence, rebuttable by the accused."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a significant, narrowly targeted presumption-of-guilt provision for grave public-order/insurgency-type offences in designated disturbed areas -- it should not be confused with a general presumption applicable to ordinary criminal cases."
+      }
+    },
+    {
+      "number": "116",
+      "title": "Birth during marriage, conclusive proof of legitimacy",
+      "raw_text": "116. The fact that any person was born during the continuance of a valid marriage between his mother and any man, or within two hundred and eighty days after its dissolution, the mother remaining unmarried, shall be conclusive proof that he is the legitimate child of that man, unless it can be shown that the parties to the marriage had no access to each other at any time when he could have been begotten.",
+      "key_terms": [
+        "conclusive proof",
+        "legitimacy"
+      ],
+      "breakdown": {
+        "plain_summary": "Birth during a valid marriage, or within 280 days after the marriage's dissolution (mother still unmarried), is conclusive proof of legitimacy -- the only way to rebut it is to show the spouses had no access to each other at any time the child could have been conceived.",
+        "essential_elements": [
+          "Applies to birth during a valid, subsisting marriage, or within 280 days after its dissolution provided the mother remains unmarried.",
+          "Conclusive proof (section 4's strongest evidentiary status) of legitimacy -- not merely a rebuttable presumption in the ordinary sense.",
+          "Sole rebuttal route: showing non-access between the spouses at any time when conception could have occurred."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "\"Conclusive proof\" (defined in section 4) is the strongest category in the Adhiniyam's proof hierarchy -- ordinarily it forecloses all contrary evidence, but this section carves out one specific, narrow rebuttal (non-access), making it a hybrid rather than a truly absolute conclusive proof."
+      }
+    },
+    {
+      "number": "117",
+      "title": "Presumption as to abetment of suicide by a married woman",
+      "raw_text": "117. When the question is whether the commission of suicide by a woman had been abetted by her husband or any relative of her husband and it is shown that she had committed suicide within a period of seven years from the date of her marriage and that her husband or such relative of her husband had subjected her to cruelty, the Court may presume, having regard to all the other circumstances of the case, that such suicide had been abetted by her husband or by such relative of her husband.\nExplanation.—For the purposes of this section, \"cruelty\" shall have the same meaning as in section 86 of the Bharatiya Nyaya Sanhita, 2023.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "If a married woman dies by suicide within seven years of marriage, and it's shown her husband or his relative subjected her to cruelty, the Court may (discretionary, considering all circumstances) presume that the husband or relative abetted the suicide.",
+        "essential_elements": [
+          "Applies where the question is abetment of a married woman's suicide by her husband or his relative.",
+          "Preconditions: suicide within seven years of marriage; and proof of cruelty (as defined in BNS section 86) by the husband/relative.",
+          "Discretionary presumption of abetment, considering all other circumstances of the case."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This mirrors section 118's dowry-death presumption in structure but differs importantly in strength -- this is a \"may presume\" (discretionary), whereas section 118's dowry-death presumption is a \"shall presume\" (mandatory)."
+      }
+    },
+    {
+      "number": "118",
+      "title": "Presumption as to dowry death",
+      "raw_text": "118. When the question is whether a person has committed the dowry death of a woman and it is shown that soon before her death, such woman had been subjected by such person to cruelty or harassment for, or in connection with, any demand for dowry, the Court shall presume that such person had caused the dowry death.\nExplanation.—For the purposes of this section, \"dowry death\" shall have the same meaning as in section 80 of the Bharatiya Nyaya Sanhita, 2023.",
+      "key_terms": [
+        "dowry death"
+      ],
+      "breakdown": {
+        "plain_summary": "If a woman's death qualifies as a dowry death, and it's shown that soon before her death she was subjected to cruelty/harassment for a dowry demand by the accused, the Court MUST presume that person caused the dowry death.",
+        "essential_elements": [
+          "Applies to the question of who committed a dowry death (as defined in BNS section 80).",
+          "Precondition: proof of cruelty/harassment for/in connection with a dowry demand, soon before death.",
+          "Mandatory presumption (\"shall presume\") that the accused caused the dowry death."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare directly with section 117 (abetment of suicide by a married woman) -- both use a similar cruelty-plus-timing structure, but this section is mandatory (\"shall presume\") given the gravity of dowry deaths, while section 117 remains discretionary (\"may presume\")."
+      }
+    },
+    {
+      "number": "119",
+      "title": "Court may presume existence of certain facts",
+      "raw_text": "119. (1) The Court may presume the existence of any fact which it thinks likely to have happened, regard being had to the common course of natural events, human conduct and public and private business, in their relation to the facts of the particular case.\nIllustrations.\nThe Court may presume that—\n(a) a man who is in possession of stolen goods soon, after the theft is either the thief or has received the goods knowing them to be stolen, unless he can account for his possession;\n(b) an accomplice is unworthy of credit, unless he is corroborated in material particulars;\n(c) a bill of exchange, accepted or endorsed, was accepted or endorsed for good consideration;\n(d) a thing or state of things which has been shown to be in existence within a period shorter than that within which such things or state of things usually cease to exist, is still in existence;\n(e) judicial and official acts have been regularly performed;\n(f) the common course of business has been followed in particular cases;\n(g) evidence which could be and is not produced would, if produced, be unfavourable to the person who withholds it;\n(h) if a man refuses to answer a question which he is not compelled to answer by law, the answer, if given, would be unfavourable to him;\n(i) when a document creating an obligation is in the hands of the obligor, the obligation has been discharged.\n(2) The Court shall also have regard to such facts as the following, in considering whether such maxims do or do not apply to the particular case before it:—\n(i) as to Illustration (a)—a shop-keeper has in his bill a marked rupee soon after it was stolen, and cannot account for its possession specifically, but is continually receiving rupees in the course of his business;\n(ii) as to Illustration (b)—A, a person of the highest character, is tried for causing a man's death by an act of negligence in arranging certain machinery. B, a person of equally good character, who also took part in the arrangement, describes precisely what was done, and admits and explains the common carelessness of A and himself;\n(iii) as to Illustration (b)—a crime is committed by several persons. A, B and C, three of the criminals, are captured on the spot and kept apart from each other. Each gives an account of the crime implicating D, and the accounts corroborate each other in such a manner as to render previous concert highly improbable;\n(iv) as to Illustration (c)—A, the drawer of a bill of exchange, was a man of business. B, the acceptor, was a young and ignorant person, completely under A's influence;\n(v) as to Illustration (d)—it is proved that a river ran in a certain course five years ago, but it is known that there have been floods since that time which might change its course;\n(vi) as to Illustration (e)—a judicial act, the regularity of which is in question, was performed under exceptional circumstances;\n(vii) as to Illustration (f)—the question is, whether a letter was received. It is shown to have been posted, but the usual course of the post was interrupted by disturbances;\n(viii) as to Illustration (g)—a man refuses to produce a document which would bear on a contract of small importance on which he is sued, but which might also injure the feelings and reputation of his family;\n(ix) as to Illustration (h)—a man refuses to answer a question which he is not compelled by law to answer, but the answer to it might cause loss to him in matters unconnected with the matter in relation to which it is asked;\n(x) as to Illustration (i)—a bond is in possession of the obligor, but the circumstances of the case are such that he may have stolen it.",
+      "key_terms": [
+        "natural presumption"
+      ],
+      "breakdown": {
+        "plain_summary": "A broad, general discretionary power: the Court may presume any fact likely to have happened based on the common course of natural events, human conduct, and business -- illustrated with nine everyday evidentiary maxims (recent-possession theft inference, accomplice unreliability, consideration on a bill of exchange, continuity of a shown state of things, regularity of official acts, adherence to business routine, adverse inference from withheld evidence, adverse inference from refusal to answer, and discharge from an obligor's possession of the obligation document) -- but sub-section (2) immediately cautions that each maxim must be weighed against the actual facts of the particular case, not applied mechanically.",
+        "essential_elements": [
+          "General discretionary power to presume facts likely to have happened, based on natural events/human conduct/business course.",
+          "Nine illustrative maxims given in sub-section (1) -- none is a rigid rule; all are guides to common-sense inference.",
+          "Sub-section (2) requires the Court to test each maxim's applicability against the specific facts before it, with matching counter-illustrations showing when the maxim should NOT be mechanically applied."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the broadest, most flexible presumption section in the Adhiniyam -- effectively a codification of ordinary common-sense inferential reasoning ('maxims of experience'). It is a favourite anchor for arguments about adverse inference from withheld evidence (illustration (g)) and recent/unexplained possession (illustration (a)), but sub-section (2)'s case-specific caveats are equally important and frequently overlooked."
+      }
+    },
+    {
+      "number": "120",
+      "title": "Presumption as to absence of consent in certain prosecution for rape",
+      "raw_text": "120. In a prosecution for rape under sub-section (2) of section 64 of the Bharatiya Nyaya Sanhita, 2023, where sexual intercourse by the accused is proved and the question is whether it was without the consent of the woman alleged to have been raped and such woman states in her evidence before the Court that she did not consent, the Court shall presume that she did not consent.\nExplanation.—In this section, \"sexual intercourse\" shall mean any of the acts mentioned in section 63 of the Bharatiya Nyaya Sanhita, 2023.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "In an aggravated-rape prosecution under BNS section 64(2), once sexual intercourse by the accused is proved, and the complainant testifies before the Court that she did not consent, the Court must presume absence of consent -- shifting the practical burden onto the accused to establish consent.",
+        "essential_elements": [
+          "Applies specifically to prosecutions under BNS section 64(2) (aggravated categories of rape).",
+          "Preconditions: sexual intercourse by the accused is proved, and the woman states in evidence that she did not consent.",
+          "Mandatory presumption (\"shall presume\") of absence of consent once those preconditions are met.",
+          "Explanation ties \"sexual intercourse\" to the acts defined in BNS section 63."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This closes Chapter VII with a mandatory presumption significant to sexual offence trials -- it operates alongside section 149's proviso (barring character/past-sexual-history questions on the consent issue) to protect complainants once intercourse is proved and non-consent is testified to."
+      }
+    },
+    {
+      "number": "121",
+      "title": "Estoppel",
+      "raw_text": "121. When one person has, by his declaration, act or omission, intentionally caused or permitted another person to believe a thing to be true and to act upon such belief, neither he nor his representative shall be allowed, in any suit or proceeding between himself and such person or his representative, to deny the truth of that thing.\nIllustration.\nA intentionally and falsely leads B to believe that certain land belongs to A, and thereby induces B to buy and pay for it. The land afterwards becomes the property of A, and A seeks to set aside the sale on the ground that, at the time of the sale, he had no title. He must not be allowed to prove his want of title.",
+      "key_terms": [
+        "estoppel"
+      ],
+      "breakdown": {
+        "plain_summary": "Opens Chapter VIII with the general definition of estoppel: if someone intentionally, by declaration/act/omission, causes or permits another to believe something and act on that belief, that person (and their representative) cannot later, in litigation between them, deny the truth of what they represented.",
+        "essential_elements": [
+          "Requires: a declaration, act, or omission by one person.",
+          "That conduct must intentionally cause or permit another person to believe a thing to be true.",
+          "The other person must actually act upon that belief.",
+          "Effect: neither the representor nor their representative may deny the truth of that thing in a suit/proceeding between them."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Estoppel is a rule of evidence, not a source of substantive rights -- it stops a party from asserting a fact contrary to their earlier representation, but doesn't itself create title or liability (as the Illustration shows: A is estopped from denying he had title, but the estoppel operates only between A and B)."
+      }
+    },
+    {
+      "number": "122",
+      "title": "Estoppel of tenant and of licensee of person in possession",
+      "raw_text": "122. No tenant of immovable property, or person claiming through such tenant, shall, during the continuance of the tenancy or any time thereafter, be permitted to deny that the landlord of such tenant had, at the beginning of the tenancy, a title to such immovable property; and no person who came upon any immovable property by the licence of the person in possession thereof shall be permitted to deny that such person had a title to such possession at the time when such licence was given.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "A specific application of estoppel to landlord-tenant and licensor-licensee relationships: a tenant (or anyone claiming through them) cannot deny the landlord's title as it stood at the start of the tenancy, and a licensee cannot deny the licensor's title to possession as it stood when the licence was granted.",
+        "essential_elements": [
+          "Tenant estoppel: a tenant, or person claiming through the tenant, cannot deny the landlord had title at the tenancy's commencement -- applies during the tenancy and at any time thereafter.",
+          "Licensee estoppel: a person who entered under someone's licence cannot deny that person's title to possession as it stood when the licence was granted.",
+          "In both cases the estoppel is fixed to the position at the relevant starting point (tenancy's beginning / licence's grant) -- it doesn't necessarily estop denial of continuing title thereafter."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a practical, frequently invoked estoppel in landlord-tenant litigation -- a tenant sued for eviction or arrears cannot defend by claiming the landlord never had title, since accepting the tenancy already conceded that point at its inception."
+      }
+    },
+    {
+      "number": "123",
+      "title": "Estoppel of acceptor of bill of exchange, bailee or licensee",
+      "raw_text": "123. No acceptor of a bill of exchange shall be permitted to deny that the drawer had authority to draw such bill or to endorse it; nor shall any bailee or licensee be permitted to deny that his bailor or licensor had, at the time when the bailment or licence commenced, authority to make such bailment or grant such licence.\nExplanation 1.—The acceptor of a bill of exchange may deny that the bill was really drawn by the person by whom it purports to have been drawn.\nExplanation 2.—If a bailee delivers the goods bailed to a person other than the bailor, he may prove that such person had a right to them as against the bailor.",
+      "key_terms": [],
+      "breakdown": {
+        "plain_summary": "Extends estoppel to commercial and bailment relationships: an acceptor of a bill of exchange cannot deny the drawer's authority to draw/endorse it, and a bailee/licensee cannot deny their bailor/licensor's authority to make the bailment/grant the licence at its commencement -- subject to two clarifying Explanations preserving narrower defences.",
+        "essential_elements": [
+          "Bill of exchange acceptor: estopped from denying the drawer's authority to draw or endorse the bill.",
+          "Bailee/licensee: estopped from denying the bailor's/licensor's authority to make the bailment/grant the licence, as it stood when the bailment/licence began.",
+          "Explanation 1: the acceptor may still deny the bill was actually drawn by the person it purports to be drawn by -- i.e. may raise a forgery-style defence, distinct from denying authority.",
+          "Explanation 2: a bailee who delivers goods to someone other than the bailor may still prove that third person's superior right to the goods as against the bailor -- a jus tertii defence."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Closes Chapter VIII. Note how the two Explanations carve out real, substantive defences that remain open despite the general estoppel -- denying genuineness of the instrument itself (Explanation 1) and asserting a third party's superior right (Explanation 2) are conceptually different from denying the counterparty's authority, which is what the estoppel actually forecloses."
       }
     }
   ]
