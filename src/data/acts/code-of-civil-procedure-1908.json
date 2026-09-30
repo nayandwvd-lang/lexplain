@@ -287,7 +287,41 @@
     "pecuniary bar to second appeal": "The absolute bar under Section 102 preventing any second appeal from a decree in a money-recovery suit where the subject-matter did not exceed twenty-five thousand rupees, regardless of whether a substantial question of law might otherwise exist.",
     "money suit": "A suit instituted for the recovery of a sum of money, as distinguished from suits for other reliefs such as possession, injunction, or declaration; the pecuniary bar under Section 102 applies specifically to this category of suit.",
     "issue of fact in second appeal": "A factual issue that the High Court may itself determine in a second appeal under Section 103, but only where it was left undetermined below or was wrongly decided due to an erroneous view of law, and only if the existing evidence on record is sufficient.",
-    "sufficiency of evidence on record": "The threshold condition under Section 103 requiring that the material already on the case record be adequate for the High Court to itself decide a necessary factual issue in second appeal, without the need for a remand for fresh evidence."
+    "sufficiency of evidence on record": "The threshold condition under Section 103 requiring that the material already on the case record be adequate for the High Court to itself decide a necessary factual issue in second appeal, without the need for a remand for fresh evidence.",
+    "appealable orders": "Orders of a Court that are capable of being independently appealed, as opposed to the general rule that only decrees carry a right of appeal; Section 104 provides the closed list of such orders under the Code.",
+    "closed list of appealable orders": "The principle that Section 104(1) exhaustively enumerates the specific categories of order from which an appeal lies, so that an order not falling within that list (or made appealable by a specific rule) cannot be separately appealed.",
+    "compensatory costs order": "An order under Section 35A awarding costs against a party who raised a false or vexatious claim or defence; such an order is independently appealable under Section 104(1)(ff), though only on the narrow ground stated in the proviso.",
+    "leave refusal": "An order refusing permission (leave) to institute a suit under Section 91 (public nuisance) or Section 92 (public charity); Section 104(1)(ffa) makes such a refusal independently appealable.",
+    "second appeal from order barred": "The rule in Section 104(2) that no further appeal lies from an order already passed in appeal under Section 104 — the appellate order on such matters is final within this section's scheme.",
+    "non-appealable order": "An order made by a Court in the exercise of its original or appellate jurisdiction that does not fall within any category independently made appealable by the Code; under Section 105, its correctness can only be raised as a ground of objection in an appeal from the eventual decree.",
+    "ground of objection in decree appeal": "The mechanism under Section 105(1) by which an error, defect, or irregularity in a non-appealable interlocutory order can still be challenged — not by a separate appeal from the order, but as a specific ground raised in the memorandum of appeal against the final decree.",
+    "order of remand": "An order by which an appellate court sends a case back to the court below for fresh trial, further findings, or other specified action; where such an order is itself appealable and is not appealed, Section 105(2) bars any later challenge to its correctness.",
+    "forum for appeal from order": "The rule in Section 106 identifying which Court hears an appeal from an appealable order — ordinarily the same Court that would hear an appeal from the decree in that suit, unless the order was passed by a subordinate court in its appellate capacity, in which case the appeal goes to the High Court.",
+    "appellate jurisdiction forum": "The special routing rule under Section 106 that directs an appeal from an order — where that order was itself made by a court (other than the High Court) exercising appellate jurisdiction — to the High Court rather than to the ordinary decree-appeal forum.",
+    "appellate court powers": "The bundle of powers conferred on an appellate court by Section 107 — to finally determine the case, remand it, frame and refer issues, or take additional evidence — exercised subject to the conditions in Order XLI.",
+    "remand": "The power of an appellate court under Section 107(1)(b) to send a case back to the trial court for fresh trial, further findings, or other specified proceedings, most often exercised where the trial court failed to decide a material issue or wrongly disposed of the suit on a preliminary point.",
+    "framing and referring issues": "The power under Section 107(1)(c) allowing an appellate court to frame issues that were not properly framed by the trial court and to send them down to that court for its findings on those specific issues.",
+    "additional evidence in appeal": "Evidence taken by, or at the direction of, an appellate court under Section 107(1)(d), which is admitted only within the specific and limited circumstances set out in Order XLI Rule 27, to prevent parties from supplementing a deficient case at the appeal stage.",
+    "procedural extension to second appeals": "The rule in Section 108(a) that the procedure prescribed for appeals from original decrees also governs appeals from appellate decrees (i.e., second appeals), so far as applicable and absent a specifically different procedure.",
+    "appeals from orders procedure": "The rule in Section 108(b) applying the original-decree appeal procedure to appeals from orders made under the Code or any special/local law, except where that law provides a different procedure of its own.",
+    "certificate of fitness for Supreme Court appeal": "A certificate issued by the High Court under Section 109, confirming that a civil case involves a substantial question of law of general importance which, in the High Court's opinion, needs to be decided by the Supreme Court, thereby entitling the party to appeal as of right rather than by discretionary leave.",
+    "substantial question of law of general importance": "The specific, elevated threshold required for a Section 109 certificate — beyond an ordinary substantial question of law under Section 100, it must additionally be of general importance transcending the individual case.",
+    "constitutional appeal to Supreme Court": "The broader constitutional framework (Articles 132-136 of the Constitution) within which Section 109's certificate mechanism operates, and which also independently supplies the discretionary Special Leave Petition route under Article 136.",
+    "omitted section": "A section of the Code that has been formally deleted by a subsequent amending Act, leaving only its number as a placeholder in the Code's numbering scheme, with no continuing legal effect.",
+    "savings clause": "A statutory provision, such as Section 112, that expressly preserves specified powers, rules, or categories of proceeding from being affected by the surrounding law — here, preserving the Supreme Court's constitutional powers and its own procedural rules, and excluding criminal, admiralty, and Prize Court matters from the Code's appeal provisions.",
+    "Article 136 special leave": "The Supreme Court's discretionary constitutional power under Article 136 to grant special leave to appeal from any judgment, decree, order, or sentence of any court or tribunal in India, expressly preserved from being cut down by anything in the Code under Section 112(1)(a).",
+    "Prize Court exclusion": "The exclusion, under Section 112(2), of appeals from orders and decrees of Prize Courts (courts adjudicating the disposal of enemy property captured in war) from the Code's ordinary civil appeal provisions.",
+    "reference to High Court": "The procedure under Section 113 by which a subordinate court, while a case is still pending before it, states a case and refers a specific question to the High Court for its opinion, subject to the conditions prescribed in Order XLVI.",
+    "case stated": "The formal document in which a subordinate court making a reference under Section 113 sets out the relevant facts, the question involved, and (where the reference is mandatory under the proviso) its own opinion and reasons, for the High Court's consideration.",
+    "mandatory reference on constitutional validity": "The obligatory reference required by the proviso to Section 113 where a subordinate court itself considers a statute, ordinance, or regulation invalid or inoperative but no High Court or the Supreme Court has yet so declared — the subordinate court must refer the question rather than decide it alone.",
+    "review of judgment": "The remedy under Section 114 by which a person aggrieved by a decree or order may apply to the very same Court that passed it, asking that Court to reconsider its own decision on the specific grounds set out in Order XLVII Rule 1.",
+    "same court reconsideration": "The distinguishing feature of review under Section 114 — unlike an appeal (heard by a higher court) or a revision (heard by the High Court), a review application is made to, and decided by, the identical Court that passed the original decree or order.",
+    "review application": "The formal application by which a party invokes the Court's power under Section 114 and Order XLVII to reconsider its own decree or order, available where an appeal lay but was not filed, where no appeal lies at all, or on a Small Cause Court reference decision.",
+    "revisional jurisdiction": "The supervisory power of the High Court under Section 115 to call for and examine the record of a case decided by a subordinate court, confined strictly to correcting jurisdictional errors rather than re-examining the merits.",
+    "jurisdictional error": "An error falling within one of the three categories in Section 115(1)(a)-(c) — exercising jurisdiction not vested by law, failing to exercise jurisdiction that is vested, or exercising jurisdiction illegally or with material irregularity — as distinct from an ordinary error of fact or law made within jurisdiction, which is not revisable.",
+    "material irregularity": "A serious procedural defect in how a subordinate court exercised its jurisdiction (as opposed to a defect in the decision on the merits), which under Section 115(1)(c) can justify the High Court's revisional interference.",
+    "no automatic stay": "The rule in Section 115(3) that merely filing a revision petition does not by itself stay the suit or proceeding below — a party must separately and specifically apply for, and obtain, a stay order from the High Court.",
+    "case decided": "The phrase construed by the Explanation to Section 115 to include not only final decisions but also any order, including an order deciding an issue, made in the course of a still-pending suit or other proceeding — thereby bringing interlocutory orders within the scope of revisable 'cases'."
   },
   "sections": [
     {
@@ -2705,6 +2739,291 @@
           "This section does not convert the High Court into a fact-finding first-appellate forum generally — it is a narrow, fact-specific power exercisable only within these two situations and only on the existing record."
         ],
         "how_to_read": "Useful where remand would cause needless delay: if the record already contains sufficient material, counsel can urge the High Court to finally decide the necessary factual issue itself under Section 103 instead of remanding the matter for a fresh trial-court or first-appellate finding."
+      }
+    },
+    {
+      "number": "104",
+      "title": "Orders from which appeal lies",
+      "raw_text": "(1) An appeal shall lie from the following orders, and save as otherwise expressly provided in the body of this Code or by any law for the time being in force, from no other orders:—\n(ff) an order under section 35A;\n(ffa) an order under section 91 or section 92 refusing leave to institute a suit of the nature referred to in section 91 or section 92, as the case may be;\n(g) an order under section 95;\n(h) an order under any of the provisions of this Code imposing a fine or directing the arrest or detention in the civil prison of any person except where such arrest or detention is in execution of a decree;\n(i) any order made under rules from which an appeal is expressly allowed by rules:\nProvided that no appeal shall lie against any order specified in clause (ff) save on the ground that no order, or an order for the payment of a less amount, ought to have been made.\n(2) No appeal shall lie from any order passed in appeal under this section.",
+      "key_terms": [
+        "appealable orders",
+        "closed list of appealable orders",
+        "compensatory costs order",
+        "leave refusal",
+        "second appeal from order barred"
+      ],
+      "breakdown": {
+        "plain_summary": "Unlike decrees (appealable as of right under Section 96), orders of a Court are appealable only if they fall within the specific closed list given in Section 104(1) — compensatory-costs orders under Section 35A, orders refusing leave to sue under Sections 91/92, compensation orders under Section 95, fine/arrest/detention orders (other than in decree execution), and any order that a rule expressly makes appealable. Sub-section (2) then closes the loop by barring any further appeal from an order already passed in appeal under this section.",
+        "essential_elements": [
+          "The order under challenge must fall within one of the specific clauses listed — (ff), (ffa), (g), (h), or (i) — no other kind of order is appealable under Section 104.",
+          "Clause (ff): an order under Section 35A (compensatory costs for false or vexatious claims/defences).",
+          "Clause (ffa): an order refusing leave to institute a Section 91 (public nuisance) or Section 92 (public charity) suit.",
+          "Clause (g): an order under Section 95 (compensation for insufficient grounds for arrest/attachment/injunction).",
+          "Clause (h): an order imposing a fine, or directing arrest/civil-prison detention, under any Code provision — except where the arrest/detention is itself in execution of a decree (which is governed separately).",
+          "Clause (i): any order made under the First Schedule rules where a rule expressly allows an appeal from it.",
+          "The proviso limits an appeal against a clause (ff) order strictly to the ground that no order, or a lesser amount, ought to have been made.",
+          "Sub-section (2) bars any second-tier appeal from an order already passed in appeal under this very section."
+        ],
+        "exceptions_and_qualifications": [
+          "Orders not listed in Section 104(1) and not made appealable by a specific rule are simply not appealable as orders — the aggrieved party's remedy, if any, lies elsewhere (e.g., a revision under Section 115, or raising the error as a ground of objection in an eventual appeal from the decree under Section 105)."
+        ],
+        "how_to_read": "Before drafting a memorandum of appeal against an interlocutory order, practitioners must first check whether that specific order is on the Section 104(1) list (or expressly made appealable by a rule under clause (i)) — an appeal from a non-appealable order is liable to summary dismissal for want of a right of appeal."
+      }
+    },
+    {
+      "number": "105",
+      "title": "Other orders",
+      "raw_text": "(1) Save as otherwise expressly provided, no appeal shall lie from any order made by a Court in the exercise of its original or appellate jurisdiction; but where a decree is appealed from, any error, defect or irregularity in any order, affecting the decision of the case, may be set forth as a ground of objection in the memorandum of appeal.\n(2) Notwithstanding anything contained in sub-section (1), where any party aggrieved by an order of remand from which an appeal lies does not appeal therefrom, he shall thereafter be precluded from disputing its correctness.",
+      "key_terms": [
+        "non-appealable order",
+        "ground of objection in decree appeal",
+        "order of remand"
+      ],
+      "breakdown": {
+        "plain_summary": "This section confirms the general rule that orders (other than the specific ones made independently appealable) cannot themselves be separately appealed — but their correctness is not lost forever: any error in such an order that affected the decision of the case can still be raised as a 'ground of objection' when the final decree itself is appealed. Sub-section (2), however, creates a special trap for orders of remand: if such an order is itself appealable and the aggrieved party lets that opportunity lapse, that party can never later dispute the remand order's correctness.",
+        "essential_elements": [
+          "The general rule of sub-section (1): no independent appeal lies from an order made in the exercise of original or appellate jurisdiction, unless the Code expressly provides otherwise (e.g., the Section 104 list).",
+          "Instead, where the resulting decree is appealed, any error, defect, or irregularity in an interlocutory order affecting the decision can be raised as a ground of objection within that decree appeal.",
+          "Sub-section (2) is a special exception: if an order of remand is one from which an appeal does lie, and the aggrieved party fails to appeal it, that party is thereafter barred from challenging the remand order's correctness — even within a later appeal from the eventual decree."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-section (2) applies only to orders of remand from which an appeal is available; it does not extend the same finality bar to other categories of non-independently-appealable interlocutory orders, which remain open to challenge as a ground of objection under sub-section (1)."
+        ],
+        "how_to_read": "A key drafting discipline: since most interlocutory orders cannot be separately appealed, counsel must preserve objections to them and raise those objections specifically as grounds in the eventual appeal from the decree — but an appealable order of remand must be challenged immediately, or the point is lost forever."
+      }
+    },
+    {
+      "number": "106",
+      "title": "What Courts to hear appeals",
+      "raw_text": "Where an appeal from any order is allowed it shall lie to the Court to which an appeal would lie from the decree in the suit in which such order was made, or where such order is made by a Court (not being a High Court) in the exercise of appellate jurisdiction, then to the High Court.",
+      "key_terms": [
+        "forum for appeal from order",
+        "appellate jurisdiction forum"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a forum-identification rule: wherever an order is appealable, the appeal from that order goes to the same court that would hear an appeal from the eventual decree in that suit — except that if the order was itself made by a subordinate court exercising appellate jurisdiction, the appeal from the order goes straight to the High Court.",
+        "essential_elements": [
+          "Default rule: the appeal from an appealable order lies to whichever Court would hear an appeal from the decree in that suit.",
+          "Exception: if the order was made by a Court (other than the High Court) while exercising appellate jurisdiction, the appeal from that order lies to the High Court instead."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Practitioners should verify the correct appellate forum for an order-appeal by first identifying which Court hears decree-appeals in that suit, then checking whether the order-passing court was itself acting in appellate capacity (which redirects the appeal to the High Court)."
+      }
+    },
+    {
+      "number": "107",
+      "title": "Powers of Appellate Court",
+      "raw_text": "(1) Subject to such conditions and limitations as may be prescribed, an Appellate Court shall have power—\n(a) to determine a case finally;\n(b) to remand a case;\n(c) to frame issues and refer them for trial;\n(d) to take additional evidence or to require such evidence to be taken.\n(2) Subject as aforesaid, the Appellate Court shall have the same powers and shall perform as nearly as may be the same duties as are conferred and imposed by this Code on Courts of original jurisdiction in respect of suits instituted therein.",
+      "key_terms": [
+        "appellate court powers",
+        "remand",
+        "framing and referring issues",
+        "additional evidence in appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "This section vests the appellate court with a broad toolkit for handling appeals — it can finally decide the case itself, remand it to the trial court for fresh disposal, frame fresh issues and send them down for a trial-court finding, or take (or direct the taking of) additional evidence. Sub-section (2) reinforces this by giving the appellate court, so far as possible, the same powers and duties as a court of original jurisdiction.",
+        "essential_elements": [
+          "The powers are exercisable subject to the conditions and limitations prescribed by the rules (the detailed machinery is in Order XLI of the First Schedule).",
+          "Clause (a): final determination of the case by the appellate court itself.",
+          "Clause (b): remand of the case to the court below for fresh trial or disposal (the detailed grounds are in Order XLI Rules 23-23A).",
+          "Clause (c): framing issues not properly framed below and referring them to the trial court for findings.",
+          "Clause (d): taking additional evidence itself, or directing the trial court to take it (the conditions are in Order XLI Rule 27 — additional evidence is not admitted as of right).",
+          "Sub-section (2) extends to the appellate court the general powers and duties of a court of original jurisdiction, so far as applicable."
+        ],
+        "exceptions_and_qualifications": [
+          "The power to take additional evidence under clause (d) is not unfettered — Order XLI Rule 27 confines it to specific circumstances (e.g., the trial court wrongly refused to admit evidence, or the appellate court itself requires it to pronounce judgment, or for other substantial cause) to prevent parties from filling gaps in their original case at the appeal stage."
+        ],
+        "how_to_read": "The remand power under clause (b) is a frequently pleaded remedy where the trial court failed to frame or decide a material issue, or where a preliminary point (e.g., limitation, jurisdiction) was wrongly decided without going into the merits — but courts are cautious about remands that merely give a losing party a second chance to improve its case."
+      }
+    },
+    {
+      "number": "108",
+      "title": "Procedure in appeals from appellate decrees and orders",
+      "raw_text": "The provisions of this Part relating to appeals from original decrees shall, so far as may be, apply to appeals—\n(a) from appellate decrees, and\n(b) from orders made under this Code or under any special or local law in which a different procedure is not provided.",
+      "key_terms": [
+        "procedural extension to second appeals",
+        "appeals from orders procedure"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is a drafting-economy device: rather than restating the entire appeal procedure separately, it simply extends the Part VII rules governing appeals from original decrees (Section 96 onward) to also govern second appeals (appeals from appellate decrees) and appeals from orders, wherever no different procedure is specifically provided.",
+        "essential_elements": [
+          "Applies the original-decree appeal procedure to appeals from appellate decrees (i.e., second appeals), so far as applicable.",
+          "Also applies that procedure to appeals from orders made under the Code or under any special/local law, except where that law itself prescribes a different procedure."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practitioner drafting a second appeal or an appeal from an order can rely on the same procedural framework (memorandum of appeal requirements, hearing procedure, powers of the appellate court) used for first appeals, absent a specific contrary rule."
+      }
+    },
+    {
+      "number": "109",
+      "title": "When appeals lie to the Supreme Court",
+      "raw_text": "Subject to the provisions in Chapter IV of Part V of the Constitution and such rules as may, from time to time, be made by the Supreme Court regarding appeals from the Courts of India, and to the provisions hereinafter contained, an appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court, if the High Court certifies—\n(i) that the case involves a substantial question of law of general importance; and\n(ii) that in the opinion of the High Court the said question needs to be decided by the Supreme Court.",
+      "key_terms": [
+        "certificate of fitness for Supreme Court appeal",
+        "substantial question of law of general importance",
+        "constitutional appeal to Supreme Court"
+      ],
+      "breakdown": {
+        "plain_summary": "This section governs the (now largely superseded by Article 133 of the Constitution) route for a civil appeal to the Supreme Court from a High Court judgment, decree, or final order — gated by the High Court's own certification that the case involves a substantial question of law of general importance which, in the High Court's opinion, needs to be settled by the Supreme Court.",
+        "essential_elements": [
+          "The judgment, decree, or final order must be in a civil proceeding of a High Court.",
+          "The High Court itself must certify two things: (i) the case involves a substantial question of law of general importance, and (ii) that question needs to be decided by the Supreme Court.",
+          "The provision operates subject to the constitutional framework in Chapter IV of Part V of the Constitution (Articles 132-136) and any rules the Supreme Court itself makes."
+        ],
+        "exceptions_and_qualifications": [
+          "Even without such a certificate, a party may still seek special leave to appeal directly to the Supreme Court under Article 136 of the Constitution, which operates independently of Section 109's certificate mechanism."
+        ],
+        "how_to_read": "In modern practice, most civil appeals reach the Supreme Court via a Special Leave Petition under Article 136 rather than a Section 109 certificate — but where a High Court does grant a certificate under this section, the resulting appeal proceeds as of right rather than by the Supreme Court's discretionary leave."
+      }
+    },
+    {
+      "number": "110",
+      "title": "[Value of subject matters.] Omitted.",
+      "raw_text": "Section 110 (concerning the value of the subject-matter for appeals to the Supreme Court) was omitted by the Code of Civil Procedure (Amendment) Act, 1973 (Act 49 of 1973), with effect from 29-11-1973.",
+      "key_terms": [
+        "omitted section"
+      ],
+      "breakdown": {
+        "plain_summary": "This section was omitted by amendment in 1973 — it no longer has any legal effect and is retained in the Code only as a numbering placeholder. Its former subject (pecuniary value thresholds for Supreme Court appeals) is superseded by the constitutional and Section 109 framework.",
+        "essential_elements": [
+          "Omitted with effect from 29-11-1973 by Act 49 of 1973."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a numbering-only placeholder; no substantive provision currently exists at Section 110."
+        ],
+        "how_to_read": "Cross-reference: Section 109 (certificate-based Supreme Court appeal) and Article 133 of the Constitution now govern the pecuniary/substantial-question threshold for civil appeals to the Supreme Court."
+      }
+    },
+    {
+      "number": "111",
+      "title": "[Bar of certain appeals.] Omitted.",
+      "raw_text": "Section 111 (a bar on certain appeals) was omitted by the Adaptation of Orders, 1950.",
+      "key_terms": [
+        "omitted section"
+      ],
+      "breakdown": {
+        "plain_summary": "This section was omitted by the Adaptation of Orders, 1950, in the constitutional reorganisation following India's transition to a republic, and no longer has any legal effect.",
+        "essential_elements": [
+          "Omitted by the A.O. 1950."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a numbering-only placeholder; no substantive provision currently exists at Section 111."
+        ],
+        "how_to_read": "See Section 112 for the modern savings clause preserving the Supreme Court's constitutional appellate powers."
+      }
+    },
+    {
+      "number": "111A",
+      "title": "[Appeals to Federal Court.] Repealed.",
+      "raw_text": "Section 111A (appeals to the Federal Court, inserted by the Adaptation of Orders, 1937) was repealed by the Federal Court Act, 1941 (Act 21 of 1941), section 2, with effect from 1-9-1942.",
+      "key_terms": [
+        "repealed section"
+      ],
+      "breakdown": {
+        "plain_summary": "This section dealt with appeals to the now-defunct Federal Court of India (the pre-independence apex court, replaced after 1950 by the Supreme Court of India). It was repealed in 1942 and no longer has any legal effect.",
+        "essential_elements": [
+          "Repealed with effect from 1-9-1942 by Act 21 of 1941."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a numbering-only placeholder; the Federal Court itself ceased to exist upon the Supreme Court of India's establishment in 1950."
+        ],
+        "how_to_read": "Cross-reference: Section 109 and Article 133 of the Constitution now govern civil appeals to the Supreme Court, the Federal Court's successor as India's apex civil appellate forum."
+      }
+    },
+    {
+      "number": "112",
+      "title": "Savings",
+      "raw_text": "(1) Nothing contained in this Code shall be deemed—\n(a) to affect the powers of the Supreme Court under article 136 or any other provision of the Constitution; or\n(b) to interfere with any rules made by the Supreme Court, and for the time being in force for the presentation of appeals to that Court, or their conduct before that Court.\n(2) Nothing herein contained applies to any matter of criminal or admiralty or vice-admiralty jurisdiction or to appeals from orders and decrees of Prize Courts.",
+      "key_terms": [
+        "savings clause",
+        "Article 136 special leave",
+        "Prize Court exclusion"
+      ],
+      "breakdown": {
+        "plain_summary": "This section makes clear that nothing in the CPC's appeal provisions cuts down the Supreme Court's own constitutional powers (particularly the discretionary Special Leave Petition jurisdiction under Article 136) or the Supreme Court's own procedural rules for appeals before it. Sub-section (2) further excludes criminal, admiralty/vice-admiralty, and Prize Court matters from the Code's appeal provisions altogether.",
+        "essential_elements": [
+          "Sub-section (1)(a): the Code cannot be read to limit the Supreme Court's powers under Article 136 or any other constitutional provision.",
+          "Sub-section (1)(b): the Code cannot override the Supreme Court's own rules governing how appeals are presented and conducted before it.",
+          "Sub-section (2): the Code's appeal provisions have no application to criminal matters, admiralty/vice-admiralty matters, or appeals from Prize Court orders/decrees."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the doctrinal basis for the well-settled proposition that a Special Leave Petition to the Supreme Court under Article 136 is always available regardless of the CPC's own appeal-gating provisions like Sections 100 or 109 — Section 112 expressly preserves that independent constitutional avenue."
+      }
+    },
+    {
+      "number": "113",
+      "title": "Reference to High Court",
+      "raw_text": "Subject to such conditions and limitations as may be prescribed, any Court may state a case and refer the same for the opinion of the High Court, and the High Court may make such order thereon as it thinks fit:\nProvided that where the Court is satisfied that a case pending before it involves a question as to the validity of any Act, Ordinance or Regulation or of any provision contained in an Act, Ordinance or Regulation, the determination of which is necessary for the disposal of the case, and is of opinion that such Act, Ordinance, Regulation or provision is invalid or inoperative, but has not been so declared by the High Court to which that Court is subordinate or by the Supreme Court, the Court shall state a case setting out its opinion and the reasons therefor, and refer the same for the opinion of the High Court.\nExplanation.—In this section, \"Regulation\" means any Regulation of the Bengal, Bombay or Madras Code or Regulation as defined in the General Clauses Act, 1897, or in the General Clauses Act of a State.",
+      "key_terms": [
+        "reference to High Court",
+        "case stated",
+        "mandatory reference on constitutional validity"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 113 allows a subordinate court, while a case is still pending before it, to state a case and refer a point to the High Court for its opinion, subject to the prescribed rules (Order XLVI). The proviso makes this mandatory (not merely discretionary) in one important situation: where the subordinate court itself believes a statute, ordinance, or regulation (or a provision of one) is invalid or inoperative, and no High Court or the Supreme Court has yet so declared — the subordinate court must refer the question rather than simply declare the law invalid itself.",
+        "essential_elements": [
+          "General power: any court may, subject to the prescribed conditions in Order XLVI, state a case and refer it to the High Court for its opinion.",
+          "The High Court, on receiving such a reference, may make such order as it thinks fit.",
+          "Mandatory proviso: where a pending case involves a question about the validity of an Act/Ordinance/Regulation (or a provision of one), and the referring court itself is of the opinion that it is invalid or inoperative, but that has not yet been so declared by the High Court to which it is subordinate or by the Supreme Court, the court must state a case and refer the question — this is not optional.",
+          "The Explanation clarifies that 'Regulation' includes Bengal, Bombay, or Madras Code Regulations, and Regulations as defined under the General Clauses Act, 1897 or the corresponding State General Clauses Act."
+        ],
+        "exceptions_and_qualifications": [
+          "A subordinate court has no power to itself declare a statute unconstitutional or invalid and simply proceed on that basis — the proviso requires it to refer the question to the High Court instead, preserving the High Court's (and ultimately the Supreme Court's) exclusive role in constitutional adjudication at that level."
+        ],
+        "how_to_read": "A subordinate court judge who forms the view that a statute applicable to a pending case is unconstitutional must not simply refuse to apply it — Section 113's proviso obliges a mandatory reference to the High Court; practitioners should be alert to invoke this proviso whenever a constitutional-validity argument arises before a trial court."
+      }
+    },
+    {
+      "number": "114",
+      "title": "Review",
+      "raw_text": "Subject as aforesaid, any person considering himself aggrieved—\n(a) by a decree or order from which an appeal is allowed by this Code, but from which no appeal has been preferred.\n(b) by a decree or order from which no appeal is allowed by this Code, or\n(c) by a decision on a reference from a Court of Small Causes,\nmay apply for a review of judgment to the Court which passed the decree or made the order, and the Court may make such order thereon as it thinks fit.",
+      "key_terms": [
+        "review of judgment",
+        "same court reconsideration",
+        "review application"
+      ],
+      "breakdown": {
+        "plain_summary": "Review is the remedy allowing a party to go back to the very same court that passed a decree or order and ask it to reconsider its own decision — available in three situations: where an appeal was available but not filed, where no appeal is allowed at all, or on a decision on reference from a Court of Small Causes. The detailed grounds and procedure are worked out in Order XLVII.",
+        "essential_elements": [
+          "The applicant must be a person aggrieved by the decree, order, or decision in question.",
+          "Category (a): an appeal was allowed by the Code against the decree/order, but the aggrieved person did not actually file one.",
+          "Category (b): no appeal is allowed at all against the decree/order.",
+          "Category (c): a decision on a reference from a Court of Small Causes.",
+          "The application is made to the very same Court that passed the decree or made the order — not to a higher court.",
+          "The specific grounds on which review can be granted (discovery of new and important matter, mistake or error apparent on the face of the record, or any other sufficient reason) are set out in Order XLVII Rule 1, not in Section 114 itself."
+        ],
+        "exceptions_and_qualifications": [
+          "Where an appeal was actually filed (not merely available) against the decree or order, review under category (a) becomes unavailable — a party cannot pursue both an appeal and a review of the same decision."
+        ],
+        "how_to_read": "Review should not be mistaken for an alternate appeal — it is available only on the narrower grounds in Order XLVII Rule 1 (chiefly, an error apparent on the face of the record or newly discovered evidence that could not earlier have been produced with due diligence), not for merely re-arguing the case on merits."
+      }
+    },
+    {
+      "number": "115",
+      "title": "Revision",
+      "raw_text": "(1) The High Court may call for the record of any case which has been decided by any Court subordinate to such High Court and in which no appeal lies thereto, and if such subordinate Court appears—\n(a) to have exercised a jurisdiction not vested in it by law, or\n(b) to have failed to exercise a jurisdiction so vested, or\n(c) to have acted in the exercise of its jurisdiction illegally or with material irregularity,\nthe High Court may make such order in the case as it thinks fit:\nProvided that the High Court shall not, under this section, vary or reverse any order made, or any order deciding an issue, in the course of a suit or other proceeding, except where the order, if it had been made in favour of the party applying for revision would have finally disposed of the suit or other proceedings.\n(2) The High Court shall not, under this section, vary or reverse any decree or order against which an appeal lies either to the High Court or to any Court subordinate thereto.\n(3) A revision shall not operate as a stay of suit or other proceeding before the Court except where such suit or other proceeding is stayed by the High Court.\nExplanation.—In this section, the expression \"any case which has been decided\" includes any order made, or any order deciding an issue in the course of a suit or other proceeding.",
+      "key_terms": [
+        "revisional jurisdiction",
+        "jurisdictional error",
+        "material irregularity",
+        "no automatic stay",
+        "case decided"
+      ],
+      "breakdown": {
+        "plain_summary": "Revision is the High Court's supervisory power over subordinate courts, but confined strictly to jurisdictional errors — not general correctness of the decision. It can only be exercised where no appeal lies to the High Court against the impugned decision, and only where the subordinate court either exercised jurisdiction it did not have, failed to exercise jurisdiction it did have, or exercised its jurisdiction illegally or with material irregularity. It is not a substitute appeal on facts or ordinary law.",
+        "essential_elements": [
+          "The case must have been 'decided' by a court subordinate to the High Court — the Explanation clarifies this includes any interlocutory order or an order deciding an issue during a pending suit, not just final decisions.",
+          "No appeal must lie to the High Court against that decision — revision is a residual remedy, not an alternative to an available appeal.",
+          "One of the three specific jurisdictional defects in clauses (a)-(c) must be shown: exercise of jurisdiction not vested by law, failure to exercise vested jurisdiction, or illegal/materially irregular exercise of jurisdiction.",
+          "The proviso to sub-section (1) restricts interference with interlocutory orders in a pending suit to cases where a decision favourable to the revision-applicant would have finally disposed of the suit or proceeding.",
+          "Sub-section (2) bars revision against any decree or order from which an appeal lies, either to the High Court or to a court subordinate to it.",
+          "Sub-section (3) clarifies that merely filing a revision does not automatically stay the underlying suit or proceeding — a stay must be separately and specifically granted by the High Court."
+        ],
+        "exceptions_and_qualifications": [
+          "Revision cannot be used to correct mere errors of fact or law within jurisdiction — only the three specific categories of jurisdictional error qualify; an erroneous but within-jurisdiction finding is not revisable, only appealable (if an appeal lies) or otherwise final.",
+          "Where an appeal against the decision is available (to the High Court or a court subordinate to it), revision is barred altogether by sub-section (2), regardless of whether the appeal was actually filed."
+        ],
+        "how_to_read": "Revision petitions are frequently misused as a backdoor 'second appeal on facts' — practitioners drafting a revision petition must specifically identify which of the three narrow jurisdictional grounds in clauses (a)-(c) applies, since a revision confined to disputing the correctness of factual findings within jurisdiction is liable to summary dismissal; separately, always move a specific stay application, since sub-section (3) confirms a revision does not automatically stay proceedings below."
       }
     }
   ]
