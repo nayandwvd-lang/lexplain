@@ -240,7 +240,27 @@
     "President's right to appear and be represented": "The Article 61(3) procedural safeguard entitling the President to appear personally and be represented during the investigation of an impeachment charge in the other House of Parliament.",
     "election before expiration of term (President)": "The Article 62(1) rule requiring that an election to fill a Presidential vacancy caused by the natural expiration of the term be completed before that term actually expires, ensuring continuity of office.",
     "casual vacancy in Presidency": "A vacancy in the office of President occurring unexpectedly by reason of death, resignation, removal, or otherwise (as opposed to natural term expiry), governed by the six-month election deadline in Article 62(2).",
-    "six-month deadline for filling Presidential vacancy": "The Article 62(2) requirement that an election to fill a casual vacancy in the Presidency be held as soon as possible, and in no case later than six months from the date the vacancy occurred."
+    "six-month deadline for filling Presidential vacancy": "The Article 62(2) requirement that an election to fill a casual vacancy in the Presidency be held as soon as possible, and in no case later than six months from the date the vacancy occurred.",
+    "Vice-President of India (office)": "The office established by Article 63 as the second-highest constitutional office of the Union, whose dual role — ex officio Rajya Sabha Chairman and stand-in for the President — is elaborated in Articles 64-71.",
+    "ex officio Chairman of the Council of States": "The Article 64 rule making the Vice-President automatically (ex officio) the Chairman of the Rajya Sabha, subject to the proviso that this function is suspended during any period the Vice-President is acting as, or discharging the functions of, President under Article 65.",
+    "Rajya Sabha Chairman role": "The presiding-officer function the Vice-President performs over the Council of States by virtue of the ex officio chairmanship in Article 64, distinct from and suspended during any Article 65 acting-Presidency.",
+    "Vice-President acting as President": "The Article 65(1) mechanism by which the Vice-President assumes the full office, powers, duties, and emoluments of President during a casual vacancy caused by the President's death, resignation, removal, or otherwise, until a new President is elected under Article 62(2).",
+    "Vice-President discharging functions of President": "The Article 65(2) mechanism, distinct from 'acting as President', by which the Vice-President performs only the President's functions during a temporary inability (e.g., illness, absence) without formally becoming President or vacating the Rajya Sabha chairmanship.",
+    "powers and immunities during acting Presidency": "The Article 65(3) rule that while acting as, or discharging the functions of, President, the Vice-President has all the President's powers, immunities, and (subject to Parliament's Article 59(3) determination) emoluments.",
+    "electoral college for Vice-President": "The body defined by Article 66(1) that elects the Vice-President, comprising the members of both Houses of Parliament assembled at a joint meeting — narrower than the President's electoral college under Article 54, which also includes State Assembly members.",
+    "Vice-President eligibility qualifications": "The Article 66(3) conditions for Vice-Presidential candidacy — citizenship, completion of thirty-five years of age, and qualification for election as a member of the Council of States (Rajya Sabha) — paralleling but distinct from the President's Article 58 qualifications.",
+    "vacation of seat on election as Vice-President": "The Article 66(4) rule, mirroring Article 59(1) for the President, that a sitting member of either House of Parliament or a State Legislature who is elected Vice-President is deemed to have vacated that seat on entering upon office.",
+    "five-year term of Vice-President": "The base tenure fixed by Article 67(a) — five years from the date the Vice-President enters upon office, subject to the resignation, removal, and hold-over provisos in Article 67, paralleling Article 56 for the President.",
+    "resignation of Vice-President": "The Article 67(a) mechanism by which the Vice-President may resign by writing under his hand addressed to the President (not the Speaker, as with a Presidential resignation under Article 56).",
+    "removal of Vice-President by Rajya Sabha resolution": "The Article 67(b) removal procedure — a resolution passed by a majority of all then members of the Council of States and agreed to by the House of the People — a simple-majority, single-originating-House process markedly different from the two-thirds, either-House-may-initiate impeachment procedure for the President under Article 61.",
+    "election before expiration of term (Vice-President)": "The Article 68(1) rule requiring an election to fill a Vice-Presidential vacancy caused by natural term expiry to be completed before the term expires, mirroring Article 62(1) for the President.",
+    "casual vacancy in Vice-Presidency": "A vacancy in the office of Vice-President occurring unexpectedly by death, resignation, removal, or otherwise, which Article 68(2) requires be filled by election held as soon as possible — notably without the explicit six-month outer deadline that Article 62(2) imposes for a Presidential casual vacancy.",
+    "oath of office (Vice-President)": "The specific oath or affirmation prescribed by Article 69, administered by the President (or a person appointed by the President) — contrasted with the President's own oath under Article 60, which is administered by the Chief Justice of India.",
+    "true faith and allegiance to the Constitution": "The central promise in the Article 69 Vice-Presidential oath — to bear true faith and allegiance to the Constitution and faithfully discharge the duties of office — textually distinct from the President's Article 60 oath, which instead promises to 'preserve, protect and defend' the Constitution.",
+    "residual contingency power (Article 70)": "Parliament's Article 70 power to make such provision as it thinks fit for the discharge of the President's functions in any contingency not provided for elsewhere in Chapter I of Part V — a residual, gap-filling clause.",
+    "Supreme Court's exclusive jurisdiction over Presidential/Vice-Presidential election disputes": "The Article 71(1) rule vesting all doubts and disputes arising out of or in connection with the election of a President or Vice-President exclusively and finally in the Supreme Court, ousting all other courts.",
+    "de facto doctrine (Article 71(2))": "The Article 71(2) rule that acts done by a President or Vice-President in the exercise of their functions remain valid notwithstanding that their election is later declared void, protecting the validity of official acts already performed.",
+    "vacancy in electoral college not a ground to question election": "The Article 71(4) rule that the election of a President or Vice-President cannot be challenged merely on the ground that the electoral college choosing them was incomplete due to some vacant seats."
   },
   "sections": [
     {
@@ -1907,6 +1927,199 @@
           "If the end-of-term election under clause (1) cannot be completed in time, Article 56(1)(c)'s hold-over proviso keeps the outgoing President in office until the successor enters upon office, avoiding any vacancy."
         ],
         "how_to_read": "Distinguish the two timing tracks clearly: clause (1) is a 'before expiry' deadline for scheduled elections, while clause (2) is an 'up to six months after' deadline for unscheduled casual vacancies — and remember a casual-vacancy winner still gets a full fresh five-year term."
+      }
+    },
+    {
+      "number": "63",
+      "title": "The Vice-President of India",
+      "raw_text": "63. The Vice-President of India.—There shall be a Vice-President of India.",
+      "key_terms": [
+        "Vice-President of India (office)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 63 establishes the office of Vice-President of India, whose principal constitutional role (as Article 64 clarifies) is to serve as ex officio Chairman of the Rajya Sabha, with a secondary function of stepping in for the President under Article 65 when needed.",
+        "essential_elements": [
+          "Creates the constitutional office of Vice-President of India as a matter of basic constitutional structure."
+        ],
+        "exceptions_and_qualifications": [
+          "This article is purely declaratory, creating the office itself without prescribing qualifications, term, election, or removal — those substantive conditions are fixed separately by Articles 66-68, so Article 63 cannot be read in isolation to determine who may hold the office or for how long.",
+          "The office's day-to-day significance is defined by the dual role assigned elsewhere: ex officio Chairman of the Council of States under Article 64, and stand-in for the President during a vacancy or temporary inability under Article 65 — Article 63 itself says nothing about either function."
+        ],
+        "how_to_read": "Read Article 63 as the opening declaration for this office, paralleling Article 52 for the Presidency — the substantive role and election mechanics follow in Articles 64 onward."
+      }
+    },
+    {
+      "number": "64",
+      "title": "The Vice-President to be ex officio Chairman of the Council of States",
+      "raw_text": "64. The Vice-President to be ex officio Chairman of the Council of States.—The Vice-President shall be ex officio Chairman of the Council of the States and shall not hold any other office of profit: Provided that during any period when the Vice-President acts as President or discharges the functions of the President under article 65, he shall not perform the duties of the office of Chairman of the Council of States and shall not be entitled to any salary or allowance payable to the Chairman of the Council of States under article 97.",
+      "key_terms": [
+        "ex officio Chairman of the Council of States",
+        "Rajya Sabha Chairman role"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 64 makes the Vice-President automatically ('ex officio') the Chairman of the Rajya Sabha (Council of States) — a dual-hatted role unique in the Constitution's design, combining the country's second-highest constitutional office with presiding over the upper House of Parliament. The proviso ensures that when the Vice-President is instead acting as or discharging the functions of the President (under Article 65), they step back from the Rajya Sabha Chairmanship and its associated salary during that period.",
+        "essential_elements": [
+          "The Vice-President automatically holds the office of Chairman of the Council of States by virtue of being Vice-President — no separate election or appointment to the Chairmanship is needed.",
+          "The Vice-President is barred from holding any other office of profit.",
+          "Proviso: while acting as or discharging the functions of President under Article 65, the Vice-President does not perform Rajya Sabha Chairman duties and forgoes the Chairman's salary/allowance under Article 97 during that period."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso is a temporary, self-limiting suspension tied specifically to periods of acting as/discharging functions of President — the Vice-President resumes the Chairmanship once that period ends."
+        ],
+        "how_to_read": "Remember the dual-office design: 'Vice-President' and 'Rajya Sabha Chairman' are not separate elected positions — the second flows automatically from the first, except during any Article 65 acting-President interval."
+      }
+    },
+    {
+      "number": "65",
+      "title": "The Vice-President to act as President or to discharge his functions during casual vacancies in the office, or during the absence, of President",
+      "raw_text": "65. The Vice-President to act as President or to discharge his functions during casual vacancies in the office, or during the absence, of President.—(1) In the event of the occurrence of any vacancy in the office of the President by reason of his death, resignation or removal, or otherwise, the Vice-President shall act as President until the date on which a new President elected in accordance with the provisions of this Chapter to fill such vacancy enters upon his office.\n(2) When the President is unable to discharge his functions owing to absence, illness or any other cause, the Vice-President shall discharge his functions until the date on which the President resumes his duties.\n(3) The Vice-President shall, during, and in respect of, the period while he is so acting as, or discharging the functions of, President, have all the powers and immunities of the President and be entitled to such emoluments, allowances and privileges as may be determined by Parliament by law and, until provision in that behalf is so made, such emoluments, allowances and privileges as are specified in the Second Schedule.",
+      "key_terms": [
+        "Vice-President acting as President",
+        "Vice-President discharging functions of President",
+        "powers and immunities during acting Presidency"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 65 is the Constitution's succession-and-continuity mechanism for the Presidency: if the office falls vacant (death, resignation, removal, or otherwise), the Vice-President acts as President until a newly elected President enters office; if the sitting President is merely temporarily unable to function (absence, illness, other cause), the Vice-President discharges the President's functions until the President resumes duties. Either way, the Vice-President wields the full powers and immunities of the President during that period, with equivalent emoluments/allowances/privileges.",
+        "essential_elements": [
+          "Clause (1): a full 'acting as President' role triggered by an actual vacancy (death, resignation, removal, or otherwise), lasting until a newly elected President enters office.",
+          "Clause (2): a narrower 'discharging functions' role triggered by the sitting President's temporary inability (absence, illness, other cause), lasting only until the President resumes duties — no vacancy occurs here, the office is simply unoccupied functionally for a time.",
+          "Clause (3): during either scenario, the Vice-President has all the powers and immunities of the President and is entitled to the President's emoluments/allowances/privileges (by law, or the Second Schedule by default)."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (1) (vacancy) and clause (2) (temporary inability) are analytically distinct triggers with different durations and legal characterisations — clause (1) involves an actual office vacancy requiring a fresh election under Article 62(2); clause (2) does not.",
+          "Article 70 supplements this scheme by letting Parliament legislate for contingencies not covered by this Chapter at all."
+        ],
+        "how_to_read": "Keep the two tracks separate: 'acting as President' (clause 1, real vacancy, election follows) versus 'discharging functions' (clause 2, temporary, President resumes) — both give the Vice-President full Presidential powers, but only the first is linked to the Article 62(2) six-month election deadline."
+      }
+    },
+    {
+      "number": "66",
+      "title": "Election of Vice-President",
+      "raw_text": "66. Election of Vice-President.—(1) The Vice-President shall be elected by the members of an electoral college consisting of the members of both Houses of Parliament in accordance with the system of proportional representation by means of the single transferable vote and the voting at such election shall be by secret ballot.\n(2) The Vice-President shall not be a member of either House of Parliament or of a House of the Legislature of any State, and if a member of either House of Parliament or of a House of the Legislature of any State be elected Vice-President, he shall be deemed to have vacated his seat in that House on the date on which he enters upon his office as Vice-President.\n(3) No person shall be eligible for election as Vice-President unless he—\n(a) is a citizen of India;\n(b) has completed the age of thirty-five years; and\n(c) is qualified for election as a member of the Council of States.\n(4) A person shall not be eligible for election as Vice-President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.\nExplanation.—For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor of any State or is a Minister either for the Union or for any State.",
+      "key_terms": [
+        "electoral college for Vice-President",
+        "Vice-President eligibility qualifications",
+        "vacation of seat on election as Vice-President"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 66 sets the election mechanics and eligibility for the Vice-President: elected solely by members of both Houses of Parliament (unlike the President's broader electoral college that also includes State Assembly members), by proportional representation/single transferable vote and secret ballot. A sitting legislator elected Vice-President automatically vacates their seat. Eligibility mirrors the President's — citizenship, age 35+, Rajya Sabha qualification, and the same office-of-profit bar with the same Explanation carve-out.",
+        "essential_elements": [
+          "Clause (1): electoral college is Parliament only (both Houses) — narrower than the President's electoral college, which also includes State Legislative Assemblies.",
+          "Clause (2): automatic seat-vacation for a sitting MP/MLA elected Vice-President, effective on the date of entering office.",
+          "Clause (3): eligibility requires citizenship, age 35+, and qualification for election to the Council of States (Rajya Sabha) specifically (not the Lok Sabha, as for the President).",
+          "Clause (4) and Explanation: the same office-of-profit bar and carve-out (President, Vice-President, Governor, Minister offices don't count) as under Article 58."
+        ],
+        "exceptions_and_qualifications": [
+          "Note the electoral-college difference from the Presidency: the Vice-President's electors are Parliament only, while the President's electors include State Assemblies too — reflecting the Vice-President's primary role as Rajya Sabha Chairman."
+        ],
+        "how_to_read": "Compare directly against Article 54 (President's electoral college) and Article 58 (President's qualifications) — the parallel structure makes cross-referencing the two offices straightforward, with the electoral-college composition being the key difference."
+      }
+    },
+    {
+      "number": "67",
+      "title": "Term of office of Vice-President",
+      "raw_text": "67. Term of office of Vice-President.—The Vice-President shall hold office for a term of five years from the date on which he enters upon his office: Provided that—\n(a) a Vice-President may, by writing under his hand addressed to the President, resign his office;\n(b) a Vice-President may be removed from his office by a resolution of the Council of States passed by a majority of all the then members of the Council and agreed to by the House of the People; but no resolution for the purpose of this clause shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution;\n(c) a Vice-President shall, notwithstanding the expiration of his term, continue to hold office until his successor enters upon his office.",
+      "key_terms": [
+        "five-year term of Vice-President",
+        "resignation of Vice-President",
+        "removal of Vice-President by Rajya Sabha resolution"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 67 fixes the Vice-President's term at five years with three parallel provisos to the President's Article 56: resignation (addressed to the President, notably not the Vice-President as with the President's own resignation), removal (notably not by impeachment but by an ordinary Rajya Sabha resolution — passed by a majority of all its then members and agreed to by the Lok Sabha — after 14 days' notice), and the same hold-over-until-successor rule.",
+        "essential_elements": [
+          "Base term: five years from the date of entering office.",
+          "Proviso (a): resignation by writing under the Vice-President's hand, addressed to the President.",
+          "Proviso (b): removal by a Rajya Sabha resolution passed by a majority of all then members and agreed to by the Lok Sabha, only after at least 14 days' notice of intention to move the resolution.",
+          "Proviso (c): the Vice-President holds over past term expiry until the successor enters office."
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike the President's impeachment (Article 61, which demands 'violation of the Constitution' and a formal two-House investigation process with two-thirds supermajorities), the Vice-President's removal is a simpler, single-resolution mechanism requiring only a majority of all then Rajya Sabha members plus Lok Sabha concurrence — a materially lower bar and different procedure, reflecting the different constitutional weight of the two offices."
+        ],
+        "how_to_read": "Contrast this removal mechanism sharply with Article 61's Presidential impeachment — same five-year term structure, but the Vice-President's removal is by ordinary Rajya-Sabha-led resolution and concurrence, not a constitutional-violation impeachment trial."
+      }
+    },
+    {
+      "number": "68",
+      "title": "Time of holding election to fill vacancy in the office of Vice-President and the term of office of person elected to fill casual vacancy",
+      "raw_text": "68. Time of holding election to fill vacancy in the office of Vice-President and the term of office of person elected to fill casual vacancy.—(1) An election to fill a vacancy caused by the expiration of the term of office of Vice-President shall be completed before the expiration of the term.\n(2) An election to fill a vacancy in the office of Vice-President occurring by reason of his death, resignation or removal, or otherwise shall be held as soon as possible after the occurrence of the vacancy, and the person elected to fill the vacancy shall, subject to the provisions of article 67, be entitled to hold office for the full term of five years from the date on which he enters upon his office.",
+      "key_terms": [
+        "election before expiration of term (Vice-President)",
+        "casual vacancy in Vice-Presidency"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 68 mirrors Article 62 for the Vice-Presidency: a scheduled end-of-term election must be completed before the term expires, while a casual vacancy (death, resignation, removal, or otherwise) triggers an 'as soon as possible' election — notably without the President's explicit six-month outer deadline — and the newly elected Vice-President gets a fresh full five-year term.",
+        "essential_elements": [
+          "Clause (1): end-of-term election must be completed before the sitting Vice-President's term expires.",
+          "Clause (2): casual-vacancy election held as soon as possible after the vacancy occurs (no fixed maximum period is specified, unlike Article 62(2)'s six-month cap for the President).",
+          "Clause (2): the person elected to a casual vacancy gets a fresh full five-year term from their own date of entering office."
+        ],
+        "exceptions_and_qualifications": [
+          "The absence of a hard maximum deadline (contrast Article 62(2)'s explicit six-month cap for the President) is a notable textual difference between the two offices' vacancy-filling timelines."
+        ],
+        "how_to_read": "Flag the missing six-month cap as a deliberate drafting contrast with Article 62 — a frequently tested distinction between the President's and Vice-President's vacancy provisions."
+      }
+    },
+    {
+      "number": "69",
+      "title": "Oath or affirmation by the Vice-President",
+      "raw_text": "69. Oath or affirmation by the Vice-President.—Every Vice-President shall, before entering upon his office, make and subscribe before the President, or some person appointed in that behalf by him, an oath or affirmation in the following form, that is to say— \"I, A.B., do swear in the name of God [or solemnly affirm] that I will bear true faith and allegiance to the Constitution of India as by law established and that I will faithfully discharge the duty upon which I am about to enter.\"",
+      "key_terms": [
+        "oath of office (Vice-President)",
+        "true faith and allegiance to the Constitution"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 69 prescribes the Vice-President's oath, administered by the President (or someone the President appoints for the purpose) — textually different from the President's own oath (Article 60): the Vice-President swears 'true faith and allegiance' to the Constitution and faithful discharge of duty, rather than the President's more elaborate promise to 'preserve, protect and defend' the Constitution.",
+        "essential_elements": [
+          "Must be taken before entering upon office.",
+          "Administered by the President, or a person appointed by the President for this purpose (contrast Article 60, where the CJI administers the President's own oath).",
+          "The oath text commits to true faith and allegiance to the Constitution and faithful discharge of duty."
+        ],
+        "exceptions_and_qualifications": [
+          "Note the textual distinction from Article 60's Presidential oath — the Vice-President's oath omits the 'preserve, protect and defend' language, reflecting the more limited primary role (Rajya Sabha Chairman) of the office."
+        ],
+        "how_to_read": "Compare directly against Article 60 to catch the two textual differences examiners often test: who administers the oath (President vs. CJI) and the oath's substantive wording ('true faith and allegiance' vs. 'preserve, protect and defend')."
+      }
+    },
+    {
+      "number": "70",
+      "title": "Discharge of President's functions in other contingencies",
+      "raw_text": "70. Discharge of President's functions in other contingencies.—Parliament may make such provision as it thinks fit for the discharge of the functions of the President in any contingency not provided for in this Chapter.",
+      "key_terms": [
+        "residual contingency power (Article 70)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 70 is a gap-filling provision: if some contingency affecting the discharge of Presidential functions arises that Chapter I doesn't already address (i.e., beyond the vacancy/absence scenarios covered by Article 65), Parliament may make whatever provision it thinks fit to handle it.",
+        "essential_elements": [
+          "Applies only to contingencies genuinely 'not provided for' elsewhere in Chapter I (e.g., beyond Article 65's vacancy/absence/illness scenarios).",
+          "Confers broad discretion on Parliament ('as it thinks fit') to legislate for such residual contingencies."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a backstop power, not meant to override the specific schemes in Articles 56, 62, and 65 where those already apply."
+        ],
+        "how_to_read": "Treat Article 70 as Parliament's safety net for genuinely unforeseen gaps in the Presidential-succession scheme, not a general licence to bypass the specific rules already laid down elsewhere in Chapter I."
+      }
+    },
+    {
+      "number": "71",
+      "title": "Matters relating to, or connected with, the election of a President or Vice-President",
+      "raw_text": "71. Matters relating to, or connected with, the election of a President or Vice-President.—(1) All doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court whose decision shall be final.\n(2) If the election of a person as President or Vice-President is declared void by the Supreme Court, acts done by him in the exercise and performance of the powers and duties of the office of President or Vice-President, as the case may be, on or before the date of the decision of the Supreme Court shall not be invalidated by reason of that declaration.\n(3) Subject to the provisions of this Constitution, Parliament may by law regulate any matter relating to or connected with the election of a President or Vice-President.\n(4) The election of a person as President or Vice-President shall not be called in question on the ground of the existence of any vacancy for whatever reason among the members of the electoral college electing him.",
+      "key_terms": [
+        "Supreme Court's exclusive jurisdiction over Presidential/Vice-Presidential election disputes",
+        "de facto doctrine (Article 71(2))",
+        "vacancy in electoral college not a ground to question election"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 71 centralises all disputes about Presidential or Vice-Presidential elections exclusively in the Supreme Court, whose decision is final. Clause (2) applies a 'de facto officer' protection: even if an election is later declared void, official acts already performed by that office-holder remain valid — preserving governmental continuity and legal certainty. Clause (3) lets Parliament regulate election-related matters by law, and clause (4) forecloses a specific type of challenge — that some seats in the electoral college happened to be vacant at the time.",
+        "essential_elements": [
+          "Clause (1): exclusive, final jurisdiction over all doubts and disputes connected with these elections rests with the Supreme Court — no other court or forum has a role.",
+          "Clause (2): acts performed by a President/Vice-President before a Supreme Court declaration of election-voidness remain valid despite that later declaration.",
+          "Clause (3): Parliament may regulate election-related matters by law, subject to the rest of the Constitution.",
+          "Clause (4): existence of a vacancy (for whatever reason) among electoral-college members cannot itself be a ground to challenge the election's validity."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (2)'s validation of prior acts is specifically limited to acts done 'on or before the date of the decision' — it does not validate anything done after the Supreme Court's voidness declaration."
+        ],
+        "how_to_read": "Treat clause (2) as a real-world de facto doctrine ensuring governmental stability, and clause (4) as a specific anti-technicality rule — vacancies in the electoral college, however caused, cannot be used to retroactively attack an otherwise valid election."
       }
     }
   ]
