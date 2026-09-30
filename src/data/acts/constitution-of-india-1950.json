@@ -607,7 +607,18 @@
     "teachers' constituency (Legislative Council)": "The Article 171(3)(c) electorate category — roughly one-twelfth of Council seats elected by persons who have taught for at least three years in educational institutions within the State not lower in standard than a secondary school.",
     "MLA-elected Council seats (Article 171(3)(d))": "The Article 171(3)(d) electorate category — roughly one-third of Council seats elected by the State's Legislative Assembly members themselves, but only from among candidates who are not already Assembly members.",
     "Governor's nominated Council members — special knowledge/experience": "The Article 171(3)(e) and 171(5) category — the remaining Council seats, filled by Governor's nominees possessing special knowledge or practical experience in literature, science, art, the co-operative movement, or social service, a closed list of five qualifying fields.",
-    "proportional representation by single transferable vote (State Council)": "The Article 171(4) electoral method used for all elected Legislative Council seats (sub-clauses (a) through (d)) — proportional representation by means of the single transferable vote, rather than the first-past-the-post system used for directly-elected Assembly and Lok Sabha seats."
+    "proportional representation by single transferable vote (State Council)": "The Article 171(4) electoral method used for all elected Legislative Council seats (sub-clauses (a) through (d)) — proportional representation by means of the single transferable vote, rather than the first-past-the-post system used for directly-elected Assembly and Lok Sabha seats.",
+    "five-year Legislative Assembly term (State)": "The Article 172(1) default tenure of a State Legislative Assembly — five years from the date appointed for its first meeting, with automatic dissolution upon expiry unless the Assembly is dissolved sooner — mirroring the Lok Sabha's Article 83(2) term.",
+    "Emergency extension of Assembly term (State)": "The proviso to Article 172(1) letting Parliament extend a State Legislative Assembly's term by law, one year at a time, while a Proclamation of Emergency is in operation, subject to a hard cap of six months after the Emergency ends — the State-level counterpart to the Lok Sabha's Article 83(2) Emergency-extension proviso.",
+    "Legislative Council permanence with one-third biennial retirement": "The Article 172(2) rule that a State Legislative Council, unlike the Assembly, is never dissolved as a body — instead, roughly one-third of its members retire every second year per Parliament-made rules, producing staggered, continuous membership exactly like the Rajya Sabha under Article 83(1).",
+    "Indian citizenship requirement (State Legislature membership)": "The Article 173(a) baseline eligibility rule requiring a candidate for a State Legislature seat to be an Indian citizen — the first of several cumulative qualification requirements.",
+    "pre-candidacy oath before Election-Commission-authorised person (State)": "The Article 173(a) requirement that a State Legislature candidate make and subscribe the Third Schedule oath or affirmation before a person the Election Commission has authorised for that purpose, as a precondition to being chosen for the seat — distinct from the separate post-election oath a member later takes under Article 188 before actually sitting.",
+    "minimum age 25 (Assembly) / 30 (Council)": "The Article 173(b) minimum-age eligibility thresholds for State Legislature membership — 25 years for a Legislative Assembly seat and 30 years for a Legislative Council seat — mirroring the Lok Sabha (25) and Rajya Sabha (30) age differential under Article 84(b).",
+    "further qualifications by Parliamentary law (State Legislature)": "The Article 173(c) residual category letting Parliament prescribe additional qualifications for State Legislature membership by law, principally exercised through the Representation of the People Act, 1951.",
+    "Governor's summoning power (State Legislature)": "The Article 174(1) power letting the Governor summon the House or each House of a State Legislature to meet at a time and place of his choosing, subject to the mandatory maximum six-month gap between sessions.",
+    "six-month maximum gap between sessions (State)": "The Article 174(1) rule guaranteeing a State Legislature meets at least twice a year, by prohibiting more than six months from elapsing between one session's last sitting and the next session's first sitting — the State-level mirror of Article 85(1)'s identical rule for Parliament.",
+    "Governor's prorogation power (State Legislature)": "The Article 174(2)(a) power letting the Governor prorogue (formally end the sitting of) the House or either House of a State Legislature without dissolving it — ending a session while the House's membership and life continue.",
+    "Governor's dissolution power (Legislative Assembly)": "The Article 174(2)(b) power letting the Governor dissolve the Legislative Assembly specifically — a power that, per Article 172(2), can never be exercised against a Legislative Council, which is constitutionally immune from dissolution."
   },
   "sections": [
     {
@@ -4970,6 +4981,76 @@
           "Because Legislative Councils can be abolished or created under Article 169 on a State's own initiative, not every State has one — this Article only operates for the currently-bicameral States identified (as amended) under Article 168(1)(a)."
         ],
         "how_to_read": "Read Article 171 as a self-contained, unusually granular composition code specific to the Legislative Council's function as a chamber of local, educational, and specialised representation — quite unlike the population-proportional design of Article 170's Legislative Assembly rules, and always check whether the default clause (3) formula still governs or whether Parliament has legislated a different composition for the particular State."
+      }
+    },
+    {
+      "number": "172",
+      "title": "Duration of State Legislatures",
+      "raw_text": "(1) Every Legislative Assembly of every State, unless sooner dissolved, shall continue for five years from the date appointed for its first meeting and no longer and the expiration of the said period of five years shall operate as a dissolution of the Assembly:\nProvided that the said period may, while a Proclamation of Emergency is in operation, be extended by Parliament by law for a period not exceeding one year at a time and not extending in any case beyond a period of six months after the Proclamation has ceased to operate.\n(2) The Legislative Council of a State shall not be subject to dissolution, but as nearly as possible one-third of the members thereof shall retire as soon as may be on the expiration of every second year in accordance with the provisions made in that behalf by Parliament by law.",
+      "key_terms": [
+        "five-year Legislative Assembly term (State)",
+        "Emergency extension of Assembly term (State)",
+        "Legislative Council permanence with one-third biennial retirement"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 172 fixes State Legislature terms, exactly mirroring Article 83's Parliament-level scheme. A Legislative Assembly's normal term is five years from its first meeting, automatically dissolving on expiry unless dissolved sooner (e.g., by the Governor). During a Proclamation of Emergency, Parliament can extend this term by law, one year at a time, but never beyond six months after the Emergency ends. A Legislative Council, by contrast, is a permanent body like the Rajya Sabha — never dissolved, with roughly one-third of its members retiring every two years per rules Parliament prescribes, ensuring continuous, staggered membership.",
+        "essential_elements": [
+          "Legislative Assembly's default term: five years from the date appointed for its first meeting, with automatic dissolution on expiry — no further legislative act is needed to end the Assembly's life once the term runs out.",
+          "The Assembly may also be dissolved sooner (via the Governor's power under Article 174(2)(b)) — the five-year figure is a maximum, not a guarantee of tenure.",
+          "Emergency extension: Parliament may, by law, extend an Assembly's term beyond five years, one year at a time, only while a Proclamation of Emergency is in operation, with a hard outer limit of six months after the Emergency ceases.",
+          "Legislative Council: never dissolved as a body — it is a permanent, continuous chamber; instead, about one-third of its members retire every second year, per Parliament-made rules, creating staggered, overlapping terms (mirroring the Rajya Sabha's Article 83(1) design)."
+        ],
+        "exceptions_and_qualifications": [
+          "The Emergency-extension proviso has real historical precedent — Assembly terms were extended in several States during the Emergency era (1975-77) using the parallel Union-level mechanism, and equivalent State-level extensions have occurred under Article 172's own proviso."
+        ],
+        "how_to_read": "Read Article 172 as Article 83's precise State-level mirror — five-year Assembly terms with an Emergency-only extension safety valve, and a permanent, one-third-biennial-retirement Legislative Council wherever one exists, structurally identical to the Rajya Sabha's design."
+      }
+    },
+    {
+      "number": "173",
+      "title": "Qualification for membership of the State Legislature",
+      "raw_text": "A person shall not be qualified to be chosen to fill a seat in the Legislature of a State unless he—\n(a) is a citizen of India, and makes and subscribes before some person authorised in that behalf by the Election Commission an oath or affirmation according to the form set out for the purpose in the Third Schedule;\n(b) is, in the case of a seat in the Legislative Assembly, not less than twenty-five years of age and, in the case of a seat in the Legislative Council, not less than thirty years of age; and\n(c) possesses such other qualifications as may be prescribed in that behalf by or under any law made by Parliament.",
+      "key_terms": [
+        "Indian citizenship requirement (State Legislature membership)",
+        "pre-candidacy oath before Election-Commission-authorised person (State)",
+        "minimum age 25 (Assembly) / 30 (Council)",
+        "further qualifications by Parliamentary law (State Legislature)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 173 sets the baseline eligibility bar for State Legislature membership, mirroring Article 84's Parliament-membership qualifications almost exactly, just with different minimum ages matching each House's character. A candidate must be an Indian citizen who has made and subscribed the Third Schedule oath or affirmation before an Election-Commission-authorised person, meet the minimum age (25 for the Assembly, 30 for the Council — the same age gap as between the Lok Sabha and Rajya Sabha), and satisfy any further qualifications Parliament prescribes by law (principally the Representation of the People Act, 1951's disqualification and eligibility rules).",
+        "essential_elements": [
+          "Citizenship: must be an Indian citizen.",
+          "Pre-candidacy oath: must make and subscribe the Third Schedule oath/affirmation before a person the Election Commission has authorised for that purpose — a mandatory precondition to candidacy, distinct from the post-election Article 188 oath taken before actually sitting.",
+          "Minimum age: 25 years for a Legislative Assembly seat, 30 years for a Legislative Council seat — the same differential reasoning as the Lok Sabha (25)/Rajya Sabha (30) age gap under Article 84.",
+          "Residual qualifications: whatever further qualifications Parliament prescribes by law — chiefly found in the Representation of the People Act, 1951."
+        ],
+        "exceptions_and_qualifications": [
+          "This Article sets only the affirmative eligibility floor — separate disqualification grounds (Article 191, covering office of profit, unsoundness of mind, insolvency, non-citizenship, and other Parliament-prescribed grounds including the Tenth Schedule) can still bar an otherwise-qualified person."
+        ],
+        "how_to_read": "Read Article 173 as Article 84's State-level mirror — same oath-before-candidacy requirement and same structural logic behind the age differential, always cross-check against Article 191's separate disqualification grounds and the Representation of the People Act, 1951 for the complete eligibility-and-disqualification picture."
+      }
+    },
+    {
+      "number": "174",
+      "title": "Sessions of the State Legislature, prorogation and dissolution",
+      "raw_text": "(1) The Governor shall from time to time summon the House or each House of the Legislature of the State to meet at such time and place as he thinks fit, but six months shall not intervene between its last sitting in one session and the date appointed for its first sitting in the next session.\n(2) The Governor may from time to time—\n(a) prorogue the House or either House;\n(b) dissolve the Legislative Assembly.",
+      "key_terms": [
+        "Governor's summoning power (State Legislature)",
+        "six-month maximum gap between sessions (State)",
+        "Governor's prorogation power (State Legislature)",
+        "Governor's dissolution power (Legislative Assembly)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 174 mirrors Article 85's Union-level rules on Parliament sessions, transposed to the State Legislature and the Governor. The Governor summons the House (or each House, for bicameral States) to meet, choosing the time and place, subject to the hard rule that no more than six months can elapse between one session's last sitting and the next session's first sitting — guaranteeing the Legislature meets at least twice a year. The Governor also holds the power to prorogue (formally end a session without dissolving the House) and, for the Legislative Assembly specifically, to dissolve it (only the Assembly can be dissolved — the Legislative Council, being a permanent body under Article 172(2), cannot be).",
+        "essential_elements": [
+          "Clause (1): the Governor summons the House or each House at a time and place of his choosing, subject to the mandatory six-month maximum inter-session gap — the same rule Article 85(1) imposes on the President for Parliament.",
+          "Clause (2)(a): the Governor may prorogue the House or either House — ending a session's sittings without ending the House's life.",
+          "Clause (2)(b): the Governor may dissolve the Legislative Assembly specifically — the power to dissolve applies only to the Assembly, never to a Legislative Council, consistent with Article 172(2)'s rule that Councils are not subject to dissolution."
+        ],
+        "exceptions_and_qualifications": [
+          "As with the President's equivalent powers under Article 85, the Governor's summoning, prorogation, and dissolution powers are, per Article 163's default rule, ordinarily exercised on the aid and advice of the Council of Ministers (specifically the Chief Minister), not as personal discretion — except in the narrow, well-recognised discretionary scenarios (e.g., a government that has lost its majority but declines to advise dissolution, or a hung Assembly)."
+        ],
+        "how_to_read": "Read Article 174 as Article 85's precise State-level mirror — the six-month rule, prorogation power, and (Assembly-only) dissolution power all track identically, with the same underlying convention that these are ordinarily ministerial-advice powers, not personal gubernatorial discretion, save in genuinely exceptional situations."
       }
     }
   ]
