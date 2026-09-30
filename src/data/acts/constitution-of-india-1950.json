@@ -465,7 +465,23 @@
     "original jurisdiction of the Supreme Court": "The Article 131 grant of exclusive first-instance jurisdiction to the Supreme Court over genuinely federal disputes — Centre v. State(s), Centre-with-States v. other States, and State v. State — where the dispute turns on the existence or extent of a legal right.",
     "exclusive federal-dispute jurisdiction": "The Article 131 rule that no court other than the Supreme Court may entertain a qualifying Centre-State or inter-State legal-right dispute — this jurisdiction is exclusive from the outset, not merely appellate.",
     "legal-right-dependent dispute requirement": "The Article 131 threshold requirement confining original jurisdiction to disputes involving a question of law or fact on which the existence or extent of a legal right depends, excluding purely political or policy disagreements between governments.",
-    "pre-Constitution treaty/instrument exclusion": "The proviso to Article 131 excluding from Supreme Court original jurisdiction any dispute arising from a treaty, agreement, covenant, engagement, sanad, or similar instrument executed before the Constitution's commencement and still in operation, or which itself excludes this jurisdiction — a legacy carve-out from the princely-state integration era."
+    "pre-Constitution treaty/instrument exclusion": "The proviso to Article 131 excluding from Supreme Court original jurisdiction any dispute arising from a treaty, agreement, covenant, engagement, sanad, or similar instrument executed before the Constitution's commencement and still in operation, or which itself excludes this jurisdiction — a legacy carve-out from the princely-state integration era.",
+    "constitutional appeal (Article 132)": "The Article 132 appellate route to the Supreme Court from any High Court civil, criminal, or other proceeding's judgment, decree, or final order, available whenever the case involves a substantial question of law as to the interpretation of the Constitution, regardless of the underlying subject-matter.",
+    "substantial question of law as to constitutional interpretation": "The Article 132 threshold requirement — the case must turn on a genuinely significant, unsettled question about how a constitutional provision is to be interpreted, not a merely arguable or settled point, before the constitutional-appeal route can be certified.",
+    "High Court certification requirement (Article 132)": "The precondition that the High Court itself must certify under Article 134A that the case involves a substantial question of constitutional interpretation before an Article 132 appeal can proceed to the Supreme Court.",
+    "'final order' extended meaning": "The Explanation to Article 132 enlarging 'final order' to include an order deciding an issue which, had it been decided in the appellant's favour, would have finally disposed of the case — capturing preliminary-issue orders that dismiss on a threshold point without a full trial.",
+    "civil appeal to Supreme Court (Article 133)": "The Article 133 appellate route confined to civil matters, requiring the High Court's dual certification that the case involves a substantial question of law of general importance and that, in the High Court's opinion, the question needs to be decided by the Supreme Court.",
+    "substantial question of law of general importance": "The first limb of the Article 133 dual-certification test — the legal question must not only be substantial but of general importance transcending the particular parties' dispute, distinguishing it from Article 132's narrower constitutional-interpretation-only requirement.",
+    "High Court's opinion that the question needs Supreme Court decision": "The second, independently required limb of the Article 133 dual-certification test — the High Court must itself form the opinion that the identified substantial question of general importance needs to be decided by the Supreme Court, beyond merely existing.",
+    "single-Judge High Court order appeal bar": "The Article 133(3) rule barring any appeal to the Supreme Court from a judgment, decree, or final order of a single High Court Judge, unless Parliament otherwise provides by law — closing off piecemeal appeals from single-Judge civil orders.",
+    "criminal appeal to Supreme Court (Article 134)": "The Article 134 appellate route in criminal matters, combining two automatic rights of appeal tied to death-sentence outcomes with a third discretionary route via High Court 'fit case' certification under Article 134A, all subject to Supreme Court Rules made under Article 145 and any High Court-imposed conditions.",
+    "automatic appeal on reversal-of-acquittal death sentence": "The Article 134(1)(a) automatic (certification-free) right of appeal to the Supreme Court arising when a High Court has, on appeal, reversed an accused's acquittal and sentenced him to death.",
+    "automatic appeal on withdrawn-case-trial death sentence": "The Article 134(1)(b) automatic right of appeal arising when a High Court has withdrawn a case from a subordinate court for trial itself, convicted the accused, and sentenced him to death.",
+    "'fit case' certification (Article 134(1)(c))": "The discretionary criminal-appeal route under Article 134(1)(c), permitting a High Court to certify a case as fit for appeal to the Supreme Court even outside the two automatic death-sentence triggers, following the Article 134A certification procedure.",
+    "Parliament's power to expand criminal appellate jurisdiction": "The Article 134(2) power letting Parliament by law confer on the Supreme Court further criminal appellate jurisdiction beyond the three routes textually specified in clause (1), exercised through legislation such as the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970.",
+    "unified High Court certification procedure": "The Article 134A mechanism consolidating the certification process for Articles 132(1), 133(1), and 134(1)(c) appeals — the High Court, as soon as reasonably practicable after passing or making a qualifying judgment, decree, or order, either certifies on its own motion or determines the question upon the aggrieved party's application.",
+    "suo motu certification power": "The Article 134A power letting a High Court certify a case as fit for Supreme Court appeal on its own motion, without waiting for either party to apply, immediately after delivering the qualifying judgment, decree, final order, or sentence.",
+    "aggrieved party's oral application for certification": "The Article 134A entitlement of a party aggrieved by a High Court judgment, decree, final order, or sentence to orally apply for a certificate immediately after the judgment is delivered, triggering the High Court's obligation to determine the certification question."
   },
   "sections": [
     {
@@ -3833,6 +3849,106 @@
           "The former Article 131A (exclusive Supreme Court jurisdiction over the constitutional validity of Central laws) was inserted by the 42nd Amendment and later omitted by the 43rd Amendment (1977), so no such provision exists today"
         ],
         "how_to_read": "The practitioner's checklist for Article 131: (1) are the parties confined to the Centre and/or States only; (2) does the dispute genuinely turn on a legal right rather than pure policy; (3) does the pre-Constitution-instrument proviso apply — all three gate whether this exclusive original jurisdiction is even available."
+      }
+    },
+    {
+      "number": "132",
+      "title": "Appellate jurisdiction of Supreme Court in appeals from High Courts in certain cases",
+      "raw_text": "(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order of a High Court in the territory of India, whether in a civil, criminal or other proceeding, if the High Court certifies under article 134A that the case involves a substantial question of law as to the interpretation of this Constitution. (3) Where such a certificate is given, any party in the case may appeal to the Supreme Court on the ground that any such question as aforesaid has been wrongly decided. Explanation.—For the purposes of this article, the expression \"final order'' includes an order deciding an issue which, if decided in favour of the appellant, would be sufficient for the final disposal of the case.",
+      "key_terms": [
+        "constitutional appeal (Article 132)",
+        "substantial question of law as to constitutional interpretation",
+        "High Court certification requirement (Article 132)",
+        "'final order' extended meaning"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 132 opens a Supreme Court appeal route for any High Court judgment, decree, or final order — in ANY kind of proceeding, civil, criminal, or other — provided it genuinely turns on a substantial question of constitutional interpretation. Unlike Article 133 (confined to civil matters) or Article 134 (confined to criminal matters), Article 132 is subject-matter-neutral; what matters is that the underlying issue is a substantial constitutional-interpretation question. The gatekeeping mechanism is a High Court certificate (now issued under the unified certification procedure of Article 134A) — without that certificate, no appeal lies under this article at all (though a party could still seek Supreme Court special leave under Article 136 in its absence). The Explanation broadens 'final order' beyond its natural meaning to include even an interlocutory-seeming order that, if it had gone the appellant's way, would have ended the case entirely — preventing procedural form from defeating substantively final rulings.",
+        "essential_elements": [
+          "The appeal covers judgments, decrees, or final orders from any type of High Court proceeding — civil, criminal, or other — with no subject-matter restriction unlike Articles 133 and 134",
+          "The case must involve a substantial question of law specifically as to the interpretation of the Constitution — ordinary substantial questions of law (not constitutional) fall outside this article",
+          "A High Court certificate under Article 134A is the gatekeeping precondition for the appeal to lie under this article",
+          "Once certified, any party to the case (not only the party who sought the certificate) may appeal, arguing the constitutional question was wrongly decided"
+        ],
+        "exceptions_and_qualifications": [
+          "The Explanation's extended definition of 'final order' captures orders that decide an issue which, had it gone the appellant's way, would have been sufficient to finally dispose of the case — even if the order does not formally end all proceedings",
+          "The original clause (2), which once allowed a party to appeal directly to the Supreme Court without a High Court certificate if the High Court refused one, was omitted by the 44th Amendment (1978) — today, absent a High Court certificate, the only route is a discretionary special leave petition under Article 136"
+        ],
+        "how_to_read": "Article 132's defining feature is subject-matter neutrality (civil/criminal/other) combined with strict subject-matter narrowness (constitutional interpretation only) — contrast this dual character with Articles 133 (civil-only, general substantial-question) and 134 (criminal-only, specific triggers)."
+      }
+    },
+    {
+      "number": "133",
+      "title": "Appellate jurisdiction of Supreme Court in appeals from High Courts in regard to civil matters",
+      "raw_text": "(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies under article 134A— (a) that the case involves a substantial question of law of general importance; and (b) that in the opinion of the High Court the said question needs to be decided by the Supreme Court. (2) Notwithstanding anything in article 132, any party appealing to the Supreme Court under clause (1) may urge as one of the grounds in such appeal that a substantial question of law as to the interpretation of this Constitution has been wrongly decided. (3) Notwithstanding anything in this article, no appeal shall, unless Parliament by law otherwise provides, lie to the Supreme Court from the judgment, decree or final order of one Judge of a High Court.",
+      "key_terms": [
+        "civil appeal to Supreme Court (Article 133)",
+        "substantial question of law of general importance",
+        "High Court's opinion that the question needs Supreme Court decision",
+        "single-Judge High Court order appeal bar"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 133 is the general civil-appeal gateway to the Supreme Court — broader in subject matter than Article 132's constitutional-only focus, but requiring a dual certification: the High Court must certify both that a substantial question of law of general importance is involved AND that, in its own opinion, the Supreme Court specifically needs to decide it (a higher bar than merely 'substantial' — it must also be of general, not merely case-specific, importance). Clause (2) is a convenience provision letting an appellant who's already in the Supreme Court on a certified civil matter also raise a constitutional-interpretation argument without needing a separate Article 132 certificate for that specific point. Clause (3) closes off appeals from single-Judge High Court orders (Parliament could by law reopen this, but has generally not done so broadly) — reflecting that such orders are typically themselves appealable within the High Court (e.g., to a Division Bench) before any question of Supreme Court appeal arises.",
+        "essential_elements": [
+          "The proceeding must be civil in nature (contrast with Article 134's criminal focus and Article 132's subject-matter neutrality)",
+          "The High Court must certify BOTH that a substantial question of law of general importance is involved AND that it needs Supreme Court determination — a conjunctive two-part test, not either alone",
+          "Clause (2) permits raising a constitutional-interpretation argument as an additional ground within an Article 133 appeal, without a separate Article 132 certificate",
+          "No appeal lies from a single Judge's judgment, decree, or final order unless Parliament has by law provided otherwise for that category of case"
+        ],
+        "exceptions_and_qualifications": [
+          "The 'general importance' requirement distinguishes Article 133 from a pure error-correction appellate mechanism — the question must transcend the particular case's facts and matter for the wider development of law, not just for the litigants involved",
+          "The single-Judge bar in clause (3) is itself subject to Parliament's power to legislate exceptions, though such exceptions are the rarity rather than the rule in Indian civil procedure"
+        ],
+        "how_to_read": "Remember the two-part conjunctive certification test in clause (1)(a)-(b) as the defining feature distinguishing Article 133 from a simple substantial-question test — both general importance AND the High Court's own view that Supreme Court resolution is needed must be satisfied."
+      }
+    },
+    {
+      "number": "134",
+      "title": "Appellate jurisdiction of Supreme Court in regard to criminal matters",
+      "raw_text": "(1) An appeal shall lie to the Supreme Court from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India if the High Court— (a) has on appeal reversed an order of acquittal of an accused person and sentenced him to death; or (b) has withdrawn for trial before itself any case from any court subordinate to its authority and has in such trial convicted the accused person and sentenced him to death; or (c) certifies under article 134A that the case is a fit one for appeal to the Supreme Court: Provided that an appeal under sub-clause (c) shall lie subject to such provisions as may be made in that behalf under clause (1) of article 145 and to such conditions as the High Court may establish or require. (2) Parliament may by law confer on the Supreme Court any further powers to entertain and hear appeals from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India subject to such conditions and limitations as may be specified in such law.",
+      "key_terms": [
+        "criminal appeal to Supreme Court (Article 134)",
+        "automatic appeal on reversal-of-acquittal death sentence",
+        "automatic appeal on withdrawn-case-trial death sentence",
+        "'fit case' certification (Article 134(1)(c))",
+        "Parliament's power to expand criminal appellate jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 134 opens Supreme Court criminal appeals through three distinct routes. The first two are automatic, certificate-free 'as of right' appeals in the gravest scenario — a death sentence — triggered either when a High Court reverses a trial court's acquittal and itself imposes death, or when a High Court withdraws a case to try it directly and convicts with a death sentence; the logic is that a death sentence imposed for the first time (or on reversal of an acquittal) by a High Court warrants an automatic further layer of Supreme Court scrutiny given the finality and gravity of the punishment. The third route is discretionary High Court certification that a case is simply 'fit' for Supreme Court appeal — a broad, flexible catch-all for any other criminal matter the High Court considers appeal-worthy, though subject to Supreme Court Rules made under Article 145 and any conditions the High Court itself imposes. Clause (2) is a residual expansion power letting Parliament by ordinary law widen the Supreme Court's criminal appellate jurisdiction further — historically exercised, for instance, through provisions in the Code of Criminal Procedure enabling additional categories of criminal appeal.",
+        "essential_elements": [
+          "Automatic appeal route one: the High Court, on appeal, reversed an acquittal and sentenced the accused to death",
+          "Automatic appeal route two: the High Court withdrew a case from a subordinate court, tried it itself, and sentenced the accused to death",
+          "Discretionary route: a High Court certificate under Article 134A that the case is a 'fit one' for Supreme Court appeal — a broad, undefined standard vesting real discretion in the High Court",
+          "Clause (2) lets Parliament by law confer further criminal appellate jurisdiction on the Supreme Court beyond what this article itself provides"
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso to clause (1) subjects the discretionary 'fit case' certification route to Supreme Court Rules made under Article 145(1) and to any conditions the certifying High Court itself establishes or requires — the certification is not an unconditional, self-executing right of appeal",
+          "The two automatic death-sentence routes are narrowly confined to their specific fact patterns (acquittal-reversed-to-death, or withdrawn-case-tried-and-sentenced-to-death) — a death sentence confirmed on appeal from an original trial-court death sentence, without an intervening acquittal reversal, does not by itself trigger automatic Article 134 appeal (though such cases are typically covered by statutory appeal rights under the CrPC/BNSS and by Article 136 special leave in any event)"
+        ],
+        "how_to_read": "Distinguish the two narrow, automatic 'as of right' death-sentence triggers in clauses (1)(a)-(b) from the broad, discretionary 'fit case' certification in clause (1)(c) — the former requires no certificate at all, while the latter is squarely a High Court discretionary judgment call subject to Article 145 Rules."
+      }
+    },
+    {
+      "number": "134A",
+      "title": "Certificate for appeal to the Supreme Court",
+      "raw_text": "Every High Court, passing or making a judgment, decree, final order, or sentence, referred to in clause (1) of article 132 or clause (1) of article 133, or clause (1) of article 134,— (a) may, if it deems fit so to do, on its own motion; and (b) shall, if an oral application is made, by or on behalf of the party aggrieved, immediately after the passing or making of such judgment, decree, final order or sentence, determine, as soon as may be after such passing or making, the question whether a certificate of the nature referred to in clause (1) of article 132, or clause (1) of article 133 or, as the case may be, sub-clause (c) of clause (1) of article 134, may be given in respect of that case.",
+      "key_terms": [
+        "unified High Court certification procedure",
+        "suo motu certification power",
+        "aggrieved party's oral application for certification"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 134A, inserted by the 44th Amendment (1978), streamlines and unifies the certificate-granting procedure across Articles 132, 133, and 134(1)(c) into a single mechanism, so a High Court follows one consistent process regardless of which appellate-gateway certificate is being sought. The High Court can certify on its own initiative (suo motu) if it thinks fit, but it MUST at least consider and rule on the question if the aggrieved party makes an oral application immediately after the judgment/order/sentence is passed — practically meaning counsel should orally request certification right there in court rather than filing a separate later application, a small but critical procedural trap for the unwary practitioner.",
+        "essential_elements": [
+          "The article applies uniformly to certification requests under Article 132(1), Article 133(1), and Article 134(1)(c)",
+          "The High Court has discretionary suo motu power to grant certification on its own motion if it deems fit",
+          "The High Court has a mandatory duty to determine the certification question if an oral application is made by or on behalf of the aggrieved party immediately after the judgment/decree/order/sentence is passed",
+          "The determination should be made as soon as may be after the judgment is passed, reflecting the immediacy built into the oral-application mechanism"
+        ],
+        "exceptions_and_qualifications": [
+          "The 'immediately after' timing requirement for the oral application is a strict practical trap — a party's counsel must be prepared to make the certification request right at the moment judgment is pronounced, not through a later formal written application, or risk losing this particular procedural route (though Article 136 special leave typically remains available as a fallback)",
+          "This article only unifies the certification PROCEDURE — it does not alter or relax the underlying substantive standards each article separately fixes (constitutional-interpretation-only under 132, general-importance-plus-needed under 133, or fit-case under 134(1)(c))"
+        ],
+        "how_to_read": "The practitioner takeaway is procedural, not substantive: this article is the single certification gateway serving three different substantive tests (Articles 132, 133, 134(1)(c)) — and counsel must make any oral certification request immediately upon judgment being pronounced to preserve the right."
       }
     }
   ]
