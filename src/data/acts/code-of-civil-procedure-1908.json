@@ -151,7 +151,40 @@
     "reciprocating territory": "Any country or territory outside India notified by the Central Government in the Official Gazette as a reciprocating territory, whose superior courts' decrees can be executed in India as if passed by an Indian District Court.",
     "superior Courts": "In the context of reciprocating territory, the courts specified in the Central Government's notification as the courts of that territory whose decrees qualify for direct execution in India under Section 44A.",
     "money decree": "A decree for the payment of a sum of money, as distinguished from a decree for other reliefs such as possession or injunction; only money decrees (with certain exclusions) from reciprocating territories are directly executable under Section 44A.",
-    "arbitration award": "A decision rendered by an arbitrator or arbitral tribunal; sums payable under an award are excluded from the definition of a Section 44A money decree even if the award has been (or could be) enforced as a decree in the original territory."
+    "arbitration award": "A decision rendered by an arbitrator or arbitral tribunal; sums payable under an award are excluded from the definition of a Section 44A money decree even if the award has been (or could be) enforced as a decree in the original territory.",
+    "execution outside India": "The enforcement of an Indian decree through a court situated outside India, permitted under Section 45 only where the State Government has specifically notified that court for this purpose.",
+    "notified Court": "A court formally declared, by Government notification in the Official Gazette, to be one to which a particular statutory provision applies.",
+    "precept": "A direction issued by the court which passed a decree to another competent court, instructing it to attach specified property of the judgment-debtor as an urgent, temporary measure pending fuller execution proceedings.",
+    "attachment under precept": "The temporary attachment of a judgment-debtor's property carried out by a court acting on a precept, which lapses after two months unless extended or converted into a full transfer-based attachment.",
+    "separate suit bar": "The rule under Section 47 that disputes between decree-holder and judgment-debtor about the execution, discharge, or satisfaction of a decree must be resolved by the executing court itself, not through an independent fresh suit.",
+    "representative of a party": "A person who stands in the shoes of an original party to the suit for execution purposes, such as a legal heir, assignee, or other successor-in-interest.",
+    "auction-purchaser as party": "The legal fiction under Explanation II to Section 47 treating the buyer at a court-ordered execution sale as a party to the original suit, so that possession disputes involving them fall within the executing court's jurisdiction.",
+    "repealed section": "A section of an Act that has been formally omitted or withdrawn by a later enactment, and no longer has legal effect, though its number may be retained in the text for continuity.",
+    "limitation for execution": "The statutory time-limit within which a decree-holder must apply to execute a decree, currently twelve years from the date the decree becomes enforceable under Article 136 of the Limitation Act, 1963.",
+    "transferee of a decree": "A person to whom a decree has been assigned or transferred by the original decree-holder, who then becomes entitled to execute it.",
+    "equities against original decree-holder": "Fair defences, set-offs, or claims that a judgment-debtor could have raised against the original decree-holder, and which remain available even after the decree is transferred to someone else.",
+    "legal representative liability": "The principle that a deceased judgment-debtor's legal representative is liable to satisfy the decree only out of estate property that has come into their hands and has not been duly disposed of, not out of their own personal assets.",
+    "duly disposed of": "Estate property that a legal representative has properly and legitimately spent, distributed, or applied (for example toward the deceased's genuine debts), and which is therefore no longer available to satisfy a decree.",
+    "modes of execution": "The range of methods by which a court may enforce a decree under Section 51 — delivery of specific property, attachment and sale, arrest and detention, appointment of a receiver, or any other manner suited to the relief granted.",
+    "arrest and detention safeguard": "The proviso to Section 51 restricting imprisonment for a money decree to cases where the court, after a show-cause hearing, records written reasons finding bad-faith evasion, proven refusal to pay despite means, or a fiduciary breach.",
+    "fiduciary capacity": "A position of trust in which a person is legally bound to account for money or property held on another's behalf, such as a trustee, agent, or guardian.",
+    "show-cause opportunity": "The mandatory hearing a judgment-debtor must be given before being committed to prison in execution of a money decree, allowing them to explain why detention should not be ordered.",
+    "decree against legal representative": "A decree passed directly against a person in their capacity as the legal representative of a deceased person, ordering payment out of the deceased's estate property.",
+    "failure to account for estate property": "A legal representative's inability to satisfy the court that estate property which came into their possession was properly applied, which can expose them to execution as if the decree were personal, up to the unaccounted value.",
+    "ancestral property liability": "The extension, via Section 53, of Sections 50 and 52's execution rules to ancestral property in the hands of a son or descendant that is liable under Hindu law for a deceased ancestor's debt.",
+    "pious obligation": "The Hindu law doctrine under which a son or descendant may be liable to pay off an ancestor's debts out of ancestral property, on grounds of religious and moral duty, independent of personal liability.",
+    "revenue estate partition": "The division of an undivided landed estate that is assessed to Government land revenue, carried out under Section 54 by revenue authorities rather than the civil court itself.",
+    "Collector's role in partition": "The statutory function assigned to the Collector (or a gazetted subordinate deputed by the Collector) to execute a civil court's decree for partition or separate possession of a share of a revenue-assessed estate.",
+    "dwelling-house entry safeguards": "The set of procedural protections in Section 55 restricting when and how an officer may enter a dwelling-house to arrest a judgment-debtor, including a night-time entry ban and special notice to women observing purdah.",
+    "insolvency discharge route": "The option given to a judgment-debtor arrested for a money decree to apply to be declared insolvent, potentially leading to discharge from detention if no bad faith is shown and insolvency law requirements are met.",
+    "security for insolvency application": "A guarantee furnished by an arrested judgment-debtor, to the court's satisfaction, that they will apply for insolvency within one month and appear as required, which can secure their release from arrest in the meantime.",
+    "absolute bar on arresting women for money decrees": "The non-obstante rule in Section 56 that flatly forbids a court from ordering the arrest or civil-prison detention of a woman to execute a decree for payment of money.",
+    "subsistence allowance": "The monthly maintenance amount, fixed by the State Government on scales that may vary by rank, race, and nationality, payable for the upkeep of a judgment-debtor detained in civil prison.",
+    "maximum detention period": "The statutory cap under Section 58 on how long a judgment-debtor may be kept in civil prison for a money decree, tiered according to the size of the decretal amount.",
+    "monetary threshold for detention": "The minimum decretal amount below which Section 58(1A) forbids any order of civil-prison detention against a judgment-debtor for a money decree.",
+    "release without discharge of debt": "The principle that a judgment-debtor's release from civil prison on expiry of the permitted detention period does not extinguish the underlying debt, though it does bar re-arrest under the same decree.",
+    "release on medical grounds": "The set of powers under Section 59 permitting cancellation of an arrest warrant, or release from arrest or civil-prison detention, on account of a judgment-debtor's serious illness or, in the case of already-committed persons, infectious or contagious disease.",
+    "warrant cancellation for illness": "The court's power under Section 59(1) to cancel an arrest warrant issued against a judgment-debtor before it is executed, on the ground of the judgment-debtor's serious illness."
   },
   "sections": [
     {
@@ -1238,6 +1271,325 @@
           "This is a direct-execution shortcut available only for notified reciprocating territories and their notified superior courts — a foreign money decree from a non-notified country must instead be sued upon as a cause of action (using section 13's conclusiveness rules) rather than directly executed under this section."
         ],
         "how_to_read": "Before invoking section 44A, confirm both that the foreign country is a notified reciprocating territory and that the specific court is a notified \"superior Court\" — absent both, direct execution is unavailable and a fresh suit on the foreign judgment is the correct route."
+      }
+    },
+    {
+      "number": "45",
+      "title": "Execution of decrees outside India.",
+      "raw_text": "So much of the foregoing sections of this Part as empowers a Court to send a decree for execution to another Court shall be construed as empowering a Court in any State to send a decree for execution to any Court established by the authority of the Central Government outside India to which the State Government has by notification in the Official Gazette declared this section to apply.",
+      "key_terms": [
+        "execution outside India",
+        "notified Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 45 extends the ordinary transfer-of-decree machinery (Sections 39-44A) so that an Indian court can send a decree for execution to a court set up by the Central Government outside India, but only where the State Government has specifically notified that this section applies to that foreign court.",
+        "essential_elements": [
+          "The receiving court must be one established by the authority of the Central Government outside India.",
+          "The State Government must have issued a notification in the Official Gazette declaring Section 45 applicable to that court.",
+          "Once notified, the same procedural machinery used for domestic inter-Court transfer of decrees applies."
+        ],
+        "exceptions_and_qualifications": [
+          "Without the specific Gazette notification, a decree cannot simply be sent abroad for execution under this section."
+        ],
+        "how_to_read": "A narrow bridge provision — read it together with Sections 39-44A, which supply the actual transfer mechanics; Section 45 only extends their reach to specially notified courts outside India."
+      }
+    },
+    {
+      "number": "46",
+      "title": "Precepts.",
+      "raw_text": "(1) Upon the application of the decree-holder the Court which passed the decree may, whenever it thinks fit, issue a precept to any other Court which would be competent to execute such decree to attach any property belonging to the judgment-debtor and specified in the precept.\n(2) The Court to which a precept is sent shall proceed to attach the property in the manner prescribed in regard to the attachment of property in execution of a decree:\nProvided that no attachment under a precept shall continue for more than two months unless the period of attachment is extended by an order of the Court which passed the decree or unless before the determination of such attachment the decree has been transferred to the Court by which the attachment has been made and the decree-holder has applied for an order for the sale of such property.",
+      "key_terms": [
+        "precept",
+        "attachment under precept"
+      ],
+      "breakdown": {
+        "plain_summary": "A precept is an emergency direction: the court that passed the decree can ask another competent court to urgently attach a judgment-debtor's property there, to stop the debtor from spiriting it away, even before a formal transfer of the decree for execution has been completed.",
+        "essential_elements": [
+          "Issued only on the decree-holder's application, at the discretion of the court which passed the decree.",
+          "Directs a court competent to execute the decree to attach specified property of the judgment-debtor.",
+          "The receiving court attaches the property using the ordinary procedure for attachment in execution.",
+          "The attachment automatically lapses after two months unless extended by the passing court, or unless the decree itself is transferred to the attaching court and a sale application is made before the two months run out."
+        ],
+        "exceptions_and_qualifications": [
+          "A precept only permits attachment, not sale — sale requires either an extension or an actual transfer of the decree plus a sale application."
+        ],
+        "how_to_read": "Think of a precept as a holding measure: attach first, formally transfer (or extend) later. The two-month clock in the proviso is the key practical trap."
+      }
+    },
+    {
+      "number": "47",
+      "title": "Questions to be determined by the Court executing decree.",
+      "raw_text": "(1) All questions arising between the parties to the suit in which the decree was passed, or their representatives, and relating to the execution, discharge or satisfaction of the decree, shall be determined by the Court executing the decree and not by a separate suit.\n(3) Where a question arises as to whether any person is or is not the representative of a party, such question shall, for the purposes of this section, be determined by the Court.\nExplanation I.—For the purposes of this section, a plaintiff whose suit has been dismissed and a defendant against whom a suit has been dismissed are parties to the suit.\nExplanation II.—(a) For the purposes of this section, a purchaser of property at a sale in execution of a decree shall be deemed to be a party to the suit in which the decree is passed; and\n(b) all questions relating to the delivery of possession of such property to such purchaser or his representative shall be deemed to be questions relating to the execution, discharge or satisfaction of the decree within the meaning of this section.",
+      "key_terms": [
+        "executing Court",
+        "separate suit bar",
+        "representative of a party",
+        "auction-purchaser as party"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 47 channels all disputes about executing, discharging, or satisfying a decree into the executing court itself — the losing party cannot file a fresh, separate suit to relitigate execution disputes. The two Explanations widen who counts as a 'party' for this purpose, including a plaintiff or defendant whose case was dismissed and an auction-purchaser at the execution sale.",
+        "essential_elements": [
+          "The dispute must be between parties to the suit (or their representatives) and must relate to execution, discharge, or satisfaction of the decree.",
+          "Such questions must be decided by the executing court, not through a fresh separate suit.",
+          "Disputes over whether someone is a legal representative of a party are also decided by the executing court under this section.",
+          "An auction-purchaser at the execution sale is deemed a party, and disputes about delivering possession to them are treated as execution questions."
+        ],
+        "exceptions_and_qualifications": [
+          "The bar applies only to questions relating to execution, discharge, or satisfaction of the decree — questions outside this scope (e.g. a genuinely independent cause of action) may still require a separate suit."
+        ],
+        "how_to_read": "This is the foundational bar-on-separate-suits provision for execution disputes — pair it with Order XXI (execution procedure) in practice; a plaint challenging execution matters instead of an execution application risks rejection for want of a fresh cause of action."
+      }
+    },
+    {
+      "number": "48",
+      "title": "[Execution barred in certain cases.] Repealed.",
+      "raw_text": "Repealed by the Limitation Act, 1963 (36 of 1963), section 28, with effect from 1 January 1964. This section formerly barred execution of a decree after the expiry of twelve years from the date the decree became enforceable, subject to certain exceptions. Limitation for execution of decrees is now governed by the Limitation Act, 1963 (see Article 136 of its Schedule, prescribing a twelve-year period from the date the decree becomes enforceable).",
+      "key_terms": [
+        "repealed section",
+        "limitation for execution"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 48 is no longer in force. It used to cap how long a decree-holder could wait before executing a decree, but Parliament moved this subject entirely into the Limitation Act, 1963, which now governs the time-limit for execution.",
+        "essential_elements": [
+          "Formally repealed with effect from 1 January 1964.",
+          "The subject matter (limitation for execution of decrees) migrated to the Limitation Act, 1963."
+        ],
+        "exceptions_and_qualifications": [
+          "Not to be confused with a currently operative rule — any argument on limitation for execution today must be founded on the Limitation Act, 1963, not on this repealed section."
+        ],
+        "how_to_read": "A numbering placeholder only — retained so that surrounding section numbers (47, 49...) keep their historical position; the actual live law is in the Limitation Act, 1963, Article 136."
+      }
+    },
+    {
+      "number": "49",
+      "title": "Transferee.",
+      "raw_text": "Every transferee of a decree shall hold the same subject to the equities (if any) which the judgment-debtor might have enforced against the original decree-holder.",
+      "key_terms": [
+        "transferee of a decree",
+        "equities against original decree-holder"
+      ],
+      "breakdown": {
+        "plain_summary": "If a decree is transferred (assigned) to someone else, that new holder does not get a cleaner claim than the original decree-holder had — any fair defences or set-offs the judgment-debtor could have raised against the original decree-holder remain available against the transferee too.",
+        "essential_elements": [
+          "Applies to any transferee who acquires a decree by assignment or operation of law.",
+          "The transferee steps into the shoes of the original decree-holder, taking the decree subject to existing equities.",
+          "The judgment-debtor may raise against the transferee any equitable defence that was available against the original decree-holder."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A basic assignment-law principle imported into execution practice — useful defensively for a judgment-debtor facing execution by someone other than the original decree-holder."
+      }
+    },
+    {
+      "number": "50",
+      "title": "Legal representative.",
+      "raw_text": "(1) Where a judgment-debtor dies before the decree has been fully satisfied, the holder of the decree may apply to the Court which passed it to execute the same against the legal representative of the deceased.\n(2) Where the decree is executed against such legal representative, he shall be liable only to the extent of the property of the deceased which has come to his hands and has not been duly disposed of; and, for the purpose of ascertaining such liability, the Court executing the decree may, of its own motion or on the application of the decree-holder, compel such legal representative to produce such accounts as it thinks fit.",
+      "key_terms": [
+        "legal representative liability",
+        "duly disposed of"
+      ],
+      "breakdown": {
+        "plain_summary": "If a judgment-debtor dies before paying off the decree, the decree-holder can pursue the deceased's legal representative — but only to the extent of estate property that actually reached the representative's hands and hasn't already been properly spent or distributed.",
+        "essential_elements": [
+          "The judgment-debtor must have died before the decree was fully satisfied.",
+          "The decree-holder applies to the court which passed the decree to execute against the legal representative.",
+          "Liability of the legal representative is capped at the value of estate property received and not duly disposed of.",
+          "The executing court may compel the legal representative to produce accounts to establish the extent of that property."
+        ],
+        "exceptions_and_qualifications": [
+          "Personal assets of the legal representative are not at risk — liability is limited strictly to inherited estate property that has not been properly disposed of."
+        ],
+        "how_to_read": "Central to enforcing decrees after a judgment-debtor's death; read with Sections 52 and 53 for related rules on decrees against legal representatives and ancestral property."
+      }
+    },
+    {
+      "number": "51",
+      "title": "Powers of Court to enforce execution.",
+      "raw_text": "Subject to such conditions and limitations as may be prescribed, the Court may, on the application of the decree-holder, order execution of the decree—\n(a) by delivery of any property specifically decreed;\n(b) by attachment and sale or by the sale without attachment of any property;\n(c) by arrest and detention in prison for such period not exceeding the period specified in section 58, where arrest and detention is permissible under that section;\n(d) by appointing a receiver; or\n(e) in such other manner as the nature of the relief granted may require:\nProvided that, where the decree is for the payment of money, execution by detention in prison shall not be ordered unless, after giving the judgment-debtor an opportunity of showing cause why he should not be committed to prison, the Court, for reasons recorded in writing, is satisfied—\n(a) that the judgment-debtor, with the object or effect of obstructing or delaying the execution of the decree,—\n(i) is likely to abscond or leave the local limits of the jurisdiction of the Court, or\n(ii) has, after the institution of the suit in which the decree was passed, dishonestly transferred, concealed, or removed any part of his property, or committed any other act of bad faith in relation to his property, or\n(b) that the judgment-debtor has, or has had since the date of the decree, the means to pay the amount of the decree or some substantial part thereof and refuses or neglects or has refused or neglected to pay the same, or\n(c) that the decree is for a sum for which the judgment-debtor was bound in a fiduciary capacity to account.\nExplanation.—In the calculation of the means of the judgment-debtor for the purposes of clause (b), there shall be left out of account any property which, by or under any law or custom having the force of law for the time being in force, is exempt from attachment in execution of the decree.",
+      "key_terms": [
+        "modes of execution",
+        "arrest and detention safeguard",
+        "fiduciary capacity",
+        "show-cause opportunity"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 51 lists the toolbox of ways a court can enforce a decree: handing over decreed property, attaching and selling property, arrest and imprisonment, appointing a receiver, or any other manner suited to the relief granted. But for money decrees, imprisonment is deliberately made the last resort — it requires a specific show-cause hearing and a written finding that the debtor is dodging payment in bad faith, genuinely has the means but refuses to pay, or breached a fiduciary duty to account.",
+        "essential_elements": [
+          "Execution modes: delivery of specific property, attachment-and-sale (or sale without attachment), arrest and detention, receiver appointment, or another fitting manner.",
+          "For money decrees, imprisonment requires the judgment-debtor first be given an opportunity to show cause.",
+          "The court must record written reasons finding bad-faith evasion, proven ability but refusal to pay, or fiduciary breach before ordering detention.",
+          "Property exempt from attachment by law or custom is excluded when assessing the judgment-debtor's 'means' to pay."
+        ],
+        "exceptions_and_qualifications": [
+          "Arrest and detention for a money decree is never automatic — it is squarely conditioned on the proviso's safeguards, reflecting a policy against routine imprisonment for civil debt."
+        ],
+        "how_to_read": "The practitioner's execution menu — Section 51 supplies the 'what', while Order XXI supplies the 'how'; the proviso is the single most litigated safeguard against misuse of arrest in money-decree execution."
+      }
+    },
+    {
+      "number": "52",
+      "title": "Enforcement of decree against legal representative.",
+      "raw_text": "(1) Where a decree is passed against a party as the legal representative of a deceased person, and the decree is for the payment of money out of the property of the deceased, it may be executed by the attachment and sale of any such property.\n(2) Where no such property remains in the possession of the judgment-debtor and he fails to satisfy the Court that he has duly applied such property of the deceased as is proved to have come into his possession, the decree may be executed against the judgment-debtor to the extent of the property in respect of which he has failed so to satisfy the Court in the same manner as if the decree had been against him personally.",
+      "key_terms": [
+        "decree against legal representative",
+        "failure to account for estate property"
+      ],
+      "breakdown": {
+        "plain_summary": "When a decree is already passed against someone specifically as the legal representative of a deceased person (for money payable from the deceased's estate), execution first targets estate property. If that property is gone and the representative cannot show it was properly applied, execution can proceed against the representative personally, but only to the extent of the unaccounted property.",
+        "essential_elements": [
+          "Applies where the decree itself was passed against a person in their capacity as legal representative.",
+          "Primary mode of execution is attachment and sale of the deceased's property.",
+          "If such property is no longer available and the representative cannot prove it was duly applied, execution proceeds against the representative as if the decree were personal — capped at the unaccounted value."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Distinguish from Section 50: Section 50 covers a judgment-debtor who dies after the decree, requiring a fresh execution application against the representative; Section 52 covers a decree already passed against the representative as such."
+      }
+    },
+    {
+      "number": "53",
+      "title": "Liability of ancestral property.",
+      "raw_text": "For the purposes of section 50 and section 52, property in the hands of a son or other descendant which is liable under Hindu law for the payment of the debt of a deceased ancestor, in respect of which a decree has been passed, shall be deemed to be property of the deceased which has come to the hands of the son or other descendant as his legal representative.",
+      "key_terms": [
+        "ancestral property liability",
+        "pious obligation"
+      ],
+      "breakdown": {
+        "plain_summary": "Under Hindu law, sons and descendants can be liable for a deceased ancestor's debts out of ancestral property (the 'pious obligation' doctrine). Section 53 plugs this into the execution framework by deeming such ancestral property to be property of the deceased in the descendant's hands, so Sections 50 and 52 apply to it directly.",
+        "essential_elements": [
+          "Applies specifically to property liable under Hindu law for an ancestor's debt.",
+          "Such property, in the hands of a son or other descendant, is deemed to be the deceased's property received by them as legal representative.",
+          "This deeming fiction makes Sections 50 and 52 directly applicable to ancestral property execution."
+        ],
+        "exceptions_and_qualifications": [
+          "Limited to property that is actually liable under Hindu law's pious-obligation doctrine — not all ancestral property automatically qualifies."
+        ],
+        "how_to_read": "A bridge provision connecting personal-law liability (Hindu law pious obligation) with the Code's execution machinery — relevant in joint-family debt-recovery litigation."
+      }
+    },
+    {
+      "number": "54",
+      "title": "Partition of estate or separation of share.",
+      "raw_text": "Where the decree is for the partition of an undivided estate assessed to the payment of revenue to the Government, or for the separate possession of a share of such an estate, the partition of the estate or the separation of the share shall be made by the Collector or any gazetted subordinate of the Collector deputed by him in this behalf, in accordance with the law (if any) for the time being in force relating to the partition, or the separate possession of shares, of such estates.",
+      "key_terms": [
+        "revenue estate partition",
+        "Collector's role in partition"
+      ],
+      "breakdown": {
+        "plain_summary": "For land that is assessed to Government land revenue, a civil court decree for partition or separation of a share is not carried out by the civil court itself — it is handed over to the Collector (or their deputed subordinate) to implement, following the applicable revenue-partition law.",
+        "essential_elements": [
+          "Applies only to an undivided estate assessed to the payment of revenue to the Government.",
+          "Covers both decrees for partition of the whole estate and decrees for separate possession of a share.",
+          "Execution of the partition/separation is carried out by the Collector or a gazetted subordinate deputed by the Collector, not by the civil court's own executing machinery.",
+          "The actual partition follows revenue law governing partition of such estates, where such law exists."
+        ],
+        "exceptions_and_qualifications": [
+          "Some States have substituted their own procedure by State Amendment (for example, Karnataka routes this through the Court itself, assisted by a revenue officer as Commissioner, rather than the Collector)."
+        ],
+        "how_to_read": "A jurisdiction-splitting provision — remember that execution of revenue-estate partition decrees moves out of the civil court's hands into revenue administration, subject to State-specific variations."
+      }
+    },
+    {
+      "number": "55",
+      "title": "Arrest and detention.",
+      "raw_text": "(1) A judgment-debtor may be arrested in execution of a decree at any hour and on any day, and shall, as soon as practicable, be brought before the Court, and his detention may be in the civil prison of the district in which the Court ordering the detention is situate, or, where such civil prison does not afford suitable accommodation, in any other place which the State Government may appoint for the detention of persons ordered by the Courts of such district to be detained:\nProvided, firstly, that, for the purpose of making an arrest under this section, no dwelling-house shall be entered after sunset and before sunrise:\nProvided, secondly, that no outer door of a dwelling-house shall be broken open unless such dwelling-house is in the occupancy of the judgment-debtor and he refuses or in any way prevents access thereto, but when the officer authorized to make the arrest has duly gained access to any dwelling-house, he may break open the door of any room in which he has reason to believe the judgment-debtor is to be found:\nProvided, thirdly, that, if the room is in the actual occupancy of a woman who is not the judgment-debtor and who according to the customs of the country does not appear in public, the officer authorized to make the arrest shall give notice to her that she is at liberty to withdraw, and, after allowing a reasonable time for her to withdraw and giving her reasonable facility for withdrawing, may enter the room for the purpose of making the arrest:\nProvided, fourthly, that, where the decree in execution of which a judgment-debtor is arrested, is a decree for the payment of money and the judgment-debtor pays the amount of the decree and the costs of the arrest to the officer arresting him, such officer shall at once release him.\n(2) The State Government may, by notification in the Official Gazette, declare that any person or class of persons whose arrest might be attended with danger or inconvenience to the public shall not be liable to arrest in execution of a decree otherwise than in accordance with such procedure as may be prescribed by the State Government in this behalf.\n(3) Where a judgment-debtor is arrested in execution of a decree for the payment of money and brought before the Court, the Court shall inform him that he may apply to be declared an insolvent, and that he may be discharged if he has not committed any act of bad faith regarding the subject of the application and if he complies with the provisions of the law of insolvency for the time being in force.\n(4) Where a judgment-debtor expresses his intention to apply to be declared an insolvent and furnishes security, to the satisfaction of the Court, that he will within one month so apply, and that he will appear, when called upon, in any proceeding upon the application or upon the decree in execution of which he was arrested, the Court may release him from arrest, and, if he fails so to apply and to appear, the Court may either direct the security to be realized or commit him to the civil prison in execution of the decree.",
+      "key_terms": [
+        "civil prison",
+        "dwelling-house entry safeguards",
+        "insolvency discharge route",
+        "security for insolvency application"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 55 lays down the mechanics and safeguards for physically arresting and detaining a judgment-debtor: when and how entry into a dwelling-house may be made, special protection for women observing purdah, immediate release on payment, State-notified immunity for classes of persons, and a built-in escape route via insolvency proceedings.",
+        "essential_elements": [
+          "Arrest can happen at any hour/day, but dwelling-house entry is barred between sunset and sunrise.",
+          "Breaking open an outer door requires actual occupancy-based refusal of access by the judgment-debtor.",
+          "A woman in purdah occupying the room must be given notice and reasonable time to withdraw before entry.",
+          "Immediate release follows if the judgment-debtor pays the decretal amount and arrest costs on the spot.",
+          "The State Government can exempt specified persons/classes from ordinary arrest procedure via notification.",
+          "On arrest for a money decree, the court must inform the debtor of the option to apply for insolvency discharge.",
+          "Security for a promised insolvency application can substitute for continued detention for up to one month."
+        ],
+        "exceptions_and_qualifications": [
+          "These protections apply specifically to arrest procedure; Section 56 separately bars arrest of women altogether for money decrees."
+        ],
+        "how_to_read": "A heavily proviso-laden section — practitioners should treat the four provisos as a checklist when challenging (or executing) an arrest warrant for procedural irregularity."
+      }
+    },
+    {
+      "number": "56",
+      "title": "Prohibition of arrest or detention of women in execution of decree for money.",
+      "raw_text": "Notwithstanding anything in this Part, the Court shall not order the arrest or detention in the civil prison of a woman in execution of a decree for the payment of money.",
+      "key_terms": [
+        "absolute bar on arresting women for money decrees"
+      ],
+      "breakdown": {
+        "plain_summary": "A blanket, non-obstante rule: no woman may ever be arrested or detained in civil prison to enforce a money decree against her, regardless of anything else in this Part of the Code.",
+        "essential_elements": [
+          "Applies specifically and only to decrees for the payment of money.",
+          "The bar is absolute — the non-obstante clause overrides any contrary provision elsewhere in this Part."
+        ],
+        "exceptions_and_qualifications": [
+          "Limited to money decrees; it does not by itself bar other coercive modes of execution (such as attachment and sale) against a woman judgment-debtor."
+        ],
+        "how_to_read": "A short but absolute protective provision — always cite it directly (no balancing test required) if arrest of a woman is sought for a money decree."
+      }
+    },
+    {
+      "number": "57",
+      "title": "Subsistence-allowance.",
+      "raw_text": "The State Government may fix scales, graduated according to rank, race and nationality, of monthly allowances payable for the subsistence of judgment-debtors.",
+      "key_terms": [
+        "subsistence allowance"
+      ],
+      "breakdown": {
+        "plain_summary": "The State Government sets the monthly maintenance allowance payable to a judgment-debtor while they are detained in civil prison, with scales that can vary by rank, race, and nationality.",
+        "essential_elements": [
+          "Power vested in the State Government to fix the allowance scales.",
+          "Scales may be graduated according to rank, race, and nationality."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A largely administrative provision, mainly relevant to confirming that a detained judgment-debtor is entitled to State-fixed subsistence, not left destitute in custody."
+      }
+    },
+    {
+      "number": "58",
+      "title": "Detention and release.",
+      "raw_text": "(1) Every person detained in the civil prison in execution of a decree shall be so detained,—\n(a) where the decree is for the payment of a sum of money exceeding five thousand rupees, for a period not exceeding three months, and,\n(b) where the decree is for the payment of a sum of money exceeding two thousand rupees, but not exceeding five thousand rupees, for a period not exceeding six weeks.\n(1A) For the removal of doubts, it is hereby declared that no order for detention of the judgment-debtor in civil prison in execution of a decree for the payment of money shall be made, where the total amount of the decree does not exceed two thousand rupees.\n(2) A judgment-debtor released from detention under this section shall not merely by reason of his release be discharged from his debt, but he shall not be liable to be re-arrested under the decree in execution of which he was detained in the civil prison.",
+      "key_terms": [
+        "maximum detention period",
+        "monetary threshold for detention",
+        "release without discharge of debt"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 58 caps how long a judgment-debtor can be kept in civil prison based on the size of the money decree, sets a minimum decree amount below which detention cannot be ordered at all, and clarifies that release from prison does not wipe out the underlying debt — it only bars re-arrest under that same decree.",
+        "essential_elements": [
+          "Detention periods are tiered by decree amount: up to three months for decrees exceeding five thousand rupees; up to six weeks for decrees between two thousand and five thousand rupees.",
+          "No detention at all may be ordered where the total decretal amount does not exceed two thousand rupees.",
+          "Release on expiry of the permitted period does not discharge the debt itself.",
+          "Once released under this section, the judgment-debtor cannot be re-arrested under the same decree."
+        ],
+        "exceptions_and_qualifications": [
+          "The monetary thresholds are the statutory figures as amended; they function as a floor below which imprisonment is barred outright, reflecting the same restrictive policy on civil imprisonment for debt seen in Section 51's proviso."
+        ],
+        "how_to_read": "Read with Section 51(c)'s cross-reference — the 'period specified in section 58' capping detention length. The core practitioner point: release under Section 58 is procedural, not a discharge of liability."
+      }
+    },
+    {
+      "number": "59",
+      "title": "Release on ground of illness.",
+      "raw_text": "(1) At any time after a warrant for the arrest of a judgment-debtor has been issued the Court may cancel it on the ground of his serious illness.\n(2) Where a judgment-debtor has been arrested, the Court may release him if, in its opinion, he is not in a fit state of health to be detained in the civil prison.\n(3) Where a judgment-debtor has been committed to the civil prison, he may be released therefrom—\n(a) by the State Government, on the ground of the existence of any infectious or contagious disease, or\n(b) by the committing Court, or any Court to which that Court is subordinate, on the ground of his suffering from any serious illness.",
+      "key_terms": [
+        "release on medical grounds",
+        "warrant cancellation for illness"
+      ],
+      "breakdown": {
+        "plain_summary": "Illness-based relief is available at every stage of the arrest-and-detention process: before arrest (cancelling the warrant), immediately upon arrest (release if unfit for civil prison), and even after commitment to civil prison (release by the State Government for infectious disease, or by the court for serious illness).",
+        "essential_elements": [
+          "A yet-unexecuted arrest warrant can be cancelled by the court on the ground of the judgment-debtor's serious illness.",
+          "An arrested but not-yet-committed judgment-debtor may be released if the court finds him unfit for civil-prison detention.",
+          "A judgment-debtor already committed to civil prison may be released by the State Government (infectious/contagious disease) or by the committing court or its superior court (serious illness)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A humane safety-valve running through the whole arrest-and-detention pipeline — useful to invoke at whichever stage the judgment-debtor's health becomes an issue, not just at the outset."
       }
     }
   ]
