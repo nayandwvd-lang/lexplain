@@ -327,7 +327,30 @@
     "commencement of first session of each year": "The second mandatory trigger under Article 87(1) for the President's Special Address — the opening of Parliament's first session of every calendar year.",
     "Ministers' right to speak in either House": "The Article 88 right of every Minister to speak in and otherwise participate in the proceedings of either House, any joint sitting, and any committee they are named to, regardless of which House (if any) they are a member of.",
     "Attorney-General's right to speak in Parliament": "The Article 88 right of the Attorney-General for India, though not an elected member of either House, to speak in and participate in the proceedings of either House, joint sittings, and named committees.",
-    "no voting right by virtue of Article 88": "The express limitation in Article 88 that the right to speak and participate it grants does not itself confer any voting right — a Minister or the Attorney-General votes only if independently a member of the relevant House."
+    "no voting right by virtue of Article 88": "The express limitation in Article 88 that the right to speak and participate it grants does not itself confer any voting right — a Minister or the Attorney-General votes only if independently a member of the relevant House.",
+    "Deputy Chairman of the Council of States": "The presiding officer the Rajya Sabha elects from among its own members under Article 89(2), distinct from the ex officio Chairman (the Vice-President), governed as to tenure and removal by Article 90.",
+    "automatic vacation of Deputy Chairman office": "The Article 90(a) rule that a Deputy Chairman of the Council of States automatically vacates that office on ceasing to be a member of the Council for any reason.",
+    "Deputy Chairman resignation to Chairman": "The Article 90(b) mechanism by which a Deputy Chairman of the Council of States may resign by writing under his hand addressed to the Chairman.",
+    "removal of Deputy Chairman by Council resolution": "The Article 90(c) removal mechanism — a simple-majority resolution of all then members of the Council of States, moved only after at least fourteen days' advance notice.",
+    "Deputy Chairman performing Chairman's duties during vacancy": "The Article 91(1) rule that the Deputy Chairman performs the Chairman's duties whenever the Chairmanship is vacant, or whenever the Vice-President is acting as or discharging the functions of President under Article 65, with a further fallback to a President-appointed Council member if the Deputy Chairmanship is also vacant.",
+    "acting Chairman during a sitting": "The Article 91(2) fallback for mere absence (not vacancy) of the Chairman from a specific Rajya Sabha sitting — the Deputy Chairman acts, or failing that a person determined under the Council's rules of procedure, or failing that a person the Council itself determines.",
+    "no presiding over own removal resolution": "The Article 92(1) natural-justice rule barring the Chairman from presiding while a resolution for the Vice-President's removal is under consideration, and barring the Deputy Chairman from presiding while a resolution for his own removal is under consideration.",
+    "Chairman's speaking right without voting during own removal debate": "The Article 92(2) rule permitting the Chairman to speak and participate in debate on a resolution for the Vice-President's removal, while completely denying him any vote at all — on that resolution or any other matter — during those proceedings, overriding the general voting rule in Article 100.",
+    "Speaker of the House of the People": "The Lok Sabha's chief presiding officer, elected from among its own members under Article 93, whose tenure and removal are governed by Article 94, including a special continuity rule during dissolution.",
+    "Deputy Speaker of the House of the People": "The Lok Sabha's secondary presiding officer, elected from among its own members under Article 93 alongside the Speaker, whose tenure and removal are governed by Article 94.",
+    "automatic vacation of Speaker/Deputy Speaker office": "The Article 94(a) rule that a Speaker or Deputy Speaker of the House of the People automatically vacates that office on ceasing to be a House member, subject to the Speaker's special dissolution-continuity proviso.",
+    "resignation of Speaker to Deputy Speaker and vice versa": "The Article 94(b) mechanism by which the Speaker resigns by writing addressed to the Deputy Speaker, and the Deputy Speaker resigns by writing addressed to the Speaker.",
+    "removal of Speaker by House resolution": "The Article 94(c) removal mechanism — a simple-majority resolution of all then members of the House of the People, moved only after at least fourteen days' advance notice.",
+    "Speaker's continuity despite dissolution": "The second proviso to Article 94 uniquely protecting the Speaker (not the Deputy Speaker) from automatically vacating office on dissolution of the House of the People — the Speaker continues until immediately before the newly constituted House's first meeting.",
+    "Deputy Speaker performing Speaker's duties during vacancy": "The Article 95(1) rule that the Deputy Speaker performs the Speaker's duties whenever the Speakership is vacant, with a further fallback to a President-appointed House member if the Deputy Speakership is also vacant.",
+    "acting Speaker during a sitting": "The Article 95(2) fallback for mere absence (not vacancy) of the Speaker from a specific Lok Sabha sitting — the Deputy Speaker acts, or failing that a person determined under the House's rules of procedure, or failing that a person the House itself determines.",
+    "no presiding over own removal resolution (Speaker)": "The Article 96(1) natural-justice rule barring the Speaker from presiding while a resolution for his own removal is under consideration, and barring the Deputy Speaker from presiding while a resolution for his own removal is under consideration.",
+    "Speaker's limited voting right during own removal debate": "The Article 96(2) rule permitting the Speaker to speak, participate, and vote in the first instance during debate on his own removal resolution, while denying only the tie-breaking casting vote he would otherwise exercise under Article 100 — a narrower restriction than the Rajya Sabha Chairman's total voting ban under Article 92(2).",
+    "salaries of presiding officers (Article 97)": "The Article 97 rule fixing salaries and allowances for the Chairman and Deputy Chairman of the Council of States and the Speaker and Deputy Speaker of the House of the People, as Parliament determines by law or, absent such law, as specified in the Second Schedule.",
+    "separate secretarial staff for each House": "The Article 98(1) default rule that each House of Parliament has its own separate secretariat, protecting Parliament's administrative independence from the executive.",
+    "common posts between the two Houses": "The proviso to Article 98(1) permitting the creation of staff posts common to both Houses of Parliament, despite the general rule that each House has a separate secretariat.",
+    "Parliament's law-making power over secretariat service conditions": "The Article 98(2) power of Parliament to regulate by law the recruitment and conditions of service of persons appointed to either House's secretarial staff.",
+    "President's interim rule-making power for secretariat (Article 98(3))": "The Article 98(3) power allowing the President, after consulting the Speaker or the Chairman as relevant, to make interim rules on secretariat recruitment and service conditions until Parliament legislates under clause (2), with such rules always subject to any later Parliamentary law."
   },
   "sections": [
     {
@@ -2621,6 +2644,224 @@
           "This is the same underlying rationale — allowing informed participation without conferring representative legitimacy through a vote — that also explains why the Attorney-General can address courts and Parliament alike without being an elected or judicial officeholder."
         ],
         "how_to_read": "Read together with Article 75(5) (a non-member may serve as Minister for up to six months) — Article 88 is what allows such a Minister (or any Minister sitting in the 'other' House) to actually participate meaningfully in both Houses' proceedings during that period, distinct from and without needing to establish formal membership."
+      }
+    },
+    {
+      "number": "89",
+      "title": "The Chairman and Deputy Chairman of the Council of States",
+      "raw_text": "89. The Chairman and Deputy Chairman of the Council of States.—(1) The Vice-President of India shall be ex officio Chairman of the Council of States.\n(2) The Council of States shall, as soon as may be, choose a member of the Council to be Deputy Chairman thereof and, so often as the office of Deputy Chairman becomes vacant, the Council shall choose another member to be Deputy Chairman thereof.",
+      "key_terms": [
+        "Deputy Chairman of the Council of States"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 89 confirms and cross-references the Article 64 rule that the Vice-President is automatically (ex officio) the Rajya Sabha's Chairman, and separately requires the Council itself to elect one of its own members as Deputy Chairman — a genuinely elected internal office, unlike the Chairmanship which comes attached to the Vice-Presidency rather than being separately chosen by the House.",
+        "essential_elements": [
+          "Clause (1): the Vice-President is ex officio Chairman of the Council of States (restating Article 64).",
+          "Clause (2): the Council of States elects one of its own members as Deputy Chairman, and re-elects a replacement whenever that office falls vacant."
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike the Chairman (who holds the post only because of being Vice-President, and vacates it automatically on ceasing to be Vice-President), the Deputy Chairman is directly and separately elected by the House and holds office independent of any other constitutional post.",
+          "The Deputy Chairman's own tenure, removal, and resignation are governed by the following Article 90, not by this article."
+        ],
+        "how_to_read": "Read together with Article 64 (source of the ex officio Chairmanship) and Articles 90-92 (Deputy Chairman's tenure/removal and presiding restrictions) as one connected unit on Rajya Sabha's presiding officers."
+      }
+    },
+    {
+      "number": "90",
+      "title": "Vacation and resignation of, and removal from, the office of Deputy Chairman",
+      "raw_text": "90. Vacation and resignation of, and removal from, the office of Deputy Chairman.—A member holding office as Deputy Chairman of the Council of States—\n(a) shall vacate his office if he ceases to be a member of the Council;\n(b) may at any time, by writing under his hand addressed to the Chairman, resign his office; and\n(c) may be removed from his office by a resolution of the Council passed by a majority of all the then members of the Council:\nProvided that no resolution for the purpose of clause (c) shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution.",
+      "key_terms": [
+        "automatic vacation of Deputy Chairman office",
+        "Deputy Chairman resignation to Chairman",
+        "removal of Deputy Chairman by Council resolution"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 90 governs how a Deputy Chairman of the Rajya Sabha leaves office: automatically on ceasing to be a Council member at all, voluntarily by written resignation addressed to the Chairman, or involuntarily by a simple-majority resolution of the full Council's then-membership, provided at least fourteen days' notice of the removal motion is given in advance.",
+        "essential_elements": [
+          "Clause (a): automatic vacation if the person stops being a member of the Council of States for any reason (e.g., term expiry, resignation from membership).",
+          "Clause (b): voluntary resignation by writing under the Deputy Chairman's own hand, addressed to the Chairman (not the President, contrast with the Chairman/Vice-President's own resignation channel under Article 67(a) which goes to the President).",
+          "Clause (c) and its proviso: removal by an ordinary majority resolution of all then members of the Council (not two-thirds), but only after at least fourteen days' advance notice of intent to move the resolution."
+        ],
+        "exceptions_and_qualifications": [
+          "Removal under clause (c) requires only a simple majority of the Council's total then-membership — a materially lower threshold than the two-thirds supermajority required to remove the Vice-President (who is the ex officio Chairman) under Article 67(b).",
+          "The fourteen-day notice proviso is a mandatory procedural precondition; a removal resolution moved without it is not validly before the House."
+        ],
+        "how_to_read": "Contrast the simple-majority removal threshold here against the higher supermajority thresholds elsewhere (two-thirds for Presidential impeachment under Article 61, majority-of-all-members-plus-Lok-Sabha-concurrence for Vice-Presidential removal under Article 67(b)) — internal presiding-officer removals are generally easier to effect than removal of the principal constitutional office-holders themselves."
+      }
+    },
+    {
+      "number": "91",
+      "title": "Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman",
+      "raw_text": "91. Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman.—(1) While the office of Chairman is vacant, or during any period when the Vice-President is acting as, or discharging the functions of, President, the duties of the office shall be performed by the Deputy Chairman, or, if the office of Deputy Chairman is also vacant, by such member of the Council of States as the President may appoint for the purpose.\n(2) During the absence of the Chairman from any sitting of the Council of States the Deputy Chairman, or, if he is also absent, such person as may be determined by the rules of procedure of the Council, or, if no such person is present, such other person as may be determined by the Council, shall act as Chairman.",
+      "key_terms": [
+        "Deputy Chairman performing Chairman's duties during vacancy",
+        "acting Chairman during a sitting"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 91 provides the fallback chain ensuring the Rajya Sabha always has someone presiding: if the Chairmanship itself is vacant (or the Vice-President is temporarily consumed with acting as/discharging President's functions under Article 65), the Deputy Chairman steps in, with a further fallback to a President-appointed member if the Deputy Chairmanship is also vacant; separately, for mere day-to-day absence from a particular sitting (not a structural vacancy), the Deputy Chairman or a rules-determined substitute presides instead.",
+        "essential_elements": [
+          "Clause (1): covers structural gaps — an actual vacancy in the Chairmanship, or the Vice-President being occupied acting as/discharging the President's functions — triggering the Deputy Chairman (or, if that office is also vacant, a Council member the President appoints) to perform the Chairman's duties.",
+          "Clause (2): covers mere temporary absence from a specific sitting (Chairmanship not vacant, Vice-President not otherwise occupied) — the Deputy Chairman acts, with further fallbacks to a person under the Council's own procedural rules, or a person the Council itself determines."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (1)'s trigger for a 'vacancy' expressly includes the scenario where the Vice-President is acting as, or discharging the functions of, President under Article 65 — even though the Vice-President hasn't technically vacated the Vice-Presidency, their Rajya Sabha Chairmanship function is treated as vacant for this purpose (consistent with the Article 64 proviso).",
+          "The two clauses address genuinely different situations (structural vacancy/incapacity vs. one-off absence from a sitting) and use different fallback chains — clause (1)'s ultimate fallback is a Presidential appointment, while clause (2)'s ultimate fallback is the Council's own determination."
+        ],
+        "how_to_read": "Cross-reference Article 64's proviso (which already flags that the Chairmanship function is suspended during an Article 65 acting-Presidency) and Article 92 (which separately bars the Chairman/Deputy Chairman from presiding over their own removal resolution, applying clause (2)'s absence-substitute mechanism by extension)."
+      }
+    },
+    {
+      "number": "92",
+      "title": "The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration",
+      "raw_text": "92. The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration.—(1) At any sitting of the Council of States, while any resolution for the removal of the Vice-President from his office is under consideration, the Chairman, or while any resolution for the removal of the Deputy Chairman from his office is under consideration, the Deputy Chairman, shall not, though he is present, preside, and the provisions of clause (2) of article 91 shall apply in relation to every such sitting as they apply in relation to a sitting from which the Chairman, or, as the case may be, the Deputy Chairman, is absent.\n(2) The Chairman shall have the right to speak in, and otherwise to take part in the proceedings of, the Council of States while any resolution for the removal of the Vice-President from his office is under consideration in the Council, but, notwithstanding anything in article 100, shall not be entitled to vote at all on such resolution or on any other matter during such proceedings.",
+      "key_terms": [
+        "no presiding over own removal resolution",
+        "Chairman's speaking right without voting during own removal debate"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 92 applies a basic natural-justice principle to the Rajya Sabha's own presiding officers: neither the Chairman (i.e., the Vice-President, whose removal is governed by Article 67(b)) nor the Deputy Chairman may preside over a sitting while a resolution to remove them is under consideration — even though physically present, the Article 91(2) absence-substitute mechanism takes over — and, specifically for the Chairman, clause (2) permits participation in debate on their own removal but expressly bars any vote at all on that resolution or anything else during those proceedings.",
+        "essential_elements": [
+          "Clause (1): bars the Chairman from presiding during consideration of a Vice-Presidential removal resolution, and bars the Deputy Chairman from presiding during consideration of a Deputy Chairman removal resolution, treating the sitting as if that officer were absent (triggering Article 91(2)'s substitute-presiding mechanism).",
+          "Clause (2): specifically for the Chairman, grants a right to speak and otherwise participate in the debate on his own removal resolution, but completely denies any voting right — on that resolution or on any other matter — during the entire course of those proceedings, overriding the general voting rule in Article 100."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (2)'s total voting bar (even on unrelated matters arising during the same proceedings) is broader than a simple recusal from the removal vote alone — it suspends the Chairman's vote entirely for the duration of the removal-resolution proceedings.",
+          "The article textually addresses the Chairman's total voting bar in clause (2) but is silent on an equivalent express provision for the Deputy Chairman's voting rights during his own removal proceedings — Article 96(2) (the House of the People's parallel provision for the Speaker) instead grants a limited casting-vote-only right, illustrating that the analogous Rajya Sabha and Lok Sabha provisions are not perfectly symmetric."
+        ],
+        "how_to_read": "Read as the natural-justice safeguard completing the Article 89-91 sequence on Rajya Sabha presiding officers — compare directly against Articles 95-96 (the mirror-image provisions for the Speaker and Deputy Speaker of the Lok Sabha) to see how the two Houses' internal removal-safeguard mechanics differ slightly in their voting-right specifics."
+      }
+    },
+    {
+      "number": "93",
+      "title": "The Speaker and Deputy Speaker of the House of the People",
+      "raw_text": "93. The Speaker and Deputy Speaker of the House of the People.—The House of the People shall, as soon as may be, choose two members of the House to be respectively Speaker and Deputy Speaker thereof and, so often as the office of Speaker or Deputy Speaker becomes vacant, the House shall choose another member to be Speaker or Deputy Speaker, as the case may be.",
+      "key_terms": [
+        "Speaker of the House of the People",
+        "Deputy Speaker of the House of the People"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 93 requires the Lok Sabha to elect its own Speaker and Deputy Speaker from among its members — unlike the Rajya Sabha's Chairman, who is not separately elected by the House but comes attached to the Vice-Presidency, both Lok Sabha presiding offices are directly chosen by the House itself, and refilled by fresh election whenever either falls vacant.",
+        "essential_elements": [
+          "The House of the People must choose two of its own members to be Speaker and Deputy Speaker respectively, as soon as practicable after being constituted.",
+          "Whenever either office falls vacant, the House must again choose another member to fill it."
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike the Rajya Sabha's Chairman (an ex officio position tied to the Vice-Presidency), both the Speaker and Deputy Speaker of the Lok Sabha are genuinely, directly elected by and from the House's own membership — there is no equivalent ex officio arrangement in the Lok Sabha.",
+          "The proviso to Article 94(c) (continuity of the Speaker despite dissolution) means the Speaker's office does not actually fall vacant simply because the House is dissolved, softening the practical frequency of re-election under this article."
+        ],
+        "how_to_read": "Read together with Articles 94-96 (vacation/resignation/removal, acting arrangements, and the no-presiding-over-own-removal rule) as the Lok Sabha's mirror sequence to Articles 89-92 for the Rajya Sabha — note the structural difference that the Lok Sabha has no ex officio equivalent to the Vice-President-as-Chairman arrangement."
+      }
+    },
+    {
+      "number": "94",
+      "title": "Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker",
+      "raw_text": "94. Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker.—A member holding office as Speaker or Deputy Speaker of the House of the People—\n(a) shall vacate his office if he ceases to be a member of the House of the People;\n(b) may at any time, by writing under his hand addressed, if such member is the Speaker, to the Deputy Speaker, and if such member is the Deputy Speaker, to the Speaker, resign his office; and\n(c) may be removed from his office by a resolution of the House of the People passed by a majority of all the then members of the House:\nProvided that no resolution for the purpose of clause (c) shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution:\nProvided further that, whenever the House of the People is dissolved, the Speaker shall not vacate his office until immediately before the first meeting of the House of the People after the dissolution.",
+      "key_terms": [
+        "automatic vacation of Speaker/Deputy Speaker office",
+        "resignation of Speaker to Deputy Speaker and vice versa",
+        "removal of Speaker by House resolution",
+        "Speaker's continuity despite dissolution"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 94 mirrors Article 90's Rajya Sabha scheme for the Lok Sabha's Speaker and Deputy Speaker — automatic vacation on ceasing to be a House member, resignation addressed cross-wise (Speaker to Deputy Speaker, Deputy Speaker to Speaker), and removal by a simple-majority resolution of the full House with fourteen days' advance notice — but adds a crucial second proviso unique to the Lok Sabha: because the House itself is periodically dissolved (unlike the permanent Rajya Sabha), the Speaker specifically continues in office right up until immediately before the newly constituted House's first meeting, ensuring there is never a leaderless gap during dissolution and fresh elections.",
+        "essential_elements": [
+          "Clause (a): automatic vacation on ceasing to be a member of the House of the People.",
+          "Clause (b): resignation by writing under the office-holder's own hand — Speaker resigns to the Deputy Speaker, Deputy Speaker resigns to the Speaker.",
+          "Clause (c) and its first proviso: removal by simple-majority resolution of all then members of the House, only after at least fourteen days' advance notice.",
+          "Second proviso: despite House dissolution (which would otherwise trigger clause (a), since dissolution ends everyone's membership), the Speaker specifically continues in office until immediately before the newly elected House's first meeting."
+        ],
+        "exceptions_and_qualifications": [
+          "The second proviso's continuity protection applies only to the Speaker, not the Deputy Speaker — a Deputy Speaker's office does end on dissolution in the ordinary course under clause (a), requiring a fresh Deputy Speaker election once the new House is constituted.",
+          "This continuity rule exists precisely because dissolution is a recurring, expected event for the Lok Sabha (unlike the never-dissolved Rajya Sabha), so Article 94 had to build in an express carve-out that Article 90 (for the permanent Rajya Sabha) never needed."
+        ],
+        "how_to_read": "The second proviso is the key textual difference from Article 90 — flag it whenever comparing the two provisions, since it directly follows from the structural difference between the dissolvable Lok Sabha (Article 83(2)) and the permanent Rajya Sabha (Article 83(1))."
+      }
+    },
+    {
+      "number": "95",
+      "title": "Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker",
+      "raw_text": "95. Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker.—(1) While the office of Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker or, if the office of Deputy Speaker is also vacant, by such member of the House of the People as the President may appoint for the purpose.\n(2) During the absence of the Speaker from any sitting of the House of the People the Deputy Speaker or, if he is also absent, such person as may be determined by the rules of procedure of the House, or, if no such person is present, such other person as may be determined by the House, shall act as Speaker.",
+      "key_terms": [
+        "Deputy Speaker performing Speaker's duties during vacancy",
+        "acting Speaker during a sitting"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 95 mirrors Article 91's Rajya Sabha fallback structure for the Lok Sabha: a vacancy in the Speaker's office is filled by the Deputy Speaker, or (if that office is also vacant) by a President-appointed House member, while mere absence from a particular sitting is covered by the Deputy Speaker or a rules-determined/House-determined substitute — the same two-tier vacancy-versus-absence distinction as Article 91, without the Article 65 acting-Presidency trigger that has no Lok Sabha equivalent.",
+        "essential_elements": [
+          "Clause (1): a structural vacancy in the Speaker's office is filled by the Deputy Speaker, with a further fallback to a President-appointed member of the House if the Deputy Speakership is also vacant.",
+          "Clause (2): mere absence of the Speaker from a specific sitting is covered by the Deputy Speaker, or, if also absent, a person determined under the House's own procedural rules, or, failing that, a person the House itself determines."
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike Article 91(1)'s Rajya Sabha version, Article 95(1) has no equivalent 'Vice-President acting as President' trigger — because the Lok Sabha's Speaker has no ex officio linkage to any other constitutional office the way the Rajya Sabha's Chairman does to the Vice-Presidency.",
+          "As with Article 91, the vacancy-fallback chain (clause 1) and absence-fallback chain (clause 2) are structurally parallel but distinct, with different ultimate fallback appointers (President vs. the House itself)."
+        ],
+        "how_to_read": "Read as the direct structural mirror of Article 91, minus the acting-Presidency trigger — useful for spotting exactly how the Lok Sabha and Rajya Sabha presiding-officer-substitution schemes diverge only where the underlying office (Chairman tied to Vice-Presidency vs. Speaker standalone) differs."
+      }
+    },
+    {
+      "number": "96",
+      "title": "The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration",
+      "raw_text": "96. The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration.—(1) At any sitting of the House of the People, while any resolution for the removal of the Speaker from his office is under consideration, the Speaker, or while any resolution for the removal of the Deputy Speaker from his office is under consideration, the Deputy Speaker, shall not, though he is present, preside, and the provisions of clause (2) of article 95 shall apply in relation to every such sitting as they apply in relation to a sitting from which the Speaker, or, as the case may be, the Deputy Speaker, is absent.\n(2) The Speaker shall have the right to speak in, and otherwise to take part in the proceedings of, the House of the People while any resolution for his removal from office is under consideration in the House and shall, notwithstanding anything in article 100, be entitled to vote only in the first instance on such resolution or on any other matter during such proceedings but not in the case of an equality of votes.",
+      "key_terms": [
+        "no presiding over own removal resolution (Speaker)",
+        "Speaker's limited voting right during own removal debate"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 96 is the Lok Sabha's mirror of Article 92, with one notable textual difference in the voting-rights detail: the Speaker cannot preside during consideration of their own removal resolution (Article 95(2)'s absence-substitute mechanism applies instead), and while the Speaker retains a right to speak and participate in that debate, their voting right is narrower than an ordinary member's but not zero — they may vote only in the first instance (as an ordinary voter would, on any matter arising during those proceedings) but specifically lose the casting vote they would otherwise exercise under Article 100 in case of a tie.",
+        "essential_elements": [
+          "Clause (1): bars the Speaker from presiding while a resolution for the Speaker's own removal is under consideration, and bars the Deputy Speaker from presiding while a resolution for the Deputy Speaker's own removal is under consideration, triggering Article 95(2)'s substitute-presiding mechanism as if absent.",
+          "Clause (2): the Speaker may speak and participate in the debate on their own removal, and may vote in the first instance on that resolution or any other matter during the proceedings, but is denied the casting vote in case of a tie that Article 100 would otherwise give the presiding officer."
+        ],
+        "exceptions_and_qualifications": [
+          "This differs from Article 92(2)'s treatment of the Rajya Sabha Chairman, who is denied any vote at all during removal proceedings — Article 96(2) instead gives the Speaker an ordinary first-instance vote but strips only the tie-breaking casting vote, a materially less restrictive rule.",
+          "The provision applies specifically to the Speaker's own removal; the article does not spell out an equivalent express voting entitlement for the Deputy Speaker during a resolution for the Deputy Speaker's own removal, paralleling the same asymmetry noted under Article 92."
+        ],
+        "how_to_read": "Directly contrast clause (2) against Article 92(2) (total voting ban for the Rajya Sabha Chairman during his own removal) — this is a frequently tested textual distinction between the two Houses' otherwise parallel presiding-officer-removal safeguards."
+      }
+    },
+    {
+      "number": "97",
+      "title": "Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker",
+      "raw_text": "97. Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker.—There shall be paid to the Chairman and the Deputy Chairman of the Council of States, and to the Speaker and the Deputy Speaker of the House of the People, such salaries and allowances as may be respectively fixed by Parliament by law and, until provision in that behalf is so made, such salaries and allowances as are specified in the Second Schedule.",
+      "key_terms": [
+        "salaries of presiding officers (Article 97)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 97 fixes how the four Parliamentary presiding officers — Rajya Sabha's Chairman and Deputy Chairman, Lok Sabha's Speaker and Deputy Speaker — are paid: Parliament sets their salaries and allowances by ordinary law, defaulting to the Second Schedule's specified rates until Parliament actually legislates on the point, exactly the same default-to-Second-Schedule pattern used for Ministers under Article 75(6).",
+        "essential_elements": [
+          "Covers four offices: Chairman and Deputy Chairman of the Council of States, and Speaker and Deputy Speaker of the House of the People.",
+          "Salaries/allowances are fixed by Parliament through ordinary law.",
+          "In the absence of such a law, the Second Schedule's specified rates apply by default."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a straightforward machinery provision with the same 'law, defaulting to Second Schedule' structure seen repeatedly elsewhere (Ministers under Article 75(6), and later the President's and Governors' emoluments provisions) — the substantive amounts themselves live in the Second Schedule or in Parliamentary legislation, not in the article's own text."
+        ],
+        "how_to_read": "Recognise the recurring 'Parliament may fix by law, until then the Second Schedule governs' template — it appears for Ministers (Article 75(6)) and here for the four presiding officers, and will recur for other constitutional office-holders' emoluments later in the document."
+      }
+    },
+    {
+      "number": "98",
+      "title": "Secretariat of Parliament",
+      "raw_text": "98. Secretariat of Parliament.—(1) Each House of Parliament shall have a separate secretarial staff:\nProvided that nothing in this clause shall be construed as preventing the creation of posts common to both Houses of Parliament.\n(2) Parliament may by law regulate the recruitment, and the conditions of service of persons appointed, to the secretarial staff of either House of Parliament.\n(3) Until provision is made by Parliament under clause (2), the President may, after consultation with the Speaker of the House of the People or the Chairman of the Council of States, as the case may be, make rules regulating the recruitment, and the conditions of service of persons appointed, to the secretarial staff of either House of Parliament, and any rules so made shall have effect subject to the provisions of any law made under the said clause.",
+      "key_terms": [
+        "separate secretarial staff for each House",
+        "common posts between the two Houses",
+        "Parliament's law-making power over secretariat service conditions",
+        "President's interim rule-making power for secretariat (Article 98(3))"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 98 gives each House of Parliament its own administrative secretariat, distinct from the executive branch's civil service — protecting Parliament's institutional independence from the Government of the day — while allowing common posts shared between both Houses where efficient, and vesting recruitment/service-condition rule-making primarily in Parliament by law, with the President (after consulting the relevant presiding officer) empowered to make interim rules until Parliament legislates.",
+        "essential_elements": [
+          "Clause (1) main text: each House has its own separate secretarial staff.",
+          "Proviso to clause (1): common posts serving both Houses may still be created, despite the general separateness rule.",
+          "Clause (2): Parliament may by law regulate recruitment and service conditions for either House's secretarial staff.",
+          "Clause (3): until Parliament legislates under clause (2), the President — after consulting the Speaker (for Lok Sabha staff) or the Chairman (for Rajya Sabha staff) — may make interim rules on the same subject, which remain subject to being overridden by any law Parliament later makes."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso to clause (1) is itself an exception to the 'separate staff' default, permitting shared/common posts for administrative efficiency without undermining each House's institutional autonomy for the bulk of its staffing.",
+          "Clause (3)'s Presidential rule-making is expressly interim and subordinate — any rules made under it operate 'subject to the provisions of any law made under' clause (2), meaning Parliament's legislation always prevails once enacted."
+        ],
+        "how_to_read": "This closes out the 'Officers of Parliament' sub-heading (Articles 89-98) before the 'Conduct of Business' sub-heading begins at Article 99 — read it as the administrative-independence counterpart to the presiding-officer provisions just covered, ensuring Parliament controls its own staff rather than depending on the executive."
       }
     }
   ]
