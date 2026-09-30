@@ -101,7 +101,29 @@
     "enemy alien exception": "The carve-out in Article 22(3)(a) excluding a person who is, for the time being, an enemy alien from the ordinary arrest protections in Article 22(1)-(2).",
     "preventive detention": "Detention of a person to prevent anticipated future harm or wrongdoing, rather than to punish an offence already committed, governed by the distinct and narrower safeguards in Article 22(3)-(7) rather than the ordinary-arrest protections in Article 22(1)-(2).",
     "Advisory Board (Article 22)": "A board comprising persons who are, have been, or are qualified to be High Court Judges, whose certification of 'sufficient cause' is required under Article 22(4) before a preventive detention can ordinarily continue beyond three months.",
-    "representation against detention order": "The Article 22(5) right of a person detained under a preventive detention order to be given the grounds of detention and the earliest opportunity to make a representation against that order, subject to the public-interest non-disclosure carve-out in clause (6)."
+    "representation against detention order": "The Article 22(5) right of a person detained under a preventive detention order to be given the grounds of detention and the earliest opportunity to make a representation against that order, subject to the public-interest non-disclosure carve-out in clause (6).",
+    "traffic in human beings": "The buying, selling, or transporting of persons for exploitation, prohibited outright by Article 23(1) and made a punishable offence, enforceable against private individuals as well as the State.",
+    "begar": "A traditional term for labour or service exacted from a person without payment, expressly prohibited by Article 23(1) as a form of forced labour.",
+    "forced labour": "Labour extracted from a person against their will or without proper payment, prohibited by Article 23(1) and judicially held (PUDR v. Union of India) to include work paid below the statutory minimum wage.",
+    "compulsory service for public purposes": "State-imposed mandatory service for public ends, permitted as an exception to Article 23(1) by clause (2), provided it is not imposed in a discriminatory manner on grounds only of religion, race, caste, or class.",
+    "child labour prohibition": "The Article 24 bar on employing any child below fourteen years of age in a factory, mine, or other hazardous employment, implemented through the Child and Adolescent Labour (Prohibition and Regulation) Act.",
+    "hazardous employment": "Work classified as dangerous to a child's health, safety, or wellbeing, which Article 24 bars for children below fourteen and which implementing legislation specifically lists and regulates.",
+    "age fourteen years (Article 24)": "The age threshold in Article 24 below which a child cannot be employed in a factory, mine, or other hazardous employment.",
+    "freedom of conscience": "The Article 25(1) guarantee protecting an individual's inner freedom to hold, or not hold, religious or spiritual beliefs, distinct from the outward acts of professing, practising, or propagating a religion.",
+    "profess practice and propagate religion": "The three outward freedoms guaranteed by Article 25(1) alongside freedom of conscience — declaring one's faith, carrying out its rituals/practices, and transmitting or spreading its tenets — all subject to public order, morality, health, and the rest of Part III.",
+    "secular activity associated with religious practice": "Economic, financial, political, or other non-religious activity that happens to be associated with a religious practice, which Article 25(2)(a) permits the State to regulate or restrict without infringing the core religious freedom.",
+    "throwing open of Hindu religious institutions": "The social-reform power preserved by Article 25(2)(b) permitting the State to legislate opening Hindu (and, via Explanation II, Sikh/Jain/Buddhist) religious institutions of a public character to all classes and sections of the relevant community.",
+    "kirpan explanation": "Explanation I to Article 25 clarifying that the wearing and carrying of a kirpan (ceremonial sword/dagger) is deemed part of the profession of the Sikh religion and thus constitutionally protected.",
+    "Sikh Jaina Buddhist inclusion": "Explanation II to Article 25, which deems references to 'Hindus' and 'Hindu religious institutions' in clause (2)(b) to include Sikhs, Jains, and Buddhists and their institutions, solely for the purpose of that social-welfare/institution-access clause.",
+    "religious denomination": "A collective religious group possessing a common faith, a common organisation, and a distinctive name, recognised by courts as the right-holder under Article 26 for managing its own religious affairs and institutions.",
+    "matters of religion": "The core sphere of a religious denomination's beliefs, doctrines, rituals, and practices protected under Article 26(b), distinguished from merely secular or administrative matters that the State may regulate.",
+    "right to own and acquire property (religious institutions)": "The Article 26(c) guarantee allowing a religious denomination to own and acquire both movable and immovable property in furtherance of its religious and charitable purposes.",
+    "administration of religious property": "The Article 26(d) right of a religious denomination to administer its own property, expressly made subject to ordinary law ('in accordance with law'), giving the State greater regulatory latitude here than over core religious affairs under clause (b).",
+    "tax for promotion of a particular religion": "A compulsory levy whose proceeds are specifically appropriated to promote or maintain a particular religion or denomination, which Article 27 bars the State from compelling any person to pay.",
+    "specific appropriation of tax proceeds": "The key trigger for Article 27's bar — the proceeds of the tax must be earmarked specifically for a particular religion's promotion or maintenance, as opposed to flowing into general State revenue that incidentally funds diverse purposes.",
+    "religious instruction in State-funded institutions": "The subject of Article 28(1)'s bar — teaching of religious doctrine or practice, prohibited in any educational institution wholly maintained out of State funds.",
+    "State-administered endowment institution exception": "The Article 28(2) carve-out permitting religious instruction to continue in an institution that is administered by the State but was established under a trust or endowment requiring such instruction.",
+    "consent for religious instruction or worship": "The Article 28(3) safeguard requiring the free consent of a student (or, if a minor, their guardian) before they can be required to participate in religious instruction or worship at a State-recognised or State-aided educational institution."
   },
   "sections": [
     {
@@ -674,6 +696,146 @@
           "The public-interest non-disclosure carve-out in clause (6) has been strictly construed by courts to prevent it from swallowing the representation right in clause (5)"
         ],
         "how_to_read": "Always separate an Article 22 analysis into the two tracks — first ask whether the detention is ordinary/punitive (clauses 1-2 apply in full) or preventive (clauses 3-7 apply instead, with the specific procedural safeguards of clauses 4-7 substituting for clauses 1-2) — and note that the harsher, unnotified 1978 amendment to clause (4) is not yet in force, so the original three-month/Advisory-Board text governs in practice."
+      }
+    },
+    {
+      "number": "23",
+      "title": "Prohibition of traffic in human beings and forced labour",
+      "raw_text": "(1) Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law. (2) Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them.",
+      "key_terms": [
+        "traffic in human beings",
+        "begar",
+        "forced labour",
+        "compulsory service for public purposes"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 23, like Article 17, operates horizontally — directly against private individuals, not merely the State. It prohibits human trafficking and 'begar' (a traditional term for labour exacted without payment) and other forms of forced labour, making any contravention a punishable offence. Clause (2) carves out compulsory public service (such as conscription-type civic duties) as permissible, but even here the State cannot discriminate in imposing that service on grounds only of religion, race, caste, or class.",
+        "essential_elements": [
+          "Prohibition covers human trafficking and begar/forced labour in any similar form, enforceable against private persons as well as the State",
+          "Contravention is made a punishable offence, with the specific offence and penalty left to ordinary law",
+          "Clause (2) permits State-imposed compulsory service for public purposes, subject to a non-discrimination proviso on the listed grounds"
+        ],
+        "exceptions_and_qualifications": [
+          "The Supreme Court in People's Union for Democratic Rights v. Union of India (1982) held that paying wages below the statutory minimum wage amounts to 'forced labour' under Article 23, significantly widening the provision's reach beyond literal bonded labour",
+          "The Bonded Labour System (Abolition) Act, 1976 is the principal legislation giving Article 23 further statutory content"
+        ],
+        "how_to_read": "Article 23 is a rare horizontally-enforceable right — use it directly against private employers or individuals engaged in trafficking, bonded labour, or forced/underpaid labour, and remember the expanded 'forced labour' definition covering sub-minimum-wage work established in the PUDR case."
+      }
+    },
+    {
+      "number": "24",
+      "title": "Prohibition of employment of children in factories, etc.",
+      "raw_text": "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.",
+      "key_terms": [
+        "child labour prohibition",
+        "hazardous employment",
+        "age fourteen years (Article 24)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 24 bars the employment of children below fourteen years in factories, mines, or any other hazardous work, protecting children from exploitative and dangerous labour during their formative years. Like Articles 17 and 23, it is understood to operate against both State and private employers.",
+        "essential_elements": [
+          "The prohibition applies specifically to children below fourteen years of age",
+          "It covers employment in factories, mines, and 'any other hazardous employment' — a category courts and legislation have further defined",
+          "It operates against private employers as well as the State"
+        ],
+        "exceptions_and_qualifications": [
+          "The Child Labour (Prohibition and Regulation) Act, 1986 (renamed and amended as the Child and Adolescent Labour (Prohibition and Regulation) Act) is the principal statute implementing this Article, specifying the list of hazardous occupations and processes and providing enforcement mechanisms",
+          "Non-hazardous family-enterprise or artistic work by children, subject to statutory conditions, has historically been treated differently under the implementing legislation, though this remains a contested policy area"
+        ],
+        "how_to_read": "Read Article 24 together with Article 21A (right to education) and Article 39(e)-(f) (Directive Principles on child welfare) as a cluster of child-protection provisions, and consult the Child and Adolescent Labour (Prohibition and Regulation) Act for the operative list of hazardous occupations/processes."
+      }
+    },
+    {
+      "number": "25",
+      "title": "Freedom of conscience and free profession, practice and propagation of religion",
+      "raw_text": "(1) Subject to public order, morality and health and to the other provisions of this Part, all persons are equally entitled to freedom of conscience and the right freely to profess, practice and propagate religion. (2) Nothing in this article shall affect the operation of any existing law or prevent the State from making any law— (a) regulating or restricting any economic, financial, political or other secular activity which may be associated with religious practice; (b) providing for social welfare and reform or the throwing open of Hindu religious institutions of a public character to all classes and sections of Hindus. Explanation I.—The wearing and carrying of kirpans shall be deemed to be included in the profession of the Sikh religion. Explanation II.—In sub-clause (b) of clause (2), the reference to Hindus shall be construed as including a reference to persons professing the Sikh, Jaina or Buddhist religion, and the reference to Hindu religious institutions shall be construed accordingly.",
+      "key_terms": [
+        "freedom of conscience",
+        "profess practice and propagate religion",
+        "secular activity associated with religious practice",
+        "throwing open of Hindu religious institutions",
+        "kirpan explanation",
+        "Sikh Jaina Buddhist inclusion"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 25 guarantees every person — not just citizens — freedom of conscience and the right to freely profess, practice, and propagate their religion, though this is expressly made 'subject to public order, morality and health' and to the other Part III rights. Clause (2) preserves the State's power to regulate secular activities merely associated with religious practice (e.g., economic or political aspects of a religious institution's operation) and to enact social-welfare/reform laws, including opening Hindu religious institutions of a public character to all classes and sections of Hindus. Explanation I specifically protects a Sikh's wearing and carrying of a kirpan as part of religious profession. Explanation II clarifies that wherever clause (2)(b) refers to 'Hindus' and 'Hindu religious institutions', this is deemed to include Sikhs, Jains, and Buddhists and their institutions — reflecting the historical (and still debated) constitutional classification of these communities for this specific purpose.",
+        "essential_elements": [
+          "The right belongs to 'all persons' and covers three distinct freedoms: freedom of conscience, and the rights to profess, practice, and propagate religion",
+          "The right is expressly subject to public order, morality, health, and the rest of Part III — it is not absolute",
+          "Clause (2)(a) preserves State power over secular activities merely associated with religion (e.g., managing temple finances)",
+          "Clause (2)(b) preserves State power for social welfare/reform and opening Hindu (and by Explanation II, Sikh/Jain/Buddhist) religious institutions to all classes"
+        ],
+        "exceptions_and_qualifications": [
+          "'Propagate' has been judicially construed to mean transmitting or spreading one's own religious beliefs through exposition, not a right to forcibly convert another person (Rev. Stanislaus v. State of Madhya Pradesh)",
+          "Explanation II's inclusion of Sikhs, Jains, and Buddhists within 'Hindus' is limited strictly to clause (2)(b)'s social-welfare/temple-access purpose — it does not mean these communities are treated as Hindus for all other constitutional or legal purposes"
+        ],
+        "how_to_read": "Article 25 is the starting point for any freedom-of-religion analysis — always separate the core religious/conscience claim (protected, subject to public order/morality/health) from any 'secular activity merely associated with' the religious practice (which the State can regulate under clause 2(a)) — this distinction (the 'essential religious practices' test) is the recurring battleground in Indian religious-freedom litigation."
+      }
+    },
+    {
+      "number": "26",
+      "title": "Freedom to manage religious affairs",
+      "raw_text": "Subject to public order, morality and health, every religious denomination or any section thereof shall have the right— (a) to establish and maintain institutions for religious and charitable purposes; (b) to manage its own affairs in matters of religion; (c) to own and acquire movable and immovable property; and (d) to administer such property in accordance with law.",
+      "key_terms": [
+        "religious denomination",
+        "matters of religion",
+        "right to own and acquire property (religious institutions)",
+        "administration of religious property"
+      ],
+      "breakdown": {
+        "plain_summary": "While Article 25 protects the individual's freedom of religion, Article 26 protects the collective/institutional freedom of a 'religious denomination' (or a section of one) — again subject to public order, morality, and health. It guarantees four specific rights: establishing and maintaining religious and charitable institutions, managing the denomination's own religious affairs, owning and acquiring property, and administering that property, though the last right is qualified by 'in accordance with law' (meaning ordinary property/administration law can regulate how such property is managed, even though the right to manage religious affairs proper is more strongly insulated).",
+        "essential_elements": [
+          "The right-holder is a 'religious denomination or any section thereof', not merely an individual — courts have developed a specific test for what qualifies as a 'religious denomination' (a common faith, common organisation, and a distinctive name)",
+          "Sub-clause (b) — managing 'matters of religion' — is the most strongly protected limb, closely tied to the 'essential religious practices' doctrine",
+          "Sub-clause (d) — administering property — is explicitly made subject to ordinary law, unlike sub-clause (b), giving the State greater regulatory latitude over property administration than over core religious affairs"
+        ],
+        "exceptions_and_qualifications": [
+          "The distinction between 'matters of religion' (protected, largely insulated from ordinary regulation) and 'secular'/administrative matters merely associated with religion (regulable by the State, especially given sub-clause (d)'s 'in accordance with law' qualifier) is the central interpretive battleground under this Article, mirroring the same essential-practices analysis under Article 25"
+        ],
+        "how_to_read": "When a religious institution's internal governance is challenged, ask first whether the matter is a genuinely 'essential religious practice'/'matter of religion' under sub-clause (b) (strongly protected) or a property-administration matter under sub-clause (d) (subject to ordinary regulatory law) — the answer to this threshold question usually decides the case."
+      }
+    },
+    {
+      "number": "27",
+      "title": "Freedom as to payment of taxes for promotion of any particular religion",
+      "raw_text": "No person shall be compelled to pay any taxes, the proceeds of which are specifically appropriated in payment of expenses for the promotion or maintenance of any particular religion or religious denomination.",
+      "key_terms": [
+        "tax for promotion of a particular religion",
+        "specific appropriation of tax proceeds"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 27 embodies religious neutrality in public finance: no one can be compelled to pay a tax whose proceeds are specifically earmarked to promote or maintain a particular religion or denomination. This targets 'tax' (a compulsory levy for general public purposes) specifically — a general grant-in-aid or a 'fee' charged for specific services rendered to a religious institution (e.g., regulatory or administrative fees) is treated differently and does not automatically fall foul of this Article.",
+        "essential_elements": [
+          "The bar applies to 'taxes' whose proceeds are specifically appropriated for promoting or maintaining a particular religion or denomination",
+          "General taxation that merely happens to fund composite State expenditure (which might incidentally benefit religious institutions among many other things) does not violate this Article, since there is no specific appropriation for a particular religion"
+        ],
+        "exceptions_and_qualifications": [
+          "Courts distinguish a 'tax' (compulsory exaction for general public purposes, no direct quid pro quo) from a 'fee' (a charge for specific services rendered, e.g., regulating or supervising a temple's secular administration), and fees of the latter kind have generally been upheld as not attracting Article 27's bar"
+        ],
+        "how_to_read": "Article 27 is narrowly targeted — before invoking it, confirm the levy in question is genuinely a 'tax' with proceeds specifically earmarked for a particular religion's promotion/maintenance, rather than a general tax or a regulatory fee for secular administrative services connected to a religious institution."
+      }
+    },
+    {
+      "number": "28",
+      "title": "Freedom as to attendance at religious instruction or religious worship in certain educational institutions",
+      "raw_text": "(1) No religious instruction shall be provided in any educational institution wholly maintained out of State funds. (2) Nothing in clause (1) shall apply to an educational institution which is administered by the State but has been established under any endowment or trust which requires that religious instruction shall be imparted in such institution. (3) No person attending any educational institution recognised by the State or receiving aid out of State funds shall be required to take part in any religious instruction that may be imparted in such institution or to attend any religious worship that may be conducted in such institution or in any premises attached thereto unless such person or, if such person is a minor, his guardian has given his consent thereto.",
+      "key_terms": [
+        "religious instruction in State-funded institutions",
+        "State-administered endowment institution exception",
+        "consent for religious instruction or worship"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 28 addresses religion in education across a spectrum of institution types. Clause (1) flatly bars religious instruction in any institution wholly maintained out of State funds — full State funding means full religious neutrality. Clause (2) carves out an exception: if the State administers an institution that was established under a trust/endowment specifically requiring religious instruction (e.g., a formerly private religious college later taken over by the State but bound by its founding trust terms), that requirement can continue. Clause (3) covers a third category — institutions merely 'recognised' by the State or receiving State aid (but not wholly State-maintained) — where religious instruction/worship may occur, but no student (or, if a minor, their guardian) can be compelled to participate without consent.",
+        "essential_elements": [
+          "Clause (1): wholly State-maintained institutions — religious instruction is completely barred",
+          "Clause (2): State-administered institutions bound by a founding trust/endowment requiring religious instruction — the exception preserves that requirement",
+          "Clause (3): State-recognised or State-aided (but not wholly State-run) institutions — religious instruction/worship may occur, but attendance/participation requires the student's (or minor's guardian's) consent"
+        ],
+        "exceptions_and_qualifications": [
+          "The three clauses create a graduated scheme based on the degree of State involvement (wholly funded vs. State-administered-but-trust-bound vs. merely recognised/aided) — the applicable rule depends entirely on correctly categorising the institution",
+          "Consent under clause (3) must be free and can be withheld even after initial enrolment, protecting ongoing rather than merely one-time choice"
+        ],
+        "how_to_read": "When analysing a religious-instruction dispute in an educational institution, first classify the institution correctly among the three categories (wholly State-funded / State-administered-but-endowment-bound / merely recognised-or-aided) — the entire Article 28 analysis turns on this classification, and clause (3)'s consent requirement is the most commonly litigated limb in practice."
       }
     }
   ]
