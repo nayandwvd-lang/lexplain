@@ -561,7 +561,22 @@
     "rent-free official residence entitlement (Governor)": "The Article 158(3) guarantee that a Governor is entitled, without payment of rent, to the use of his official residences, alongside emoluments, allowances, and privileges fixed by Parliament by law or defaulting to Second Schedule figures.",
     "Second Schedule default (Governor's emoluments)": "The Article 158(3) fallback mechanism under which, absent a Parliamentary law fixing a Governor's emoluments, allowances, and privileges, the Second Schedule's specified figures apply by default — the same drafting pattern used for the President, Ministers, presiding officers, Supreme Court Judges, and the CAG.",
     "emolument allocation for common Governor of multiple States": "The Article 158(3A) mechanism, inserted by the Seventh Amendment Act, 1956, letting the President by order allocate a common Governor's emoluments and allowances among the multiple States he serves, in whatever proportion the President determines.",
-    "non-diminution of Governor's emoluments during term": "The Article 158(4) guarantee that a Governor's emoluments and allowances cannot be reduced during his term of office — a financial-independence safeguard, though textually narrower than equivalent Judge protections since it does not extend to 'privileges' or 'rights,' only emoluments and allowances."
+    "non-diminution of Governor's emoluments during term": "The Article 158(4) guarantee that a Governor's emoluments and allowances cannot be reduced during his term of office — a financial-independence safeguard, though textually narrower than equivalent Judge protections since it does not extend to 'privileges' or 'rights,' only emoluments and allowances.",
+    "Governor's oath of office": "The Article 159 mandatory oath or affirmation every Governor (and anyone discharging the Governor's functions) must make before entering office, committing him to faithfully execute the office and preserve, protect, and defend the Constitution and the law.",
+    "administered by the High Court Chief Justice (Governor's oath)": "The Article 159 requirement that a Governor's oath be administered by the Chief Justice of the State's High Court (or, in his absence, that Court's senior-most available Judge) — a judicial rather than political or executive functionary, underscoring the office's constitutional character.",
+    "content of Governor's oath — preserve, protect, defend the Constitution and law": "The substantive commitment in the Article 159 oath form — to faithfully execute the office of Governor, to the best of one's ability preserve, protect, and defend the Constitution and the law, and to devote oneself to the service and well-being of the State's people.",
+    "Presidential contingency-filling power (Governor's functions)": "The Article 160 residual power letting the President make whatever provision he thinks fit for discharging the Governor's functions in any contingency this Chapter doesn't already address — a safety-valve gap-filler for unanticipated situations.",
+    "residual gap-filling for unprovided contingencies": "The characterization of Article 160 as operating only where a genuine gap exists in the constitutional scheme for the Governor's functioning — it supplements, rather than overrides, the specific succession and acting-arrangement rules this Chapter already provides.",
+    "Governor's pardoning power (Article 161)": "The State-level clemency power letting the Governor grant pardons, reprieves, respites, or remissions of punishment, or suspend, remit, or commute a sentence, for persons convicted of offences against laws relating to matters within the State's executive power — the State counterpart to the President's Article 72 power, though textually narrower in scope.",
+    "clemency power scope tied to State executive power": "The Article 161 limitation confining the Governor's pardoning power to offences against laws relating to matters to which the State's executive power extends, distinguishing it from the President's broader Article 72 clemency power over Union-law offences, death sentences, and court-martial sentences.",
+    "pardon vs reprieve vs respite vs remission vs commutation (Governor)": "The distinct clemency tools available to the Governor under Article 161 — a pardon (complete absolution), reprieve (temporary stay of execution of sentence), respite (postponement, often on special grounds like pregnancy or illness), remission (reduction of sentence duration without changing its nature), and commutation (substituting a lighter form of punishment for a harsher one).",
+    "extent of State executive power (Article 162)": "The Article 162 rule that a State's executive power extends to matters over which the State Legislature can make laws, mirroring the President's coextensive Union executive power under Article 73, subject to the Constitution and to the Concurrent List proviso favouring Union executive power.",
+    "coextensiveness of State executive and legislative power": "The general principle underlying Article 162 that a State's executive competence tracks its legislative competence — the State executive can act wherever the State Legislature could validly legislate, absent some other constitutional qualification.",
+    "Concurrent List executive-power subordination to the Union": "The proviso to Article 162 providing that, on Concurrent List subjects (where both Parliament and State Legislatures can legislate), the State's executive power is subject to and limited by any executive power the Constitution or Parliamentary law expressly confers on the Union or its authorities.",
+    "Council of Ministers headed by Chief Minister (State)": "The Article 163(1) constitutional body — the Council of Ministers with the Chief Minister at its head — that aids and advises the Governor in exercising his functions, establishing the State-level parliamentary system of responsible government mirroring Article 74's Union-level design.",
+    "Governor's discretionary functions carve-out": "The Article 163(1) exception under which the Governor may act in his own discretion, without ministerial aid and advice, only in the specific situations where the Constitution itself requires such discretionary action — a narrow exception to the default rule of acting on ministerial advice.",
+    "finality of Governor's discretion determination (Article 163(2))": "The Article 163(2) rule making the Governor's own decision about whether a matter falls within his discretionary zone final, and shielding the validity of his action from challenge merely on the ground that he ought or ought not to have exercised discretion — though not an absolute bar to judicial review for mala fides or wholly extraneous considerations.",
+    "ministerial advice immunity from judicial inquiry (Article 163(3))": "The Article 163(3) rule barring any court from inquiring into whether, and if so what, advice Ministers tendered to the Governor — protecting the confidentiality of Cabinet-level communications from judicial scrutiny."
   },
   "sections": [
     {
@@ -4611,6 +4626,118 @@
           "The 'office of profit' bar in clause (2) does not itself define 'office of profit' — the concept has been elaborated through case law (largely developed in the context of MPs/MLAs under Articles 102(1)(a)/191(1)(a)) as an office capable of yielding profit or pecuniary gain, and its application to a sitting Governor is comparatively rare in practice given the office's own full-time character."
         ],
         "how_to_read": "Read Article 158 as the complete conditions-of-office package for a Governor — legislative-seat incompatibility, office-of-profit bar, housing and pay entitlements defaulting to the Second Schedule, a multi-State pay-allocation mechanism, and a mid-term pay-cut protection — the State-level structural mirror of what Articles 59 and 125 do for the President and Supreme Court Judges respectively."
+      }
+    },
+    {
+      "number": "159",
+      "title": "Oath or affirmation by the Governor",
+      "raw_text": "Every Governor and every person discharging the functions of the Governor shall, before entering upon his office, make and subscribe in the presence of the Chief Justice of the High Court exercising jurisdiction in relation to the State, or, in his absence, the senior most Judge of that Court available, an oath or affirmation in the following form, that is to say—\n\"I, A. B., do swear in the name of God that I will faithfully execute the office of Governor (or discharge the functions of the Governor) of .........(name of the State) and will to the best of my ability preserve, protect and defend the Constitution and the law and that I will devote myself to the service and well-being of the people of ……(name of the State).\" (or solemnly affirm, in place of swear in the name of God).",
+      "key_terms": [
+        "Governor's oath of office",
+        "administered by the High Court Chief Justice (Governor's oath)",
+        "content of Governor's oath — preserve, protect, defend the Constitution and law"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 159 requires every Governor — and anyone else temporarily discharging the Governor's functions — to take a formal oath or affirmation before entering office, administered not by any political figure but by the Chief Justice of the relevant State High Court (or, in his absence, that Court's senior-most available Judge), underscoring the office's constitutional (rather than purely political) character. The oath's substance commits the Governor to faithfully execute the office, preserve, protect, and defend the Constitution and the law, and devote himself to the service and well-being of the State's people.",
+        "essential_elements": [
+          "The oath is mandatory for every Governor and for any person discharging the Governor's functions (e.g., under Article 160's contingency-arrangement mechanism), and must be taken before entering upon office.",
+          "The oath is administered by the Chief Justice of the High Court exercising jurisdiction over the State — a judicial, not executive or legislative, functionary — or, if he is unavailable, by that High Court's senior-most available Judge.",
+          "The prescribed form commits the Governor to faithfully execute the office (or discharge its functions), to the best of his ability preserve, protect, and defend the Constitution and the law, and to devote himself to the service and well-being of the people of the State."
+        ],
+        "exceptions_and_qualifications": [
+          "The oath may be sworn 'in the name of God' or made as a solemn affirmation without religious reference — the Constitution accommodates both religious and secular forms of commitment."
+        ],
+        "how_to_read": "Read Article 159 as the State-level analogue of Article 60 (Presidential oath) — the same structural pattern of judicial administration and Constitution-centred content, reinforcing that the Governor's authority flows from and is bounded by the Constitution."
+      }
+    },
+    {
+      "number": "160",
+      "title": "Discharge of the functions of the Governor in certain contingencies",
+      "raw_text": "The President may make such provision as he thinks fit for the discharge of the functions of the Governor of a State in any contingency not provided for in this Chapter.",
+      "key_terms": [
+        "Presidential contingency-filling power (Governor's functions)",
+        "residual gap-filling for unprovided contingencies"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 160 is a safety-valve provision letting the President handle any gap in the constitutional scheme for the Governor's office that this Chapter doesn't explicitly address — for instance, situations where a Governor is temporarily unable to function and no other Article specifically covers the resulting contingency. Rather than leaving such a gap unaddressed, the President is given broad discretion to make whatever arrangement he thinks fit.",
+        "essential_elements": [
+          "The power arises only 'in any contingency not provided for in this Chapter' — it is a residual, gap-filling power, not a general override of the specific rules this Chapter does provide (such as normal succession or acting arrangements where those are spelt out).",
+          "The President has wide discretion ('such provision as he thinks fit') in how to address the contingency — the text does not constrain the form the arrangement must take."
+        ],
+        "exceptions_and_qualifications": [
+          "In practice, this provision has been used, for example, to arrange for a neighbouring State's Governor, or a High Court Chief Justice, to temporarily discharge the functions of a Governor's office that has fallen vacant or whose holder is unable to act, pending a fresh appointment."
+        ],
+        "how_to_read": "Read Article 160 as the State-level structural safety net — whenever an unanticipated gap arises in the Governor succession/functioning scheme, the President (not the State Legislature or any State authority) fills it."
+      }
+    },
+    {
+      "number": "161",
+      "title": "Power of Governor to grant pardons, etc., and to suspend, remit or commute sentences in certain cases",
+      "raw_text": "The Governor of a State shall have the power to grant pardons, reprieves, respites or remissions of punishment or to suspend, remit or commute the sentence of any person convicted of any offence against any law relating to a matter to which the executive power of the State extends.",
+      "key_terms": [
+        "Governor's pardoning power (Article 161)",
+        "clemency power scope tied to State executive power",
+        "pardon vs reprieve vs respite vs remission vs commutation (Governor)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 161 gives the Governor a clemency power closely paralleling the President's Article 72 power, but confined to State-level matters — offences against laws relating to a subject falling within the State's executive power. The Governor can grant a full pardon, a temporary reprieve, a respite (postponement), or a remission (reduction) of punishment, or suspend, remit, or commute a sentence, for anyone convicted of such an offence.",
+        "essential_elements": [
+          "The power covers the full clemency toolkit: pardons, reprieves, respites, and remissions of punishment, plus the power to suspend, remit, or commute a sentence.",
+          "It applies to persons convicted of an offence against 'any law relating to a matter to which the executive power of the State extends' — i.e., State-executive-power-linked offences, generally State-legislated offences (though the precise boundary in relation to Union-legislated offences administered by the State has generated case law).",
+          "Unlike Article 72's Presidential power, Article 161 contains no explicit reference to death sentences, court-martial sentences, or sentences under Union law — the Governor's clemency power is textually narrower and confined to the State executive power's field."
+        ],
+        "exceptions_and_qualifications": [
+          "Constitutionally, the Governor's exercise of this power is generally understood (consistent with Article 163) to be exercised on the aid and advice of the State Council of Ministers, not as a matter of the Governor's personal discretion, except to the extent the Constitution elsewhere specifically requires discretionary action.",
+          "The precise scope of overlap and distinction between Presidential clemency under Article 72 and Gubernatorial clemency under Article 161 — particularly regarding death sentences imposed for offences against State laws, and the timing/interplay between the two powers in the same case — has been the subject of significant Supreme Court jurisprudence."
+        ],
+        "how_to_read": "Read Article 161 as Article 72's State-level counterpart, narrower in textual scope (no explicit death-sentence, court-martial, or Union-law references) and, like all Governor powers generally, ordinarily exercised on ministerial advice rather than personal discretion."
+      }
+    },
+    {
+      "number": "162",
+      "title": "Extent of executive power of State",
+      "raw_text": "Subject to the provisions of this Constitution, the executive power of a State shall extend to the matters with respect to which the Legislature of the State has power to make laws:\nProvided that in any matter with respect to which the Legislature of a State and Parliament have power to make laws, the executive power of the State shall be subject to, and limited by, the executive power expressly conferred by this Constitution or by any law made by Parliament upon the Union or authorities thereof.",
+      "key_terms": [
+        "extent of State executive power (Article 162)",
+        "coextensiveness of State executive and legislative power",
+        "Concurrent List executive-power subordination to the Union"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 162 defines how far a State's executive power reaches, using the same coextensiveness principle Article 73 uses for the Union: the State's executive power extends exactly as far as the State Legislature's law-making power extends (i.e., over State List subjects, and generally Concurrent List subjects too). The proviso then addresses the overlap zone — where a subject is on the Concurrent List (where both Parliament and the State Legislature can legislate), the State's executive power is subordinate to any executive power the Constitution or a Parliamentary law expressly gives to the Union.",
+        "essential_elements": [
+          "The general rule ties State executive power directly to State legislative competence — the State executive can act wherever the State Legislature could validly legislate.",
+          "The whole Article is expressly 'subject to the provisions of this Constitution' — other constitutional provisions can override or qualify this general coextensiveness principle.",
+          "The proviso addresses Concurrent List subjects specifically: where both Parliament and the State Legislature have law-making power, the State's executive power is subject to, and limited by, any executive power the Constitution or Parliamentary law expressly confers on the Union or Union authorities."
+        ],
+        "exceptions_and_qualifications": [
+          "This coextensiveness principle mirrors Article 73's structure for the Union almost exactly (in reverse — State List/Concurrent List instead of Union List/Concurrent List), reflecting the framers' deliberate parallel design of executive power at both levels of the federal structure."
+        ],
+        "how_to_read": "Read Article 162 as Article 73's mirror image at the State level — State executive power tracks State legislative competence, but on Concurrent List subjects the Union's expressly conferred executive power trumps the State's, reinforcing the Union's structural primacy in India's quasi-federal design."
+      }
+    },
+    {
+      "number": "163",
+      "title": "Council of Ministers to aid and advise Governor",
+      "raw_text": "(1) There shall be a Council of Ministers with the Chief Minister at the head to aid and advise the Governor in the exercise of his functions, except in so far as he is by or under this Constitution required to exercise his functions or any of them in his discretion.\n(2) If any question arises whether any matter is or is not a matter as respects which the Governor is by or under this Constitution required to act in his discretion, the decision of the Governor in his discretion shall be final, and the validity of anything done by the Governor shall not be called in question on the ground that he ought or ought not to have acted in his discretion.\n(3) The question whether any, and if so what, advice was tendered by Ministers to the Governor shall not be inquired into in any court.",
+      "key_terms": [
+        "Council of Ministers headed by Chief Minister (State)",
+        "Governor's discretionary functions carve-out",
+        "finality of Governor's discretion determination (Article 163(2))",
+        "ministerial advice immunity from judicial inquiry (Article 163(3))"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 163 establishes the State-level parliamentary system, mirroring Article 74's design for the Union: a Council of Ministers headed by the Chief Minister exists to aid and advise the Governor, who ordinarily must act on that advice — except in the narrower set of situations where the Constitution itself requires the Governor to act in his own discretion (such as certain reservations of Bills for Presidential consideration, or selecting a Chief Minister when no party commands a clear majority). Clause (2) makes the Governor's own determination of whether a given matter falls within his discretionary zone final and immune from being challenged merely on the basis that he should or shouldn't have acted in discretion. Clause (3) shields the actual content of ministerial advice from judicial inquiry, protecting the confidentiality of Cabinet-level communications.",
+        "essential_elements": [
+          "Clause (1) establishes the Council of Ministers with the Chief Minister at its head as the body that aids and advises the Governor in exercising his functions — the default rule for how the Governor is meant to operate.",
+          "The 'except' clause carves out situations where the Constitution requires the Governor to act in his own discretion — these discretionary powers arise from specific other Articles (e.g., certain Bill-reservation decisions, appointing a Chief Minister in a hung Assembly, dismissing a government that has lost majority but refuses to resign), not from Article 163 itself.",
+          "Clause (2) makes the Governor's own decision about whether a matter falls within his discretionary zone final, and immunises the validity of what the Governor does from being questioned on the ground that he ought or ought not to have exercised discretion in that instance.",
+          "Clause (3) bars any court from inquiring into whether, and if so what, advice Ministers tendered to the Governor — protecting Cabinet confidentiality."
+        ],
+        "exceptions_and_qualifications": [
+          "Despite clause (2)'s broad finality language, Supreme Court jurisprudence has clarified that this finality does not oust judicial review altogether — courts can still examine whether the Governor's action itself was mala fide, based on wholly extraneous or irrelevant considerations, or otherwise so unconstitutional as to warrant review, even though the specific question of whether discretion was rightly invoked in a borderline case enjoys a degree of insulation.",
+          "The Governor's discretionary zone under this Article is deliberately narrow and exceptional — the default constitutional expectation, exactly as with the President under Article 74, is that the Governor acts on ministerial aid and advice, not independently."
+        ],
+        "how_to_read": "Read Article 163 as establishing the working constitutional convention of 'the Governor reigns, the Council of Ministers rules' at the State level — with a narrow, specifically-defined discretionary exception, a strong (though not absolute) finality shield around the Governor's own discretion determination, and firm protection for the confidentiality of ministerial advice."
       }
     }
   ]
