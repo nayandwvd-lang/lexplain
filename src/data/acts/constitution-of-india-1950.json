@@ -22,7 +22,29 @@
     "Fourth Schedule": "The Schedule to the Constitution allocating the number of seats each State is entitled to in the Council of States (Rajya Sabha), which an Article 2/3 law reorganising States must update under Article 4(1).",
     "supplemental incidental and consequential provisions": "Ancillary provisions that Parliament may include, under Article 4(1), in a State-reorganisation law to address matters flowing from the reorganisation — such as representation in legislatures — beyond the bare territorial change itself.",
     "representation in Parliament": "The allocation of seats in the Houses of Parliament (and correspondingly in State Legislatures) to a State or States, which an Article 2/3 law may adjust as a supplemental/consequential provision under Article 4(1).",
-    "not an amendment under Article 368": "The express clarification in Article 4(2) that a law made under Articles 2 or 3 — even though it alters the First and Fourth Schedules of the Constitution — is not deemed a constitutional amendment, and therefore does not require the special procedure prescribed by Article 368."
+    "not an amendment under Article 368": "The express clarification in Article 4(2) that a law made under Articles 2 or 3 — even though it alters the First and Fourth Schedules of the Constitution — is not deemed a constitutional amendment, and therefore does not require the special procedure prescribed by Article 368.",
+    "domicile": "The country or place that a person treats as their permanent home in law, distinct from mere residence — the threshold requirement under Article 5 for citizenship at the Constitution's commencement.",
+    "commencement of the Constitution": "26 January 1950, the date on which the Constitution of India came into force, and the fixed reference point used throughout Part II (Citizenship) to determine who automatically became a citizen of India.",
+    "ordinarily resident": "Habitually and normally residing in a place as one's settled abode, as opposed to a temporary or occasional stay — a recurring residence-based test used across Articles 5, 6, and 8 for citizenship purposes.",
+    "citizen of India (Article 5)": "A person who qualifies for Indian citizenship under the general commencement-day test in Article 5 — domicile in India plus birth, parental birth, or five years' prior ordinary residence in India.",
+    "migrant from Pakistan": "A person who moved into the territory of India from territory that became Pakistan, whose citizenship status at the Constitution's commencement is specially governed by Article 6 rather than the general Article 5 test.",
+    "non-obstante over Article 5": "The 'notwithstanding anything in article 5' opening of Article 6 (and similarly of Articles 7, 8, and 9), signalling that these provisions create special rules overriding the general citizenship test in Article 5 rather than merely supplementing it.",
+    "19 July 1948 cut-off date": "The date used in Article 6(b) to split migrants from Pakistan-territory into two groups with different citizenship-qualification requirements — pre-cutoff migrants qualify via continuous residence, post-cutoff migrants additionally needed pre-commencement registration.",
+    "registration as citizen": "The formal administrative act, under Articles 6 and 8, of an authorized officer or diplomatic/consular representative recording a person as a citizen of India upon their application, which is the operative step conferring citizenship in those specific categories.",
+    "Government of India Act 1935 definition of India": "The territorial definition of 'India' under the Government of India Act, 1935 as originally enacted — i.e., undivided pre-Partition India — used as the reference territory for 'birth in India' conditions in Articles 6, 8, and 9.",
+    "migrant to Pakistan": "A person who moved from the territory of India to territory that became Pakistan after 1 March 1947, whose exclusion from (and narrow route back into) Indian citizenship is governed by Article 7.",
+    "1 March 1947 cut-off date": "The date fixed by Article 7 after which migration from India to Pakistan-territory disqualifies a person from Indian citizenship, subject to the Article's return-permit proviso.",
+    "permit for resettlement or permanent return": "An official document issued under the authority of law permitting a person who migrated to Pakistan-territory to return to India; obtaining one is the precondition under Article 7's proviso for escaping that Article's citizenship bar.",
+    "deemed re-migration date": "The legal fiction in the proviso to Article 7 treating a person who returned to India under a resettlement/permanent-return permit as having migrated into India only after 19 July 1948, thereby subjecting them to Article 6(b)'s registration requirement.",
+    "person of Indian origin": "Under Article 8, a person who, or whose parent or grandparent, was born in undivided India as defined by the Government of India Act, 1935, and who resides outside India — the class eligible for citizenship by overseas registration.",
+    "diplomatic or consular representative": "An official of the Government of India (or, before commencement, the Dominion of India) stationed abroad, empowered under Article 8 to register persons of Indian origin residing in that country as citizens of India.",
+    "registration abroad": "The process under Article 8 by which a person of Indian origin residing outside India becomes a citizen by applying to, and being registered by, an Indian diplomatic or consular representative in their country of residence.",
+    "voluntary acquisition of foreign citizenship": "The act of a person knowingly and by choice taking up citizenship of another country, which under Article 9 disqualifies them from being treated as an Indian citizen under Articles 5, 6, or 8.",
+    "single citizenship principle": "The constitutional design choice, reflected in Article 9, that a person cannot simultaneously hold Indian citizenship and the voluntarily-acquired citizenship of a foreign State — India does not recognize dual citizenship in this sense.",
+    "continuance of citizenship": "The default rule in Article 10 that a person who has become a citizen under Articles 5-9 remains a citizen going forward, unless a law made by Parliament under Article 11 alters that position.",
+    "plenary power of Parliament over citizenship": "The broad, unrestricted legislative authority confirmed by Article 11 for Parliament to make any law regarding acquisition, termination, and all other matters relating to citizenship, unconfined by the specific rules in Articles 5-10.",
+    "acquisition and termination of citizenship": "The two core subject-matters over which Article 11 confirms Parliament's full law-making power — how citizenship is gained and how it is lost — as distinct from the fixed historical rules laid down directly in Articles 5-9.",
+    "subject to law made by Parliament": "The qualifying phrase in Article 10 that makes the continuance of citizenship defeasible by future Parliamentary legislation, providing the constitutional basis for the Citizenship Act, 1955's provisions on loss and termination of citizenship."
   },
   "sections": [
     {
@@ -140,6 +162,162 @@
           "This exemption from Article 368 is precisely why State reorganisation can be done by simple parliamentary majority rather than the special amendment procedure (special majority, and for some subjects, State ratification)"
         ],
         "how_to_read": "Article 4 is what makes Articles 2 and 3 practically usable as tools of ordinary politics rather than rare constitutional events — remember that any State reorganisation Bill is simultaneously a Schedule-amending Bill, and cite clause (2) whenever someone wrongly argues that a State reorganisation Act needed the Article 368 special procedure."
+      }
+    },
+    {
+      "number": "5",
+      "title": "Citizenship at the commencement of the Constitution",
+      "raw_text": "At the commencement of this Constitution, every person who has his domicile in the territory of India and— (a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or (c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+      "key_terms": [
+        "domicile",
+        "commencement of the Constitution",
+        "ordinarily resident",
+        "citizen of India (Article 5)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 5 is the Constitution's own 'starting gun' for Indian citizenship — it tells us who automatically became a citizen the moment the Constitution came into force on 26 January 1950. The test has two parts: first, the person must have had their domicile (permanent home, in the legal sense) in India at that moment; second, they must satisfy at least one of three alternative conditions — being born in India, having a parent born in India, or having lived ordinarily in India for at least five years right before commencement.",
+        "essential_elements": [
+          "Domicile in the territory of India at the commencement of the Constitution is the threshold requirement",
+          "At least one of three alternative conditions must additionally be satisfied: birth in India, parental birth in India, or five years' ordinary residence immediately before commencement"
+        ],
+        "exceptions_and_qualifications": [
+          "Article 5 only fixes citizenship as of the historical moment of commencement (26 January 1950) — citizenship acquired or lost afterward is governed by later law made under Article 11 (principally the Citizenship Act, 1955), not by this Article directly",
+          "Domicile is a distinct legal concept from mere residence or nationality, and its absence defeats the claim even if one of the three alternative conditions is met"
+        ],
+        "how_to_read": "Use Article 5 only to determine 'origin-point' citizenship as of 26 January 1950 — for anyone born or naturalised after that date, or for loss/renunciation of citizenship at any time, go to the Citizenship Act, 1955 made under Article 11, not to this Article."
+      }
+    },
+    {
+      "number": "6",
+      "title": "Rights of citizenship of certain persons who have migrated to India from Pakistan",
+      "raw_text": "Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if— (a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and (b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or (ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government: Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+      "key_terms": [
+        "migrant from Pakistan",
+        "non-obstante over Article 5",
+        "19 July 1948 cut-off date",
+        "registration as citizen",
+        "Government of India Act 1935 definition of India"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 6 deals with the enormous population movement of Partition, addressing people who migrated into India from what became Pakistan. It overrides the general Article 5 test with a special rule: such a migrant is deemed an Indian citizen at commencement if they (or a parent or grandparent) were born in undivided India as defined by the 1935 Government of India Act, AND they satisfy a time-based sub-test — if they migrated before 19 July 1948, simply having lived in India continuously since migrating suffices; but if they migrated on or after that date, they additionally needed to have formally registered as a citizen with a designated Dominion of India officer before the Constitution commenced, having been resident at least six months before applying.",
+        "essential_elements": [
+          "Ancestral-birth condition: the person, a parent, or a grandparent must have been born in undivided India (1935 Act definition)",
+          "Time-split residence/registration condition depending on whether migration occurred before or on/after 19 July 1948",
+          "For post-19-July-1948 migrants, formal registration before commencement (preceded by at least six months' residence) was mandatory"
+        ],
+        "exceptions_and_qualifications": [
+          "This Article operates 'notwithstanding' (overriding) Article 5 — it is a special deeming provision, not an application of the ordinary domicile-based test",
+          "The six-month residence proviso is a strict precondition to registration eligibility for the later category of migrants"
+        ],
+        "how_to_read": "Article 6 is now almost entirely of historical/adjudicative interest for Partition-era migration disputes — read it together with Article 7 (the mirror-image provision for migrants going the other way) to see how the Constitution drew citizenship lines around the two-way Partition migration."
+      }
+    },
+    {
+      "number": "7",
+      "title": "Rights of citizenship of certain migrants to Pakistan",
+      "raw_text": "Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948.",
+      "key_terms": [
+        "migrant to Pakistan",
+        "1 March 1947 cut-off date",
+        "permit for resettlement or permanent return",
+        "deemed re-migration date"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 7 is the mirror image of Article 6: a person who migrated out of India, into what became Pakistan, after 1 March 1947, is treated as not an Indian citizen — even if they would otherwise qualify under Articles 5 or 6. There is, however, a return path: if such a person later came back to India under an official resettlement/permanent-return permit, they are not caught by this bar, and for the purposes of Article 6(b)'s registration rule, they are treated as if they had migrated into India only after 19 July 1948 (so they would need to have registered as a citizen, as Article 6 requires for that later category).",
+        "essential_elements": [
+          "Base rule: migration out of India to Pakistan-territory after 1 March 1947 disqualifies a person from Indian citizenship under Articles 5/6",
+          "Proviso creates a return path via an official resettlement/permanent-return permit",
+          "A returnee under the proviso is deemed, for Article 6(b) purposes, to have migrated into India after 19 July 1948 — triggering the registration requirement"
+        ],
+        "exceptions_and_qualifications": [
+          "The bar in Article 7 overrides both Article 5 (the general test) and Article 6 (the migrant-into-India deeming rule) via its own non-obstante opening",
+          "The proviso's benefit is available only to those who returned under a lawful resettlement/permanent-return permit — informal or unauthorised return does not qualify"
+        ],
+        "how_to_read": "Read Articles 6 and 7 as a linked pair governing Partition-era two-way migration — Article 6 deems certain in-migrants citizens, Article 7 deems certain out-migrants non-citizens, and the proviso to Article 7 is the narrow bridge back for people who left and then formally returned."
+      }
+    },
+    {
+      "number": "8",
+      "title": "Rights of citizenship of certain persons of Indian origin residing outside India",
+      "raw_text": "Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+      "key_terms": [
+        "person of Indian origin",
+        "diplomatic or consular representative",
+        "registration abroad"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 8 extends citizenship to the Indian diaspora of that era — people of Indian origin (by birth or ancestry, going back to a parent or grandparent) who were living abroad at the relevant time. Unlike Articles 5 and 6, which look at residence inside India, Article 8 lets such overseas persons become Indian citizens purely by registering with an Indian diplomatic or consular officer in the country where they were living, whether that registration happened before or after the Constitution commenced.",
+        "essential_elements": [
+          "Ancestral-birth condition identical in structure to Article 6: self, parent, or grandparent born in undivided India",
+          "Ordinary residence in a country outside India (as defined by the 1935 Act) at the relevant time",
+          "Registration with an Indian diplomatic or consular representative abroad, in the prescribed form and manner, is the operative act that confers citizenship"
+        ],
+        "exceptions_and_qualifications": [
+          "This Article, again, operates notwithstanding Article 5 — it is a distinct, self-contained route to citizenship for the overseas Indian-origin population, not an application of the domicile test",
+          "Registration could validly occur either before or after the Constitution's commencement — the timing itself is not fatal, unlike the stricter cut-off dates in Articles 6 and 7"
+        ],
+        "how_to_read": "Do not confuse Article 8's diaspora-registration route (a one-time historical mechanism operating around commencement) with the modern Overseas Citizen of India (OCI) scheme, which is a creature of the Citizenship Act, 1955 as amended, made under Article 11."
+      }
+    },
+    {
+      "number": "9",
+      "title": "Persons voluntarily acquiring citizenship of a foreign State not to be citizens",
+      "raw_text": "No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+      "key_terms": [
+        "voluntary acquisition of foreign citizenship",
+        "single citizenship principle"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 9 enforces India's single-citizenship principle at the constitutional threshold: anyone who had voluntarily taken up the citizenship of another country is disqualified from being treated as an Indian citizen under Articles 5, 6, or 8, no matter how strong their birth or ancestral connection to India otherwise was.",
+        "essential_elements": [
+          "Applies specifically to disqualify citizenship claims that would otherwise arise under Articles 5, 6, or 8",
+          "The acquisition of foreign citizenship must be voluntary — an involuntary or automatic conferral by foreign law (without the person's choice) would not trigger this bar in the same way"
+        ],
+        "exceptions_and_qualifications": [
+          "Article 9 does not itself regulate the loss of citizenship after a person has already become an Indian citizen and later acquires foreign citizenship — that is governed by the Citizenship Act, 1955 made under Article 11",
+          "Courts have had to interpret what counts as 'voluntary acquisition' in individual fact situations (e.g., automatic conferral of foreign nationality on marriage or by operation of foreign law without an affirmative act)"
+        ],
+        "how_to_read": "Treat Article 9 as a threshold bar operating only at the Article 5/6/8 citizenship-determination stage — for citizenship already vested and later placed in doubt by acquisition of a foreign passport, the operative law is the Citizenship Act, 1955, not this Article directly."
+      }
+    },
+    {
+      "number": "10",
+      "title": "Continuance of the rights of citizenship",
+      "raw_text": "Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.",
+      "key_terms": [
+        "continuance of citizenship",
+        "subject to law made by Parliament"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 10 provides continuity: once a person qualifies as a citizen under any of Articles 5 to 9, that citizenship persists going forward, unless and until Parliament makes a law that changes the position (for instance, providing for loss of citizenship in specified circumstances).",
+        "essential_elements": [
+          "Citizenship, once established under Articles 5-9, is presumed to continue indefinitely",
+          "This continuance is expressly made subject to future Parliamentary law — it is not an unconditional guarantee immune from legislative modification"
+        ],
+        "exceptions_and_qualifications": [
+          "The qualifying phrase 'subject to the provisions of any law that may be made by Parliament' is what allows the Citizenship Act, 1955 to validly provide for termination of citizenship (e.g., on voluntary acquisition of another citizenship, or by an order of the Central Government) without being unconstitutional"
+        ],
+        "how_to_read": "Article 10 is the constitutional bridge that lets ordinary citizenship law override the default continuance rule — always check the Citizenship Act, 1955 (and its amendments) for whether a particular person's citizenship has since been terminated, rather than assuming permanence purely from satisfying Articles 5-9."
+      }
+    },
+    {
+      "number": "11",
+      "title": "Parliament to regulate the right of citizenship by law",
+      "raw_text": "Nothing in the foregoing provisions of this Part shall derogate from the power of Parliament to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship.",
+      "key_terms": [
+        "plenary power of Parliament over citizenship",
+        "acquisition and termination of citizenship"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 11 is the Part's closing 'clear the decks' provision: it confirms that Articles 5 to 10 do not exhaust or limit Parliament's law-making power over citizenship. Parliament retains full authority to legislate on how citizenship is acquired (by birth, descent, registration, naturalisation) and how it is lost, and on any other citizenship-related matter — which is exactly the authority exercised through the Citizenship Act, 1955.",
+        "essential_elements": [
+          "Parliament's power under Article 11 is plenary and not confined or cut down by the specific historical rules in Articles 5-10",
+          "Covers both acquisition and termination of citizenship, plus 'all other matters relating to citizenship'"
+        ],
+        "exceptions_and_qualifications": [
+          "Article 11 is what makes the Citizenship Act, 1955 (and later amendments such as those dealing with Overseas Citizens of India, or citizenship by registration/naturalisation) constitutionally valid — without this Article, Parliament's power might have been seen as limited to filling gaps left by Articles 5-10 rather than freely legislating the whole subject"
+        ],
+        "how_to_read": "Whenever a citizenship question falls outside the narrow historical scenarios of Articles 5-9 (e.g., birth after 1950, naturalisation, or loss of citizenship), the governing law is legislation made by Parliament under this Article — principally the Citizenship Act, 1955 — not the constitutional Articles themselves."
       }
     }
   ]
