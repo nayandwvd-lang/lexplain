@@ -850,7 +850,16 @@
     "periodic State Finance Commission for Panchayat financial review (five-year cycle)": "The Article 243I(1) requirement that the Governor constitute a Finance Commission within one year of the Seventy-third Amendment's 1992 commencement, and thereafter every five years, to review Panchayat financial position and recommend on inter-governmental revenue distribution, tax assignment, and grants-in-aid — the State-tier structural mirror of Article 280's Union Finance Commission.",
     "State-Panchayat revenue distribution recommendation scope": "The Article 243I(1)(a) mandate directing the State Finance Commission to recommend on principles governing the division of State tax/duty/toll/fee proceeds between the State and Panchayats, the allocation of the Panchayats' share across tiers, which levies to assign to Panchayats, and appropriate grants-in-aid.",
     "Governor's mandatory laying of Finance Commission report before State Legislature": "The Article 243I(4) requirement that the Governor cause every State Finance Commission recommendation, together with an explanatory memorandum on action taken, to be laid before the State Legislature — a transparency and legislative-oversight obligation, though the recommendations themselves are not textually made binding.",
-    "State-law Panchayat account-maintenance and audit framework": "The Article 243J enabling provision leaving the entire framework for Panchayat account maintenance and auditing to State legislation, without constitutionally designating any specific auditing authority (unlike Article 148's entrenched Comptroller and Auditor-General)."
+    "State-law Panchayat account-maintenance and audit framework": "The Article 243J enabling provision leaving the entire framework for Panchayat account maintenance and auditing to State legislation, without constitutionally designating any specific auditing authority (unlike Article 148's entrenched Comptroller and Auditor-General).",
+    "State Election Commission for Panchayat elections": "The Article 243K(1) body — a single State Election Commissioner appointed by the Governor — vested with superintendence, direction, and control of Panchayat electoral-roll preparation and election conduct, later extended to Municipal elections by Article 243ZA.",
+    "High-Court-Judge-equivalent removal protection for the State Election Commissioner": "The proviso to Article 243K(2) barring removal of the State Election Commissioner except in like manner and on like grounds as a High Court Judge, and barring disadvantageous variation of service conditions after appointment — insulating Panchayat election administration from executive control, mirroring Article 324(5)'s protection for the Chief Election Commissioner.",
+    "Union-territory extension of Part IX with Governor-to-Administrator substitution": "The Article 243L mechanism extending the entire Panchayat Part to Union territories by textually substituting 'Administrator appointed under article 239' for 'Governor' and a Union territory's own Legislative Assembly for 'State Legislature,' subject to Presidential exceptions/modifications by public notification.",
+    "blanket carve-out of Fifth/Sixth Schedule and tribal Northeast areas from Part IX": "The Article 243M(1)-(3A) default exclusion of Fifth Schedule Scheduled Areas, Sixth Schedule tribal areas, Nagaland/Meghalaya/Mizoram, Manipur's District-Council hill areas, Darjeeling's district-level Panchayat tier, and (for SC reservation only) Arunachal Pradesh from Part IX's ordinary Panchayat scheme, because these areas run on separate constitutional local-government tracks.",
+    "special-majority State-Assembly resolution route to opt in to Part IX": "The Article 243M(4)(a) mechanism letting Nagaland, Meghalaya, or Mizoram's own Legislative Assembly extend Part IX to that State by a resolution passed with both a majority of total membership and a two-thirds majority of members present and voting.",
+    "PESA extension route for Scheduled/tribal areas": "The Article 243M(4)(b) mechanism letting Parliament extend Part IX to Fifth Schedule Scheduled Areas and Sixth Schedule tribal areas by ordinary law with tailored exceptions and modifications (not an Article 368 amendment) — the constitutional basis for the Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA).",
+    "one-year transitional continuance of pre-1993 inconsistent Panchayat laws": "The Article 243N rule letting State Panchayat laws inconsistent with Part IX continue in force for up to one year after the Seventy-third Amendment's 1992-93 commencement (or until sooner amended/repealed), while separately protecting already-sitting Panchayats' existing terms absent an affirmative Legislative Assembly dissolution resolution — a now largely spent, purely transitional provision.",
+    "delimitation-law judicial-review bar for Panchayat elections": "The Article 243-O(a) absolute bar preventing any court from questioning the validity of delimitation or seat-allotment laws made under Article 243K — mirroring Article 329(a)'s identical bar for Parliamentary/State Legislature delimitation laws.",
+    "election-petition-only channel for challenging Panchayat elections": "The Article 243-O(b) rule confining every challenge to a Panchayat election's validity to an election petition presented under State-enacted procedure, ousting ordinary writ or civil litigation over election validity — mirroring Article 329(b)'s identical channeling rule for Parliamentary/State Legislature elections."
   },
   "sections": [
     {
@@ -7125,6 +7134,128 @@
           "This Article's brevity (a single enabling sentence, with no clauses) stands in deliberate contrast to the more elaborate Article 243I immediately preceding it — audit was left as a comparatively lighter-touch, State-legislative-discretion matter rather than being built out with the same institutional detail (fixed periodicity, mandatory legislative laying) given to the Finance Commission mechanism."
         ],
         "how_to_read": "Read Article 243J as the final, deliberately minimal accountability provision in the Panchayat-finance cluster (Articles 243H-243J) — cross-reference it against Article 148's CAG framework to appreciate what this Article does not itself do: it delegates audit design to State law rather than constitutionally entrenching any specific auditing institution the way Article 148 does at the Union/State level."
+      }
+    },
+    {
+      "number": "243K",
+      "title": "Elections to the Panchayats",
+      "raw_text": "243K. Elections to the Panchayats.—(1) The superintendence, direction and control of the preparation of electoral rolls for, and the conduct of, all elections to the Panchayats shall be vested in a State Election Commission consisting of a State Election Commissioner to be appointed by the Governor.\n(2) Subject to the provisions of any law made by the Legislature of a State, the conditions of service and tenure of office of the State Election Commissioner shall be such as the Governor may by rule determine: Provided that the State Election Commissioner shall not be removed from his office except in like manner and on the like grounds as a Judge of a High Court and the conditions of service of the State Election Commissioner shall not be varied to his disadvantage after his appointment.\n(3) The Governor of a State shall, when so requested by the State Election Commission, make available to the State Election Commission such staff as may be necessary for the discharge of the functions conferred on the State Election Commission by clause (1).\n(4) Subject to the provisions of this Constitution, the Legislature of a State may, by law, make provision with respect to all matters relating to, or in connection with, elections to the Panchayats.",
+      "key_terms": [
+        "State Election Commission for Panchayat elections",
+        "High-Court-Judge-equivalent removal protection for the State Election Commissioner"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243K creates a dedicated State Election Commission — headed by a Governor-appointed State Election Commissioner — to superintend, direct, and control the preparation of Panchayat electoral rolls and the conduct of Panchayat elections, and insulates that Commissioner's tenure with High-Court-Judge-equivalent removal protection.",
+        "essential_elements": [
+          "Clause (1) vests superintendence, direction, and control of Panchayat electoral-roll preparation and election conduct in a State Election Commission.",
+          "The State Election Commission consists of a State Election Commissioner appointed by the Governor.",
+          "Clause (2) leaves the Commissioner's service conditions and tenure to Governor's rules, subject to any State law.",
+          "The proviso to clause (2) bars removal except in like manner and on like grounds as a High Court Judge, and bars disadvantageous variation of service conditions after appointment.",
+          "Clause (3) obliges the Governor to furnish necessary staff to the Commission on request.",
+          "Clause (4) leaves the entire substantive law of Panchayat elections to State legislation, subject to the Constitution."
+        ],
+        "exceptions_and_qualifications": [
+          "This is the State-tier structural mirror of Article 324's Election Commission of India, but the two are entirely distinct bodies — a State Election Commission under Article 243K has no role in Parliamentary or State Legislature elections, which remain with the Election Commission of India under Article 324.",
+          "A single State Election Commissioner (not a multi-member body, unlike the Election Commission of India's Chief Election Commissioner plus Election Commissioners structure) is contemplated by this Article's text.",
+          "The independence architecture (Judge-equivalent removal protection, non-variation of service conditions) mirrors Article 324(5)'s protection for the Chief Election Commissioner, underscoring that Panchayat election administration was deliberately insulated from executive control just as national/State election administration is.",
+          "Article 243ZA later extends this same State Election Commission's jurisdiction to Municipal elections as well, so in practice a single State Election Commission typically administers both Panchayat and Municipal elections in a State."
+        ],
+        "how_to_read": "Read Article 243K as the institutional-independence guarantee underlying every election held under this Part — without a constitutionally insulated Election Commissioner, the detailed seat-reservation and duration rules in Articles 243D and 243E would be unenforceable in practice."
+      }
+    },
+    {
+      "number": "243L",
+      "title": "Application to Union territories",
+      "raw_text": "243L. Application to Union territories.—The provisions of this Part shall apply to the Union territories and shall, in their application to a Union territory, have effect as if the references to the Governor of a State were references to the Administrator of the Union territory appointed under article 239 and references to the Legislature or the legislative Assembly of a State were references, in relation to a Union territory having a Legislative Assembly, to that Legislative Assembly: Provided that the President may, by public notification, direct that the provisions of this Part shall apply to any Union territory or part thereof subject to such exceptions and modifications as he may specify in the notification.",
+      "key_terms": [
+        "Union-territory extension of Part IX with Governor-to-Administrator substitution"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243L extends the entire Panchayat Part to Union territories by textually substituting 'Administrator appointed under article 239' for every reference to 'Governor,' and substituting a Union territory's own Legislative Assembly (where one exists) for every reference to a State Legislature, while letting the President modify or except provisions for particular territories by notification.",
+        "essential_elements": [
+          "The Part applies to Union territories by a substitution formula, not a freestanding separate text.",
+          "'Governor of a State' reads as 'Administrator of the Union territory appointed under article 239.'",
+          "'Legislature or Legislative Assembly of a State' reads as the Union territory's own Legislative Assembly, where one exists.",
+          "The proviso lets the President tailor the Part's application to a specific Union territory or part thereof by public notification, specifying exceptions and modifications."
+        ],
+        "exceptions_and_qualifications": [
+          "This is the same substitution technique used elsewhere for extending State-oriented constitutional provisions to Union territories (compare Article 239's Governor-as-adjoining-UT-administrator arrangement), rather than a bespoke Union-territory Panchayat scheme.",
+          "Where a Union territory has no Legislative Assembly at all, the Legislature-substitution formula has nothing to substitute in for — Panchayat law-making in such territories functions through the Article 239/240 administrator/regulation mechanisms instead."
+        ],
+        "how_to_read": "Read Article 243L as a drafting-economy device: rather than re-writing Articles 243 through 243-O for Union territories, it simply swaps two defined terms so the same text governs both States and Union territories, subject to Presidential fine-tuning."
+      }
+    },
+    {
+      "number": "243M",
+      "title": "Part not to apply to certain areas",
+      "raw_text": "243M. Part not to apply to certain areas.—(1) Nothing in this Part shall apply to the Scheduled Areas referred to in clause (1), and the tribal areas referred to in clause (2), of article 244.\n(2) Nothing in this Part shall apply to—\n(a) the States of Nagaland, Meghalaya and Mizoram;\n(b) the hill areas in the State of Manipur for which District Councils exist under any law for the time being in force.\n(3) Nothing in this Part—\n(a) relating to Panchayats at the district level shall apply to the hill areas of the District of Darjeeling in the State of West Bengal for which Darjeeling Gorkha Hill Council exists under any law for the time being in force;\n(b) shall be construed to affect the functions and powers of the Darjeeling Gorkha Hill Council constituted under such law.\n(3A) Nothing in article 243D, relating to reservation of seats for the Scheduled Castes, shall apply to the State of Arunachal Pradesh.\n(4) Notwithstanding anything in this Constitution,—\n(a) the Legislature of a State referred to in sub-clause (a) of clause (2) may, by law, extend this Part to that State, except the areas, if any, referred to in clause (1), if the Legislative Assembly of that State passes a resolution to that effect by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting;\n(b) Parliament may, by law, extend the provisions of this Part to the Scheduled Areas and the tribal areas referred to in clause (1) subject to such exceptions and modifications as may be specified in such law, and no such law shall be deemed to be an amendment of this Constitution for the purposes of article 368.",
+      "key_terms": [
+        "blanket carve-out of Fifth/Sixth Schedule and tribal Northeast areas from Part IX",
+        "special-majority State-Assembly resolution route to opt in to Part IX",
+        "PESA extension route for Scheduled/tribal areas"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243M carves an entire category of areas out of Part IX by default — Fifth Schedule Scheduled Areas, Sixth Schedule tribal areas, Nagaland/Meghalaya/Mizoram, the District-Council hill areas of Manipur, the Darjeeling Gorkha Hill Council's district-level jurisdiction, and (for SC reservation specifically) Arunachal Pradesh — while opening two distinct routes back in: a State's own special-majority Assembly resolution for the Nagaland/Meghalaya/Mizoram category, or a Parliamentary law (with tailored exceptions/modifications) for Scheduled/tribal areas.",
+        "essential_elements": [
+          "Clause (1) excludes Fifth Schedule Scheduled Areas and Sixth Schedule tribal areas outright.",
+          "Clause (2) excludes Nagaland, Meghalaya, and Mizoram, plus Manipur's District-Council hill areas.",
+          "Clause (3) excludes only the district-level Panchayat tier from applying to Darjeeling's hill areas, preserving the Darjeeling Gorkha Hill Council's own functions and powers.",
+          "Clause (3A) is a narrower, single-subject carve-out exempting Arunachal Pradesh specifically from Article 243D's SC seat-reservation rule.",
+          "Clause (4)(a) lets a Nagaland/Meghalaya/Mizoram Legislature opt the whole Part back in via a resolution passed by a majority of total membership plus a two-thirds majority of members present and voting.",
+          "Clause (4)(b) lets Parliament extend the Part to Scheduled/tribal areas by ordinary law (not a constitutional amendment) with its own exceptions and modifications, and expressly this is not an Article 368 amendment."
+        ],
+        "exceptions_and_qualifications": [
+          "This Article is the constitutional gateway that necessitated the Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) — the Parliamentary law made under clause (4)(b) that extends a modified Panchayat scheme (with enhanced Gram Sabha powers over natural resources, minor forest produce, money-lending, etc.) to Fifth Schedule Scheduled Areas across several States.",
+          "The clause (4)(a) route requires a genuinely supermajoritarian internal decision by the excluded State's own Assembly — Part IX cannot be imposed on Nagaland, Meghalaya, or Mizoram from outside.",
+          "The Sixth Schedule areas (parts of Assam, Meghalaya, Tripura, Mizoram) already have their own autonomous district/regional council government structure under the Sixth Schedule itself, which is why Part IX simply does not apply there rather than needing an opt-out mechanism."
+        ],
+        "how_to_read": "Read Article 243M as defining the outer geographic boundary of ordinary Part IX Panchayati Raj — it does not mean these areas have no local self-government, but that their local self-government runs on separate constitutional tracks (Sixth Schedule councils, PESA-modified Panchayats, or State-specific arrangements) rather than the standard Article 243B-243-O scheme."
+      }
+    },
+    {
+      "number": "243N",
+      "title": "Continuance of existing laws and Panchayats",
+      "raw_text": "243N. Continuance of existing laws and Panchayats.—Notwithstanding anything in this Part, any provision of any law relating to Panchayats in force in a State immediately before the commencement of the Constitution (Seventy-third Amendment) Act, 1992, which is inconsistent with the provisions of this Part, shall continue to be in force until amended or repealed by a competent Legislature or other competent authority or until the expiration of one year from such commencement, whichever is earlier: Provided that all the Panchayats existing immediately before such commencement shall continue till the expiration of their duration, unless sooner dissolved by a resolution passed to that effect by the Legislative Assembly of that State or, in the case of a State having a Legislative Council, by each House of the Legislature of that State.",
+      "key_terms": [
+        "one-year transitional continuance of pre-1993 inconsistent Panchayat laws"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243N is a transitional savings clause: pre-existing State Panchayat laws that conflict with the new Part IX scheme stay valid for up to one year after the Seventy-third Amendment's commencement (or until sooner amended/repealed), and Panchayats already sitting when the Amendment commenced continue for their existing duration unless the State Legislature affirmatively dissolves them.",
+        "essential_elements": [
+          "Inconsistent pre-commencement Panchayat laws continue notwithstanding Part IX, but only temporarily.",
+          "That continuance ends at the earlier of: competent amendment/repeal, or one year from the Seventy-third Amendment's commencement.",
+          "The proviso separately protects already-existing Panchayats themselves (not just the laws), letting them run out their existing term.",
+          "Early dissolution of such a continuing Panchayat requires an affirmative Legislative Assembly resolution (both Houses, if the State has a Legislative Council)."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a one-time historical transitional provision tied to the 1992-93 commencement date and has no ongoing operative significance for law made after that one-year window closed — it is retained in the constitutional text as a historical record of how the transition to Part IX was managed.",
+          "It parallels the standard constitutional drafting technique of giving States a grace period to align pre-existing law with a newly inserted constitutional scheme, rather than causing an abrupt legal vacuum on commencement."
+        ],
+        "how_to_read": "Read Article 243N as a now-largely-spent transitional bridge — useful for understanding the 1992-93 changeover, but not a source of any live legal rule today."
+      }
+    },
+    {
+      "number": "243-O",
+      "title": "Bar to interference by courts in electoral matters",
+      "raw_text": "243-O. Bar to interference by courts in electoral matters.—Notwithstanding anything in this Constitution,—\n(a) the validity of any law relating to the delimitation of constituencies or the allotment of seats to such constituencies, made or purporting to be made under article 243K, shall not be called in question in any court;\n(b) no election to any Panchayat shall be called in question except by an election petition presented to such authority and in such manner as is provided for by or under any law made by the Legislature of a State.",
+      "key_terms": [
+        "delimitation-law judicial-review bar for Panchayat elections",
+        "election-petition-only channel for challenging Panchayat elections"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 243-O closes Part IX with the same two-part electoral-non-interference bar familiar from Article 329 for Parliamentary/State Legislature elections: delimitation and seat-allotment laws made under Article 243K cannot be challenged in any court at all, and an actual Panchayat election can only be challenged through an election petition under State-enacted procedure — never through ordinary writ or civil litigation.",
+        "essential_elements": [
+          "Clause (a) is an absolute bar — delimitation/seat-allotment law validity under Article 243K cannot be questioned in any court.",
+          "Clause (b) channels all election-validity challenges exclusively through an election petition mechanism.",
+          "The election petition's presenting authority and procedure are left entirely to State legislation.",
+          "The 'notwithstanding anything in this Constitution' opening overrides even the general writ jurisdiction of High Courts under Article 226 and the Supreme Court under Article 32 for these specific matters."
+        ],
+        "exceptions_and_qualifications": [
+          "This directly mirrors Article 329(b)'s bar on questioning Parliamentary/State Legislature elections outside an election petition — the Supreme Court's Article 329 jurisprudence (holding that the bar operates only once the electoral process has actually begun, and that pre-election stages can still be challenged by writ) is the natural interpretive analogy courts draw on for Article 243-O.",
+          "The bar targets election validity specifically — it does not oust judicial review of the underlying State Panchayat election law's constitutionality on grounds unrelated to a specific election's conduct.",
+          "Because the election petition authority and procedure are State-law creatures under clause (b), the specific forum (a civil court, a tribunal, or an Election Commission-designated authority) varies by State."
+        ],
+        "how_to_read": "Read Article 243-O as Part IX's finality guarantee for the electoral process — it protects the tight election timelines mandated by Articles 243C-243E from being derailed by litigation, by confining all electoral disputes to a single, State-prescribed post-election channel."
       }
     }
   ]
