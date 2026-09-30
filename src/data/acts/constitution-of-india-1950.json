@@ -77,7 +77,31 @@
     "abolition of titles": "The prohibition in Article 18(1) on the State conferring titles (other than military or academic distinctions), reflecting rejection of the colonial-era practice of conferring hereditary or honorific titles as instruments of social hierarchy.",
     "military or academic distinction": "The category of honour expressly excluded from Article 18(1)'s prohibition, permitting the State to continue conferring gallantry awards, academic degrees, and similar merit-based distinctions that are not treated as prohibited 'titles'.",
     "office of profit or trust": "A position of authority or responsibility held under the State, referenced in Article 18(3)-(4) as the trigger for requiring presidential consent before its holder may accept a foreign title, present, emolument, or office.",
-    "consent of the President (Article 18)": "The safeguard required under Article 18(3) and (4) before a non-citizen holding a State office of profit/trust may accept a foreign title, or before any holder of such an office may accept a foreign present, emolument, or office."
+    "consent of the President (Article 18)": "The safeguard required under Article 18(3) and (4) before a non-citizen holding a State office of profit/trust may accept a foreign title, or before any holder of such an office may accept a foreign present, emolument, or office.",
+    "six freedoms under Article 19(1)": "The six substantive liberties guaranteed to citizens by Article 19(1): speech and expression, peaceable unarmed assembly, forming associations/unions/co-operative societies, free movement in India, residence anywhere in India, and freedom to practise a profession or carry on occupation, trade, or business.",
+    "reasonable restrictions": "The judicially reviewable standard under Article 19's clauses (2)-(6) requiring that any State restriction on a clause (1) freedom be proportionate, non-arbitrary, and genuinely connected to the permitted ground invoked — not merely any limitation the legislature chooses to impose.",
+    "sub-clause (f) omitted (right to property)": "The original Article 19(1)(f), guaranteeing the right to acquire, hold, and dispose of property, which was omitted by the Constitution (Forty-fourth Amendment) Act, 1978, demoting property to the non-fundamental constitutional right under Article 300A.",
+    "sovereignty and integrity of India": "One of the specific permissible grounds, inserted in 1963, on which the State may impose reasonable restrictions on the freedoms of speech (Art 19(2)), assembly (19(3)), and association (19(4)) under Article 19.",
+    "public order decency or morality": "A recurring cluster of permissible grounds across Article 19's restriction clauses (speech, assembly, association, movement/residence, profession) allowing the State to restrict the relevant freedom to preserve public order, decency, or morality.",
+    "contempt of court defamation incitement": "Specific grounds unique to Article 19(2) (the speech-restriction clause) permitting reasonable restrictions on free speech in relation to contempt of court, defamation, or incitement to an offence.",
+    "State monopoly in trade or business": "The permission under Article 19(6)(ii) allowing the State, or a State-owned/controlled corporation, to carry on any trade, business, industry, or service to the complete or partial exclusion of citizens, without this being treated as an unreasonable restriction on Article 19(1)(g).",
+    "protection against ex post facto law": "The Article 20(1) guarantee that no person may be convicted for an act that was not an offence under the law in force when committed, nor subjected to a penalty greater than what that contemporaneous law prescribed.",
+    "double jeopardy": "The Article 20(2) protection against being prosecuted and punished more than once for the same offence, requiring both a prior prosecution and an actual prior punishment for the identical offence to bar a repeat prosecution.",
+    "protection against self-incrimination": "The Article 20(3) privilege protecting an accused person from being compelled to be a witness against himself, shielding against coerced testimonial self-incrimination in criminal proceedings.",
+    "procedure established by law": "The standard in Article 21 under which the State may deprive a person of life or personal liberty only through a legally enacted procedure — now understood, post-Maneka Gandhi v. Union of India, to require that such procedure itself be fair, just, and reasonable.",
+    "right to life": "The Article 21 guarantee, interpreted expansively by courts to mean not mere animal existence but a life of dignity, encompassing numerous unenumerated rights such as privacy, livelihood, health, clean environment, and shelter.",
+    "personal liberty": "The second limb of Article 21's protection, covering freedom from arbitrary bodily restraint and encompassing a wide array of judicially recognised liberties beyond mere freedom from physical confinement.",
+    "due process expansion (post-Maneka Gandhi)": "The transformation of Article 21 jurisprudence following Maneka Gandhi v. Union of India (1978), which held that the 'procedure established by law' must itself satisfy standards of fairness and reasonableness, and that Articles 14, 19, and 21 operate together rather than as isolated silos.",
+    "right to education": "The Article 21A fundamental right, inserted in 2002, obliging the State to provide free and compulsory education to children aged six to fourteen, implemented through the Right of Children to Free and Compulsory Education Act, 2009.",
+    "free and compulsory education": "The specific character of the education the State must provide under Article 21A — free of cost to the child/family, and mandatory, not merely available on an optional basis.",
+    "age six to fourteen years": "The specific age bracket of children to whom the Article 21A right to free and compulsory education applies.",
+    "grounds of arrest disclosure": "The Article 22(1) protection requiring that an arrested person be informed, as soon as may be, of the grounds for their arrest, applicable to ordinary (non-preventive-detention) arrests.",
+    "right to consult legal practitioner": "The Article 22(1) protection guaranteeing an arrested person the right to consult, and be defended by, a legal practitioner of their own choice, applicable to ordinary arrests.",
+    "twenty-four hour production before magistrate": "The Article 22(2) requirement that a person arrested and detained in custody be produced before the nearest magistrate within twenty-four hours of arrest (excluding travel time), with no further custody permitted without magisterial authorisation.",
+    "enemy alien exception": "The carve-out in Article 22(3)(a) excluding a person who is, for the time being, an enemy alien from the ordinary arrest protections in Article 22(1)-(2).",
+    "preventive detention": "Detention of a person to prevent anticipated future harm or wrongdoing, rather than to punish an offence already committed, governed by the distinct and narrower safeguards in Article 22(3)-(7) rather than the ordinary-arrest protections in Article 22(1)-(2).",
+    "Advisory Board (Article 22)": "A board comprising persons who are, have been, or are qualified to be High Court Judges, whose certification of 'sufficient cause' is required under Article 22(4) before a preventive detention can ordinarily continue beyond three months.",
+    "representation against detention order": "The Article 22(5) right of a person detained under a preventive detention order to be given the grounds of detention and the earliest opportunity to make a representation against that order, subject to the public-interest non-disclosure carve-out in clause (6)."
   },
   "sections": [
     {
@@ -522,6 +546,134 @@
           "Presidential consent under clauses (3) and (4) is a case-specific safeguard, not a blanket permission — each acceptance requires its own consent"
         ],
         "how_to_read": "Cite Article 18 whenever a dispute involves the constitutionality of State-conferred honours (distinguishing genuine 'titles' from permitted awards/distinctions) or a foreign-honours-acceptance controversy involving a public office-holder — the operative question is always whether presidential consent under clauses (3)/(4) was sought where required."
+      }
+    },
+    {
+      "number": "19",
+      "title": "Protection of certain rights regarding freedom of speech, etc.",
+      "raw_text": "(1) All citizens shall have the right— (a) to freedom of speech and expression; (b) to assemble peaceably and without arms; (c) to form associations or unions or co-operative societies; (d) to move freely throughout the territory of India; (e) to reside and settle in any part of the territory of India; and (g) to practise any profession, or to carry on any occupation, trade or business. (2) Nothing in sub-clause (a) of clause (1) shall affect the operation of any existing law, or prevent the State from making any law, in so far as such law imposes reasonable restrictions on the exercise of the right conferred by the said sub-clause in the interests of the sovereignty and integrity of India, the security of the State, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence. (3) Nothing in sub-clause (b) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the sovereignty and integrity of India or public order, reasonable restrictions on the exercise of the right conferred by the said sub-clause. (4) Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the sovereignty and integrity of India or public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause. (5) Nothing in sub-clauses (d) and (e) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe. (6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to,— (i) the professional or technical qualifications necessary for practising any profession or carrying on any occupation, trade or business, or (ii) the carrying on by the State, or by a corporation owned or controlled by the State, of any trade, business, industry or service, whether to the exclusion, complete or partial, of citizens or otherwise.",
+      "key_terms": [
+        "six freedoms under Article 19(1)",
+        "reasonable restrictions",
+        "sub-clause (f) omitted (right to property)",
+        "sovereignty and integrity of India",
+        "public order decency or morality",
+        "contempt of court defamation incitement",
+        "State monopoly in trade or business"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 19(1) is the Constitution's core bundle of individual liberties for citizens: speech and expression, peaceable unarmed assembly, forming associations/unions/co-operative societies, free movement throughout India, residing and settling anywhere in India, and practising any profession or carrying on any occupation, trade, or business (the original property-right sub-clause (f) was removed in 1978, when the right to property was demoted from a fundamental right to Article 300A). None of these six freedoms is absolute — clauses (2) through (6) are mirror-image 'restriction clauses', one for each surviving sub-clause, letting the State impose 'reasonable restrictions' on specified public-interest grounds. Crucially, the grounds differ freedom by freedom (speech's grounds under clause 2 are the most numerous and specific, including sovereignty/integrity, State security, foreign relations, public order, decency/morality, contempt of court, defamation, and incitement to an offence), so each sub-clause must be checked against its own tailored restriction clause.",
+        "essential_elements": [
+          "Clause (1) lists six substantive freedoms: speech/expression (a), peaceable assembly (b), association/union/co-operative society (c), movement (d), residence (e), and profession/occupation/trade/business (g)",
+          "Each restriction clause (2)-(6) is specific to one sub-clause and lists its own distinct permissible grounds for restriction",
+          "Restrictions must be 'reasonable' — an independent, judicially reviewable standard, not merely any restriction the State chooses to impose",
+          "Clause (6) additionally permits State monopolies (wholly or partly excluding citizens) in trade, business, industry, or service"
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-clause (f) (the original right to acquire, hold, and dispose of property) was omitted by the Forty-fourth Amendment Act, 1978, and is no longer a Part III fundamental right — property is now protected only as a constitutional (not fundamental) right under Article 300A",
+          "The 'reasonableness' of a restriction is tested by courts considering the nature of the right, the extent and urgency of the evil sought to be remedied, proportionality of the restriction, and the manner of its imposition — not left to unreviewable legislative discretion",
+          "These six freedoms are available only to citizens, unlike Articles 14, 20, 21, and 22 which extend more broadly to 'persons'"
+        ],
+        "how_to_read": "When analysing an Article 19 challenge, always identify (i) which specific sub-clause of clause (1) is invoked, (ii) whether the challenged restriction falls within that sub-clause's own tailored restriction clause (2)-(6), and (iii) whether the restriction is 'reasonable' on the facts — a restriction valid for one sub-clause's grounds cannot be borrowed to justify restricting a different freedom."
+      }
+    },
+    {
+      "number": "20",
+      "title": "Protection in respect of conviction for offences",
+      "raw_text": "(1) No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the Act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence. (2) No person shall be prosecuted and punished for the same offence more than once. (3) No person accused of any offence shall be compelled to be a witness against himself.",
+      "key_terms": [
+        "protection against ex post facto law",
+        "double jeopardy",
+        "protection against self-incrimination"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 20 provides three distinct criminal-law protections available to 'any person' (citizen or not), all non-suspendable even during a proclamation of Emergency. Clause (1) bars ex post facto criminal laws — a person cannot be convicted for an act that was not an offence when committed, nor punished more severely than the law in force at that time allowed. Clause (2) is the double jeopardy protection — no repeated prosecution and punishment for the same offence once already prosecuted and punished for it. Clause (3) is the privilege against self-incrimination — an accused person cannot be compelled to testify against themselves.",
+        "essential_elements": [
+          "Clause (1): applies only to the imposition of criminal liability/penalty for an act not an offence at the time, or a penalty exceeding what the law then prescribed — it does not bar retrospective civil laws or procedural changes",
+          "Clause (2): 'prosecuted and punished' requires both a prior prosecution AND punishment for the very same offence — a mere prior prosecution that did not result in punishment does not trigger this bar",
+          "Clause (3): the compulsion must be to be a witness 'against himself' — it protects against compelled self-incriminatory testimonial communication, not all forms of evidence gathering (e.g., producing certain physical evidence, subject to scrutiny)"
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (1) does not prevent a change in criminal procedure being applied retrospectively — only substantive offence-creation and penalty-enhancement are barred retrospectively",
+          "Clause (2)'s double jeopardy protection is narrower than some other jurisdictions' — it requires actual prior punishment, not merely a prior trial or acquittal (contrast with the statutory protection in the Cr.P.C./BNSS against second trial after acquittal or conviction)",
+          "Article 20's three protections are among the very few fundamental rights that Article 359 does not permit to be suspended during a National Emergency"
+        ],
+        "how_to_read": "Article 20 is the standard citation for challenging retrospective criminal legislation (clause 1), a second prosecution for an identical offence already punished (clause 2), or coerced confessions/testimony (clause 3) — always confirm these protections remain available even during an Emergency, unlike most other Part III rights."
+      }
+    },
+    {
+      "number": "21",
+      "title": "Protection of life and personal liberty",
+      "raw_text": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+      "key_terms": [
+        "procedure established by law",
+        "right to life",
+        "personal liberty",
+        "due process expansion (post-Maneka Gandhi)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 21, in just one sentence, has become the single most expansively interpreted provision of the Indian Constitution. On its face, it only guarantees that the State cannot deprive any person of life or personal liberty except through a 'procedure established by law' — originally read (in A.K. Gopalan) as merely requiring that some valid enacted procedure exist, however harsh. This changed fundamentally after Maneka Gandhi v. Union of India (1978), which held that the 'procedure' itself must be fair, just, and reasonable (effectively importing a due-process-like standard) and that Articles 14, 19, and 21 are interlinked, not mutually exclusive silos. Since then, courts have read into 'life' and 'personal liberty' a vast range of unenumerated rights — including privacy, dignity, livelihood, health, a clean environment, speedy trial, legal aid, and shelter, among many others.",
+        "essential_elements": [
+          "Applies to 'any person' (not just citizens), and protects both 'life' and 'personal liberty'",
+          "Deprivation must follow a 'procedure established by law' — post-Maneka Gandhi, that procedure must itself be fair, just, and reasonable, not merely enacted",
+          "The right has been judicially expanded to encompass numerous unenumerated rights considered essential to a life of dignity"
+        ],
+        "exceptions_and_qualifications": [
+          "Pre-Maneka Gandhi jurisprudence (A.K. Gopalan v. State of Madras) treated 'procedure established by law' as a narrower guarantee than American 'due process of law', focused on mere existence of enacted procedure rather than its substantive fairness — this narrow view no longer represents the law",
+          "The right to privacy was expressly recognised as intrinsic to Article 21 (and Part III generally) in K.S. Puttaswamy v. Union of India (2017), a landmark 9-judge bench decision"
+        ],
+        "how_to_read": "Treat Article 21 as the Constitution's residuary reservoir of substantive liberty — when no other specific fundamental right precisely fits a claim involving bodily autonomy, dignity, livelihood, or procedural fairness in deprivation of liberty, Article 21 (read with the post-Maneka Gandhi fairness standard) is very likely the applicable provision, and always check whether the 'procedure' under challenge would itself survive a fairness/reasonableness test, not merely whether a procedure exists on paper."
+      }
+    },
+    {
+      "number": "21A",
+      "title": "Right to education",
+      "raw_text": "The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.",
+      "key_terms": [
+        "right to education",
+        "free and compulsory education",
+        "age six to fourteen years"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 21A, inserted in 2002, elevates elementary education from a mere Directive Principle (it was previously only aspirational under Article 45) to an enforceable fundamental right. It obliges the State to provide free and compulsory education to every child aged six to fourteen, with the precise implementation manner left to be determined by law — which Parliament did through the Right of Children to Free and Compulsory Education Act, 2009 (the RTE Act).",
+        "essential_elements": [
+          "The right is age-bound: specifically children between six and fourteen years",
+          "The obligation is on 'the State' to provide education that is both free and compulsory",
+          "The 'manner' of providing this education is left to be determined by law — i.e., this Article is not fully self-executing without implementing legislation"
+        ],
+        "exceptions_and_qualifications": [
+          "Education for children below six or above fourteen (e.g., early childhood care, or secondary/higher education) is not directly guaranteed as a fundamental right under this Article, though early childhood care up to age six is separately addressed as a Directive Principle under the amended Article 45",
+          "The RTE Act, 2009 is the primary implementing legislation giving Article 21A operational content — including provisions on neighbourhood schools, 25% reservation for disadvantaged groups in private unaided schools, and prohibition of detention/expulsion up to a certain class"
+        ],
+        "how_to_read": "Article 21A must always be read together with the Right of Children to Free and Compulsory Education Act, 2009 for its practical content — the Article establishes the fundamental right in principle, but the Act supplies the operative rules (admission age, curriculum standards, private-school obligations, etc.)."
+      }
+    },
+    {
+      "number": "22",
+      "title": "Protection against arrest and detention in certain cases",
+      "raw_text": "(1) No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice. (2) Every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of the magistrate and no such person shall be detained in custody beyond the said period without the authority of a magistrate. (3) Nothing in clauses (1) and (2) shall apply— (a) to any person who for the time being is an enemy alien; or (b) to any person who is arrested or detained under any law providing for preventive detention. (4) No law providing for preventive detention shall authorise the detention of a person for a longer period than three months unless— (a) an Advisory Board consisting of persons who are, or have been, or are qualified to be appointed as, Judges of a High Court has reported before the expiration of the said period of three months that there is in its opinion sufficient cause for such detention: Provided that nothing in this sub-clause shall authorise the detention of any person beyond the maximum period prescribed by any law made by Parliament under sub-clause (b) of clause (7); or (b) such person is detained in accordance with the provisions of any law made by Parliament under sub-clauses (a) and (b) of clause (7). (5) When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order shall, as soon as may be, communicate to such person the grounds on which the order has been made and shall afford him the earliest opportunity of making a representation against the order. (6) Nothing in clause (5) shall require the authority making any such order as is referred to in that clause to disclose facts which such authority considers to be against the public interest to disclose. (7) Parliament may by law prescribe— (a) the circumstances under which, and the class or classes of cases in which, a person may be detained for a period longer than three months under any law providing for preventive detention without obtaining the opinion of an Advisory Board in accordance with the provisions of sub-clause (a) of clause (4); (b) the maximum period for which any person may in any class or classes of cases be detained under any law providing for preventive detention; and (c) the procedure to be followed by an Advisory Board in an inquiry under sub-clause (a) of clause (4).",
+      "key_terms": [
+        "grounds of arrest disclosure",
+        "right to consult legal practitioner",
+        "twenty-four hour production before magistrate",
+        "enemy alien exception",
+        "preventive detention",
+        "Advisory Board (Article 22)",
+        "representation against detention order"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 22 splits arrest/detention protections into two very different tracks. Clauses (1)-(2) protect ordinary (punitive) arrestees: the right to be told the grounds of arrest promptly, the right to consult and be defended by a lawyer of choice, and the right to be produced before a magistrate within 24 hours (excluding travel time), with no custody beyond that period without magisterial authorisation. Clause (3) carves out two categories from these protections entirely — enemy aliens, and anyone arrested/detained under a preventive detention law. Clauses (4)-(7) then set up a separate, more limited protective scheme specifically for preventive detention (confinement to prevent anticipated future harm, not to punish a past offence): ordinarily capping detention beyond three months unless an Advisory Board of High-Court-qualified persons certifies sufficient cause, requiring communication of detention grounds and an opportunity to make a representation (subject to a public-interest non-disclosure carve-out), and leaving Parliament to legislate the finer procedural details.",
+        "essential_elements": [
+          "Clauses (1)-(2) are the baseline protections for ordinary arrest: grounds disclosure, right to counsel, and 24-hour magistrate production",
+          "Clause (3) removes these baseline protections entirely for enemy aliens and for persons held under preventive detention laws",
+          "Clauses (4)-(7) substitute a different, narrower set of safeguards specifically for preventive detention: the three-month Advisory Board check, grounds communication, representation opportunity (clause 5), and a public-interest non-disclosure exception (clause 6)"
+        ],
+        "exceptions_and_qualifications": [
+          "Preventive detention is a striking constitutional anomaly — confinement without trial, justified by anticipated rather than committed wrongdoing — and Article 22's own safeguards for it are considerably weaker than the ordinary-arrest protections in clauses (1)-(2)",
+          "A Forty-fourth Amendment Act, 1978 substitution of clause (4) (shortening the default period to two months and reworking the Advisory Board composition) was enacted but has never been brought into force by notification, so the original three-month scheme printed here remains the operative law",
+          "The public-interest non-disclosure carve-out in clause (6) has been strictly construed by courts to prevent it from swallowing the representation right in clause (5)"
+        ],
+        "how_to_read": "Always separate an Article 22 analysis into the two tracks — first ask whether the detention is ordinary/punitive (clauses 1-2 apply in full) or preventive (clauses 3-7 apply instead, with the specific procedural safeguards of clauses 4-7 substituting for clauses 1-2) — and note that the harsher, unnotified 1978 amendment to clause (4) is not yet in force, so the original three-month/Advisory-Board text governs in practice."
       }
     }
   ]
