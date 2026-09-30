@@ -722,7 +722,16 @@
     "Governor's recommendation precondition for Article 199(1)(a)-(f) Bills/amendments": "The Article 207(1) rule requiring the Governor's prior recommendation before a Bill or amendment touching any Article 199(1)(a)-(f) financial subject matter can be introduced or moved, and barring such Bills from originating in the Legislative Council.",
     "tax-reduction/abolition amendment exemption from recommendation requirement": "The Article 207(1) proviso exempting amendments that would reduce or abolish a tax from needing the Governor's prior recommendation — the gatekeeping exists to control new or increased financial burdens, not to block relief.",
     "fines/fees/local-tax carve-out (financial Bills)": "The Article 207(2) rule, mirroring Article 199(2), that a Bill or amendment is not treated as touching Article 199(1)(a)-(f) financial subject matter merely because it imposes fines/penalties, licence/service fees, or lets a local authority tax for local purposes.",
-    "Governor's recommendation precondition for expenditure-involving Bills": "The Article 207(3) rule that any Bill which, once enacted, would involve expenditure from the State's Consolidated Fund cannot be passed by a House unless the Governor has recommended that House consider the Bill — broader than clause (1)'s specific subject-matter list and operative at the passage stage."
+    "Governor's recommendation precondition for expenditure-involving Bills": "The Article 207(3) rule that any Bill which, once enacted, would involve expenditure from the State's Consolidated Fund cannot be passed by a House unless the Governor has recommended that House consider the Bill — broader than clause (1)'s specific subject-matter list and operative at the passage stage.",
+    "House's own rule-making power for procedure/business": "The Article 208(1) power letting each House of a State Legislature make its own rules regulating its procedure and conduct of business, subject to the Constitution's other provisions.",
+    "pre-Constitution Provincial rules default (State Legislature)": "The Article 208(2) fallback rule that, until a House makes its own procedural rules, the corresponding pre-Constitution Province's rules and standing orders apply, as modified by the Speaker or Chairman as appropriate.",
+    "Governor's inter-House communication procedure rules": "The Article 208(3) power letting the Governor of a bicameral State, after consulting both the Speaker and the Chairman, make rules specifically governing communication procedure between the Assembly and the Council.",
+    "State law regulating financial-business procedure": "The Article 209 power letting a State Legislature enact law regulating the procedure and conduct of financial business (including appropriation Bills) for the purpose of its timely completion.",
+    "financial-business law's priority over Article 208 rules": "The Article 209 rule that a State financial-business procedure law prevails over any inconsistent Article 208 procedural rule or standing order.",
+    "State-official-language/Hindi/English business rule": "The Article 210(1) rule that State Legislature business must be transacted in the State's official language(s), Hindi, or English, overriding Part XVII but subject to Article 348's separate regime for courts and authoritative legal texts.",
+    "Speaker/Chairman's mother-tongue accommodation discretion": "The Article 210(1) proviso letting the Speaker or Chairman permit a member who cannot adequately express himself in the State's official language(s), Hindi, or English to address the House in his mother-tongue.",
+    "fifteen-year sunset on English (extendable by State law)": "The Article 210(2) default rule that English ceases to be an available language for State Legislature business fifteen years after the Constitution's commencement (1950), unless the State Legislature itself extends it by law — in practice, most States have so extended it.",
+    "extended sunset periods for specified States": "The two provisos to Article 210(2) granting specially extended default sunset periods — twenty-five years for Himachal Pradesh, Manipur, Meghalaya, and Tripura; forty years for Arunachal Pradesh, Goa, and Mizoram — reflecting those States' distinct linguistic landscapes at the time of their reorganisation/statehood."
   },
   "sections": [
     {
@@ -5905,6 +5914,71 @@
           "The tax-reduction/abolition proviso in clause (1) is a narrow, specific carve-out — it does not extend to amendments on the other Article 199(1) subject-matter categories (borrowing, Fund custody, appropriation, charged expenditure, or Fund receipts)."
         ],
         "how_to_read": "Read Article 207 as Article 117's precise State-level mirror, and read it as extending Article 198/199's Money-Bill-specific gatekeeping to the broader universe of any Bill touching State finances — together Articles 198, 199, and 207 ensure the executive controls the introduction of new financial burdens while the Legislature retains full power to scrutinise, discuss, and even cut them once properly introduced."
+      }
+    },
+    {
+      "number": "208",
+      "title": "Rules of procedure",
+      "raw_text": "(1) A House of the Legislature of a State may make rules for regulating, subject to the provisions of this Constitution, its procedure and the conduct of its business.\n(2) Until rules are made under clause (1), the rules of procedure and standing orders in force immediately before the commencement of this Constitution with respect to the Legislature for the corresponding Province shall have effect in relation to the Legislature of the State subject to such modifications and adaptations as may be made therein by the Speaker of the Legislative Assembly, or the Chairman of the Legislative Council, as the case may be.\n(3) In a State having a Legislative Council the Governor, after consultation with the Speaker of the Legislative Assembly and the Chairman of the Legislative Council, may make rules as to the procedure with respect to communications between the two Houses.",
+      "key_terms": [
+        "House's own rule-making power for procedure/business",
+        "pre-Constitution Provincial rules default (State Legislature)",
+        "Governor's inter-House communication procedure rules"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 208 is the State-level counterpart to Article 118, letting each House of a State Legislature make its own procedural rules (subject to constitutional constraints), defaulting to the corresponding pre-Constitution Province's rules (as modified by the Speaker/Chairman) until the House acts. A distinct, narrower rule-making power belongs to the Governor in bicameral States: after consulting both the Speaker and the Chairman, the Governor may make rules specifically governing how the two Houses communicate with each other — a function neither House can perform unilaterally since it concerns their mutual interaction.",
+        "essential_elements": [
+          "Clause (1): each House may make its own procedural rules, subject to the Constitution's other provisions.",
+          "Clause (2): absent such rules, the corresponding pre-Constitution Province's rules/standing orders apply, as modified by the Speaker or Chairman as appropriate.",
+          "Clause (3): only in bicameral States, the Governor — after consulting both the Speaker and the Chairman — may make rules on inter-House communication procedure."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (3)'s Governor rule-making power is narrow and specific to inter-House communication procedure — it does not give the Governor any general power to regulate either House's internal procedure, which remains each House's own domain under clauses (1)-(2)."
+        ],
+        "how_to_read": "Read Article 208 as Article 118's precise State-level mirror, and note clause (3) has no direct Union-level equivalent in quite the same form — Parliament's two Houses handle communications through joint rules made by the Houses themselves rather than gubernatorial/presidential rule-making."
+      }
+    },
+    {
+      "number": "209",
+      "title": "Regulation by law of procedure in the Legislature of the State in relation to financial business",
+      "raw_text": "The Legislature of a State may, for the purpose of the timely completion of financial business, regulate by law the procedure of, and the conduct of business in, the House or Houses of the Legislature of the State in relation to any financial matter or to any Bill for the appropriation of moneys out of the Consolidated Fund of the State, and, if and so far as any provision of any law so made is inconsistent with any rule made by the House or either House of the Legislature of the State under clause (1) of article 208 or with any rule or standing order having effect in relation to the Legislature of the State under clause (2) of that article, such provision shall prevail.",
+      "key_terms": [
+        "State law regulating financial-business procedure",
+        "financial-business law's priority over Article 208 rules"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 209 is the State-level counterpart to Article 119, letting the State Legislature enact law (a more durable, formal instrument than internal rules) specifically to speed up and regulate financial-business procedure — ensuring budgets and appropriation Bills don't get bogged down by ordinary procedural rules that weren't designed with the tight constitutional timelines of financial matters in mind. Such a law, once made, overrides any conflicting Article 208 procedural rule or standing order, reflecting Parliament's/State Legislature's preference for a directly enacted law's authority over a House's self-made internal rules when it comes to time-sensitive financial business.",
+        "essential_elements": [
+          "The State Legislature may enact law specifically regulating financial-business procedure, aimed at timely completion of such business.",
+          "Any inconsistency between this financial-business law and an Article 208 procedural rule/standing order is resolved in the law's favour — the law prevails."
+        ],
+        "exceptions_and_qualifications": [
+          "This power is confined to financial matters and appropriation Bills — it does not give the Legislature a general law-making power to override each House's ordinary procedural autonomy under Article 208 for non-financial business."
+        ],
+        "how_to_read": "Read Article 209 as Article 119's precise State-level mirror — a narrow, purpose-specific override mechanism ensuring financial business can be fast-tracked by law even against a House's own established procedural rules."
+      }
+    },
+    {
+      "number": "210",
+      "title": "Language to be used in the Legislature",
+      "raw_text": "(1) Notwithstanding anything in Part XVII, but subject to the provisions of article 348, business in the Legislature of a State shall be transacted in the official language or languages of the State or in Hindi or in English:\nProvided that the Speaker of the Legislative Assembly or Chairman of the Legislative Council, or person acting as such, as the case may be, may permit any member who cannot adequately express himself in any of the languages aforesaid to address the House in his mother-tongue.\n(2) Unless the Legislature of the State by law otherwise provides, this article shall, after the expiration of a period of fifteen years from the commencement of this Constitution, have effect as if the words \"or in English\" were omitted therefrom:\nProvided that in relation to the Legislatures of the States of Himachal Pradesh, Manipur, Meghalaya and Tripura this clause shall have effect as if for the words \"fifteen years\" occurring therein, the words \"twenty-five years\" were substituted:\nProvided further that in relation to the Legislatures of the States of Arunachal Pradesh, Goa and Mizoram, this clause shall have effect as if for the words \"fifteen years\" occurring therein, the words \"forty years\" were substituted.",
+      "key_terms": [
+        "State-official-language/Hindi/English business rule",
+        "Speaker/Chairman's mother-tongue accommodation discretion",
+        "fifteen-year sunset on English (extendable by State law)",
+        "extended sunset periods for specified States"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 210 is the State-level counterpart to Article 120, requiring State Legislature business to be conducted in the State's own official language(s), Hindi, or English — overriding Part XVII's general language provisions but still subject to Article 348 (which governs language in courts and for authoritative legal texts). The presiding officer retains discretion to let a member who genuinely cannot manage any of these languages address the House in his mother-tongue, a practical accommodation. English's availability as an option was originally meant to sunset fifteen years after the Constitution's commencement (1950) unless the State Legislature itself extended it by law, with several States (initially Himachal Pradesh, Manipur, Meghalaya, Tripura; later also Arunachal Pradesh, Goa, Mizoram) receiving specially extended sunset periods via later constitutional/statutory amendments given their distinct linguistic landscapes.",
+        "essential_elements": [
+          "Clause (1): business must be conducted in the State's official language(s), Hindi, or English, with presiding-officer discretion to permit mother-tongue speech for members who can't manage those options.",
+          "Clause (2): the default sunset removing English as an option after fifteen years from the Constitution's commencement, unless the State Legislature itself legislates to retain it.",
+          "The two provisos: specially extended sunset periods (twenty-five years, then forty years) for particular newer/linguistically distinct States."
+        ],
+        "exceptions_and_qualifications": [
+          "In practice, most States have exercised their clause (2) power to retain English by law, so the fifteen-year sunset rarely operates automatically as originally drafted — but the underlying constitutional mechanism remains State-law-reversible, not self-executing removal."
+        ],
+        "how_to_read": "Read Article 210 as Article 120's precise State-level mirror — always cross-reference Article 348 (the separate, stricter regime for court/legal-text language) since this Article's 'subject to article 348' qualifier means it does not touch judicial-proceedings language at all."
       }
     }
   ]
