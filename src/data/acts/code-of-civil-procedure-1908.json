@@ -238,7 +238,56 @@
     "Lok Adalat settlement": "Resolution of a dispute referred by a court under Section 89(2)(b) to a Lok Adalat, governed by Section 20(1) of the Legal Services Authority Act, 1987 and the rest of that Act.",
     "judicial settlement": "A Section 89 referral track in which the court sends a dispute to a suitable institution or person, who is then deemed a Lok Adalat and whose proceedings are governed by the Legal Services Authority Act, 1987.",
     "court-annexed mediation": "The Section 89(2)(d) track under which the court itself works to bring about a compromise between the parties through mediation, following prescribed procedure.",
-    "special case procedure": "The consent-based procedure under Section 90 and Order XXXVI by which parties who agree in writing on the facts can place a stated case before the court solely to obtain its opinion on the legal question involved."
+    "special case procedure": "The consent-based procedure under Section 90 and Order XXXVI by which parties who agree in writing on the facts can place a stated case before the court solely to obtain its opinion on the legal question involved.",
+    "public nuisance": "A wrongful act or condition that affects, or is likely to affect, the public at large or a section of it, rather than causing special damage to any one individual, and which Section 91 allows the Advocate-General or (with leave) two or more persons to sue over.",
+    "Advocate-General": "The principal law officer of a State, who under Sections 91 and 92 may institute suits to remedy public nuisances or breaches of public charitable/religious trusts without needing the Court's leave.",
+    "representative suit": "A suit instituted by or on behalf of persons having a common interest in the subject-matter, allowing relief for the benefit of a wider class without every member individually suing.",
+    "public trust": "An express or constructive trust created for public purposes of a charitable or religious nature, whose beneficiaries are the public or a section of it rather than named individuals, and which is subject to the special suit procedure under Section 92.",
+    "cy pres doctrine": "The equitable principle, codified in Section 92(3), allowing a Court to redirect the property or income of a public charitable or religious trust to a new but kindred purpose when the original purpose has been fulfilled, has failed, or cannot practically be carried out.",
+    "scheme suit": "A suit under Section 92 seeking the Court's settlement of a 'scheme' — a detailed set of directions — for the proper administration of a public charitable or religious trust.",
+    "removal of trustee": "One of the specific reliefs obtainable in a Section 92 suit, by which the Court removes a trustee found to have breached the trust or become otherwise unfit to continue.",
+    "Collector": "The chief revenue officer of a district, who under Section 93 may exercise the Advocate-General's powers under Sections 91 and 92 outside presidency-towns, with the State Government's previous sanction.",
+    "presidency-town": "A historical term referring to the original presidency cities (Calcutta, Bombay, Madras) where the Advocate-General's own powers under Sections 91 and 92 operate directly, as distinct from other areas where the Collector may be authorized to exercise those powers.",
+    "supplemental proceedings": "The interim and interlocutory measures enabled by Section 94 — arrest before judgment, security for property, temporary injunctions, receivers, and other just-and-convenient orders — aimed at preventing a defendant from defeating the ends of justice before the suit is finally decided.",
+    "arrest before judgment": "A supplemental proceeding under Section 94(a) and Order XXXVIII by which a defendant may be arrested and required to furnish security for appearance, to prevent him from evading the Court's process or defeating the decree.",
+    "temporary injunction": "An interim order under Section 94(c) and Order XXXIX restraining a party from doing a particular act during the pendency of a suit, to preserve the status quo or prevent irreparable harm before final adjudication.",
+    "receiver": "A person appointed by the Court under Section 94(d) and Order XL to take custody, manage, and preserve property that is the subject-matter of a suit, pending the suit's final outcome.",
+    "interlocutory order": "Any order made by a Court during the pendency of a suit, before the final decree, to regulate the proceedings or protect the parties' interests in the meantime — the residuary category covered by Section 94(e).",
+    "compensation for insufficient grounds": "The remedy under Section 95 allowing a defendant to claim, within the same suit, monetary compensation (up to fifty thousand rupees, capped by the Court's pecuniary jurisdiction) where an arrest, attachment, or injunction was obtained against him on insufficient grounds, or where the plaintiff's suit failed for want of reasonable or probable cause.",
+    "malicious institution of suit": "The ground under Section 95(1)(b) for compensation, established where the plaintiff's suit fails and it appears there was no reasonable or probable ground for instituting it in the first place.",
+    "pecuniary jurisdiction cap": "The upper limit on the amount a Court can award or adjudicate, determined by the value of the subject-matter it is competent to try; Section 95's proviso caps compensation awards at this limit even though the section's own ceiling is fifty thousand rupees.",
+    "first appeal": "An appeal under Section 96 from a decree passed by a court of original (trial) jurisdiction, available as of right (subject to the section's own exceptions) without needing to show a substantial question of law, unlike a second appeal.",
+    "original decree": "A decree passed by a Court in the exercise of its original (trial-level) civil jurisdiction, as opposed to an appellate decree passed by a court hearing an appeal.",
+    "ex parte decree": "A decree passed against a defendant who failed to appear or contest the suit despite due service of summons; Section 96(2) confirms such a decree remains appealable under Section 96.",
+    "consent decree": "A decree passed by a Court recording the terms agreed between the parties themselves, which under Section 96(3) cannot be appealed since a consenting party is not an aggrieved party in the ordinary sense.",
+    "Courts of Small Causes": "Courts of limited pecuniary jurisdiction established to try small-value money claims summarily; decrees in suits of this nature, below the prescribed value, are appealable under Section 96(4) only on a question of law.",
+    "preliminary decree": "A decree that declares and settles the rights of the parties in a suit (such as shares in a partition or accounts) but leaves further steps to be worked out before the suit can be completely disposed of by a final decree.",
+    "final decree": "The decree that completely disposes of a suit by giving full effect to the rights already declared in an earlier preliminary decree — for example, by actually effecting a partition by metes and bounds.",
+    "precluded from disputing correctness": "The bar under Section 97 preventing a party who did not appeal a preliminary decree from later challenging its correctness when appealing the subsequent final decree in the same suit.",
+    "Division Bench": "A Bench of two (or more) Judges of a High Court hearing a matter together, whose decision-making process where opinions differ is governed by Section 98.",
+    "majority opinion": "Under Section 98(1), the view concurred in by more than half of the Judges on a Bench, which governs the decision of the appeal where the Judges are not unanimous.",
+    "reference on point of law": "The procedure under the proviso to Section 98(2) by which an evenly-split Bench differing specifically on a point of law may state that point and have it decided by one or more additional Judges of the same Court.",
+    "Letters Patent": "The royal charter (or its statutory successor instrument) establishing a chartered High Court and conferring on it its constitution and certain special jurisdictions, including historically the right of an intra-Court appeal from a Single Judge — now curtailed by Section 100A.",
+    "misjoinder": "The improper joining of parties or causes of action in a single suit who ought not to have been joined together; under Section 99, this alone is not a ground to reverse an otherwise correct decree unless it affected the merits or jurisdiction.",
+    "non-joinder": "The failure to join a party or cause of action that ought to have been included in the suit; under Section 99 this is generally not fatal on appeal unless the omitted party was a 'necessary party', which the proviso excepts from the section's protection.",
+    "curable irregularity": "A procedural defect, error, or irregularity in a suit's proceedings that did not affect the merits of the case or the Court's jurisdiction, and which Section 99 therefore treats as insufficient, by itself, to justify reversing or remanding a decree.",
+    "necessary party": "A person without whom no effective and complete decree can be passed in a suit; non-joinder of such a party is the one exception the proviso to Section 99 carves out from the general rule protecting decrees from reversal for joinder defects.",
+    "merits of the case": "The substantive rights and liabilities actually in dispute between the parties, as opposed to procedural or technical matters — the touchstone Section 99 uses to decide whether a defect is serious enough to justify reversing a decree.",
+    "prejudice test": "The standard under Section 99A requiring an appellant challenging a Section 47 execution order on account of a procedural error or irregularity to show that the error actually and prejudicially affected the decision of the case, not merely that some technical defect occurred.",
+    "Section 47 order": "An order passed by an executing Court under Section 47 determining questions relating to the execution, discharge, or satisfaction of a decree as between the parties to it; Section 99A restricts appellate interference with such orders to cases of demonstrated prejudice.",
+    "execution order appeal": "An appeal against an order passed by the executing Court under Section 47, which Section 99A shields from reversal for harmless procedural defects that did not prejudicially affect the case's outcome.",
+    "second appeal": "A further appeal to the High Court under Section 100 from a decree already passed in a first appeal, available only where the High Court is satisfied that the case involves a substantial question of law.",
+    "substantial question of law": "A question of law that is of general public importance, or directly and substantially affects the rights of the parties, and is not already conclusively settled by binding precedent; the sole gateway ground for a second appeal under Section 100.",
+    "formulation of question": "The mandatory step under Section 100(4) by which the High Court must precisely state the substantial question(s) of law it finds involved in a second appeal, before the appeal proceeds to final hearing confined to that question.",
+    "appellate decree": "A decree passed by a Court in the exercise of its appellate jurisdiction — i.e., in deciding a first appeal — as distinguished from an original decree passed by a trial court; it is this kind of decree that a second appeal under Section 100 challenges.",
+    "Letters Patent Appeal": "A historical intra-High-Court appeal from a judgment of a Single Judge to a Division Bench of the same High Court, exercised under the Court's Letters Patent; Section 100A now bars any such further appeal from a Single Judge's decision in appeals covered by that section.",
+    "Single Judge decision": "A judgment and decree delivered by one Judge of a High Court sitting alone in an appeal from an original or appellate decree or order; Section 100A makes such a decision final within the High Court, subject only to further appeal outside the High Court (e.g., to the Supreme Court) where otherwise available.",
+    "non-obstante clause": "A statutory clause beginning 'notwithstanding anything contained in...' that overrides any conflicting provision in other laws or instruments; Section 100A opens with such a clause to override contrary Letters Patent provisions.",
+    "exclusivity of Section 100 grounds": "The rule in Section 101 that a substantial question of law under Section 100 is the only permissible ground for a second appeal, foreclosing any attempt to argue a second appeal purely on facts or equitable grounds.",
+    "pecuniary bar to second appeal": "The absolute bar under Section 102 preventing any second appeal from a decree in a money-recovery suit where the subject-matter did not exceed twenty-five thousand rupees, regardless of whether a substantial question of law might otherwise exist.",
+    "money suit": "A suit instituted for the recovery of a sum of money, as distinguished from suits for other reliefs such as possession, injunction, or declaration; the pecuniary bar under Section 102 applies specifically to this category of suit.",
+    "issue of fact in second appeal": "A factual issue that the High Court may itself determine in a second appeal under Section 103, but only where it was left undetermined below or was wrongly decided due to an erroneous view of law, and only if the existing evidence on record is sufficient.",
+    "sufficiency of evidence on record": "The threshold condition under Section 103 requiring that the material already on the case record be adequate for the High Court to itself decide a necessary factual issue in second appeal, without the need for a remand for fresh evidence."
   },
   "sections": [
     {
@@ -2303,6 +2352,359 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "A streamlined, consent-based route to obtain judicial clarity on a legal question where the facts are not really in dispute — see Order XXXVI for the procedural mechanics of framing and trying a special case."
+      }
+    },
+    {
+      "number": "91",
+      "title": "Public nuisances and other wrongful acts affecting the public",
+      "raw_text": "(1) In the case of a public nuisance or other wrongful act affecting, or likely to affect, the public, a suit for a declaration and injunction or for such other relief as may be appropriate in the circumstances of the case, may be instituted,—\n(a) by the Advocate-General, or\n(b) with the leave of the Court, by two or more persons, even though no special damage has been caused to such persons by reason of such public nuisance or other wrongful act.\n(2) Nothing in this section shall be deemed to limit or otherwise affect any right of suit which may exist independently of its provisions.",
+      "key_terms": [
+        "public nuisance",
+        "Advocate-General",
+        "leave of the Court",
+        "representative suit"
+      ],
+      "breakdown": {
+        "plain_summary": "This section lets a suit be filed to stop a public nuisance or other wrongful act harming the public at large, even though no individual plaintiff has suffered any special, personal damage beyond what the general public suffers. Ordinarily a plaintiff must show a personal injury to have standing to sue; Section 91 creates a statutory exception for public wrongs.",
+        "essential_elements": [
+          "The wrong complained of must be a 'public nuisance' or 'other wrongful act' that affects, or is likely to affect, the public generally, not just the plaintiff.",
+          "The suit may be brought by the Advocate-General on his own authority, without needing the Court's leave.",
+          "Alternatively, it may be brought by two or more private persons, but only with the leave (permission) of the Court obtained before or at the institution of the suit.",
+          "The relief claimed is typically a declaration and an injunction, or such other relief as the circumstances warrant — not damages to the plaintiffs personally.",
+          "No proof of special damage to the plaintiffs is required — this is the section's core departure from ordinary civil suit standing."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-section (2) preserves any independent right of suit that already exists outside Section 91 — for instance, a person who has actually suffered special damage beyond the general public can still sue in their own right without needing Section 91 or the Court's leave.",
+          "Where two or more persons sue under clause (b) without having first obtained the leave of the Court, the suit is liable to be dismissed for want of the mandatory pre-condition."
+        ],
+        "how_to_read": "Read as the general public-interest-litigation gateway of the Code, predating and complementing the modern PIL jurisdiction of the High Courts and Supreme Court under Articles 226 and 32 of the Constitution. It is most often invoked for obstruction of public roads, encroachment on public land, and pollution or other environmental wrongs affecting a community."
+      }
+    },
+    {
+      "number": "92",
+      "title": "Public charities",
+      "raw_text": "(1) In the case of any alleged breach of any express or constructive trust created for public purposes of a charitable or religious nature, or where the direction of the Court is deemed necessary for the administration of any such trust, the Advocate-General, or two or more persons having an interest in the trust and having obtained the leave of the Court, may institute a suit, whether contentious or not, in the principal Civil Court of original jurisdiction or in any other Court empowered in that behalf by the State Government within the local limits of whose jurisdiction the whole or any part of the subject-matter of the trust is situate to obtain a decree:—\n(a) removing any trustee;\n(b) appointing a new trustee;\n(c) vesting any property in a trustee;\n(cc) directing a trustee who has been removed or a person who has ceased to be a trustee, to deliver possession of any trust property in his possession to the person entitled to the possession of such property;\n(d) directing accounts and inquiries;\n(e) declaring what proportion of the trust property or of the interest therein shall be allocated to any particular object of the trust;\n(f) authorizing the whole or any part of the trust property to be let, sold, mortgaged or exchanged;\n(g) settling a scheme; or\n(h) granting such further or other relief as the nature of the case may require.\n(2) Save as provided by the Religious Endowments Act, 1863, or by any corresponding law in force in the territories which, immediately before the 1st November, 1956, were comprised in Part B States, no suit claiming any of the reliefs specified in sub-section (1) shall be instituted in respect of any such trust as is therein referred to except in conformity with the provisions of that sub-section.\n(3) The Court may alter the original purposes of an express or constructive trust created for public purposes of a charitable or religious nature and allow the property or income of such trust or any portion thereof to be applied cy pres in one or more of the following circumstances, namely:—\n(a) where the original purposes of the trust, in whole or in part:—\n(i) have been, as far as may be, fulfilled; or\n(ii) cannot be carried out at all, or cannot be carried out according to the directions given in the instrument creating the trust or, where there is no such instrument, according to the spirit of the trust; or\n(b) where the original purposes of the trust provide a use for a part only of the property available by virtue of the trust; or\n(c) where the property available by virtue of the trust and other property applicable for similar purposes can be more effectively used in conjunction with, and to that end can suitably be made applicable to any other purpose, regard being had to the spirit of the trust and its applicability to common purposes; or\n(d) where the original purposes, in whole or in part, were laid down by reference to an area which then was, but has since ceased to be, a unit for such purposes; or\n(e) where the original purposes, in whole or in part, have, since they were laid down:—\n(i) been adequately provided for by other means, or\n(ii) ceased, as being useless or harmful to the community, or\n(iii) ceased to be, in law, charitable, or\n(iv) ceased in any other way to provide a suitable and effective method of using the property available by virtue of the trust, regard being had to the spirit of the trust.",
+      "key_terms": [
+        "public trust",
+        "cy pres doctrine",
+        "leave of the Court",
+        "scheme suit",
+        "removal of trustee"
+      ],
+      "breakdown": {
+        "plain_summary": "This section provides the special procedural gateway for suits about public charitable or religious trusts — removing or appointing trustees, settling a 'scheme' for administering the trust, or redirecting trust property to a new purpose when the original purpose has failed or become impossible (the cy pres doctrine in sub-section (3)). Like Section 91, it departs from ordinary suit rules because the beneficiaries of a public trust are the public at large, not identifiable individuals.",
+        "essential_elements": [
+          "There must be an alleged breach of an express or constructive trust created for public purposes of a charitable or religious nature, or a need for the Court's directions in administering such a trust.",
+          "The suit may be brought by the Advocate-General, or by two or more persons who have an interest in the trust and have obtained the Court's leave.",
+          "It must be filed in the principal Civil Court of original jurisdiction (or another Court empowered by the State Government) within whose local limits the trust property, wholly or partly, is situated.",
+          "The suit seeks one or more of the specific reliefs listed in clauses (a) to (h) — removal/appointment of trustees, vesting of property, accounts, allocation of trust property among objects, authorizing sale/lease/mortgage/exchange, settling a scheme, or other appropriate relief.",
+          "Under sub-section (3), the cy pres power to redirect trust property to a new but kindred purpose can only be exercised where one of the five specific circumstances in clauses (a) to (e) is shown to exist."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-section (2) makes Section 92 procedure mandatory (subject to the Religious Endowments Act, 1863 or corresponding State law) for any suit claiming the specific reliefs listed in sub-section (1) in respect of a public trust — a suit seeking those reliefs cannot bypass Section 92 by being framed as an ordinary suit.",
+          "Section 92 does not apply to suits asserting a purely private or individual right (such as a beneficiary's individual share) or to suits against persons who are strangers to the trust; it is confined to suits for the specific administrative reliefs concerning the trust as a whole.",
+          "A suit under this section is not necessarily contentious — it may proceed even where there is no real dispute, since its purpose can be simply to obtain the Court's directions for proper administration."
+        ],
+        "how_to_read": "This is the standard route for disputes over temples, mosques, churches, charitable endowments, and public trusts generally — practitioners must check at the threshold whether the plaintiff has obtained the Court's leave under sub-section (1) before institution, since want of leave is a common ground for dismissal or rejection."
+      }
+    },
+    {
+      "number": "93",
+      "title": "Exercise of powers of Advocate-General outside presidency-towns",
+      "raw_text": "The powers conferred by sections 91 and 92 on the Advocate-General may, outside the presidency-towns, be, with the previous sanction of the State Government, exercised also by the Collector or by such officer as the State Government may appoint in this behalf.",
+      "key_terms": [
+        "Advocate-General",
+        "Collector",
+        "presidency-town"
+      ],
+      "breakdown": {
+        "plain_summary": "Outside the old presidency-towns (Calcutta, Bombay, Madras), the Advocate-General's powers to institute suits under Sections 91 (public nuisance) and 92 (public charities) can also be exercised by the Collector of the district, or by another officer the State Government appoints for the purpose — with the State Government's prior sanction.",
+        "essential_elements": [
+          "Applies only outside the presidency-towns.",
+          "The State Government's previous sanction is required before the Collector or appointed officer can exercise the Advocate-General's Section 91/92 powers."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical delegation provision — in mofussil (non-presidency) areas, litigants and practitioners should check whether the Collector or a State-appointed officer, rather than the Advocate-General personally, is the one authorized to sue or consent under Sections 91 and 92."
+      }
+    },
+    {
+      "number": "94",
+      "title": "Supplemental proceedings",
+      "raw_text": "In order to prevent the ends of justice from being defeated the Court may, if it is so prescribed,—\n(a) issue a warrant to arrest the defendant and bring him before the Court to show cause why he should not give security for his appearance, and if he fails to comply with any order for security commit him to the civil prison;\n(b) direct the defendant to furnish security to produce any property belonging to him and to place the same at the disposal of the Court or order the attachment of any property;\n(c) grant a temporary injunction and in case of disobedience commit the person guilty thereof to the civil prison and order that his property be attached and sold;\n(d) appoint a receiver of any property and enforce the performance of his duties by attaching and selling his property;\n(e) make such other interlocutory orders as may appear to the Court to be just and convenient.",
+      "key_terms": [
+        "supplemental proceedings",
+        "arrest before judgment",
+        "security for appearance",
+        "temporary injunction",
+        "receiver",
+        "interlocutory order",
+        "civil prison"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 94 is the umbrella enabling provision for the Court's interim/interlocutory powers during the pendency of a suit — arrest before judgment, security for production of property, temporary injunctions, appointment of receivers, and other just-and-convenient interlocutory orders — all aimed at preventing a defendant from defeating the ultimate relief before the suit is decided. The actual detailed machinery for each of these powers is worked out in the corresponding Orders of the First Schedule (e.g., Order XXXVIII for arrest/attachment before judgment, Order XXXIX for temporary injunctions, Order XL for receivers).",
+        "essential_elements": [
+          "The overarching purpose stated in the section itself is to prevent the ends of justice from being defeated — this is the touchstone against which every exercise of these powers is tested.",
+          "The power under each clause is exercisable only 'if it is so prescribed' — meaning the specific procedural conditions in the relevant Order/Rule of the First Schedule must be satisfied; Section 94 alone does not supply the procedure.",
+          "Clause (a): arrest and require security for appearance, with civil imprisonment on default.",
+          "Clause (b): security to produce property, or attachment of property.",
+          "Clause (c): temporary injunctions, with civil imprisonment and attachment/sale of property on disobedience.",
+          "Clause (d): appointment of a receiver, enforceable by attachment and sale of the receiver's own property for default.",
+          "Clause (e): a residuary power for any other interlocutory order the Court considers just and convenient."
+        ],
+        "exceptions_and_qualifications": [
+          "Section 94 is procedural machinery, not a source of independent substantive right — a party must bring itself within the specific requirements of the corresponding Order (e.g., Order XXXVIII Rule 5 for attachment before judgment) before the Court will exercise the power."
+        ],
+        "how_to_read": "Section 94 is the doctrinal anchor cited alongside the specific Order/Rule whenever an interim application (arrest before judgment, attachment before judgment, temporary injunction, or receiver) is moved — practitioners plead the substantive Order/Rule for the detailed test, and cite Section 94 for the Court's underlying power and purpose."
+      }
+    },
+    {
+      "number": "95",
+      "title": "Compensation for obtaining arrest, attachment or injunction on insufficient grounds",
+      "raw_text": "(1) Where, in any suit in which an arrest or attachment has been effected or a temporary injunction granted under the last preceding section,—\n(a) it appears to the Court that such arrest, attachment or injunction was applied for on insufficient grounds, or\n(b) the suit of the plaintiff fails and it appears to the Court that there was no reasonable or probable grounds for instituting the same,\nthe defendant may apply to the Court, and the Court may, upon such application, award against the plaintiff by its order such amount not exceeding fifty thousand rupees, as it deems a reasonable compensation to the defendant for the expense or injury (including injury to reputation) caused to him:\nProvided that a Court shall not award, under this section an amount exceeding the limits of its pecuniary jurisdiction.\n(2) An order determining any such application shall bar any suit for compensation in respect of such arrest, attachment or injunction.",
+      "key_terms": [
+        "compensation for insufficient grounds",
+        "malicious institution of suit",
+        "pecuniary jurisdiction cap"
+      ],
+      "breakdown": {
+        "plain_summary": "This section is a built-in check on the interim powers of Section 94 — if a plaintiff obtains an arrest, attachment, or temporary injunction against a defendant on insufficient grounds, or the plaintiff's whole suit later fails for want of reasonable grounds, the defendant can apply in that very suit for compensation up to fifty thousand rupees, capped further by the Court's own pecuniary jurisdiction limit.",
+        "essential_elements": [
+          "There must have been an arrest, attachment, or temporary injunction actually granted under Section 94 in the suit.",
+          "Either: (a) the Court finds the application for that interim relief was made on insufficient grounds, or (b) the plaintiff's suit ultimately fails and there was no reasonable or probable ground for instituting it.",
+          "The defendant must make a specific application to the Court for compensation.",
+          "The maximum compensation is fifty thousand rupees, further capped at the Court's own pecuniary jurisdiction limit."
+        ],
+        "exceptions_and_qualifications": [
+          "An order determining a Section 95 compensation application operates as a complete bar to any separate suit for compensation (e.g., a suit for malicious prosecution/wrongful attachment) in respect of the same arrest, attachment, or injunction — the defendant cannot pursue both remedies."
+        ],
+        "how_to_read": "A defendant who has been arrested, had property attached, or been restrained by an injunction that later proves baseless should move a Section 95 application in the same suit rather than filing a fresh suit for damages — filing both, or filing a fresh suit after a Section 95 order, is barred by sub-section (2)."
+      }
+    },
+    {
+      "number": "96",
+      "title": "Appeal from original decree",
+      "raw_text": "(1) Save where otherwise expressly provided in the body of this Code or by any other law for the time being in force, an appeal shall lie from every decree passed by any Court exercising original jurisdiction the Court authorized to hear appeals from the decisions of such Court.\n(2) An appeal may lie from an original decree passed ex parte.\n(3) No appeal shall lie from a decree passed by the Court with the consent of parties.\n(4) No appeal shall lie, except on a question of law, from a decree in any suit of the nature cognisable by Courts of Small Causes, when the amount or value of the subject-matter of the original suit does not exceed ten thousand rupees.",
+      "key_terms": [
+        "first appeal",
+        "original decree",
+        "ex parte decree",
+        "consent decree",
+        "Courts of Small Causes"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the foundational provision creating the general right of first appeal against every decree passed by a trial court exercising original jurisdiction, unless the Code or some other law expressly bars it. It also carves out three important exceptions/clarifications: an ex parte decree can still be appealed (sub-section 2), a decree passed with the parties' consent cannot be appealed at all (sub-section 3), and small-cause-nature suits below the prescribed value can only be appealed on a question of law (sub-section 4).",
+        "essential_elements": [
+          "A decree must have been passed by a Court exercising original (trial-level) jurisdiction.",
+          "The appeal lies to the Court authorized by law to hear appeals from that Court's decisions.",
+          "The right of appeal exists unless expressly barred by the Code itself or by any other law in force.",
+          "Sub-section (2) confirms even an ex parte decree (passed in the defendant's absence) is appealable — the aggrieved defendant is not limited to only an application to set aside the ex parte decree.",
+          "Sub-section (3) bars appeal entirely where the decree was passed by consent of the parties, since a consenting party cannot later claim to be aggrieved by what it agreed to.",
+          "Sub-section (4) restricts appeals from decrees in small-cause-nature suits valued at ten thousand rupees or less to only a 'question of law', not questions of fact."
+        ],
+        "exceptions_and_qualifications": [
+          "The right of first appeal under Section 96 is a substantive right (not merely procedural), vesting at the date the suit is instituted — a subsequent amendment restricting appealability does not retrospectively take away an already-accrued right of appeal, per settled Supreme Court jurisprudence on the nature of appellate rights.",
+          "A consent decree can still be challenged, but not by way of a Section 96 appeal — the aggrieved party's remedy is a suit or application to set aside the decree on grounds such as fraud, lack of genuine consent, or absence of jurisdiction to record the compromise."
+        ],
+        "how_to_read": "Section 96 is the default entry point for challenging any trial-court decree; before drafting a memorandum of appeal, check whether the decree falls into one of the sub-section (3)/(4) restrictions (consent decree, or small-value small-cause suit) which would either bar the appeal altogether or confine it strictly to a question of law."
+      }
+    },
+    {
+      "number": "97",
+      "title": "Appeal from final decree where no appeal from preliminary decree",
+      "raw_text": "Where any party aggrieved by a preliminary decree passed after the commencement of this Code does not appeal from such decree, he shall be precluded from disputing its correctness in any appeal which may be preferred from the final decree.",
+      "key_terms": [
+        "preliminary decree",
+        "final decree",
+        "precluded from disputing correctness"
+      ],
+      "breakdown": {
+        "plain_summary": "In suits (such as partition or accounts suits) that proceed in two decree-stages — a preliminary decree settling rights, followed later by a final decree implementing those rights — a party who fails to appeal the preliminary decree cannot later reopen or challenge its correctness when appealing the final decree. The preliminary decree becomes conclusive as between the parties once the appeal period lapses without an appeal.",
+        "essential_elements": [
+          "There must be a preliminary decree passed after the commencement of the Code (1908), followed later by a final decree in the same suit.",
+          "The aggrieved party did not file any appeal against the preliminary decree within the limitation period.",
+          "That party is then barred from questioning the correctness of the preliminary decree's findings in a later appeal against the final decree."
+        ],
+        "exceptions_and_qualifications": [
+          "This bar applies only to the correctness of matters actually decided by the preliminary decree — issues not decided at the preliminary stage, or arising only at the final-decree stage, remain open to appeal."
+        ],
+        "how_to_read": "A critical timing trap for practitioners handling multi-stage suits (partition, accounts, pre-emption): any grievance against the preliminary decree's findings on shares, liability, or entitlement must be appealed immediately — waiting to challenge it via the final-decree appeal is fatal under Section 97."
+      }
+    },
+    {
+      "number": "98",
+      "title": "Decision where appeal heard by two or more Judges",
+      "raw_text": "(1) Where an appeal is heard by a Bench of two or more Judges, the appeal shall be decided in accordance with the opinion of such Judges or of the majority (if any) of such Judges.\n(2) Where there is no such majority which concurs in a judgment varying or reversing the decree appealed from, such decree shall be confirmed:\nProvided that where the Bench hearing the appeal is composed of two or other even number of Judges belonging to a Court consisting of more Judges than those constituting the Bench and the Judges composing the Bench differ in opinion on a point of law, they may state the point of law upon which they differ and the appeal shall then be heard upon that point only by one or more of the other Judges, and such point shall be decided according to the opinion of the majority (if any) of the Judges who have heard the appeal, including those who first heard it.\n(3) Nothing in this section shall be deemed to alter or otherwise affect any provision of the letters to patent of any High Court.",
+      "key_terms": [
+        "Division Bench",
+        "majority opinion",
+        "reference on point of law",
+        "Letters Patent"
+      ],
+      "breakdown": {
+        "plain_summary": "This section governs how a Division Bench (or larger Bench) of an appellate court resolves a difference of opinion among its Judges. If there is a majority view, that prevails. If the Bench splits evenly with no majority to vary or reverse, the decree under appeal stands confirmed by default. But where the split is specifically on a point of law, the Bench can instead refer just that point of law to one or more additional Judges for a majority resolution — this is the statutory root of the 'reference to a larger/third Judge' procedure familiar in High Court practice.",
+        "essential_elements": [
+          "Applies where an appeal is heard by a Bench of two or more Judges.",
+          "The appeal is decided according to the opinion of the Judges, or the majority view if they differ.",
+          "If no majority exists to vary or reverse the decree, the decree appealed from stands confirmed by operation of sub-section (2).",
+          "The proviso allows an even-numbered Bench differing specifically on a point of law to state that point and refer it to one or more other Judges of the same Court, with the ultimate result governed by the majority of all Judges who heard the appeal (including the original two)."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-section (3) preserves the special Letters Patent provisions of chartered High Courts governing reference in case of difference of opinion, which continue to operate alongside (not in place of) Section 98."
+        ],
+        "how_to_read": "This is the provision practitioners cite when a Division Bench delivers a split verdict — knowing whether the disagreement is purely on a point of law (triggering the proviso's reference mechanism) or more broadly on the decree's correctness (triggering the default-confirmation rule of sub-section (2)) determines the next procedural step."
+      }
+    },
+    {
+      "number": "99",
+      "title": "No decree to be reversed or modified for error or irregularity not affecting merits or jurisdiction",
+      "raw_text": "No decree shall be reversed or substantially varied, nor shall any case be remanded, in appeal on account of any misjoinder or non-joinder of parties or causes of action or any error, defect or irregularity in any proceedings in the suit, not affecting the merits of the case or the jurisdiction of the Court:\nProvided that nothing in this section shall apply to non-joinder of a necessary party.",
+      "key_terms": [
+        "misjoinder",
+        "non-joinder",
+        "curable irregularity",
+        "necessary party",
+        "merits of the case"
+      ],
+      "breakdown": {
+        "plain_summary": "This section embodies the principle that appellate courts should not overturn substantially correct decrees merely because of technical, non-prejudicial defects in the proceedings below — such as a wrong joinder of parties or causes of action, or a procedural irregularity — unless that defect actually affected the merits of the case or the trial court's jurisdiction. The one hard exception is the non-joinder of a truly 'necessary party' (one without whom no effective decree can be passed), which remains fatal even under this otherwise forgiving rule.",
+        "essential_elements": [
+          "The defect complained of on appeal must be a misjoinder or non-joinder of parties/causes of action, or some other error, defect, or irregularity in the suit proceedings.",
+          "That defect must not have affected the merits of the case or the jurisdiction of the trial Court — if it did, Section 99 provides no protection and the decree remains liable to be reversed, varied, or remanded.",
+          "Where the conditions are met, the appellate court is barred from reversing, substantially varying, or remanding the case purely on account of such a harmless defect."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso expressly excludes non-joinder of a necessary party from this protective rule — failure to implead a necessary party remains a ground on which a decree can be reversed or the suit dismissed, because no binding decree can effectively be passed in that party's absence."
+        ],
+        "how_to_read": "Section 99 is the standard shield an appellant-respondent invokes to resist a reversal sought purely on a technical/procedural ground; conversely, an appellant seeking reversal on a joinder defect must specifically show either prejudice to the merits, want of jurisdiction, or that the omitted party was a genuinely necessary (not merely proper) party."
+      }
+    },
+    {
+      "number": "99A",
+      "title": "No order under section 47 to be reversed or modified unless decision of the case is prejudicially affected",
+      "raw_text": "Without prejudice to the generality of the provisions of section 99, no order under section 47 shall be reversed or substantially varied, on account of any error, defect or irregularity in any proceeding relating to such order, unless such error, defect or irregularity has prejudicially affected the decision of the case.",
+      "key_terms": [
+        "prejudice test",
+        "Section 47 order",
+        "execution order appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "This section extends the same 'no reversal for harmless error' philosophy of Section 99 specifically to orders passed under Section 47 (questions relating to execution, discharge, or satisfaction of a decree, decided by the executing court). Such an order cannot be reversed or substantially varied on appeal for a procedural defect unless that defect actually prejudiced the decision of the case.",
+        "essential_elements": [
+          "The order under challenge must be one passed under Section 47 (execution, discharge, or satisfaction questions between the parties to the decree).",
+          "There must be some error, defect, or irregularity in the proceeding relating to that order.",
+          "The order cannot be reversed or substantially varied unless the error, defect, or irregularity has prejudicially affected the decision of the case — mere technical irregularity is not enough."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Invoked specifically in appeals from execution-related orders decided under Section 47 — the appellant carries the burden of demonstrating actual prejudice to the outcome, not just a procedural slip in the execution proceedings."
+      }
+    },
+    {
+      "number": "100",
+      "title": "Second appeal",
+      "raw_text": "(1) Save as otherwise expressly provided in the body of this Code or by any other law for the time being in force, an appeal shall lie to the High Court from every decree passed in appeal by any Court subordinate to the High Court, if the High Court is satisfied that the case involves a substantial question of law.\n(2) An appeal may lie under this section from an appellate decree passed ex parte.\n(3) In an appeal under this section, the memorandum of appeal shall precisely state the substantial question of law involved in the appeal.\n(4) Where the High Court is satisfied that a substantial question of law is involved in any case, it shall formulate that question.\n(5) The appeal shall be heard on the question so formulated and the respondent shall, at the hearing of the appeal, be allowed to argue that the case does not involve such question:\nProvided that nothing in this sub-section shall be deemed to take away or abridge the power of the Court to hear, for reasons to be recorded, the appeal on any other substantial question of law, not formulated by it, if it is satisfied that the case involves such question.",
+      "key_terms": [
+        "second appeal",
+        "substantial question of law",
+        "formulation of question",
+        "appellate decree"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 100 is the tightly-gated 'second appeal' provision — a further appeal to the High Court against a decree already passed in a first appeal, available only where the case involves a 'substantial question of law', not merely a disputed question of fact or a routine misapplication of settled law. The memorandum of appeal must precisely state that question, the High Court must formally 'formulate' it before final hearing, and the appeal proceeds on that formulated question alone (subject to a limited power to consider an unformulated additional substantial question of law).",
+        "essential_elements": [
+          "There must be a decree passed in (first) appeal by a Court subordinate to the High Court.",
+          "The High Court must be satisfied that the case involves a substantial question of law — a threshold gate, not automatic like Section 96's first-appeal right.",
+          "The memorandum of appeal must precisely state the substantial question of law relied upon (sub-section 3) — a defectively framed memorandum risks summary dismissal.",
+          "The High Court must formulate the substantial question(s) of law at the admission stage (sub-section 4); the appeal is thereafter heard confined to that formulated question (sub-section 5).",
+          "The respondent retains the right, at final hearing, to argue that the case does not actually involve the formulated question.",
+          "The proviso to sub-section (5) allows the High Court, for recorded reasons, to hear the appeal on an additional substantial question of law it did not originally formulate, if satisfied the case involves it."
+        ],
+        "exceptions_and_qualifications": [
+          "A pure question of fact, or a mixed question that does not rise to a 'substantial' question of law, cannot sustain a second appeal — concurrent findings of fact by the trial and first-appellate courts are ordinarily not reopened in second appeal.",
+          "'Substantial' means the question must be of general public importance, or must directly and substantially affect the rights of the parties, and must not already be settled by binding precedent — a question already conclusively answered by a Supreme Court ruling is not 'substantial' in this sense.",
+          "State Amendment (Kerala): adds a further specific ground — where the first-appellate court's finding on a material question of fact conflicts with the finding of the trial court on the same question — as itself capable of constituting a substantial question of law under Kerala's local amendment."
+        ],
+        "how_to_read": "The single most heavily litigated procedural threshold in CPC appellate practice: drafting the memorandum of appeal to precisely and persuasively frame a genuine 'substantial question of law' (not a disguised question of fact) is often outcome-determinative at the admission stage, since a large proportion of second appeals are dismissed in limine for failing this threshold."
+      }
+    },
+    {
+      "number": "100A",
+      "title": "No further appeal in certain cases",
+      "raw_text": "Notwithstanding anything contained in any Letters Patent for any High Court or in any instrument having the force of law or in any other law for the time being in force, where any appeal from an original or appellate decree or order is heard and decided by a Single Judge of a High Court, no further appeal shall lie from the judgment and decree of such Single Judge.",
+      "key_terms": [
+        "Letters Patent Appeal",
+        "Single Judge decision",
+        "non-obstante clause"
+      ],
+      "breakdown": {
+        "plain_summary": "This section abolishes the traditional 'Letters Patent Appeal' (an intra-High-Court appeal from a Single Judge to a Division Bench of the same High Court) in respect of any appeal from an original or appellate decree/order that was heard and decided by a Single Judge — the Single Judge's decision is final within the High Court, notwithstanding any contrary provision in the High Court's Letters Patent or other law.",
+        "essential_elements": [
+          "The non-obstante opening overrides any Letters Patent provision or other law that would otherwise allow a further intra-Court appeal.",
+          "Applies where an appeal (from an original or appellate decree or order) was heard and decided by a Single Judge of a High Court.",
+          "The consequence is an absolute bar: no further appeal lies from that Single Judge's judgment and decree within the High Court system."
+        ],
+        "exceptions_and_qualifications": [
+          "This bar is confined to appeals decided by a Single Judge; it does not affect the separate question of a further appeal (e.g., to the Supreme Court under Section 109 or Article 136) from a decision of a Division Bench."
+        ],
+        "how_to_read": "Practitioners in High Courts that traditionally had Letters Patent Appeal practice must check Section 100A first before assuming an LPA lies from a Single Judge's decision in a first or second appeal — this section forecloses that route."
+      }
+    },
+    {
+      "number": "101",
+      "title": "Second appeal on no other grounds",
+      "raw_text": "No second appeal shall lie except on the ground mentioned in section 100.",
+      "key_terms": [
+        "exclusivity of Section 100 grounds"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a short reinforcing provision making clear that a substantial question of law under Section 100 is the only permissible ground for a second appeal — no other ground (such as a pure factual grievance) can independently sustain one.",
+        "essential_elements": [
+          "A second appeal can be founded on no ground other than a substantial question of law as contemplated by Section 100."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Cited alongside Section 100 to rebuff attempts to argue a second appeal purely on facts or equity without a properly formulated substantial question of law."
+      }
+    },
+    {
+      "number": "102",
+      "title": "No second appeal in certain cases",
+      "raw_text": "No second appeal shall lie from any decree, when the subject matter of the original suit is for recovery of money not exceeding twenty-five thousand rupees.",
+      "key_terms": [
+        "pecuniary bar to second appeal",
+        "money suit"
+      ],
+      "breakdown": {
+        "plain_summary": "This section imposes an absolute pecuniary bar on second appeals in money suits: if the original suit was for recovery of money and the subject-matter did not exceed twenty-five thousand rupees, no second appeal lies at all — regardless of whether a substantial question of law might otherwise exist under Section 100.",
+        "essential_elements": [
+          "The original suit must have been for recovery of money (a money suit, not a suit for other reliefs like possession or injunction).",
+          "The subject-matter (amount claimed) must not exceed twenty-five thousand rupees.",
+          "Where both conditions are met, the bar is absolute — no second appeal lies, even on a substantial question of law."
+        ],
+        "exceptions_and_qualifications": [
+          "This bar applies specifically to money suits; suits for other reliefs (even if incidentally involving a small money component) are not automatically barred merely because a money element is below the threshold."
+        ],
+        "how_to_read": "A quick pecuniary-value check practitioners should run before advising a client on a second appeal in a money-recovery matter — below the threshold, the only available remedies are (where applicable) a revision or a constitutional writ, not a Section 100 second appeal."
+      }
+    },
+    {
+      "number": "103",
+      "title": "Power of High Court to determine issue of fact",
+      "raw_text": "In any second appeal, the High Court may, if the evidence on the record is sufficient, determine any issue necessary for the disposal of the appeal,—\n(a) which has not been determined by the lower Appellate Court or both by the Court of first instance and the lower Appellate Court, or\n(b) which has been wrongly determined by such Court or Courts by reason of a decision on such question of law as is referred to in section 100.",
+      "key_terms": [
+        "issue of fact in second appeal",
+        "sufficiency of evidence on record"
+      ],
+      "breakdown": {
+        "plain_summary": "Although second appeals are ordinarily confined to substantial questions of law, Section 103 gives the High Court a limited power to itself determine an issue of fact — but only where the existing evidence on record is sufficient to do so, and only in the two specific situations described: an issue left undetermined below, or one wrongly determined because of an erroneous view of law.",
+        "essential_elements": [
+          "The power is exercisable only in a second appeal already properly before the High Court under Section 100.",
+          "The evidence already on record must be sufficient for the High Court to determine the issue itself — if not, the proper course is remand, not decision under Section 103.",
+          "Ground (a): the issue was not determined at all, either by the lower appellate court, or by both the trial court and the lower appellate court.",
+          "Ground (b): the issue was determined, but wrongly, because of an erroneous decision on a question of law of the kind referred to in Section 100."
+        ],
+        "exceptions_and_qualifications": [
+          "This section does not convert the High Court into a fact-finding first-appellate forum generally — it is a narrow, fact-specific power exercisable only within these two situations and only on the existing record."
+        ],
+        "how_to_read": "Useful where remand would cause needless delay: if the record already contains sufficient material, counsel can urge the High Court to finally decide the necessary factual issue itself under Section 103 instead of remanding the matter for a fresh trial-court or first-appellate finding."
       }
     }
   ]
