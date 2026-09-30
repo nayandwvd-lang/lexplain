@@ -437,7 +437,22 @@
     "recess precondition for Ordinances": "The Article 123(1) requirement that the Ordinance power can only be exercised when both Houses of Parliament are not simultaneously in session — it is unavailable while Parliament is sitting.",
     "six-week expiry after Parliament's reassembly": "The Article 123(2)(a) automatic sunset rule under which an Ordinance ceases to operate six weeks after Parliament reassembles, unless converted into a permanent Act or earlier disapproved by both Houses, with the clock running from the later reassembly date if the Houses are summoned on different dates.",
     "disapproval resolutions by both Houses": "The Article 123(2)(a) mechanism by which an Ordinance can be terminated earlier than its six-week default expiry if both Houses of Parliament pass resolutions disapproving it, with the Ordinance ceasing to operate upon passage of the second such resolution.",
-    "Ordinance void if beyond Parliament's legislative competence": "The Article 123(3) rule that an Ordinance is void to the extent it contains any provision that Parliament itself would lack constitutional competence to enact as an ordinary law."
+    "Ordinance void if beyond Parliament's legislative competence": "The Article 123(3) rule that an Ordinance is void to the extent it contains any provision that Parliament itself would lack constitutional competence to enact as an ordinary law.",
+    "composition of the Supreme Court of India": "The Article 124(1) rule establishing the Supreme Court as consisting of a Chief Justice of India plus other Judges, a ceiling originally fixed at seven but expandable by Parliament by law and now standing at thirty-three additional Judges under the Supreme Court (Number of Judges) Amendment Act, 2019.",
+    "appointment of Supreme Court Judges": "The Article 124(2) process by which Supreme Court Judges are appointed by the President by warrant under his hand and seal — textually described as requiring 'consultation,' but in practice governed by the judicially evolved collegium system requiring the Chief Justice's effective concurrence following the Second and Third Judges Cases.",
+    "sixty-five-year retirement age (Supreme Court)": "The Article 124(2) mandatory retirement age of sixty-five for Supreme Court Judges, higher than the sixty-two-year retirement age fixed for High Court Judges under Article 217, with clause (2A) letting Parliament by law determine the authority and manner for resolving age disputes.",
+    "Supreme Court Judge eligibility criteria": "The Article 124(3) qualification requirements for Supreme Court appointment — Indian citizenship plus at least five years as a High Court Judge, or at least ten years as a High Court advocate, or being a distinguished jurist in the President's opinion.",
+    "distinguished jurist route to Supreme Court appointment": "The Article 124(3)(c) eligibility route allowing a person who is, in the President's opinion, a distinguished jurist (rather than a career judge or advocate) to be appointed a Supreme Court Judge — a route rarely if ever actually exercised in practice.",
+    "removal of a Supreme Court Judge (impeachment)": "The Article 124(4) quasi-impeachment removal procedure for a Supreme Court Judge, requiring an address by each House of Parliament supported by both an absolute majority of total membership and a two-thirds majority of members present and voting, presented to the President in the same session, on the ground of proved misbehaviour or incapacity.",
+    "proved misbehaviour or incapacity standard": "The sole constitutional ground under Article 124(4) for removing a Supreme Court (or, via Article 218, High Court) Judge — misbehaviour or incapacity that must be proved, with Parliament empowered under clause (5) to regulate the investigation and proof procedure by law.",
+    "post-retirement practice bar (Supreme Court Judges)": "The Article 124(7) permanent prohibition on any person who has held office as a Supreme Court Judge from pleading or acting in any court or before any authority within India's territory after leaving office.",
+    "National Judicial Appointments Commission (NJAC)": "The six-member body — the CJI, two senior Supreme Court Judges, the Union Law Minister, and two eminent persons — that Article 124A (inserted by the Ninety-Ninth Amendment, 2014) would have created to replace the collegium system for judicial appointments and transfers.",
+    "NJAC struck down as unconstitutional (2015)": "The Supreme Court's ruling in Supreme Court Advocates-on-Record Association v. Union of India (2015) declaring the NJAC scheme (Articles 124A-124C and the companion 2014 Act) unconstitutional as violating judicial independence under the basic structure doctrine, restoring the pre-existing collegium system as the operative appointment mechanism.",
+    "NJAC's recommendation functions (inoperative)": "The Article 124B description of the NJAC's intended duties — recommending appointments to the CJI-ship, Supreme Court and High Court Judgeships, and inter-High-Court transfers, plus screening for ability and integrity — rendered legally inoperative by the 2015 NJAC judgment.",
+    "Parliament's law-making power for NJAC procedure (inoperative)": "The Article 124C power that would have let Parliament legislate the NJAC's detailed appointment procedure and authorise the NJAC to frame its own regulations, exercised via the National Judicial Appointments Commission Act, 2014 — struck down together with Article 124A-124C in 2015 and no longer in legal force.",
+    "salaries of Supreme Court Judges": "The Article 125(1) rule that Supreme Court Judges' salaries are fixed by Parliament by law, defaulting to the Second Schedule figures absent such law.",
+    "Second Schedule default (Judges' salaries)": "The Article 125(1)-(2) fallback mechanism under which, absent a Parliamentary law fixing salaries, privileges, allowances, leave, or pension for Supreme Court Judges, the Second Schedule's specified figures apply by default — the same drafting pattern used for the President, Ministers, and presiding officers.",
+    "non-disadvantageous variation rule (Judges' privileges)": "The proviso to Article 125(2), guaranteeing that a Supreme Court Judge's privileges, allowances, leave-of-absence rights, and pension rights can never be varied to his disadvantage after his appointment — a structural financial-independence safeguard against retaliatory pay or benefit cuts."
   },
   "sections": [
     {
@@ -3561,6 +3576,119 @@
           "The repeated re-promulgation of an Ordinance without ever placing it before Parliament for a vote has been held unconstitutional as a colourable exercise of power circumventing the legislature (D.C. Wadhwa v. State of Bihar, 1987) — the 'satisfaction' precondition and the six-week/disapproval safeguards are not meant to be indefinitely evaded"
         ],
         "how_to_read": "Treat Article 123 as a temporary, session-gap-filling legislative power fully co-extensive with (and bound by the same competence limits as) ordinary Parliamentary law-making — the six-week expiry and disapproval-resolution mechanisms are the built-in safeguards against it becoming a permanent substitute for legislation, and repeated re-promulgation to dodge those safeguards is itself unconstitutional per Wadhwa."
+      }
+    },
+    {
+      "number": "124",
+      "title": "Establishment and constitution of Supreme Court",
+      "raw_text": "(1) There shall be a Supreme Court of India consisting of a Chief Justice of India and, until Parliament by law prescribes a larger number, of not more than seven other Judges (now thirty-three other Judges per the Supreme Court (Number of Judges) Amendment Act, 2019). (2) Every Judge of the Supreme Court shall be appointed by the President by warrant under his hand and seal and shall hold office until he attains the age of sixty-five years. Provided that— (a) a Judge may, by writing under his hand addressed to the President, resign his office; (b) a Judge may be removed from his office in the manner provided in clause (4). (2A) The age of a Judge of the Supreme Court shall be determined by such authority and in such manner as Parliament may by law provide. (3) A person shall not be qualified for appointment as a Judge of the Supreme Court unless he is a citizen of India and— (a) has been for at least five years a Judge of a High Court or of two or more such Courts in succession; or (b) has been for at least ten years an advocate of a High Court or of two or more such Courts in succession; or (c) is, in the opinion of the President, a distinguished jurist. Explanation I.—In this clause \"High Court'' means a High Court which exercises, or which at any time before the commencement of this Constitution exercised, jurisdiction in any part of the territory of India. Explanation II.—In computing for the purpose of this clause the period during which a person has been an advocate, any period during which a person has held judicial office not inferior to that of a district judge after he became an advocate shall be included. (4) A Judge of the Supreme Court shall not be removed from his office except by an order of the President passed after an address by each House of Parliament supported by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting has been presented to the President in the same session for such removal on the ground of proved misbehaviour or incapacity. (5) Parliament may by law regulate the procedure for the presentation of an address and for the investigation and proof of the misbehaviour or incapacity of a Judge under clause (4). (6) Every person appointed to be a Judge of the Supreme Court shall, before he enters upon his office, make and subscribe before the President, or some person appointed in that behalf by him, an oath or affirmation according to the form set out for the purpose in the Third Schedule. (7) No person who has held office as a Judge of the Supreme Court shall plead or act in any court or before any authority within the territory of India.",
+      "key_terms": [
+        "composition of the Supreme Court of India",
+        "appointment of Supreme Court Judges",
+        "sixty-five-year retirement age (Supreme Court)",
+        "Supreme Court Judge eligibility criteria",
+        "distinguished jurist route to Supreme Court appointment",
+        "removal of a Supreme Court Judge (impeachment)",
+        "proved misbehaviour or incapacity standard",
+        "post-retirement practice bar (Supreme Court Judges)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 124 is the foundational provision establishing the Supreme Court of India itself — its composition (a Chief Justice plus a Parliament-expandable number of other Judges, now 33 following 2019 legislation, up from the original 7), how Judges are appointed and for how long they serve (until 65, unlike High Court Judges' 62 under Article 217), who is even eligible (a High Court Judge of 5+ years, a High Court advocate of 10+ years, or a 'distinguished jurist' in the President's opinion), and the extraordinarily high bar for removing one (a quasi-impeachment process requiring both an absolute majority AND a two-thirds present-and-voting majority in each House, on grounds of 'proved misbehaviour or incapacity' — no sitting Judge has ever actually been removed under this clause). Clause (2)'s original text envisioned appointment 'after consultation' with other Judges — but the Supreme Court's own jurisprudence (the 'Second' and 'Third Judges Cases,' 1993 and 1998) reinterpreted 'consultation' as requiring the Chief Justice's 'concurrence' via a collegium of senior Judges, effectively giving the judiciary primacy over the President/executive in appointments — the collegium system remains the operative practice today, since the 2014 attempt to replace it (Article 124A's National Judicial Appointments Commission) was itself struck down as unconstitutional in 2015.",
+        "essential_elements": [
+          "The Supreme Court consists of the Chief Justice of India plus other Judges, a number Parliament may increase by law (now 33 additional Judges per 2019 legislation, up from the original ceiling of 7)",
+          "Judges are appointed by Presidential warrant and hold office until age 65 (clause 2A lets Parliament by law determine the authority/manner for determining that age, addressing age disputes)",
+          "Eligibility requires Indian citizenship plus one of three routes: 5+ years as a High Court Judge, 10+ years as a High Court advocate, or being a 'distinguished jurist' in the President's opinion",
+          "Removal requires proved misbehaviour or incapacity, established through an address by each House supported by an absolute majority of total membership AND a two-thirds majority of members present and voting, presented to the President in the same Parliamentary session",
+          "Every appointee must take the Third Schedule oath before the President (or his nominee) before entering office",
+          "A retired Supreme Court Judge is permanently barred from pleading or acting in any court or before any authority anywhere in India"
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (2)'s original 'consultation' requirement has been judicially reinterpreted through the collegium system (Second and Third Judges Cases) to mean effective concurrence of the Chief Justice acting with a collegium of senior Judges, shifting real appointment power toward the judiciary — a purely judicially evolved gloss on the constitutional text, not itself a textual amendment to this article",
+          "The 2014 Ninety-Ninth Amendment's attempt to replace collegium-based appointments with the National Judicial Appointments Commission (Article 124A) was struck down by the Supreme Court in Supreme Court Advocates-on-Record Association v. Union of India (2015) as violating the judicial-independence basic structure, restoring the collegium system as the operative practice",
+          "The two-thirds-plus-absolute-majority removal threshold in clause (4) is a deliberately near-impossible bar, distinct from and higher than ordinary legislative majorities, reflecting the framers' intent to insulate judicial tenure from political pressure — Parliament has attempted impeachment proceedings only a handful of times in India's history, none successfully completed to removal"
+        ],
+        "how_to_read": "Read clause (2) alongside the historical note on collegium jurisprudence — the constitutional text alone (unamended since the 2015 NJAC judgment restored the pre-2014 position) still says 'consultation,' but in practice appointment power is exercised through the judicially evolved collegium mechanism, not literal Presidential discretion; clause (4)'s dual-supermajority is the key practitioner fact for any removal-related question."
+      }
+    },
+    {
+      "number": "124A",
+      "title": "National Judicial Appointments Commission",
+      "raw_text": "(1) There shall be a Commission to be known as the National Judicial Appointments Commission consisting of the following, namely:— (a) the Chief Justice of India, Chairperson, ex officio; (b) two other senior Judges of the Supreme Court next to the Chief Justice of India — Members, ex officio; (c) the Union Minister in charge of Law and Justice — Member, ex officio; (d) two eminent persons to be nominated by the committee consisting of the Prime Minister, the Chief Justice of India and the Leader of Opposition in the House of the People or where there is no such Leader of Opposition, then, the Leader of single largest Opposition Party in the House of the People — Members: Provided that one of the eminent person shall be nominated from amongst the persons belonging to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, Minorities or Women: Provided further that an eminent person shall be nominated for a period of three years and shall not be eligible for renomination. (2) No act or proceedings of the National Judicial Appointments Commission shall be questioned or be invalidated merely on the ground of the existence of any vacancy or defect in the constitution of the Commission.",
+      "key_terms": [
+        "National Judicial Appointments Commission (NJAC)",
+        "NJAC struck down as unconstitutional (2015)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 124A, inserted by the Ninety-Ninth Amendment in 2014, would have replaced the judicially-created collegium system with a six-member body (the Chief Justice, two senior Judges, the Law Minister, and two 'eminent persons') to jointly decide judicial appointments and transfers. It was designed to give the executive and civil society a formal seat at the table alongside the judiciary. However, the Supreme Court in Supreme Court Advocates-on-Record Association v. Union of India (2015) struck down both this article and the companion Ninety-Ninth Amendment provisions as unconstitutional, holding that the NJAC's structure compromised judicial primacy in appointments and violated the basic structure doctrine's judicial-independence component. The text of Article 124A remains printed in the Constitution but is legally inoperative — the pre-2014 collegium system, described in the notes to Article 124, continues to operate in its place.",
+        "essential_elements": [
+          "The NJAC as textually structured would have comprised the CJI, two senior-most Supreme Court Judges, the Union Law Minister, and two 'eminent persons' nominated by a Prime Minister-CJI-Leader of Opposition committee",
+          "One eminent person nominee was required to come from Scheduled Castes, Scheduled Tribes, Other Backward Classes, Minorities, or Women, with a fixed non-renewable three-year term",
+          "Clause (2) was a technical validity-preservation clause insulating NJAC actions from challenge merely for vacancies or constitutional defects in its own membership"
+        ],
+        "exceptions_and_qualifications": [
+          "This entire article, though still textually present in the Constitution, has been declared unconstitutional and struck down by the Supreme Court in the 2015 NJAC judgment — it has no current legal operation, and judicial appointments continue under the pre-existing collegium system",
+          "The 2015 judgment rested on the basic structure doctrine, holding that the NJAC's composition (particularly the Law Minister's presence and the eminent persons' effective veto power) compromised the judiciary's primacy in its own appointments, a core facet of judicial independence"
+        ],
+        "how_to_read": "Treat this article as constitutionally dead letter — its text survives in print but has zero legal effect after the 2015 Supreme Court Advocates-on-Record Association judgment; any question about how Supreme Court Judges are actually appointed today must be answered by reference to the collegium system, not this article."
+      }
+    },
+    {
+      "number": "124B",
+      "title": "Functions of Commission",
+      "raw_text": "It shall be the duty of the National Judicial Appointments Commission to— (a) recommend persons for appointment as Chief Justice of India, Judges of the Supreme Court, Chief Justices of High Courts and other Judges of High Courts; (b) recommend transfer of Chief Justices and other Judges of High Courts from one High Court to any other High Court; and (c) ensure that the person recommended is of ability and integrity.",
+      "key_terms": [
+        "NJAC's recommendation functions (inoperative)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 124B defined what the NJAC (had it survived) would actually do: recommend appointees for the CJI, Supreme Court Judges, and High Court Chief Justices/Judges, recommend inter-High-Court transfers, and vet nominees for ability and integrity. Like Article 124A itself, this provision was struck down in the 2015 NJAC judgment and has no current legal operation — these functions (recommending appointments and transfers) are instead performed today by the collegium system under the judicially evolved 'consultation' interpretation of Articles 124(2) and 217.",
+        "essential_elements": [
+          "The NJAC's intended functions covered recommending appointments to the CJI-ship, Supreme Court Judgeships, and High Court Chief Justiceships/Judgeships, plus inter-High-Court transfers, with an ability-and-integrity screening duty"
+        ],
+        "exceptions_and_qualifications": [
+          "This article, like Article 124A, was struck down in the 2015 NJAC judgment and is legally inoperative — the functions it describes are in practice performed by the collegium system, not any NJAC"
+        ],
+        "how_to_read": "Read alongside Article 124A as part of the same struck-down constitutional scheme — useful only for historical/comparative understanding of what the failed 2014 reform would have done, not as a description of current appointment practice."
+      }
+    },
+    {
+      "number": "124C",
+      "title": "Power of Parliament to make law",
+      "raw_text": "Parliament may, by law, regulate the procedure for the appointment of Chief Justice of India and other Judges of the Supreme Court and Chief Justices and other Judges of High Courts and empower the Commission to lay down by regulations the procedure for the discharge of its functions, the manner of selection of persons for appointment and such other matters as may be considered necessary by it.",
+      "key_terms": [
+        "Parliament's law-making power for NJAC procedure (inoperative)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 124C would have empowered Parliament to legislate the detailed appointment procedure and to let the NJAC itself frame supplementary regulations on selection methodology. Parliament did in fact pass the companion National Judicial Appointments Commission Act, 2014 pursuant to this power — but both that Act and this enabling constitutional provision were struck down together in the 2015 NJAC judgment, so neither has any current legal force.",
+        "essential_elements": [
+          "The provision would have allowed Parliament to legislate NJAC appointment procedure in detail and to authorise the NJAC to make its own procedural regulations"
+        ],
+        "exceptions_and_qualifications": [
+          "Both this article and the National Judicial Appointments Commission Act, 2014 passed under it were struck down together in the 2015 NJAC judgment and are legally inoperative"
+        ],
+        "how_to_read": "The final piece of the now-defunct NJAC scheme (Articles 124A-124C) — read all three together as a single struck-down package superseded in practice by the pre-existing collegium system."
+      }
+    },
+    {
+      "number": "125",
+      "title": "Salaries, etc., of Judges",
+      "raw_text": "(1) There shall be paid to the Judges of the Supreme Court such salaries as may be determined by Parliament by law and, until provision in that behalf is so made, such salaries as are specified in the Second Schedule. (2) Every Judge shall be entitled to such privileges and allowances and to such rights in respect of leave of absence and pension as may from time to time be determined by or under law made by Parliament and, until so determined, to such privileges, allowances and rights as are specified in the Second Schedule: Provided that neither the privileges nor the allowances of a Judge nor his rights in respect of leave of absence or pension shall be varied to his disadvantage after his appointment.",
+      "key_terms": [
+        "salaries of Supreme Court Judges",
+        "Second Schedule default (Judges' salaries)",
+        "non-disadvantageous variation rule (Judges' privileges)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 125 sets Supreme Court Judges' pay and benefits — a Parliament-by-law default backed by a Second Schedule fallback figure, the same drafting pattern used for the President (Article 59), Ministers (Article 75), and presiding officers (Article 97). The proviso's protection is the operative safeguard here: once a person is appointed a Judge, his privileges, allowances, leave, and pension rights can never be reduced to his disadvantage during his tenure — even if Parliament later revises the general scale downward, a sitting Judge's own terms are frozen at whatever was more favourable at (or after, if increased) his appointment. This financial security is a structural pillar of judicial independence, insulating Judges from any threat of retaliatory pay cuts.",
+        "essential_elements": [
+          "Salaries are Parliament-determined by law, defaulting to Second Schedule figures absent such law",
+          "Privileges, allowances, leave-of-absence rights, and pension are likewise Parliament-determined by law, with Second Schedule defaults",
+          "The proviso locks in a non-disadvantageous floor — no Judge's privileges, allowances, leave, or pension rights may be varied to his disadvantage after his appointment"
+        ],
+        "exceptions_and_qualifications": [
+          "The non-disadvantage proviso applies only to privileges, allowances, leave, and pension under clause (2) — the raw salary figure under clause (1) carries no equivalent express non-disadvantage protection in the text, though salary reductions targeting sitting Judges would raise separate judicial-independence concerns",
+          "This financial-security structure mirrors the identical Second-Schedule-default-plus-law pattern used for other high constitutional offices, reinforcing a consistent constitutional design choice across the President, Ministers, presiding officers, and now the Judges"
+        ],
+        "how_to_read": "Focus on the proviso's non-disadvantage guarantee as the practitioner-relevant protection — it is the textual anchor for judicial financial independence, distinguishing sitting Judges' locked-in terms from any general downward revision Parliament might later make to the salary/allowance scale."
       }
     }
   ]
