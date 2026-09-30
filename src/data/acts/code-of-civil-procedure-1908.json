@@ -125,7 +125,33 @@
     "objector": "The party who raises an objection under section 35A to an opponent's false or vexatious claim or defence.",
     "adjournment costs": "Costs ordered under section 35B against a party who defaults on a required step or obtains an adjournment, to reimburse the other side's attendance expenses.",
     "condition precedent": "A requirement that must be satisfied before a party is entitled to take a further step, such as continuing to prosecute a suit or defence.",
-    "delay": "Postponement in the progress of a suit, which section 35B specifically targets by shifting the cost of the resulting wasted attendance."
+    "delay": "Postponement in the progress of a suit, which section 35B specifically targets by shifting the cost of the resulting wasted attendance.",
+    "execution of orders": "The rule that orders of a court, not just decrees, may also be enforced through the machinery of execution provided in the Code, so far as the nature of the order permits.",
+    "Court of first instance": "The trial court that originally heard and decided the suit, as distinct from any appellate court that later reviewed its decision.",
+    "appellate jurisdiction": "The power of a higher court to review and revise the decisions of a subordinate court on appeal.",
+    "jurisdictional transfer": "The shifting of a case or proceeding from one court to another that has been vested with the requisite jurisdiction to handle it.",
+    "executing Court": "The court that actually carries out (executes) a decree, which may or may not be the same court that originally passed it.",
+    "Court which passed the decree": "Includes not only the original trial court but, where that court's jurisdiction has ceased or been transferred, the court which would now have jurisdiction to try the suit afresh.",
+    "transfer of decree": "The formal act by which a court that passed a decree sends it to another competent court for execution, typically because the judgment-debtor or their property lies outside the first court's local limits.",
+    "sufficient property": "Property of the judgment-debtor within the local limits of the transferring court's jurisdiction that is adequate to satisfy the decree, the absence of which is a ground for transferring the decree elsewhere.",
+    "suo motu transfer": "A transfer of a decree for execution that a court initiates on its own motion, without a formal application by the decree-holder.",
+    "interstate transfer of decree": "The procedure for sending a decree passed by a court in one State to a court in another State for execution, subject to prescribed conditions and rules.",
+    "prescribed rules": "The procedural rules framed under the Code (typically in the First Schedule or by rule-making authority) that govern how a particular step, such as an inter-State transfer, must be carried out.",
+    "certificate of execution": "A formal certification sent by the executing court back to the court which passed (or transferred) the decree, stating the manner in which the decree has been executed or the extent to which execution has failed.",
+    "failure of execution": "The outcome where a decree, or part of it, remains unsatisfied despite execution proceedings, which must be certified to the court that passed or transferred the decree.",
+    "transferred decree": "A decree that has been sent by the court which passed it to another court for the purpose of execution.",
+    "same powers": "The principle that a court executing a transferred decree has, in relation to that execution, the same powers as if it had itself passed the decree.",
+    "disobedience": "The judgment-debtor's or a third party's refusal or failure to comply with a decree or an order of the court, which may attract coercive consequences such as attachment or detention.",
+    "obstruction": "Conduct by the judgment-debtor or another person that hinders or resists the executing court's officers in carrying out execution, punishable in the same manner as disobedience.",
+    "onward transfer": "The further sending of an already-transferred decree from the court currently holding it to yet another court for execution.",
+    "non-Code-territory decree": "A decree passed by a Civil or Revenue Court in a part of India to which the Code of Civil Procedure does not extend, which nonetheless may be executed under the Code's provisions once transferred.",
+    "extraterritorial execution": "The execution of a decree in territory beyond the local limits of the court that originally passed it, achieved through the mechanism of transfer to a court having jurisdiction over that territory.",
+    "Revenue Court decree": "A decree or order passed by a Revenue Court, which the Code permits to be executed as if it were a decree of a Civil Court, subject to any special rules governing Revenue Courts.",
+    "notification": "An official government notification, published in the Official Gazette, that may extend or apply particular provisions of the Code to a specified territory or class of case.",
+    "reciprocating territory": "Any country or territory outside India notified by the Central Government in the Official Gazette as a reciprocating territory, whose superior courts' decrees can be executed in India as if passed by an Indian District Court.",
+    "superior Courts": "In the context of reciprocating territory, the courts specified in the Central Government's notification as the courts of that territory whose decrees qualify for direct execution in India under Section 44A.",
+    "money decree": "A decree for the payment of a sum of money, as distinguished from a decree for other reliefs such as possession or injunction; only money decrees (with certain exclusions) from reciprocating territories are directly executable under Section 44A.",
+    "arbitration award": "A decision rendered by an arbitrator or arbitral tribunal; sums payable under an award are excluded from the definition of a Section 44A money decree even if the award has been (or could be) enforced as a decree in the original territory."
   },
   "sections": [
     {
@@ -1011,6 +1037,207 @@
           "This is procedural-delay costs, distinct from both section 35 (general costs) and section 35A (false/vexatious-claim compensatory costs) — all three can operate independently in the same suit."
         ],
         "how_to_read": "Track adjournment and default costs orders carefully as litigation counsel — under sub-section (1), unpaid section 35B costs can genuinely stall further prosecution of a claim or defence, making prompt payment a real, not merely nominal, procedural obligation."
+      }
+    },
+    {
+      "number": "36",
+      "title": "Application to orders",
+      "raw_text": "36. The provisions of this Code relating to the execution of decrees (including provisions relating to payment under a decree) shall, so far as they are applicable, be deemed to apply to the execution of orders (including payment under an order).",
+      "key_terms": [
+        "execution of orders",
+        "execution of decrees"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens Part II (Execution) by extending the whole execution machinery built for decrees to orders as well, wherever applicable — so a court order (not just a decree) can be enforced using the Code's execution provisions.",
+        "essential_elements": [
+          "All Code provisions on execution of decrees, including payment under a decree, extend to execution of orders and payment under an order, so far as applicable."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat every subsequent execution-related section in Part II as applying to orders too, unless the specific provision's language or context makes it decree-specific."
+      }
+    },
+    {
+      "number": "37",
+      "title": "Definition of Court which passed a decree",
+      "raw_text": "37. The expression \"Court which passed a decree,\" or words to that effect, shall, in relation to the execution of decrees, unless there is anything repugnant in the subject or context, be deemed to include,—\n(a) where the decree to be executed has been passed in the exercise of appellate jurisdiction, the Court of first instance, and\n(b) where the Court of first instance has ceased to exist or to have jurisdiction to execute it, the Court which, if the suit wherein the decree was passed was instituted at the time of making the application for the execution of the decree, would have jurisdiction to try such suit.\nExplanation.—The Court of first instance does not cease to have jurisdiction to execute a decree merely on the ground that after the institution of the suit wherein the decree was passed or after the passing of the decree, any area has been transferred from the jurisdiction of that Court to the jurisdiction of any other Court; but, in every such case, such other Court shall also have jurisdiction to execute the decree, if at the time of making the application for execution of the decree it would have jurisdiction to try the said suit.",
+      "key_terms": [
+        "Court of first instance",
+        "appellate jurisdiction",
+        "jurisdictional transfer"
+      ],
+      "breakdown": {
+        "plain_summary": "This section defines, for execution purposes, which court counts as the \"Court which passed a decree\" — extending the phrase to the trial court even when the decree was actually passed in appeal, and to whichever court would now have jurisdiction to try the original suit if the original trial court has since ceased to exist or lost jurisdiction, including due to territorial boundary changes.",
+        "essential_elements": [
+          "Clause (a): for an appellate decree, the \"Court which passed a decree\" includes the Court of first instance.",
+          "Clause (b): if the Court of first instance has ceased to exist or lost jurisdiction, it includes whichever court would now have jurisdiction to try that suit.",
+          "The Explanation clarifies that mere territorial reallocation does not, by itself, strip the original Court of first instance of execution jurisdiction — the new court over that area also gains concurrent execution jurisdiction if it would now have jurisdiction to try the suit."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Use this section to identify the correct executing court whenever the decree was passed in appeal, or the original trial court's identity/jurisdiction has changed since the decree was passed — a common practical issue in long-running execution proceedings."
+      }
+    },
+    {
+      "number": "38",
+      "title": "Court by which decree may be executed",
+      "raw_text": "38. A decree may be executed either by the Court which passed it, or by the Court to which it is sent for execution.",
+      "key_terms": [
+        "executing Court",
+        "Court which passed the decree"
+      ],
+      "breakdown": {
+        "plain_summary": "A decree-holder can execute a decree either in the court that originally passed it, or in another court to which the decree has been sent for execution.",
+        "essential_elements": [
+          "The Court which passed the decree has execution jurisdiction over it.",
+          "A Court to which the decree has been sent for execution (per section 39) also has execution jurisdiction over it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the gateway provision to the transfer-of-decree machinery in section 39 — read them together to determine where execution can validly proceed."
+      }
+    },
+    {
+      "number": "39",
+      "title": "Transfer of decree",
+      "raw_text": "39. (1) The Court which passed a decree may, on the application of the decree-holder, send it for execution to another Court of competent jurisdiction,—\n(a) if the person against whom the decree is passed actually and voluntarily resides or carries on business, or personally works for gain, within the local limits of the jurisdiction of such other Court, or\n(b) if such person has not property within the local limits of the jurisdiction of the Court which passed the decree sufficient to satisfy such decree and has property within the local limits of the jurisdiction of such other Court, or\n(c) if the decree directs the sale or delivery of immovable property situate outside the local limits of the jurisdiction of the Court which passed it, or\n(d) if the Court which passed the decree considers for any other reason, which it shall record in writing, that the decree should be executed by such other Court.\n(2) The Court which passed a decree may of its own motion send it for execution to any subordinate Court of competent jurisdiction.\n(3) For the purposes of this section, a Court shall be deemed to be a Court of competent jurisdiction if, at the time of making the application for the transfer of decree to it, such Court would have jurisdiction to try the suit in which such decree was passed.\n(4) Nothing in this section shall be deemed to authorise the Court which passed a decree to execute such decree against any person or property outside the local limits of its jurisdiction.",
+      "key_terms": [
+        "transfer of decree",
+        "competent jurisdiction",
+        "sufficient property",
+        "suo motu transfer"
+      ],
+      "breakdown": {
+        "plain_summary": "This section lets the decree-passing court send the decree to another competent court for execution — on the decree-holder's application (in four listed scenarios: judgment-debtor's residence/business elsewhere, insufficient local property, out-of-jurisdiction immovable property, or any other recorded reason), or on its own motion to a subordinate court — while making clear it cannot itself execute beyond its own local limits.",
+        "essential_elements": [
+          "Sub-section (1)(a)-(c) list specific grounds: judgment-debtor's actual residence/business/work location, insufficiency of local property, and out-of-jurisdiction immovable property subject to the decree.",
+          "Sub-section (1)(d) is a residual ground allowing transfer for any other reason, provided the court records it in writing.",
+          "Sub-section (2) allows the court to transfer suo motu to a subordinate court of competent jurisdiction.",
+          "Sub-section (3) defines competent jurisdiction for transfer purposes by reference to whether the receiving court would have had jurisdiction to try the original suit.",
+          "Sub-section (4) confirms the passing court itself cannot execute against persons/property outside its own local limits — transfer is the mechanism for reaching them."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "When the judgment-debtor or their assets are outside the passing court's territorial reach, apply for transfer under this section promptly rather than attempting extraterritorial execution directly, which sub-section (4) forecloses."
+      }
+    },
+    {
+      "number": "40",
+      "title": "Transfer of decree to Court in another State",
+      "raw_text": "40. Where a decree is sent for execution in another State, it shall be sent to such Court and executed in such manner as may be prescribed by rules in force in that State.",
+      "key_terms": [
+        "interstate transfer of decree",
+        "prescribed rules"
+      ],
+      "breakdown": {
+        "plain_summary": "For inter-State execution, the decree is routed to a court and executed according to whatever rules are in force in the receiving State — mirroring the section 28 approach for inter-State summons service.",
+        "essential_elements": [
+          "The receiving State's own prescribed rules govern which court the decree goes to and how it is executed there."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Check the destination State's specific procedural rules before sending a decree there for execution — the mechanics are not uniform but locally prescribed."
+      }
+    },
+    {
+      "number": "41",
+      "title": "Result of execution proceedings to be certified",
+      "raw_text": "41. The Court to which a decree is sent for execution shall certify to the Court which passed it the fact of such execution, or where the former Court fails to execute the same the circumstances attending such failure.",
+      "key_terms": [
+        "certificate of execution",
+        "failure of execution"
+      ],
+      "breakdown": {
+        "plain_summary": "The executing court must report back to the originating court on what happened — whether the decree was successfully executed, or if not, the circumstances of the failure — closing the loop on any transferred execution.",
+        "essential_elements": [
+          "A certifying obligation arises on the executing court once execution is attempted.",
+          "The certificate must state either the fact of successful execution, or the circumstances of failure."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Use the absence or content of this certificate as a practical checkpoint when tracking a transferred execution's progress — it is the formal record of what the transferee court actually did."
+      }
+    },
+    {
+      "number": "42",
+      "title": "Powers of Court in executing transferred decree",
+      "raw_text": "42. (1) The Court executing a decree sent to it shall have the same powers in executing such decree as if it had been passed by itself. All persons disobeying or obstructing the execution of the decree shall be punishable by such Court in the same manner as if it had passed the decree. And its order in executing such decree shall be subject to the same rules in respect of appeal as if the decree had been passed by itself.\n(2) Without prejudice to the generality of the provisions of sub-section (1), the powers of the Court under that sub-section shall include the following powers of the Court which passed the decree, namely:—\n(a) power to send the decree for execution to another Court under section 39;\n(b) power to execute the decree against the legal representative of the deceased judgment-debtor under section 50;\n(c) power to order attachment of a decree.\n(3) A Court passing an order in exercise of the powers specified in sub-section (2) shall send a copy thereof to the Court which passed the decree.\n(4) Nothing in this section shall be deemed to confer on the Court to which a decree is sent for execution any of the following powers, namely:—\n(a) power to order execution at the instance of the transferee of the decree;\n(b) in the case of a decree passed against a firm, power to grant leave to execute such decree against any person, other than such a person as is referred to in clause (b), or clause (c) of sub-rule (1) of rule 50 of Order XXI.",
+      "key_terms": [
+        "transferred decree",
+        "same powers",
+        "disobedience",
+        "obstruction",
+        "onward transfer"
+      ],
+      "breakdown": {
+        "plain_summary": "The transferee court steps fully into the shoes of the original court for executing a transferred decree — same powers, same punishment authority over disobedience/obstruction, same appeal rules — and can even onward-transfer, proceed against a deceased judgment-debtor's legal representative, or attach the decree itself, though it must report such further orders back and cannot execute at a decree-transferee's instance or grant firm-execution leave beyond specific categories.",
+        "essential_elements": [
+          "Sub-section (1) gives the transferee court full original-court-equivalent execution powers, punishment powers over disobedience/obstruction, and identical appeal rules.",
+          "Sub-section (2) expressly extends this to onward transfer (section 39), execution against a deceased judgment-debtor's legal representative (section 50), and ordering attachment of the decree itself.",
+          "Sub-section (3) requires reporting such orders back to the original passing court.",
+          "Sub-section (4) withholds two specific powers: executing at the instance of a decree-transferee, and (for firm decrees) granting leave to execute against persons beyond the specific categories in Order XXI Rule 50(1)(b)/(c)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "When acting for a party in a transferred-decree execution, confirm the transferee court's power under sub-section (2) for any onward step contemplated, and check the sub-section (4) carve-outs before assuming full original-court powers apply without limit."
+      }
+    },
+    {
+      "number": "43",
+      "title": "Execution of decrees passed by Civil Courts in places to which this Code does not extend",
+      "raw_text": "43. Any decree passed by any Civil Court established in any part of India to which the provisions of this Code do not extend, or by any Court established or continued by the authority of the Central Government outside India, may, if it cannot be executed within the jurisdiction of the Court by which it was passed, be executed in the manner herein provided within the jurisdiction of any Court in the territories to which this Code extends.",
+      "key_terms": [
+        "non-Code-territory decree",
+        "extraterritorial execution"
+      ],
+      "breakdown": {
+        "plain_summary": "A decree from a Civil Court outside the Code's territorial reach (or from a Central-Government-established court abroad) can still be executed within Code territory, using the Code's own execution procedure, if it cannot be executed where it was originally passed.",
+        "essential_elements": [
+          "The originating court must be either within India but outside the Code's extended territory, or a Central-Government-established court outside India.",
+          "The decree must be otherwise unexecutable within the originating court's own jurisdiction.",
+          "Execution then proceeds within Code territory following the Code's ordinary execution procedure."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Pair this with section 44 (Revenue Court decrees) and section 44A (reciprocating-territory decrees) as the trio of provisions bringing outside-Code-territory decrees into the ordinary Code execution machinery."
+      }
+    },
+    {
+      "number": "44",
+      "title": "Execution of decrees passed by Revenue Courts in places to which this Code does not extend",
+      "raw_text": "44. The State Government may, by notification in the Official Gazette, declare that the decrees of any Revenue Court in any part of India to which the provisions of this Code do not extend, or any class of such decrees, may be executed in the State as if they had been passed by Courts in that State.",
+      "key_terms": [
+        "Revenue Court decree",
+        "Official Gazette",
+        "notification"
+      ],
+      "breakdown": {
+        "plain_summary": "This lets a State Government, by gazette notification, extend Code-based execution to decrees passed by Revenue Courts operating outside the Code's territorial reach, treating them as if locally passed for execution purposes.",
+        "essential_elements": [
+          "The power belongs to the State Government, exercised by Official Gazette notification.",
+          "It covers decrees (or a declared class of decrees) of Revenue Courts in non-Code-extended parts of India.",
+          "Once notified, such decrees are executable in the State as if passed by that State's own courts."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Confirm the existence of a specific State notification before assuming a Revenue Court decree from a non-Code territory can be executed locally under this section."
+      }
+    },
+    {
+      "number": "44A",
+      "title": "Execution of decrees passed by Courts in reciprocating territory",
+      "raw_text": "44A. (1) Where a certified copy of a decree of any of the superior Courts of any reciprocating territory has been filed in a District Court, the decree may be executed in India as if it had been passed by the District Court.\n(2) Together with the certified copy of the decree shall be filed a certificate from such superior Court stating the extent, if any, to which the decree has been satisfied or adjusted and such certificate shall, for the purposes of proceedings under this section, be conclusive proof of the extent of such satisfaction or adjustment.\n(3) The provisions of section 47 shall as from the filing of the certified copy of the decree apply to the proceedings of a District Court executing a decree under this section, and the District Court shall refuse execution of any such decree, if it is shown to the satisfaction of the Court that the decree falls within any of the exceptions specified in clauses (a) to (f) of section 13.\nExplanation 1.—\"Reciprocating territory\" means any country or territory outside India which the Central Government may, by notification in the Official Gazette, declare to be a reciprocating territory for the purposes of this section; and \"superior Courts\", with reference to any such territory, means such Courts as may be specified in the said notification.\nExplanation 2.—\"Decree\" with reference to a superior Court means any decree or judgment of such Court under which a sum of money is payable, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty, but shall in no case include an arbitration award, even if such an award is enforceable as a decree or judgment.",
+      "key_terms": [
+        "reciprocating territory",
+        "superior Courts",
+        "certified copy",
+        "money decree",
+        "arbitration award"
+      ],
+      "breakdown": {
+        "plain_summary": "This creates a streamlined direct-execution route for money decrees from designated \"reciprocating territories\" abroad: filing a certified copy (with a satisfaction/adjustment certificate) in a District Court lets that decree be executed as if it were the District Court's own — subject to the same execution-questions regime under section 47 and to the section 13(a)-(f) foreign-judgment exceptions, which the court must apply to refuse execution where they are made out.",
+        "essential_elements": [
+          "Sub-section (1): filing a certified copy of a reciprocating-territory superior court's decree in a District Court makes it executable as if it were that District Court's own decree.",
+          "Sub-section (2): an accompanying satisfaction/adjustment certificate from the foreign court is conclusive proof on that specific point.",
+          "Sub-section (3): section 47 (execution-related questions determined by the executing court) applies from filing, and the District Court must refuse execution if any of the section 13(a)-(f) exceptions to foreign-judgment conclusiveness is made out.",
+          "Explanation 1 defines \"reciprocating territory\" and \"superior Courts\" by reference to Central Government notification.",
+          "Explanation 2 confines \"decree\" here to money decrees/judgments, excluding tax/penalty sums and excluding arbitration awards even if otherwise decree-enforceable."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a direct-execution shortcut available only for notified reciprocating territories and their notified superior courts — a foreign money decree from a non-notified country must instead be sued upon as a cause of action (using section 13's conclusiveness rules) rather than directly executed under this section."
+        ],
+        "how_to_read": "Before invoking section 44A, confirm both that the foreign country is a notified reciprocating territory and that the specific court is a notified \"superior Court\" — absent both, direct execution is unavailable and a fresh suit on the foreign judgment is the correct route."
       }
     }
   ]
