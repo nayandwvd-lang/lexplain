@@ -731,7 +731,17 @@
     "State-official-language/Hindi/English business rule": "The Article 210(1) rule that State Legislature business must be transacted in the State's official language(s), Hindi, or English, overriding Part XVII but subject to Article 348's separate regime for courts and authoritative legal texts.",
     "Speaker/Chairman's mother-tongue accommodation discretion": "The Article 210(1) proviso letting the Speaker or Chairman permit a member who cannot adequately express himself in the State's official language(s), Hindi, or English to address the House in his mother-tongue.",
     "fifteen-year sunset on English (extendable by State law)": "The Article 210(2) default rule that English ceases to be an available language for State Legislature business fifteen years after the Constitution's commencement (1950), unless the State Legislature itself extends it by law — in practice, most States have so extended it.",
-    "extended sunset periods for specified States": "The two provisos to Article 210(2) granting specially extended default sunset periods — twenty-five years for Himachal Pradesh, Manipur, Meghalaya, and Tripura; forty years for Arunachal Pradesh, Goa, and Mizoram — reflecting those States' distinct linguistic landscapes at the time of their reorganisation/statehood."
+    "extended sunset periods for specified States": "The two provisos to Article 210(2) granting specially extended default sunset periods — twenty-five years for Himachal Pradesh, Manipur, Meghalaya, and Tripura; forty years for Arunachal Pradesh, Goa, and Mizoram — reflecting those States' distinct linguistic landscapes at the time of their reorganisation/statehood.",
+    "bar on Legislature discussion of Judge's judicial conduct": "The Article 211 rule barring any discussion in a State Legislature of a Supreme Court or High Court Judge's conduct in discharging his judicial duties, protecting judicial independence and channelling conduct concerns into the Constitution's dedicated removal process instead.",
+    "procedural-irregularity immunity for Legislature proceedings": "The Article 212(1) rule that a State Legislature's proceedings cannot be invalidated in court merely on the ground of an alleged procedural irregularity — though substantive constitutional violations remain open to challenge.",
+    "immunity for officers exercising procedure/order powers": "The Article 212(2) rule shielding any officer or member (e.g., the Speaker or Chairman) exercising constitutionally vested powers over procedure, business conduct, or order-maintenance in a State Legislature from court jurisdiction over that specific exercise of power.",
+    "Governor's Ordinance-promulgation power during Legislature recess": "The Article 213(1) power letting a Governor promulgate Ordinances with full force of State law when the Legislative Assembly (or, in bicameral States, either House) is not in session and the Governor is satisfied immediate action is necessary.",
+    "President's-instructions precondition for certain Ordinances": "The proviso to Article 213(1) barring the Governor from promulgating an Ordinance, without the President's instructions, on any matter that would have needed prior Presidential sanction to introduce as a Bill, mandatory Presidential reservation, or Presidential assent after reservation to become valid State law.",
+    "six-week automatic-lapse rule from Legislature reassembly": "The Article 213(2)(a) rule that a State Ordinance automatically ceases to operate six weeks after the Legislature reassembles, unless earlier disapproved or already withdrawn — in bicameral States with staggered reassembly dates, the six weeks run from the later date.",
+    "House disapproval resolution ending an Ordinance early": "The Article 213(2)(a) mechanism letting a State Ordinance be ended before the six-week lapse period via a disapproval resolution passed by the Assembly and (in bicameral States) agreed to by the Council.",
+    "Governor's power to withdraw an Ordinance at any time": "The Article 213(2)(b) power letting the Governor withdraw a promulgated Ordinance at any time, independent of the automatic lapse or disapproval mechanisms.",
+    "Ordinance's substantive validity limits (Act-equivalence test)": "The Article 213(3) rule that a State Ordinance is void to the extent its content would be invalid if enacted as an ordinary State Legislature Act assented to by the Governor — an Ordinance cannot achieve through emergency power what an ordinary Act could not validly achieve.",
+    "President-instructed Ordinance treated as President-assented reserved Act (Concurrent List repugnancy)": "The proviso to Article 213(3) deeming a President-instructed Ordinance to be a State Act that was reserved for and assented to by the President, specifically for determining whether it validly prevails over an inconsistent Union/existing law on a Concurrent List matter."
   },
   "sections": [
     {
@@ -5979,6 +5989,74 @@
           "In practice, most States have exercised their clause (2) power to retain English by law, so the fifteen-year sunset rarely operates automatically as originally drafted — but the underlying constitutional mechanism remains State-law-reversible, not self-executing removal."
         ],
         "how_to_read": "Read Article 210 as Article 120's precise State-level mirror — always cross-reference Article 348 (the separate, stricter regime for court/legal-text language) since this Article's 'subject to article 348' qualifier means it does not touch judicial-proceedings language at all."
+      }
+    },
+    {
+      "number": "211",
+      "title": "Restriction on discussion in the Legislature",
+      "raw_text": "No discussion shall take place in the Legislature of a State with respect to the conduct of any Judge of the Supreme Court or of a High Court in the discharge of his duties.",
+      "key_terms": [
+        "bar on Legislature discussion of Judge's judicial conduct"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 211 is the State-level counterpart to Article 121, barring any discussion in a State Legislature — Assembly or Council — about how a Supreme Court or High Court Judge conducts himself in discharging his judicial duties. This protects judicial independence from legislative pressure or political commentary at the State level exactly as Article 121 does at the Union level, channelling any legitimate concern about judicial conduct into the Constitution's dedicated removal mechanism (Article 124(4)/218 for Judges) rather than ad hoc floor debate.",
+        "essential_elements": [
+          "Applies to both Supreme Court and High Court Judges — not just Judges of the State's own High Court.",
+          "Bars discussion specifically of a Judge's conduct in discharging his duties — not all mention of a Judge or his decisions in any context whatsoever."
+        ],
+        "exceptions_and_qualifications": [
+          "The bar is confined to a Judge's conduct in the discharge of duties; it does not by itself prevent debate on judicial appointments policy, the substance of a judgment as a matter of law, or Legislature-initiated removal proceedings conducted through the Constitution's own dedicated mechanism."
+        ],
+        "how_to_read": "Read Article 211 as Article 121's precise State-level mirror — always read it alongside the specific Judge-removal Articles (124(4) for Supreme Court, 218 for High Court Judges via that same process) as the constitutionally sanctioned channel for legitimate conduct concerns, which this Article otherwise keeps out of ordinary legislative debate."
+      }
+    },
+    {
+      "number": "212",
+      "title": "Courts not to inquire into proceedings of the Legislature",
+      "raw_text": "(1) The validity of any proceedings in the Legislature of a State shall not be called in question on the ground of any alleged irregularity of procedure.\n(2) No officer or member of the Legislature of a State in whom powers are vested by or under this Constitution for regulating procedure or the conduct of business, or for maintaining order, in the Legislature shall be subject to the jurisdiction of any court in respect of the exercise by him of those powers.",
+      "key_terms": [
+        "procedural-irregularity immunity for Legislature proceedings",
+        "immunity for officers exercising procedure/order powers"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 212 is the State-level counterpart to Article 122, insulating a State Legislature's internal proceedings from judicial second-guessing on procedural grounds — courts cannot invalidate what a House did merely because of an alleged procedural irregularity. This extends personal immunity to any officer or member (most obviously the Speaker or Chairman) exercising constitutionally vested powers over procedure, business conduct, or maintaining order — their exercise of those specific powers cannot be hauled before a court. Together with Article 211 and Article 194's speech/vote immunity, this completes the trio of protections insulating the Legislature's internal functioning from external judicial or (in Article 211's case) legislative-floor interference.",
+        "essential_elements": [
+          "Clause (1): procedural irregularities alone cannot be used to invalidate Legislature proceedings in court.",
+          "Clause (2): officers/members exercising constitutionally vested procedure/business/order-maintaining powers (e.g., the Speaker's rulings) are immune from court jurisdiction over that specific exercise of power."
+        ],
+        "exceptions_and_qualifications": [
+          "This immunity covers procedural irregularity only — it does not immunise substantive constitutional violations (e.g., a Bill passed without the required quorum going to the very existence of a valid sitting, or a law enacted in violation of a substantive constitutional limit) from judicial review altogether; courts have drawn this line in practice."
+        ],
+        "how_to_read": "Read Article 212 as Article 122's precise State-level mirror, and read it alongside Articles 194 and 211 as the three pillars insulating a State Legislature's internal functioning — but keep the procedural/substantive distinction in mind, since it is the linchpin separating what courts genuinely cannot touch from what remains open to constitutional challenge."
+      }
+    },
+    {
+      "number": "213",
+      "title": "Power of Governor to promulgate Ordinances during recess of Legislature",
+      "raw_text": "(1) If at any time, except when the Legislative Assembly of a State is in session, or where there is a Legislative Council in a State, except when both Houses of the Legislature are in session, the Governor is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require:\nProvided that the Governor shall not, without instructions from the President, promulgate any such Ordinance if—\n(a) a Bill containing the same provisions would under this Constitution have required the previous sanction of the President for the introduction thereof into the Legislature; or\n(b) he would have deemed it necessary to reserve a Bill containing the same provisions for the consideration of the President; or\n(c) an Act of the Legislature of the State containing the same provisions would under this Constitution have been invalid unless, having been reserved for the consideration of the President, it had received the assent of the President.\n(2) An Ordinance promulgated under this article shall have the same force and effect as an Act of the Legislature of the State assented to by the Governor, but every such Ordinance—\n(a) shall be laid before the Legislative Assembly of the State, or where there is a Legislative Council in the State, before both the Houses, and shall cease to operate at the expiration of six weeks from the reassembly of the Legislature, or if before the expiration of that period a resolution disapproving it is passed by the Legislative Assembly and agreed to by the Legislative Council, if any, upon the passing of the resolution or, as the case may be, on the resolution being agreed to by the Council; and\n(b) may be withdrawn at any time by the Governor.\nExplanation.—Where the Houses of the Legislature of a State having a Legislative Council are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause.\n(3) If and so far as an Ordinance under this article makes any provision which would not be valid if enacted in an Act of the Legislature of the State assented to by the Governor, it shall be void:\nProvided that, for the purposes of the provisions of this Constitution relating to the effect of an Act of the Legislature of a State which is repugnant to an Act of Parliament or an existing law with respect to a matter enumerated in the Concurrent List, an Ordinance promulgated under this article in pursuance of instructions from the President shall be deemed to be an Act of the Legislature of the State which has been reserved for the consideration of the President and assented to by him.",
+      "key_terms": [
+        "Governor's Ordinance-promulgation power during Legislature recess",
+        "President's-instructions precondition for certain Ordinances",
+        "six-week automatic-lapse rule from Legislature reassembly",
+        "House disapproval resolution ending an Ordinance early",
+        "Governor's power to withdraw an Ordinance at any time",
+        "Ordinance's substantive validity limits (Act-equivalence test)",
+        "President-instructed Ordinance treated as President-assented reserved Act (Concurrent List repugnancy)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 213 is the State-level counterpart to Article 123, letting the Governor promulgate Ordinances with full force of State law when the Legislature (or, in bicameral States, either House) is not in session and immediate action is needed. Unlike the President's parallel power, the Governor's is constrained by a mandatory check: for three categories of Bill that would have needed the President's prior sanction, mandatory reservation, or Presidential assent-after-reservation to become valid law, the Governor cannot promulgate a matching Ordinance without first obtaining the President's instructions — ensuring the Governor cannot use emergency Ordinance power to bypass safeguards that would otherwise route the matter through the President. Every Ordinance is temporary by design: it must be laid before the Legislature and automatically lapses six weeks after reassembly (or earlier if disapproved), though the Governor may also withdraw it any time. An Ordinance is void to the extent it contains anything an ordinary State Act couldn't validly contain — except that a President-instructed Ordinance is specially deemed a President-assented reserved Act for Concurrent-List repugnancy purposes, letting it validly prevail over an inconsistent Union/existing law just as such an Act would.",
+        "essential_elements": [
+          "Clause (1): the Governor's Ordinance power arises only during a genuine session gap (Assembly not in session, or in bicameral States, neither House in session), triggered by the Governor's satisfaction that immediate action is necessary.",
+          "Proviso to clause (1): mandatory President's-instructions precondition for three specific categories of Bill-equivalent Ordinance — those needing prior Presidential sanction to introduce, mandatory Presidential reservation, or Presidential assent after reservation.",
+          "Clause (2): an Ordinance has full Act-equivalent force but must be laid before the Legislature and lapses automatically six weeks after reassembly (or earlier on disapproval by the Assembly, agreed to by the Council if any); the Governor may also withdraw it anytime.",
+          "Clause (3): an Ordinance is void to the extent its content would be invalid in an ordinary State Act — with the special Concurrent-List-repugnancy deeming rule for President-instructed Ordinances."
+        ],
+        "exceptions_and_qualifications": [
+          "The Governor's Ordinance power, unlike the President's own Article 123 power, is affirmatively gated by a President's-instructions requirement for an entire category of sensitive Bills — a State-specific extra layer of Union oversight with no exact Union-level parallel (the President needs no one's 'instructions' to promulgate).",
+          "The six-week lapse period runs from Legislature reassembly, not promulgation — an Ordinance promulgated shortly before a long recess can remain in force for a considerable total time.",
+          "Clause (4) of the original Article 213 (a Forty-second Amendment insertion on Ordinance-validity non-justiciability) was omitted by the Forty-fourth Amendment and does not currently form part of the Article's operative text."
+        ],
+        "how_to_read": "Read Article 213 as Article 123's State-level mirror with one crucial structural difference: the Governor's Ordinance power is subject to a mandatory Presidential-instructions gate for an entire category of sensitive legislation, reflecting the Governor's position as a Union-appointed office subordinate to Presidential oversight in ways the President's own Ordinance power naturally is not."
       }
     }
   ]
