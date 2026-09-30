@@ -637,7 +637,19 @@
     "Chairman and Deputy Chairman of Legislative Council (State)": "The Article 182 requirement that a bicameral State's Legislative Council elect two of its own members as Chairman and Deputy Chairman, refilling either office whenever vacant — structurally closer to the Speaker-selection model of Article 178 than to the Rajya Sabha's ex officio Vice-President-as-Chairman arrangement.",
     "automatic vacation on ceasing Council membership (Chairman/Deputy Chairman)": "The Article 183(a) rule that a Legislative Council's Chairman or Deputy Chairman automatically vacates office upon ceasing to be a Council member — the Council-level mirror of Article 179(a).",
     "resignation of Chairman/Deputy Chairman in writing": "The Article 183(b) mechanism letting the Chairman or Deputy Chairman of a Legislative Council resign at will via signed writing addressed to the counterpart officer.",
-    "removal of Chairman/Deputy Chairman by absolute-majority resolution with 14-day notice": "The Article 183(c) removal mechanism for a Legislative Council's Chairman or Deputy Chairman — an absolute-majority resolution of all then Council members, requiring at least fourteen days' advance notice before it can even be moved, with no dissolution-continuity proviso needed since the Council itself is never dissolved."
+    "removal of Chairman/Deputy Chairman by absolute-majority resolution with 14-day notice": "The Article 183(c) removal mechanism for a Legislative Council's Chairman or Deputy Chairman — an absolute-majority resolution of all then Council members, requiring at least fourteen days' advance notice before it can even be moved, with no dissolution-continuity proviso needed since the Council itself is never dissolved.",
+    "Deputy Chairman filling a vacant Chairman's office": "The Article 184(1) rule that, while the Chairman's office of a State Legislative Council is vacant, the Deputy Chairman performs the Chairman's duties — the Council-level mirror of Article 180(1)'s Speaker/Deputy Speaker rule.",
+    "Governor-appointed Council member filling both offices vacant": "The Article 184(1) last-resort mechanism letting the Governor appoint a Legislative Council member to perform the Chairman's duties, but only where both the Chairman's and Deputy Chairman's offices are simultaneously vacant.",
+    "acting Chairman for a single sitting's absence": "The Article 184(2) cascading fallback for a Legislative Council sitting where the Chairman (office not vacant) is merely absent — Deputy Chairman acts first, then a rules-designated person, then someone the Council itself determines for that sitting.",
+    "disqualification from presiding during own removal resolution (Chairman/Deputy Chairman)": "The Article 185(1) natural-justice rule barring a Legislative Council's Chairman or Deputy Chairman from presiding over the sitting considering his own removal, even if physically present — the Council-level mirror of Article 181(1).",
+    "Chairman's first-instance-only voting right during own removal debate": "The Article 185(2) carve-out letting the Chairman vote in the first instance on his own removal resolution or any other matter during such proceedings, departing from Article 189's ordinary rule, while still being denied the tie-breaking casting vote.",
+    "salaries and allowances of presiding officers (State Legislature)": "The Article 186 guarantee that the Speaker, Deputy Speaker, Chairman, and Deputy Chairman of a State Legislature receive salaries and allowances fixed by State legislative law, defaulting to Second Schedule figures absent such law.",
+    "Second Schedule default (State presiding officers)": "The Article 186 fallback mechanism applying Second Schedule salary/allowance figures to the State Legislature's four presiding/deputy-presiding officers until the State Legislature enacts its own law on the subject.",
+    "separate secretarial staff per House (State Legislature)": "The Article 187(1) rule guaranteeing each House of a State Legislature its own secretarial staff, subject to a proviso permitting common posts across both Houses in bicameral States.",
+    "common posts across both Houses proviso (State Secretariat)": "The proviso to Article 187(1) permitting a bicameral State's Legislature to create secretarial posts common to both the Assembly and the Council, avoiding unnecessary staffing duplication while still guaranteeing each House its own dedicated staff.",
+    "State law regulating Legislature secretarial staff recruitment/conditions": "The Article 187(2) power letting a State Legislature regulate, by law, the recruitment and conditions of service of persons appointed to its House(s)' secretarial staff — the primary, preferred regulatory mechanism.",
+    "Governor's interim rules for Secretariat staff (post-Speaker/Chairman consultation)": "The Article 187(3) interim rule-making power letting the Governor regulate Secretariat staff recruitment and service conditions absent a State law on the subject, but only after consulting the Speaker (Assembly staff) or Chairman (Council staff), with such rules yielding to any later State law.",
+    "member's oath before taking seat (State Legislature)": "The Article 188 requirement that every State Legislature member — Assembly or Council — make and subscribe the Third Schedule oath or affirmation before the Governor (or his delegate) before actually taking his seat, distinct from the earlier Article 173(a) pre-candidacy oath."
   },
   "sections": [
     {
@@ -5261,6 +5273,111 @@
           "No dissolution-continuity proviso exists here (unlike Article 179's second proviso for the Speaker) — because the Legislative Council is a permanent, non-dissolvable body under Article 172(2), there is no dissolution event that could otherwise leave the Chairman's office in limbo."
         ],
         "how_to_read": "Read Article 183 as Article 179's Council-level twin, minus the dissolution-continuity proviso — the absence of that proviso is a direct, logical consequence of the Council's permanence under Article 172(2), not an oversight."
+      }
+    },
+    {
+      "number": "184",
+      "title": "Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman",
+      "raw_text": "(1) While the office of Chairman is vacant, the duties of the office shall be performed by the Deputy Chairman or, if the office of Deputy Chairman is also vacant, by such member of the Council as the Governor may appoint for the purpose.\n(2) During the absence of the Chairman from any sitting of the Council the Deputy Chairman or, if he is also absent, such person as may be determined by the rules of procedure of the Council, or, if no such person is present, such other person as may be determined by the Council, shall act as Chairman.",
+      "key_terms": [
+        "Deputy Chairman filling a vacant Chairman's office",
+        "Governor-appointed Council member filling both offices vacant",
+        "acting Chairman for a single sitting's absence"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 184 is the Legislative Council's precise counterpart to Article 180, ensuring the Council always has someone presiding. If the Chairman's office is vacant, the Deputy Chairman performs its duties; if both offices are simultaneously vacant, the Governor appoints a Council member to perform them. For a mere temporary absence of the Chairman from a particular sitting (office not vacant, just not present), a cascading fallback applies: Deputy Chairman first, then a rules-designated person, then whoever the Council itself determines for that sitting.",
+        "essential_elements": [
+          "Clause (1) addresses office vacancy: Deputy Chairman steps in first; only if both offices are simultaneously vacant does the Governor appoint a Council member to perform the Chairman's duties.",
+          "Clause (2) addresses mere sitting-by-sitting absence (office not vacant): Deputy Chairman acts first, then a rules-designated person, then an Council-determined person for that sitting."
+        ],
+        "exceptions_and_qualifications": [
+          "As with Article 180's Assembly equivalent, the Governor's appointment power under clause (1) is narrow and last-resort — engaged only when both Chairman and Deputy Chairman offices are simultaneously vacant."
+        ],
+        "how_to_read": "Read Article 184 as Article 180's exact Council-level twin — same office-vacancy-versus-sitting-absence distinction, same narrow gubernatorial fallback role."
+      }
+    },
+    {
+      "number": "185",
+      "title": "The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration",
+      "raw_text": "(1) At any sitting of the Legislative Council, while any resolution for the removal of the Chairman from his office is under consideration, the Chairman, or while any resolution for the removal of the Deputy Chairman from his office is under consideration, the Deputy Chairman, shall not, though he is present, preside, and the provisions of clause (2) of article 184 shall apply in relation to every such sitting as they apply in relation to a sitting from which the Chairman or, as the case may be, the Deputy Chairman is absent.\n(2) The Chairman shall have the right to speak in, and otherwise to take part in the proceedings of, the Legislative Council while any resolution for his removal from office is under consideration in the Council and shall, notwithstanding anything in article 189, be entitled to vote only in the first instance on such resolution or on any other matter during such proceedings but not in the case of an equality of votes.",
+      "key_terms": [
+        "disqualification from presiding during own removal resolution (Chairman/Deputy Chairman)",
+        "Chairman's first-instance-only voting right during own removal debate"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 185 is the Legislative Council's precise counterpart to Article 181, applying the same natural-justice rule: a Chairman or Deputy Chairman facing his own removal resolution cannot preside over that sitting even if present, with Article 184(2)'s absence-fallback rules applying instead. The Chairman retains the right to speak and participate in the debate on his own removal and may vote in the first instance on the resolution or any other matter during those proceedings (departing from Article 189's ordinary rule), but is barred from the tie-breaking casting vote.",
+        "essential_elements": [
+          "Clause (1): the Chairman (or Deputy Chairman) cannot preside over a sitting considering his own removal, and Article 184(2)'s absence-fallback mechanism applies as if he were absent.",
+          "Clause (2): the Chairman keeps speaking/participation rights and a first-instance vote during such proceedings, but not the tie-breaking casting vote."
+        ],
+        "exceptions_and_qualifications": [
+          "As with the Speaker's equivalent position under Article 181, the Chairman's loss of presiding function during his own removal debate is temporary and confined to that proceeding — his ordinary presiding role resumes once the resolution is disposed of, if he remains in office."
+        ],
+        "how_to_read": "Read Article 185 as Article 181's exact Council-level twin — identical natural-justice logic and identical narrow voting carve-out."
+      }
+    },
+    {
+      "number": "186",
+      "title": "Salaries and allowances of the Speaker and Deputy Speaker and the Chairman and Deputy Chairman",
+      "raw_text": "There shall be paid to the Speaker and the Deputy Speaker of the Legislative Assembly, and to the Chairman and the Deputy Chairman of the Legislative Council, such salaries and allowances as may be respectively fixed by the Legislature of the State by law and, until provision in that behalf is so made, such salaries and allowances as are specified in the Second Schedule.",
+      "key_terms": [
+        "salaries and allowances of presiding officers (State Legislature)",
+        "Second Schedule default (State presiding officers)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 186 guarantees the four State Legislature presiding officers — Speaker, Deputy Speaker, Chairman, and Deputy Chairman — salaries and allowances fixed by State legislative law, defaulting to Second Schedule figures absent such law, following the same drafting pattern used throughout the Constitution for high constitutional offices (the President, Governor, Judges, CAG, Union presiding officers).",
+        "essential_elements": [
+          "Covers all four State Legislature presiding/deputy-presiding officers: Speaker and Deputy Speaker (Assembly), Chairman and Deputy Chairman (Council).",
+          "Primary source of salary/allowance figures: State legislative law.",
+          "Default fallback: Second Schedule figures apply until the State Legislature enacts its own law."
+        ],
+        "exceptions_and_qualifications": [
+          "The salaries/allowances of these presiding officers are distinct from, and additional to, any salary they might separately draw as an ordinary Legislature member — this Article specifically compensates the presiding/deputy-presiding role itself."
+        ],
+        "how_to_read": "Read Article 186 as following the Constitution's standard Second-Schedule-default salary pattern — cross-reference the Second Schedule itself for the actual fallback figures if no State law has been made."
+      }
+    },
+    {
+      "number": "187",
+      "title": "Secretariat of State Legislature",
+      "raw_text": "(1) The House or each House of the Legislature of a State shall have a separate secretarial staff:\nProvided that nothing in this clause shall, in the case of the Legislature of a State having a Legislative Council, be construed as preventing the creation of posts common to both Houses of such Legislature.\n(2) The Legislature of a State may by law regulate the recruitment, and the conditions of service of persons appointed, to the secretarial staff of the House or Houses of the Legislature of the State.\n(3) Until provision is made by the Legislature of the State under clause (2), the Governor may, after consultation with the Speaker of the Legislative Assembly or the Chairman of the Legislative Council, as the case may be, make rules regulating the recruitment, and the conditions of service of persons appointed, to the secretarial staff of the Assembly or the Council, and any rules so made shall have effect subject to the provisions of any law made under the said clause.",
+      "key_terms": [
+        "separate secretarial staff per House (State Legislature)",
+        "common posts across both Houses proviso (State Secretariat)",
+        "State law regulating Legislature secretarial staff recruitment/conditions",
+        "Governor's interim rules for Secretariat staff (post-Speaker/Chairman consultation)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 187 mirrors Article 98's Union-level rule, guaranteeing each House of a State Legislature its own secretarial staff (though bicameral States may create posts common to both Houses for efficiency). The State Legislature can regulate recruitment and service conditions for this staff by law; until it does, the Governor fills the gap by making rules — but only after consulting the Speaker (for Assembly staff) or the Chairman (for Council staff) — and any such rules yield to a later State law on the subject.",
+        "essential_elements": [
+          "Clause (1): each House gets its own secretarial staff, with a proviso permitting common posts across both Houses in bicameral States (administrative efficiency, avoiding needless duplication).",
+          "Clause (2): the State Legislature may regulate recruitment and service conditions for this staff by law — the primary, preferred source of regulation.",
+          "Clause (3): absent such a State law, the Governor makes interim rules on the same subject, but only after consulting the relevant presiding officer (Speaker for the Assembly, Chairman for the Council) — and those rules remain subject to (i.e., are overridden by) any subsequent State law."
+        ],
+        "exceptions_and_qualifications": [
+          "The consultation requirement in clause (3) is a meaningful procedural safeguard — it ensures the Secretariat, which serves the Legislature and must remain institutionally independent of the executive, isn't staffed or regulated by the Governor unilaterally."
+        ],
+        "how_to_read": "Read Article 187 as Article 98's precise State-level mirror — the Secretariat's institutional independence from the executive (Governor) is protected both by the State-law-primacy structure and by the mandatory presiding-officer consultation requirement for any interim gubernatorial rules."
+      }
+    },
+    {
+      "number": "188",
+      "title": "Oath or affirmation by members",
+      "raw_text": "Every member of the Legislative Assembly or the Legislative Council of a State shall, before taking his seat, make and subscribe before the Governor, or some person appointed in that behalf by him, an oath or affirmation according to the form set out for the purpose in the Third Schedule.",
+      "key_terms": [
+        "member's oath before taking seat (State Legislature)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 188 mirrors Article 99's Lok Sabha/Rajya Sabha rule, requiring every State Legislature member — Assembly or Council — to make and subscribe the Third Schedule oath or affirmation before the Governor (or his appointed delegate) before actually taking his seat. This is distinct from the pre-candidacy oath under Article 173(a): that earlier oath is a precondition to being chosen for the seat at all, while this Article 188 oath is a precondition to actually sitting and functioning as a member once chosen.",
+        "essential_elements": [
+          "Applies to every member of either House — Assembly or Council.",
+          "Must occur before the member takes his seat — a precondition to functioning as a member, not to being elected/chosen.",
+          "Administered by the Governor or a person he appoints for the purpose, in the Third Schedule's prescribed form."
+        ],
+        "exceptions_and_qualifications": [
+          "This Article 188 oath is textually and functionally distinct from the Article 173(a) pre-candidacy oath — the latter must be made before an Election-Commission-authorised person as a condition of candidacy itself; this one is made before the Governor (or his delegate) as a condition of actually sitting after being duly chosen."
+        ],
+        "how_to_read": "Read Article 188 as Article 99's precise State-level mirror — always distinguish it from Article 173(a)'s earlier, differently-administered pre-candidacy oath; a member takes two separate oaths at two separate stages of the process."
       }
     }
   ]
