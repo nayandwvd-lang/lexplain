@@ -623,7 +623,21 @@
     "Governor's power to send messages to the House(s)": "The Article 175(2) power letting the Governor send written messages to the State Legislature's House or Houses on any matter, pending Bill or otherwise, obliging the receiving House to consider the message's subject with all convenient despatch — the State-level mirror of Article 86(2).",
     "Special Address at each year's first session and post-election session (Governor)": "The Article 176(1) mandatory obligation requiring the Governor to address the Assembly (or both Houses together) at the start of the first session after each general election and at the start of each calendar year's first session, informing the Legislature of the causes of its summons — functionally a government policy statement, mirroring the President's Article 87(1) duty.",
     "allotted-time debate on Governor's Special Address": "The Article 176(2) requirement that State Legislature procedural rules set aside dedicated time for discussing the matters raised in the Governor's Special Address — ensuring the address triggers substantive legislative scrutiny.",
-    "Ministers' and Advocate-General's floor rights without voting rights": "The Article 177 rule giving every State Minister and the Advocate-General the right to speak and participate in the Assembly's, both Houses', and any Legislature committee's proceedings regardless of their own House membership, but expressly without conferring any right to vote — voting remains tied to actual membership of the relevant House."
+    "Ministers' and Advocate-General's floor rights without voting rights": "The Article 177 rule giving every State Minister and the Advocate-General the right to speak and participate in the Assembly's, both Houses', and any Legislature committee's proceedings regardless of their own House membership, but expressly without conferring any right to vote — voting remains tied to actual membership of the relevant House.",
+    "Speaker and Deputy Speaker of Legislative Assembly (State)": "The Article 178 requirement that every State Legislative Assembly elect two of its own members as Speaker and Deputy Speaker, refilling either office by fresh election whenever vacant — mirroring the Lok Sabha's Article 93 arrangement.",
+    "automatic vacation on ceasing Assembly membership (Speaker/Deputy Speaker)": "The Article 179(a) rule that a State Assembly's Speaker or Deputy Speaker automatically vacates that office the moment he ceases to be an Assembly member — the presiding office cannot exist independently of membership.",
+    "resignation of Speaker/Deputy Speaker in writing": "The Article 179(b) mechanism letting the Speaker or Deputy Speaker resign at will via a signed writing addressed to the counterpart officer (Speaker to Deputy Speaker, or vice versa).",
+    "removal by absolute-majority Assembly resolution with 14-day notice": "The Article 179(c) removal mechanism for a State Assembly's Speaker or Deputy Speaker — a resolution passed by a majority of all then Assembly members (not merely those present and voting), which cannot even be moved without at least fourteen days' prior notice of intent.",
+    "Speaker's continuation in office through dissolution": "The second proviso to Article 179 ensuring a State Assembly's Speaker (specifically, not the Deputy Speaker) continues in office through the Assembly's dissolution, vacating only immediately before the newly-constituted Assembly's first meeting — preventing any leaderless gap.",
+    "Deputy Speaker filling a vacant Speaker's office": "The Article 180(1) rule that, while the Speaker's office itself is vacant, the Deputy Speaker performs the Speaker's duties — the first-line continuity mechanism for a State Assembly.",
+    "Governor-appointed member filling both offices vacant": "The Article 180(1) last-resort mechanism letting the Governor appoint an Assembly member to perform the Speaker's duties, but only where both the Speaker's and Deputy Speaker's offices are simultaneously vacant.",
+    "acting Speaker for a single sitting's absence": "The Article 180(2) cascading fallback for a State Assembly sitting where the Speaker (whose office is not vacant) is merely absent that day — the Deputy Speaker acts first, then a rules-designated person, then someone the Assembly itself determines for that sitting.",
+    "disqualification from presiding during own removal resolution (Speaker/Deputy Speaker)": "The Article 181(1) natural-justice rule barring a State Assembly's Speaker or Deputy Speaker from presiding over the sitting considering his own removal, even if physically present, with Article 180(2)'s absence-fallback rules applying as if he were absent.",
+    "Speaker's first-instance-only voting right during own removal debate": "The Article 181(2) carve-out letting the Speaker vote in the first instance on his own removal resolution or any other matter during such proceedings — departing from his ordinary Article 189 no-vote-except-tie-breaking rule — while still denying him the tie-breaking casting vote.",
+    "Chairman and Deputy Chairman of Legislative Council (State)": "The Article 182 requirement that a bicameral State's Legislative Council elect two of its own members as Chairman and Deputy Chairman, refilling either office whenever vacant — structurally closer to the Speaker-selection model of Article 178 than to the Rajya Sabha's ex officio Vice-President-as-Chairman arrangement.",
+    "automatic vacation on ceasing Council membership (Chairman/Deputy Chairman)": "The Article 183(a) rule that a Legislative Council's Chairman or Deputy Chairman automatically vacates office upon ceasing to be a Council member — the Council-level mirror of Article 179(a).",
+    "resignation of Chairman/Deputy Chairman in writing": "The Article 183(b) mechanism letting the Chairman or Deputy Chairman of a Legislative Council resign at will via signed writing addressed to the counterpart officer.",
+    "removal of Chairman/Deputy Chairman by absolute-majority resolution with 14-day notice": "The Article 183(c) removal mechanism for a Legislative Council's Chairman or Deputy Chairman — an absolute-majority resolution of all then Council members, requiring at least fourteen days' advance notice before it can even be moved, with no dissolution-continuity proviso needed since the Council itself is never dissolved."
   },
   "sections": [
     {
@@ -5118,6 +5132,135 @@
           "It is equally significant for a Minister drawn from the Legislative Council addressing the Assembly (or vice versa) in a bicameral State, and for a newly-appointed Minister who is not yet a sitting member within Article 164(4)'s six-month grace window."
         ],
         "how_to_read": "Read Article 177 as Article 88's State-level mirror — it grants participation rights decoupled from membership, but never a vote; always distinguish a Minister/Advocate-General's floor rights under this Article from an actual member's full rights (including voting) under ordinary House membership."
+      }
+    },
+    {
+      "number": "178",
+      "title": "The Speaker and Deputy Speaker of the Legislative Assembly",
+      "raw_text": "Every Legislative Assembly of a State shall, as soon as may be, choose two members of the Assembly to be respectively Speaker and Deputy Speaker thereof and, so often as the office of Speaker or Deputy Speaker becomes vacant, the Assembly shall choose another member to be Speaker or Deputy Speaker, as the case may be.",
+      "key_terms": [
+        "Speaker and Deputy Speaker of Legislative Assembly (State)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 178 requires every State Legislative Assembly to elect two of its own members as Speaker and Deputy Speaker as soon as practicable after constitution, and to fill either office promptly by a fresh election from among its members whenever it falls vacant — mirroring the Lok Sabha's Article 93 requirement at the State level.",
+        "essential_elements": [
+          "Both the Speaker and Deputy Speaker must be chosen from among the Assembly's own members — they are not outsiders or Governor-appointees.",
+          "The choice is made by the Assembly itself, 'as soon as may be' after the Assembly is constituted (i.e., after a general election).",
+          "Whenever either office falls vacant (resignation, removal, ceasing to be a member, or death), the Assembly must choose a replacement member for that office."
+        ],
+        "exceptions_and_qualifications": [
+          "There is no constitutional requirement that the Speaker or Deputy Speaker belong to any particular party or coalition — the choice is entirely the Assembly's own, though by convention the Speaker is usually drawn from the ruling party/coalition and the Deputy Speaker sometimes from the opposition."
+        ],
+        "how_to_read": "Read Article 178 as Article 93's State-level mirror — the Speaker and Deputy Speaker are always elected Assembly insiders, never Governor nominees, underscoring the Assembly's self-governing character over its own presiding officers."
+      }
+    },
+    {
+      "number": "179",
+      "title": "Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker",
+      "raw_text": "A member holding office as Speaker or Deputy Speaker of an Assembly—\n(a) shall vacate his office if he ceases to be a member of the Assembly;\n(b) may at any time by writing under his hand addressed, if such member is the Speaker, to the Deputy Speaker, and if such member is the Deputy Speaker, to the Speaker, resign his office; and\n(c) may be removed from his office by a resolution of the Assembly passed by a majority of all the then members of the Assembly:\nProvided that no resolution for the purpose of clause (c) shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution:\nProvided further that, whenever the Assembly is dissolved, the Speaker shall not vacate his office until immediately before the first meeting of the Assembly after the dissolution.",
+      "key_terms": [
+        "automatic vacation on ceasing Assembly membership (Speaker/Deputy Speaker)",
+        "resignation of Speaker/Deputy Speaker in writing",
+        "removal by absolute-majority Assembly resolution with 14-day notice",
+        "Speaker's continuation in office through dissolution"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 179 mirrors Article 94's rules for the Lok Sabha Speaker/Deputy Speaker, transposed to the State Assembly. The Speaker or Deputy Speaker automatically vacates office on ceasing to be an Assembly member, may resign in writing to the other officer, or may be removed by an absolute-majority Assembly resolution (of all then members, not just those present and voting), preceded by at least fourteen days' notice. Crucially, the second proviso ensures continuity: on Assembly dissolution, the Speaker does not vacate office immediately but continues until just before the newly-constituted Assembly's first meeting — so the Assembly is never left without a Speaker during the interregnum.",
+        "essential_elements": [
+          "Clause (a): automatic vacation on ceasing to be an Assembly member — the office is inseparable from membership.",
+          "Clause (b): resignation by writing under hand, addressed to the counterpart officer (Speaker resigns to the Deputy Speaker, and vice versa).",
+          "Clause (c): removal by an Assembly resolution requiring an absolute majority of all then members (not merely a majority of those present and voting) — a deliberately high bar protecting the Speaker's independence from transient majorities.",
+          "First proviso: at least fourteen days' notice of intention to move a removal resolution is mandatory before it can be moved.",
+          "Second proviso: the Speaker (notably, not the Deputy Speaker) continues in office through an Assembly's dissolution, vacating only immediately before the newly-elected Assembly's first meeting — ensuring institutional continuity."
+        ],
+        "exceptions_and_qualifications": [
+          "The continuity proviso in clause (c) applies specifically to the Speaker, not the Deputy Speaker — on dissolution, only the Speaker's tenure is extended this way."
+        ],
+        "how_to_read": "Read Article 179 as Article 94's precise State-level mirror — the absolute-majority-plus-14-day-notice removal threshold is a significant procedural safeguard, and the dissolution-continuity proviso for the Speaker (but not the Deputy Speaker) is a frequently tested distinction."
+      }
+    },
+    {
+      "number": "180",
+      "title": "Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker",
+      "raw_text": "(1) While the office of Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker or, if the office of Deputy Speaker is also vacant, by such member of the Assembly as the Governor may appoint for the purpose.\n(2) During the absence of the Speaker from any sitting of the Assembly the Deputy Speaker or, if he is also absent, such person as may be determined by the rules of procedure of the Assembly, or, if no such person is present, such other person as may be determined by the Assembly, shall act as Speaker.",
+      "key_terms": [
+        "Deputy Speaker filling a vacant Speaker's office",
+        "Governor-appointed member filling both offices vacant",
+        "acting Speaker for a single sitting's absence"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 180 mirrors Article 95's Lok Sabha continuity mechanism, ensuring the Assembly always has someone presiding. If the Speaker's office itself is vacant, the Deputy Speaker performs its duties; if both offices are vacant simultaneously, the Governor appoints an Assembly member to perform them. Separately, for a mere temporary absence of the Speaker from a particular sitting (offices not vacant, Speaker just not present that day), a cascading fallback applies: the Deputy Speaker acts, or if he too is absent, whoever the Assembly's procedural rules designate, or failing that, whoever the Assembly itself determines for that sitting.",
+        "essential_elements": [
+          "Clause (1) addresses office vacancy: Deputy Speaker steps in first; only if both Speaker and Deputy Speaker offices are simultaneously vacant does the Governor appoint an Assembly member to perform the Speaker's duties.",
+          "Clause (2) addresses mere sitting-by-sitting absence (not vacancy): Deputy Speaker acts first, then a rules-designated person, then an Assembly-determined person for that sitting.",
+          "The Governor's appointment power under clause (1) is a narrow, last-resort mechanism — it only engages when both offices are vacant, not whenever the Speaker happens to be unavailable."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (1)'s Governor-appointment power is exceptional and narrow — it applies only when both the Speaker's and Deputy Speaker's offices are simultaneously vacant, not to routine day-to-day absences, which clause (2) handles entirely within the Assembly without any gubernatorial role."
+        ],
+        "how_to_read": "Read Article 180 as Article 95's exact State-level mirror — carefully distinguish clause (1)'s office-vacancy scenario (where the Governor may eventually get involved) from clause (2)'s mere sitting-absence scenario (purely an internal Assembly matter, no gubernatorial role at all)."
+      }
+    },
+    {
+      "number": "181",
+      "title": "The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration",
+      "raw_text": "(1) At any sitting of the Legislative Assembly, while any resolution for the removal of the Speaker from his office is under consideration, the Speaker, or while any resolution for the removal of the Deputy Speaker from his office is under consideration, the Deputy Speaker, shall not, though he is present, preside, and the provisions of clause (2) of article 180 shall apply in relation to every such sitting as they apply in relation to a sitting from which the Speaker or, as the case may be, the Deputy Speaker, is absent.\n(2) The Speaker shall have the right to speak in, and otherwise to take part in the proceedings of, the Legislative Assembly while any resolution for his removal from office is under consideration in the Assembly and shall, notwithstanding anything in article 189, be entitled to vote only in the first instance on such resolution or on any other matter during such proceedings but not in the case of an equality of votes.",
+      "key_terms": [
+        "disqualification from presiding during own removal resolution (Speaker/Deputy Speaker)",
+        "Speaker's first-instance-only voting right during own removal debate"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 181 mirrors Article 96's natural-justice safeguard: a Speaker or Deputy Speaker facing his own removal resolution cannot preside over that sitting (even if physically present), with Article 180(2)'s absence-fallback rules kicking in instead. The Speaker retains the right to speak and participate in the debate on his own removal, and — departing from Article 189's normal no-casting-vote-unless-tied rule for the Speaker — may vote in the first instance on the resolution or any other matter during those proceedings, but is barred from exercising the tie-breaking casting vote he would ordinarily hold.",
+        "essential_elements": [
+          "Clause (1): the Speaker (or Deputy Speaker) cannot preside over a sitting considering his own removal — a basic natural-justice rule against being judge in one's own cause — and Article 180(2)'s absence-fallback mechanism applies as if he were absent.",
+          "Clause (2): despite not presiding, the Speaker keeps full speaking and participation rights in the debate on his own removal.",
+          "Clause (2)'s voting carve-out: the Speaker may vote in the first instance during such proceedings (unlike his ordinary no-vote-except-on-a-tie position under Article 189), but is still denied the casting/tie-breaking vote."
+        ],
+        "exceptions_and_qualifications": [
+          "The Speaker's loss of presiding function during his own removal debate is temporary and proceeding-specific — once the resolution is disposed of (whether it succeeds or fails), his ordinary presiding role resumes if he remains in office."
+        ],
+        "how_to_read": "Read Article 181 as Article 96's precise State-level mirror — note carefully that clause (2)'s voting rule is a narrow, proceeding-specific exception to Article 189's general rule, not a general expansion of the Speaker's voting rights."
+      }
+    },
+    {
+      "number": "182",
+      "title": "The Chairman and Deputy Chairman of the Legislative Council",
+      "raw_text": "The Legislative Council of every State having such Council shall, as soon as may be, choose two members of the Council to be respectively Chairman and Deputy Chairman thereof and, so often as the office of Chairman or Deputy Chairman becomes vacant, the Council shall choose another member to be Chairman or Deputy Chairman, as the case may be.",
+      "key_terms": [
+        "Chairman and Deputy Chairman of Legislative Council (State)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 182 is the Legislative Council's counterpart to Article 178 — every bicameral State's Legislative Council must choose two of its own members to serve as Chairman and Deputy Chairman, refilling either office by fresh election from among its members whenever it falls vacant, mirroring the Rajya Sabha's Vice-Chairman arrangement under Article 89(1) (the Council's Chairman role is distinct from the ex officio Vice-President-as-Rajya-Sabha-Chairman pattern — a State Legislative Council chooses its own Chairman from its own members, with no Governor-equivalent-of-Vice-President ex officio role here).",
+        "essential_elements": [
+          "Both the Chairman and Deputy Chairman must be chosen from among the Legislative Council's own members.",
+          "The Council itself makes the choice, as soon as may be after being constituted, and refills either office promptly whenever it becomes vacant."
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike the Rajya Sabha (where the Vice-President serves ex officio as Chairman under Article 89(1)), a State Legislative Council has no equivalent ex officio presiding officer — its Chairman is always elected from among its own members, making Article 182 closer in structure to Article 93 (Speaker) than to Article 89(1) (Rajya Sabha Chairman)."
+        ],
+        "how_to_read": "Read Article 182 as structurally closer to Article 178's Speaker-selection model than to the Rajya Sabha's ex officio Vice-President-as-Chairman arrangement — a State's Legislative Council Chairman is always one of its own elected members."
+      }
+    },
+    {
+      "number": "183",
+      "title": "Vacation and resignation of, and removal from, the offices of Chairman and Deputy Chairman",
+      "raw_text": "A member holding office as Chairman or Deputy Chairman of a Legislative Council—\n(a) shall vacate his office if he ceases to be a member of the Council;\n(b) may at any time by writing under his hand addressed, if such member is the Chairman, to the Deputy Chairman, and if such member is the Deputy Chairman, to the Chairman, resign his office; and\n(c) may be removed from his office by a resolution of the Council passed by a majority of all the then members of the Council:\nProvided that no resolution for the purpose of clause (c) shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution.",
+      "key_terms": [
+        "automatic vacation on ceasing Council membership (Chairman/Deputy Chairman)",
+        "resignation of Chairman/Deputy Chairman in writing",
+        "removal of Chairman/Deputy Chairman by absolute-majority resolution with 14-day notice"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 183 is the Legislative Council's precise counterpart to Article 179, applying the identical vacation/resignation/removal scheme to the Chairman and Deputy Chairman: automatic vacation on ceasing Council membership, resignation by writing to the counterpart officer, and removal only by an absolute-majority resolution of all then Council members, preceded by at least fourteen days' notice. Unlike Article 179, there is no dissolution-continuity proviso here, because a Legislative Council — being a permanent body under Article 172(2) — is never dissolved in the first place, so no such safeguard is needed.",
+        "essential_elements": [
+          "Clause (a): automatic vacation on ceasing to be a Council member.",
+          "Clause (b): resignation by writing under hand to the counterpart officer (Chairman resigns to Deputy Chairman, and vice versa).",
+          "Clause (c): removal requires an absolute majority of all then Council members, with the same mandatory fourteen-day advance notice requirement as for the Speaker/Deputy Speaker."
+        ],
+        "exceptions_and_qualifications": [
+          "No dissolution-continuity proviso exists here (unlike Article 179's second proviso for the Speaker) — because the Legislative Council is a permanent, non-dissolvable body under Article 172(2), there is no dissolution event that could otherwise leave the Chairman's office in limbo."
+        ],
+        "how_to_read": "Read Article 183 as Article 179's Council-level twin, minus the dissolution-continuity proviso — the absence of that proviso is a direct, logical consequence of the Council's permanence under Article 172(2), not an oversight."
       }
     }
   ]
