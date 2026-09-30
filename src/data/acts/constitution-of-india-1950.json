@@ -408,7 +408,24 @@
     "Presidential recommendation precondition for grant demands": "The Article 113(3) requirement that no demand for a grant may be made in the House of the People except on the President's prior recommendation, reinforcing exclusive executive initiation of spending proposals.",
     "Appropriation Bill": "The Bill required by Article 114(1), introduced after grants are voted under Article 113, that formally authorises withdrawal from the Consolidated Fund of India of the moneys needed to cover both the voted grants and the fixed charged expenditure.",
     "bar on amendments varying grants or charged expenditure": "The Article 114(2) rule barring any amendment to an Appropriation Bill in either House that would alter the amount or destination of a voted grant, or vary the amount of charged expenditure, with the presiding officer's ruling on inadmissibility being final.",
-    "no withdrawal from Consolidated Fund without appropriation law": "The Article 114(3) bedrock rule that no money may be withdrawn from the Consolidated Fund of India except under an appropriation made by law passed under this article, subject only to the interim/exceptional mechanisms of Articles 115 and 116."
+    "no withdrawal from Consolidated Fund without appropriation law": "The Article 114(3) bedrock rule that no money may be withdrawn from the Consolidated Fund of India except under an appropriation made by law passed under this article, subject only to the interim/exceptional mechanisms of Articles 115 and 116.",
+    "supplementary grant": "An Article 115(1)(a) grant topping up an existing sanction found insufficient for the current financial year's purposes, processed through the same Article 112-114 statement/vote/appropriation machinery as the original Budget.",
+    "additional grant": "An Article 115(1)(a) grant funding a genuinely new service that arose during the current financial year but was not contemplated in the original annual financial statement.",
+    "excess grant": "An Article 115(1)(b) grant that retrospectively regularises money already spent on a service beyond the amount originally granted for that service and year, typically processed after Comptroller and Auditor-General audit and Public Accounts Committee review.",
+    "excess demand for a grant": "The Article 115(1)(b) mechanism by which the President causes a demand for the amount of excess expenditure already incurred to be presented to the House of the People for after-the-fact regularisation.",
+    "vote on account": "An Article 116(1)(a) advance grant of funds for part of a financial year, made pending completion of the full Article 113 grant-voting and Article 114 Appropriation Bill process — the standard mechanism used when a full Budget cannot be passed before the financial year begins.",
+    "vote of credit": "An Article 116(1)(b) grant for meeting an unexpected, large-scale, or indefinitely-described demand on India's resources that cannot be itemised with the detail an ordinary annual financial statement requires — typically used for emergencies such as war.",
+    "exceptional grant": "An Article 116(1)(c) grant funding expenditure that forms no part of the current service of any financial year — a one-off appropriation outside the ordinary annual Budget categories.",
+    "financial Bill (Article 117)": "A Bill touching one or more Article 110(1) fiscal matters but also containing substantive non-fiscal provisions, failing the strict 'only' test for a true Money Bill under Article 110 — still requiring Presidential recommendation and Lok-Sabha-only introduction for its fiscal provisions, but otherwise processed as an ordinary Bill through both Houses (unlike a Money Bill's Rajya-Sabha-recommendation-only regime under Article 109).",
+    "Presidential recommendation for fiscal-matter Bills": "The Article 117(1) requirement that a Bill or amendment dealing with any Article 110(1)(a)-(f) fiscal matter cannot be introduced or moved without the President's prior recommendation, and cannot be introduced in the Council of States.",
+    "proviso for tax-reduction amendments": "The proviso to Article 117(1) exempting amendments that merely reduce or abolish a tax from needing fresh Presidential recommendation, since such amendments carry no additional expenditure risk.",
+    "Presidential recommendation for expenditure-Consolidated-Fund Bills": "The independent, broader Article 117(3) requirement that any Bill at all — whether or not a 'financial Bill' under clause (1) — that would involve expenditure from the Consolidated Fund of India needs the President's recommendation before either House passes it.",
+    "each House's power to make its own procedural rules": "The Article 118(1) grant of internal autonomy allowing each House of Parliament to regulate its own procedure and conduct of business by its own rules, subject always to the Constitution's overriding provisions.",
+    "transitional pre-Constitution standing orders": "The Article 118(2) bridge provision carrying over the Dominion Legislature's pre-Constitution rules of procedure and standing orders, as adapted by the Chairman or Speaker, until each House made its own rules under clause (1) — now a spent transitional mechanism.",
+    "President's rules for joint sittings and inter-House communication": "The Article 118(3) power of the President, after consulting the Chairman of the Council of States and the Speaker of the House of the People, to make rules governing the procedural mechanics of joint sittings and communications between the two Houses.",
+    "Speaker presides at joint sittings": "The Article 118(4) default rule that the Speaker of the House of the People (or his rules-designated substitute if absent) presides over any joint sitting of both Houses, regardless of which House originated the Bill under consideration.",
+    "Parliament's law-making power over financial-business procedure": "The Article 119 power allowing Parliament to regulate by ordinary law the procedure and conduct of business in either House specifically for financial matters and Appropriation Bills, aimed at ensuring timely completion of financial business.",
+    "statutory override of internal House rules for financial business": "The Article 119 rule that a law made under this article prevails over any inconsistent internal House rule made under Article 118(1) or transitional standing order under Article 118(2), for financial-business matters specifically — a narrow, purpose-limited exception to each House's general procedural autonomy."
   },
   "sections": [
     {
@@ -3318,6 +3335,127 @@
           "The amendment bar in clause (2) does not prevent debate or discussion on the Bill generally — it specifically targets amendments that would alter already-fixed grant amounts, destinations, or charged expenditure figures"
         ],
         "how_to_read": "Read this article as the final formal-legalisation step following the Article 112 statement and Article 113 grant-voting — clause (3) is the 'no money without an Appropriation Act' rule that every Indian budget cycle ultimately rests on, subject only to the Article 115/116 bridge mechanisms."
+      }
+    },
+    {
+      "number": "115",
+      "title": "Supplementary, additional or excess grants",
+      "raw_text": "(1) The President shall— (a) if the amount authorised by any law made in accordance with the provisions of article 114 to be expended for a particular service for the current financial year is found to be insufficient for the purposes of that year or when a need has arisen during the current financial year for supplementary or additional expenditure upon some new service not contemplated in the annual financial statement for that year, or (b) if any money has been spent on any service during a financial year in excess of the amount granted for that service and for that year, cause to be laid before both the Houses of Parliament another statement showing the estimated amount of that expenditure or cause to be presented to the House of the People a demand for such excess, as the case may be. (2) The provisions of articles 112, 113 and 114 shall have effect in relation to any such statement and expenditure or demand and also to any law to be made authorising the appropriation of moneys out of the Consolidated Fund of India to meet such expenditure or the grant in respect of such demand as they have effect in relation to the annual financial statement and the expenditure mentioned therein or to a demand for a grant and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of India to meet such expenditure or grant.",
+      "key_terms": [
+        "supplementary grant",
+        "additional grant",
+        "excess grant",
+        "excess demand for a grant"
+      ],
+      "breakdown": {
+        "plain_summary": "The annual Budget (Article 112) is prepared on estimates made months in advance, so mid-year shortfalls, entirely new unbudgeted needs, or spending that has already exceeded what was originally sanctioned are inevitable. Article 115 supplies three corrective mechanisms bundled together: a 'supplementary' grant tops up an existing insufficient sanction, an 'additional' grant funds a genuinely new service not in the original statement, and an 'excess grant' after-the-fact regularises spending that already happened beyond the sanctioned amount (this last one, notably, is retrospective — Parliament ratifies money already spent, typically on the Comptroller and Auditor-General's report and the Public Accounts Committee's recommendation). Clause (2) simply re-runs the entire Article 112-114 machinery (statement, vote/demand, Appropriation Bill) for these corrective figures.",
+        "essential_elements": [
+          "Supplementary/additional grants address in-year shortfalls or wholly new unbudgeted services during the current financial year",
+          "Excess grants retrospectively regularise money already spent beyond what was originally granted for a service and year",
+          "The President causes either a fresh statement (for supplementary/additional expenditure) or a demand to the House of the People (for excess expenditure) to be laid/presented",
+          "The entire Article 112 (statement format), Article 113 (charged-vs-voted, demand-for-grant voting), and Article 114 (Appropriation Bill) machinery applies afresh to these corrective figures"
+        ],
+        "exceptions_and_qualifications": [
+          "Excess grants in practice are typically processed only after the Comptroller and Auditor-General's audit report and the Public Accounts Committee's scrutiny and recommendation — a convention rather than an explicit textual requirement of this article itself",
+          "This article does not eliminate the need for a further Appropriation Bill — clause (2)'s cross-reference to Article 114 means supplementary/excess spending still requires its own appropriation law before or after the fact"
+        ],
+        "how_to_read": "Treat this as Article 112-114's machinery re-run for three corrective scenarios — insufficient sanction, new unbudgeted service, and after-the-fact excess spending — with the excess-grant limb being distinctively retrospective/ratifying rather than prospective like the other two."
+      }
+    },
+    {
+      "number": "116",
+      "title": "Votes on account, votes of credit and exceptional grants",
+      "raw_text": "(1) Notwithstanding anything in the foregoing provisions of this Chapter, the House of the People shall have power— (a) to make any grant in advance in respect of the estimated expenditure for a part of any financial year pending the completion of the procedure prescribed in article 113 for the voting of such grant and the passing of the law in accordance with the provisions of article 114 in relation to that expenditure; (b) to make a grant for meeting an unexpected demand upon the resources of India when on account of the magnitude or the indefinite character of the service the demand cannot be stated with the details ordinarily given in an annual financial statement; (c) to make an exceptional grant which forms no part of the current service of any financial year, and Parliament shall have power to authorise by law the withdrawal of moneys from the Consolidated Fund of India for the purposes for which the said grants are made. (2) The provisions of articles 113 and 114 shall have effect in relation to the making of any grant under clause (1) and to any law to be made under that clause as they have effect in relation to the making of a grant with regard to any expenditure mentioned in the annual financial statement and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of India to meet such expenditure.",
+      "key_terms": [
+        "vote on account",
+        "vote of credit",
+        "exceptional grant"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 116 provides three special-purpose funding tools that bypass the normal full Budget-cycle timing constraints. A 'vote on account' is the most practically important — it lets the Lok Sabha grant money in advance for a few months (typically April-July, when a new government or an unfinished full Budget process means the annual Appropriation Bill isn't ready yet) so government operations don't grind to a halt while the full Budget process completes. A 'vote of credit' handles emergencies or open-ended/unpredictable needs (like a sudden war or natural disaster) where detailed line-item estimates simply cannot be produced in advance. An 'exceptional grant' funds something entirely outside any financial year's ordinary services. All three still ultimately require their own appropriating law under clause (2)'s cross-reference to Articles 113-114.",
+        "essential_elements": [
+          "A vote on account authorises advance spending for part of a financial year while the full Article 113-114 grant/appropriation process is still pending completion",
+          "A vote of credit addresses unexpected, large-scale, or indefinitely-described demands on India's resources that cannot be itemised with normal Budget-statement detail",
+          "An exceptional grant funds something falling outside the ordinary current services of any financial year altogether",
+          "All three grants under clause (1) still require Parliament to separately authorise withdrawal from the Consolidated Fund by law, and Articles 113-114's voting/Appropriation Bill procedures apply to them"
+        ],
+        "exceptions_and_qualifications": [
+          "These powers operate 'notwithstanding anything in the foregoing provisions of this Chapter' — an express overriding clause letting the House of the People bypass the normal sequential Article 112-114 timeline precisely because these are stop-gap or emergency tools, not substitutes for the eventual full Budget process",
+          "A vote on account is, in practice, almost invariably used every election year or whenever a full Budget cannot be passed before the financial year begins on 1 April — a recurring practical/constitutional-convention use distinct from the true-emergency vote of credit"
+        ],
+        "how_to_read": "Remember the mnemonic: vote on account = timing gap (advance funding before the full Budget is ready), vote of credit = emergency/unpredictable need, exceptional grant = one-off spending outside any year's ordinary services — all three still funnel back through Articles 113-114's voting and appropriation machinery via clause (2)."
+      }
+    },
+    {
+      "number": "117",
+      "title": "Special provisions as to financial Bills",
+      "raw_text": "(1) A Bill or amendment making provision for any of the matters specified in sub-clauses (a) to (f) of clause (1) of article 110 shall not be introduced or moved except on the recommendation of the President and a Bill making such provision shall not be introduced in the Council of States: Provided that no recommendation shall be required under this clause for the moving of an amendment making provision for the reduction or abolition of any tax. (2) A Bill or amendment shall not be deemed to make provision for any of the matters aforesaid by reason only that it provides for the imposition of fines or other pecuniary penalties, or for the demand or payment of fees for licences or fees for services rendered, or by reason that it provides for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes. (3) A Bill which, if enacted and brought into operation, would involve expenditure from the Consolidated Fund of India shall not be passed by either House of Parliament unless the President has recommended to that House the consideration of the Bill.",
+      "key_terms": [
+        "financial Bill (Article 117)",
+        "Presidential recommendation for fiscal-matter Bills",
+        "proviso for tax-reduction amendments",
+        "Presidential recommendation for expenditure-Consolidated-Fund Bills"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 117 covers 'financial Bills' — Bills that touch one or more Article 110(1) fiscal matters but, unlike a true Money Bill, also contain other substantive (non-fiscal) provisions, so they fail the strict Article 110 'only' test. Clause (1) still requires Presidential recommendation before introduction and still bars introduction in the Rajya Sabha for the fiscal-matter provisions specifically — but because it's not a pure Money Bill, once properly introduced in the Lok Sabha, the Rajya Sabha thereafter participates as a co-equal House (unlike its weak Article 109 recommendatory role for true Money Bills). The proviso helpfully exempts tax-reduction/abolition amendments from needing fresh Presidential recommendation, since such amendments are revenue-friendly to the public rather than expenditure-risky. Clause (3) is a separate, broader rule — any Bill at all that would cause Consolidated Fund expenditure needs Presidential recommendation before either House passes it, even if it isn't otherwise a financial Bill under clause (1).",
+        "essential_elements": [
+          "A Bill or amendment dealing with any Article 110(1)(a)-(f) matter requires Presidential recommendation before introduction/moving, and cannot be introduced in the Council of States",
+          "No fresh Presidential recommendation is needed for amendments that merely reduce or abolish a tax",
+          "Bills merely imposing fines, licence/service fees, or local-authority taxation are not treated as falling within the restricted fiscal matters, mirroring the Article 110(2) carve-out",
+          "Separately, any Bill (financial or not) that would involve expenditure from the Consolidated Fund of India requires Presidential recommendation before either House passes it"
+        ],
+        "exceptions_and_qualifications": [
+          "Financial Bills under this article are structurally different from true Money Bills under Article 110 — only the fiscal-matter provisions trigger the introduction restrictions, and the Rajya Sabha retains its normal co-equal amending/passing role for the Bill as a whole once introduced (unlike its recommendation-only role under Article 109 for genuine Money Bills)",
+          "Clause (3)'s expenditure-recommendation requirement is broader and independent of clause (1) — it can apply even to a Bill that has nothing to do with the Article 110(1) fiscal-matter categories, simply because its enactment would cause Consolidated Fund spending"
+        ],
+        "how_to_read": "Distinguish this article's 'financial Bill' from Article 110's 'Money Bill' — a financial Bill needs Presidential recommendation and Lok-Sabha-only introduction for its fiscal provisions but is otherwise processed as an ordinary Bill through both Houses, whereas a true Money Bill is entirely Lok-Sabha-controlled under Article 109."
+      }
+    },
+    {
+      "number": "118",
+      "title": "Rules of procedure",
+      "raw_text": "(1) Each House of Parliament may make rules for regulating, subject to the provisions of this Constitution, its procedure and the conduct of its business. (2) Until rules are made under clause (1), the rules of procedure and standing orders in force immediately before the commencement of this Constitution with respect to the Legislature of the Dominion of India shall have effect in relation to Parliament subject to such modifications and adaptations as may be made therein by the Chairman of the Council of States or the Speaker of the House of the People, as the case may be. (3) The President, after consultation with the Chairman of the Council of States and the Speaker of the House of the People, may make rules as to the procedure with respect to joint sittings of, and communications between, the two Houses. (4) At a joint sitting of the two Houses the Speaker of the House of the People, or in his absence such person as may be determined by rules of procedure made under clause (3), shall preside.",
+      "key_terms": [
+        "each House's power to make its own procedural rules",
+        "transitional pre-Constitution standing orders",
+        "President's rules for joint sittings and inter-House communication",
+        "Speaker presides at joint sittings"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 118 gives each House of Parliament internal self-governance over its own procedure (subject to the Constitution itself) — this is the source of the Rajya Sabha's and Lok Sabha's own Rules of Procedure and Conduct of Business, and of Speaker's/Chairman's rulings that shape day-to-day proceedings. Clause (2) was a one-time transitional bridge ensuring Parliament wasn't left without any procedural rules at all the moment the Constitution commenced, by carrying over the old Dominion Legislature's standing orders (as adapted). Clauses (3)-(4) specifically hand the President rule-making power for the cross-House mechanics of joint sittings and inter-House communication (the mechanics behind Article 108's joint sitting), and fix the Speaker (not the Rajya Sabha Chairman) as the default presiding officer whenever a joint sitting actually occurs — reflecting the Lok Sabha's numerically dominant position in that setting.",
+        "essential_elements": [
+          "Each House has autonomous rule-making power over its own procedure and business conduct, always subject to the Constitution's overriding provisions",
+          "The pre-Constitution Dominion Legislature's standing orders filled the gap until each House made its own rules, as adapted by the Chairman or Speaker respectively",
+          "The President, after consulting both presiding officers, makes the rules specifically governing joint-sitting procedure and communications between the two Houses",
+          "The Speaker of the House of the People (or his rules-designated substitute) presides over any joint sitting, regardless of which House's Bill is under consideration"
+        ],
+        "exceptions_and_qualifications": [
+          "Each House's rule-making autonomy under clause (1) is expressly 'subject to the provisions of this Constitution' — internal rules cannot override or contradict any constitutional requirement (e.g., the quorum or voting rules of Article 100)",
+          "The President's joint-sitting rule-making power under clause (3) is confined to procedural/communication mechanics — it does not extend to the substantive voting or amendment rules for joint sittings, which are fixed directly by Article 108(4) itself"
+        ],
+        "how_to_read": "Treat clause (1) as the general internal-autonomy rule (each House's own Rules of Procedure), clause (2) as a spent transitional bridge, and clauses (3)-(4) as the specific machinery provisions supporting Article 108's joint sitting mechanism — note the Speaker's default presiding role even over the combined Houses."
+      }
+    },
+    {
+      "number": "119",
+      "title": "Regulation by law of procedure in Parliament in relation to financial business",
+      "raw_text": "Parliament may, for the purpose of the timely completion of financial business, regulate by law the procedure of, and the conduct of business in, each House of Parliament in relation to any financial matter or to any Bill for the appropriation of moneys out of the Consolidated Fund of India, and, if and so far as any provision of any law so made is inconsistent with any rule made by a House of Parliament under clause (1) of article 118 or with any rule or standing order having effect in relation to Parliament under clause (2) of that article, such provision shall prevail.",
+      "key_terms": [
+        "Parliament's law-making power over financial-business procedure",
+        "statutory override of internal House rules for financial business"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 119 lets Parliament, by ordinary legislation, impose binding time-limits and procedural discipline on how each House handles financial business specifically (Budget debates, grant votes, Appropriation Bills) — ensuring urgent fiscal matters like the annual Budget cannot be indefinitely stalled by internal procedural manoeuvring. Crucially, such a law trumps each House's own internal Rules of Procedure made under Article 118(1) (and the transitional standing orders under Article 118(2)) wherever there's a conflict — a rare instance of statute law overriding a House's own procedural autonomy, justified by the constitutional priority placed on timely fiscal governance.",
+        "essential_elements": [
+          "Parliament may make a law specifically regulating the procedure and conduct of financial business (financial matters generally, or Appropriation Bills specifically) in either House",
+          "The stated purpose is ensuring timely completion of financial business, addressing the risk that ordinary procedural rules could be used to indefinitely delay Budget-related legislation",
+          "Where such a law conflicts with a House's own Article 118(1) rules, or with the transitional Article 118(2) standing orders, the statute prevails over the internal rule"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a narrow, purpose-specific override confined to financial business — it does not give Parliament general power to override each House's procedural autonomy on non-financial matters, which remains governed by Article 118(1) alone",
+          "In practice this power has rarely needed active exercise, since each House's own Rules of Procedure already build in Budget-session timelines, but the provision stands as a constitutional backstop"
+        ],
+        "how_to_read": "Read this as a narrow, financial-business-specific exception to Article 118(1)'s internal-autonomy principle — the only context in which an ordinary Parliamentary statute can override a House's own procedural rules, justified by the urgency of timely Budget passage."
       }
     }
   ]
