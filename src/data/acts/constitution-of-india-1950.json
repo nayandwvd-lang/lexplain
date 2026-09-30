@@ -711,7 +711,18 @@
     "Appropriation Bill combining Assembly grants and charged expenditure": "The Article 204(1) Bill introduced after the Assembly makes its grants, appropriating from the Consolidated Fund of the State all money needed to meet both the Assembly-approved grants and the fixed charged-expenditure amounts (capped at the previously laid statement's figures).",
     "amendment bar on grant amount/destination and charged expenditure amount": "The Article 204(2) rule barring any Appropriation Bill amendment that would vary a grant's amount or destination, or vary the amount of charged expenditure — the underlying figures, once fixed by the grants process, cannot be reopened at the appropriation stage.",
     "presiding officer's final ruling on amendment inadmissibility": "The Article 204(2) rule making the presiding officer's decision on whether a proposed Appropriation Bill amendment is inadmissible under the amendment bar final and unchallengeable.",
-    "legal-appropriation precondition for withdrawing Consolidated Fund moneys": "The Article 204(3) rule that no money may be withdrawn from a State's Consolidated Fund except under an appropriation made by law passed under this Article, subject only to the special mechanisms in Articles 205 and 206."
+    "legal-appropriation precondition for withdrawing Consolidated Fund moneys": "The Article 204(3) rule that no money may be withdrawn from a State's Consolidated Fund except under an appropriation made by law passed under this Article, subject only to the special mechanisms in Articles 205 and 206.",
+    "supplementary/additional expenditure statement (mid-year shortfall or new service)": "The Article 205(1)(a) mechanism requiring the Governor to lay a further statement before the State Legislature when an originally sanctioned amount proves insufficient mid-year, or when an entirely new, unbudgeted service needs funding during the current financial year.",
+    "excess-expenditure demand (already-spent overrun)": "The Article 205(1)(b) mechanism requiring a demand to be presented to the Legislative Assembly when money has already been spent on a service beyond the amount originally granted for it — a retrospective regularisation demand.",
+    "full Article 202-204 procedure applied to supplementary/excess grants": "The Article 205(2) rule that the entire ordinary budget procedure — annual financial statement mechanics (202), demands-for-grants discussion (203), and Appropriation Bill requirements (204) — applies in full to supplementary, additional, or excess grants exactly as it does to the original annual budget.",
+    "vote on account (interim advance grant)": "The Article 206(1)(a) power letting the Legislative Assembly grant an advance for part of a financial year's estimated expenditure while the full Article 203-204 budget procedure is still underway — the mechanism that funds government operations before the annual budget is finally passed.",
+    "vote of credit (indefinite/unforeseeable demand grant)": "The Article 206(1)(b) power letting the Legislative Assembly grant funds for an unexpected demand on State resources too large or indefinite in character to itemise with the detail an ordinary annual financial statement requires.",
+    "exceptional grant (outside current-year service)": "The Article 206(1)(c) power letting the Legislative Assembly make a grant for something that forms no part of any current financial year's ordinary service.",
+    "Assembly-only power for all three special grant types": "The Article 206 characterisation that votes on account, votes of credit, and exceptional grants are all powers of the Legislative Assembly specifically, usable notwithstanding the ordinary provisions' timing constraints, though still routed through Articles 203 and 204's discussion/appropriation requirements.",
+    "Governor's recommendation precondition for Article 199(1)(a)-(f) Bills/amendments": "The Article 207(1) rule requiring the Governor's prior recommendation before a Bill or amendment touching any Article 199(1)(a)-(f) financial subject matter can be introduced or moved, and barring such Bills from originating in the Legislative Council.",
+    "tax-reduction/abolition amendment exemption from recommendation requirement": "The Article 207(1) proviso exempting amendments that would reduce or abolish a tax from needing the Governor's prior recommendation — the gatekeeping exists to control new or increased financial burdens, not to block relief.",
+    "fines/fees/local-tax carve-out (financial Bills)": "The Article 207(2) rule, mirroring Article 199(2), that a Bill or amendment is not treated as touching Article 199(1)(a)-(f) financial subject matter merely because it imposes fines/penalties, licence/service fees, or lets a local authority tax for local purposes.",
+    "Governor's recommendation precondition for expenditure-involving Bills": "The Article 207(3) rule that any Bill which, once enacted, would involve expenditure from the State's Consolidated Fund cannot be passed by a House unless the Governor has recommended that House consider the Bill — broader than clause (1)'s specific subject-matter list and operative at the passage stage."
   },
   "sections": [
     {
@@ -5824,6 +5835,76 @@
           "The amendment bar in clause (2) only blocks changes to amounts/destinations already fixed by the grants process — it does not bar all amendments to the Appropriation Bill whatsoever, just those that would re-open figures already settled."
         ],
         "how_to_read": "Read Article 204 as Article 114's precise State-level mirror, and read it as the necessary final legal step converting political approval (grants) into legal authority (appropriation) — Articles 205 and 206 exist as the recognised escape valves for situations this basic sequence can't handle in real time."
+      }
+    },
+    {
+      "number": "205",
+      "title": "Supplementary, additional or excess grants",
+      "raw_text": "(1) The Governor shall—\n(a) if the amount authorised by any law made in accordance with the provisions of article 204 to be expended for a particular service for the current financial year is found to be insufficient for the purposes of that year or when a need has arisen during the current financial year for supplementary or additional expenditure upon some new service not contemplated in the annual financial statement for that year, or\n(b) if any money has been spent on any service during a financial year in excess of the amount granted for that service and for that year,\ncause to be laid before the House or the Houses of the Legislature of the State another statement showing the estimated amount of that expenditure or cause to be presented to the Legislative Assembly of the State a demand for such excess, as the case may be.\n(2) The provisions of articles 202, 203 and 204 shall have effect in relation to any such statement and expenditure or demand and also to any law to be made authorising the appropriation of moneys out of the Consolidated Fund of the State to meet such expenditure or the grant in respect of such demand as they have effect in relation to the annual financial statement and the expenditure mentioned therein or to a demand for a grant and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of the State to meet such expenditure or grant.",
+      "key_terms": [
+        "supplementary/additional expenditure statement (mid-year shortfall or new service)",
+        "excess-expenditure demand (already-spent overrun)",
+        "full Article 202-204 procedure applied to supplementary/excess grants"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 205 is the State-level counterpart to Article 115, providing three real-world escape hatches from a rigid annual budget: if an originally sanctioned amount proves insufficient mid-year, if an entirely new and unforeseen service needs funding during the year, or if money has already been spent beyond what was granted (a retrospective excess), the Governor must place the relevant statement or demand before the Legislature. Whichever situation applies, the entire estimates-discussion/demands-for-grants/appropriation-Bill machinery of Articles 202-204 applies afresh to this supplementary material exactly as it would to the original annual budget — there's no shortcut around legislative scrutiny just because the spending is supplementary or already incurred.",
+        "essential_elements": [
+          "Clause (1)(a): covers both an originally insufficient sanctioned amount and a genuinely new, unbudgeted service arising mid-year.",
+          "Clause (1)(b): covers money already spent in excess of what was granted — a retrospective regularisation demand.",
+          "Clause (2): the full Article 202 (statement), 203 (demands for grants/discussion), and 204 (Appropriation Bill) procedure applies to this supplementary material just as to the original annual financial statement."
+        ],
+        "exceptions_and_qualifications": [
+          "The excess-grant demand under clause (1)(b) is inherently retrospective — it seeks legislative regularisation of spending that has already occurred, distinguishing it from the forward-looking supplementary/additional grants under clause (1)(a)."
+        ],
+        "how_to_read": "Read Article 205 as Article 115's precise State-level mirror — think of it as the budget's mid-course-correction and after-the-fact-regularisation mechanism, always routed back through the same full Article 202-204 pipeline rather than any abbreviated process."
+      }
+    },
+    {
+      "number": "206",
+      "title": "Votes on account, votes of credit and exceptional grants",
+      "raw_text": "(1) Notwithstanding anything in the foregoing provisions of this Chapter, the Legislative Assembly of a State shall have power—\n(a) to make any grant in advance in respect of the estimated expenditure for a part of any financial year pending the completion of the procedure prescribed in article 203 for the voting of such grant and the passing of the law in accordance with the provisions of article 204 in relation to that expenditure;\n(b) to make a grant for meeting an unexpected demand upon the resources of the State when on account of the magnitude or the indefinite character of the service the demand cannot be stated with the details ordinarily given in an annual financial statement;\n(c) to make an exceptional grant which forms no part of the current service of any financial year;\nand the Legislature of the State shall have power to authorise by law the withdrawal of moneys from the Consolidated Fund of the State for the purposes for which the said grants are made.\n(2) The provisions of articles 203 and 204 shall have effect in relation to the making of any grant under clause (1) and to any law to be made under that clause as they have effect in relation to the making of a grant with regard to any expenditure mentioned in the annual financial statement and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of the State to meet such expenditure.",
+      "key_terms": [
+        "vote on account (interim advance grant)",
+        "vote of credit (indefinite/unforeseeable demand grant)",
+        "exceptional grant (outside current-year service)",
+        "Assembly-only power for all three special grant types"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 206 is the State-level counterpart to Article 116, giving the Legislative Assembly three special, override-style grant powers usable notwithstanding the ordinary Article 203-204 sequence's timing constraints: a 'vote on account' bridges the gap while the full budget process is still underway (funding government operations for part of the year in advance); a 'vote of credit' handles genuinely unpredictable, magnitude-uncertain demands that can't be itemised the way an ordinary annual statement requires; and an 'exceptional grant' funds something entirely outside any current year's ordinary service altogether. All three remain, despite their urgency and flexibility, still routed through Article 203's discussion/demand procedure and Article 204's appropriation-law requirement — these are accelerated or specially-shaped versions of the ordinary process, not a bypass of legislative approval altogether.",
+        "essential_elements": [
+          "Clause (1)(a): vote on account — an advance grant bridging the gap before the full annual budget process completes.",
+          "Clause (1)(b): vote of credit — for demands too large or too indefinite in character to itemise in the ordinary annual statement format.",
+          "Clause (1)(c): exceptional grant — funding something outside any current financial year's ordinary service.",
+          "Clause (2): Articles 203 and 204 still apply to all three grant types — they are accelerated/specially-shaped versions of the ordinary procedure, not an approval bypass."
+        ],
+        "exceptions_and_qualifications": [
+          "All three grant mechanisms are exercisable by the Legislative Assembly alone, 'notwithstanding' the ordinary provisions' timing — but this overrides only timing/format constraints, not the underlying requirement of Assembly approval and a subsequent appropriation law."
+        ],
+        "how_to_read": "Read Article 206 as Article 116's precise State-level mirror — a vote on account is the most practically important of the three in ordinary governance (it is what funds a State government in the interim before its full annual budget is passed each year)."
+      }
+    },
+    {
+      "number": "207",
+      "title": "Special provisions as to financial Bills",
+      "raw_text": "(1) A Bill or amendment making provision for any of the matters specified in sub-clauses (a) to (f) of clause (1) of article 199 shall not be introduced or moved except on the recommendation of the Governor, and a Bill making such provision shall not be introduced in a Legislative Council:\nProvided that no recommendation shall be required under this clause for the moving of an amendment making provision for the reduction or abolition of any tax.\n(2) A Bill or amendment shall not be deemed to make provision for any of the matters aforesaid by reason only that it provides for the imposition of fines or other pecuniary penalties, or for the demand or payment of fees for licences or fees for services rendered, or by reason that it provides for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes.\n(3) A Bill which, if enacted and brought into operation, would involve expenditure from the Consolidated Fund of a State shall not be passed by a House of the Legislature of the State unless the Governor has recommended to that House the consideration of the Bill.",
+      "key_terms": [
+        "Governor's recommendation precondition for Article 199(1)(a)-(f) Bills/amendments",
+        "tax-reduction/abolition amendment exemption from recommendation requirement",
+        "fines/fees/local-tax carve-out (financial Bills)",
+        "Governor's recommendation precondition for expenditure-involving Bills"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 207 is the State-level counterpart to Article 117, extending the Governor's-recommendation gatekeeping principle beyond pure Money Bills (Article 198/199) to any 'financial Bill' — a Bill or amendment touching any Article 199(1)(a)-(f) subject matter (even if mixed with other content, so it doesn't qualify as a true Money Bill) or a Bill that would involve Consolidated Fund expenditure once enacted. Such Bills need the Governor's prior recommendation to even be introduced or moved, and financial Bills of the Article 199(1)(a)-(f) type also cannot originate in the Legislative Council. A carve-out exists so members remain free to move tax-reduction or tax-abolition amendments without needing the Governor's recommendation — the executive gatekeeping exists to control new/increased financial burdens, not to block relief.",
+        "essential_elements": [
+          "Clause (1): Bills/amendments touching Article 199(1)(a)-(f) subject matter need the Governor's recommendation and cannot originate in the Council, with a proviso exempting tax-reduction/abolition amendments from the recommendation requirement.",
+          "Clause (2): the same fines/fees/local-tax carve-out from Article 199(2) applies here too — such provisions alone don't trigger the recommendation requirement.",
+          "Clause (3): any Bill that would involve Consolidated Fund expenditure needs the Governor's recommendation before the House can even pass it, distinct from and broader than clause (1)'s specific subject-matter list."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (3)'s expenditure-recommendation requirement is broader than clause (1) — it catches any Bill with a Consolidated Fund expenditure effect, not just ones matching Article 199(1)(a)-(f)'s specific categories, and applies at the passage stage rather than only introduction.",
+          "The tax-reduction/abolition proviso in clause (1) is a narrow, specific carve-out — it does not extend to amendments on the other Article 199(1) subject-matter categories (borrowing, Fund custody, appropriation, charged expenditure, or Fund receipts)."
+        ],
+        "how_to_read": "Read Article 207 as Article 117's precise State-level mirror, and read it as extending Article 198/199's Money-Bill-specific gatekeeping to the broader universe of any Bill touching State finances — together Articles 198, 199, and 207 ensure the executive controls the introduction of new financial burdens while the Legislature retains full power to scrutinise, discuss, and even cut them once properly introduced."
       }
     }
   ]
