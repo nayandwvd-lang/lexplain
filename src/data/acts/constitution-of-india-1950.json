@@ -741,7 +741,20 @@
     "House disapproval resolution ending an Ordinance early": "The Article 213(2)(a) mechanism letting a State Ordinance be ended before the six-week lapse period via a disapproval resolution passed by the Assembly and (in bicameral States) agreed to by the Council.",
     "Governor's power to withdraw an Ordinance at any time": "The Article 213(2)(b) power letting the Governor withdraw a promulgated Ordinance at any time, independent of the automatic lapse or disapproval mechanisms.",
     "Ordinance's substantive validity limits (Act-equivalence test)": "The Article 213(3) rule that a State Ordinance is void to the extent its content would be invalid if enacted as an ordinary State Legislature Act assented to by the Governor — an Ordinance cannot achieve through emergency power what an ordinary Act could not validly achieve.",
-    "President-instructed Ordinance treated as President-assented reserved Act (Concurrent List repugnancy)": "The proviso to Article 213(3) deeming a President-instructed Ordinance to be a State Act that was reserved for and assented to by the President, specifically for determining whether it validly prevails over an inconsistent Union/existing law on a Concurrent List matter."
+    "President-instructed Ordinance treated as President-assented reserved Act (Concurrent List repugnancy)": "The proviso to Article 213(3) deeming a President-instructed Ordinance to be a State Act that was reserved for and assented to by the President, specifically for determining whether it validly prevails over an inconsistent Union/existing law on a Concurrent List matter.",
+    "one High Court per State (as originally enacted)": "The Article 214 baseline guarantee that every State has its own High Court — simplified by the Seventh Amendment (1956) to a single-sentence guarantee, with the possibility of a shared common High Court for multiple States separately addressed by Article 231.",
+    "High Court as a court of record": "The Article 215 status making every High Court's proceedings and judgments authoritatively recorded, self-proving without further evidence, and precedentially binding within its jurisdiction — the High Court-level mirror of Article 129's Supreme Court status.",
+    "High Court's contempt-of-itself punishment power": "The Article 215 power, inherent in a High Court's court-of-record status, letting it punish for contempt of itself without needing separate statutory conferral — procedurally regulated in practice by the Contempt of Courts Act, 1971.",
+    "Chief Justice plus President-determined additional Judges (High Court composition)": "The Article 216 rule that every High Court consists of a Chief Justice plus as many other Judges as the President, from time to time, deems necessary to appoint — a flexible, executively adjustable strength unlike the Supreme Court's Parliamentary-law-fixed strength.",
+    "High Court Judge's appointment by President's warrant after consultation": "The Article 217(1) appointment mechanism: a Presidential warrant issued after consultation with the Chief Justice of India, the State Governor, and (for puisne Judges) the High Court's own Chief Justice — the process the 2014 NJAC amendment attempted to replace before being struck down in 2015.",
+    "sixty-two-year retirement age (High Court Judges)": "The Article 217(1) mandatory retirement age for a regular (non-additional, non-acting) High Court Judge, raised from sixty to sixty-two years by the Fifteenth Amendment Act, 1963.",
+    "Judge's voluntary resignation by writing to President": "The Article 217(1) proviso (a) mechanism letting a High Court Judge resign at will via signed writing addressed to the President.",
+    "removal via Article 124(4) impeachment procedure (High Court Judges)": "The Article 217(1) proviso (b) rule applying the identical Article 124(4) Supreme-Court-Judge impeachment procedure — proved misbehaviour/incapacity plus a special Parliamentary majority — to the removal of a High Court Judge.",
+    "office vacation on Supreme Court elevation or inter-High-Court transfer": "The Article 217(1) proviso (c) rule that a High Court Judge's office is automatically vacated upon his appointment as a Supreme Court Judge or his transfer by the President to another High Court within India.",
+    "ten-year judicial office or ten-year High Court advocate qualification": "The Article 217(2) alternative eligibility tracks for High Court Judge appointment — at least ten years holding judicial office in India, or at least ten years as an advocate of one or more High Courts — open only to Indian citizens.",
+    "Explanation-inclusive service-period computation rules": "The Article 217(2) Explanation clauses (a), (aa), and (b) crediting mixed judicial/advocate/tribunal/special-legal-knowledge service, and pre-15-August-1947 comparable service, toward the ten-year eligibility thresholds for High Court Judge appointment.",
+    "President's final age-dispute determination after CJI consultation": "The Article 217(3) mechanism resolving any dispute over a sitting High Court Judge's age — decided by the President after consulting the Chief Justice of India, with the President's decision being final.",
+    "NJAC amendment struck down — collegium consultation practice restored": "The 2014 Ninety-ninth Amendment's substitution of a National Judicial Appointments Commission for the consultative appointment process under Article 217(1), which the Supreme Court struck down as unconstitutional in Supreme Court Advocates-on-Record Association v. Union of India (2015), restoring the pre-amendment collegium-based consultative practice despite the amended text formally remaining on the books."
   },
   "sections": [
     {
@@ -6057,6 +6070,96 @@
           "Clause (4) of the original Article 213 (a Forty-second Amendment insertion on Ordinance-validity non-justiciability) was omitted by the Forty-fourth Amendment and does not currently form part of the Article's operative text."
         ],
         "how_to_read": "Read Article 213 as Article 123's State-level mirror with one crucial structural difference: the Governor's Ordinance power is subject to a mandatory Presidential-instructions gate for an entire category of sensitive legislation, reflecting the Governor's position as a Union-appointed office subordinate to Presidential oversight in ways the President's own Ordinance power naturally is not."
+      }
+    },
+    {
+      "number": "214",
+      "title": "High Courts for States",
+      "raw_text": "There shall be a High Court for each State.",
+      "key_terms": [
+        "one High Court per State (as originally enacted)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 214 opens Chapter V (The High Courts in the States) with the simple foundational guarantee that every State has its own High Court. Originally this Article (as clause (1), with clauses (2) and (3) addressing then-existing common High Courts for groups of Provinces/States) was more elaborate, but the Seventh Amendment (1956), enacted alongside the States Reorganisation Act's wholesale redrawing of State boundaries, simplified it to this single guarantee and removed the clause numbering along with clauses (2)-(3), since Article 231 (a later Article) now separately handles the possibility of a common High Court for two or more States.",
+        "essential_elements": [
+          "Guarantees at least one High Court for every State — the baseline institutional structure for State-level constitutional courts."
+        ],
+        "exceptions_and_qualifications": [
+          "This guarantee doesn't prevent two or more States sharing a single common High Court — that possibility is expressly addressed by the later Article 231, operating as an exception to the one-State-one-High-Court default this Article otherwise implies."
+        ],
+        "how_to_read": "Read Article 214 as the foundational one-High-Court-per-State default, and cross-read it immediately with Article 231 (common High Courts for two or more States) to get the complete institutional picture — this Article alone states only the default rule."
+      }
+    },
+    {
+      "number": "215",
+      "title": "High Courts to be courts of record",
+      "raw_text": "Every High Court shall be a court of record and shall have all the powers of such a court including the power to punish for contempt of itself.",
+      "key_terms": [
+        "High Court as a court of record",
+        "High Court's contempt-of-itself punishment power"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 215 is the High Court's precise counterpart to Article 129's Supreme Court guarantee, declaring every High Court a 'court of record' — meaning its proceedings and judgments are authoritatively recorded and admitted as evidence without further proof, and its decisions carry precedential weight within its jurisdiction. This status inherently includes the power to punish for contempt of itself, an essential self-protective power ensuring the Court's authority and the administration of justice within its jurisdiction cannot be undermined by defiance or scandalising conduct.",
+        "essential_elements": [
+          "Every High Court is constitutionally a court of record — its records are authoritative and self-proving.",
+          "This status carries with it the inherent power to punish for contempt of itself, without needing separate statutory conferral."
+        ],
+        "exceptions_and_qualifications": [
+          "The contempt power is constitutionally inherent (not statutorily conferred), but its actual exercise is procedurally regulated by the Contempt of Courts Act, 1971, which prescribes procedure, defences (including truth as a valid defence in the public interest, added by a 2006 amendment), and punishment limits — the Act channels the power's exercise without being its constitutional source.",
+          "'Court of record' status fixes only the High Court's evidentiary/precedential standing, not its substantive jurisdiction — a High Court's actual subject-matter and territorial jurisdiction is separately defined by other Articles and statutes, and is not enlarged by Article 215 itself."
+        ],
+        "how_to_read": "Read Article 215 as Article 129's precise High-Court-level mirror — like the Supreme Court's contempt power, this is a constitutionally inherent power, not one merely granted by ordinary legislation (though the Contempt of Courts Act, 1971 regulates its exercise procedurally)."
+      }
+    },
+    {
+      "number": "216",
+      "title": "Constitution of High Courts",
+      "raw_text": "Every High Court shall consist of a Chief Justice and such other Judges as the President may from time to time deem it necessary to appoint.",
+      "key_terms": [
+        "Chief Justice plus President-determined additional Judges (High Court composition)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 216 is the High Court's counterpart to Article 124(1) (Supreme Court composition), leaving a High Court's exact strength deliberately flexible: every High Court has a Chief Justice, plus as many other Judges as the President, from time to time, deems necessary to appoint. This flexibility lets the Union executive scale each High Court's Judge strength to its actual and evolving caseload without needing a constitutional amendment for every adjustment — unlike the Supreme Court, whose Judge count is fixed by Parliamentary law under Article 124(1), a High Court's sanctioned strength is set by executive determination.",
+        "essential_elements": [
+          "Every High Court has a Chief Justice as a constitutional minimum.",
+          "The number of additional (puisne) Judges is determined by the President from time to time, based on need — not fixed by any Article or Parliamentary law the way the Supreme Court's strength is."
+        ],
+        "exceptions_and_qualifications": [
+          "The 'other Judges' contemplated here are permanent Judges; additional and acting Judges appointed to meet temporary increases in business or arrears of work are separately provided for under Article 224, and do not count toward the permanent sanctioned strength fixed under this Article.",
+          "Though the President formally determines the number of Judges, this determination is in practice an executive administrative exercise made on the Union Government's assessment of a High Court's workload (typically following the recommendation of the Chief Justice of the High Court concerned) — not an unfettered personal discretion."
+        ],
+        "how_to_read": "Read Article 216 as the High Court's answer to the Supreme Court's composition Article, but note the structural difference: High Court strength is executively flexible (President's determination), whereas Supreme Court strength is fixed by Parliamentary law under Article 124(1) — a deliberate design choice reflecting the more variable, State-specific caseload pressures High Courts face."
+      }
+    },
+    {
+      "number": "217",
+      "title": "Appointment and conditions of the office of a Judge of a High Court",
+      "raw_text": "(1) Every Judge of a High Court shall be appointed by the President by warrant under his hand and seal after consultation with the Chief Justice of India, the Governor of the State, and, in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court, and shall hold office, in the case of an additional or acting Judge, as provided in article 224, and in any other case, until he attains the age of sixty-two years:\nProvided that—\n(a) a Judge may, by writing under his hand addressed to the President, resign his office;\n(b) a Judge may be removed from his office by the President in the manner provided in clause (4) of article 124 for the removal of a Judge of the Supreme Court;\n(c) the office of a Judge shall be vacated by his being appointed by the President to be a Judge of the Supreme Court or by his being transferred by the President to any other High Court within the territory of India.\n(2) A person shall not be qualified for appointment as a Judge of a High Court unless he is a citizen of India and—\n(a) has for at least ten years held a judicial office in the territory of India; or\n(b) has for at least ten years been an advocate of a High Court or of two or more such Courts in succession.\nExplanation.—For the purposes of this clause—\n(a) in computing the period during which a person has held judicial office in the territory of India, there shall be included any period, after he has held any judicial office, during which the person has been an advocate of a High Court or has held the office of a member of a tribunal or any post, under the Union or a State, requiring special knowledge of law;\n(aa) in computing the period during which a person has been an advocate of a High Court, there shall be included any period during which the person has held judicial office or the office of a member of a tribunal or any post, under the Union or a State, requiring special knowledge of law after he became an advocate;\n(b) in computing the period during which a person has held judicial office in the territory of India or been an advocate of a High Court, there shall be included any period before the commencement of this Constitution during which he has held judicial office in any area which was comprised before the fifteenth day of August, 1947, within India as defined by the Government of India Act, 1935, or has been an advocate of any High Court in any such area, as the case may be.\n(3) If any question arises as to the age of a Judge of a High Court, the question shall be decided by the President after consultation with the Chief Justice of India and the decision of the President shall be final.",
+      "key_terms": [
+        "High Court Judge's appointment by President's warrant after consultation",
+        "sixty-two-year retirement age (High Court Judges)",
+        "Judge's voluntary resignation by writing to President",
+        "removal via Article 124(4) impeachment procedure (High Court Judges)",
+        "office vacation on Supreme Court elevation or inter-High-Court transfer",
+        "ten-year judicial office or ten-year High Court advocate qualification",
+        "Explanation-inclusive service-period computation rules",
+        "President's final age-dispute determination after CJI consultation",
+        "NJAC amendment struck down — collegium consultation practice restored"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 217 is the High Court's counterpart to Articles 124(2)/(4) combined, governing appointment, tenure, and removal of High Court Judges. Appointment is by Presidential warrant after consultation with the Chief Justice of India, the State Governor, and (for puisne Judges) the High Court's own Chief Justice — the 2014 Ninety-ninth Amendment's attempt to replace this consultative process with a National Judicial Appointments Commission was struck down by the Supreme Court in October 2015 as unconstitutional, so the original collegium-consultation process remains operative in practice. A regular Judge holds office until 62 (raised from 60 by the Fifteenth Amendment, 1963), while additional/acting Judges' tenure is separately governed by Article 224. Removal follows the identical rigorous Article 124(4) Supreme-Court-Judge impeachment procedure. Eligibility requires Indian citizenship plus either ten years as a judicial officer or ten years as a High Court advocate, with generous Explanation-based rules crediting mixed judicial/advocate/tribunal service and pre-Independence service toward these thresholds.",
+        "essential_elements": [
+          "Clause (1): appointment by Presidential warrant after the CJI/Governor/Chief-Justice-of-the-High-Court consultation (the NJAC's attempted replacement of this was struck down); tenure until 62 for regular Judges (Article 224 governs additional/acting Judges separately).",
+          "Provisos (a)-(c): resignation by writing to the President; removal only via the Article 124(4) procedure; automatic vacation on Supreme Court elevation or inter-High-Court transfer.",
+          "Clause (2): the alternative ten-year judicial-office or ten-year High-Court-advocate eligibility tracks, open only to Indian citizens.",
+          "Explanation (a)/(aa)/(b): generous service-computation rules letting mixed judicial/advocate/tribunal/special-legal-knowledge service, and pre-15-August-1947 service in comparable roles, count toward the ten-year thresholds.",
+          "Clause (3): any age dispute about a sitting Judge is finally decided by the President after CJI consultation."
+        ],
+        "exceptions_and_qualifications": [
+          "The 2014 Ninety-ninth Amendment's NJAC-based appointment mechanism, though textually substituted into clause (1), was struck down by the Supreme Court in Supreme Court Advocates-on-Record Association v. Union of India (2015) — the pre-amendment consultative process (with the judiciary's collegium exercising primacy per subsequent case law) governs appointments in actual practice despite the amendment's text remaining formally on the books.",
+          "Clause (2)(c) — a 42nd Amendment (1976) insertion adding a residual Parliamentary-law eligibility ground — was itself omitted by the 44th Amendment (1978) and does not currently form part of the operative eligibility criteria."
+        ],
+        "how_to_read": "Read Article 217 as the High-Court-level counterpart to Article 124(2) and (4) combined — always flag the NJAC/collegium history explicitly, since the Article's literal text and the operative constitutional practice currently diverge due to the 2015 Supreme Court ruling."
       }
     }
   ]
