@@ -425,7 +425,19 @@
     "President's rules for joint sittings and inter-House communication": "The Article 118(3) power of the President, after consulting the Chairman of the Council of States and the Speaker of the House of the People, to make rules governing the procedural mechanics of joint sittings and communications between the two Houses.",
     "Speaker presides at joint sittings": "The Article 118(4) default rule that the Speaker of the House of the People (or his rules-designated substitute if absent) presides over any joint sitting of both Houses, regardless of which House originated the Bill under consideration.",
     "Parliament's law-making power over financial-business procedure": "The Article 119 power allowing Parliament to regulate by ordinary law the procedure and conduct of business in either House specifically for financial matters and Appropriation Bills, aimed at ensuring timely completion of financial business.",
-    "statutory override of internal House rules for financial business": "The Article 119 rule that a law made under this article prevails over any inconsistent internal House rule made under Article 118(1) or transitional standing order under Article 118(2), for financial-business matters specifically — a narrow, purpose-limited exception to each House's general procedural autonomy."
+    "statutory override of internal House rules for financial business": "The Article 119 rule that a law made under this article prevails over any inconsistent internal House rule made under Article 118(1) or transitional standing order under Article 118(2), for financial-business matters specifically — a narrow, purpose-limited exception to each House's general procedural autonomy.",
+    "language of Parliamentary business": "The Article 120(1) rule fixing Hindi and English as the languages in which Parliament's business is ordinarily transacted, overriding Part XVII's general official-language scheme but subject to Article 348.",
+    "mother-tongue proviso": "The proviso to Article 120(1) permitting the Chairman or Speaker to allow a member who cannot adequately express himself in Hindi or English to address the House in his mother tongue.",
+    "fifteen-year sunset on English (unless extended by law)": "The Article 120(2) clause that would have automatically dropped English as a permitted Parliamentary language fifteen years after the Constitution's commencement, but which Parliament has continuously overridden by law (notably the Official Languages Act, 1963), keeping English available indefinitely.",
+    "bar on discussing judicial conduct in Parliament": "The Article 121 general prohibition on Parliament discussing the conduct of a Supreme Court or High Court Judge in the discharge of his duties, protecting judicial independence from routine political scrutiny.",
+    "removal-motion exception": "The sole exception to Article 121's discussion bar — a formal motion for presenting an address to the President praying for a Judge's removal, following the procedure Article 124(4)-(5) establishes for Supreme Court Judges (and its High Court equivalent).",
+    "non-justiciability of Parliamentary procedural irregularity": "The Article 122(1) rule that courts cannot invalidate Parliamentary proceedings merely on the ground of an alleged procedural irregularity, distinct from and narrower than immunity from substantive constitutional review of legislation.",
+    "immunity of presiding officers for procedural rulings": "The Article 122(2) immunity shielding any officer or member exercising constitutionally-vested powers to regulate Parliamentary procedure, business conduct, or order from being subjected to court jurisdiction over the exercise of those specific powers.",
+    "Presidential Ordinance-making power": "The Article 123(1) power allowing the President, acting on Council of Ministers' aid and advice, to promulgate Ordinances with the full force of an Act of Parliament when immediate action is necessary and Parliament is not in session.",
+    "recess precondition for Ordinances": "The Article 123(1) requirement that the Ordinance power can only be exercised when both Houses of Parliament are not simultaneously in session — it is unavailable while Parliament is sitting.",
+    "six-week expiry after Parliament's reassembly": "The Article 123(2)(a) automatic sunset rule under which an Ordinance ceases to operate six weeks after Parliament reassembles, unless converted into a permanent Act or earlier disapproved by both Houses, with the clock running from the later reassembly date if the Houses are summoned on different dates.",
+    "disapproval resolutions by both Houses": "The Article 123(2)(a) mechanism by which an Ordinance can be terminated earlier than its six-week default expiry if both Houses of Parliament pass resolutions disapproving it, with the Ordinance ceasing to operate upon passage of the second such resolution.",
+    "Ordinance void if beyond Parliament's legislative competence": "The Article 123(3) rule that an Ordinance is void to the extent it contains any provision that Parliament itself would lack constitutional competence to enact as an ordinary law."
   },
   "sections": [
     {
@@ -3456,6 +3468,99 @@
           "In practice this power has rarely needed active exercise, since each House's own Rules of Procedure already build in Budget-session timelines, but the provision stands as a constitutional backstop"
         ],
         "how_to_read": "Read this as a narrow, financial-business-specific exception to Article 118(1)'s internal-autonomy principle — the only context in which an ordinary Parliamentary statute can override a House's own procedural rules, justified by the urgency of timely Budget passage."
+      }
+    },
+    {
+      "number": "120",
+      "title": "Language to be used in Parliament",
+      "raw_text": "(1) Notwithstanding anything in Part XVII, but subject to the provisions of article 348, business in Parliament shall be transacted in Hindi or in English: Provided that the Chairman of the Council of States or Speaker of the House of the People, or person acting as such, as the case may be, may permit any member who cannot adequately express himself in Hindi or in English to address the House in his mother-tongue. (2) Unless Parliament by law otherwise provides, this article shall, after the expiration of a period of fifteen years from the commencement of this Constitution, have effect as if the words \"or in English'' were omitted therefrom.",
+      "key_terms": [
+        "language of Parliamentary business",
+        "mother-tongue proviso",
+        "fifteen-year sunset on English (unless extended by law)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 120 fixes Hindi and English as the two languages in which Parliament's business may be conducted, overriding the general official-language provisions of Part XVII except where Article 348 (language of the Supreme Court/High Courts and of authoritative legislative texts) specifically applies. The proviso is a practical accommodation letting a member who genuinely cannot manage either language address the House in his mother tongue, with the presiding officer's permission. Clause (2) originally set a 15-year sunset clock on English's constitutional status as a Parliamentary language (i.e., it would have automatically dropped out around 1965) — but Parliament has repeatedly exercised its 'unless Parliament by law otherwise provides' override, most notably via the Official Languages Act, 1963, so English remains fully valid today alongside Hindi.",
+        "essential_elements": [
+          "Ordinary Parliamentary business must be transacted in Hindi or English",
+          "A member unable to adequately express himself in either language may, with the presiding officer's permission, address the House in his mother tongue",
+          "Clause (2)'s automatic removal of English after fifteen years from commencement is itself subject to Parliament's power to legislate otherwise — a power Parliament has exercised, keeping English available indefinitely"
+        ],
+        "exceptions_and_qualifications": [
+          "This article operates 'notwithstanding' Part XVII's general official-language scheme, but remains 'subject to' Article 348, which separately governs the language of the Supreme Court, High Courts, and authoritative legislative and judicial texts",
+          "The 15-year sunset in clause (2) never actually took effect in practice because Parliament passed overriding legislation (the Official Languages Act, 1963, as amended) before the deadline, preserving English's status"
+        ],
+        "how_to_read": "Read clause (1) as the operative Hindi-or-English rule with a mother-tongue safety valve, and clause (2) as a dormant sunset clause that Parliament has continuously legislated around — in practice, both Hindi and English remain fully available today."
+      }
+    },
+    {
+      "number": "121",
+      "title": "Restriction on discussion in Parliament",
+      "raw_text": "No discussion shall take place in Parliament with respect to the conduct of any Judge of the Supreme Court or of a High Court in the discharge of his duties except upon a motion for presenting an address to the President praying for the removal of the Judge as hereinafter provided.",
+      "key_terms": [
+        "bar on discussing judicial conduct in Parliament",
+        "removal-motion exception"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 121 protects judicial independence by generally barring Parliament from debating a sitting Supreme Court or High Court Judge's conduct in office at all — ordinary political criticism or discussion of a Judge's judicial performance is constitutionally off-limits. The sole exception is the formal, high-threshold removal process (the 'motion for presenting an address to the President praying for removal,' elaborated for Supreme Court Judges in Article 124(4)-(5) and applied to High Court Judges via Article 218) — only within that specific constitutional removal procedure may a Judge's conduct actually be discussed.",
+        "essential_elements": [
+          "General Parliamentary discussion of a Judge's conduct in discharging judicial duties is prohibited",
+          "The only permitted forum for discussing a Judge's conduct is a formal removal motion (address to the President) under the procedure Article 124(4)-(5) establishes"
+        ],
+        "exceptions_and_qualifications": [
+          "This bar applies only to discussion of judicial conduct in the discharge of duties — it does not bar all reference to a Judge or to judicial decisions/judgments in Parliamentary debate generally, only conduct-focused discussion outside the formal removal process",
+          "The removal-motion procedure itself, including its supporting investigation machinery, is what Article 124(5) (Parliament's power to regulate the procedure) and equivalent High Court provisions govern"
+        ],
+        "how_to_read": "Treat this as judicial-independence insulation — Parliament cannot casually debate a Judge's conduct; only the formal impeachment-style removal motion under Article 124(4)-(5) creates a lawful occasion to discuss it."
+      }
+    },
+    {
+      "number": "122",
+      "title": "Courts not to inquire into proceedings of Parliament",
+      "raw_text": "(1) The validity of any proceedings in Parliament shall not be called in question on the ground of any alleged irregularity of procedure. (2) No officer or member of Parliament in whom powers are vested by or under this Constitution for regulating procedure or the conduct of business, or for maintaining order, in Parliament shall be subject to the jurisdiction of any court in respect of the exercise by him of those powers.",
+      "key_terms": [
+        "non-justiciability of Parliamentary procedural irregularity",
+        "immunity of presiding officers for procedural rulings"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 122 is the Parliamentary counterpart to the courts-not-to-inquire rule that protects legislative proceedings from being unpicked in litigation over mere procedural technicalities. Clause (1) means a court cannot invalidate an Act or Parliamentary proceeding just because internal procedure (e.g., a Rules of Procedure requirement) was allegedly not followed exactly. Clause (2) separately immunises the Speaker, Chairman, or any other officer/member exercising constitutionally-vested procedural or order-maintaining powers (such as suspending a disruptive member, or ruling on amendment admissibility under Articles 108(4) or 114(2)) from being hauled before a court over how they exercised that power.",
+        "essential_elements": [
+          "Courts cannot invalidate Parliamentary proceedings merely for alleged procedural irregularity",
+          "Officers and members exercising constitutionally-vested procedural, business-conduct, or order-maintenance powers are immune from court jurisdiction over the exercise of those specific powers"
+        ],
+        "exceptions_and_qualifications": [
+          "This immunity concerns procedural regularity, not substantive constitutionality — it does not bar courts from reviewing whether a Parliamentary enactment itself is constitutionally valid on substantive grounds (that remains fully justiciable under the Constitution's ordinary judicial review framework)",
+          "The clause (2) immunity is confined to the exercise of powers 'vested by or under this Constitution' for procedure, business conduct, or order — it does not create a blanket immunity for every act of a Parliamentary officer unrelated to those specific functions"
+        ],
+        "how_to_read": "Distinguish clause (1)'s narrow procedural-irregularity shield from full immunity from judicial review — substantive constitutional challenges to legislation remain fully available; only internal procedural regularity and presiding-officer discretion in exercising procedural powers are insulated."
+      }
+    },
+    {
+      "number": "123",
+      "title": "Power of President to promulgate Ordinances during recess of Parliament",
+      "raw_text": "(1) If at any time, except when both Houses of Parliament are in session, the President is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require. (2) An Ordinance promulgated under this article shall have the same force and effect as an Act of Parliament, but every such Ordinance— (a) shall be laid before both Houses of Parliament and shall cease to operate at the expiration of six weeks from the reassembly of Parliament, or, if before the expiration of that period resolutions disapproving it are passed by both Houses, upon the passing of the second of those resolutions; and (b) may be withdrawn at any time by the President. Explanation.—Where the Houses of Parliament are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause. (3) If and so far as an Ordinance under this article makes any provision which Parliament would not under this Constitution be competent to enact, it shall be void.",
+      "key_terms": [
+        "Presidential Ordinance-making power",
+        "recess precondition for Ordinances",
+        "six-week expiry after Parliament's reassembly",
+        "disapproval resolutions by both Houses",
+        "Ordinance void if beyond Parliament's legislative competence"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 123 lets the President — acting, in reality, on the Union Council of Ministers' aid and advice under Article 74 — legislate by Ordinance when Parliament is not in session and urgent action is needed, without waiting for Parliament to reconvene and pass an ordinary Act. An Ordinance has full force of law, identical to an Act of Parliament, the moment it's promulgated. But it is inherently temporary and provisional: it must be placed before both Houses once they reassemble, and automatically lapses six weeks after reassembly unless Parliament converts it into a permanent Act before then (or it can die sooner if both Houses pass disapproval resolutions). This power has generated significant constitutional controversy in India over 'Ordinance Raj' — repeated re-promulgation of Ordinances to indefinitely bypass Parliament — which the Supreme Court has held to be a fraud on the Constitution (D.C. Wadhwa v. State of Bihar).",
+        "essential_elements": [
+          "The Ordinance power can only be exercised when both Houses of Parliament are not simultaneously in session",
+          "The President must be satisfied that circumstances exist rendering immediate action necessary — a satisfaction that is subject to judicial review for mala fides or complete absence of relevant material, per later constitutional jurisprudence",
+          "An Ordinance has the same force and effect as an Act of Parliament from the moment of promulgation",
+          "It must be laid before both Houses and automatically ceases to operate six weeks after Parliament's reassembly unless earlier converted into an Act or disapproved",
+          "The President retains an independent power to withdraw an Ordinance at any time before it would otherwise expire"
+        ],
+        "exceptions_and_qualifications": [
+          "Where Parliament's two Houses are summoned to reassemble on different dates, the six-week clock runs from the later of those two dates, not the earlier — ensuring the full Parliament (not just one House) gets a genuine opportunity to act",
+          "An Ordinance is void to the extent it contains any provision Parliament itself would lack competence to enact as an ordinary law — the Ordinance power cannot be used to legislate beyond Parliament's own constitutional limits",
+          "The repeated re-promulgation of an Ordinance without ever placing it before Parliament for a vote has been held unconstitutional as a colourable exercise of power circumventing the legislature (D.C. Wadhwa v. State of Bihar, 1987) — the 'satisfaction' precondition and the six-week/disapproval safeguards are not meant to be indefinitely evaded"
+        ],
+        "how_to_read": "Treat Article 123 as a temporary, session-gap-filling legislative power fully co-extensive with (and bound by the same competence limits as) ordinary Parliamentary law-making — the six-week expiry and disapproval-resolution mechanisms are the built-in safeguards against it becoming a permanent substitute for legislation, and repeated re-promulgation to dodge those safeguards is itself unconstitutional per Wadhwa."
       }
     }
   ]
