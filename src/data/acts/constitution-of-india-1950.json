@@ -618,7 +618,12 @@
     "Governor's summoning power (State Legislature)": "The Article 174(1) power letting the Governor summon the House or each House of a State Legislature to meet at a time and place of his choosing, subject to the mandatory maximum six-month gap between sessions.",
     "six-month maximum gap between sessions (State)": "The Article 174(1) rule guaranteeing a State Legislature meets at least twice a year, by prohibiting more than six months from elapsing between one session's last sitting and the next session's first sitting — the State-level mirror of Article 85(1)'s identical rule for Parliament.",
     "Governor's prorogation power (State Legislature)": "The Article 174(2)(a) power letting the Governor prorogue (formally end the sitting of) the House or either House of a State Legislature without dissolving it — ending a session while the House's membership and life continue.",
-    "Governor's dissolution power (Legislative Assembly)": "The Article 174(2)(b) power letting the Governor dissolve the Legislative Assembly specifically — a power that, per Article 172(2), can never be exercised against a Legislative Council, which is constitutionally immune from dissolution."
+    "Governor's dissolution power (Legislative Assembly)": "The Article 174(2)(b) power letting the Governor dissolve the Legislative Assembly specifically — a power that, per Article 172(2), can never be exercised against a Legislative Council, which is constitutionally immune from dissolution.",
+    "Governor's power to address the House(s)": "The Article 175(1) power letting the Governor personally address the Legislative Assembly, either House (in a bicameral State), or both Houses assembled together, and require members' attendance for that purpose — a general-purpose, any-time communication tool mirroring the President's Article 86(1) power.",
+    "Governor's power to send messages to the House(s)": "The Article 175(2) power letting the Governor send written messages to the State Legislature's House or Houses on any matter, pending Bill or otherwise, obliging the receiving House to consider the message's subject with all convenient despatch — the State-level mirror of Article 86(2).",
+    "Special Address at each year's first session and post-election session (Governor)": "The Article 176(1) mandatory obligation requiring the Governor to address the Assembly (or both Houses together) at the start of the first session after each general election and at the start of each calendar year's first session, informing the Legislature of the causes of its summons — functionally a government policy statement, mirroring the President's Article 87(1) duty.",
+    "allotted-time debate on Governor's Special Address": "The Article 176(2) requirement that State Legislature procedural rules set aside dedicated time for discussing the matters raised in the Governor's Special Address — ensuring the address triggers substantive legislative scrutiny.",
+    "Ministers' and Advocate-General's floor rights without voting rights": "The Article 177 rule giving every State Minister and the Advocate-General the right to speak and participate in the Assembly's, both Houses', and any Legislature committee's proceedings regardless of their own House membership, but expressly without conferring any right to vote — voting remains tied to actual membership of the relevant House."
   },
   "sections": [
     {
@@ -5051,6 +5056,68 @@
           "As with the President's equivalent powers under Article 85, the Governor's summoning, prorogation, and dissolution powers are, per Article 163's default rule, ordinarily exercised on the aid and advice of the Council of Ministers (specifically the Chief Minister), not as personal discretion — except in the narrow, well-recognised discretionary scenarios (e.g., a government that has lost its majority but declines to advise dissolution, or a hung Assembly)."
         ],
         "how_to_read": "Read Article 174 as Article 85's precise State-level mirror — the six-month rule, prorogation power, and (Assembly-only) dissolution power all track identically, with the same underlying convention that these are ordinarily ministerial-advice powers, not personal gubernatorial discretion, save in genuinely exceptional situations."
+      }
+    },
+    {
+      "number": "175",
+      "title": "Right of Governor to address and send messages to the House or Houses",
+      "raw_text": "(1) The Governor may address the Legislative Assembly or, in the case of a State having a Legislative Council, either House of the Legislature of the State, or both Houses assembled together, and may for that purpose require the attendance of members.\n(2) The Governor may send messages to the House or Houses of the Legislature of the State, whether with respect to a Bill then pending in the Legislature or otherwise, and a House to which any message is so sent shall with all convenient despatch consider any matter required by the message to be taken into consideration.",
+      "key_terms": [
+        "Governor's power to address the House(s)",
+        "Governor's power to send messages to the House(s)"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 175 mirrors Article 86's Presidential powers at the State level, giving the Governor two distinct communication tools with the Legislature: the power to personally address the Legislative Assembly, either House (in a bicameral State), or both Houses assembled together — compelling member attendance for that purpose — and the separate power to send written messages to the House or Houses, whether about a pending Bill or any other matter, which the receiving House must then take up with all convenient despatch.",
+        "essential_elements": [
+          "Clause (1): the Governor may address the Assembly, either House, or both Houses together, and may require members' attendance for that address.",
+          "Clause (2): the Governor may send messages to the House or Houses on a pending Bill or any other matter; the receiving House is obligated to consider the message's subject matter with all convenient despatch (though not bound to act on it in any particular way)."
+        ],
+        "exceptions_and_qualifications": [
+          "This power is distinct from the Special Address under Article 176, which is mandatory at fixed points (post-election, start of each year) — Article 175's address/message powers may be exercised at any time, at the Governor's own initiative (in practice, on ministerial advice)."
+        ],
+        "how_to_read": "Read Article 175 as Article 86's State-level mirror — a general-purpose communication channel available at any time, distinct from Article 176's specific, calendar-triggered Special Address obligation."
+      }
+    },
+    {
+      "number": "176",
+      "title": "Special address by the Governor",
+      "raw_text": "(1) At the commencement of the first session after each general election to the Legislative Assembly and at the commencement of the first session of each year, the Governor shall address the Legislative Assembly or, in the case of a State having a Legislative Council, both Houses assembled together and inform the Legislature of the causes of its summons.\n(2) Provision shall be made by the rules regulating the procedure of the House or either House for the allotment of time for discussion of the matters referred to in such address.",
+      "key_terms": [
+        "Special Address at each year's first session and post-election session (Governor)",
+        "allotted-time debate on Governor's Special Address"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 176 imposes a mandatory obligation on the Governor, mirroring the President's Article 87 duty: address the Assembly (or both Houses together, in bicameral States) at the start of the first session following each general election and at the start of each year's first session, explaining the causes of the Legislature's summons — in practice a policy-and-legislative-agenda-setting speech drafted by the Council of Ministers. House procedural rules must set aside dedicated time to debate the matters raised in that address.",
+        "essential_elements": [
+          "Two mandatory trigger-points: the first session after each general election to the Assembly, and the first session of every calendar year — the Governor must address the Legislature (or both Houses together, if bicameral) at each.",
+          "The address must inform the Legislature of the causes of its summons — functioning, by convention, as a government policy statement for the year or new Assembly term.",
+          "Clause (2) requires House procedural rules to allot dedicated debate time for the matters the address raises — ensuring the Special Address triggers substantive legislative scrutiny, not just a ceremonial reading."
+        ],
+        "exceptions_and_qualifications": [
+          "As with the President's Article 87 address, the Governor's Special Address content is, by settled constitutional convention, drafted by and reflects the policies of the Council of Ministers — it is not the Governor's personal statement of views."
+        ],
+        "how_to_read": "Read Article 176 as Article 87's State-level mirror — a mandatory, calendar-triggered policy address (distinct from Article 175's general, any-time address/message powers), always followed by allotted-time legislative debate."
+      }
+    },
+    {
+      "number": "177",
+      "title": "Rights of Ministers and Advocate-General as respects the Houses",
+      "raw_text": "Every Minister and the Advocate-General for a State shall have the right to speak in, and otherwise to take part in the proceedings of, the Legislative Assembly of the State or, in the case of a State having a Legislative Council, both Houses, and to speak in, and otherwise to take part in the proceedings of, any committee of the Legislature of which he may be named a member, but shall not, by virtue of this article, be entitled to vote.",
+      "key_terms": [
+        "Ministers' and Advocate-General's floor rights without voting rights"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 177 mirrors Article 88's Union-level rule, giving every State Minister and the Advocate-General the right to speak and otherwise participate in proceedings of the Legislative Assembly, both Houses (in bicameral States), and any Legislature committee they're named to — regardless of whether they're actually elected members of that House. This lets a Minister who sits in the Council (or is not yet a Legislature member at all, within the Article 164(4) six-month grace period) still explain and defend government policy on the Assembly floor. The right stops short of voting — only House membership, not this Article, confers a vote.",
+        "essential_elements": [
+          "Beneficiaries: every Minister (regardless of which House, if any, he belongs to) and the Advocate-General for the State.",
+          "Scope of rights: speaking and otherwise participating in proceedings of the Assembly, both Houses (bicameral States), and any committee they're named a member of.",
+          "Express limitation: this Article confers no voting right — voting remains tied to actual House membership."
+        ],
+        "exceptions_and_qualifications": [
+          "This is particularly significant for the Advocate-General, who is typically not an elected Legislature member at all, yet can still appear and speak on the floor to assist with legal matters or defend government legislation.",
+          "It is equally significant for a Minister drawn from the Legislative Council addressing the Assembly (or vice versa) in a bicameral State, and for a newly-appointed Minister who is not yet a sitting member within Article 164(4)'s six-month grace window."
+        ],
+        "how_to_read": "Read Article 177 as Article 88's State-level mirror — it grants participation rights decoupled from membership, but never a vote; always distinguish a Minister/Advocate-General's floor rights under this Article from an actual member's full rights (including voting) under ordinary House membership."
       }
     }
   ]
