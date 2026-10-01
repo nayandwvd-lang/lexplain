@@ -326,7 +326,25 @@
     "negligent concealment of a deserter on a merchant vessel": "Section 165 BNS: an unusual strict, negligence-based penalty of up to three thousand rupees on the master or person in charge of a merchant vessel aboard which a deserter is concealed, even if actually ignorant of the concealment, where that ignorance stems from the master's own neglect of duty or a want of discipline on board -- notable for imposing only a monetary penalty, not imprisonment, and for attaching liability on a constructive-knowledge basis.",
     "abetment of insubordination": "Section 166 BNS: knowingly abetting an act of insubordination by a member of the Army, Navy, or Air Force, punishable with up to two years' imprisonment, fine, or both, but only where the insubordination is actually committed in consequence of the abetment -- unlike mutiny and assault-on-superior abetment, there is no lesser outcome-independent counterpart for insubordination.",
     "savings clause for the special military Acts": "Section 167 BNS: a jurisdiction-clearing provision stating that persons subject to the Air Force Act 1950, the Army Act 1950, or the Navy Act 1957 are not liable to punishment under the Sanhita for any offence defined in Chapter VIII, preventing double jeopardy between the Sanhita's general military-offence provisions and the special service-specific military codes -- the Chapter-specific reinforcement of the mutiny/desertion savings clause already found in Section 1(6).",
-    "impersonating a soldier sailor or airman by garb or token": "Section 168 BNS, closing Chapter VIII: a civilian who wears a garb or carries a token resembling that used by a soldier, sailor, or airman, with the intention that it be believed they are such a person, is punishable with up to three months' imprisonment, fine up to two thousand rupees, or both -- the specific intention to deceive observers into believing genuine service status distinguishes this from innocent costume-wearing."
+    "impersonating a soldier sailor or airman by garb or token": "Section 168 BNS, closing Chapter VIII: a civilian who wears a garb or carries a token resembling that used by a soldier, sailor, or airman, with the intention that it be believed they are such a person, is punishable with up to three months' imprisonment, fine up to two thousand rupees, or both -- the specific intention to deceive observers into believing genuine service status distinguishes this from innocent costume-wearing.",
+    "candidate (election offences definition)": "Defined in Section 169(a) BNS, opening Chapter IX, as a person who has been nominated as a candidate at any election -- the threshold status that triggers the protections and offences built around candidates throughout the Chapter (bribery, undue influence, personation, false statements, illegal payments).",
+    "electoral right": "Defined in Section 169(b) BNS as the right of a person to stand, or not to stand as, or to withdraw from being, a candidate, or to vote or refrain from voting at an election -- the core interest that Chapter IX's bribery and undue-influence offences protect from interference or corrupt inducement.",
+    "bribery at an election": "Section 170 BNS: giving a gratification to induce or reward the exercise of an electoral right, or accepting a gratification as a reward for exercising or inducing the exercise of such a right -- punishable under Section 173 with up to one year's imprisonment, fine, or both, subject to the treating proviso and the public-policy declaration carve-out.",
+    "gratification deemed given": "Section 170(2) BNS: a person who merely offers, agrees to give, or offers or attempts to procure a gratification is deemed to have given it -- extending bribery liability on the giving side to the offer or attempt stage without requiring actual delivery of the gratification.",
+    "gratification deemed accepted": "Section 170(3) BNS: a person who obtains, agrees to accept, or attempts to obtain a gratification is deemed to have accepted it, and accepting as a motive for conduct not intended or as a reward for conduct not performed is deemed acceptance as a reward -- extending bribery liability on the receiving side to agreements and attempts.",
+    "public-policy declaration carve-out": "The proviso to Section 170 BNS: a declaration of public policy or a promise of public action is not an offence of bribery -- protecting ordinary campaign promises and policy platforms from being mischaracterised as corrupt inducements under the election-bribery offence.",
+    "undue influence at an election": "Section 171 BNS: voluntarily interfering, or attempting to interfere, with the free exercise of any electoral right, punishable under Section 174 with up to one year's imprisonment, fine, or both -- illustrated (non-exhaustively) by threats of injury and threats of Divine displeasure or spiritual censure under sub-section (2).",
+    "threat of injury to a candidate or voter": "One of the two deemed forms of undue influence under Section 171(2)(a) BNS: threatening a candidate, voter, or any person in whom either is interested, with injury of any kind, is deemed to interfere with the free exercise of that candidate's or voter's electoral right.",
+    "spiritual or divine-displeasure threats at elections": "The second deemed form of undue influence under Section 171(2)(b) BNS: inducing or attempting to induce a candidate or voter to believe that they or someone they care about will become an object of Divine displeasure or spiritual censure, deemed to interfere with the free exercise of the electoral right.",
+    "personation at an election": "Section 172 BNS: applying for a voting paper in the name of another person (living or dead) or a fictitious name, voting a second time in one's own name at the same election, or abetting/procuring any such fraudulent voting, punishable under Section 174 with up to one year's imprisonment, fine, or both, subject to the proxy-voting carve-out.",
+    "proxy-voting carve-out from personation": "The proviso to Section 172 BNS: the personation offence does not apply to a person lawfully authorised to vote as proxy for an elector, so far as that person votes strictly as the authorised proxy for that elector.",
+    "punishment for bribery at an election": "Section 173 BNS: fixes the punishment for Section 170 bribery at up to one year's imprisonment, fine, or both, with bribery by treating punished by fine only under the section's proviso.",
+    "bribery by treating": "The Explanation to Section 173 BNS: 'treating' is that form of election bribery where the gratification consists in food, drink, entertainment, or provision, and under the section's proviso is punishable by fine only, not imprisonment -- a lighter band than ordinary bribery.",
+    "punishment for undue influence or personation": "Section 174 BNS: fixes a single, identical punishment of up to one year's imprisonment, fine, or both, for both undue influence (Section 171) and personation (Section 172) at an election.",
+    "false statement about a candidate's personal character or conduct": "Section 175 BNS: making or publishing, with intent to affect an election's result, a statement of fact about a candidate's personal character or conduct known or believed to be false, or not believed to be true, punishable with fine only -- a narrow electoral-context, intent-and-falsity-specific offence distinct from genuine policy criticism.",
+    "illegal election expenses without candidate's written authority": "Section 176 BNS: incurring or authorising expenses for promoting or procuring a candidate's election (public meetings, advertisements, circulars, publications, or otherwise) without that candidate's general or special written authority, punishable with fine up to ten thousand rupees.",
+    "retrospective approval of small election expenses": "The proviso to Section 176 BNS: unauthorised election expenses not exceeding ten rupees are deemed to have been incurred with the candidate's authority if the candidate gives written approval within ten days of the expense being incurred -- a narrow safety valve for small, good-faith campaign spending.",
+    "failure to keep election expense accounts": "Section 177 BNS, closing Chapter IX: failing to keep accounts of election-related expenses where required to do so by law or a rule having the force of law, punishable with fine up to five thousand rupees -- a pure recordkeeping offence tied to an external statutory duty, typically under election law."
   },
   "sections": [
     {
@@ -3654,6 +3672,179 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "The deliberate intent-to-be-believed element distinguishes this from innocent costume-wearing (e.g. theatrical or fancy-dress use of military-style clothing) -- liability turns on the specific intention to deceive observers into believing genuine service status."
+      }
+    },
+    {
+      "number": "169",
+      "title": "Candidate, electoral right defined",
+      "raw_text": "For the purposes of this Chapter-- (a) \"candidate\" means a person who has been nominated as a candidate at any election; (b) \"electoral right\" means the right of a person to stand, or not to stand as, or to withdraw from being, a candidate or to vote or refrain from voting at an election.",
+      "key_terms": [
+        "candidate (election offences definition)",
+        "electoral right"
+      ],
+      "breakdown": {
+        "plain_summary": "Opens Chapter IX ('Of Offences Relating to Elections') with the two foundational definitions the rest of the Chapter depends on: a 'candidate' is anyone nominated at an election, and 'electoral right' covers the full bundle of choices around standing, withdrawing, voting, and abstaining.",
+        "essential_elements": [
+          "Candidate: a person nominated as a candidate at any election",
+          "Electoral right: the right to stand, not stand, withdraw from being a candidate, vote, or refrain from voting at an election"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Every other Chapter IX offence (bribery, undue influence, personation) is built around interference with, or reward for exercising, one of these two defined terms -- read them first before applying any later section in this Chapter."
+      }
+    },
+    {
+      "number": "170",
+      "title": "Bribery",
+      "raw_text": "(1) Whoever-- (i) gives a gratification to any person with the object of inducing him or any other person to exercise any electoral right or of rewarding any person for having exercised any such right; or (ii) accepts either for himself or for any other person any gratification as a reward for exercising any such right or for inducing or attempting to induce any other person to exercise any such right, commits the offence of bribery: Provided that a declaration of public policy or a promise of public action shall not be an offence under this section. (2) A person who offers, or agrees to give, or offers or attempts to procure, a gratification shall be deemed to give a gratification. (3) A person who obtains or agrees to accept or attempts to obtain a gratification shall be deemed to accept a gratification, and a person who accepts a gratification as a motive for doing what he does not intend to do, or as a reward for doing what he has not done, shall be deemed to have accepted the gratification as a reward.",
+      "key_terms": [
+        "bribery at an election",
+        "gratification deemed given",
+        "gratification deemed accepted",
+        "public-policy declaration carve-out"
+      ],
+      "breakdown": {
+        "plain_summary": "Defines the offence of election bribery from both sides: giving a gratification to induce or reward the exercise of an electoral right, and accepting a gratification as a reward for exercising or inducing the exercise of such a right -- with deeming provisions that sweep in mere offers, agreements, and attempts, and an express proviso protecting genuine public-policy declarations or promises of public action from being mistaken for bribery.",
+        "essential_elements": [
+          "Giving a gratification to induce or reward the exercise of an electoral right, or",
+          "Accepting (or agreeing or attempting to accept) a gratification as a reward for exercising, or for inducing another to exercise, an electoral right"
+        ],
+        "exceptions_and_qualifications": [
+          "A declaration of public policy or a promise of public action is not an offence under this section"
+        ],
+        "how_to_read": "The deeming sub-sections (2) and (3) matter in practice: bribery is complete at the offer/attempt stage on the giving side, and at the agreement/attempt-to-obtain stage on the receiving side -- actual exchange of the gratification is not required for either half of the offence."
+      }
+    },
+    {
+      "number": "171",
+      "title": "Undue influence at elections",
+      "raw_text": "(1) Whoever voluntarily interferes or attempts to interfere with the free exercise of any electoral right commits the offence of undue influence at an election. (2) Without prejudice to the generality of the provisions of sub-section (1), whoever-- (a) threatens any candidate or voter, or any person in whom a candidate or voter is interested, with injury of any kind; or (b) induces or attempts to induce a candidate or voter to believe that he or any person in whom he is interested will become or will be rendered an object of Divine displeasure or of spiritual censure, shall be deemed to interfere with the free exercise of the electoral right of such candidate or voter, within the meaning of sub-section (1). (3) A declaration of public policy or a promise of public action or the mere exercise of a legal right without intent to interfere with an electoral right, shall not be deemed to be interference within the meaning of this section.",
+      "key_terms": [
+        "undue influence at an election",
+        "threat of injury to a candidate or voter",
+        "spiritual or divine-displeasure threats at elections"
+      ],
+      "breakdown": {
+        "plain_summary": "Criminalises voluntarily interfering, or attempting to interfere, with anyone's free exercise of an electoral right, with two illustrative (non-exhaustive) deemed forms of interference: threatening injury to a candidate, voter, or someone they care about, and threats of Divine displeasure or spiritual censure -- while expressly excluding genuine public-policy statements and the mere exercise of a legal right made without any intent to interfere.",
+        "essential_elements": [
+          "Voluntary interference, or attempted interference, with the free exercise of any electoral right"
+        ],
+        "exceptions_and_qualifications": [
+          "A declaration of public policy or a promise of public action is not interference",
+          "The mere exercise of a legal right, without intent to interfere with an electoral right, is not interference"
+        ],
+        "how_to_read": "Sub-section (2)'s threat and spiritual-censure examples are deeming provisions, not an exhaustive list -- sub-section (1)'s general 'voluntary interference' language can still catch other forms of coercion not spelt out in (2)(a) or (b)."
+      }
+    },
+    {
+      "number": "172",
+      "title": "Personation at elections",
+      "raw_text": "Whoever at an election applies for a voting paper on votes in the name of any other person, whether living or dead, or in a fictitious name, or who having voted once at such election applies at the same election for a voting paper in his own name, and whoever abets, procures or attempts to procure the voting by any person in any such way, commits the offence of personation at an election: Provided that nothing in this section shall apply to a person who has been authorised to vote as proxy for an elector under any law for the time being in force in so far as he votes as a proxy for such elector.",
+      "key_terms": [
+        "personation at an election",
+        "proxy-voting carve-out from personation"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes three overlapping ways of personation at an election: voting in the name of another living or dead person or in a fictitious name, voting a second time in one's own name after already voting once, and abetting or procuring any such fraudulent voting by another -- with an express exception for lawfully authorised proxy voters acting strictly within their proxy authority.",
+        "essential_elements": [
+          "Applying for a voting paper in the name of another (living or dead) or in a fictitious name, or",
+          "Applying for a voting paper in one's own name after having already voted once at the same election, or",
+          "Abetting, procuring, or attempting to procure voting by any person in either of the above ways"
+        ],
+        "exceptions_and_qualifications": [
+          "Does not apply to a person authorised to vote as proxy for an elector under any law in force, so far as he votes as that elector's proxy"
+        ],
+        "how_to_read": "Note the abetment/procurement limb folds a third party's liability directly into the same section, rather than relying on the Sanhita's general abetment provisions (Sections 45 onward) -- personation abettors are liable under Section 172 itself."
+      }
+    },
+    {
+      "number": "173",
+      "title": "Punishment for bribery",
+      "raw_text": "Whoever commits the offence of bribery shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both: Provided that bribery by treating shall be punished with fine only. Explanation.--\"Treating\" means that form of bribery where the gratification consists in food, drink, entertainment, or provision.",
+      "key_terms": [
+        "punishment for bribery at an election",
+        "bribery by treating"
+      ],
+      "breakdown": {
+        "plain_summary": "Fixes the punishment for Section 170 bribery at up to one year's imprisonment, fine, or both -- but carves out 'treating' (bribery where the gratification is food, drink, entertainment, or provision) for a lighter fine-only punishment, reflecting its comparatively lower gravity among forms of electoral bribery.",
+        "essential_elements": [
+          "Commission of the offence of bribery as defined in Section 170"
+        ],
+        "exceptions_and_qualifications": [
+          "Bribery by treating (gratification consisting of food, drink, entertainment, or provision) is punished with fine only, not imprisonment"
+        ],
+        "how_to_read": "Always classify the bribery first: if the gratification was food, drink, entertainment, or provision, the treating proviso caps the punishment at fine alone, regardless of how egregious the surrounding conduct otherwise appears."
+      }
+    },
+    {
+      "number": "174",
+      "title": "Punishment for undue influence or personation at an election",
+      "raw_text": "Whoever commits the offence of undue influence or personation at an election shall be punished with imprisonment of either description for a term which may extend to one year or with fine, or with both.",
+      "key_terms": [
+        "punishment for undue influence or personation"
+      ],
+      "breakdown": {
+        "plain_summary": "Fixes an identical punishment band -- up to one year's imprisonment, fine, or both -- for both undue influence (Section 171) and personation (Section 172) at an election, treating the two distinct offences as equally grave for sentencing purposes.",
+        "essential_elements": [
+          "Commission of the offence of undue influence (Section 171) or personation (Section 172) at an election"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Unlike bribery, which splits into a lighter treating-only band under Section 173, undue influence and personation share a single flat punishment ceiling regardless of the particular form the interference or personation took."
+      }
+    },
+    {
+      "number": "175",
+      "title": "False statement in connection with an election",
+      "raw_text": "Whoever with intent to affect the result of an election makes or publishes any statement purporting to be a statement of fact which is false and which he either knows or believes to be false or does not believe to be true, in relation to the personal character or conduct of any candidate shall be punished with fine.",
+      "key_terms": [
+        "false statement about a candidate's personal character or conduct"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes, with fine only, making or publishing a statement of fact about a candidate's personal character or conduct that the maker knows or believes to be false, or does not believe to be true, done with intent to affect the election's result -- a narrow, intent-and-falsity-specific defamation-adjacent offence confined to the electoral context.",
+        "essential_elements": [
+          "Making or publishing a statement purporting to be a statement of fact",
+          "The statement is false, and the accused knows or believes it to be false, or does not believe it to be true",
+          "The statement relates to the personal character or conduct of a candidate",
+          "Intent to affect the result of the election"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The mental element is deliberately broad on the falsity side (knowledge, belief of falsity, or mere absence of belief in its truth all suffice) but narrow on the targeting side (must concern a candidate's personal character or conduct, and be made with intent to affect the election result) -- genuine policy criticism of a candidate falls outside this section."
+      }
+    },
+    {
+      "number": "176",
+      "title": "Illegal payments in connection with an election",
+      "raw_text": "Whoever without the general or special authority in writing of a candidate incurs or authorises expenses on account of the holding of any public meeting, or upon any advertisement, circular or publication, or in any other way whatsoever for the purpose of promoting or procuring the election of such candidate, shall be punished with fine which may extend to ten thousand rupees: Provided that if any person having incurred any such expenses not exceeding the amount of ten rupees without authority obtains within ten days from the date on which such expenses were incurred the approval in writing of the candidate, he shall be deemed to have incurred such expenses with the authority of the candidate.",
+      "key_terms": [
+        "illegal election expenses without candidate's written authority",
+        "retrospective approval of small election expenses"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes, with a fine up to ten thousand rupees, incurring or authorising election-promotion expenses (public meetings, advertisements, circulars, publications, or any other means) without the candidate's general or special written authority -- but a proviso lets expenses of ten rupees or less be retrospectively legitimised if the candidate gives written approval within ten days.",
+        "essential_elements": [
+          "Incurring or authorising expenses for the purpose of promoting or procuring a candidate's election",
+          "Absence of the candidate's general or special authority in writing for those expenses"
+        ],
+        "exceptions_and_qualifications": [
+          "Expenses not exceeding ten rupees, incurred without authority, are deemed authorised if the candidate gives written approval within ten days of the expense being incurred"
+        ],
+        "how_to_read": "The ten-rupee/ten-day proviso is a narrow safety valve for small, good-faith campaign spending by supporters -- it does not extend to larger unauthorised expenditure, which remains punishable regardless of any later ratification by the candidate."
+      }
+    },
+    {
+      "number": "177",
+      "title": "Failure to keep election accounts",
+      "raw_text": "Whoever being required by any law for the time being in force or any rule having the force of law to keep accounts of expenses incurred at or in connection with an election fails to keep such accounts shall be punished with fine which may extend to five thousand rupees.",
+      "key_terms": [
+        "failure to keep election expense accounts"
+      ],
+      "breakdown": {
+        "plain_summary": "Closes Chapter IX with a straightforward compliance offence: failing to keep accounts of election-related expenses, where some law or statutory rule requires such accounts to be kept, is punishable with a fine up to five thousand rupees.",
+        "essential_elements": [
+          "The accused is required by law or a rule having the force of law to keep accounts of election-related expenses",
+          "Failure to keep such accounts"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a pure recordkeeping offence tied to an external legal duty (typically arising under election law, e.g. the Representation of the People Act) -- the Sanhita itself does not prescribe what accounts must be kept, only punishes the failure once such a duty exists elsewhere in law."
       }
     }
   ]
