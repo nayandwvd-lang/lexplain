@@ -502,7 +502,22 @@
     "personation of an assessor": "Section 268 BNS: by personation or otherwise, intentionally causing or suffering oneself to be returned, empanelled, or sworn as an assessor while knowing one is not legally entitled to be, punishable with up to two years' imprisonment, fine, or both.",
     "knowingly serving as an assessor when not legally entitled": "The alternative limb of Section 268 BNS alongside personation -- knowing oneself to have been returned, empanelled, or sworn as an assessor contrary to law, and voluntarily serving on the case regardless, punished identically to engineering one's own unlawful selection in the first place.",
     "failure to appear in court per bail bond or bond terms": "Section 269 BNS, closing Chapter XIV: a person released on bail bond or bond who fails, without sufficient cause, to appear in Court per the bond's terms, punishable with up to one year's imprisonment, fine, or both -- explicitly stacked on top of punishment for the underlying charged offence and independent of the Court's own bond-forfeiture power under BNSS Section 491.",
-    "burden of proof on the accused to show sufficient cause for non-appearance": "The reversed-burden feature of Section 269 BNS: once the bare fact of non-appearance under a bail bond or bond is shown, the accused bears the burden of proving sufficient cause for it -- unlike most BNS offences, where the prosecution carries the burden throughout."
+    "burden of proof on the accused to show sufficient cause for non-appearance": "The reversed-burden feature of Section 269 BNS: once the bare fact of non-appearance under a bail bond or bond is shown, the accused bears the burden of proving sufficient cause for it -- unlike most BNS offences, where the prosecution carries the burden throughout.",
+    "public nuisance": "Section 270 BNS, opening Chapter XV: an act or illegal omission causing common injury, danger, or annoyance to the public or to people dwelling/occupying property in the vicinity, or necessarily obstructing or endangering anyone exercising a public right -- not excused merely because it also causes some convenience or advantage; Section 292 supplies the residual punishment where no more specific chapter provision applies.",
+    "common injury danger or annoyance to the public": "The core harm threshold in Section 270 BNS's public-nuisance definition -- injury, danger, or annoyance that affects the public generally or people dwelling/occupying property nearby, distinguishing public nuisance from a purely private wrong affecting only one or a few individuals.",
+    "negligent act likely to spread infection of a life-dangerous disease": "Section 271 BNS: unlawfully or negligently doing an act one knows or has reason to believe is likely to spread the infection of a disease dangerous to life, punishable with up to six months' imprisonment, fine, or both -- the lighter, negligence-based counterpart to Section 272's malignant-intent version of the same conduct.",
+    "malignant act likely to spread infection of a life-dangerous disease": "Section 272 BNS: malignantly doing an act one knows or has reason to believe is likely to spread the infection of a disease dangerous to life, punishable with up to two years' imprisonment, fine, or both -- the aggravated-intent counterpart to Section 271, with a maximum sentence four times higher.",
+    "knowing disobedience to a quarantine rule": "Section 273 BNS: knowingly disobeying a Government-made rule for quarantining a mode of transport, regulating intercourse of quarantined transport, or regulating movement between infectious-disease-affected places and other places -- punishable with up to six months' imprisonment, fine, or both; a regulatory-compliance offence complementing Sections 271-272's substantive disease-spreading offences.",
+    "adulterating food or drink to make it noxious for intended sale": "Section 274 BNS: adulterating a food or drink article so as to make it noxious, while intending or knowing it likely that it will be sold as food or drink, punishable with up to six months' imprisonment plus fine up to five thousand rupees -- the manufacturing-side offence paired with Section 275's selling-side mirror.",
+    "selling food or drink known to be noxious or unfit": "Section 275 BNS: selling, offering, or exposing for sale as food or drink an article rendered noxious or unfit, while knowing or having reason to believe it is noxious, punished identically to Section 274's adulteration offence -- the seller need not have done the adulterating themselves.",
+    "adulterating a drug or medical preparation to lessen efficacy or make it noxious": "Section 276 BNS: adulterating a drug or medical preparation so as to lessen its efficacy, change its operation, or make it noxious, intending or knowing it likely to be sold/used for a medicinal purpose as if unadulterated -- punishable with up to one year's imprisonment plus fine up to five thousand rupees, double the maximum for the parallel food-adulteration offence under Section 274.",
+    "selling or dispensing adulterated drugs as unadulterated": "Section 277 BNS: knowingly selling, offering for sale, issuing from a dispensary, or causing the use of an adulterated drug for medicinal purposes as if unadulterated -- punishable with up to six months' imprisonment plus fine up to five thousand rupees, the selling/dispensing-side mirror of Section 276.",
+    "selling a drug as a different drug or preparation": "Section 278 BNS: knowingly selling, offering for sale, or dispensing a drug or medical preparation as if it were a different drug or preparation -- a mislabelling/misrepresentation offence distinct from adulteration, punishable identically to selling adulterated drugs under Section 277.",
+    "voluntarily fouling water of a public spring or reservoir": "Section 279 BNS: voluntarily corrupting or fouling the water of a public spring or reservoir so as to render it less fit for its ordinary use, punishable with up to six months' imprisonment plus fine up to five thousand rupees -- a relatively low harm threshold ('less fit', not unusable) reflecting its preventive, public-health-protective character.",
+    "voluntarily vitiating the atmosphere to make it noxious to health": "Section 280 BNS: voluntarily vitiating the atmosphere in a place so as to make it noxious to the health of people generally dwelling, working, or passing by nearby -- an early air-pollution offence punishable only with a fine up to one thousand rupees, the lightest (fine-only, no imprisonment option) of the chapter's environmental-nuisance offences.",
+    "rash or negligent driving or riding on a public way": "Section 281 BNS: driving a vehicle or riding on a public way in a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury, punishable with up to six months' imprisonment plus fine up to one thousand rupees -- the land-transport counterpart to Section 282's rash-vessel-navigation offence.",
+    "rash or negligent navigation of a vessel": "Section 282 BNS: navigating a vessel so rashly or negligently as to endanger human life or be likely to cause hurt or injury, punishable with up to six months' imprisonment plus fine up to ten thousand rupees -- the water-transport mirror of Section 281, with a tenfold higher fine ceiling reflecting the generally higher stakes of reckless vessel navigation.",
+    "exhibiting a false light mark or buoy to mislead navigators": "Section 283 BNS: exhibiting a false light, mark, or buoy, intending or knowing it likely to mislead a navigator, punishable with up to seven years' imprisonment plus a mandatory minimum fine of ten thousand rupees -- by far the heaviest offence in the maritime-safety cluster, reflecting the catastrophic shipwreck/mass-casualty risk this conduct creates."
   },
   "sections": [
     {
@@ -5717,6 +5732,247 @@
           "This punishment operates without prejudice to the Court's separate power to order forfeiture of the bond under BNSS Section 491 (Explanation (b))."
         ],
         "how_to_read": "Note the reversed burden of proof -- unlike most BNS offences where the prosecution bears the burden throughout, here the accused must affirmatively prove sufficient cause for non-appearance once the bare fact of non-appearance is shown; and like Section 262, this punishment stacks rather than substitutes."
+      }
+    },
+    {
+      "number": "270",
+      "title": "Public nuisance",
+      "raw_text": "A person is guilty of a public nuisance who does any act or is guilty of an illegal omission which causes any common injury, danger or annoyance to the public or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right but a common nuisance is not excused on the ground that it causes some convenience or advantage.",
+      "key_terms": [
+        "public nuisance",
+        "common injury danger or annoyance to the public"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 270 BNS opens Chapter XV by defining 'public nuisance' -- any act or illegal omission causing common injury, danger, or annoyance to the public or to people dwelling/occupying property nearby, or that necessarily obstructs or endangers anyone exercising a public right. This definition anchors every specific offence in the rest of the chapter.",
+        "essential_elements": [
+          "an act, or an illegal omission",
+          "causing common injury, danger, or annoyance to the public, or to people who dwell/occupy property in the vicinity, OR necessarily causing injury, obstruction, danger, or annoyance to persons exercising a public right"
+        ],
+        "exceptions_and_qualifications": [
+          "A common nuisance is not excused merely because it also causes some convenience or advantage."
+        ],
+        "how_to_read": "This is a pure definition section, not a standalone punishment provision -- Section 292 supplies the residual punishment for public nuisance 'in cases not otherwise punishable by this Sanhita,' while specific nuisances throughout the chapter (noxious food, polluted water, rash driving, etc.) carry their own tailored punishments."
+      }
+    },
+    {
+      "number": "271",
+      "title": "Negligent act likely to spread infection of disease dangerous to life",
+      "raw_text": "Whoever unlawfully or negligently does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+      "key_terms": [
+        "negligent act likely to spread infection of a life-dangerous disease"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 271 BNS criminalises unlawfully or negligently doing an act one knows or has reason to believe is likely to spread a life-dangerous disease's infection -- the lighter, negligence-based counterpart to Section 272's malignant-intent version of the same conduct.",
+        "essential_elements": [
+          "an act done unlawfully or negligently",
+          "the act is, and the accused knows or has reason to believe it to be, likely to spread the infection of a disease dangerous to life"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Pair this with Section 272 -- the conduct described (spreading infection of a life-dangerous disease) is identical, but Section 271's maximum (six months) is a quarter of Section 272's maximum (two years) because the mental state here is negligence/unlawfulness rather than malignancy."
+      }
+    },
+    {
+      "number": "272",
+      "title": "Malignant act likely to spread infection of disease dangerous to life",
+      "raw_text": "Whoever malignantly does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "malignant act likely to spread infection of a life-dangerous disease"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 272 BNS is the aggravated, malignant-intent counterpart to Section 271 -- doing an act malignantly (rather than merely negligently) that one knows or has reason to believe is likely to spread a life-dangerous disease's infection, punishable up to two years.",
+        "essential_elements": [
+          "an act done malignantly",
+          "the act is, and the accused knows or has reason to believe it to be, likely to spread the infection of a disease dangerous to life"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "'Malignantly' signals a deliberately harmful state of mind distinct from the negligence/unlawfulness standard in Section 271 -- the four-fold jump in maximum sentence (six months to two years) tracks this sharper mental-state distinction."
+      }
+    },
+    {
+      "number": "273",
+      "title": "Disobedience to quarantine rule",
+      "raw_text": "Whoever knowingly disobeys any rule made by the Government for putting any mode of transport into a state of quarantine, or for regulating the intercourse of any such transport in a state of quarantine or for regulating the intercourse between places where an infectious disease prevails and other places, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+      "key_terms": [
+        "knowing disobedience to a quarantine rule"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 273 BNS criminalises knowingly disobeying a Government-made quarantine rule -- whether the rule puts transport into quarantine, regulates quarantined transport's intercourse, or regulates movement between infected and uninfected places -- punishable with up to six months' imprisonment, fine, or both.",
+        "essential_elements": [
+          "a rule made by the Government relating to quarantine of transport, or intercourse regulation involving quarantined transport or infectious-disease-affected places",
+          "knowing disobedience of that rule"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a public-health regulatory-compliance offence, complementing Sections 271-272's substantive disease-spreading offences by criminalising the breach of the administrative mechanism (quarantine rules) designed to prevent spread in the first place."
+      }
+    },
+    {
+      "number": "274",
+      "title": "Adulteration of food or drink intended for sale",
+      "raw_text": "Whoever adulterates any article of food or drink, so as to make such article noxious as food or drink, intending to sell such article as food or drink, or knowing it to be likely that the same will be sold as food or drink, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "adulterating food or drink to make it noxious for intended sale"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 274 BNS opens the food/drug-safety cluster of Chapter XV -- adulterating a food or drink article so as to make it noxious, while intending it to be sold as food/drink or knowing it is likely to be sold as such, punishable with up to six months plus fine up to five thousand rupees.",
+        "essential_elements": [
+          "adulterating an article of food or drink so as to make it noxious as food or drink",
+          "intention to sell the article as food or drink, OR knowledge that it is likely to be so sold"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the adulteration (manufacturing/tampering) offence; Section 275 is its selling-side mirror for already-noxious food or drink -- together they cover both the creation and the distribution ends of the unsafe-food-supply chain."
+      }
+    },
+    {
+      "number": "275",
+      "title": "Sale of noxious food or drink",
+      "raw_text": "Whoever sells, or offers or exposes for sale, as food or drink, any article which has been rendered or has become noxious, or is in a state unfit for food or drink, knowing or having reason to believe that the same is noxious as food or drink, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "selling food or drink known to be noxious or unfit"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 275 BNS is the selling-side mirror of Section 274 -- selling, offering, or exposing for sale as food/drink any article rendered noxious or unfit, while knowing or having reason to believe it is noxious, punished identically to adulteration.",
+        "essential_elements": [
+          "selling, offering, or exposing for sale as food or drink an article that has been rendered or has become noxious, or is unfit for food or drink",
+          "knowledge or reason to believe that the article is noxious as food or drink"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Notice this offence doesn't require the seller to have done the adulterating themselves -- merely knowingly selling already-noxious food or drink, regardless of who made it noxious, completes the offence."
+      }
+    },
+    {
+      "number": "276",
+      "title": "Adulteration of drugs",
+      "raw_text": "Whoever adulterates any drug or medical preparation in such a manner as to lessen the efficacy or change the operation of such drug or medical preparation, or to make it noxious, intending that it shall be sold or used for, or knowing it to be likely that it will be sold or used for, any medicinal purpose, as if it had not undergone such adulteration, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "adulterating a drug or medical preparation to lessen efficacy or make it noxious"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 276 BNS is the drug-safety counterpart to Section 274's food-adulteration offence -- adulterating a drug or medical preparation so as to lessen its efficacy, change its operation, or make it noxious, intending or knowing it likely that it will be sold/used for a medicinal purpose as if unadulterated, punishable with up to one year plus fine up to five thousand rupees.",
+        "essential_elements": [
+          "adulterating a drug or medical preparation in a manner that lessens its efficacy, changes its operation, or makes it noxious",
+          "intention that it be sold or used for a medicinal purpose (as if unadulterated), OR knowledge that it is likely to be so sold or used"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The one-year maximum here is double Section 274's food-adulteration maximum (six months), reflecting the heightened danger of tampering with medicinal products that people rely on for treatment."
+      }
+    },
+    {
+      "number": "277",
+      "title": "Sale of adulterated drugs",
+      "raw_text": "Whoever, knowing any drug or medical preparation to have been adulterated in such a manner as to lessen its efficacy, to change its operation, or to render it noxious, sells the same, or offers or exposes it for sale, or issues it from any dispensary for medicinal purposes as unadulterated, or causes it to be used for medicinal purposes by any person not knowing of the adulteration, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "selling or dispensing adulterated drugs as unadulterated"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 277 BNS is the selling/dispensing-side mirror of Section 276 -- knowingly selling, offering for sale, issuing from a dispensary, or causing the use of an adulterated drug for medicinal purposes as if unadulterated, punishable with up to six months plus fine up to five thousand rupees.",
+        "essential_elements": [
+          "knowledge that a drug or medical preparation has been adulterated in a manner lessening its efficacy, changing its operation, or rendering it noxious",
+          "selling it, offering/exposing it for sale, issuing it from a dispensary for medicinal purposes as unadulterated, or causing its use for medicinal purposes by someone unaware of the adulteration"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "As with Section 275's relationship to Section 274, this offence targets the distribution/dispensing end of the adulterated-drug chain -- the seller or dispenser need not have done the adulterating themselves, only knowingly pass off the adulterated product as genuine."
+      }
+    },
+    {
+      "number": "278",
+      "title": "Sale of drug as a different drug or preparation",
+      "raw_text": "Whoever knowingly sells, or offers or exposes for sale, or issues from a dispensary for medicinal purposes, any drug or medical preparation, as a different drug or medical preparation, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "selling a drug as a different drug or preparation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 278 BNS covers drug-substitution misrepresentation -- knowingly selling, offering for sale, or dispensing a drug or medical preparation as if it were a different drug or preparation, punishable identically to selling adulterated drugs under Section 277.",
+        "essential_elements": [
+          "knowingly selling, offering/exposing for sale, or issuing from a dispensary for medicinal purposes, a drug or medical preparation",
+          "misrepresenting it as a different drug or medical preparation than it actually is"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is distinct from adulteration (Sections 276-277) -- the drug need not be tampered with or impure at all; the offence is purely about mislabelling or misrepresenting one genuine drug as being a different one, which is independently dangerous given how medicinal dosing and effects vary by drug."
+      }
+    },
+    {
+      "number": "279",
+      "title": "Fouling water of public spring or reservoir",
+      "raw_text": "Whoever voluntarily corrupts or fouls the water of any public spring or reservoir, so as to render it less fit for the purpose for which it is ordinarily used, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "voluntarily fouling water of a public spring or reservoir"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 279 BNS protects public water sources -- voluntarily corrupting or fouling the water of a public spring or reservoir so as to render it less fit for its ordinary use, punishable with up to six months plus fine up to five thousand rupees.",
+        "essential_elements": [
+          "voluntarily corrupting or fouling water of a public spring or reservoir",
+          "the corruption/fouling renders the water less fit for the purpose for which it is ordinarily used"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The harm threshold is relatively low -- the water need only be rendered 'less fit' for its ordinary use, not rendered completely unusable or proven to have caused actual illness, reflecting the preventive, public-health-protective character of this offence."
+      }
+    },
+    {
+      "number": "280",
+      "title": "Making atmosphere noxious to health",
+      "raw_text": "Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with fine which may extend to one thousand rupees.",
+      "key_terms": [
+        "voluntarily vitiating the atmosphere to make it noxious to health"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 280 BNS is an early air-pollution offence -- voluntarily vitiating the atmosphere in a place so as to make it noxious to the health of people generally dwelling, working, or passing by nearby, punishable only with a fine up to one thousand rupees (no imprisonment option).",
+        "essential_elements": [
+          "voluntarily vitiating the atmosphere in a place",
+          "the vitiation makes the atmosphere noxious to the health of persons generally dwelling, carrying on business in the neighbourhood, or passing along a public way"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Notice this is fine-only, unlike almost every other offence in this cluster -- reflecting its position as the lightest of the environmental/public-health nuisance offences in the chapter, though still capturing genuine atmospheric harm affecting a general neighbourhood population."
+      }
+    },
+    {
+      "number": "281",
+      "title": "Rash driving or riding on a public way",
+      "raw_text": "Whoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+      "key_terms": [
+        "rash or negligent driving or riding on a public way"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 281 BNS is the general rash/negligent driving or riding offence -- operating a vehicle or riding on a public way so rashly or negligently as to endanger human life or be likely to cause hurt or injury, punishable with up to six months plus fine up to one thousand rupees.",
+        "essential_elements": [
+          "driving a vehicle, or riding, on a public way",
+          "in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to another person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This sits alongside Section 282's parallel offence for rash navigation of a vessel -- together the two sections cover the land-transport and water-transport analogues of dangerous operation endangering public safety."
+      }
+    },
+    {
+      "number": "282",
+      "title": "Rash navigation of vessel",
+      "raw_text": "Whoever navigates any vessel in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+      "key_terms": [
+        "rash or negligent navigation of a vessel"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 282 BNS is the water-transport mirror of Section 281's rash-driving offence -- navigating any vessel so rashly or negligently as to endanger human life or be likely to cause hurt or injury, punishable with up to six months plus fine up to ten thousand rupees (a higher fine ceiling than Section 281's land-based equivalent).",
+        "essential_elements": [
+          "navigating any vessel",
+          "in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to another person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The fine ceiling here (ten thousand rupees) is ten times Section 281's (one thousand rupees) despite an identical imprisonment ceiling -- reflecting the generally higher stakes and scale of harm typically associated with reckless vessel navigation."
+      }
+    },
+    {
+      "number": "283",
+      "title": "Exhibition of false light, mark or buoy",
+      "raw_text": "Whoever exhibits any false light, mark or buoy, intending or knowing it to be likely that such exhibition will mislead any navigator, shall be punished with imprisonment of either description for a term which may extend to seven years, and with fine which shall not be less than ten thousand rupees.",
+      "key_terms": [
+        "exhibiting a false light mark or buoy to mislead navigators"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 283 BNS sharply escalates punishment within the maritime-safety cluster -- exhibiting a false light, mark, or buoy, intending or knowing it likely to mislead a navigator, is punishable with up to seven years' imprisonment plus a mandatory minimum fine of ten thousand rupees, by far the heaviest offence in this part of the chapter.",
+        "essential_elements": [
+          "exhibiting a false light, mark, or buoy",
+          "intention, or knowledge of likelihood, that the exhibition will mislead a navigator"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The mandatory minimum fine (not less than ten thousand rupees, with no stated upper cap) is unusual within this chapter's otherwise fine-capped offences, and the seven-year maximum imprisonment reflects the potentially catastrophic consequences of deliberately misleading maritime navigation -- shipwrecks, mass casualties -- that this conduct risks."
       }
     }
   ]
