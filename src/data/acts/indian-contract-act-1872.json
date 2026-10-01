@@ -4816,7 +4816,17 @@
         "exceptions_and_qualifications": [
           "Section 202's agency-coupled-with-interest exception limits this general power to revoke."
         ],
-        "how_to_read": "The critical timing cutoff here is 'before the authority has been exercised so as to bind the principal' — once that line is crossed, revocation is restricted, as detailed in Section 204."
+        "how_to_read": "The critical timing cutoff here is 'before the authority has been exercised so as to bind the principal' — once that line is crossed, revocation is restricted, as detailed in Section 204.",
+        "plain_summary_hi": "धारा 203 मालिक के इस डिफ़ॉल्ट अधिकार की पुष्टि करती है कि वह अभिकर्ता के प्राधिकार को इच्छानुसार प्रतिसंहृत कर सकता है, किसी भी बिंदु तक जब तक वह प्राधिकार वास्तव में मालिक को बाध्य करने वाले तरीके से प्रयोग न किया गया हो — हमेशा हित-सहित अभिकरण (धारा 202) के अपवाद के अधीन।",
+        "essential_elements_hi": [
+          "अभिकरण धारा 202 के अंतर्गत हित-सहित अभिकरण नहीं है।",
+          "प्राधिकार अभी तक ऐसे प्रयोग में नहीं लाया गया है जो मालिक को बाध्य करे।",
+          "मालिक उस बिंदु से पहले किसी भी समय प्राधिकार प्रतिसंहृत कर सकता है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "धारा 202 का हित-सहित अभिकरण अपवाद इस सामान्य प्रतिसंहरण शक्ति को सीमित करता है।"
+        ],
+        "how_to_read_hi": "यहाँ महत्वपूर्ण समय-सीमा 'प्राधिकार के मालिक को बाध्य करने वाले तरीके से प्रयोग किए जाने से पहले' है — एक बार यह रेखा पार हो जाने पर, प्रतिसंहरण प्रतिबंधित हो जाता है, जैसा धारा 204 में विस्तृत है।"
       }
     },
     {
@@ -4835,7 +4845,15 @@
           "Revocation remains possible for the unexecuted remainder of the authority."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is a completed-acts protection, not a blanket bar on revocation — it only freezes what's already happened; the principal retains the power to stop anything not yet done."
+        "how_to_read": "This is a completed-acts protection, not a blanket bar on revocation — it only freezes what's already happened; the principal retains the power to stop anything not yet done.",
+        "plain_summary_hi": "धारा 204 अभिकरण के अंतर्गत पहले से पूर्ण किए गए कार्यों की रक्षा करती है: एक बार अभिकर्ता ने अपने प्राधिकार का आंशिक प्रयोग कर लिया हो, तो मालिक पहले से किए गए कार्य से उत्पन्न दायित्वों के संबंध में प्रतिसंहरण नहीं कर सकता — हालाँकि जो अभी शेष है उसके संबंध में वह अब भी प्रतिसंहरण कर सकता है। दृष्टांत दिखाते हैं कि यह इस पर निर्भर करता है कि क्या अभिकर्ता ने व्यक्तिगत रूप से स्वयं को बाध्य किया (दृष्टांत (a), भुगतान के संबंध में प्रतिसंहरण नहीं हो सकता) या केवल मालिक के नाम पर कार्य किया (दृष्टांत (b), प्रतिसंहरण हो सकता है)।",
+        "essential_elements_hi": [
+          "अभिकर्ता के प्राधिकार का आंशिक रूप से प्रयोग किया जा चुका है।",
+          "मालिक अब तक किए गए कार्य से उत्पन्न कार्यों और दायित्वों के संबंध में प्रतिसंहरण नहीं कर सकता।",
+          "प्राधिकार के शेष अनिष्पादित भाग के लिए प्रतिसंहरण संभव बना रहता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह पूर्ण हो चुके कार्यों का संरक्षण है, प्रतिसंहरण पर पूर्ण प्रतिबंध नहीं — यह केवल वही रोकता है जो पहले ही हो चुका है; मालिक के पास जो अभी नहीं हुआ है उसे रोकने की शक्ति बनी रहती है।"
       }
     },
     {
@@ -4857,7 +4875,17 @@
         "exceptions_and_qualifications": [
           "Compensation is only due where the revocation/renunciation is without sufficient cause — a justified early exit does not trigger this liability."
         ],
-        "how_to_read": "This is the agency-law analogue of damages for breach of contract: the power to revoke/renounce exists regardless (agency is never specifically enforceable), but exercising that power without cause, in breach of an agreed duration, has a price."
+        "how_to_read": "This is the agency-law analogue of damages for breach of contract: the power to revoke/renounce exists regardless (agency is never specifically enforceable), but exercising that power without cause, in breach of an agreed duration, has a price.",
+        "plain_summary_hi": "धारा 205 यह मान्यता देती है कि यद्यपि मालिक सामान्यतः प्रतिसंहरण कर सकता है, और अभिकर्ता सामान्यतः इच्छानुसार त्याग कर सकता है, पर ऐसा पर्याप्त कारण के बिना करना — जब एक निश्चित अवधि तक अभिकरण चलने का स्पष्ट या विवक्षित करार हो — दूसरे पक्ष को उस समय-पूर्व समाप्ति के लिए प्रतिकर देने का कर्तव्य उत्पन्न करता है।",
+        "essential_elements_hi": [
+          "यह स्पष्ट या विवक्षित करार विद्यमान है कि अभिकरण एक निश्चित अवधि तक चलेगा।",
+          "एक पक्ष (मालिक) प्रतिसंहरण करता है या (अभिकर्ता) उस अवधि से पहले, बिना पर्याप्त कारण के, त्याग करता है।",
+          "उस पक्ष को परिणामी हानि के लिए दूसरे पक्ष को प्रतिकर देना होगा।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "प्रतिकर तभी देय है जब प्रतिसंहरण/त्याग बिना पर्याप्त कारण के हो — उचित समय-पूर्व निकासी इस दायित्व को उत्पन्न नहीं करती।"
+        ],
+        "how_to_read_hi": "यह संविदा-भंग के लिए नुकसानी का अभिकरण-कानून समानांतर है: प्रतिसंहरण/त्याग की शक्ति वैसे भी विद्यमान है (अभिकरण कभी विनिर्दिष्टतः प्रवर्तनीय नहीं है), पर उस शक्ति का बिना कारण, सहमत अवधि के उल्लंघन में प्रयोग करने का मूल्य चुकाना पड़ता है।"
       }
     },
     {
@@ -4877,7 +4905,15 @@
           "Failing that, any resulting damage must be made good to the affected party."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This complements Section 205: that section addresses ending the agency without sufficient cause; this one addresses ending it without adequate notice — the two can overlap, but a party could comply with one and still fall foul of the other."
+        "how_to_read": "This complements Section 205: that section addresses ending the agency without sufficient cause; this one addresses ending it without adequate notice — the two can overlap, but a party could comply with one and still fall foul of the other.",
+        "plain_summary_hi": "धारा 206 उचित-सूचना का कर्तव्य लागू करती है: चाहे कोई भी पक्ष अभिकरण समाप्त करे — मालिक या अभिकर्ता — उसे उचित सूचना देनी होगी, अन्यथा उसे आकस्मिकता से हुई किसी भी हानि के लिए दूसरे पक्ष को प्रतिकर देना होगा।",
+        "essential_elements_hi": [
+          "अभिकरण (मालिक द्वारा) प्रतिसंहृत किया जाता है या (अभिकर्ता द्वारा) त्यागा जाता है।",
+          "उस प्रतिसंहरण/त्याग की उचित सूचना दी जानी चाहिए।",
+          "ऐसा न करने पर, परिणामी किसी भी हानि की भरपाई प्रभावित पक्ष को की जानी चाहिए।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह धारा 205 की पूरक है: वह धारा बिना पर्याप्त कारण के अभिकरण समाप्त करने को संबोधित करती है; यह धारा बिना पर्याप्त सूचना के इसे समाप्त करने को संबोधित करती है — दोनों अतिव्यापी हो सकती हैं, पर एक पक्ष एक का पालन करते हुए भी दूसरे का उल्लंघन कर सकता है।"
       }
     },
     {
@@ -4896,7 +4932,14 @@
           "Or it may be implied from the conduct of the principal or agent respectively."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This section and Section 197 form a matched pair across the Act's agency chapter — both ratification and revocation/renunciation can be read from conduct, not just words, keeping the law responsive to how people actually behave."
+        "how_to_read": "This section and Section 197 form a matched pair across the Act's agency chapter — both ratification and revocation/renunciation can be read from conduct, not just words, keeping the law responsive to how people actually behave.",
+        "plain_summary_hi": "धारा 207 धारा 197 के अनुसमर्थन के दृष्टिकोण को प्रतिबिंबित करती है: अभिकरण समाप्त करने के लिए भी औपचारिक शब्दों की आवश्यकता नहीं है — अभिकरण की निरंतरता से असंगत आचरण, जैसे मालिक स्वयं वही कार्य व्यक्तिगत रूप से करे जो उसने अभिकर्ता को प्राधिकृत किया था, उतना ही प्रभावी रूप से प्रतिसंहरण को विवक्षित करता है जितना स्पष्ट कथन करता।",
+        "essential_elements_hi": [
+          "प्रतिसंहरण (मालिक द्वारा) या त्याग (अभिकर्ता द्वारा) अभिव्यक्त हो सकता है।",
+          "या यह क्रमशः मालिक या अभिकर्ता के आचरण से विवक्षित हो सकता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह धारा और धारा 197 अधिनियम के अभिकरण अध्याय में एक जोड़ी बनाती हैं — अनुसमर्थन और प्रतिसंहरण/त्याग दोनों केवल शब्दों से ही नहीं, आचरण से भी पढ़े जा सकते हैं, जिससे कानून लोगों के वास्तविक व्यवहार के प्रति संवेदनशील बना रहता है।"
       }
     },
     {
@@ -4916,7 +4959,15 @@
           "As against third persons, termination takes effect only once it becomes known to them."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This section is a real-world fairness safeguard — legal termination of authority can happen instantly on paper (e.g. the moment a revocation letter is written), but its practical, binding effect is delayed until the relevant person actually learns of it, protecting those who acted in good-faith ignorance."
+        "how_to_read": "This section is a real-world fairness safeguard — legal termination of authority can happen instantly on paper (e.g. the moment a revocation letter is written), but its practical, binding effect is delayed until the relevant person actually learns of it, protecting those who acted in good-faith ignorance.",
+        "plain_summary_hi": "धारा 208 अभिकरण-प्रतिसंहरण अध्याय को एक महत्वपूर्ण समय-नियम के साथ बंद करती है: अभिकर्ता के प्राधिकार की समाप्ति अभिकर्ता के विरुद्ध तब तक प्रभावी नहीं होती जब तक उसे इसकी वास्तव में जानकारी न हो, और तृतीय व्यक्तियों के विरुद्ध तब तक प्रभावी नहीं होती जब तक उन्हें भी इसकी जानकारी न हो। तीनों दृष्टांत दिखाते हैं कि प्रतिसंहरण की अनभिज्ञता में किए गए कार्य (अभिकर्ता द्वारा, या किसी निर्दोष तृतीय पक्ष द्वारा) फिर भी वैध और बाध्यकारी माने जाते हैं।",
+        "essential_elements_hi": [
+          "अभिकर्ता का प्राधिकार समाप्त कर दिया गया है (प्रतिसंहरण, त्याग, मृत्यु, आदि द्वारा)।",
+          "अभिकर्ता के विरुद्ध, समाप्ति तभी प्रभावी होती है जब उसे इसकी जानकारी हो जाए।",
+          "तृतीय व्यक्तियों के विरुद्ध, समाप्ति तभी प्रभावी होती है जब उन्हें इसकी जानकारी हो जाए।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह धारा एक वास्तविक-जगत की निष्पक्षता सुरक्षा है — कानूनी रूप से प्राधिकार की समाप्ति कागज़ पर तुरंत हो सकती है (जैसे प्रतिसंहरण पत्र लिखे जाने के क्षण), पर इसका व्यावहारिक, बाध्यकारी प्रभाव तब तक विलंबित रहता है जब तक संबंधित व्यक्ति को वास्तव में इसकी जानकारी न हो, जिससे सद्भावपूर्ण अनभिज्ञता में कार्य करने वालों की रक्षा होती है।"
       }
     },
     {
@@ -4940,7 +4991,17 @@
         "exceptions_and_qualifications": [
           "This is a residual, winding-up duty — it does not revive the agency or authorize the agent to transact new business on the principal's behalf"
         ],
-        "how_to_read": "A bridging obligation: the agency ends, but the agent's care of the principal's property does not end abruptly — read it as a duty of safekeeping until a representative steps in."
+        "how_to_read": "A bridging obligation: the agency ends, but the agent's care of the principal's property does not end abruptly — read it as a duty of safekeeping until a representative steps in.",
+        "plain_summary_hi": "यद्यपि मालिक की मृत्यु या पागलपन अभिकरण को स्वतः समाप्त कर देता है (धारा 201), अभिकर्ता बस दूर नहीं चला जा सकता। कानून एक अंतिम कर्तव्य लागू करता है: जब तक मालिक के प्रतिनिधि (वारिस, निष्पादक, या संरक्षक) कार्यभार न संभाल लें, तब तक अभिकर्ता को सौंपी गई चीज़ों की युक्तियुक्त देखभाल करनी होगी।",
+        "essential_elements_hi": [
+          "अभिकरण मालिक की मृत्यु या विकृतचित्तता से समाप्त हो गया है।",
+          "अभिकर्ता दिवंगत/अक्षम मालिक के प्रतिनिधियों की ओर से कार्य करने हेतु बाध्य है।",
+          "कर्तव्य सौंपे गए हितों के संरक्षण और परिरक्षण हेतु युक्तियुक्त कदमों तक सीमित है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यह एक अवशिष्ट, समापन-कर्तव्य है — यह अभिकरण को पुनर्जीवित नहीं करता या अभिकर्ता को मालिक की ओर से नया कारोबार करने का प्राधिकार नहीं देता।"
+        ],
+        "how_to_read_hi": "एक सेतु-दायित्व: अभिकरण समाप्त हो जाता है, पर मालिक की संपत्ति की अभिकर्ता की देखभाल अचानक समाप्त नहीं होती — इसे तब तक संरक्षण के कर्तव्य के रूप में पढ़ें जब तक कोई प्रतिनिधि कार्यभार न संभाल ले।"
       }
     },
     {
@@ -4959,7 +5020,14 @@
           "Subject to the same termination rules that govern agents (Sections 201-208)"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "A chain-reaction rule: pull the agent's authority out from under a sub-agent, and the sub-agent's authority collapses with it."
+        "how_to_read": "A chain-reaction rule: pull the agent's authority out from under a sub-agent, and the sub-agent's authority collapses with it.",
+        "plain_summary_hi": "उप-अभिकर्ता का प्राधिकार व्युत्पन्न (derivative) है — यह उस अभिकर्ता से प्रवाहित होता है जिसने उसे नियुक्त किया। इसलिए जब अभिकर्ता का अपना प्राधिकार समाप्त होता है, तो उस अभिकर्ता द्वारा नियुक्त प्रत्येक उप-अभिकर्ता भी अपना प्राधिकार खो देता है, उन्हीं समाप्ति-नियमों (जैसे, उचित सूचना) के अधीन जो सामान्यतः अभिकर्ताओं पर लागू होते हैं।",
+        "essential_elements_hi": [
+          "अभिकर्ता के प्राधिकार की समाप्ति स्वतः उसके द्वारा नियुक्त उप-अभिकर्ताओं का प्राधिकार समाप्त कर देती है।",
+          "यह अभिकर्ताओं को नियंत्रित करने वाले उन्हीं समाप्ति-नियमों (धारा 201-208) के अधीन है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "एक श्रृंखला-प्रतिक्रिया नियम: अभिकर्ता के प्राधिकार को उप-अभिकर्ता के नीचे से खींच लें, और उप-अभिकर्ता का प्राधिकार उसके साथ ही ढह जाता है।"
       }
     },
     {
