@@ -5520,7 +5520,15 @@
           "Only the authorized part binds the principal"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "The first half of a two-part rule (paired with Section 228) turning on separability — sever what you can, and hold the principal only to the authorized slice."
+        "how_to_read": "The first half of a two-part rule (paired with Section 228) turning on separability — sever what you can, and hold the principal only to the authorized slice.",
+        "plain_summary_hi": "यदि अभिकर्ता का अतिरिक्त कार्य प्राधिकृत कार्य से स्पष्ट रूप से अलग किया जा सकता है, तो मालिक केवल प्राधिकृत भाग से बाध्य है; अप्राधिकृत अतिरिक्त भाग मालिक को बिल्कुल बाध्य नहीं करता, पर वैध भाग अपने आप में खड़ा रहता है।",
+        "essential_elements_hi": [
+          "अभिकर्ता प्राधिकृत से अधिक करता है।",
+          "प्राधिकृत और अप्राधिकृत भाग अलग किए जा सकते हैं।",
+          "केवल प्राधिकृत भाग ही मालिक को बाध्य करता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह अलग-करने-योग्यता पर आधारित दो-भाग के नियम (धारा 228 के साथ जोड़ीदार) का पहला आधा है — जो अलग कर सकें उसे अलग करें, और मालिक को केवल प्राधिकृत अंश तक सीमित रखें।"
       }
     },
     {
@@ -5540,7 +5548,15 @@
           "Principal not bound to recognize the transaction at all"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "The flip side of Section 227 — when you cannot cleanly split authorized from unauthorized, the whole deal falls, and the principal may repudiate it entirely."
+        "how_to_read": "The flip side of Section 227 — when you cannot cleanly split authorized from unauthorized, the whole deal falls, and the principal may repudiate it entirely.",
+        "plain_summary_hi": "जहाँ अतिरिक्त भाग को प्राधिकृत भाग से स्पष्ट रूप से अलग नहीं किया जा सकता (जैसे, दोनों को कवर करने वाला एक ही एकमुश्त सौदा), मालिक पूरे संव्यवहार को अस्वीकृत करने का हकदार है — केवल अतिरिक्त भाग को नहीं।",
+        "essential_elements_hi": [
+          "अभिकर्ता प्राधिकार से अधिक करता है।",
+          "अतिरिक्त भाग प्राधिकृत भाग से अलग नहीं किया जा सकता।",
+          "मालिक संव्यवहार को बिल्कुल भी मान्यता देने के लिए बाध्य नहीं है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह धारा 227 का विपरीत पहलू है — जब आप प्राधिकृत को अप्राधिकृत से स्पष्ट रूप से अलग नहीं कर सकते, तो पूरा सौदा विफल हो जाता है, और मालिक इसे पूर्णतः अस्वीकृत कर सकता है।"
       }
     },
     {
@@ -5563,7 +5579,17 @@
         "exceptions_and_qualifications": [
           "Knowledge acquired by the agent outside the course of the relevant agency business is not imputed to the principal (Illustration (b))"
         ],
-        "how_to_read": "An imputation rule — trace whether the agent's knowledge arose inside or outside the specific agency transaction; only 'inside' knowledge binds the principal."
+        "how_to_read": "An imputation rule — trace whether the agent's knowledge arose inside or outside the specific agency transaction; only 'inside' knowledge binds the principal.",
+        "plain_summary_hi": "यह आरोपित सूचना (imputed notice) का सिद्धांत है: अभिकर्ता मालिक का कारोबार करते समय जो जानकारी प्राप्त करता है, वह तृतीय पक्षों के विरुद्ध ऐसे मानी जाती है मानो मालिक स्वयं जानता हो — भले ही मालिक को वास्तव में कोई जानकारी न हो। परंतु अभिकर्ता द्वारा उस कारोबार के दायरे से बाहर (जैसे किसी पहले, असंबंधित भूमिका से, जैसा दृष्टांत (b) में है) प्राप्त की गई जानकारी आरोपित नहीं होती।",
+        "essential_elements_hi": [
+          "अभिकर्ता को दी गई सूचना, या उसके द्वारा प्राप्त जानकारी।",
+          "मालिक के लिए किए जा रहे कारोबार के दौरान होनी चाहिए।",
+          "तृतीय पक्षों के विरुद्ध ऐसी मानी जाती है मानो वह मालिक को स्वयं दी गई या उसके द्वारा प्राप्त की गई हो।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "संबंधित अभिकरण कारोबार के दायरे से बाहर अभिकर्ता द्वारा प्राप्त की गई जानकारी मालिक को आरोपित नहीं होती (दृष्टांत (b))।"
+        ],
+        "how_to_read_hi": "यह एक आरोपण-नियम है — पता करें कि अभिकर्ता की जानकारी विशिष्ट अभिकरण-संव्यवहार के भीतर उत्पन्न हुई या बाहर; केवल 'भीतर' की जानकारी मालिक को बाध्य करती है।"
       }
     },
     {
@@ -5588,7 +5614,17 @@
         "exceptions_and_qualifications": [
           "The three listed situations are themselves presumptions, rebuttable by evidence of a contrary intention"
         ],
-        "how_to_read": "Default non-liability of the agent, with three statutory presumptions flipping that default — treat the list as situations practitioners must specifically check for when deciding whom to sue."
+        "how_to_read": "Default non-liability of the agent, with three statutory presumptions flipping that default — treat the list as situations practitioners must specifically check for when deciding whom to sue.",
+        "plain_summary_hi": "डिफ़ॉल्ट नियम यह है कि अभिकर्ता केवल एक माध्यम है — वह मालिक के लिए किए गए करारों पर न तो वाद ला सकता है और न ही उन पर वाद लाया जा सकता है। परंतु यह धारा तीन स्थितियाँ बताती है जहाँ विपरीत उपधारित होता है: मालिक विदेशी व्यापारी है, अभिकर्ता मालिक का नाम नहीं बताता, या प्रकटित मालिक पर वाद नहीं लाया जा सकता (जैसे राजनयिक उन्मुक्ति)। इन मामलों में, अन्यथा न दिखाए जाने तक अभिकर्ता व्यक्तिगत रूप से उत्तरदायी/हकदार उपधारित होता है।",
+        "essential_elements_hi": [
+          "डिफ़ॉल्ट: अभिकर्ता मालिक के करारों पर व्यक्तिगत रूप से वाद नहीं ला सकता या वाद नहीं लाया जा सकता।",
+          "एक वास्तविक विपरीत करार से विस्थापित किया जा सकता है।",
+          "तीन स्थितियों में भी विस्थापित उपधारित: विदेश-निवासी व्यापारी मालिक, अप्रकटित मालिक, या ऐसा प्रकटित मालिक जिस पर वाद नहीं लाया जा सकता।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "सूचीबद्ध तीनों स्थितियाँ स्वयं उपधारणाएँ हैं, जो विपरीत आशय के साक्ष्य से खंडित की जा सकती हैं।"
+        ],
+        "how_to_read_hi": "अभिकर्ता का डिफ़ॉल्ट गैर-दायित्व, तीन सांविधिक उपधारणाओं से पलटा गया — इस सूची को उन स्थितियों के रूप में देखें जिनकी व्यवसायी को वाद किस पर लाना है यह तय करते समय विशेष रूप से जाँच करनी चाहिए।"
       }
     },
     {
@@ -5610,7 +5646,16 @@
           "If principal discloses before completion, other party may refuse performance on proof that knowledge of the true principal (or of the agency) would have changed their decision to contract"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Balances the undisclosed principal's right to step in against the other party's reliance interest — the other party is not worse off than if they'd known they were dealing with an agent from the start."
+        "how_to_read": "Balances the undisclosed principal's right to step in against the other party's reliance interest — the other party is not worse off than if they'd known they were dealing with an agent from the start.",
+        "plain_summary_hi": "जहाँ दूसरे पक्ष को पता नहीं है (और संदेह का कोई कारण नहीं है) कि वे किसी अभिकर्ता से व्यवहार कर रहे हैं, वास्तविक मालिक फिर भी आगे आकर निष्पादन की माँग कर सकता है — पर दूसरा पक्ष वे सभी बचाव/अधिकार बनाए रखता है जो उसके पास अभिकर्ता के विरुद्ध व्यक्तिगत रूप से होते। और यदि मालिक सौदा पूरा होने से पहले स्वयं को प्रकट करता है, तो दूसरा पक्ष पीछे हट सकता है यदि वह दिखा सके कि वास्तविक मालिक के बारे में जानकर, या यह जानकर कि यह मालिक-से-मालिक सौदा नहीं है, वह कभी करार नहीं करता।",
+        "essential_elements_hi": [
+          "अभिकर्ता ऐसे पक्ष से करार करता है जिसे पता नहीं (और संदेह का कोई कारण नहीं) कि वह अभिकर्ता है।",
+          "मालिक करार का निष्पादन माँग सकता है।",
+          "दूसरा पक्ष मालिक के विरुद्ध वही अधिकार बनाए रखता है जो अभिकर्ता के विरुद्ध थे।",
+          "यदि मालिक पूर्णता से पहले प्रकट करता है, तो दूसरा पक्ष यह साबित करके निष्पादन से इनकार कर सकता है कि वास्तविक मालिक (या अभिकरण) की जानकारी उनके करार करने के निर्णय को बदल देती।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह अप्रकटित मालिक के आगे आने के अधिकार को दूसरे पक्ष के भरोसे के हित के साथ संतुलित करती है — दूसरा पक्ष उस स्थिति से बुरी स्थिति में नहीं है जितना वह शुरू से अभिकर्ता से व्यवहार करने की जानकारी होने पर होता।"
       }
     },
     {
@@ -5629,7 +5674,14 @@
           "Principal enforcing the contract takes it subject to rights/obligations already existing between the agent and the other party"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "A step-into-the-agent's-shoes rule — the principal's enforcement right is capped by whatever equities (like set-offs) already existed between the agent and the third party."
+        "how_to_read": "A step-into-the-agent's-shoes rule — the principal's enforcement right is capped by whatever equities (like set-offs) already existed between the agent and the third party.",
+        "plain_summary_hi": "जब अप्रकटित मालिक आगे आकर करार प्रवर्तित करना चाहता है, तो वह उसे उन्हीं अधिकारों (जैसे समायोजन/set-off) के अधीन लेता है जो पहले से अभिकर्ता और दूसरे पक्ष के बीच उपचित हो चुके थे — मालिक अभिकर्ता की अपनी स्थिति से स्वच्छतर स्थिति का दावा नहीं कर सकता।",
+        "essential_elements_hi": [
+          "करार अभिकरण की जानकारी या युक्तियुक्त संदेह के बिना किया गया।",
+          "करार प्रवर्तित करने वाला मालिक उसे अभिकर्ता और दूसरे पक्ष के बीच पहले से विद्यमान अधिकारों/दायित्वों के अधीन लेता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह अभिकर्ता के स्थान पर खड़े होने का नियम है — मालिक का प्रवर्तन-अधिकार अभिकर्ता और तृतीय पक्ष के बीच पहले से विद्यमान किसी भी इक्विटी (जैसे समायोजन) से सीमित है।"
       }
     },
     {
@@ -5648,7 +5700,14 @@
           "Other party may hold the agent, the principal, or both liable"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "A procedural flexibility rule for the claimant — options, not an either/or election, when the agent happens to be personally liable."
+        "how_to_read": "A procedural flexibility rule for the claimant — options, not an either/or election, when the agent happens to be personally liable.",
+        "plain_summary_hi": "जहाँ परिस्थितियाँ अभिकर्ता को व्यक्तिगत रूप से उत्तरदायी बनाती हैं (धारा 230 के अपवादों के अनुसार), दूसरे पक्ष को केवल एक लक्ष्य चुनने के लिए विवश नहीं किया जाता — वे अभिकर्ता, मालिक, या दोनों पर वाद ला सकते हैं।",
+        "essential_elements_hi": [
+          "यह केवल तब लागू होता है जब अभिकर्ता शुरू से व्यक्तिगत रूप से उत्तरदायी है।",
+          "दूसरा पक्ष अभिकर्ता, मालिक, या दोनों को उत्तरदायी ठहरा सकता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह दावाकर्ता के लिए प्रक्रियात्मक लचीलेपन का नियम है — जब अभिकर्ता संयोगवश व्यक्तिगत रूप से उत्तरदायी हो, तो यह विकल्प है, या-तो/या का चुनाव नहीं।"
       }
     },
     {
@@ -5667,7 +5726,14 @@
           "Third party thereafter cannot hold liable the party he induced to be excluded"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "An estoppel check on Section 233's flexibility — the freedom to sue either or both is lost if the claimant already committed, by conduct, to pursuing only one of them."
+        "how_to_read": "An estoppel check on Section 233's flexibility — the freedom to sue either or both is lost if the claimant already committed, by conduct, to pursuing only one of them.",
+        "plain_summary_hi": "यह एक विबंधन-शैली (estoppel) का नियम है: यदि तृतीय पक्ष जानबूझकर अभिकर्ता को यह विश्वास दिलाता है कि केवल मालिक से ही वसूली की जाएगी (या मालिक को यह विश्वास दिलाता है कि केवल अभिकर्ता से ही वसूली की जाएगी), तो तृतीय पक्ष फिर उसी प्रतिनिधित्व से बंधा रहता है और बाद में उस पक्ष के विरुद्ध जाने का अधिकार खो देता है जिसे उसने बाहर रखा था।",
+        "essential_elements_hi": [
+          "तृतीय पक्ष अभिकर्ता को यह विश्वास दिलाता है कि केवल मालिक उत्तरदायी ठहराया जाएगा, अथवा मालिक को यह विश्वास दिलाता है कि केवल अभिकर्ता उत्तरदायी ठहराया जाएगा।",
+          "तृतीय पक्ष उसके बाद उस पक्ष को उत्तरदायी नहीं ठहरा सकता जिसे उसने बाहर करने हेतु प्रेरित किया।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह धारा 233 के लचीलेपन पर एक विबंधन-जाँच है — दोनों में से किसी पर या दोनों पर वाद लाने की स्वतंत्रता तब खो जाती है जब दावाकर्ता आचरण से पहले ही केवल एक का पीछा करने के लिए प्रतिबद्ध हो चुका हो।"
       }
     },
     {
@@ -5692,7 +5758,18 @@
         "exceptions_and_qualifications": [
           "If the alleged employer ratifies the pretended agent's acts, the pretender escapes this liability"
         ],
-        "how_to_read": "A fraud-adjacent liability rule for fake agents, with ratification (Sections 196-200) as the escape valve if the supposed principal chooses to adopt the acts anyway."
+        "how_to_read": "A fraud-adjacent liability rule for fake agents, with ratification (Sections 196-200) as the escape valve if the supposed principal chooses to adopt the acts anyway.",
+        "plain_summary_hi": "जो कोई झूठा दावा करता है कि वह किसी अन्य व्यक्ति का प्राधिकृत अभिकर्ता है, और इस प्रकार किसी तृतीय पक्ष को उस झूठे आधार पर उससे व्यवहार करने के लिए प्रेरित करता है, वह उस तृतीय पक्ष को किसी भी हानि के लिए व्यक्तिगत रूप से प्रतिकर देने हेतु उत्तरदायी है — जब तक कि जिस व्यक्ति के प्रतिनिधित्व का उसने दावा किया था वह बाद में अप्राधिकृत कार्यों को अनुसमर्थित (स्वीकार) करने का चुनाव न करे।",
+        "essential_elements_hi": [
+          "प्राधिकृत अभिकर्ता होने का असत्य प्रतिनिधित्व।",
+          "किसी तृतीय व्यक्ति को ढोंगी के साथ ऐसे अभिकर्ता के रूप में व्यवहार करने के लिए प्रेरित करता है।",
+          "कथित नियोक्ता द्वारा कोई अनुसमर्थन नहीं।",
+          "ढोंगी तृतीय पक्ष को हानि या क्षति के लिए प्रतिकर देने हेतु उत्तरदायी है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यदि कथित नियोक्ता ढोंगी अभिकर्ता के कार्यों को अनुसमर्थित करता है, तो ढोंगी इस दायित्व से बच जाता है।"
+        ],
+        "how_to_read_hi": "यह नकली अभिकर्ताओं के लिए कपट-निकट दायित्व नियम है, जिसमें अनुसमर्थन (धारा 196-200) बचाव-मार्ग के रूप में है यदि कथित मालिक फिर भी कार्यों को अपनाने का चुनाव करे।"
       }
     },
     {
@@ -5712,7 +5789,15 @@
           "Not entitled to require performance of the contract"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "A companion to Section 235, from the other direction — this bars the false 'agent' from claiming performance for himself, rather than making him liable to a third party."
+        "how_to_read": "A companion to Section 235, from the other direction — this bars the false 'agent' from claiming performance for himself, rather than making him liable to a third party.",
+        "plain_summary_hi": "यदि कोई व्यक्ति किसी अन्य के अभिकर्ता के रूप में करार करने का दिखावा करता है, पर वास्तव में शुरू से स्वयं के लिए कार्य कर रहा था, तो वह बाद में पलटकर उस करार के निष्पादन की माँग अपने अधिकार में नहीं कर सकता — अभिकरण का उसका झूठा प्रतिनिधित्व उसे मालिक के रूप में उसे प्रवर्तित करने से रोकता है।",
+        "essential_elements_hi": [
+          "करार अभिकर्ता की हैसियत में किया गया।",
+          "व्यक्ति वास्तव में अभिकर्ता के रूप में नहीं, अपने ही खाते पर कार्य कर रहा था।",
+          "वह करार के निष्पादन की माँग करने का हकदार नहीं है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह धारा 235 की साथी धारा है, दूसरी दिशा से — यह झूठे 'अभिकर्ता' को तृतीय पक्ष के प्रति उत्तरदायी बनाने के बजाय, उसे स्वयं के लिए निष्पादन का दावा करने से रोकती है।"
       }
     },
     {
@@ -5736,7 +5821,17 @@
         "exceptions_and_qualifications": [
           "Private, undisclosed instructions limiting the agent's authority do not bind third parties who reasonably believed the agent had full authority"
         ],
-        "how_to_read": "The apparent-authority doctrine — look at what the principal outwardly held out to the world, not just the private instructions given to the agent behind the scenes."
+        "how_to_read": "The apparent-authority doctrine — look at what the principal outwardly held out to the world, not just the private instructions given to the agent behind the scenes.",
+        "plain_summary_hi": "यह प्रतीयमान (या 'स्पष्ट') प्राधिकार (apparent/ostensible authority) का सिद्धांत है: भले ही अभिकर्ता ने गुप्त रूप से अपने वास्तविक निजी निर्देशों से अधिक किया हो, मालिक फिर भी बाध्य है यदि मालिक के अपने शब्दों या आचरण ने तृतीय पक्षों को युक्तियुक्त रूप से यह विश्वास दिलाया हो कि अभिकर्ता के पास वह प्राधिकार था। तृतीय पक्ष की गुप्त आंतरिक सीमाओं की अनभिज्ञता सुरक्षित है।",
+        "essential_elements_hi": [
+          "अभिकर्ता मालिक की ओर से बिना वास्तविक प्राधिकार के कार्य करता है, या दायित्व उत्पन्न करता है।",
+          "मालिक ने, शब्दों या आचरण से, तृतीय व्यक्तियों को यह विश्वास दिलाया कि वह कार्य अभिकर्ता के प्राधिकार के भीतर था।",
+          "मालिक ऐसे कार्यों/दायित्वों से बाध्य है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "अभिकर्ता के प्राधिकार को सीमित करने वाले निजी, अप्रकटित निर्देश उन तृतीय पक्षों को बाध्य नहीं करते जो युक्तियुक्त रूप से मानते थे कि अभिकर्ता के पास पूर्ण प्राधिकार है।"
+        ],
+        "how_to_read_hi": "प्रतीयमान-प्राधिकार सिद्धांत — यह देखें कि मालिक ने बाहरी तौर पर दुनिया के सामने क्या दर्शाया, केवल पर्दे के पीछे अभिकर्ता को दिए गए निजी निर्देश नहीं।"
       }
     },
     {
@@ -5760,7 +5855,17 @@
         "exceptions_and_qualifications": [
           "The 'course of business' boundary is the operative line — acts genuinely outside that scope do not taint the principal"
         ],
-        "how_to_read": "The final rule of the Agency chapter: attribute the agent's course-of-business dishonesty to the principal, but draw the line at matters genuinely outside the agent's authority."
+        "how_to_read": "The final rule of the Agency chapter: attribute the agent's course-of-business dishonesty to the principal, but draw the line at matters genuinely outside the agent's authority.",
+        "plain_summary_hi": "यह धारा अभिकरण अध्याय को यह तय करके बंद करती है कि अभिकर्ता की बेईमानी या झूठे कथन मालिक को कैसे प्रभावित करते हैं। यदि अभिकर्ता का मिथ्या वर्णन या कपट मालिक के कारोबार के दौरान होता है, तो इसे ठीक वैसे ही माना जाता है मानो मालिक ने स्वयं किया हो — भले ही मालिक ने वह विशेष गलतबयानी प्राधिकृत न की हो (दृष्टांत (a) दिखाता है कि परिणामी करार निर्दोष तृतीय पक्ष के विकल्प पर शून्यकरणीय है)। परंतु अभिकर्ता के प्राधिकार से पूर्णतः बाहर के मामलों में कपट या मिथ्या वर्णन मालिक को बिल्कुल बाध्य नहीं करता।",
+        "essential_elements_hi": [
+          "मालिक के लिए कारोबार के दौरान अभिकर्ता द्वारा किया गया मिथ्या वर्णन या कपट।",
+          "ऐसा माना जाता है मानो स्वयं मालिक ने किया हो।",
+          "अपवाद: अभिकर्ता के प्राधिकार के भीतर न आने वाले मामलों में मिथ्या वर्णन/कपट मालिक को प्रभावित नहीं करता।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "'कारोबार के दौरान' की सीमा ही निर्णायक रेखा है — वास्तव में उस दायरे से बाहर के कार्य मालिक को दूषित नहीं करते।"
+        ],
+        "how_to_read_hi": "अभिकरण अध्याय का अंतिम नियम: अभिकर्ता की कारोबार-के-दौरान की बेईमानी को मालिक पर आरोपित करें, पर उन मामलों पर सीमा खींचें जो वास्तव में अभिकर्ता के प्राधिकार से बाहर हैं।"
       }
     }
   ]
