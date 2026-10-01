@@ -635,7 +635,12 @@
     "enhanced punishment for lurking house-trespass or house-breaking after preparation for hurt assault or wrongful restraint": "Section 331(5) BNS: committing lurking house-trespass or house-breaking having made preparation for causing hurt, assault, or wrongful restraint (or fear of any of these) to any person, punishable with up to ten years plus fine.",
     "enhanced punishment combining the night and preparation-for-violence enhancements": "Section 331(6) BNS: the Section 331(5) offence (lurking house-trespass/house-breaking after preparation for hurt, assault, or wrongful restraint) committed after sunset and before sunrise, punishable with up to fourteen years plus fine.",
     "enhanced punishment where grievous hurt is caused or death or grievous hurt is attempted during the offence": "Section 331(7) BNS: causing grievous hurt to any person, or attempting to cause death or grievous hurt, whilst committing lurking house-trespass or house-breaking, punishable with life imprisonment or up to ten years plus fine.",
-    "constructive joint liability where any participant causes or attempts death or grievous hurt during a nighttime offence": "Section 331(8) BNS: where, during a nighttime (sunset-to-sunrise) lurking house-trespass or house-breaking, any one offender voluntarily causes or attempts to cause death or grievous hurt, every person jointly concerned in committing that nighttime offence is punished with life imprisonment or up to ten years plus fine -- a constructive-liability rule paralleling Section 310(3)'s dacoity-murder provision."
+    "constructive joint liability where any participant causes or attempts death or grievous hurt during a nighttime offence": "Section 331(8) BNS: where, during a nighttime (sunset-to-sunrise) lurking house-trespass or house-breaking, any one offender voluntarily causes or attempts to cause death or grievous hurt, every person jointly concerned in committing that nighttime offence is punished with life imprisonment or up to ten years plus fine -- a constructive-liability rule paralleling Section 310(3)'s dacoity-murder provision.",
+    "house-trespass punishment keyed to the gravity of the offence intended to be committed": "Section 332 BNS: house-trespass committed in order to commit a further offence is punished according to that offence's gravity -- life imprisonment or up to ten years (rigorous) plus fine where the intended offence is punishable with death; up to ten years plus fine where it is punishable with life imprisonment; and up to two years plus fine for any other imprisonable intended offence.",
+    "enhanced punishment where the intended offence underlying house-trespass is theft": "Proviso to Section 332(c) BNS: where the offence intended to be committed by the house-trespasser is theft specifically, the ordinary two-year ceiling under limb (c) is extended to up to seven years.",
+    "house-trespass committed after preparation for causing hurt assault or wrongful restraint": "Section 333 BNS: committing (plain) house-trespass having made preparation for causing hurt, assault, or wrongful restraint, or fear of any of these, to any person, punishable with up to seven years plus fine -- the plain-house-trespass counterpart to Section 331(5)'s parallel ten-year provision for lurking house-trespass/house-breaking.",
+    "dishonestly or mischievously breaking open a closed receptacle believed to contain property": "Section 334(1) BNS, closing Chapter XVII: dishonestly, or with intent to commit mischief, breaking open or unfastening any closed receptacle that contains or is believed to contain property, punishable with up to two years, fine, or both.",
+    "enhanced punishment where the receptacle-breaker was entrusted with the receptacle but lacked authority to open it": "Section 334(2) BNS: where the offender was entrusted with the closed receptacle but lacked authority to open it, and dishonestly or with intent to commit mischief breaks it open or unfastens it, the punishment rises to up to three years, fine, or both -- a breach-of-trust-flavoured aggravation of the base offence in Section 334(1)."
   },
   "sections": [
     {
@@ -7006,6 +7011,63 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Read this section as a three-dimensional sentencing grid rather than eight unrelated offences -- cross-reference sub-section (3)'s 'theft intended -> up to ten years' against sub-section (4)'s 'theft intended plus night-time -> up to fourteen years' to see how the axes stack; sub-section (8)'s constructive joint liability is the house-trespass counterpart to Section 310(3)'s dacoity-murder rule and Section 326(g)'s fire/explosive-against-dwellings provision -- all three reflect the Sanhita's recurring pattern of imposing life-imprisonment-level liability on every participant in a group offence where the group's conduct results in death or grievous hurt, regardless of which individual actually caused it."
+      }
+    },
+    {
+      "number": "332",
+      "title": "House-trespass in order to commit offence",
+      "raw_text": "Whoever commits house-trespass in order to the committing of any offence--\n(a) punishable with death, shall be punished with imprisonment for life, or with rigorous imprisonment for a term not exceeding ten years, and shall also be liable to fine;\n(b) punishable with imprisonment for life, shall be punished with imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine;\n(c) punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine:\nProvided that if the offence intended to be committed is theft, the term of the imprisonment may be extended to seven years.",
+      "key_terms": [
+        "house-trespass punishment keyed to the gravity of the offence intended to be committed",
+        "enhanced punishment where the intended offence underlying house-trespass is theft"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 332 BNS punishes house-trespass according to the seriousness of the offence the trespasser intended to commit once inside: (a) if the intended offence is one punishable with death, the house-trespass itself draws life imprisonment or rigorous imprisonment up to ten years, plus fine; (b) if the intended offence is one punishable with life imprisonment, up to ten years (either description) plus fine; (c) if the intended offence is any other imprisonable offence, up to two years plus fine, with a proviso extending this to up to seven years where the intended offence is theft specifically.",
+        "essential_elements": [
+          "committing house-trespass (per Section 329(2))",
+          "in order to the committing of an offence",
+          "the punishment tier set by the gravity of that intended offence under limbs (a), (b), or (c), with the theft-specific proviso to limb (c) applying where relevant"
+        ],
+        "exceptions_and_qualifications": [
+          "proviso to limb (c): where the offence intended to be committed is theft, the two-year ceiling under limb (c) is extended to seven years"
+        ],
+        "how_to_read": "This section is structurally distinct from Section 331 -- Section 331 punishes lurking house-trespass/house-breaking (stealthy or forcible entry) scaled by time-of-day and violence, whereas Section 332 punishes plain house-trespass (no concealment or forced entry required) scaled purely by how serious the offence the trespasser meant to commit inside was; the two sections can overlap on the same facts (a midnight forced entry to commit a capital offence could in principle engage both), but each targets a different aggravating axis -- manner of entry under 331, gravity of intended offence under 332."
+      }
+    },
+    {
+      "number": "333",
+      "title": "House-trespass after preparation for hurt, assault or wrongful restraint",
+      "raw_text": "Whoever commits house-trespass, having made preparation for causing hurt to any person, or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt, or of assault, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "key_terms": [
+        "house-trespass committed after preparation for causing hurt assault or wrongful restraint"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 333 BNS punishes plain house-trespass (not lurking house-trespass or house-breaking) committed after the trespasser has made preparation for causing hurt, assault, or wrongful restraint (or fear of any of these) to any person, punishable with up to seven years plus fine.",
+        "essential_elements": [
+          "committing house-trespass (per Section 329(2))",
+          "having made preparation for causing hurt, assault, or wrongful restraint, or fear of any of these, to any person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare this directly against Section 331(5), which punishes the same preparation-for-violence circumstance but attached to lurking house-trespass/house-breaking with up to ten years -- Section 333's parallel provision for plain (non-lurking, non-breaking) house-trespass caps at seven years, confirming the consistent pattern across this sub-chapter that concealment or forced entry (lurking/breaking) always draws a heavier ceiling than open house-trespass for the equivalent aggravating circumstance."
+      }
+    },
+    {
+      "number": "334",
+      "title": "Dishonestly breaking open receptacle containing property",
+      "raw_text": "(1) Whoever dishonestly or with intent to commit mischief, breaks open or unfastens any closed receptacle which contains or which he believes to contain property, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.\n(2) Whoever, being entrusted with any closed receptacle which contains or which he believes to contain property, without having authority to open the same, dishonestly, or with intent to commit mischief, breaks open or unfastens that receptacle, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "key_terms": [
+        "dishonestly or mischievously breaking open a closed receptacle believed to contain property",
+        "enhanced punishment where the receptacle-breaker was entrusted with the receptacle but lacked authority to open it"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 334 BNS closes Chapter XVII ('Of Offences Against Property') with an offence targeting forced access to closed containers: sub-section (1) punishes dishonestly, or with intent to commit mischief, breaking open or unfastening any closed receptacle that contains or is believed to contain property, with up to two years, fine, or both; sub-section (2) raises this to up to three years, fine, or both, where the offender was specifically entrusted with that receptacle but lacked authority to open it -- a breach-of-trust-flavoured aggravation of the base offence.",
+        "essential_elements": [
+          "breaking open or unfastening a closed receptacle that contains, or is believed to contain, property",
+          "done dishonestly, or with intent to commit mischief",
+          "for the enhanced sub-section (2) tier: the offender was entrusted with the receptacle and lacked authority to open it"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section functions as the chapter's closing catch-all for a narrow but distinct act -- forcing open a box, trunk, or similar container -- that may not independently amount to theft, mischief, or criminal breach of trust (for instance if nothing is ultimately taken or damaged, or the believed-contents turn out to be absent), so the offence is keyed to the act of breaking/unfastening itself plus the dishonest or mischievous state of mind, with entrustment-without-authority (sub-section 2) functioning as a breach-of-trust-adjacent aggravation echoing Section 316's structure elsewhere in this chapter."
       }
     }
   ]
