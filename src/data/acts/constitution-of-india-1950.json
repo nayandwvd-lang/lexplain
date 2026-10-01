@@ -1271,7 +1271,21 @@
     "non-questionable adaptation": "A legal immunity attached to certain Presidential adaptation/modification orders (e.g. under Articles 372(2) and 372A(1)) providing that the adaptation itself cannot be challenged or questioned in any court of law.",
     "preventive detention transitional substitution": "The temporary textual substitution, under Article 373, of 'President'/'Presidential order' for 'Parliament'/'law made by Parliament' within Article 22(4) and (7), pending Parliament's own preventive detention legislation.",
     "one-year sunset": "A fixed one-year outer time limit from the Constitution's commencement, after which a transitional provision (such as Article 373's preventive-detention substitution) automatically ceases to operate.",
-    "jurisdictional bar on pre-accession treaties": "A provision (e.g. Article 371F(m), paralleling Article 363) ousting the Supreme Court's and all other courts' jurisdiction over disputes arising from treaties or agreements a State or princely territory entered into with the Government of India before its full merger/accession, while preserving the Supreme Court's special Article 143 advisory jurisdiction."
+    "jurisdictional bar on pre-accession treaties": "A provision (e.g. Article 371F(m), paralleling Article 363) ousting the Supreme Court's and all other courts' jurisdiction over disputes arising from treaties or agreements a State or princely territory entered into with the Government of India before its full merger/accession, while preserving the Supreme Court's special Article 143 advisory jurisdiction.",
+    "Federal Court": "The highest court of British India under the Government of India Act, 1935, which the Supreme Court of India succeeded upon the Constitution's commencement in 1950.",
+    "Privy Council": "The Judicial Committee of the Privy Council in London, which served as the final court of appeal for British India and many princely States before the Supreme Court of India took over that role.",
+    "His Majesty in Council": "The formal constitutional term for the British Crown acting on the advice of the Privy Council, used in the exercise of its judicial appellate functions over Indian courts before 1950.",
+    "transfer of pending proceedings": "The automatic removal of cases pending before an old court or authority to its successor court on a specified commencement date, so that litigation already underway is not interrupted by the change in institutions.",
+    "continuity of courts, authorities and officers": "The Article 375 guarantee that all existing courts, authorities, and officers in India kept functioning after the Constitution's commencement, now subject to the Constitution's provisions.",
+    "transitional continuity of High Court Judges": "The Article 376 rule automatically converting sitting Provincial and princely-State High Court Judges into Judges of the corresponding new State's High Court upon the Constitution's commencement.",
+    "non-citizen eligibility exception": "A one-time transitional exception under Article 376(1) allowing a sitting High Court Judge to be appointed Chief Justice despite not being an Indian citizen, departing from Article 217's ordinary citizenship requirement.",
+    "transitional continuity of Auditor-General": "The Article 377 rule automatically converting the sitting pre-Constitution Auditor-General of India into the first Comptroller and Auditor-General of India upon commencement.",
+    "transitional continuity of Public Service Commission members": "The Article 378 rule automatically converting sitting Dominion and Provincial Public Service Commission members into members of the corresponding new Union or State Public Service Commissions upon commencement.",
+    "fixed five-year term override": "A one-time constitutional override (Article 378A) fixing a specific State Legislative Assembly's term at exactly five years from a specified date, superseding the ordinary Article 172 term rule.",
+    "States Reorganisation Act 1956": "The Act of Parliament that reorganised Indian States substantially along linguistic lines in 1956, including constituting the State of Andhra Pradesh, whose first Legislative Assembly's term was fixed by Article 378A.",
+    "difficulty-removal power": "A Presidential power (e.g. under Articles 392 and 371F(o)) to make an order removing practical difficulties encountered in implementing a transitional constitutional scheme, usually time-limited and subject to being laid before Parliament.",
+    "adaptation by modification, addition or omission": "The three modes of textual change — modifying, adding to, or omitting from — the Constitution's own provisions that Article 392 uniquely authorised the President to make, within a specified transitional period, to remove difficulties.",
+    "laying before Parliament": "A procedural requirement that an executive order or rule be formally placed before Parliament (or a State Legislature) after being made, so that the legislature is informed of, and can scrutinise, the executive action."
   },
   "sections": [
     {
@@ -11790,6 +11804,159 @@
           "This is a purely transitional, now long-spent provision — its one-year outer limit expired in January 1951, and Parliament had in any event since legislated on preventive detention under Article 22(7)"
         ],
         "how_to_read": "A historical footnote relevant only to understanding how preventive detention orders made in India's first year under the Constitution derived their legal authority, before Parliament's own Preventive Detention Act, 1950 and successor legislation took over the field."
+      }
+    },
+    {
+      "number": "374",
+      "title": "Provisions as to Judges of the Federal Court and proceedings pending in the Federal Court or before His Majesty in Council",
+      "raw_text": "(1) The Judges of the Federal Court holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the Judges of the Supreme Court and shall thereupon be entitled to such salaries and allowances and to such rights in respect of leave of absence and pension as are provided for under article 125 in respect of the Judges of the Supreme Court.\n(2) All suits, appeals and proceedings, civil or criminal, pending in the Federal Court at the commencement of this Constitution shall stand removed to the Supreme Court, and the Supreme Court shall have jurisdiction to hear and determine the same, and the judgments and orders of the Federal Court delivered or made before the commencement of this Constitution shall have the same force and effect as if they had been delivered or made by the Supreme Court.\n(3) Nothing in this Constitution shall operate to invalidate the exercise of jurisdiction by His Majesty in Council to dispose of appeals and petitions from, or in respect of, any judgment, decree or order of any court within the territory of India in so far as the exercise of such jurisdiction is authorised by law, and any order of His Majesty in Council made on any such appeal or petition after the commencement of this Constitution shall for all purposes have effect as if it were an order or decree made by the Supreme Court in the exercise of the jurisdiction conferred on such Court by this Constitution.\n(4) On and from the commencement of this Constitution the jurisdiction of the authority functioning as the Privy Council in a State specified in Part B of the First Schedule to entertain and dispose of appeals and petitions from or in respect of any judgment, decree or order of any court within that State shall cease, and all appeals and other proceedings pending before the said authority at such commencement shall be transferred to, and disposed of by, the Supreme Court.\n(5) Further provision may be made by Parliament by law to give effect to the provisions of this article.",
+      "key_terms": [
+        "Federal Court",
+        "Privy Council",
+        "His Majesty in Council",
+        "transfer of pending proceedings"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 374 handled the judicial handover from the colonial-era court system to the new Supreme Court: sitting Federal Court Judges automatically became Supreme Court Judges, every pending Federal Court case transferred straight to the Supreme Court with the Federal Court's past judgments treated as if the Supreme Court itself had made them, pre-existing Privy Council appellate jurisdiction over already-authorised appeals was preserved (with any such post-commencement Privy Council order treated as a Supreme Court order), and the separate Privy-Council-equivalent jurisdiction that Part B (princely) States had maintained ceased entirely, with their pending matters moving to the Supreme Court.",
+        "essential_elements": [
+          "Clause (1): automatic conversion of sitting Federal Court Judges into Supreme Court Judges (unless they elect otherwise), carrying equivalent salary/allowance/leave/pension rights",
+          "Clause (2): automatic transfer of all pending Federal Court suits/appeals/proceedings to the Supreme Court, with past Federal Court judgments given Supreme Court force and effect",
+          "Clause (3): preserves already-authorised Privy Council jurisdiction to dispose of pending appeals/petitions even after commencement, deeming such post-commencement Privy Council orders to be Supreme Court orders",
+          "Clause (4): terminates Part B States' own Privy-Council-equivalent appellate jurisdiction, transferring their pending appeals to the Supreme Court",
+          "Clause (5): Parliament may make further law to implement this Article"
+        ],
+        "exceptions_and_qualifications": [
+          "This Article is now entirely of historical interest — the transitional judicial handover it describes was completed in the early 1950s and has no ongoing operative effect"
+        ],
+        "how_to_read": "Useful only as background when researching the institutional lineage of the Supreme Court of India or tracing a specific pre-1950 Federal Court or Privy Council decision's binding status — cite it to explain why such colonial-era judgments still carry Supreme Court-level authority today."
+      }
+    },
+    {
+      "number": "375",
+      "title": "Courts, authorities and officers to continue to function subject to the provisions of the Constitution",
+      "raw_text": "All courts of civil, criminal and revenue jurisdiction, all authorities and all officers, judicial, executive and ministerial, throughout the territory of India, shall continue to exercise their respective functions subject to the provisions of this Constitution.",
+      "key_terms": [
+        "continuity of courts, authorities and officers"
+      ],
+      "breakdown": {
+        "plain_summary": "A single-sentence continuity guarantee: every existing court (civil, criminal, revenue), authority, and officer — judicial, executive, or ministerial — kept functioning after the Constitution came into force, just now operating subject to the Constitution's provisions rather than the earlier colonial framework.",
+        "essential_elements": [
+          "Covers all courts of civil, criminal, and revenue jurisdiction throughout the territory of India",
+          "Covers all authorities and all officers, whether judicial, executive, or ministerial",
+          "Continuity is expressly made subject to the provisions of the Constitution"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a blanket continuity clause with no time limit or sunset, unlike several of the other transitional Part XXI provisions"
+        ],
+        "how_to_read": "A foundational continuity clause ensuring there was no administrative or judicial vacuum on 26 January 1950 — pair it with Article 372 (continuity of laws) when explaining why the entire pre-Constitution apparatus of courts and officials carried over seamlessly into the new constitutional order."
+      }
+    },
+    {
+      "number": "376",
+      "title": "Provisions as to Judges of High Courts",
+      "raw_text": "(1) Notwithstanding anything in clause (2) of article 217, the Judges of a High Court in any Province holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the Judges of the High Court in the corresponding State, and shall thereupon be entitled to such salaries and allowances and to such rights in respect of leave of absence and pension as are provided for under article 221 in respect of the Judges of such High Court. Any such Judge shall, notwithstanding that he is not a citizen of India, be eligible for appointment as Chief Justice of such High Court, or as Chief Justice or other Judge of any other High Court.\n(2) The Judges of a High Court in any Indian State corresponding to any State specified in Part B of the First Schedule holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the Judges of the High Court in the State so specified and shall, notwithstanding anything in clauses (1) and (2) of article 217 but subject to the proviso to clause (1) of that article, continue to hold office until the expiration of such period as the President may by order determine.\n(3) In this article, the expression “Judge” does not include an acting Judge or an additional Judge.",
+      "key_terms": [
+        "transitional continuity of High Court Judges",
+        "non-citizen eligibility exception"
+      ],
+      "breakdown": {
+        "plain_summary": "Mirroring Article 374's treatment of Federal Court Judges, Article 376 carried over sitting Provincial High Court Judges into the new State High Courts automatically, with equivalent salary/allowance/leave/pension rights, and — notably — allowed such a Judge to be appointed Chief Justice despite not being an Indian citizen (an express exception to Article 217's usual citizenship requirement). Judges of former princely-State High Courts (Part B States) got the same continuity, but only for a period the President would separately determine by order.",
+        "essential_elements": [
+          "Clause (1): automatic conversion of sitting Provincial High Court Judges into Judges of the corresponding State's High Court, with equivalent service/pension rights, and eligibility for Chief Justice appointment even without Indian citizenship",
+          "Clause (2): similar continuity for Judges of Part B (princely) State High Courts, but time-limited to a period fixed by Presidential order rather than open-ended",
+          "Clause (3): expressly excludes acting and additional Judges from the protective meaning of 'Judge' in this Article"
+        ],
+        "exceptions_and_qualifications": [
+          "The non-citizen Chief Justice eligibility in clause (1) was a one-time transitional accommodation for Judges already in office at commencement, not a standing exception to Article 217's ordinary citizenship requirement",
+          "Part B State Judges' continuity under clause (2) was always conditional on a Presidential time-limit order, unlike the open-ended continuity given to Provincial High Court Judges under clause (1)"
+        ],
+        "how_to_read": "Cite this Article only when researching the transitional judicial history of a specific State High Court formed from a former Province or princely State — it has no bearing on current High Court Judge appointments, which are governed entirely by Articles 217 and 224 today."
+      }
+    },
+    {
+      "number": "377",
+      "title": "Provisions as to Comptroller and Auditor-General of India",
+      "raw_text": "The Auditor-General of India holding office immediately before the commencement of this Constitution shall, unless he has elected otherwise, become on such commencement the Comptroller and Auditor-General of India and shall thereupon be entitled to such salaries and to such rights in respect of leave of absence and pension as are provided for under clause (3) of article 148 in respect of the Comptroller and Auditor-General of India and be entitled to continue to hold office until the expiration of his term of office as determined under the provisions which were applicable to him immediately before such commencement.",
+      "key_terms": [
+        "transitional continuity of Auditor-General"
+      ],
+      "breakdown": {
+        "plain_summary": "The pre-Constitution Auditor-General of India automatically became independent India's first Comptroller and Auditor-General, keeping the salary, leave, and pension terms set out for that office under Article 148(3), and remaining in post for whatever term had already been fixed under the rules that applied to him before the Constitution commenced.",
+        "essential_elements": [
+          "Automatic conversion of the sitting Auditor-General of India into the Comptroller and Auditor-General of India, unless he elected otherwise",
+          "Entitlement to salary, leave, and pension rights as provided under Article 148(3)",
+          "Continuation in office for the remainder of the term fixed under his pre-Constitution terms of appointment"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a one-time transitional provision tied to the specific individual in office at commencement — it has no bearing on how the Comptroller and Auditor-General is appointed or how long they serve today, which is governed by Article 148"
+        ],
+        "how_to_read": "A historical bridging clause only — useful for explaining the institutional continuity of the CAG's office from the colonial Auditor-General, but of no operative relevance to any current CAG appointment or tenure dispute."
+      }
+    },
+    {
+      "number": "378",
+      "title": "Provisions as to Public Service Commissions",
+      "raw_text": "(1) The members of the Public Service Commission for the Dominion of India holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the members of the Public Service Commission for the Union and shall, notwithstanding anything in clauses (1) and (2) of article 316 but subject to the proviso to clause (2) of that article, continue to hold office until the expiration of their term of office as determined under the rules which were applicable immediately before such commencement to such members.\n(2) The Members of a Public Service Commission of a Province or of a Public Service Commission serving the needs of a group of Provinces holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the members of the Public Service Commission for the corresponding State or the members of the Joint State Public Service Commission serving the needs of the corresponding States, as the case may be, and shall, notwithstanding anything in clauses (1) and (2) of article 316 but subject to the proviso to clause (2) of that article, continue to hold office until the expiration of their term of office as determined under the rules which were applicable immediately before such commencement to such members.",
+      "key_terms": [
+        "transitional continuity of Public Service Commission members"
+      ],
+      "breakdown": {
+        "plain_summary": "Members of the pre-Constitution Public Service Commission for the Dominion of India automatically became members of the new Union Public Service Commission, and members of Provincial (or multi-Province joint) Public Service Commissions automatically became members of the corresponding State (or Joint State) Public Service Commission — each continuing to serve out their existing term under their pre-Constitution appointment rules, despite Article 316's ordinarily different tenure provisions.",
+        "essential_elements": [
+          "Clause (1): automatic conversion of Dominion Public Service Commission members into Union Public Service Commission members, continuing their existing term under pre-Constitution rules",
+          "Clause (2): automatic conversion of Provincial or joint-Province Public Service Commission members into the corresponding State or Joint State Public Service Commission, on the same continuing-term basis",
+          "Both clauses operate notwithstanding Article 316(1)-(2)'s ordinary tenure rules, but remain subject to the proviso to Article 316(2)"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a one-time transitional provision for individuals already in office at commencement — current Public Service Commission appointments and terms are governed entirely by Article 316"
+        ],
+        "how_to_read": "Relevant only to the institutional history of the Union and State Public Service Commissions — not a source of any live entitlement or obligation today."
+      }
+    },
+    {
+      "number": "378A",
+      "title": "Special provision as to duration of Andhra Pradesh Legislative Assembly",
+      "raw_text": "Notwithstanding anything contained in article 172, the Legislative Assembly of the State of Andhra Pradesh as constituted under the provisions of sections 28 and 29 of the States Reorganisation Act, 1956, shall, unless sooner dissolved, continue for a period of five years from the date referred to in the said section 29 and no longer and the expiration of the said period shall operate as a dissolution of that Legislative Assembly.",
+      "key_terms": [
+        "fixed five-year term override",
+        "States Reorganisation Act 1956"
+      ],
+      "breakdown": {
+        "plain_summary": "A one-time override of Article 172's ordinary State Assembly term rule, fixing the newly-formed (1956) Andhra Pradesh Legislative Assembly's term at exactly five years from the date specified in the States Reorganisation Act, 1956 — with automatic dissolution the moment that period expired, unless the Assembly was dissolved even sooner.",
+        "essential_elements": [
+          "Operates notwithstanding Article 172's general State Assembly term provision",
+          "Applies specifically to the Andhra Pradesh Legislative Assembly as constituted under sections 28-29 of the States Reorganisation Act, 1956",
+          "Fixes the term at five years from the section 29 date, with automatic dissolution on expiry unless already sooner dissolved"
+        ],
+        "exceptions_and_qualifications": [
+          "This Article was inserted by the Constitution (Seventh Amendment) Act, 1956, as a companion provision to the broader 1956 State reorganisation",
+          "It is now entirely spent — that specific five-year term expired decades ago, and subsequent Andhra Pradesh Assemblies have been governed by the ordinary Article 172 rule ever since"
+        ],
+        "how_to_read": "A narrow, one-time transitional provision relevant only to the institutional history of Andhra Pradesh's first post-reorganisation Legislative Assembly — no bearing on any current Assembly term question, which is governed by Article 172."
+      }
+    },
+    {
+      "number": "392",
+      "title": "Power of the President to remove difficulties",
+      "raw_text": "(1) The President may, for the purpose of removing any difficulties, particularly in relation to the transition from the provisions of the Government of India Act, 1935, to the provisions of this Constitution, by order direct that this Constitution shall, during such period as may be specified in the order, have effect subject to such adaptations, whether by way of modification, addition or omission, as he may deem to be necessary or expedient:\nProvided that no such order shall be made after the first meeting of Parliament duly constituted under Chapter II of Part V.\n(2) Every order made under clause (1) shall be laid before Parliament.\n(3) The powers conferred on the President by this article, by article 324, by clause (3) of article 367 and by article 391 shall, before the commencement of this Constitution, be exercisable by the Governor-General of the Dominion of India.",
+      "key_terms": [
+        "difficulty-removal power",
+        "adaptation by modification, addition or omission",
+        "laying before Parliament"
+      ],
+      "breakdown": {
+        "plain_summary": "Article 392 gave the President a broad, one-time power to patch the Constitution's own text — by modification, addition, or omission — wherever genuine transition difficulties arose in moving from the Government of India Act, 1935 to the new constitutional order, but only up until Parliament's first proper meeting under Part V, and every such order had to be placed before Parliament. Before the Constitution actually commenced, this power (along with the Election Commission power under Article 324, the foreign-State-recognition power under Article 367(3), and the now-omitted Article 391) was exercised instead by the Governor-General of the Dominion of India.",
+        "essential_elements": [
+          "Clause (1): Presidential order power to adapt the Constitution itself (by modification, addition, or omission) for a specified period, to remove transition difficulties, especially from the Government of India Act, 1935",
+          "Proviso to clause (1): this power could not be exercised after Parliament's first meeting under Part V, Chapter II",
+          "Clause (2): every such order had to be laid before Parliament",
+          "Clause (3): before the Constitution's commencement, this power (plus the powers under Articles 324, 367(3), and 391) was exercised by the Governor-General of the Dominion of India rather than the President"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a time-boxed, now-spent power — its window closed once the first post-Constitution Parliament met in 1952, and it cannot be revived or exercised today",
+          "Unlike the adaptation powers in Articles 372, 372A, and 371F(l) (which adapt ordinary laws), Article 392 uniquely empowered adaptation of the Constitution's own text itself, making it one of the most extraordinary (if narrowly time-limited) powers in the transitional scheme"
+        ],
+        "how_to_read": "A historical curiosity illustrating just how much transitional flexibility the framers built in — useful to explain why a handful of early Presidential orders appear to have modified constitutional text outside the ordinary Article 368 amendment process, but with zero contemporary operative relevance given its permanent lapse after Parliament's first 1952 meeting."
       }
     }
   ]
