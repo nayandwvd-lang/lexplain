@@ -1160,7 +1160,16 @@
         "exceptions_and_qualifications": [
           "This is a Court-controlled, case-by-case standard -- there is no fixed proportion; the test is full understanding of the excerpted statement's nature, effect, and circumstances."
         ],
-        "how_to_read": "Invoke this section whenever an opposing party introduces an out-of-context excerpt -- it entitles you to insist on the surrounding context being placed in evidence too."
+        "how_to_read": "Invoke this section whenever an opposing party introduces an out-of-context excerpt -- it entitles you to insist on the surrounding context being placed in evidence too.",
+        "plain_summary_hi": "यह चुनिंदा-उद्धरण-विरोधी (anti-cherry-picking) नियम है: जब किसी बड़े कथन, वार्तालाप, दस्तावेज़, इलेक्ट्रॉनिक अभिलेख, पुस्तक, या जुड़े हुए पत्रों/कागज़ों की श्रृंखला का केवल भाग ही साक्ष्य में रखा जाता है, तो न्यायालय उतना और भाग सिद्ध करने की अपेक्षा कर सकता है जितना भरोसा किए गए भाग की प्रकृति, प्रभाव, और संदर्भ को पूर्णतः समझने के लिए आवश्यक हो।",
+        "essential_elements_hi": [
+          "साक्ष्य में रखा गया कथन किसी बड़े कथन, वार्तालाप, दस्तावेज़, पुस्तक, इलेक्ट्रॉनिक अभिलेख, या जुड़े पत्रों/कागज़ों की श्रृंखला का भाग होना चाहिए।",
+          "न्यायालय यह तय करता है कि कथन की प्रकृति और प्रभाव तथा उसके किए जाने की परिस्थितियों को पूर्णतः समझने के लिए पूरे का कितना भाग आवश्यक है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यह न्यायालय-नियंत्रित, मामला-दर-मामला मानक है — कोई निश्चित अनुपात नहीं है; परीक्षण उद्धृत कथन की प्रकृति, प्रभाव, और परिस्थितियों की पूर्ण समझ है।"
+        ],
+        "how_to_read_hi": "जब भी विरोधी पक्षकार संदर्भ-रहित उद्धरण प्रस्तुत करे, इस धारा का सहारा लें — यह आपको आसपास के संदर्भ को भी साक्ष्य में रखवाने पर जोर देने का अधिकार देती है।"
       }
     },
     {
@@ -1180,7 +1189,16 @@
         "exceptions_and_qualifications": [
           "This section only makes the prior judgment's existence relevant to the cognizance/bar question -- the substantive law of when a prior judgment actually operates as a bar (res judicata, autrefois acquit/convict, etc.) lies outside the Adhiniyam itself."
         ],
-        "how_to_read": "Use this section as the evidentiary hook for raising a bar to a second suit or trial -- it lets the prior judgment's existence in be proved, while the actual bar doctrine comes from the relevant procedural code."
+        "how_to_read": "Use this section as the evidentiary hook for raising a bar to a second suit or trial -- it lets the prior judgment's existence in be proved, while the actual bar doctrine comes from the relevant procedural code.",
+        "plain_summary_hi": "यदि कोई पूर्व निर्णय, आदेश, या डिक्री किसी न्यायालय को वाद लेने या विचारण करने से विधितः वर्जित करती है (उदाहरण के लिए, प्राक्-न्याय (res judicata) या द्वि-संकट (double jeopardy) जैसे आधारों पर), तो उस पूर्व निर्णय का अस्तित्व स्वयं एक सुसंगत तथ्य है जब भी प्रश्न यह हो कि क्या न्यायालय को बाद के वाद का संज्ञान लेना चाहिए या बाद का विचारण करना चाहिए।",
+        "essential_elements_hi": [
+          "एक ऐसा निर्णय, आदेश, या डिक्री विद्यमान होना चाहिए जो विधितः किसी न्यायालय को वाद का संज्ञान लेने या विचारण करने से वर्जित करती हो।",
+          "इसका अस्तित्व सुसंगत है जब न्यायालय के समक्ष प्रश्न यह हो कि क्या उसे उस वाद का संज्ञान लेना चाहिए या वह विचारण करना चाहिए।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यह धारा केवल पूर्व निर्णय के अस्तित्व को संज्ञान/वर्जन प्रश्न से सुसंगत बनाती है — यह मूल विधि कि पूर्व निर्णय वास्तव में कब वर्जन के रूप में कार्य करती है (प्राक्-न्याय, पूर्व दोषमुक्ति/दोषसिद्धि, आदि), अधिनियम के बाहर है।"
+        ],
+        "how_to_read_hi": "दूसरे वाद या विचारण के विरुद्ध वर्जन उठाने के लिए इस धारा को साक्ष्यिक आधार के रूप में उपयोग करें — यह पूर्व निर्णय के अस्तित्व को सिद्ध करने देती है, जबकि वास्तविक वर्जन-सिद्धांत संबंधित प्रक्रिया संहिता से आता है।"
       }
     },
     {
@@ -1205,7 +1223,18 @@
         "exceptions_and_qualifications": [
           "This is one of the rare instances in the Adhiniyam where a judgment is elevated to 'conclusive proof' rather than merely relevant, rebuttable evidence -- it applies strictly to the four listed jurisdictions and to judgments operating in rem (absolutely), not inter partes."
         ],
-        "how_to_read": "Distinguish 'absolutely' (in rem, binding the world) from judgments that only bind named parties -- only the former, from these four jurisdictions, gets the conclusive-proof status under subsection (2); everything else falls to section 36 or 37 instead."
+        "how_to_read": "Distinguish 'absolutely' (in rem, binding the world) from judgments that only bind named parties -- only the former, from these four jurisdictions, gets the conclusive-proof status under subsection (2); everything else falls to section 36 or 37 instead.",
+        "plain_summary_hi": "प्रोबेट, वैवाहिक, जल-सेना (admiralty), या दिवाला कार्यवाहियों के अंतिम निर्णय जो किसी व्यक्ति की विधिक हैसियत (जैसे किसी को उत्तराधिकारी, तलाकशुदा पति/पत्नी, या दिवालिया घोषित करना) या किसी विशिष्ट वस्तु पर उसके निरपेक्ष हक को तय करते हैं, सुसंगत हैं — और उप-धारा (2) के अंतर्गत, ठीक उसी समय का निश्चायक सबूत (केवल खंडनीय नहीं) है जब वह विधिक हैसियत या हक अर्जित, घोषित, या समाप्त हुआ, जैसा स्वयं निर्णय में तय किया गया हो।",
+        "essential_elements_hi": [
+          "निर्णय, आदेश, या डिक्री सक्षम न्यायालय या अधिकरण से अंतिम होनी चाहिए।",
+          "यह प्रोबेट, वैवाहिक, जल-सेना, या दिवाला अधिकारिता में होनी चाहिए।",
+          "इसे किसी विधिक हैसियत को प्रदान, समाप्त, या घोषित करना चाहिए, या किसी विशिष्ट वस्तु पर निरपेक्ष (केवल किसी निर्दिष्ट व्यक्ति के विरुद्ध नहीं) हक घोषित करना चाहिए।",
+          "उप-धारा (2): ऐसा निर्णय उस सटीक समय का निश्चायक सबूत है जब प्रदान, घोषणा, समाप्ति, या स्वामित्व हुआ, जैसा उसमें कथित है — यह सामान्य सुसंगतता से अधिक मजबूत साक्ष्यिक स्थिति है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यह अधिनियम के उन दुर्लभ उदाहरणों में से एक है जहाँ किसी निर्णय को मात्र सुसंगत, खंडनीय साक्ष्य के बजाय 'निश्चायक सबूत' के स्तर तक उन्नत किया गया है — यह कठोरता से इन चार सूचीबद्ध अधिकारिताओं पर और निरपेक्ष रूप से (in rem) कार्य करने वाले निर्णयों पर लागू होती है, पक्षकारों के बीच (inter partes) वालों पर नहीं।"
+        ],
+        "how_to_read_hi": "'निरपेक्ष रूप से' (in rem, संसार को बाध्य करने वाले) को केवल नामित पक्षकारों को बाध्य करने वाले निर्णयों से भेद करें — उप-धारा (2) के अंतर्गत निश्चायक-सबूत स्थिति केवल इन चार अधिकारिताओं से आने वाले पूर्व को मिलती है; शेष सभी धारा 36 या 37 के अंतर्गत आते हैं।"
       }
     },
     {
@@ -1226,7 +1255,17 @@
         "exceptions_and_qualifications": [
           "The illustration shows the practical effect: a prior decree recognising a public right of way in a different suit is admissible to support the same claim in a new suit, but the new Court remains free to reach its own conclusion on the evidence."
         ],
-        "how_to_read": "Contrast directly with section 35: same broad category of 'judgment as evidence', but here the evidentiary weight is only relevance, never conclusiveness -- a crucial distinction to flag when arguing how much a prior judgment should count."
+        "how_to_read": "Contrast directly with section 35: same broad category of 'judgment as evidence', but here the evidentiary weight is only relevance, never conclusiveness -- a crucial distinction to flag when arguing how much a prior judgment should count.",
+        "plain_summary_hi": "धारा 35 की चार विशेष अधिकारिताओं से बाहर के निर्णय फिर भी सुसंगत हैं यदि वे जाँच से संबंधित लोक-प्रकृति के मामलों से जुड़े हों — परंतु धारा 35 के निर्णयों के विपरीत, वे कभी निश्चायक नहीं होते; वे अपने में कथित बातों के सामान्य, खंडनीय साक्ष्य ही रहते हैं।",
+        "essential_elements_hi": [
+          "निर्णय, आदेश, या डिक्री धारा 35 की श्रेणी का नहीं होना चाहिए।",
+          "यह वर्तमान जाँच से सुसंगत किसी लोक-प्रकृति के मामले से संबंधित होना चाहिए।",
+          "ऐसा निर्णय सुसंगत है, परंतु वह अपने में कथित बातों का निश्चायक सबूत नहीं है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "दृष्टांत व्यावहारिक प्रभाव दर्शाता है: एक पूर्व डिक्री जो किसी अन्य वाद में लोक मार्ग-अधिकार को मान्यता देती है, नए वाद में वही दावा समर्थित करने के लिए ग्राह्य है, परंतु नया न्यायालय साक्ष्य पर अपना स्वतंत्र निष्कर्ष निकालने के लिए स्वतंत्र रहता है।"
+        ],
+        "how_to_read_hi": "इसे सीधे धारा 35 से तुलना करें: 'साक्ष्य के रूप में निर्णय' की वही व्यापक श्रेणी, परंतु यहाँ साक्ष्यिक भार केवल सुसंगतता है, कभी निश्चायकता नहीं — यह चिह्नित करने योग्य महत्वपूर्ण भेद है कि पूर्व निर्णय को कितना महत्व देना चाहिए।"
       }
     },
     {
@@ -1249,7 +1288,19 @@
           "Illustrations (c) and (e) show the most common escape route in practice: a judgment irrelevant on its own terms can still come in through section 6, if it shows motive for the fact in issue.",
           "Illustrations (a) and (b) show the default bar operating -- a judgment against one party does not bind or even inform a case against a different party absent one of the listed exceptions."
         ],
-        "how_to_read": "Treat this section as the closing default rule for the whole judgments sub-topic: if a judgment doesn't fit sections 34-36, it is presumptively out, and the only way back in is through 'fact in issue' status or another specific relevancy provision like section 6."
+        "how_to_read": "Treat this section as the closing default rule for the whole judgments sub-topic: if a judgment doesn't fit sections 34-36, it is presumptively out, and the only way back in is through 'fact in issue' status or another specific relevancy provision like section 6.",
+        "plain_summary_hi": "यह अवशिष्ट, डिफ़ॉल्ट-अपवर्जन नियम है: कोई भी निर्णय, आदेश, या डिक्री जो धारा 34, 35, या 36 के अंतर्गत नहीं आती, असुसंगत है, जब तक उसका अस्तित्व स्वयं विवाद्यक तथ्य न हो या अधिनियम के किसी अन्य उपबंध (जैसे धारा 6 का हेतु/पूर्वतैयारी/आचरण नियम) द्वारा सुसंगत न बनाई गई हो।",
+        "essential_elements_hi": [
+          "निर्णय, आदेश, या डिक्री धारा 34, 35, या 36 के अंतर्गत नहीं आनी चाहिए।",
+          "डिफ़ॉल्ट स्थिति: ऐसा निर्णय असुसंगत है।",
+          "अपवाद: सुसंगत है यदि उसका अस्तित्व स्वयं विवाद्यक तथ्य है।",
+          "अपवाद: सुसंगत है यदि अधिनियम के किसी अन्य उपबंध के अंतर्गत सुसंगत बनाई गई है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "दृष्टांत (ग) और (ङ) व्यवहार में सबसे सामान्य निकास-मार्ग दर्शाते हैं: स्वयं के आधार पर असुसंगत निर्णय फिर भी धारा 6 के माध्यम से आ सकता है, यदि वह विवाद्यक तथ्य के लिए हेतु दर्शाता हो।",
+          "दृष्टांत (क) और (ख) डिफ़ॉल्ट प्रतिबंध को कार्यशील दर्शाते हैं — एक पक्षकार के विरुद्ध निर्णय किसी भिन्न पक्षकार के विरुद्ध मामले को सूचीबद्ध अपवादों में से किसी के अभाव में बाँधता या सूचित भी नहीं करता।"
+        ],
+        "how_to_read_hi": "इस धारा को संपूर्ण निर्णय उप-विषय के लिए समापन डिफ़ॉल्ट नियम मानें: यदि कोई निर्णय धारा 34-36 में फिट नहीं बैठता, तो वह अनुमानतः बाहर है, और वापस आने का एकमात्र मार्ग 'विवाद्यक तथ्य' स्थिति या धारा 6 जैसे किसी अन्य विशिष्ट सुसंगतता-उपबंध से है।"
       }
     },
     {
@@ -1270,7 +1321,17 @@
         "exceptions_and_qualifications": [
           "This is the safety valve against sections 34-36's otherwise strong evidentiary effect (including section 35's conclusive proof) -- competence and fraud/collusion attacks are always open, no matter how conclusive the judgment would otherwise be."
         ],
-        "how_to_read": "Always keep this section in reserve when facing an adverse judgment relied on under sections 34-36 -- even section 35's 'conclusive proof' status yields to a successful showing of incompetent Court or fraud/collusion in obtaining it."
+        "how_to_read": "Always keep this section in reserve when facing an adverse judgment relied on under sections 34-36 -- even section 35's 'conclusive proof' status yields to a successful showing of incompetent Court or fraud/collusion in obtaining it.",
+        "plain_summary_hi": "यहाँ तक कि कोई निर्णय जो धारा 34, 35, या 36 के अंतर्गत सुसंगत है (और धारा 35 के मामले में अन्यथा निश्चायक है) पर आक्रमण किया जा सकता है: कोई भी पक्षकार यह दर्शा सकता है कि निर्णय देने वाला न्यायालय ऐसा करने में सक्षम नहीं था, या कि वह पूर्व कार्यवाही के पक्षकारों के बीच कपट या दुस्संधि (collusion) द्वारा प्राप्त किया गया था।",
+        "essential_elements_hi": [
+          "निर्णय, आदेश, या डिक्री धारा 34, 35, या 36 के अंतर्गत सुसंगत होनी चाहिए।",
+          "इसे विरोधी पक्षकार द्वारा सिद्ध किया गया होना चाहिए।",
+          "वह पक्षकार जिसके विरुद्ध इसका उपयोग किया जाता है, यह दर्शा सकता है कि या तो निर्णय देने वाला न्यायालय सक्षम नहीं था, या निर्णय कपट या दुस्संधि द्वारा प्राप्त किया गया था।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यह धारा 34-36 के अन्यथा सशक्त साक्ष्यिक प्रभाव (धारा 35 के निश्चायक सबूत सहित) के विरुद्ध सुरक्षा वाल्व है — सक्षमता और कपट/दुस्संधि के आक्षेप सदैव खुले रहते हैं, चाहे निर्णय अन्यथा कितना भी निश्चायक क्यों न हो।"
+        ],
+        "how_to_read_hi": "धारा 34-36 के अंतर्गत निर्भर प्रतिकूल निर्णय का सामना करते समय इस धारा को सदैव सुरक्षित रखें — धारा 35 की 'निश्चायक सबूत' स्थिति भी असमर्थ न्यायालय या प्राप्ति में कपट/दुस्संधि के सफल प्रदर्शन के समक्ष झुक जाती है।"
       }
     },
     {
@@ -1292,7 +1353,17 @@
         "exceptions_and_qualifications": [
           "This section is the statutory exception to the general rule against opinion evidence -- it does not make every opinion relevant, only expert opinion within the listed specialised categories."
         ],
-        "how_to_read": "This is the gateway provision for the entire expert-witness practice -- forensic, medical, handwriting, and digital-forensic testimony all trace their relevance back to this section; always confirm the witness's special skill matches the specific field in question."
+        "how_to_read": "This is the gateway provision for the entire expert-witness practice -- forensic, medical, handwriting, and digital-forensic testimony all trace their relevance back to this section; always confirm the witness's special skill matches the specific field in question.",
+        "plain_summary_hi": "यह धारा राय-साक्ष्य (opinion evidence) अध्याय का प्रारंभ करती है। सामान्यतः कोई साक्षी केवल तथ्यों पर गवाही दे सकता है, राय पर नहीं — परंतु जब न्यायालय को विदेशी विधि, विज्ञान, कला, या किसी अन्य विशेषज्ञ क्षेत्र के बिंदु, या हस्तलेख या अंगुली-छाप की पहचान पर निर्णय करना हो, तो उस बिंदु पर विशेष रूप से कुशल व्यक्तियों (विशेषज्ञों) की राय सुसंगत हो जाती है। उप-धारा (2) कंप्यूटर/इलेक्ट्रॉनिक/डिजिटल जानकारी पर राय के लिए 'विशेषज्ञ' की हैसियत विशेष रूप से सांविधिक इलेक्ट्रॉनिक साक्ष्य परीक्षक तक विस्तृत करती है।",
+        "essential_elements_hi": [
+          "न्यायालय विदेशी विधि, विज्ञान, कला, या किसी अन्य क्षेत्र के बिंदु, या हस्तलेख या अंगुली-छाप की पहचान पर राय बना रहा होना चाहिए।",
+          "राय किसी ऐसे व्यक्ति की होनी चाहिए जो संबंधित विषय में विशेष रूप से कुशल हो — एक विशेषज्ञ।",
+          "उप-धारा (2): इलेक्ट्रॉनिक/डिजिटल जानकारी संबंधी मामलों के लिए, सूचना प्रौद्योगिकी अधिनियम 2000 के अंतर्गत इलेक्ट्रॉनिक साक्ष्य परीक्षक को विशेषज्ञ माना जाता है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यह धारा राय-साक्ष्य के विरुद्ध सामान्य नियम का सांविधिक अपवाद है — यह प्रत्येक राय को सुसंगत नहीं बनाती, केवल सूचीबद्ध विशेषज्ञ श्रेणियों के अंतर्गत विशेषज्ञ राय को ही।"
+        ],
+        "how_to_read_hi": "यह संपूर्ण विशेषज्ञ-साक्षी व्यवहार के लिए द्वार-उपबंध है — न्यायविधिक, चिकित्सकीय, हस्तलेख, और डिजिटल-न्यायविधिक गवाही सभी अपनी सुसंगतता इसी धारा से प्राप्त करती हैं; सदैव पुष्टि करें कि साक्षी का विशेष कौशल विशिष्ट प्रश्नगत क्षेत्र से मेल खाता है।"
       }
     },
     {
@@ -1312,7 +1383,16 @@
         "exceptions_and_qualifications": [
           "This is a companion, evidence-testing provision to section 39 -- it only operates where an expert opinion is already relevant; it does not independently create relevance for comparative facts in the absence of expert opinion evidence."
         ],
-        "how_to_read": "Use this section to bring in comparative or corroborative data points (e.g. how other similarly-poisoned persons reacted, or how comparable harbours behaved) to strengthen or challenge an expert's opinion already before the Court."
+        "how_to_read": "Use this section to bring in comparative or corroborative data points (e.g. how other similarly-poisoned persons reacted, or how comparable harbours behaved) to strengthen or challenge an expert's opinion already before the Court.",
+        "plain_summary_hi": "जो तथ्य अन्यथा स्वतंत्र रूप से असुसंगत होते, वे सुसंगत हो जाते हैं यदि वे धारा 39 के अंतर्गत सुसंगत किसी विशेषज्ञ राय का समर्थन या खंडन करते हों — इससे पक्षकार विशेषज्ञ गवाही को तुलनात्मक वास्तविक-जगत के आँकड़ों से परखने या संपुष्ट करने में सक्षम होते हैं।",
+        "essential_elements_hi": [
+          "प्रश्नगत तथ्य अन्यथा स्वयं सुसंगत नहीं होना चाहिए।",
+          "यह सुसंगत हो जाता है क्योंकि यह किसी सुसंगत विशेषज्ञ राय का समर्थन करता है या उसके साथ असंगत है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यह धारा 39 का सहयोगी, साक्ष्य-परीक्षण उपबंध है — यह केवल तभी कार्य करती है जब कोई विशेषज्ञ राय पहले से सुसंगत हो; यह विशेषज्ञ-राय साक्ष्य के अभाव में तुलनात्मक तथ्यों के लिए स्वतंत्र रूप से सुसंगतता उत्पन्न नहीं करती।"
+        ],
+        "how_to_read_hi": "इस धारा का उपयोग तुलनात्मक या संपुष्टिकारक आँकड़े लाने के लिए करें (जैसे अन्य समान रूप से विषाक्त व्यक्तियों की प्रतिक्रिया कैसी रही, या तुलनीय बंदरगाहों का व्यवहार कैसा रहा) ताकि न्यायालय के समक्ष पहले से मौजूद किसी विशेषज्ञ की राय को मजबूत या चुनौती दी जा सके।"
       }
     },
     {
