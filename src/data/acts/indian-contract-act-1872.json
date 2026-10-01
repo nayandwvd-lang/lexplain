@@ -1814,7 +1814,15 @@
           "If the contract is silent on order, the order is determined by the nature of the transaction."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Always check the contract's express terms first; only fall back on \"nature of the transaction\" reasoning (as in illustration (b), where security logically precedes handover) when the contract itself is truly silent — do not import an inferred order where the parties have already specified one."
+        "how_to_read": "Always check the contract's express terms first; only fall back on \"nature of the transaction\" reasoning (as in illustration (b), where security logically precedes handover) when the contract itself is truly silent — do not import an inferred order where the parties have already specified one.",
+        "plain_summary_hi": "धारा 52 उन पारस्परिक वचनों के लिए क्रम-नियम तय करती है जो एक साथ पालन किए जाने अभिप्रेत नहीं हैं: संविदा में स्पष्ट रूप से बताए गए क्रम का पालन करें, और यदि संविदा मौन है, तो लेन-देन की प्रकृति जो भी क्रम माँगती हो उसका पालन करें (दृष्टांत (क) और (ख) दिखाते हैं कि सौदे का व्यावहारिक तर्क कैसे छूटे हुए क्रम की पूर्ति करता है)।",
+        "essential_elements_hi": [
+          "संविदा में पारस्परिक वचन हों जो एक साथ पालन किए जाने अभिप्रेत नहीं हैं।",
+          "यदि संविदा स्पष्ट रूप से पालन का क्रम तय करती है, तो वही क्रम लागू होता है।",
+          "यदि संविदा क्रम पर मौन है, तो क्रम लेन-देन की प्रकृति से तय होता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "सदैव पहले संविदा की स्पष्ट शर्तें जाँचें; 'लेन-देन की प्रकृति' के तर्क पर (दृष्टांत (ख) की भाँति, जहाँ सुरक्षा तार्किक रूप से परिदान से पहले आती है) केवल तब लौटें जब संविदा वास्तव में मौन हो — जहाँ पक्षों ने पहले ही क्रम निर्दिष्ट कर दिया हो, वहाँ अनुमानित क्रम आरोपित न करें।"
       }
     },
     {
@@ -1835,7 +1843,16 @@
           "The prevented party is entitled to compensation for loss sustained from the non-performance."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is a straightforward application of the general principle that a party cannot take advantage of his own wrong — a defendant who blocks the claimant's performance and then complains the claimant did not perform will find Section 53 turned squarely against him; plead prevention specifically and quantify the resulting loss."
+        "how_to_read": "This is a straightforward application of the general principle that a party cannot take advantage of his own wrong — a defendant who blocks the claimant's performance and then complains the claimant did not perform will find Section 53 turned squarely against him; plead prevention specifically and quantify the resulting loss.",
+        "plain_summary_hi": "धारा 53 उस पक्ष को दंडित करती है जो स्वयं दूसरे पक्ष के पालन में बाधा डालता है: संविदा बाधित पक्ष के विकल्प पर शून्यकरणीय हो जाती है (वह उन्मोचन या निरंतरता चुन सकता है), और किसी भी स्थिति में वह परिणामी अपालन से हुई हानि के लिए प्रतिकर पाने का हकदार है।",
+        "essential_elements_hi": [
+          "संविदा में पारस्परिक वचन हों।",
+          "एक पक्ष दूसरे को अपने वचन का पालन करने से रोकता है।",
+          "संविदा उस रोके गए पक्ष के विकल्प पर शून्यकरणीय हो जाती है।",
+          "रोका गया पक्ष अपालन से हुई हानि के लिए प्रतिकर पाने का हकदार है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह सामान्य सिद्धांत का सीधा अनुप्रयोग है कि कोई पक्ष अपनी ही गलती का लाभ नहीं उठा सकता — एक प्रतिवादी जो वादी के पालन को अवरुद्ध करता है और फिर शिकायत करता है कि वादी ने पालन नहीं किया, वह धारा 53 को सीधे अपने विरुद्ध पाएगा; बाधा को विशेष रूप से अभिकथित करें और परिणामी हानि की मात्रा निर्धारित करें।"
       }
     },
     {
@@ -1855,7 +1872,16 @@
           "He must compensate the other party for any loss caused by the resulting non-performance."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Section 54 is Section 52's natural consequence: once you have determined (under Section 52) which promise must come first, Section 54 tells you what happens if that first promisor defaults — he forfeits his own claim to the other's performance and becomes liable in compensation instead; the four illustrations each show a different type of sequenced obligation (cargo before shipping, materials before work, payment before delivery, delivery before payment)."
+        "how_to_read": "Section 54 is Section 52's natural consequence: once you have determined (under Section 52) which promise must come first, Section 54 tells you what happens if that first promisor defaults — he forfeits his own claim to the other's performance and becomes liable in compensation instead; the four illustrations each show a different type of sequenced obligation (cargo before shipping, materials before work, payment before delivery, delivery before payment).",
+        "plain_summary_hi": "धारा 54 क्रमिक पारस्परिक वचनों को संभालती है जहाँ एक वचन का पालन दूसरे के दावे से पहले किया जाना आवश्यक है: यदि पहले पालन करने वाला वचनदाता चूक करता है, तो वह दूसरे पक्ष के पालन की माँग करने का अपना अधिकार खो देता है और इसके बजाय उसे दूसरे पक्ष को परिणामी हानि के लिए प्रतिकर देना होगा।",
+        "essential_elements_hi": [
+          "संविदा में एक आवश्यक क्रम में पारस्परिक वचन हों — एक का पालन, या उसकी माँग, तब तक नहीं की जा सकती जब तक दूसरा पहले पूरा न हो जाए।",
+          "जिस वचनदाता का वचन पहले आता है, वह उसका पालन करने में विफल रहता है।",
+          "वह दूसरे पक्ष के (बाद वाले) पारस्परिक वचन के पालन का दावा नहीं कर सकता।",
+          "उसे परिणामी अपालन से हुई किसी भी हानि के लिए दूसरे पक्ष को प्रतिकर देना होगा।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "धारा 54, धारा 52 का स्वाभाविक परिणाम है: एक बार (धारा 52 के अंतर्गत) यह तय हो जाए कि कौन सा वचन पहले आना चाहिए, धारा 54 बताती है कि यदि वह पहला वचनदाता चूक करे तो क्या होता है — वह दूसरे के पालन पर अपना दावा खो देता है और इसके बजाय प्रतिकर हेतु उत्तरदायी हो जाता है; चारों दृष्टांत क्रमबद्ध दायित्व के अलग-अलग प्रकार दिखाते हैं (माल पहले फिर पोत-भेजना, सामग्री पहले फिर कार्य, भुगतान पहले फिर परिदान, परिदान पहले फिर भुगतान)।"
       }
     },
     {
@@ -1879,7 +1905,19 @@
         "exceptions_and_qualifications": [
           "Whether time is \"of the essence\" is itself a question of the parties' intention, drawn from the contract's terms and the nature of the transaction — not automatically true just because a date is mentioned."
         ],
-        "how_to_read": "This section is the single most litigated provision on commercial timeliness — always start by characterising whether time was of the essence on the specific facts (courts routinely hold it is NOT essential in contracts for sale of immovable property, absent clear words to the contrary) before reaching for the voidability remedy; and if your client accepts a late tender, insist that the acceptance notice expressly reserve the right to claim compensation, per the third paragraph's notice requirement."
+        "how_to_read": "This section is the single most litigated provision on commercial timeliness — always start by characterising whether time was of the essence on the specific facts (courts routinely hold it is NOT essential in contracts for sale of immovable property, absent clear words to the contrary) before reaching for the voidability remedy; and if your client accepts a late tender, insist that the acceptance notice expressly reserve the right to claim compensation, per the third paragraph's notice requirement.",
+        "plain_summary_hi": "धारा 55 'समय सार तत्व है' (time is of the essence) के शास्त्रीय प्रश्न को नियंत्रित करती है। यदि पक्षों का आशय कठोर समयपालन था, तो छूटी हुई समय-सीमा संविदा को वचनग्रहीता के विकल्प पर शून्यकरणीय बना देती है। यदि समयपालन सार तत्व नहीं था, तो संविदा विलंबित पालन के बावजूद जीवित रहती है, परंतु वचनग्रहीता फिर भी विलंब के लिए प्रतिकर माँग सकता है। और यदि वचनग्रहीता बाद में विलंबित पालन स्वीकार कर ले, तो वह विलंब-प्रतिकर माँगने का अधिकार खो देता है जब तक वह स्वीकृति के समय सूचना द्वारा उस अधिकार को स्पष्ट रूप से सुरक्षित न रखे।",
+        "essential_elements_hi": [
+          "किसी पक्ष ने किसी निर्दिष्ट समय पर या उससे पहले कुछ करने का वचन दिया।",
+          "वह उस समय तक ऐसा करने में विफल रहा।",
+          "यदि समय को सार तत्व अभिप्रेत किया गया था, तो संविदा (या उसका अपालन-किया भाग) वचनग्रहीता के विकल्प पर शून्यकरणीय हो जाती है।",
+          "यदि समय सार तत्व नहीं था, तो संविदा जीवित रहती है, परंतु वचनग्रहीता विलंब के लिए प्रतिकर माँग सकता है।",
+          "जहाँ वचनग्रहीता बाद में विलंबित पालन स्वीकार करता है, वहाँ उसे स्वीकृति के समय ही विलंब-प्रतिकर माँगने के अपने आशय की सूचना देनी होगी, अन्यथा वह दावा खो देता है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "समय 'सार तत्व' है या नहीं, यह स्वयं पक्षों के आशय का प्रश्न है, जो संविदा की शर्तों और लेन-देन की प्रकृति से निकाला जाता है — केवल इसलिए सत्य नहीं कि कोई तिथि उल्लिखित है।"
+        ],
+        "how_to_read_hi": "व्यावसायिक समयपालन पर यह अकेली सबसे अधिक मुकदमेबाज़ी वाली धारा है — सदैव पहले विशिष्ट तथ्यों पर यह निर्धारित करें कि क्या समय सार तत्व था (न्यायालय प्रायः अचल संपत्ति की विक्रय संविदाओं में, स्पष्ट विपरीत शब्दों के अभाव में, इसे सार तत्व नहीं मानते) — उसके बाद ही शून्यकरणीयता के उपचार की ओर बढ़ें; और यदि आपका ग्राहक विलंबित प्रस्ताव स्वीकार करता है, तो तीसरे अनुच्छेद की सूचना-आवश्यकता के अनुसार स्वीकृति-सूचना में प्रतिकर माँगने का अधिकार स्पष्ट रूप से सुरक्षित रखने पर आग्रह करें।"
       }
     },
     {
@@ -1901,7 +1939,17 @@
         "exceptions_and_qualifications": [
           "Limb 2's voidness only applies where the supervening impossibility/unlawfulness arises from an event the promisor could not prevent — self-induced impossibility does not attract this protection."
         ],
-        "how_to_read": "This is the Act's codification of what English common law calls \"frustration of contract\" — always identify which of the three limbs applies: initial impossibility (limb 1, no compensation at all since neither party could have known), supervening impossibility (limb 2, prospective voidness only), or one-sided knowledge of impossibility (limb 3, compensation despite voidness, effectively a damages claim resting on implied misrepresentation of capacity to perform)."
+        "how_to_read": "This is the Act's codification of what English common law calls \"frustration of contract\" — always identify which of the three limbs applies: initial impossibility (limb 1, no compensation at all since neither party could have known), supervening impossibility (limb 2, prospective voidness only), or one-sided knowledge of impossibility (limb 3, compensation despite voidness, effectively a damages claim resting on implied misrepresentation of capacity to perform).",
+        "plain_summary_hi": "धारा 56 कुंठा/असंभवता (frustration/impossibility) के सिद्धांत को तीन शाखाओं में संहिताबद्ध करती है: (1) ऐसा करार जो आरंभ से ही असंभव हो, जन्म से ही शून्य है; (2) ऐसी संविदा जो बाद में, वचनदाता की किसी गलती के बिना, असंभव या अवैध हो जाए, वह उसी बिंदु से शून्य हो जाती है (पश्चातवर्ती असंभवता); और (3) यदि वचनदाता को असंभवता की जानकारी थी (या होनी चाहिए थी) जबकि वचनग्रहीता को नहीं थी, तो वचनदाता को वचनग्रहीता को प्रतिकर देना होगा, भले ही अंतर्निहित करार शून्य हो।",
+        "essential_elements_hi": [
+          "शाखा 1: वचनित कार्य करार के समय ही असंभव था — आरंभ से शून्य (दृष्टांत (क))।",
+          "शाखा 2: कार्य संविदा के समय संभव था, परंतु बाद में किसी ऐसी घटना के कारण असंभव या अवैध हो गया जिसे वचनदाता रोक नहीं सकता था — उसी बाद के बिंदु से शून्य (दृष्टांत (ख), (घ), (ङ))।",
+          "शाखा 3: वचनदाता को जानकारी थी, या युक्तियुक्त तत्परता से जान सकता था, कि कार्य असंभव/अवैध है, जबकि वचनग्रहीता को नहीं जानकारी थी — वचनदाता को करार के शून्य होने के बावजूद वचनग्रहीता को प्रतिकर देना होगा।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "शाखा 2 की शून्यता केवल तभी लागू होती है जब पश्चातवर्ती असंभवता/अवैधता ऐसी घटना से उत्पन्न हो जिसे वचनदाता रोक नहीं सकता था — स्वयं-प्रेरित असंभवता इस सुरक्षा को आकर्षित नहीं करती।"
+        ],
+        "how_to_read_hi": "यह अधिनियम का उस सिद्धांत का संहिताकरण है जिसे अंग्रेज़ी सामान्य कानून 'संविदा की कुंठा' (frustration of contract) कहता है — सदैव पहचानें कि तीनों शाखाओं में से कौन-सी लागू होती है: आरंभिक असंभवता (शाखा 1, कोई प्रतिकर नहीं क्योंकि कोई भी पक्ष जान नहीं सकता था), पश्चातवर्ती असंभवता (शाखा 2, केवल भविष्यलक्षी शून्यता), या असंभवता का एकपक्षीय ज्ञान (शाखा 3, शून्यता के बावजूद प्रतिकर, जो प्रभावी रूप से पालन-क्षमता के अंतर्निहित मिथ्या-व्यपदेशन पर आधारित हर्जाने का दावा है)।"
       }
     },
     {
@@ -1920,7 +1968,15 @@
           "The unlawful set of promises is a void agreement, unenforceable on its own."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Section 57 is a severability rule — always separate a composite bargain into its lawful and unlawful strands before advising on enforceability; the illustration's gambling-house penalty clause is the classic example of an unlawful \"sweetener\" riding on an otherwise valid sale, and only the sweetener falls away."
+        "how_to_read": "Section 57 is a severability rule — always separate a composite bargain into its lawful and unlawful strands before advising on enforceability; the illustration's gambling-house penalty clause is the classic example of an unlawful \"sweetener\" riding on an otherwise valid sale, and only the sweetener falls away.",
+        "plain_summary_hi": "धारा 57 एक ही लिखत को उसके वैध और अवैध भागों में अलग करने देती है: जहाँ पारस्परिक वचन एक वैध लेन-देन को किसी सशर्त, अवैध लेन-देन के साथ बाँधते हैं, वहाँ वैध भाग एक प्रवर्तनीय संविदा के रूप में खड़ा रहता है जबकि अवैध भाग केवल शून्य और अप्रवर्तनीय होता है — अवैधता स्वतः संपूर्ण लिखत को दूषित नहीं करती।",
+        "essential_elements_hi": [
+          "व्यक्ति पारस्परिक रूप से कुछ वैध कार्य करने का, और साथ ही, निर्दिष्ट परिस्थितियों में, कुछ अवैध कार्य करने का वचन देते हैं।",
+          "वैध वचनों के समूह को एक वैध, प्रवर्तनीय संविदा माना जाता है।",
+          "अवैध वचनों का समूह एक शून्य करार है, अकेले अप्रवर्तनीय।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "धारा 57 एक पृथक्करणीयता (severability) नियम है — प्रवर्तनीयता पर सलाह देने से पहले सदैव मिश्रित सौदे को उसकी वैध और अवैध धाराओं में अलग करें; दृष्टांत का जुआघर-दंड खंड एक अन्यथा वैध विक्रय पर सवार अवैध 'प्रलोभन' का शास्त्रीय उदाहरण है, और केवल वह प्रलोभन ही समाप्त होता है।"
       }
     },
     {
@@ -1938,7 +1994,15 @@
           "Only the legal branch can be enforced."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Sections 57 and 58 form a natural pair (severability of reciprocal promises vs. severability of a single alternative promise) — in both, the guiding principle is the same: courts enforce what can lawfully be enforced and simply strike out what cannot, rather than voiding the entire bargain for partial illegality."
+        "how_to_read": "Sections 57 and 58 form a natural pair (severability of reciprocal promises vs. severability of a single alternative promise) — in both, the guiding principle is the same: courts enforce what can lawfully be enforced and simply strike out what cannot, rather than voiding the entire bargain for partial illegality.",
+        "plain_summary_hi": "धारा 58, धारा 57 के समान पृथक्करणीयता-तर्क को वैकल्पिक वचन (एक ही वचन जो पालन के दो तरीकों में से चुनाव का विकल्प देता है) पर लागू करती है: यदि विकल्प की एक शाखा वैध है और दूसरी अवैध, तो केवल वैध शाखा प्रवर्तित की जा सकती है — अवैध शाखा केवल गिर जाती है, न कि संपूर्ण सौदा शून्य हो जाता है।",
+        "essential_elements_hi": [
+          "एक ही वचन पालन के वैकल्पिक तरीके प्रस्तुत करता है।",
+          "उस विकल्प की एक शाखा/तरीका वैध है; दूसरा अवैध है।",
+          "केवल वैध शाखा ही प्रवर्तित की जा सकती है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "धारा 57 और 58 एक स्वाभाविक जोड़ी बनाती हैं (पारस्परिक वचनों की पृथक्करणीयता बनाम एक वैकल्पिक वचन की पृथक्करणीयता) — दोनों में मार्गदर्शक सिद्धांत समान है: न्यायालय जो वैध रूप से प्रवर्तित किया जा सकता है उसे प्रवर्तित करते हैं और जो नहीं किया जा सकता उसे केवल काट देते हैं, बजाय इसके कि आंशिक अवैधता के लिए संपूर्ण सौदे को शून्य कर दें।"
       }
     },
     {
@@ -1957,7 +2021,16 @@
           "The payment must then be applied to discharge that particular debt."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Sections 59-61 form a clear decision tree for appropriation of payments: first ask whether the debtor indicated (expressly or by clear implication) which debt he is paying (Section 59) — if not, the creditor gets to choose (Section 60) — and if neither party appropriates, the law applies a default chronological rule (Section 61). Always establish which of the three sections governs before assuming a payment discharges any particular debt."
+        "how_to_read": "Sections 59-61 form a clear decision tree for appropriation of payments: first ask whether the debtor indicated (expressly or by clear implication) which debt he is paying (Section 59) — if not, the creditor gets to choose (Section 60) — and if neither party appropriates, the law applies a default chronological rule (Section 61). Always establish which of the three sections governs before assuming a payment discharges any particular debt.",
+        "plain_summary_hi": "धारा 59 'भुगतान के विनियोजन' (appropriation of payments) संबंधी उप-अध्याय आरंभ करती है, जो यह नियंत्रित करती है कि कई ऋणों में से किसके विरुद्ध भुगतान जमा किया जाए: जहाँ ऋणी स्पष्ट रूप से — प्रत्यक्ष रूप से या परिस्थितियों के माध्यम से — यह आशय बताए कि वह कौन सा विशिष्ट ऋण चुका रहा है, और लेनदार भुगतान स्वीकार कर ले, तो उसे उसी विशिष्ट ऋण पर लागू किया जाना चाहिए।",
+        "essential_elements_hi": [
+          "ऋणी पर एक ही लेनदार के प्रति कई अलग-अलग ऋण बकाया हों।",
+          "वह स्पष्ट सूचना के साथ, या ऐसी परिस्थितियों में भुगतान करता है जो यह संकेत दें, कि यह किसी विशेष ऋण के लिए अभिप्रेत है।",
+          "लेनदार वह भुगतान स्वीकार करता है।",
+          "भुगतान तब उस विशेष ऋण को चुकाने में लागू किया जाना चाहिए।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "धारा 59-61 भुगतान-विनियोजन हेतु एक स्पष्ट निर्णय-वृक्ष बनाती हैं: पहले पूछें कि क्या ऋणी ने (स्पष्ट रूप से या स्पष्ट अंतर्निहित अर्थ से) बताया कि वह कौन सा ऋण चुका रहा है (धारा 59) — यदि नहीं, तो लेनदार को चुनने का अधिकार मिलता है (धारा 60) — और यदि दोनों में से कोई भी विनियोजन न करे, तो कानून एक डिफ़ॉल्ट कालानुक्रमिक नियम लागू करता है (धारा 61)। किसी भुगतान को किसी विशेष ऋण का उन्मोचन मानने से पहले सदैव यह स्थापित करें कि तीनों धाराओं में से कौन-सी लागू होती है।"
       }
     },
     {
