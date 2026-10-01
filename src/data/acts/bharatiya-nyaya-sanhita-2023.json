@@ -433,7 +433,30 @@
     "no-intent-to-harm requirement for order disobedience": "The Explanation to Section 223 BNS: liability does not require intent to produce harm or contemplation that disobedience is likely to produce harm -- mere knowledge of the order plus disobedience that produces or is likely to produce harm suffices, a comparatively strict liability standard within the Sanhita.",
     "threat of injury to a public servant to influence official conduct": "Section 224 BNS: holding out a threat of injury to a public servant, or to a person believed to interest that public servant, for the purpose of inducing them to act, forbear, or delay in their public functions, punishable with up to two years' imprisonment, fine, or both.",
     "threat to deter a legal application for protection from a public servant": "Section 225 BNS: holding out a threat of injury to a person to induce them to refrain from, or abandon, a legal application for protection to a public servant empowered to give it, punishable with up to one year's imprisonment, fine, or both -- an access-to-justice protection complementing Section 224.",
-    "attempt to commit suicide to compel or restrain a public servant": "Section 226 BNS, closing Chapter XIII: attempting suicide with intent to compel or restrain a public servant from discharging official duty, punishable with up to one year's simple imprisonment, fine, or both, or with community service."
+    "attempt to commit suicide to compel or restrain a public servant": "Section 226 BNS, closing Chapter XIII: attempting suicide with intent to compel or restrain a public servant from discharging official duty, punishable with up to one year's simple imprisonment, fine, or both, or with community service.",
+    "giving false evidence": "Defined in Section 227 BNS, opening Chapter XIV: making a statement known or believed false, or not believed true, while legally bound by oath, express legal provision, or a legal duty to declare, to state the truth -- the definitional foundation for the punishment provisions in Sections 229-231.",
+    "false statement as to belief": "Explanation 2 to Section 227 BNS: a person may give false evidence by falsely stating what they believe, not just what they claim to know -- stating one believes something one does not actually believe is treated the same as falsely claiming knowledge.",
+    "good-faith belief as a defence to false evidence": "Illustration (c) to Section 227 BNS: a statement of genuine, good-faith belief is not false evidence even if objectively mistaken -- e.g. believing a signature to be someone's handwriting in good faith, even if it later turns out not to be, is not false evidence because the offence targets dishonesty of mind, not factual error.",
+    "fabricating false evidence": "Defined in Section 228 BNS: causing a circumstance to exist, making a false entry in a book/record/electronic record, or creating a document/electronic record containing a false statement, intending it to appear as evidence in a judicial proceeding, public-servant proceeding, or arbitration, and to mislead the fact-finder on a material point -- illustrated by planting jewels to frame someone for theft or forging a letter in someone else's handwriting.",
+    "planting evidence to mislead a fact-finder": "A description of the core conduct criminalised by Section 228 BNS's fabrication offence -- physically or documentarily manufacturing false circumstances intended to cause a judicial or quasi-judicial fact-finder to form an erroneous opinion on a material point.",
+    "punishment for false evidence in a judicial proceeding": "Section 229(1) BNS: intentionally giving false evidence, or fabricating false evidence for use, in any stage of a judicial proceeding, punishable with up to seven years' imprisonment plus fine up to ten thousand rupees -- the heavier of the two Section 229 bands.",
+    "punishment for false evidence outside judicial proceedings": "Section 229(2) BNS: the lighter residual band for intentionally giving or fabricating false evidence in any case other than a judicial proceeding (e.g. before a non-judicial public servant or an arbitrator), punishable with up to three years' imprisonment plus fine up to five thousand rupees.",
+    "stage of a judicial proceeding": "Defined broadly across the three Explanations to Section 229 BNS to include courts-martial trials and both Court-directed and law-mandated preliminary investigations (e.g. a Magistrate's committal enquiry or a Court-deputed boundary investigation) -- even proceedings that never literally occur inside a courtroom can count as a 'stage of a judicial proceeding' for the heavier Section 229(1) punishment.",
+    "false evidence intended to procure a capital conviction": "Section 230 BNS: giving or fabricating false evidence intending, or knowing it likely, to cause someone's conviction for a capital offence, punishable with life imprisonment or up to ten years' rigorous imprisonment plus fine up to fifty thousand rupees -- escalating to the death penalty itself if an innocent person is actually convicted and executed as a result.",
+    "enhanced punishment where an innocent person is executed on false evidence": "Section 230(2) BNS: if an innocent person is actually convicted and executed in consequence of false evidence given under Section 230(1), the false-evidence-giver is liable to the death penalty itself (or the Section 230(1) punishment) -- the outcome, not merely the intent, triggers this maximal tier.",
+    "false evidence intended to procure conviction for a serious non-capital offence": "Section 231 BNS: giving or fabricating false evidence intending, or knowing it likely, to cause someone's conviction for a non-capital offence punishable with life imprisonment or seven-plus years, where the false-evidence-giver's own punishment mirrors exactly what the falsely targeted offence carries.",
+    "mirror-punishment for false evidence targeting a specific offence": "The structural principle underlying Section 231 BNS: the punishment for giving or fabricating false evidence to procure a conviction is pegged to the severity of the specific offence being falsely targeted, illustrated by a false witness facing the same life-imprisonment-or-up-to-ten-years exposure as the dacoity charge he tried to engineer.",
+    "threatening a person to give false evidence": "Section 232 BNS: threatening injury to a person, or to someone in whom they are interested, with intent to induce them to give false evidence, punishable with up to seven years' imprisonment, fine, or both.",
+    "enhanced liability for a threatener where an innocent person is wrongly convicted": "Section 232(2) BNS: where an innocent person is actually convicted and sentenced (to death or more than seven years) in consequence of false evidence coerced under Section 232(1), the threatener bears the same punishment and sentence actually imposed on that innocent person.",
+    "using evidence known to be false or fabricated": "Section 233 BNS: corruptly using, or attempting to use, evidence as true or genuine while knowing it is false or fabricated, punished identically to the person who originally gave or fabricated that evidence under Section 229's bands.",
+    "issuing or signing a false certificate": "Section 234 BNS: issuing or signing a legally required certificate, relating to a fact for which it is by law admissible in evidence, knowing or believing it false in a material point -- punished the same as giving false evidence under Section 229.",
+    "using as true a certificate known to be false": "Section 235 BNS: corruptly using, or attempting to use, a Section-234-type certificate as true while knowing it false in a material point -- the using-side companion to Section 234's issuing/signing offence, punished identically to giving false evidence.",
+    "false statement in a legally receivable declaration": "Section 236 BNS: making a statement known or believed false, or not believed true, in a declaration a Court or public servant is bound or authorised by law to receive as evidence of a fact, touching a point material to the declaration's purpose -- punished the same as giving false evidence.",
+    "using as true a declaration known to be false": "Section 237 BNS: corruptly using, or attempting to use, a Section-236-type declaration as true while knowing it false in a material point -- the using-side companion to Section 236, punished identically to giving false evidence.",
+    "informality does not exclude a declaration from false-declaration liability": "The Explanation to Section 237 BNS: a declaration otherwise inadmissible merely for some technical informality still counts as a 'declaration' for the purposes of both Sections 236 and 237, preventing evasion of liability through a minor procedural defect in the declaration's form.",
+    "causing disappearance of evidence of an offence": "Section 238 BNS: causing evidence of a known or believed-committed offence to disappear, with intent to screen the offender from legal punishment, punishable in three tiers graduated by the underlying offence's severity -- illustrated by someone who helps hide a murder victim's body.",
+    "giving false information to screen an offender": "The alternative limb of Section 238 BNS: giving false information about a known or believed-committed offence, with intent to screen the offender, carrying the same three-tier graduated punishment as causing evidence of the offence to disappear.",
+    "graduated punishment keyed to the underlying offence's severity": "The recurring sentencing structure in Sections 238, 249, 250, 251, and 253 BNS: punishment for obstruction-of-justice conduct (screening an offender, harbouring, taking gifts to screen) is set in tiers according to how serious the underlying offence being screened is -- death-punishable, life-or-ten-years-punishable, or lesser."
   },
   "sections": [
     {
@@ -4843,6 +4866,233 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This is a narrowly targeted provision distinct from any general offence relating to attempted suicide -- the public-duty-coercion intent element is what brings it within this public-servant-contempt chapter rather than elsewhere in the Sanhita; the community-service sentencing option again reflects a deliberately rehabilitative rather than purely punitive approach."
+      }
+    },
+    {
+      "number": "227",
+      "title": "Giving false evidence",
+      "raw_text": "Whoever, being legally bound by an oath or by an express provision of law to state the truth, or being bound by law to make a declaration upon any subject, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, is said to give false evidence. Explanation 1.--A statement is within the meaning of this section, whether it is made verbally or otherwise. Explanation 2.--A false statement as to the belief of the person attesting is within the meaning of this section, and a person may be guilty of giving false evidence by stating that he believes a thing which he does not believe, as well as by stating that he knows a thing which he does not know. Illustrations. (a) A, in support of a just claim which B has against Z for one thousand rupees, falsely swears on a trial that he heard Z admit the justice of B's claim. A has given false evidence. (b) A, being bound by an oath to state the truth, states that he believes a certain signature to be the handwriting of Z, when he does not believe it to be the handwriting of Z. Here A states that which he knows to be false, and therefore gives false evidence. (c) A, knowing the general character of Z's handwriting, states that he believes a certain signature to be the handwriting of Z; A in good faith believing it to be so. Here A's statement is merely as to his belief, and is true as to his belief, and therefore, although the signature may not be the handwriting of Z, A has not given false evidence. (d) A, being bound by an oath to state the truth, states that he knows that Z was at a particular place on a particular day, not knowing anything upon the subject. A gives false evidence whether Z was at that place on the day named or not. (e) A, an interpreter or translator, gives or certifies as a true interpretation or translation of a statement or document which he is bound by oath to interpret or translate truly, that which is not and which he does not believe to be a true interpretation or translation. A has given false evidence.",
+      "key_terms": [
+        "giving false evidence",
+        "false statement as to belief",
+        "good-faith belief as a defence to false evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "Opens Chapter XIV ('Of False Evidence and Offences Against Public Justice') by defining, rather than punishing, the core concept: a person legally bound by oath, express legal provision, or a legally required declaration, who makes a statement known or believed false, or not believed true, is said to 'give false evidence' -- the definitional foundation for the punishment provisions in Sections 229-231 that follow, illustrated across five scenarios covering oral testimony, false statements of belief, genuine (even if mistaken) good-faith belief, reckless assertions of knowledge, and false interpretation/translation.",
+        "essential_elements": [
+          "The accused is legally bound by an oath, an express provision of law, or a legal duty to make a declaration, to state the truth",
+          "The accused makes a statement on that subject",
+          "The statement is false, and the accused either knows or believes it false, or does not believe it true"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Illustration (c) is the critical boundary case: a statement that is genuinely, good-faith believed true -- even if objectively wrong -- is NOT false evidence, because the offence targets dishonesty of mind, not factual error; illustration (d) shows the opposite extreme -- confidently asserting 'knowledge' one does not actually possess is false evidence regardless of whether the asserted fact happens to be true."
+      }
+    },
+    {
+      "number": "228",
+      "title": "Fabricating false evidence",
+      "raw_text": "Whoever causes any circumstance to exist or makes any false entry in any book or record, or electronic record or makes any document or electronic record containing a false statement, intending that such circumstance, false entry or false statement may appear in evidence in a judicial proceeding, or in a proceeding taken by law before a public servant as such, or before an arbitrator, and that such circumstance, false entry or false statement, so appearing in evidence, may cause any person who in such proceeding is to form an opinion upon the evidence, to entertain an erroneous opinion touching any point material to the result of such proceeding is said \"to fabricate false evidence\". Illustrations. (a) A puts jewels into a box belonging to Z, with the intention that they may be found in that box, and that this circumstance may cause Z to be convicted of theft. A has fabricated false evidence. (b) A makes a false entry in his shop-book for the purpose of using it as corroborative evidence in a Court. A has fabricated false evidence. (c) A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z's handwriting, purporting to be addressed to an accomplice in such criminal conspiracy, and puts the letter in a place which he knows that the officers of the police are likely to search. A has fabricated false evidence.",
+      "key_terms": [
+        "fabricating false evidence",
+        "planting evidence to mislead a fact-finder"
+      ],
+      "breakdown": {
+        "plain_summary": "Defines the companion concept to Section 227: causing a circumstance to exist, making a false entry in a book/record/electronic record, or creating a document/electronic record with a false statement, intending it to appear as evidence in a judicial proceeding, public-servant proceeding, or arbitration, and intending it to mislead the fact-finder on a material point -- illustrated by planting jewels to frame someone for theft, falsifying shop-book entries for corroboration, and writing a forged letter in an accomplice's handwriting planted for police to find.",
+        "essential_elements": [
+          "The accused causes a circumstance to exist, makes a false entry in a book/record/electronic record, or makes a document/electronic record with a false statement",
+          "Intention that it may appear in evidence in a judicial proceeding, a lawful proceeding before a public servant, or an arbitration",
+          "Intention that it may cause the fact-finder to entertain an erroneous opinion on a point material to the proceeding's result"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Unlike Section 227 (verbal/written false statement under oath), Section 228 targets physical and documentary evidence manufacturing -- planting objects, forging entries, fabricating correspondence -- both offences share the same punishment under Section 229 once committed in a judicial proceeding."
+      }
+    },
+    {
+      "number": "229",
+      "title": "Punishment for false evidence",
+      "raw_text": "(1) Whoever intentionally gives false evidence in any stage of a judicial proceeding, or fabricates false evidence for the purpose of being used in any stage of a judicial proceeding, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine which may extend to ten thousand rupees. (2) Whoever intentionally gives or fabricates false evidence in any case other than that referred to in sub-section (1), shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine which may extend to five thousand rupees. Explanation 1.--A trial before a Court-martial is a judicial proceeding. Explanation 2.--An investigation directed by law preliminary to a proceeding before a Court, is a stage of a judicial proceeding, though that investigation may not take place before a Court. Illustration. A, in an enquiry before a Magistrate for the purpose of ascertaining whether Z ought to be committed for trial, makes on oath a statement which he knows to be false. As this enquiry is a stage of a judicial proceeding, A has given false evidence. Explanation 3.--An investigation directed by a Court according to law, and conducted under the authority of a Court, is a stage of a judicial proceeding, though that investigation may not take place before a Court. Illustration. A, in an enquiry before an officer deputed by a Court to ascertain on the spot the boundaries of land, makes on oath a statement which he knows to be false. As this enquiry is a stage of a judicial proceeding, A has given false evidence.",
+      "key_terms": [
+        "punishment for false evidence in a judicial proceeding",
+        "punishment for false evidence outside judicial proceedings",
+        "stage of a judicial proceeding"
+      ],
+      "breakdown": {
+        "plain_summary": "The core punishment provision for both Sections 227 and 228: intentionally giving or fabricating false evidence in any stage of a judicial proceeding draws up to seven years' imprisonment plus fine up to ten thousand rupees, while the same conduct outside a judicial proceeding (e.g. before a non-judicial public servant or arbitrator) draws a lighter up to three years plus fine up to five thousand rupees -- with three Explanations broadly defining 'judicial proceeding' to include courts-martial and both Court-directed and law-mandated preliminary investigations.",
+        "essential_elements": [
+          "Sub-section (1): intentional false evidence given, or fabricated for use, in any stage of a judicial proceeding",
+          "Sub-section (2): the residual lighter band for intentional false evidence given or fabricated outside a judicial proceeding"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The three Explanations matter enormously for charging decisions -- a false statement made during a Magistrate's committal enquiry or a Court-directed boundary investigation still counts as a 'stage of a judicial proceeding' under sub-section (1)'s heavier band, even though neither literally happens inside a courtroom."
+      }
+    },
+    {
+      "number": "230",
+      "title": "Giving or fabricating false evidence with intent to procure conviction of capital offence",
+      "raw_text": "(1) Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which is capital by the law for the time being in force in India shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine which may extend to fifty thousand rupees. (2) If an innocent person be convicted and executed in consequence of false evidence referred to in sub-section (1), the person who gives such false evidence shall be punished either with death or the punishment specified in sub-section (1).",
+      "key_terms": [
+        "false evidence intended to procure a capital conviction",
+        "enhanced punishment where an innocent person is executed on false evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "A severe escalation targeting false evidence specifically intended, or known likely, to cause someone's conviction for a capital offence -- punishable with life imprisonment or up to ten years' rigorous imprisonment plus fine up to fifty thousand rupees, escalating under sub-section (2) to the death penalty itself (or the sub-section (1) punishment) if an innocent person is actually convicted and executed as a result.",
+        "essential_elements": [
+          "The accused gives or fabricates false evidence",
+          "Intention to cause, or knowledge it is likely to cause, conviction of a person for a capital offence",
+          "Sub-section (2) escalation applies only where an innocent person is in fact convicted and executed in consequence"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The sub-section (2) death-penalty exposure is among the most severe consequences anywhere in the Sanhita, reflecting that false evidence procuring a wrongful execution is treated as morally equivalent to causing that death directly -- the outcome (actual wrongful execution), not merely the intent, triggers this maximal tier."
+      }
+    },
+    {
+      "number": "231",
+      "title": "Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment",
+      "raw_text": "Whoever gives or fabricates false evidence intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by the law for the time being in force in India is not capital, but punishable with imprisonment for life, or imprisonment for a term of seven years or upwards, shall be punished as a person convicted of that offence would be liable to be punished. Illustration. A gives false evidence before a Court, intending thereby to cause Z to be convicted of a dacoity. The punishment of dacoity is imprisonment for life, or rigorous imprisonment for a term which may extend to ten years, with or without fine. A, therefore, is liable to imprisonment for life or imprisonment, with or without fine.",
+      "key_terms": [
+        "false evidence intended to procure conviction for a serious non-capital offence",
+        "mirror-punishment for false evidence targeting a specific offence"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes false evidence intended, or known likely, to procure conviction for a non-capital offence punishable with life imprisonment or seven-plus years' imprisonment -- with the punishment for the false-evidence-giver mirroring exactly what the falsely targeted person would have faced, illustrated by a false witness facing the same life-imprisonment-or-up-to-ten-years exposure as the dacoity charge he tried to engineer.",
+        "essential_elements": [
+          "The accused gives or fabricates false evidence",
+          "Intention to cause, or knowledge it is likely to cause, a person's conviction for an offence punishable with life imprisonment or seven years or more (and not capital)",
+          "The punishment mirrors that applicable to the targeted offence itself"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 230 and 231 together create a graduated 'mirror punishment' structure keyed to the severity of the offence the false evidence targets -- always identify the maximum punishment of the falsely-targeted offence first, since that determines which of these two sections (and what exposure) applies, rather than defaulting to Section 229's general bands."
+      }
+    },
+    {
+      "number": "232",
+      "title": "Threatening any person to give false evidence",
+      "raw_text": "(1) Whoever threatens another with any injury to his person, reputation or property or to the person or reputation of any one in whom that person is interested, with intent to cause that person to give false evidence shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. (2) If innocent person is convicted and sentenced in consequence of false evidence referred to in sub-section (1), with death or imprisonment for more than seven years, the person who threatens shall be punished with the same punishment and sentence in the same manner and to the same extent such innocent person is punished and sentenced.",
+      "key_terms": [
+        "threatening a person to give false evidence",
+        "enhanced liability for a threatener where an innocent person is wrongly convicted"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes threatening injury to a person (or to someone in whom they are interested), with intent to induce them to give false evidence, with up to seven years' imprisonment, fine, or both -- escalating under sub-section (2) so the threatener bears the same punishment and sentence actually imposed on an innocent person wrongly convicted and sentenced (to death or more than seven years) in consequence of that coerced false evidence.",
+        "essential_elements": [
+          "The accused threatens another person with injury to person, reputation, or property, or to someone the person is interested in",
+          "Intent to cause that person to give false evidence",
+          "Sub-section (2) escalation applies where an innocent person is actually convicted and sentenced (death or over seven years) in consequence"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Mirrors the structure of Section 230 -- base coercive conduct carries a defined punishment, but an actual catastrophic outcome (innocent person wrongly convicted and heavily sentenced) imports that outcome's own punishment onto the threatener, making the sentencing exposure open-ended rather than capped."
+      }
+    },
+    {
+      "number": "233",
+      "title": "Using evidence known to be false",
+      "raw_text": "Whoever corruptly uses or attempts to use as true or genuine evidence any evidence which he knows to be false or fabricated, shall be punished in the same manner as if he gave or fabricated false evidence.",
+      "key_terms": [
+        "using evidence known to be false or fabricated"
+      ],
+      "breakdown": {
+        "plain_summary": "Extends false-evidence liability to anyone who corruptly uses, or attempts to use, evidence as true or genuine while knowing it is false or fabricated -- punished identically to the person who originally gave or fabricated that evidence, under Section 229's bands.",
+        "essential_elements": [
+          "The accused corruptly uses, or attempts to use, evidence as true or genuine",
+          "The accused knows that evidence to be false or fabricated"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This closes an obvious gap -- liability is not limited to the original false-evidence-giver or fabricator, but extends to anyone (e.g. a party, lawyer, or witness) who knowingly deploys that false evidence corruptly in a proceeding."
+      }
+    },
+    {
+      "number": "234",
+      "title": "Issuing or signing false certificate",
+      "raw_text": "Whoever issues or signs any certificate required by law to be given or signed, or relating to any fact of which such certificate is by law admissible in evidence, knowing or believing that such certificate is false in any material point, shall be punished in the same manner as if he gave false evidence.",
+      "key_terms": [
+        "issuing or signing a false certificate"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes issuing or signing a legally required certificate, relating to a fact for which the certificate is admissible in evidence by law, knowing or believing it false in a material point -- punished the same as giving false evidence under Section 229.",
+        "essential_elements": [
+          "A certificate is required by law to be given or signed, or relates to a fact for which it is by law admissible in evidence",
+          "The accused issues or signs it",
+          "The accused knows or believes it is false in a material point"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Certificates (medical, official, professional) carry a presumption of reliability precisely because they are 'required by law' and 'admissible in evidence' -- this section treats abusing that trust exactly as severely as giving false oral or written testimony."
+      }
+    },
+    {
+      "number": "235",
+      "title": "Using as true a certificate known to be false",
+      "raw_text": "Whoever corruptly uses or attempts to use any such certificate as a true certificate, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.",
+      "key_terms": [
+        "using as true a certificate known to be false"
+      ],
+      "breakdown": {
+        "plain_summary": "The using-side companion to Section 234: corruptly using, or attempting to use, a certificate as true while knowing it false in a material point, punished identically to giving false evidence.",
+        "essential_elements": [
+          "A certificate of the kind described in Section 234 exists and is false in a material point",
+          "The accused corruptly uses or attempts to use it as a true certificate",
+          "The accused knows it is false in that material point"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 234-235 mirror the issuer/user split already seen in Section 228 (fabrication) versus Section 233 (knowing use) -- the Sanhita consistently punishes both the creation and the knowing deployment of false evidentiary material as equally serious."
+      }
+    },
+    {
+      "number": "236",
+      "title": "False statement made in declaration which is by law receivable as evidence",
+      "raw_text": "Whoever, in any declaration made or subscribed by him, which declaration any Court or any public servant or other person, is bound or authorised by law to receive as evidence of any fact, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, touching any point material to the object for which the declaration is made or used, shall be punished in the same manner as if he gave false evidence.",
+      "key_terms": [
+        "false statement in a legally receivable declaration"
+      ],
+      "breakdown": {
+        "plain_summary": "Extends false-evidence liability to statutory or legal declarations (not necessarily sworn oaths): making a false statement, known or believed false or not believed true, in a declaration a Court or public servant is bound or authorised by law to receive as evidence of a fact, touching a point material to the declaration's purpose -- punished the same as giving false evidence.",
+        "essential_elements": [
+          "A declaration is made or subscribed by the accused",
+          "A Court, public servant, or other person is bound or authorised by law to receive that declaration as evidence of a fact",
+          "The declaration contains a statement the accused knows or believes false, or does not believe true",
+          "That false statement touches a point material to the declaration's object"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Declarations (e.g. statutory affidavits, self-certifications) need not be made under a formal oath to trigger this liability -- the touchstone is that the law makes the declaration itself legally receivable as evidence, which is enough to carry the same seriousness as sworn testimony."
+      }
+    },
+    {
+      "number": "237",
+      "title": "Using as true such declaration knowing it to be false",
+      "raw_text": "Whoever corruptly uses or attempts to use as true any such declaration, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence. Explanation.--A declaration which is inadmissible merely upon the ground of some informality, is a declaration within the meaning of section 236 and this section.",
+      "key_terms": [
+        "using as true a declaration known to be false",
+        "informality does not exclude a declaration from false-declaration liability"
+      ],
+      "breakdown": {
+        "plain_summary": "The using-side companion to Section 236: corruptly using, or attempting to use, a declaration as true while knowing it false in a material point, punished identically to giving false evidence -- with an Explanation clarifying that a declaration otherwise inadmissible only for some technical informality still counts as a 'declaration' for both Sections 236 and 237.",
+        "essential_elements": [
+          "A declaration of the kind described in Section 236 exists and is false in a material point",
+          "The accused corruptly uses or attempts to use it as true",
+          "The accused knows it is false in that material point"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The informality Explanation prevents an obvious evasion -- a declaration-maker cannot escape liability by pointing to a minor procedural defect in the declaration's form to argue it was never really a 'declaration' at all."
+      }
+    },
+    {
+      "number": "238",
+      "title": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+      "raw_text": "Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of that offence to disappear, with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false shall,-- (a) if the offence which he knows or believes to have been committed is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; (c) if the offence is punishable with imprisonment for any term not extending to ten years, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both. Illustration. A, knowing that B has murdered Z, assists B to hide the body with the intention of screening B from punishment. A is liable to imprisonment of either description for seven years, and also to fine.",
+      "key_terms": [
+        "causing disappearance of evidence of an offence",
+        "giving false information to screen an offender",
+        "graduated punishment keyed to the underlying offence's severity"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes two alternative ways of helping an offender evade justice after the fact: causing evidence of a known or believed-committed offence to disappear, or giving false information about it, both done with intent to screen the offender -- with punishment graduated in three tiers according to the severity of the underlying offence (death-punishable, life/ten-years-punishable, or lesser), illustrated by someone who helps hide a murder victim's body.",
+        "essential_elements": [
+          "The accused knows or has reason to believe an offence has been committed",
+          "The accused causes evidence of its commission to disappear, OR gives information about it known or believed false",
+          "Intention to screen the offender from legal punishment",
+          "Punishment tier is keyed to the severity of the underlying offence (death/life-or-ten-years/lesser)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the general evidence-tampering/obstruction offence that, together with Section 239 (omission to inform) and Section 240 (giving false information about an offence), and Sections 249-253 (harbouring offenders), forms the Sanhita's full suite of post-offence obstruction-of-justice provisions -- all three (238, 239, 240) share the same extraterritorial-offence Explanation that follows in Section 240."
       }
     }
   ]
