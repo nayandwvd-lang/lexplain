@@ -89,7 +89,37 @@
     "private defence extending to death — property": "The expanded right under Section 41 BNS permitting voluntary causing of death in defence of property, but only against four enumerated grave categories: robbery, night house-breaking (sunset-to-sunrise), arson or explosive mischief against a dwelling or property-custody structure, and theft/mischief/house-trespass under circumstances reasonably raising apprehension of death or grievous hurt.",
     "private defence of property capped below death": "The default rule under Section 42 BNS: for theft, mischief, or criminal trespass not matching Section 41's four grave categories, the right of private defence of property never extends to causing death, only to causing harm short of death, subject to Section 37's restrictions.",
     "temporal window of private defence of property": "The set of commencement-and-continuance rules under Section 43 BNS: the right of private defence of property always begins once a reasonable apprehension of danger to the property arises, but its end point differs by offence — tied to the thief's retreat/recovery/authority-assistance for theft, continuing danger/fear for robbery, continuation of the trespass/mischief itself, or continuation of the house-trespass begun by night house-breaking.",
-    "private defence with incidental risk to bystanders": "The closing safety-valve of the private-defence scheme under Section 44 BNS: where a defender facing an assault reasonably threatening death cannot effectively exercise private defence without risking incidental harm to an innocent bystander, the right extends to running that risk — illustrated by firing into a threatening mob that includes children."
+    "private defence with incidental risk to bystanders": "The closing safety-valve of the private-defence scheme under Section 44 BNS: where a defender facing an assault reasonably threatening death cannot effectively exercise private defence without risking incidental harm to an innocent bystander, the right extends to running that risk — illustrated by firing into a threatening mob that includes children.",
+    "abetment": "The umbrella concept defined in Section 45 BNS for three distinct ways a person can be complicit in another's wrongdoing: instigating it, engaging in a conspiracy towards it with an act or illegal omission in pursuance of that conspiracy, or intentionally aiding its doing by act or illegal omission — the foundation of Chapter IV's entire liability scheme.",
+    "instigation": "One of the three modes of abetment under Section 45(a) BNS, widened by Explanation 1 to cover not just direct urging but also wilful misrepresentation or wilful concealment of a fact one is bound to disclose, where that conduct voluntarily causes or procures (or attempts to cause or procure) a thing to be done.",
+    "intentional aiding": "One of the three modes of abetment under Section 45(c) BNS: facilitating, by any act or illegal omission, before or during the commission of the principal act, the actual commission of that act — Explanation 2 confirms the facilitation can occur at any time up to and including the moment of commission.",
+    "engaging in a conspiracy": "The second mode of abetment under Section 45(b) BNS: joining with one or more others in a conspiracy for the doing of a thing, which amounts to abetment only once an act or illegal omission takes place in pursuance of that conspiracy and in order to the doing of that thing.",
+    "abettor": "Defined in Section 46 BNS as a person who abets either the commission of an offence, or the commission of an act that would be an offence if done by someone legally capable of committing an offence with the same intention or knowledge as the abettor — a definition deliberately written to survive the principal's incapacity or differing mental state.",
+    "incapacity of the person abetted": "The scenario addressed by Section 46 BNS's Explanation 3 and illustrations: an abettor remains fully liable even where the person actually abetted — e.g. a child under seven, or a person of unsound mind — is legally incapable of committing the offence themselves, with the abettor punished as though that person had been capable and had committed it.",
+    "abetment of an abetment": "The chained-liability principle in Section 46 BNS's Explanation 4: since the abetment of an offence is itself an offence, abetting that abetment (e.g. A instigates B to instigate C to murder Z) is also independently punishable, with liability running up the chain to each instigator.",
+    "engaging in a conspiracy without concert": "The principle in Section 46 BNS's Explanation 5: to be liable as an abettor by conspiracy, a person need not have directly concerted the offence with the person who ultimately commits it — it is enough that they engaged in the same conspiracy in pursuance of which the offence was committed, even via intermediaries who never named them.",
+    "abetment in India of offences outside India": "The extraterritorial abetment rule in Section 47 BNS: a person who, while in India, abets the commission of an act outside India is guilty of abetment under the Sanhita if that act would have been an offence had it been committed in India — regardless of the nationality of the person who actually commits it abroad.",
+    "abetment outside India for offence in India": "The mirror-image extraterritorial rule in Section 48 BNS: a person who, while outside India, abets the commission of an act within India is guilty of abetment under the Sanhita, so long as that act constitutes an offence if committed in India — closing the jurisdictional gap left open by Section 47 for abetment flowing the opposite direction.",
+    "punishment of abetment where offence is committed in consequence": "The default rule in Section 49 BNS: where an abetted offence is actually committed in consequence of the instigation, conspiracy, or aid that constituted the abetment, and no other Sanhita provision specially fixes a punishment for that abetment, the abettor is liable to exactly the same punishment as for the completed offence itself.",
+    "abetment with differing intention between abettor and person abetted": "The rule in Section 50 BNS fixing the abettor's punishment by reference to the abettor's own intention or knowledge, not the executor's — where the person abetted acts with a different intention or knowledge than the abettor had, the abettor is punished as if the offence corresponding to the abettor's own state of mind had actually occurred.",
+    "probable-consequence liability for a different act done": "The extended-liability rule in Section 51 BNS: where a different act is done instead of (or in addition to) the one actually abetted, the abettor remains liable for that different act to the same extent as if directly abetted, provided it was a probable consequence of the abetment and was done under the instigation's influence, aid, or in pursuance of the conspiracy — illustrated by the mistaken-target poisoning (within scope) versus opportunistic theft during an abetted arson (a distinct, unconnected act, outside scope).",
+    "cumulative punishment for act abetted and act done": "The rule in Section 52 BNS that where the different act made punishable under Section 51 is committed in addition to (not instead of) the act actually abetted, and the two constitute distinct offences, the abettor — like the principal — is liable to separate punishment for each offence, not merely one combined sentence.",
+    "liability for an unintended effect known to be likely": "The rule in Section 53 BNS covering cases where the act abetted is carried out as intended but produces a different (typically graver) effect than the abettor meant — the abettor is liable for the actual effect caused, as if it had been intended, provided the abettor knew that effect was a likely consequence of the act abetted (e.g. instigated grievous hurt escalating to death, attracting a murder-level punishment).",
+    "presence at the scene deeming abettor a principal": "The deeming rule of Section 54 BNS: a person who would otherwise be liable only as an absent abettor is, if actually present when the abetted act or offence is committed, deemed to have committed that act or offence themselves — collapsing the abettor/principal distinction purely on the fact of presence.",
+    "abetment of an offence punishable with death or life imprisonment, uncommitted": "The specific punishment scheme in Section 55 BNS for abetting an offence that itself carries death or imprisonment for life, where the offence is not actually committed in consequence of the abetment: up to seven years' imprisonment plus fine as the base, rising to up to fourteen years plus fine if the abetted act nonetheless causes hurt to any person.",
+    "abetment of an imprisonment-only offence, uncommitted": "The parallel punishment scheme in Section 56 BNS to Section 55, but for offences punishable only with imprisonment (not death or life imprisonment): up to one-fourth of the offence's longest imprisonment term (or fine, or both) as the base, doubled to up to one-half where the abettor or the person abetted is a public servant whose duty was to prevent that very offence.",
+    "public-servant enhancement for duty-bound abetment": "The aggravating factor in Section 56 BNS that doubles the abettor's maximum exposure (from one-fourth to one-half of the offence's longest imprisonment term) where either the abettor or the person abetted is a public servant whose official duty was to prevent the very offence that was abetted.",
+    "abetment directed at the public or a class exceeding ten persons": "The specialised offence in Section 57 BNS punishing abetment not aimed at a single identifiable person but at the public generally or any number or class exceeding ten persons, with a flat punishment of up to seven years' imprisonment plus fine, irrespective of whether the mass-abetted offence is actually committed.",
+    "concealment of design to commit a death/life-imprisonment offence": "The offence in Section 58 BNS of voluntarily concealing, by act, omission, encryption, or other information-hiding tool, or by knowingly false representation, a known design to commit an offence punishable with death or life imprisonment, where the concealment is intended or known likely to facilitate that offence — punished up to seven years if the offence is committed, up to three years if not, plus fine.",
+    "public servant's heightened duty to disclose a known design": "The aggravated concealment offence in Section 59 BNS, applicable only to a public servant who conceals a design to commit an offence that it was specifically that public servant's official duty to prevent — graded more severely than the general Section 58 offence, up to one-half of the offence's longest term, or a flat ten years where the concealed offence itself carries death or life imprisonment.",
+    "concealment of design to commit an imprisonment-only offence": "The residual, least severe tier of the concealment-of-design scheme under Section 60 BNS, covering designs to commit offences punishable only with imprisonment: up to one-fourth of the longest imprisonment term if the offence is committed, and only up to one-eighth if it is not.",
+    "encryption or information-hiding tool": "A phrase appearing in Sections 58 and 59 BNS extending the concept of 'concealment' of a known criminal design to cover digital concealment methods — encryption or any other information-hiding tool — a deliberate modernisation with no direct textual equivalent in the former IPC's corresponding Sections 118-119.",
+    "criminal conspiracy": "Defined in Section 61(1) BNS as an agreement between two or more persons with the common object to do, or cause to be done, an illegal act, or a legal act by illegal means — a distinct substantive offence under the Sanhita (not merely one mode of abetment under Section 45(b)), subject to the proviso's overt-act requirement for agreements not themselves aimed at committing an offence.",
+    "agreement as the gist of conspiracy": "The core principle of Section 61(1) BNS's proviso: where the conspirators' agreement is itself to commit an offence, the bare agreement is enough to constitute criminal conspiracy — no further overt act is required, unlike other agreements within the definition.",
+    "overt-act requirement for non-offence agreements": "The proviso to Section 61(1) BNS: for any agreement within the definition of criminal conspiracy other than an agreement to commit an offence, some act besides the bare agreement must be done by one or more parties in pursuance of it before the agreement amounts to a criminal conspiracy.",
+    "attempt to commit an offence": "The residual offence defined in Section 62 BNS: attempting to commit an offence punishable with imprisonment for life or any other imprisonment, doing some act towards its commission, where no other Sanhita provision specially punishes that attempt — drawing up to one-half of the maximum punishment for the completed offence.",
+    "act towards the commission of the offence": "The threshold requirement of Section 62 BNS distinguishing a punishable attempt from mere preparation: the accused must have actually done some act directed towards carrying out the offence, not merely planned or prepared for it.",
+    "impossible attempt": "The principle illustrated in Section 62 BNS by the empty-box and empty-pocket examples: an attempt remains punishable even where it was factually impossible to succeed (e.g. there were no jewels in the box, nothing in the pocket) — liability turns on the act done towards commission, not on the possibility of actually completing the offence."
   },
   "sections": [
     {
@@ -1027,6 +1057,362 @@
           "This does not license indifference to bystander safety generally — it applies narrowly to situations of genuine necessity where no safer means of effective defence exists."
         ],
         "how_to_read": "Read this as the closing safety-valve of the private-defence scheme, applicable only in the most extreme (apprehension-of-death) cases and only where effective defence is genuinely impossible without incidental risk to an innocent person — not a general license to disregard bystanders."
+      }
+    },
+    {
+      "number": "45",
+      "title": "Abetment of a thing",
+      "raw_text": "A person abets the doing of a thing, who— (a) instigates any person to do that thing; or (b) engages with one or more other person or persons in any conspiracy for the doing of that thing, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that thing; or (c) intentionally aids, by any act or illegal omission, the doing of that thing. Explanation 1.—A person who, by wilful misrepresentation, or by wilful concealment of a material fact which he is bound to disclose, voluntarily causes or procures, or attempts to cause or procure, a thing to be done, is said to instigate the doing of that thing. Illustration.—A, a public officer, is authorised by a warrant from a Court to apprehend Z. B, knowing that fact and also that C is not Z, wilfully represents to A that C is Z, and thereby intentionally causes A to apprehend C. Here B abets by instigation the apprehension of C. Explanation 2.—Whoever, either prior to or at the time of the commission of an act, does anything in order to facilitate the commission of that act, and thereby facilitates the commission thereof, is said to aid the doing of that act.",
+      "key_terms": [
+        "abetment",
+        "instigation",
+        "intentional aiding",
+        "engaging in a conspiracy"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 45 opens Chapter IV by defining the three distinct routes by which a person can 'abet' the doing of a thing — instigating someone to do it, conspiring with others toward it where some act or illegal omission follows in pursuance of the conspiracy, or intentionally aiding its doing by act or illegal omission. The two Explanations widen 'instigation' to cover wilful misrepresentation or wilful concealment of a fact one is bound to disclose, and define 'aiding' as facilitating an act's commission, whether the facilitation happens before or during the act.",
+        "essential_elements": [
+          "Three independent modes of abetment: instigation, conspiracy-with-overt-act, or intentional aiding.",
+          "For the conspiracy mode, an act or illegal omission must actually take place in pursuance of the conspiracy.",
+          "Instigation extends to wilful misrepresentation or wilful concealment of a fact the person was bound to disclose.",
+          "Aiding requires the facilitating act to actually facilitate the commission of the principal act."
+        ],
+        "exceptions_and_qualifications": [
+          "Mere passive knowledge of another's intention, without instigation, conspiracy, or active aid, does not amount to abetment."
+        ],
+        "how_to_read": "Treat Section 45 as the master definition clause for the whole of Chapter IV — every abetment offence in Sections 46-60 presupposes conduct falling within one of this section's three limbs."
+      }
+    },
+    {
+      "number": "46",
+      "title": "Abettor",
+      "raw_text": "A person abets an offence, who abets either the commission of an offence, or the commission of an act which would be an offence, if committed by a person capable by law of committing an offence with the same intention or knowledge as that of the abettor. Explanation 1.—The abetment of the illegal omission of an act may amount to an offence although the abettor may not himself be bound to do that act. Explanation 2.—To constitute the offence of abetment it is not necessary that the act abetted should be committed, or that the effect requisite to constitute the offence should be caused. Illustrations.—(a) A instigates B to murder C. B refuses to do so. A is guilty of abetting B to commit murder. (b) A instigates B to murder D. B in pursuance of the instigation stabs D. D recovers from the wound. A is guilty of instigating B to commit murder. Explanation 3.—It is not necessary that the person abetted should be capable by law of committing an offence, or that he should have the same guilty intention or knowledge as that of the abettor, or any guilty intention or knowledge. Illustrations.—(a) A, with a guilty intention, abets a child or a person of unsound mind to commit an act which would be an offence, if committed by a person capable by law of committing an offence, and having the same intention as A. Here A, whether the act be committed or not, is guilty of abetting an offence. (b) A, with the intention of murdering Z, instigates B, a child under seven years of age, to do an act which causes Z's death. B, in consequence of the abetment, does the act in the absence of A and thereby causes Z's death. Here, though B was not capable by law of committing an offence, A is liable to be punished in the same manner as if B had been capable by law of committing an offence, and had committed murder, and he is therefore subject to the punishment of death. (c) A instigates B to set fire to a dwelling-house. B, in consequence of his unsoundness of mind, being incapable of knowing the nature of the act, or that he is doing what is wrong or contrary to law, sets fire to the house in consequence of A's instigation. B has committed no offence, but A is guilty of abetting the offence of setting fire to a dwelling-house, and is liable to the punishment provided for that offence. (d) A, intending to cause a theft to be committed, instigates B to take property belonging to Z out of Z's possession. A induces B to believe that the property belongs to A. B takes the property out of Z's possession, in good faith, believing it to be A's property. B, acting under this misconception, does not take dishonestly, and therefore does not commit theft. But A is guilty of abetting theft, and is liable to the same punishment as if B had committed theft. Explanation 4.—The abetment of an offence being an offence, the abetment of such an abetment is also an offence. Illustration.—A instigates B to instigate C to murder Z. B accordingly instigates C to murder Z, and C commits that offence in consequence of B's instigation. B is liable to be punished for his offence with the punishment for murder; and, as A instigated B to commit the offence, A is also liable to the same punishment. Explanation 5.—It is not necessary to the commission of the offence of abetment by conspiracy that the abettor should concert the offence with the person who commits it. It is sufficient if he engages in the conspiracy in pursuance of which the offence is committed. Illustration.—A concerts with B a plan for poisoning Z. It is agreed that A shall administer the poison. B then explains the plan to C mentioning that a third person is to administer the poison, but without mentioning A's name. C agrees to procure the poison, and procures and delivers it to B for the purpose of its being used in the manner explained. A administers the poison; Z dies in consequence. Here, though A and C have not conspired together, yet C has been engaged in the conspiracy in pursuance of which Z has been murdered. C has therefore committed the offence defined in this section and is liable to the punishment for murder.",
+      "key_terms": [
+        "abettor",
+        "incapacity of the person abetted",
+        "abetment of an abetment",
+        "engaging in a conspiracy without concert"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 46 completes the abetment framework by defining who counts as an 'abettor' and, through five Explanations, strips away several possible escape routes: it does not matter whether the principal offence is actually committed (Explanation 2), whether the person abetted is legally capable of committing the offence at all — e.g. a child or a person of unsound mind (Explanation 3) — whether the abettor is bound to do the act whose omission is abetted (Explanation 1), whether the chain of instigation is one level or several (Explanation 4, abetting an abetment), or whether the conspirators ever met each other directly, so long as each engaged in the pursuit of the same conspiracy (Explanation 5).",
+        "essential_elements": [
+          "Abetment liability attaches regardless of whether the offence abetted is ultimately committed.",
+          "An abettor remains liable even where the person abetted lacks legal capacity (a child, a person of unsound mind) or lacks the same guilty state of mind.",
+          "Abetment of an abetment is itself a punishable abetment (chained instigation).",
+          "Conspirators need not have directly concerted with one another, only have engaged in the same pursued conspiracy."
+        ],
+        "exceptions_and_qualifications": [
+          "Where the person actually abetted is incapable by law of committing the offence, the abettor is punished as though that person had committed it with the abettor's own intention or knowledge."
+        ],
+        "how_to_read": "Read Section 46 together with Section 45: Section 45 defines the conduct that amounts to abetment, while Section 46 defines who is treated as an 'abettor' of an 'offence' and forecloses defences based on the principal's incapacity, the chain's length, or the offence's non-commission."
+      }
+    },
+    {
+      "number": "47",
+      "title": "Abetment in India of offences outside India",
+      "raw_text": "A person abets an offence within the meaning of this Sanhita who, in India, abets the commission of any act without and beyond India which would constitute an offence if committed in India. Illustration.—A, in India, instigates B, a foreigner in country X, to commit a murder in that country, A is guilty of abetting murder.",
+      "key_terms": [
+        "abetment in India of offences outside India"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 47 extends abetment liability extraterritorially in one direction: a person physically present in India who abets an act committed outside India is guilty of abetment under the Sanhita, provided that act — had it been committed in India — would itself be an offence under the Sanhita. The nationality of the person actually committing the act abroad is irrelevant.",
+        "essential_elements": [
+          "The abetting conduct (instigation, conspiracy, or aiding) must occur in India.",
+          "The act abetted occurs outside India.",
+          "That act must be one which would constitute an offence under the Sanhita if committed in India."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Pair with Section 48, which covers the mirror-image scenario (abetment from outside India of an act committed in India) — together they close the jurisdictional gap for abetment that crosses India's borders in either direction."
+      }
+    },
+    {
+      "number": "48",
+      "title": "Abetment outside India for offence in India",
+      "raw_text": "A person abets an offence within the meaning of this Sanhita who, without and beyond India, abets the commission of any act in India which would constitute an offence if committed in India. Illustration.—A, in country X, instigates B, to commit a murder in India, A is guilty of abetting murder.",
+      "key_terms": [
+        "abetment outside India for offence in India"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 48 is the reverse of Section 47: a person physically outside India who abets the commission of an act within India is guilty of abetment under the Sanhita, so long as that act would be an offence if committed in India.",
+        "essential_elements": [
+          "The abetting conduct occurs outside India.",
+          "The act abetted is committed, or is to be committed, in India.",
+          "That act must constitute an offence under the Sanhita."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read together with Section 47 and the extraterritorial-jurisdiction scheme of Section 1(4)-(5): abetment that crosses India's border, in either direction, is captured by one of these two mirror provisions."
+      }
+    },
+    {
+      "number": "49",
+      "title": "Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment",
+      "raw_text": "Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Sanhita for the punishment of such abetment, be punished with the punishment provided for the offence. Explanation.—An act or offence is said to be committed in consequence of abetment, when it is committed in consequence of the instigation, or in pursuance of the conspiracy, or with the aid which constitutes the abetment. Illustrations.—(a) A instigates B to give false evidence. B, in consequence of the instigation, commits that offence. A is guilty of abetting that offence, and is liable to the same punishment as B. (b) A and B conspire to poison Z. A, in pursuance of the conspiracy, procures the poison and delivers it to B in order that he may administer it to Z. B, in pursuance of the conspiracy, administers the poison to Z in A's absence and thereby causes Z's death. Here B is guilty of murder. A is guilty of abetting that offence by conspiracy, and is liable to the punishment for murder.",
+      "key_terms": [
+        "punishment of abetment where offence is committed in consequence"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 49 lays down the default punishment rule for abetment: where the abetted offence is actually committed as a result of the abetment and no other section of the Sanhita specially fixes a punishment for that particular abetment, the abettor is liable to exactly the same punishment as that provided for the completed offence itself.",
+        "essential_elements": [
+          "The offence abetted must actually be committed, and 'in consequence of' the abetment (instigation, conspiracy, or aid).",
+          "No other express provision of the Sanhita fixes a specific punishment for that abetment.",
+          "The abettor is then punished with the same punishment as for the substantive offence."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a residual/default rule — it yields wherever a more specific abetment-punishment provision (e.g. Sections 55, 56, 57) applies instead."
+        ],
+        "how_to_read": "Section 49 is the general 'same punishment as the completed offence' default; Sections 50-53 then modify this default for scenarios where the act done diverges from what was actually abetted."
+      }
+    },
+    {
+      "number": "50",
+      "title": "Punishment of abetment if person abetted does act with different intention from that of abettor",
+      "raw_text": "Whoever abets the commission of an offence shall, if the person abetted does the act with a different intention or knowledge from that of the abettor, be punished with the punishment provided for the offence which would have been committed if the act had been done with the intention or knowledge of the abettor and with no other.",
+      "key_terms": [
+        "abetment with differing intention between abettor and person abetted"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 50 fixes the abettor's punishment by reference to the abettor's own state of mind, not that of the person who physically does the act — if the person abetted acts with a different intention or knowledge than the abettor had, the abettor is punished as though the offence that the abettor intended had actually been committed.",
+        "essential_elements": [
+          "The person abetted commits the act, but with an intention or knowledge differing from the abettor's.",
+          "The abettor's punishment tracks the offence that would correspond to the abettor's own intention or knowledge, not the executor's."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Contrast with Section 46's general principle that the abettor need not share the executor's state of mind — Section 50 supplies the specific punishment consequence when the two states of mind actually diverge."
+      }
+    },
+    {
+      "number": "51",
+      "title": "Liability of abettor when one act abetted and different act done",
+      "raw_text": "When an act is abetted and a different act is done, the abettor is liable for the act done, in the same manner and to the same extent as if he had directly abetted it: Provided that the act done was a probable consequence of the abetment, and was committed under the influence of the instigation, or with the aid or in pursuance of the conspiracy which constituted the abetment. Illustrations.—(a) A instigates a child to put poison into the food of Z, and gives him poison for that purpose. The child, in consequence of the instigation, by mistake puts the poison into the food of Y, which is by the side of that of Z. Here, if the child was acting under the influence of A's instigation, and the act done was under the circumstances a probable consequence of the abetment, A is liable in the same manner and to the same extent as if he had instigated the child to put the poison into the food of Y. (b) A instigates B to burn Z's house, B sets fire to the house and at the same time commits theft of property there. A, though guilty of abetting the burning of the house, is not guilty of abetting the theft; for the theft was a distinct act, and not a probable consequence of the burning. (c) A instigates B and C to break into an inhabited house at midnight for the purpose of robbery, and provides them with arms for that purpose. B and C break into the house, and being resisted by Z, one of the inmates, murder Z. Here, if that murder was the probable consequence of the abetment, A is liable to the punishment provided for murder.",
+      "key_terms": [
+        "probable-consequence liability for a different act done"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 51 extends an abettor's liability beyond the exact act abetted to a different act actually done, but only where that different act was a probable consequence of the abetment and was committed under the influence of the instigation, aid, or conspiracy. The three illustrations mark the line: a mistaken-target poisoning remains within probable consequence, but an opportunistic theft committed alongside an abetted arson is a distinct, unconnected act outside the abettor's liability.",
+        "essential_elements": [
+          "A different act (not the one literally abetted) is actually done by the person abetted.",
+          "That different act must be a probable consequence of the abetment.",
+          "The different act must be committed under the influence of the instigation, or with the aid, or in pursuance of the conspiracy constituting the abetment."
+        ],
+        "exceptions_and_qualifications": [
+          "A distinct, independently-motivated act (such as opportunistic theft during an abetted arson) falls outside this extended liability."
+        ],
+        "how_to_read": "Section 51 is the 'probable consequence' extension of abetment liability — read its three illustrations together, since they are the clearest guide to where courts draw the probable-versus-distinct-act line."
+      }
+    },
+    {
+      "number": "52",
+      "title": "Abettor when liable to cumulative punishment for act abetted and for act done",
+      "raw_text": "If the act for which the abettor is liable under section 51 is committed in addition to the act abetted, and constitute a distinct offence, the abettor is liable to punishment for each of the offences. Illustration.—A instigates B to resist by force a distress made by a public servant. B, in consequence, resists that distress. In offering the resistance, B voluntarily causes grievous hurt to the officer executing the distress. As B has committed both the offence of resisting the distress, and the offence of voluntarily causing grievous hurt, B is liable to punishment for both these offences; and, if A knew that B was likely voluntarily to cause grievous hurt in resisting the distress, A will also be liable to punishment for each of the offences.",
+      "key_terms": [
+        "cumulative punishment for act abetted and act done"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 52 addresses the case where the act done under Section 51 is committed in addition to (not instead of) the act actually abetted, and the two constitute separate, distinct offences — in that situation the abettor, like the principal, is liable to be punished separately for each offence, not just once.",
+        "essential_elements": [
+          "The additional act done under Section 51 is committed in addition to the act abetted.",
+          "The act abetted and the act done each independently constitute a distinct offence.",
+          "The abettor is then punished for both offences cumulatively."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 52 is a narrow extension of Section 51 for the 'both acts happened' scenario — it does not create a new form of abetment, only a cumulative-punishment consequence when two distinct offences both flow from the same episode of abetment."
+      }
+    },
+    {
+      "number": "53",
+      "title": "Liability of abettor for an effect caused by act abetted different from that intended by abettor",
+      "raw_text": "When an act is abetted with the intention on the part of the abettor of causing a particular effect, and an act for which the abettor is liable in consequence of the abetment, causes a different effect from that intended by the abettor, the abettor is liable for the effect caused, in the same manner and to the same extent as if he had abetted the act with the intention of causing that effect, provided he knew that the act abetted was likely to cause that effect. Illustration.—A instigates B to cause grievous hurt to Z. B, in consequence of the instigation, causes grievous hurt to Z. Z dies in consequence. Here, if A knew that the grievous hurt abetted was likely to cause death, A is liable to be punished with the punishment provided for murder.",
+      "key_terms": [
+        "liability for an unintended effect known to be likely"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 53 fixes the abettor's liability where the act actually abetted is carried out as intended, but produces a graver or different effect than the abettor meant — the abettor is liable for that actual effect (as though it had been intended) provided the abettor knew the abetted act was likely to cause that effect. The grievous-hurt-escalating-to-death illustration shows the abettor becoming liable for murder, not merely for abetting grievous hurt.",
+        "essential_elements": [
+          "The act abetted is carried out, but causes an effect different from (typically graver than) the one the abettor intended.",
+          "The abettor knew that the act abetted was likely to cause that different effect.",
+          "The abettor is then liable as though they had abetted the act with intent to cause that actual effect."
+        ],
+        "exceptions_and_qualifications": [
+          "Without the abettor's knowledge that the graver effect was a likely consequence, liability does not escalate to match the actual outcome."
+        ],
+        "how_to_read": "Distinguish Section 53 (same act, unintended effect) from Section 51 (a different act altogether that was a probable consequence) — both extend abettor liability beyond the literal scope of the abetment, but on different triggers."
+      }
+    },
+    {
+      "number": "54",
+      "title": "Abettor present when offence is committed",
+      "raw_text": "Whenever any person, who is absent would be liable to be punished as an abettor, is present when the act or offence for which he would be punishable in consequence of the abetment is committed, he shall be deemed to have committed such act or offence.",
+      "key_terms": [
+        "presence at the scene deeming abettor a principal"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 54 deems an abettor who is physically present when the abetted offence is actually committed to have committed the offence itself, not merely abetted it — collapsing the abetment/principal-offender distinction in cases of presence at the scene.",
+        "essential_elements": [
+          "The person would, if absent, be liable only as an abettor.",
+          "That person is instead present when the abetted act or offence is actually committed.",
+          "Presence deems them to have committed the act or offence itself."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 54 is a short but powerful deeming provision — it converts what would otherwise be mere abetment liability into principal-offender liability purely on the fact of presence at the scene of commission."
+      }
+    },
+    {
+      "number": "55",
+      "title": "Abetment of offence punishable with death or imprisonment for life",
+      "raw_text": "Whoever abets the commission of an offence punishable with death or imprisonment for life, shall, if that offence be not committed in consequence of the abetment, and no express provision is made under this Sanhita for the punishment of such abetment, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and if any act for which the abettor is liable in consequence of the abetment, and which causes hurt to any person, is done, the abettor shall be liable to imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine. Illustration.—A instigates B to murder Z. The offence is not committed. If B had murdered Z, he would have been subject to the punishment of death or imprisonment for life. Therefore, A is liable to imprisonment for a term which may extend to seven years and also to a fine; and if any hurt be done to Z in consequence of the abetment, he will be liable to imprisonment for a term which may extend to fourteen years, and to fine.",
+      "key_terms": [
+        "abetment of an offence punishable with death or life imprisonment, uncommitted"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 55 fixes punishment for abetting an offence that itself carries death or life imprisonment, where that offence is not actually committed in consequence of the abetment: up to seven years' imprisonment plus fine, rising to up to fourteen years plus fine if the abetted act, though not completing the main offence, causes hurt to any person.",
+        "essential_elements": [
+          "The offence abetted must itself be punishable with death or imprisonment for life.",
+          "That offence must not actually be committed in consequence of the abetment.",
+          "No other express Sanhita provision fixes the punishment for that specific abetment.",
+          "Base punishment: up to seven years' imprisonment (either description) plus fine; enhanced to up to fourteen years plus fine if hurt is caused to any person by an act for which the abettor is liable."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare Section 55 (offence not committed) against Section 49 (offence committed in consequence of abetment, attracting the full substantive punishment) — Section 55 is specifically the attempted-but-uncompleted abetment scenario for the gravest category of offences."
+      }
+    },
+    {
+      "number": "56",
+      "title": "Abetment of offence punishable with imprisonment",
+      "raw_text": "Whoever abets an offence punishable with imprisonment shall, if that offence be not committed in consequence of the abetment, and no express provision is made under this Sanhita for the punishment of such abetment, be punished with imprisonment of any description provided for that offence for a term which may extend to one-fourth part of the longest term provided for that offence; or with such fine as is provided for that offence, or with both; and if the abettor or the person abetted is a public servant, whose duty it is to prevent the commission of such offence, the abettor shall be punished with imprisonment of any description provided for that offence, for a term which may extend to one-half of the longest term provided for that offence, or with such fine as is provided for the offence, or with both. Illustrations.—(a) A instigates B to give false evidence. Here, if B does not give false evidence, A has nevertheless committed the offence defined in this section, and is punishable accordingly. (b) A, a police officer, whose duty it is to prevent robbery, abets the commission of robbery. Here, though the robbery be not committed, A is liable to one-half of the longest term of imprisonment provided for that offence, and also to fine. (c) B abets the commission of a robbery by A, a police officer, whose duty it is to prevent that offence. Here, though the robbery be not committed, B is liable to one-half of the longest term of imprisonment provided for the offence of robbery, and also to fine.",
+      "key_terms": [
+        "abetment of an imprisonment-only offence, uncommitted",
+        "public-servant enhancement for duty-bound abetment"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 56 is the parallel provision to Section 55 for offences punishable with imprisonment (not death or life imprisonment): if not committed in consequence of the abetment, the abettor is liable to up to one-fourth of the longest imprisonment term for that offence (or fine, or both) — doubled to up to one-half where either the abettor or the person abetted is a public servant whose duty was to prevent that very offence.",
+        "essential_elements": [
+          "The offence abetted is punishable with imprisonment (any description) and is not death/life-imprisonment punishable.",
+          "That offence is not actually committed in consequence of the abetment.",
+          "Base punishment: up to one-fourth of the longest term provided for the offence, or fine, or both.",
+          "Enhanced to up to one-half of the longest term where the abettor or the person abetted is a public servant duty-bound to prevent that offence."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 55 and 56 form a matched pair graded by the gravity of the offence abetted — always check first whether the abetted offence carries death/life imprisonment (Section 55) or only imprisonment (Section 56) before computing the abettor's exposure."
+      }
+    },
+    {
+      "number": "57",
+      "title": "Abetting commission of offence by the public or by more than ten persons",
+      "raw_text": "Whoever abets the commission of an offence by the public generally or by any number or class of persons exceeding ten, shall be punished with imprisonment of either description for a term which may extend to seven years and with fine. Illustration.—A affixes in a public place a placard instigating a sect consisting of more than ten members to meet at a certain time and place, for the purpose of attacking the members of an adverse sect, while engaged in a procession. A has committed the offence defined in this section.",
+      "key_terms": [
+        "abetment directed at the public or a class exceeding ten persons"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 57 specifically criminalises abetment aimed not at a single identifiable person but at the public generally or at any group exceeding ten persons, fixing a flat punishment of up to seven years' imprisonment plus fine regardless of whether the mass-abetted offence is actually committed.",
+        "essential_elements": [
+          "The abetment must be directed at the public generally, or at any number or class of persons exceeding ten.",
+          "Punishment: imprisonment of either description up to seven years, and fine (both mandatory, not alternative)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 57 is a specialised, scale-driven abetment offence — useful for mass-instigation scenarios like inflammatory placards or broadcast calls to violence, independent of the general Sections 55-56 scheme."
+      }
+    },
+    {
+      "number": "58",
+      "title": "Concealing design to commit offence punishable with death or imprisonment for life",
+      "raw_text": "Whoever intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence punishable with death or imprisonment for life, voluntarily conceals by any act or omission, or by the use of encryption or any other information hiding tool, the existence of a design to commit such offence or makes any representation which he knows to be false respecting such design shall,–– (a) if that offence be committed, be punished with imprisonment of either description for a term which may extend to seven years; or (b) if the offence be not committed, with imprisonment of either description, for a term which may extend to three years, and shall also be liable to fine. Illustration.—A, knowing that dacoity is about to be committed at B, falsely informs the Magistrate that a dacoity is about to be committed at C, a place in an opposite direction, and thereby misleads the Magistrate with intent to facilitate the commission of the offence. The dacoity is committed at B in pursuance of the design. A is punishable under this section.",
+      "key_terms": [
+        "concealment of design to commit a death/life-imprisonment offence",
+        "encryption or information-hiding tool"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 58 criminalises voluntarily concealing, or giving false information about, a known design to commit an offence punishable with death or life imprisonment, where the concealment or false representation is intended or known to be likely to facilitate that offence — a distinct wrong from abetment itself, punishing complicity through silence or misdirection. The Sanhita explicitly extends 'concealment' to cover use of encryption or any other information-hiding tool, addressing digital-age concealment methods the IPC's 1860 text could not contemplate.",
+        "essential_elements": [
+          "The offence whose design is concealed must be punishable with death or imprisonment for life.",
+          "Concealment must be voluntary, by act, omission, encryption, or any other information-hiding tool — or a knowingly false representation about the design.",
+          "The accused must intend to facilitate, or know it likely to facilitate, the offence's commission.",
+          "Punishment graded by outcome: up to seven years if the offence is committed, up to three years if not, plus fine in either case."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 58's express mention of 'encryption or any other information hiding tool' is a notable BNS modernisation absent from the old IPC Section 118 — flag it when discussing what is genuinely new in the Sanhita versus carried over from the IPC."
+      }
+    },
+    {
+      "number": "59",
+      "title": "Public servant concealing design to commit offence which it is his duty to prevent",
+      "raw_text": "Whoever, being a public servant, intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence which it is his duty as such public servant to prevent, voluntarily conceals, by any act or omission or by the use of encryption or any other information hiding tool, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design shall,–– (a) if the offence be committed, be punished with imprisonment of any description provided for the offence, for a term which may extend to one-half of the longest term of such imprisonment, or with such fine as is provided for that offence, or with both; or (b) if the offence be punishable with death or imprisonment for life, with imprisonment of either description for a term which may extend to ten years; or (c) if the offence be not committed, shall be punished with imprisonment of any description provided for the offence for a term which may extend to one-fourth part of the longest term of such imprisonment or with such fine as is provided for the offence, or with both. Illustration.—A, an officer of police, being legally bound to give information of all designs to commit robbery which may come to his knowledge, and knowing that B designs to commit robbery, omits to give such information, with intent to so facilitate the commission of that offence. Here A has by an illegal omission concealed the existence of B's design, and is liable to punishment according to the provision of this section.",
+      "key_terms": [
+        "public servant's heightened duty to disclose a known design"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 59 is a specially aggravated version of Section 58, applying only to a public servant who conceals a design to commit an offence that it was specifically that public servant's duty to prevent — the punishment is graded more severely than Section 58's general version, scaling up to one-half of the longest term for the offence, or up to ten years flat where the concealed offence itself carries death or life imprisonment.",
+        "essential_elements": [
+          "The accused must be a public servant whose official duty was to prevent the very offence concealed.",
+          "Concealment by act, omission, encryption, or other information-hiding tool, or a knowingly false representation about the design.",
+          "Punishment grading: up to one-half of the longest term for the offence if committed; a flat up to ten years if the concealed offence carries death/life imprisonment; up to one-fourth if the offence is not committed."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 58 and 59 form a matched pair: Section 58 is the general concealment offence applicable to anyone; Section 59 raises the stakes specifically where the concealer is a public servant who had an official duty to prevent that very offence."
+      }
+    },
+    {
+      "number": "60",
+      "title": "Concealing design to commit offence punishable with imprisonment",
+      "raw_text": "Whoever, intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence punishable with imprisonment, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design shall,–– (a) if the offence be committed, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth; and (b) if the offence be not committed, to one-eighth, of the longest term of such imprisonment, or with such fine as is provided for the offence, or with both.",
+      "key_terms": [
+        "concealment of design to commit an imprisonment-only offence"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 60 is the residual concealment offence covering designs to commit offences that carry only imprisonment (not death or life imprisonment), scaled down from Sections 58-59: up to one-fourth of the longest imprisonment term if the offence is committed, and only up to one-eighth if it is not.",
+        "essential_elements": [
+          "The concealed design relates to an offence punishable with imprisonment (not death/life imprisonment).",
+          "Concealment must be by act or illegal omission, or a knowingly false representation about the design.",
+          "Punishment: up to one-fourth of the longest term if the offence is committed, up to one-eighth if not, or fine, or both."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sections 58, 59, and 60 together form a three-tier concealment-of-design scheme graded purely by the gravity of the underlying offence: death/life imprisonment (58), the same but by a duty-bound public servant (59), and mere-imprisonment offences (60)."
+      }
+    },
+    {
+      "number": "61",
+      "title": "Criminal conspiracy",
+      "raw_text": "(1) When two or more persons agree with the common object to do, or cause to be done–– (a) an illegal act; or (b) an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy: Provided that no agreement except an agreement to commit an offence shall amount to a criminal conspiracy unless some act besides the agreement is done by one or more parties to such agreement in pursuance thereof. Explanation.—It is immaterial whether the illegal act is the ultimate object of such agreement, or is merely incidental to that object. (2) Whoever is a party to a criminal conspiracy,–– (a) to commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of two years or upwards, shall, where no express provision is made in this Sanhita for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence; (b) other than a criminal conspiracy to commit an offence punishable as aforesaid shall be punished with imprisonment of either description for a term not exceeding six months, or with fine or with both.",
+      "key_terms": [
+        "criminal conspiracy",
+        "agreement as the gist of conspiracy",
+        "overt-act requirement for non-offence agreements"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 61 defines 'criminal conspiracy' as an agreement between two or more persons with the common object of doing (or causing to be done) either an illegal act, or a lawful act by illegal means. Crucially, where the agreement is itself to commit an offence, the agreement alone is enough to constitute the conspiracy; for any other kind of agreement within the definition, some overt act beyond the bare agreement must also be done by at least one party in pursuance of it. Sub-section (2) grades punishment by the gravity of the object offence: conspiracy to commit an offence carrying death, life imprisonment, or two-plus years' rigorous imprisonment is punished as though the conspirator had abetted that offence; all other criminal conspiracies draw a flat cap of six months' imprisonment, fine, or both.",
+        "essential_elements": [
+          "An agreement between two or more persons with a common object.",
+          "The object is either (a) an illegal act, or (b) a legal act accomplished by illegal means.",
+          "Where the agreement itself is to commit an offence, the agreement alone suffices for liability.",
+          "For any other agreement within the definition, an overt act beyond the bare agreement, done by at least one party in pursuance of it, is required.",
+          "Punishment is graded: same as abetment of the object offence where that offence carries death/life/2+ years' rigorous imprisonment; otherwise capped at six months plus/or fine."
+        ],
+        "exceptions_and_qualifications": [
+          "It is immaterial under the Explanation whether the illegal act was the agreement's ultimate object or merely incidental to it."
+        ],
+        "how_to_read": "Section 61 is the BNS's codification of criminal conspiracy as a distinct substantive offence (not merely a mode of abetment under Section 45(b)) — note carefully the proviso's overt-act requirement, which applies to all conspiracies except those aimed directly at committing an offence."
+      }
+    },
+    {
+      "number": "62",
+      "title": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+      "raw_text": "Whoever attempts to commit an offence punishable by this Sanhita with imprisonment for life or imprisonment, or to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall, where no express provision is made by this Sanhita for the punishment of such attempt, be punished with imprisonment of any description provided for the offence, for a term which may extend to one-half of the imprisonment for life or, as the case may be, one-half of the longest term of imprisonment provided for that offence, or with such fine as is provided for the offence, or with both. Illustrations.—(a) A makes an attempt to steal some jewels by breaking open a box, and finds after so opening the box, that there is no jewel in it. He has done an act towards the commission of theft, and therefore is guilty under this section. (b) A makes an attempt to pick the pocket of Z by thrusting his hand into Z's pocket. A fails in the attempt in consequence of Z's having nothing in his pocket. A is guilty under this section.",
+      "key_terms": [
+        "attempt to commit an offence",
+        "act towards the commission of the offence",
+        "impossible attempt"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 62 is the Sanhita's general, residual provision punishing attempts: where a person attempts to commit an offence punishable with life imprisonment or any other imprisonment, and in that attempt does some act towards the offence's commission, and no other provision fixes a specific attempt punishment, the attempt draws up to one-half of the maximum punishment for the completed offence (plus or instead, fine). Both illustrations confirm that an attempt is punishable even where it was factually impossible to succeed (an empty box, an empty pocket) — what matters is the act done towards commission, not the possibility of completion.",
+        "essential_elements": [
+          "An attempt to commit an offence punishable with imprisonment for life or any imprisonment.",
+          "Some act must actually be done towards the commission of that offence (mere preparation is insufficient).",
+          "No other express Sanhita provision fixes a specific punishment for attempting that particular offence.",
+          "Punishment: up to one-half of the life-imprisonment-or-longest-term maximum for the completed offence, or fine as provided for the offence, or both."
+        ],
+        "exceptions_and_qualifications": [
+          "Factual impossibility of completing the offence (e.g. an empty box or pocket) does not bar conviction for attempt, so long as an act towards commission was done."
+        ],
+        "how_to_read": "Section 62 closes Chapter IV as the general attempt provision — always check first whether a specific offence elsewhere in the Sanhita already prescribes its own attempt punishment (the section's 'no express provision' qualifier) before falling back on this residual one-half-of-maximum rule."
       }
     }
   ]
