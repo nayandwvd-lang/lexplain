@@ -314,7 +314,19 @@
     "harbouring an escaped State prisoner or prisoner of war": "Another mode of liability under Section 158 BNS: harbouring or concealing a State prisoner or prisoner of war who has already escaped from lawful custody, carrying the same life-imprisonment-or-ten-years punishment as actively aiding the escape itself.",
     "resisting recapture of an escaped prisoner": "The fourth mode of liability under Section 158 BNS: offering or attempting to offer any resistance to the recapture of an escaped State prisoner or prisoner of war, punishable identically to aiding escape, rescuing, or harbouring such a prisoner under the same section.",
     "parole limits as custody under Section 158": "The Explanation to Section 158 BNS: a State prisoner or prisoner of war permitted to be at large on parole within certain limits in India is deemed to 'escape from lawful custody' if they go beyond those permitted limits -- extending the section's reach to anyone who then harbours or aids such a parolee who has strayed outside their geographic bounds.",
-    "collecting arms or men to wage war": "A shorthand for the preparatory conduct criminalised under Section 149 BNS -- collecting men, arms, or ammunition, or otherwise preparing to wage war against the Government of India, with the intention of waging war or merely being prepared to do so."
+    "collecting arms or men to wage war": "A shorthand for the preparatory conduct criminalised under Section 149 BNS -- collecting men, arms, or ammunition, or otherwise preparing to wage war against the Government of India, with the intention of waging war or merely being prepared to do so.",
+    "abetting mutiny": "The first limb of Section 159 BNS: abetting the committing of mutiny by an officer, soldier, sailor, or airman of the Army, Navy, or Air Force of the Government of India, punishable with life imprisonment or up to ten years plus fine regardless of whether the mutiny actually results -- escalated to death-or-life exposure under Section 160 if mutiny is in fact committed in consequence.",
+    "seducing a soldier sailor or airman from duty": "The second limb of Section 159 BNS: attempting to seduce an officer, soldier, sailor, or airman from his allegiance or duty to the Government of India's Army, Navy, or Air Force, carrying the same life-imprisonment-or-ten-years punishment as abetting mutiny under the same section, complete upon the attempt itself without any further consequence required.",
+    "abetment of mutiny resulting in actual mutiny": "Section 160 BNS: the consequence-triggered escalation of Section 159 -- where mutiny is actually committed in consequence of the abetment, the abettor's punishment rises to death or life imprisonment, or up to ten years' imprisonment plus fine, mirroring the Sanhita's broader pattern of doubling an abettor's exposure once the abetted offence actually materialises.",
+    "abetment of assault on a superior officer": "Section 161 BNS: abetting an assault by an officer, soldier, sailor, or airman on a superior officer who is in the execution of his office, punishable with up to three years' imprisonment plus fine irrespective of whether the assault actually occurs -- escalated under Section 162 if the assault is in fact committed.",
+    "abetment of assault on superior officer resulting in actual assault": "Section 162 BNS: the consequence-triggered escalation of Section 161 -- where the abetted assault on a superior officer in execution of office is actually committed, the abettor's maximum punishment rises from three years to up to seven years' imprisonment plus fine.",
+    "abetment of desertion": "Section 163 BNS: abetting the desertion of any officer, soldier, sailor, or airman of the Army, Navy, or Air Force, punishable with up to two years' imprisonment, fine, or both -- the lightest punishment band among the Chapter VIII abetment offences, reflecting desertion's comparatively lower gravity relative to mutiny or assault on a superior officer.",
+    "harbouring a deserter": "Section 164 BNS: knowingly or with reason to believe that a person has deserted from the Army, Navy, or Air Force, harbouring that deserter, punishable with up to two years' imprisonment, fine, or both, subject to the spousal exception that removes liability where the harbourer is the deserter's own spouse.",
+    "spousal exception to harbouring a deserter": "The Exception to Section 164 BNS: the harbouring-deserter offence does not extend to harbour given by the spouse of the deserter -- a recurring carve-out across the Sanhita's harbouring-type offences (compare Sections 111 and 113) that recognises the practical reality of spousal cohabitation.",
+    "negligent concealment of a deserter on a merchant vessel": "Section 165 BNS: an unusual strict, negligence-based penalty of up to three thousand rupees on the master or person in charge of a merchant vessel aboard which a deserter is concealed, even if actually ignorant of the concealment, where that ignorance stems from the master's own neglect of duty or a want of discipline on board -- notable for imposing only a monetary penalty, not imprisonment, and for attaching liability on a constructive-knowledge basis.",
+    "abetment of insubordination": "Section 166 BNS: knowingly abetting an act of insubordination by a member of the Army, Navy, or Air Force, punishable with up to two years' imprisonment, fine, or both, but only where the insubordination is actually committed in consequence of the abetment -- unlike mutiny and assault-on-superior abetment, there is no lesser outcome-independent counterpart for insubordination.",
+    "savings clause for the special military Acts": "Section 167 BNS: a jurisdiction-clearing provision stating that persons subject to the Air Force Act 1950, the Army Act 1950, or the Navy Act 1957 are not liable to punishment under the Sanhita for any offence defined in Chapter VIII, preventing double jeopardy between the Sanhita's general military-offence provisions and the special service-specific military codes -- the Chapter-specific reinforcement of the mutiny/desertion savings clause already found in Section 1(6).",
+    "impersonating a soldier sailor or airman by garb or token": "Section 168 BNS, closing Chapter VIII: a civilian who wears a garb or carries a token resembling that used by a soldier, sailor, or airman, with the intention that it be believed they are such a person, is punishable with up to three months' imprisonment, fine up to two thousand rupees, or both -- the specific intention to deceive observers into believing genuine service status distinguishes this from innocent costume-wearing."
   },
   "sections": [
     {
@@ -3469,6 +3481,179 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "The parole Explanation is the subtle but important point -- custody is not limited to physical confinement behind walls; a paroled State prisoner or prisoner of war who simply wanders beyond their permitted parole limits is deemed to have 'escaped,' and anyone who then harbours them falls within this section."
+      }
+    },
+    {
+      "number": "159",
+      "title": "Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty",
+      "raw_text": "Whoever abets the committing of mutiny by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India or attempts to seduce any such officer, soldier, sailor or airman from his allegiance or his duty, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "abetting mutiny",
+        "seducing a soldier sailor or airman from duty"
+      ],
+      "breakdown": {
+        "plain_summary": "Opens Chapter VIII ('Of Offences Relating to the Army, Navy and Air Force') by punishing two related acts: abetting the committing of mutiny by a member of the Armed Forces, or attempting to seduce any such member from their allegiance or duty -- both drawing life imprisonment or up to ten years' imprisonment plus fine, regardless of whether the mutiny or desertion actually follows.",
+        "essential_elements": [
+          "Abetting the committing of mutiny by an officer, soldier, sailor, or airman of the Army, Navy, or Air Force of the Government of India, or",
+          "Attempting to seduce any such person from their allegiance or duty"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This punishes the abetment/seduction itself, irrespective of outcome -- contrast with Section 160, which applies the far more severe death-or-life punishment specifically where mutiny actually results in consequence of the abetment."
+      }
+    },
+    {
+      "number": "160",
+      "title": "Abetment of mutiny, if mutiny is committed in consequence thereof",
+      "raw_text": "Whoever abets the committing of mutiny by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, shall, if mutiny be committed in consequence of that abetment, be punished with death or with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "abetment of mutiny resulting in actual mutiny"
+      ],
+      "breakdown": {
+        "plain_summary": "An aggravated, outcome-based escalation of Section 159: where the abetted mutiny is actually committed in consequence of the abetment, the abettor becomes liable to death or life imprisonment, or up to ten years' imprisonment plus fine -- the same consequence-triggered-escalation structure used throughout the Sanhita's abetment scheme (compare Section 49).",
+        "essential_elements": [
+          "Abetting the committing of mutiny by an officer, soldier, sailor, or airman of the Army, Navy, or Air Force of the Government of India",
+          "Mutiny must actually be committed in consequence of that abetment"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The outcome -- mutiny actually occurring in consequence of the abetment -- is what separates this section's death-or-life-imprisonment exposure from Section 159's lesser, outcome-independent punishment for the bare abetment; always check whether the mutiny in fact materialised before charging under Section 160 rather than Section 159."
+      }
+    },
+    {
+      "number": "161",
+      "title": "Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office",
+      "raw_text": "Whoever abets an assault by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, on any superior officer being in the execution of his office, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+      "key_terms": [
+        "abetment of assault on a superior officer"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes abetting an assault by a member of the Armed Forces on their superior officer while that superior is in the execution of office, with up to three years' imprisonment plus fine -- the base, outcome-independent version, escalated by Section 162 if the assault actually occurs.",
+        "essential_elements": [
+          "Abetting an assault by an officer, soldier, sailor, or airman on a superior officer",
+          "The superior officer must be in the execution of his office at the time"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read together with Section 162 -- the identical fact pattern draws a heavier punishment (up to seven years) where the abetted assault is actually committed."
+      }
+    },
+    {
+      "number": "162",
+      "title": "Abetment of such assault, if assault committed",
+      "raw_text": "Whoever abets an assault by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, on any superior officer being in the execution of his office, shall, if such assault be committed in consequence of that abetment be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "key_terms": [
+        "abetment of assault on superior officer resulting in actual assault"
+      ],
+      "breakdown": {
+        "plain_summary": "The consequence-triggered escalation of Section 161: where the abetted assault on a superior officer is actually committed, the abettor's maximum punishment rises from three years to up to seven years' imprisonment plus fine.",
+        "essential_elements": [
+          "Abetting an assault by a member of the Armed Forces on a superior officer in execution of office",
+          "The assault must actually be committed in consequence of the abetment"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Mirrors the Section 159/160 structure for mutiny -- the Sanhita consistently doubles or more-than-doubles the abettor's maximum exposure once the abetted military offence actually materialises."
+      }
+    },
+    {
+      "number": "163",
+      "title": "Abetment of desertion of soldier, sailor or airman",
+      "raw_text": "Whoever abets the desertion of any officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "abetment of desertion"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes abetting the desertion of any member of the Armed Forces, with up to two years' imprisonment, fine, or both -- a lighter punishment band than mutiny or assault-on-superior abetment, reflecting desertion's comparatively lower gravity.",
+        "essential_elements": [
+          "Abetting the desertion of an officer, soldier, sailor, or airman of the Army, Navy, or Air Force of the Government of India"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare the punishment ladder across Sections 159-163: mutiny abetment draws the heaviest punishment (life/ten years), assault-on-superior abetment is intermediate (three to seven years), and desertion abetment is the lightest (two years) -- reflecting the Sanhita's graduated view of military-discipline offences by severity."
+      }
+    },
+    {
+      "number": "164",
+      "title": "Harbouring deserter",
+      "raw_text": "Whoever, except as hereinafter excepted, knowing or having reason to believe that an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, has deserted, harbours such officer, soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine or with both. Exception.--This provision does not extend to the case in which the harbour is given by the spouse of the deserter.",
+      "key_terms": [
+        "harbouring a deserter",
+        "spousal exception to harbouring a deserter"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes knowingly harbouring a deserter from the Armed Forces with up to two years' imprisonment, fine, or both -- but an express Exception entirely removes liability where the person giving harbour is the deserter's own spouse, recognising the practical reality of spousal cohabitation.",
+        "essential_elements": [
+          "Knowledge or reason to believe that the person harboured has deserted from the Army, Navy, or Air Force",
+          "Harbouring that deserter"
+        ],
+        "exceptions_and_qualifications": [
+          "The provision does not extend to harbour given by the spouse of the deserter"
+        ],
+        "how_to_read": "The spousal exception recurs throughout the Sanhita's harbouring-type offences (compare the organised-crime and terrorist-act harbouring provisions in Sections 111 and 113) -- always check whether the harbourer is the offender's spouse before concluding liability attaches."
+      }
+    },
+    {
+      "number": "165",
+      "title": "Deserter concealed on board merchant vessel through negligence of master",
+      "raw_text": "The master or person in charge of a merchant vessel, on board of which any deserter from the Army, Navy or Air Force of the Government of India is concealed, shall, though ignorant of such concealment, be liable to a penalty not exceeding three thousand rupees, if he might have known of such concealment but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel.",
+      "key_terms": [
+        "negligent concealment of a deserter on a merchant vessel"
+      ],
+      "breakdown": {
+        "plain_summary": "A strict, negligence-based penalty (not a conventional imprisonment offence) on the master or person in charge of a merchant vessel: even if genuinely ignorant that a deserter is concealed aboard, they face a penalty up to three thousand rupees if their own neglect of duty, or a want of discipline on the vessel, is what allowed the concealment to go undetected.",
+        "essential_elements": [
+          "A deserter from the Army, Navy, or Air Force is concealed on board a merchant vessel",
+          "The master or person in charge, though actually ignorant of the concealment, might have known of it but for neglect of duty or want of discipline on board"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Unusual among Sanhita provisions for imposing only a monetary penalty (no imprisonment) and for attaching liability despite the master's actual ignorance -- the test is constructive knowledge via neglect of duty or a lack of shipboard discipline, not actual awareness."
+      }
+    },
+    {
+      "number": "166",
+      "title": "Abetment of act of insubordination by soldier, sailor or airman",
+      "raw_text": "Whoever abets what he knows to be an act of insubordination by an officer, soldier, sailor or airman, in the Army, Navy or Air Force, of the Government of India, shall, if such act of insubordination be committed in consequence of that abetment, be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "abetment of insubordination"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes knowingly abetting an act of insubordination by a member of the Armed Forces, but only where that insubordination is actually committed in consequence of the abetment -- up to two years' imprisonment, fine, or both.",
+        "essential_elements": [
+          "Abetting what the accused knows to be an act of insubordination by a member of the Army, Navy, or Air Force",
+          "The act of insubordination must actually be committed in consequence of that abetment"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Unlike the mutiny and assault-on-superior provisions (which punish the bare abetment under Sections 159 and 161 even without the underlying act occurring), Section 166 requires the insubordination to have actually resulted -- there is no lesser outcome-independent counterpart for insubordination."
+      }
+    },
+    {
+      "number": "167",
+      "title": "Persons subject to certain Acts",
+      "raw_text": "No person subject to the Air Force Act, 1950, the Army Act, 1950 and the Navy Act, 1957, or shall be subject to punishment under this Sanhita for any of the offences defined in this Chapter.",
+      "key_terms": [
+        "savings clause for the special military Acts"
+      ],
+      "breakdown": {
+        "plain_summary": "A jurisdiction-clearing savings clause: persons already subject to the Air Force Act 1950, the Army Act 1950, or the Navy Act 1957 are not liable to punishment under the Sanhita for any offence defined in Chapter VIII -- preventing double jeopardy between the Sanhita's general military-offence provisions and the special service-specific military codes, mirroring the mutiny/desertion savings clause already found in Section 1(6).",
+        "essential_elements": [
+          "The accused is a person subject to the Air Force Act 1950, the Army Act 1950, or the Navy Act 1957"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read together with Section 1(6)'s general savings clause for mutiny and desertion -- Section 167 is the Chapter-specific reinforcement ensuring Chapter VIII's offences never duplicate liability already covered by the special military statutes for persons actually subject to them."
+      }
+    },
+    {
+      "number": "168",
+      "title": "Wearing garb or carrying token used by soldier, sailor or airman",
+      "raw_text": "Whoever, not being a soldier, sailor or airman in the Army, Naval or Air service of the Government of India, wears any garb or carries any token resembling any garb or token used by such a soldier, sailor or airman with the intention that it may be believed that he is such a soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two thousand rupees, or with both.",
+      "key_terms": [
+        "impersonating a soldier sailor or airman by garb or token"
+      ],
+      "breakdown": {
+        "plain_summary": "Closes Chapter VIII with a modest impersonation offence: a civilian who wears a garb or carries a token resembling that used by a soldier, sailor, or airman, intending to be believed to actually be one, is punishable with up to three months' imprisonment, fine up to two thousand rupees, or both.",
+        "essential_elements": [
+          "The accused is not actually a soldier, sailor, or airman in the Army, Naval, or Air service of the Government of India",
+          "Wearing a garb, or carrying a token, resembling that used by such a person",
+          "Intention that it be believed the accused is such a soldier, sailor, or airman"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The deliberate intent-to-be-believed element distinguishes this from innocent costume-wearing (e.g. theatrical or fancy-dress use of military-style clothing) -- liability turns on the specific intention to deceive observers into believing genuine service status."
       }
     }
   ]
