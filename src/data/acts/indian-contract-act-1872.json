@@ -5287,7 +5287,16 @@
         "exceptions_and_qualifications": [
           "A special contract between principal and agent can displace the default completion-based timing"
         ],
-        "how_to_read": "Default timing rule, softened by a practical exception for partial sales of consigned goods."
+        "how_to_read": "Default timing rule, softened by a practical exception for partial sales of consigned goods.",
+        "plain_summary_hi": "भुगतान कब देय है यह तय करने वाले विशेष करार के अभाव में, डिफ़ॉल्ट नियम यह है कि अभिकर्ता का पारिश्रमिक तभी देय है जब उसने वह कार्य पूरा कर लिया हो जिसके लिए उसे नियोजित किया गया था। परंतु, बिक्री अभिकर्ताओं के लिए एक व्यावहारिक छूट के रूप में, वह आंशिक बिक्री से पहले से प्राप्त आनुपातिक राशि रोक सकता है, भले ही पूरा माल अभी तक न बिका हो।",
+        "essential_elements_hi": [
+          "डिफ़ॉल्ट नियम: विशेष करार के अभाव में, पारिश्रमिक केवल कार्य पूरा होने पर देय है।",
+          "छूट: अभिकर्ता पहले से बेचे गए माल के लिए प्राप्त राशियाँ रोक सकता है, भले ही पूरी खेप अभी तक न बिकी हो या बिक्री पूर्णतः पूरी न हुई हो।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "मालिक और अभिकर्ता के बीच एक विशेष करार पूर्णता-आधारित डिफ़ॉल्ट समय-सीमा को विस्थापित कर सकता है।"
+        ],
+        "how_to_read_hi": "डिफ़ॉल्ट समय-नियम, प्रतिभूत माल की आंशिक बिक्री के लिए एक व्यावहारिक अपवाद से नरम किया गया।"
       }
     },
     {
@@ -5307,7 +5316,15 @@
           "Remains entitled to remuneration for properly performed parts"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "An apportionment rule, illustrated concretely: split the business into the well-done part and the misconducted part, and dock remuneration only for the latter."
+        "how_to_read": "An apportionment rule, illustrated concretely: split the business into the well-done part and the misconducted part, and dock remuneration only for the latter.",
+        "plain_summary_hi": "अभिकरण के कार्य के किसी एक भाग में कदाचार उस भाग विशेष के लिए पारिश्रमिक का अधिहरण करता है — अभिकर्ता उस कार्य के लिए पारिश्रमिक नहीं खोता जो उसने ठीक से किया, पर जो भाग उसने बिगाड़ा उसके लिए उसे कुछ नहीं मिलता (और वह नुकसानी का भी ऋणी हो सकता है)।",
+        "essential_elements_hi": [
+          "अभिकर्ता अभिकरण-कारोबार के किसी भाग में कदाचार का दोषी है।",
+          "वह केवल उस कदाचार वाले भाग के लिए पारिश्रमिक खोता है।",
+          "वह ठीक से निष्पादित भागों के लिए पारिश्रमिक का हकदार बना रहता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह एक विभाजन-नियम है, ठोस रूप से उदाहृत: कारोबार को अच्छी तरह से किए गए भाग और कदाचार वाले भाग में बाँटें, और केवल बाद वाले के लिए पारिश्रमिक काटें।"
       }
     },
     {
@@ -5331,7 +5348,17 @@
         "exceptions_and_qualifications": [
           "Does not apply if there is a contract to the contrary"
         ],
-        "how_to_read": "A security-interest rule — the agent's lien is a leverage device, letting him hold property hostage until paid, unless the parties agreed otherwise."
+        "how_to_read": "A security-interest rule — the agent's lien is a leverage device, letting him hold property hostage until paid, unless the parties agreed otherwise.",
+        "plain_summary_hi": "यह अभिकर्ता के लिए निक्षेपगृहीता के धारणाधिकार (धारा 170-171) का समकक्ष है: विपरीत करार के अभाव में, अभिकर्ता मालिक के माल, कागज़ात, या अन्य संपत्ति को, जो उसके हाथों में आए हैं, तब तक रोक सकता है जब तक उसे उस संपत्ति से संबंधित कमीशन, व्यय, और सेवाओं के लिए देय राशि का भुगतान न हो जाए।",
+        "essential_elements_hi": [
+          "यह अभिकर्ता द्वारा प्राप्त मालिक के माल, कागज़ात, और अन्य संपत्ति (चल या अचल) पर लागू होता है।",
+          "यह कमीशन, व्यय, और सेवाओं के लिए देय राशियों को सुरक्षित करता है।",
+          "यह एक डिफ़ॉल्ट नियम है — विपरीत करार द्वारा विस्थापित किया जा सकता है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यह विपरीत करार होने पर लागू नहीं होता।"
+        ],
+        "how_to_read_hi": "यह एक प्रतिभूति-हित नियम है — अभिकर्ता का धारणाधिकार एक दबाव-साधन है, जो उसे भुगतान तक संपत्ति को बंधक बनाए रखने देता है, जब तक पक्षकारों ने अन्यथा सहमति न दी हो।"
       }
     },
     {
@@ -5351,7 +5378,14 @@
           "Principal (employer) bound to indemnify the agent against the consequences"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "A baseline protection for agents: act lawfully and within authority, and the principal absorbs the downstream cost."
+        "how_to_read": "A baseline protection for agents: act lawfully and within authority, and the principal absorbs the downstream cost.",
+        "plain_summary_hi": "यदि अभिकर्ता, अपने प्राधिकार के भीतर कार्य करते हुए, कुछ वैध करता है और इसके परिणामस्वरूप उसे धन खर्च करना पड़ता है (नुकसानी, लागत, व्यय), तो मालिक को उसे प्रतिपूर्ति करनी होगी। यह अभिकर्ताओं को उचित रूप से प्राधिकृत आचरण के वित्तीय परिणाम वहन करने से बचाता है।",
+        "essential_elements_hi": [
+          "यह अभिकर्ता द्वारा प्रदत्त प्राधिकार के प्रयोग में किए गए वैध कार्यों पर लागू होता है।",
+          "मालिक (नियोक्ता) परिणामों के विरुद्ध अभिकर्ता को क्षतिपूर्ति देने के लिए बाध्य है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह अभिकर्ताओं के लिए एक आधारभूत संरक्षण है: वैध रूप से और प्राधिकार के भीतर कार्य करें, और मालिक आगे की लागत वहन करता है।"
       }
     },
     {
@@ -5371,7 +5405,15 @@
           "Employer/principal is liable to indemnify the agent against the consequences"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Good faith is the key qualifier here — it extends indemnity protection even to acts that turn out to wrong a third party, so long as the agent didn't know better."
+        "how_to_read": "Good faith is the key qualifier here — it extends indemnity protection even to acts that turn out to wrong a third party, so long as the agent didn't know better.",
+        "plain_summary_hi": "यहाँ तक कि जब अभिकर्ता का सद्भावपूर्ण कार्य किसी तृतीय व्यक्ति के अधिकारों को क्षति पहुँचाता है (उदाहरण के लिए, यह पता चलता है कि मालिक को माल का अधिकार नहीं था), मालिक को फिर भी परिणामी उत्तरदायित्व और व्यय के लिए अभिकर्ता को क्षतिपूर्ति देनी होगी — बशर्ते अभिकर्ता ने मालिक के निर्देशों पर सद्भावपूर्वक कार्य किया हो।",
+        "essential_elements_hi": [
+          "अभिकर्ता सद्भावपूर्वक कार्य करता है।",
+          "कार्य किसी तृतीय व्यक्ति के अधिकारों को क्षति पहुँचाता है।",
+          "नियोक्ता/मालिक परिणामों के विरुद्ध अभिकर्ता को क्षतिपूर्ति देने के लिए उत्तरदायी है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "सद्भावना यहाँ मुख्य योग्यता है — यह क्षतिपूर्ति-संरक्षण को उन कार्यों तक भी विस्तृत करती है जो किसी तृतीय पक्ष के साथ गलत साबित होते हैं, जब तक अभिकर्ता को बेहतर जानकारी नहीं थी।"
       }
     },
     {
@@ -5392,7 +5434,15 @@
           "Also excludes indemnity arising by implied promise"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "A public-policy override — no indemnity for criminal acts, express agreement notwithstanding; this is the counterpoint to Sections 222-223's general indemnity rules."
+        "how_to_read": "A public-policy override — no indemnity for criminal acts, express agreement notwithstanding; this is the counterpoint to Sections 222-223's general indemnity rules.",
+        "plain_summary_hi": "धारा 222 और 223 के क्षतिपूर्ति संरक्षणों की एक दृढ़ सीमा है: यदि अभिकर्ता को जो कार्य करने के लिए नियोजित किया गया था वह स्वयं अपराधिक है, तो मालिक को परिणामों के लिए अभिकर्ता को क्षतिपूर्ति देने हेतु विवश नहीं किया जा सकता — भले ही मालिक ने ऐसा करने का स्पष्ट वचन दिया हो। न्यायालय अपराध के लिए क्षतिपूर्ति को प्रवर्तित नहीं करेंगे।",
+        "essential_elements_hi": [
+          "जो कार्य करने के लिए नियोजित किया गया वह अपराधिक है।",
+          "नियोक्ता क्षतिपूर्ति देने के लिए उत्तरदायी नहीं है — यहाँ तक कि ऐसा करने के स्पष्ट वचन के अंतर्गत भी नहीं।",
+          "यह विवक्षित वचन से उत्पन्न क्षतिपूर्ति को भी बाहर करता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह एक लोक-नीति अध्यारोहण है — अपराधिक कार्यों के लिए कोई क्षतिपूर्ति नहीं, स्पष्ट करार होने के बावजूद; यह धारा 222-223 के सामान्य क्षतिपूर्ति नियमों का प्रतिबिंदु है।"
       }
     },
     {
@@ -5413,7 +5463,15 @@
           "Principal must compensate the agent"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "A mirror-image duty to Section 212 — this time it is the principal's carelessness that triggers compensation, owed to the agent."
+        "how_to_read": "A mirror-image duty to Section 212 — this time it is the principal's carelessness that triggers compensation, owed to the agent.",
+        "plain_summary_hi": "देखभाल का कर्तव्य दोनों दिशाओं में चलता है: जैसे अभिकर्ता मालिक को कौशल और परिश्रम का ऋणी है, वैसे ही मालिक अभिकर्ता को प्रतिकर का ऋणी है यदि मालिक की अपनी उपेक्षा या कौशल की कमी अभिकरण के कार्य के दौरान अभिकर्ता को शारीरिक या अन्य क्षति पहुँचाती है।",
+        "essential_elements_hi": [
+          "अभिकर्ता को क्षति पहुँचती है।",
+          "यह मालिक की उपेक्षा या कौशल की कमी से होती है।",
+          "मालिक को अभिकर्ता को प्रतिकर देना होगा।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह धारा 212 का दर्पण-छवि कर्तव्य है — इस बार यह मालिक की लापरवाही है जो प्रतिकर को उत्पन्न करती है, जो अभिकर्ता को देय है।"
       }
     },
     {
@@ -5433,7 +5491,15 @@
           "Enforced in the same manner, with the same legal consequences, as if the principal acted in person"
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is the master rule underlying the entire chapter — agency 'transmits' legal effect from agent to principal as though there were no intermediary at all."
+        "how_to_read": "This is the master rule underlying the entire chapter — agency 'transmits' legal effect from agent to principal as though there were no intermediary at all.",
+        "plain_summary_hi": "यह अभिकरण कानून का आधारभूत नियम है: उचित रूप से प्राधिकृत अभिकर्ता के माध्यम से किया गया करार मालिक को ठीक वैसे ही बाध्य और लाभान्वित करता है जैसे मालिक ने स्वयं उसमें प्रवेश किया हो। इसे मालिक द्वारा या उसके विरुद्ध प्रवर्तित किया जा सकता है, और अभिकर्ता से व्यवहार करने वाले तृतीय पक्ष वैसे ही बाध्य होते हैं जैसे वे सीधे मालिक से व्यवहार करने पर होते।",
+        "essential_elements_hi": [
+          "अभिकर्ता के माध्यम से किए गए करार।",
+          "अभिकर्ता के कार्यों से उत्पन्न दायित्व।",
+          "उसी तरीके से, समान विधिक परिणामों के साथ, प्रवर्तित किए जाते हैं जैसे मालिक ने स्वयं कार्य किया हो।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह पूरे अध्याय के आधार में निहित मास्टर नियम है — अभिकरण विधिक प्रभाव को अभिकर्ता से मालिक तक 'स्थानांतरित' करती है मानो कोई मध्यस्थ हो ही न।"
       }
     },
     {
