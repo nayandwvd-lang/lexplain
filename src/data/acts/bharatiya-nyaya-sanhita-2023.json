@@ -389,7 +389,18 @@
     "imputation of disloyalty against a class of persons": "Section 197(1)(a) BNS: making or publishing an imputation that a class of persons cannot, by reason of their religious, racial, language, regional, caste, or community membership, bear true faith and allegiance to the Constitution or uphold India's sovereignty and integrity, punishable with up to three years, escalated to five years plus fine in a place of worship.",
     "denial of citizenship rights on group grounds": "Section 197(1)(b) BNS: asserting, counselling, advising, propagating, or publishing that a class of persons should, by reason of group membership (religion, race, language, region, caste, community), be denied or deprived of their rights as citizens of India.",
     "assertion of group obligation causing disharmony": "Section 197(1)(c) BNS: making or publishing an assertion, counsel, plea, or appeal about the obligations of a class of persons by reason of their group membership, where it causes or is likely to cause disharmony, enmity, hatred, or ill-will between that class and others.",
-    "false or misleading information jeopardising India's sovereignty or security": "Section 197(1)(d) BNS: making or publishing false or misleading information that jeopardises the sovereignty, unity, integrity, or security of India -- a disinformation-specific limb with no direct IPC equivalent, read alongside Section 152's sedition-replacement offence but without a comparably developed lawful-dissent boundary."
+    "false or misleading information jeopardising India's sovereignty or security": "Section 197(1)(d) BNS: making or publishing false or misleading information that jeopardises the sovereignty, unity, integrity, or security of India -- a disinformation-specific limb with no direct IPC equivalent, read alongside Section 152's sedition-replacement offence but without a comparably developed lawful-dissent boundary.",
+    "public servant knowingly disobeying a legal direction with intent to injure": "Section 198 BNS, opening Chapter XII: a public servant who knowingly disobeys a legal direction governing their official conduct, intending or knowing it likely to cause injury to any person, is punishable with up to one year's simple imprisonment, fine, or both -- the general catch-all public-servant misconduct offence, illustrated by an execution officer who knowingly flouts the legal procedure for seizing property to a decree-holder's detriment.",
+    "public servant unlawfully compelling attendance for investigation": "Section 199(a) BNS: a public servant who knowingly disobeys a legal prohibition against requiring a person's attendance at a place for investigation into an offence or other matter, punishable with a mandatory minimum of six months' rigorous imprisonment up to two years, plus fine.",
+    "public servant violating investigation procedure to a person's prejudice": "Section 199(b) BNS: a public servant who knowingly disobeys, to a person's prejudice, any other legal direction regulating how an investigation must be conducted, carrying the same mandatory-minimum six-months-to-two-years rigorous imprisonment plus fine as the other limbs of Section 199.",
+    "public servant failing to record cognizable-offence information (BNSS 173)": "Section 199(c) BNS: a public servant who fails to record information given under BNSS Section 173(1) relating to specified cognizable offences (including sexual offences, acid attacks, and trafficking-related provisions under BNS Sections 64-79, 124, 143, and 144), punishable with a mandatory minimum six months' rigorous imprisonment up to two years, plus fine -- an accountability mechanism against suppression of serious complaints at the police-station stage.",
+    "non-treatment of victim by a hospital in charge": "Section 200 BNS: a person in charge of any hospital, public or private, who contravenes BNSS Section 397's requirement to provide immediate free treatment to victims of specified offences, punishable with up to one year's imprisonment, fine, or both -- the penal backstop ensuring hospitals cannot lawfully refuse emergency treatment to such victims.",
+    "public servant framing an incorrect document or electronic record": "Section 201 BNS: a public servant charged with preparing or translating a document or electronic record who deliberately frames, prepares, or translates it in a manner known or believed to be incorrect, intending or knowing it likely to cause injury to any person, punishable with up to three years' imprisonment, fine, or both.",
+    "public servant unlawfully engaging in trade": "Section 202 BNS: a public servant legally bound by the terms of office not to engage in trade who does so anyway, punishable with up to one year's simple imprisonment, fine, or both, or with community service -- one of the few BNS offences expressly offering community service as an alternative sentence, reflecting its administrative, non-violent character.",
+    "public servant unlawfully purchasing or bidding for property": "Section 203 BNS: a public servant legally bound not to purchase or bid for certain property (typically property connected to their official duties) who does so anyway, whether in their own name, another's name, jointly, or in shares, punishable with up to two years' simple imprisonment, fine, or both.",
+    "confiscation of property unlawfully purchased by a public servant": "The mandatory consequence attached to Section 203 BNS: if the public servant actually completes the unlawful purchase, the property itself shall be confiscated, over and above the imprisonment or fine imposed on the offender personally.",
+    "personating a public servant": "Section 204 BNS: falsely pretending to hold a particular public-servant office one does not hold, or falsely personating a specific person who does hold such office, and going on to do or attempt an act under colour of that assumed office, punishable with a mandatory minimum six months' up to three years' imprisonment plus fine.",
+    "wearing garb or carrying a token of a public servant with fraudulent intent": "Section 205 BNS, closing Chapter XII: wearing a garb or carrying a token resembling that used by a particular class of public servants, with intention or knowledge that it is likely to be believed the wearer belongs to that class, punishable with up to three months' imprisonment, fine up to five thousand rupees, or both -- the general public-servant counterpart to Section 168's military-impersonation offence."
   },
   "sections": [
     {
@@ -4269,6 +4280,150 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Section 197's limb (d) (false/misleading information jeopardising sovereignty, unity, integrity, or security) is new territory not found in the equivalent IPC provision -- read it alongside Section 152 (the sedition-replacement offence) and note its own lawful-dissent-style boundaries are far less developed, so disinformation-type prosecutions under this limb deserve particularly careful scrutiny of the falsity and jeopardy elements."
+      }
+    },
+    {
+      "number": "198",
+      "title": "Public servant disobeying law, with intent to cause injury to any person",
+      "raw_text": "Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending to cause, or knowing it to be likely that he will by such disobedience, cause injury to any person, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both. Illustration.--A, being an officer directed by law to take property in execution, in order to satisfy a decree pronounced in Z's favour by a Court, knowingly disobeys that direction of law, with the knowledge that he is likely thereby to cause injury to Z. A has committed the offence defined in this section.",
+      "key_terms": [
+        "public servant knowingly disobeying a legal direction with intent to injure"
+      ],
+      "breakdown": {
+        "plain_summary": "Opens Chapter XII ('Of Offences By or Relating to Public Servants') with a general offence: a public servant who knowingly disobeys a legal direction governing how they must conduct themselves in that role, intending to cause injury or knowing it likely that the disobedience will cause injury, is punishable with up to one year's simple imprisonment, fine, or both -- illustrated by an execution officer who knowingly flouts the legal procedure for seizing property, aware this is likely to injure the decree-holder.",
+        "essential_elements": [
+          "The accused is a public servant",
+          "Knowing disobedience of a legal direction as to how they must conduct themselves as such public servant",
+          "Intention to cause injury, or knowledge that the disobedience is likely to cause injury, to any person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the general catch-all public-servant misconduct offence; Sections 199-203 that follow carve out specific, more targeted instances of similar official misconduct (investigation-direction violations, document falsification, unlawful trading, unlawful property purchase) with their own tailored punishment bands."
+      }
+    },
+    {
+      "number": "199",
+      "title": "Public servant disobeying direction under law",
+      "raw_text": "Whoever, being a public servant,-- (a) knowingly disobeys any direction of the law which prohibits him from requiring the attendance at any place of any person for the purpose of investigation into an offence or any other matter; or (b) knowingly disobeys, to the prejudice of any person, any other direction of the law regulating the manner in which he shall conduct such investigation; or (c) fails to record any information given to him under sub-section (1) of section 173 of the Bharatiya Nagarik Suraksha Sanhita, 2023 in relation to cognizable offence punishable under section 64, section 65, section 66, section 67, section 68, section 70, section 71, section 74, section 76, section 77, section 79, section 124, section 143 or section 144, shall be punished with rigorous imprisonment for a term which shall not be less than six months but which may extend to two years, and shall also be liable to fine.",
+      "key_terms": [
+        "public servant unlawfully compelling attendance for investigation",
+        "public servant violating investigation procedure to a person's prejudice",
+        "public servant failing to record cognizable-offence information (BNSS 173)"
+      ],
+      "breakdown": {
+        "plain_summary": "A targeted investigation-misconduct offence carrying a mandatory minimum of six months' rigorous imprisonment (up to two years) plus fine: a public servant who knowingly disobeys a legal prohibition on compelling someone's attendance for investigation, who knowingly disobeys (to someone's prejudice) any other legal direction on how an investigation must be conducted, or who fails to record information given under BNSS Section 173(1) regarding specified cognizable offences (sexual offences, certain child-related and trafficking offences among others listed).",
+        "essential_elements": [
+          "The accused is a public servant",
+          "Limb (a): knowing disobedience of a legal prohibition on requiring a person's attendance for investigation",
+          "Limb (b): knowing disobedience, to a person's prejudice, of any other legal direction regulating investigation conduct",
+          "Limb (c): failing to record information given under BNSS Section 173(1) for the specifically listed cognizable offences"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The mandatory minimum sentence (six months rigorous imprisonment) is notably strict for a public-servant offence -- limb (c)'s cross-reference to BNSS Section 173(1) and the specific list of BNS sections (largely sexual offences, acid attacks, and trafficking-related provisions) is a deliberate accountability mechanism to ensure such serious complaints are not suppressed at the police station."
+      }
+    },
+    {
+      "number": "200",
+      "title": "Punishment for non-treatment of victim",
+      "raw_text": "Whoever, being in charge of a hospital, public or private, whether run by the Central Government, the State Government, local bodies or any other person, contravenes the provisions of section 397 of the Bharatiya Nagarik Suraksha Sanhita, 2023, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.",
+      "key_terms": [
+        "non-treatment of victim by a hospital in charge"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes, with up to one year's imprisonment, fine, or both, the person in charge of any hospital (public or private, regardless of which government or body runs it) who contravenes BNSS Section 397's requirement to provide immediate free treatment to victims of specified offences -- a direct penal backstop ensuring hospitals cannot lawfully refuse emergency treatment to victims on procedural or financial grounds.",
+        "essential_elements": [
+          "The accused is in charge of a hospital, public or private",
+          "Contravention of the victim-treatment requirement under BNSS Section 397"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section only makes sense read together with BNSS Section 397, which imposes the actual duty (immediate free first-aid/treatment to victims of acid attacks, rape, and other specified offences) -- Section 200 BNS is purely the penal consequence for breaching that cross-referenced procedural duty."
+      }
+    },
+    {
+      "number": "201",
+      "title": "Public servant framing an incorrect document with intent to cause injury",
+      "raw_text": "Whoever, being a public servant, and being, as such public servant, charged with the preparation or translation of any document or electronic record, frames, prepares or translates that document or electronic record in a manner which he knows or believes to be incorrect, intending thereby to cause or knowing it to be likely that he may thereby cause injury to any person, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "key_terms": [
+        "public servant framing an incorrect document or electronic record"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes, with up to three years' imprisonment, fine, or both, a public servant charged with preparing or translating a document or electronic record who deliberately frames, prepares, or translates it in a manner known or believed to be incorrect, intending or knowing it likely to cause injury to any person -- a document-integrity offence targeting official drafting duties.",
+        "essential_elements": [
+          "The accused is a public servant charged with preparing or translating a document or electronic record",
+          "Framing, preparing, or translating it in a manner known or believed to be incorrect",
+          "Intention to cause injury, or knowledge that injury is likely to result, to any person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The offence requires both the false-framing element (knowledge/belief of incorrectness) and the injury-intent/knowledge element together -- an innocent drafting error, however careless, falls outside this section without the accompanying mental state as to injury."
+      }
+    },
+    {
+      "number": "202",
+      "title": "Public servant unlawfully engaging in trade",
+      "raw_text": "Whoever, being a public servant, and being legally bound as such public servant not to engage in trade, engages in trade, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both or with community service.",
+      "key_terms": [
+        "public servant unlawfully engaging in trade"
+      ],
+      "breakdown": {
+        "plain_summary": "A straightforward conduct-rule offence: a public servant who is legally bound by the terms of their office not to engage in trade, but does so anyway, is punishable with up to one year's simple imprisonment, fine, or both, or with community service -- notably one of relatively few BNS provisions offering community service as an express alternative sentence.",
+        "essential_elements": [
+          "The accused is a public servant legally bound not to engage in trade",
+          "Engaging in trade despite that legal prohibition"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The community-service sentencing option reflects this offence's comparatively administrative, non-violent character -- the wrong lies purely in the conflict-of-interest created by an official trading while bound not to, not in any direct harm to a victim."
+      }
+    },
+    {
+      "number": "203",
+      "title": "Public servant unlawfully buying or bidding for property",
+      "raw_text": "Whoever, being a public servant, and being legally bound as such public servant, not to purchase or bid for certain property, purchases or bids for that property, either in his own name or in the name of another, or jointly, or in shares with others, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both; and the property, if purchased, shall be confiscated.",
+      "key_terms": [
+        "public servant unlawfully purchasing or bidding for property",
+        "confiscation of property unlawfully purchased by a public servant"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes a public servant legally bound not to purchase or bid for certain property (typically property connected to their official duties, e.g. property they are auctioning or valuing) who does so anyway -- whether in their own name, another's name, jointly, or in shares -- with up to two years' simple imprisonment, fine, or both, plus mandatory confiscation of the property if actually purchased.",
+        "essential_elements": [
+          "The accused is a public servant legally bound not to purchase or bid for certain property",
+          "Purchasing or bidding for that property, whether in their own name, another's name, jointly, or in shares with others"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The name/joint/shares language closes an obvious evasion route -- a public servant cannot escape liability by routing the purchase through a relative's name or a joint purchase; the mandatory confiscation of the property itself (not just a punishment of the person) is a notable additional consequence absent from most Chapter XII offences."
+      }
+    },
+    {
+      "number": "204",
+      "title": "Personating a public servant",
+      "raw_text": "Whoever pretends to hold any particular office as a public servant, knowing that he does not hold such office or falsely personates any other person holding such office, and in such assumed character does or attempts to do any act under colour of such office, shall be punished with imprisonment of either description for a term which shall not be less than six months but which may extend to three years and with fine.",
+      "key_terms": [
+        "personating a public servant"
+      ],
+      "breakdown": {
+        "plain_summary": "Punishes, with a mandatory minimum of six months' imprisonment (up to three years) plus fine, falsely pretending to hold a particular public-servant office one does not hold, or falsely personating someone who genuinely holds such an office, where the impersonator goes on to do or attempt to do an act under colour of that assumed official authority.",
+        "essential_elements": [
+          "Pretending to hold a particular public-servant office, knowing that is not true, or falsely personating a specific person who does hold such office",
+          "Doing, or attempting to do, an act under colour of that assumed office"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The offence requires an actual or attempted act under colour of the assumed office -- merely claiming a false title without acting on it falls short of Section 204, though it may still fall within Section 205's lighter garb/token offence if a uniform or insignia is also worn."
+      }
+    },
+    {
+      "number": "205",
+      "title": "Wearing garb or carrying token used by public servant with fraudulent intent",
+      "raw_text": "Whoever, not belonging to a certain class of public servants, wears any garb or carries any token resembling any garb or token used by that class of public servants, with the intention that it may be believed, or with the knowledge that it is likely to be believed, that he belongs to that class of public servants, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "wearing garb or carrying a token of a public servant with fraudulent intent"
+      ],
+      "breakdown": {
+        "plain_summary": "Closes Chapter XII with a modest offence mirroring Section 168's military-impersonation provision: wearing a garb or carrying a token resembling that used by a particular class of public servants, with intention or knowledge that it is likely to be believed the wearer belongs to that class, punishable with up to three months' imprisonment, fine up to five thousand rupees, or both.",
+        "essential_elements": [
+          "The accused does not belong to the relevant class of public servants",
+          "Wearing a garb, or carrying a token, resembling that used by that class",
+          "Intention that it be believed, or knowledge that it is likely to be believed, that the accused belongs to that class"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare directly with Section 168 (impersonating military personnel by garb or token) -- Section 205 is the general public-servant counterpart, and both share the same intention-or-knowledge-of-belief structure and broadly similar (though not identical) punishment ranges."
       }
     }
   ]
