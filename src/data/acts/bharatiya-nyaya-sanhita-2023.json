@@ -601,7 +601,11 @@
     "enhanced cheating punishment where the offender owed a legal or contractual duty to protect the victim's interest": "Section 318(3) BNS: where the offender cheats with knowledge that they are likely to cause wrongful loss to a person whose interest in the transaction they were bound, by law or by a legal contract, to protect, the punishment rises from the base three years (sub-section 2) to up to five years, fine, or both -- targeting cheating that breaches a pre-existing fiduciary or protective duty.",
     "enhanced cheating punishment where property or a valuable security is actually induced to be delivered or altered": "Section 318(4) BNS, the heaviest cheating tier: where the cheating actually dishonestly induces the victim to deliver property, or to make, alter, or destroy the whole or part of a valuable security or a document signed/sealed and capable of being converted into one, the punishment rises to up to seven years plus fine -- reserved for cheating that achieves its intended material result, not merely the attempt.",
     "cheating by personation": "Section 319(1) BNS: a named sub-species of cheating committed by pretending to be some other person, knowingly substituting one person for another, or representing oneself or another as a person other than they really are, punishable with up to five years' imprisonment, fine, or both -- a heavier ceiling than Section 318's base three-year cheating offence, reflecting the additional layer of fraud involved in fabricating or borrowing an identity.",
-    "personation offence applying whether the person impersonated is real or imaginary": "The Explanation to Section 319 BNS: cheating by personation is committed whether the individual being impersonated is a real person (living or, per illustration (b), even deceased) or a wholly imaginary person -- the offence does not depend on the impersonated identity actually existing."
+    "personation offence applying whether the person impersonated is real or imaginary": "The Explanation to Section 319 BNS: cheating by personation is committed whether the individual being impersonated is a real person (living or, per illustration (b), even deceased) or a wholly imaginary person -- the offence does not depend on the impersonated identity actually existing.",
+    "removing concealing or transferring property without adequate consideration to defeat creditors": "Section 320 BNS, opening the 'Of fraudulent deeds and dispositions of property' sub-chapter: dishonestly or fraudulently removing, concealing, delivering, or transferring property without adequate consideration, intending (or knowing it likely) to prevent that property's lawful distribution among creditors, punishable with a mandatory minimum six months rising to two years, fine, or both -- a genuine sale at fair value falls outside this section since the 'without adequate consideration' element would be absent.",
+    "preventing a debt or demand due to oneself or another from being available for payment of debts": "Section 321 BNS: dishonestly or fraudulently preventing a debt or demand owed to oneself or another person from being made legally available to pay one's own debts or that other person's debts, punishable with up to two years, fine, or both -- the mirror image of Section 320, targeting suppression of an incoming receivable rather than concealment of existing property, but sharing the same intent-to-defeat-creditors core.",
+    "executing a deed of transfer with a false statement of consideration or of the real beneficiary": "Section 322 BNS: dishonestly or fraudulently signing, executing, or becoming a party to a deed or instrument purporting to transfer or charge property, where that document falsely states the consideration for the transfer/charge or falsely identifies who is really intended to benefit from it, punishable with up to three years, fine, or both -- a documentary-fraud offence targeting sham or misleading paperwork rather than the underlying asset-concealment conduct itself.",
+    "concealing or removing one's own or another's property or dishonestly releasing a demand or claim": "Section 323 BNS, closing the 'Of fraudulent deeds and dispositions of property' sub-chapter: a residual offence covering dishonestly/fraudulently concealing or removing property (one's own or another's), assisting in such concealment/removal, or dishonestly releasing a demand or claim one is entitled to, punishable with up to three years, fine, or both -- its 'releasing a demand or claim' limb uniquely covers a debtor who forgives money owed to them specifically to keep it out of their creditors' reach."
   },
   "sections": [
     {
@@ -6744,6 +6748,74 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Note this section's punishment ceiling (five years) sits between Section 318(2)'s base cheating offence (three years) and Section 318(3)'s duty-of-protection-enhanced cheating (five years) -- personation is treated as inherently more serious than ordinary deception because fabricating or borrowing an identity (real or imaginary) is itself an additional layer of fraud on top of the underlying deceptive inducement."
+      }
+    },
+    {
+      "number": "320",
+      "title": "Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors",
+      "raw_text": "Whoever dishonestly or fraudulently removes, conceals or delivers to any person, or transfers or causes to be transferred to any person, without adequate consideration, any property, intending thereby to prevent, or knowing it to be likely that he will thereby prevent, the distribution of that property according to law among his creditors or the creditors of any other person, shall be punished with imprisonment of either description for a term which shall not be less than six months but which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "removing concealing or transferring property without adequate consideration to defeat creditors"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 320 BNS opens the 'Of fraudulent deeds and dispositions of property' sub-chapter, targeting debtor fraud: dishonestly or fraudulently removing, concealing, delivering, or transferring property (without adequate consideration) with intent, or knowledge of likelihood, that this will prevent the property's lawful distribution among one's own creditors or another person's creditors, punishable with a mandatory minimum six months rising to a maximum two years, fine, or both.",
+        "essential_elements": [
+          "dishonestly or fraudulently removing, concealing, delivering, or transferring (or causing to be transferred) property",
+          "without adequate consideration",
+          "intending to prevent, or knowing it likely to prevent, the lawful distribution of that property among creditors (one's own or another person's)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The 'without adequate consideration' qualifier is the key limiting element -- a genuine sale at fair value does not fall within this section even if it happens to leave fewer assets for creditors, because the transferor has received equivalent value in return; it is the combination of an uncompensated (or under-compensated) transfer with intent/knowledge of defeating creditors that completes the offence."
+      }
+    },
+    {
+      "number": "321",
+      "title": "Dishonestly or fraudulently preventing debt being available for creditors",
+      "raw_text": "Whoever dishonestly or fraudulently prevents any debt or demand due to himself or to any other person from being made available according to law for payment of his debts or the debts of such other person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "preventing a debt or demand due to oneself or another from being available for payment of debts"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 321 BNS complements Section 320 by targeting the asset side of the same debtor-fraud scheme: dishonestly or fraudulently preventing a debt or demand owed to oneself (or another person) from being made legally available to pay one's own debts (or that other person's debts), punishable with up to two years, fine, or both -- where Section 320 covers hiding or giving away existing property, this section covers suppressing a receivable that would otherwise have been available to satisfy creditors.",
+        "essential_elements": [
+          "dishonestly or fraudulently preventing a debt or demand due to oneself or another person",
+          "from being made available according to law for payment of debts (one's own or that other person's)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read this section as Section 320's mirror image: Section 320 stops a debtor from making property disappear, while Section 321 stops a debtor from suppressing an incoming asset (a debt owed to them) that creditors could otherwise reach -- both share the common dishonest/fraudulent-intent-to-defeat-creditors core."
+      }
+    },
+    {
+      "number": "322",
+      "title": "Dishonest or fraudulent execution of deed of transfer containing false statement of consideration",
+      "raw_text": "Whoever dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument which purports to transfer or subject to any charge any property, or any interest therein, and which contains any false statement relating to the consideration for such transfer or charge, or relating to the person or persons for whose use or benefit it is really intended to operate, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "key_terms": [
+        "executing a deed of transfer with a false statement of consideration or of the real beneficiary"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 322 BNS targets documentary fraud in property transfers: dishonestly or fraudulently signing, executing, or becoming a party to any deed or instrument purporting to transfer or charge property (or an interest in it), where that document contains a false statement either about the consideration for the transfer/charge, or about the real person(s) intended to benefit from it, punishable with up to three years, fine, or both.",
+        "essential_elements": [
+          "dishonestly or fraudulently signing, executing, or becoming a party to a deed or instrument purporting to transfer or charge property or an interest in it",
+          "that document containing a false statement relating to the consideration for the transfer/charge, OR relating to the person(s) for whose real use or benefit it is intended to operate"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section attacks sham or backdated paperwork rather than the underlying asset-hiding conduct itself (covered by Sections 320-321) -- it is the false recital within a formally valid-looking deed (an understated or fictitious consideration, or a concealed true beneficiary) that completes the offence, making it a documentary-fraud companion to the asset-concealment offences that precede it."
+      }
+    },
+    {
+      "number": "323",
+      "title": "Dishonest or fraudulent removal or concealment of property",
+      "raw_text": "Whoever dishonestly or fraudulently conceals or removes any property of himself or any other person, or dishonestly or fraudulently assists in the concealment or removal thereof, or dishonestly releases any demand or claim to which he is entitled, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "key_terms": [
+        "concealing or removing one's own or another's property or dishonestly releasing a demand or claim"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 323 BNS closes the 'Of fraudulent deeds and dispositions of property' sub-chapter with a residual, broadly worded offence: dishonestly or fraudulently concealing or removing any property (one's own or another's), or assisting in such concealment/removal, or dishonestly releasing a demand or claim to which one is entitled, punishable with up to three years, fine, or both.",
+        "essential_elements": [
+          "dishonestly or fraudulently concealing or removing property (one's own or another's), OR dishonestly/fraudulently assisting in such concealment or removal, OR dishonestly releasing a demand or claim to which one is entitled"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section functions as the catch-all of the fraudulent-dispositions cluster -- its 'dishonestly releases any demand or claim' limb is distinct from anything in Sections 320-322, covering a debtor who forgives or waives money owed to them (rather than transferring property away) specifically to defeat their own creditors' ability to reach that asset."
       }
     }
   ]
