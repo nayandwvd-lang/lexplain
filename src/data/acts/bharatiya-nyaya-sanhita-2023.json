@@ -539,7 +539,15 @@
     "obscene act in a public place": "The first limb of Section 296 BNS: doing an obscene act in a public place to the annoyance of others, punishable with up to three months' imprisonment plus fine up to one thousand rupees -- targets live public conduct, distinct from Section 294's offences concerning obscene material/objects.",
     "obscene song ballad or words in or near a public place": "The second limb of Section 296 BNS: singing, reciting, or uttering an obscene song, ballad, or words in or near a public place, to the annoyance of others, punished identically to the obscene-act limb of the same section -- the 'to the annoyance of others' requirement is an operative element the prosecution must prove.",
     "keeping an office for an unauthorised lottery": "Section 297(1) BNS, closing Chapter XV: keeping any office or place for drawing a lottery that is neither a State lottery nor one authorised by the State Government, punishable with up to six months' imprisonment, fine, or both -- State-run or State-authorised lotteries are entirely outside this prohibition.",
-    "publishing a proposal tied to the drawing of an unauthorised lottery": "Section 297(2) BNS: publishing any proposal to pay a sum, deliver goods, or do/forbear from doing anything for a person's benefit, contingent on the drawing of a ticket, lot, number, or figure in an unauthorised lottery -- a fine-only offence (up to five thousand rupees) targeting promoters/advertisers rather than the office-keeping operator covered by sub-section (1)."
+    "publishing a proposal tied to the drawing of an unauthorised lottery": "Section 297(2) BNS: publishing any proposal to pay a sum, deliver goods, or do/forbear from doing anything for a person's benefit, contingent on the drawing of a ticket, lot, number, or figure in an unauthorised lottery -- a fine-only offence (up to five thousand rupees) targeting promoters/advertisers rather than the office-keeping operator covered by sub-section (1).",
+    "destroying damaging or defiling a place of worship or sacred object with intent to insult religion": "Section 298 BNS, opening Chapter XVI: destroying, damaging, or defiling a place of worship or an object held sacred by any class of persons, with intention of insulting that class's religion or knowledge that the class is likely to consider it an insult, punishable with up to two years' imprisonment, fine, or both -- the knowledge-based alternative means reckless disregard of foreseeable religious-insult impact suffices just as much as deliberate intent.",
+    "deliberate and malicious intention to outrage religious feelings": "The demanding mens rea threshold in Section 299 BNS: mere offence-giving is not enough -- the accused must have deliberately and maliciously intended to outrage the religious feelings of a class of citizens, a standard courts scrutinise closely before allowing prosecutions to proceed, particularly against artistic, academic, or satirical expression.",
+    "insulting religion or religious beliefs through words signs visible representations or electronic means": "The conduct element of Section 299 BNS: insulting, or attempting to insult, the religion or religious beliefs of a class of Indian citizens by spoken or written words, signs, visible representations, electronic means, or otherwise, punishable with up to three years' imprisonment, fine, or both when paired with the section's deliberate-and-malicious-intent requirement.",
+    "voluntarily disturbing a lawful religious assembly": "Section 300 BNS: voluntarily causing disturbance to an assembly lawfully engaged in religious worship or religious ceremonies, punishable with up to one year's imprisonment, fine, or both -- the 'lawfully engaged' qualifier means the protected assembly's religious activity must itself be lawful.",
+    "trespassing on a place of worship sepulchre or funeral site with intent to wound feelings or insult religion": "A limb of Section 301 BNS: committing trespass in a place of worship, a place of sepulchre, or a place set apart for funeral rites or as a depository for remains of the dead, done with intent to wound feelings or insult religion (or knowledge that such wounding/insult is likely), punishable with up to one year's imprisonment, fine, or both.",
+    "offering indignity to a human corpse": "A further limb of Section 301 BNS: offering any indignity to a human corpse, done with intent to wound feelings or insult religion (or knowledge of that likelihood), punished identically to the section's trespass and funeral-disturbance limbs.",
+    "disturbing persons assembled for funeral ceremonies": "The final limb of Section 301 BNS: causing disturbance to persons assembled for the performance of funeral ceremonies, done with intent to wound feelings or insult religion (or knowledge of that likelihood) -- all three Section 301 limbs share this common mental-state requirement.",
+    "uttering words or making sounds gestures or objects with deliberate intent to wound religious feelings": "Section 302 BNS, closing Chapter XVI: with deliberate intention of wounding a specific person's religious feelings, uttering a word, making a sound in their hearing, making a gesture in their sight, or placing an object in their sight, punishable with up to one year's imprisonment, fine, or both -- the individual-targeted sibling of Section 299's class-wide offence, capped lower (one year vs. three) because it protects one person rather than a class."
   },
   "sections": [
     {
@@ -6249,6 +6257,95 @@
           "State lotteries and lotteries authorised by the State Government fall outside sub-section (1)'s prohibition entirely."
         ],
         "how_to_read": "The two sub-sections target different points in the unauthorised-lottery chain -- sub-section (1) the operator who keeps the drawing office (imprisonment-eligible), sub-section (2) anyone who publishes lottery-contingent proposals, such as promoters or advertisers (fine-only) -- and both carve out State-run or State-authorised lotteries from the outset."
+      }
+    },
+    {
+      "number": "298",
+      "title": "Injuring or defiling place of worship with intent to insult religion of any class",
+      "raw_text": "Whoever destroys, damages or defiles any place of worship, or any object held sacred by any class of persons with the intention of thereby insulting the religion of any class of persons or with the knowledge that any class of persons is likely to consider such destruction, damage or defilement as an insult to their religion, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "destroying damaging or defiling a place of worship or sacred object with intent to insult religion"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 298 BNS, opening Chapter XVI, criminalises destroying, damaging, or defiling a place of worship or an object held sacred by any class of persons, where done with the intention of insulting that class's religion, or with knowledge that the class is likely to consider the act an insult to their religion, punishable with up to two years' imprisonment, fine, or both.",
+        "essential_elements": [
+          "destroying, damaging, or defiling a place of worship, or an object held sacred by any class of persons",
+          "intention of thereby insulting the religion of any class of persons, OR knowledge that the class is likely to consider the act an insult to their religion"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The knowledge-based alternative (knowing the class is likely to view it as an insult) means this offence does not require proof of a specifically anti-religious motive -- reckless disregard for the foreseeable religious-insult impact of destroying a sacred place/object suffices just as much as deliberate intent to insult."
+      }
+    },
+    {
+      "number": "299",
+      "title": "Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs",
+      "raw_text": "Whoever, with deliberate and malicious intention of outraging the religious feelings of any class of citizens of India, by words, either spoken or written, or by signs or by visible representations or through electronic means or otherwise, insults or attempts to insult the religion or the religious beliefs of that class, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "key_terms": [
+        "deliberate and malicious intention to outrage religious feelings",
+        "insulting religion or religious beliefs through words signs visible representations or electronic means"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 299 BNS is the Sanhita's central 'hurting religious sentiments' offence -- insulting, or attempting to insult, the religion or religious beliefs of any class of Indian citizens, by spoken or written words, signs, visible representations, or electronic means, done with deliberate and malicious intent to outrage that class's religious feelings, punishable with up to three years' imprisonment, fine, or both.",
+        "essential_elements": [
+          "deliberate and malicious intention of outraging the religious feelings of a class of citizens of India",
+          "insulting or attempting to insult the religion or religious beliefs of that class",
+          "by words (spoken or written), signs, visible representations, electronic means, or otherwise"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The 'deliberate and malicious intention' threshold (a demanding mens rea distinct from Section 298's lower knowledge-based alternative) is the single most litigated phrase in this provision -- it requires more than merely giving offence; the intent must be to outrage religious feelings specifically, which is why courts scrutinise this element closely before allowing prosecutions to proceed, especially against artistic, academic, or satirical expression."
+      }
+    },
+    {
+      "number": "300",
+      "title": "Disturbing religious assembly",
+      "raw_text": "Whoever voluntarily causes disturbance to any assembly lawfully engaged in the performance of religious worship, or religious ceremonies, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+      "key_terms": [
+        "voluntarily disturbing a lawful religious assembly"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 300 BNS protects the orderly conduct of religious worship and ceremonies -- voluntarily causing disturbance to any assembly lawfully engaged in religious worship or ceremonies, punishable with up to one year's imprisonment, fine, or both.",
+        "essential_elements": [
+          "voluntarily causing disturbance",
+          "to an assembly lawfully engaged in the performance of religious worship or religious ceremonies"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "'Lawfully engaged' is a qualifying element -- the assembly's religious activity must itself be lawful for this protection to apply, distinguishing protected worship/ceremony from unlawful assemblies that happen to have a religious character."
+      }
+    },
+    {
+      "number": "301",
+      "title": "Trespassing on burial places, etc.",
+      "raw_text": "Whoever, with the intention of wounding the feelings of any person, or of insulting the religion of any person, or with the knowledge that the feelings of any person are likely to be wounded, or that the religion of any person is likely to be insulted thereby, commits any trespass in any place of worship or on any place of sepulchre, or any place set apart for the performance of funeral rites or as a depository for the remains of the dead, or offers any indignity to any human corpse, or causes disturbance to any persons assembled for the performance of funeral ceremonies, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+      "key_terms": [
+        "trespassing on a place of worship sepulchre or funeral site with intent to wound feelings or insult religion",
+        "offering indignity to a human corpse",
+        "disturbing persons assembled for funeral ceremonies"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 301 BNS protects places and rituals of death and burial -- trespassing in a place of worship, sepulchre, or place set apart for funeral rites/remains, offering indignity to a human corpse, or disturbing persons assembled for funeral ceremonies, where done to wound feelings or insult religion (or with knowledge that such wounding/insult is likely), punishable with up to one year's imprisonment, fine, or both.",
+        "essential_elements": [
+          "intention of wounding any person's feelings, or of insulting any person's religion, OR knowledge that feelings are likely to be wounded or religion likely to be insulted",
+          "and one of: committing trespass in a place of worship or a place of sepulchre/funeral rites/remains-depository, OR offering indignity to a human corpse, OR causing disturbance to persons assembled for funeral ceremonies"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section bundles three distinct physical acts (trespass on sacred/funeral sites, indignity to a corpse, disturbing a funeral assembly) under a single shared mental-state requirement -- any one of the three acts, combined with the intent/knowledge element, completes the offence."
+      }
+    },
+    {
+      "number": "302",
+      "title": "Uttering words, etc., with deliberate intent to wound religious feelings of any person",
+      "raw_text": "Whoever, with the deliberate intention of wounding the religious feelings of any person, utters any word or makes any sound in the hearing of that person or makes any gesture in the sight of that person or places any object in the sight of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+      "key_terms": [
+        "uttering words or making sounds gestures or objects with deliberate intent to wound religious feelings"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 302 BNS, closing Chapter XVI, is the individual-targeted sibling of Section 299's class-wide offence -- with deliberate intent to wound the religious feelings of a specific person, uttering a word, making a sound in their hearing, making a gesture in their sight, or placing an object in their sight, punishable with up to one year's imprisonment, fine, or both.",
+        "essential_elements": [
+          "deliberate intention of wounding the religious feelings of a specific person",
+          "uttering a word, OR making a sound in that person's hearing, OR making a gesture in that person's sight, OR placing an object in that person's sight"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Contrast directly with Section 299: that section protects a 'class of citizens' collectively and carries up to three years, while Section 302 protects an individual 'person' and caps at one year -- the Sanhita treats outraging a class's religious feelings as markedly graver than wounding one individual's."
       }
     }
   ]
