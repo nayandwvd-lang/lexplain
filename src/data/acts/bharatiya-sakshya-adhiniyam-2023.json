@@ -2703,7 +2703,15 @@
           "The presumption covers authorship/publication attribution -- who published it, and when and where."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This overlaps functionally with judicial notice (section 52) for well-known reference works, but operates as a document-specific evidentiary presumption rather than dispensing with proof altogether."
+        "how_to_read": "This overlaps functionally with judicial notice (section 52) for well-known reference works, but operates as a document-specific evidentiary presumption rather than dispensing with proof altogether.",
+        "plain_summary_hi": "लोक/सामान्य हित के विषयों पर संदर्भ पुस्तकों, और उन प्रकाशित मानचित्रों/चार्टों को कवर करने वाली एक विवेकाधीन उपधारणा जिनके कथन संगत हैं -- न्यायालय मान सकता है कि वे उस व्यक्ति द्वारा, और उस समय और स्थान पर लिखे/प्रकाशित किए गए थे जिनका वे दावा करते हैं।",
+        "essential_elements_hi": [
+          "दो श्रेणियाँ: (क) वे पुस्तकें जिन्हें न्यायालय लोक या सामान्य हित के विषयों पर जानकारी के लिए संदर्भित कर सकता है; (ख) प्रकाशित मानचित्र/चार्ट जिनके कथन संगत तथ्य हैं।",
+          "पुस्तक/मानचित्र/चार्ट को न्यायालय के निरीक्षण के लिए प्रस्तुत किया जाना चाहिए।",
+          "उपधारणा लेखकत्व/प्रकाशन आरोपण को कवर करती है -- इसे किसने, कब और कहाँ प्रकाशित किया।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह प्रसिद्ध संदर्भ ग्रंथों के लिए न्यायिक अवधान (धारा 52) के साथ कार्यात्मक रूप से ओवरलैप करती है, लेकिन पूरी तरह प्रमाण को समाप्त करने के बजाय एक दस्तावेज-विशिष्ट साक्ष्यिक उपधारणा के रूप में कार्य करती है।"
       }
     },
     {
@@ -2721,7 +2729,15 @@
           "Express bar: no presumption arises as to the identity of the person who actually sent the message."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "The identity carve-out is deliberate and important -- email accounts can be spoofed, shared, or compromised, so BSA declines to presume that the named originator was the actual human who sent it; that must be independently proved."
+        "how_to_read": "The identity carve-out is deliberate and important -- email accounts can be spoofed, shared, or compromised, so BSA declines to presume that the named originator was the actual human who sent it; that must be independently proved.",
+        "plain_summary_hi": "न्यायालय मान सकता है कि अभिभाषिती को प्राप्त ईमेल वही है जो प्रवर्तक ने भेजने के लिए कंप्यूटर में वास्तव में टाइप/फीड किया था -- लेकिन यह उपधारणा संदेश-अखंडता पर रुक जाती है; यह इस तक विस्तारित नहीं होती कि इसे वास्तव में किसने भेजा।",
+        "essential_elements_hi": [
+          "किसी इलेक्ट्रॉनिक संदेश पर लागू होता है जिसे प्रवर्तक ने मेल सर्वर के माध्यम से उस अभिभाषिती को अग्रेषित किया जिसे यह संबोधित होने का दावा करता है।",
+          "उपधारणा केवल भेजे गए संस्करण और प्राप्त संस्करण (प्रेषण अखंडता) के बीच पत्राचार को कवर करती है।",
+          "स्पष्ट निषेध: वास्तव में संदेश भेजने वाले व्यक्ति की पहचान के संबंध में कोई उपधारणा नहीं उठती।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "पहचान छूट जानबूझकर और महत्वपूर्ण है -- ईमेल खाते नकली बनाए जा सकते हैं, साझा किए जा सकते हैं, या समझौता किए जा सकते हैं, इसलिए बीएसए यह मानने से इनकार करता है कि नामित प्रवर्तक ही वह वास्तविक व्यक्ति था जिसने इसे भेजा; यह स्वतंत्र रूप से सिद्ध किया जाना चाहिए।"
       }
     },
     {
@@ -2736,7 +2752,14 @@
           "Mandatory presumption (\"shall presume\") of due attestation, stamping, and execution."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is a penalty-style presumption against the non-producing party -- it works alongside section 64 (notice to produce triggering secondary evidence) and section 167 (barring later use of a document whose production was earlier refused), together discouraging strategic withholding of documents."
+        "how_to_read": "This is a penalty-style presumption against the non-producing party -- it works alongside section 64 (notice to produce triggering secondary evidence) and section 167 (barring later use of a document whose production was earlier refused), together discouraging strategic withholding of documents.",
+        "plain_summary_hi": "यदि किसी पक्ष को दस्तावेज प्रस्तुत करने की सूचना दी जाती है (धारा 64 का तंत्र) और वह प्रस्तुत करने में विफल रहता है, तो न्यायालय को मानना होगा कि दस्तावेज -- जो भी उसमें कहा गया हो -- कानून की आवश्यकतानुसार ठीक से अनुप्रमाणित, मुद्रांकित, और निष्पादित था।",
+        "essential_elements_hi": [
+          "वहाँ लागू होता है जहाँ किसी दस्तावेज की मांग की गई (अर्थात प्रस्तुति की सूचना दी गई) और वह प्रस्तुत नहीं किया गया।",
+          "विधिवत अनुप्रमाणन, मुद्रांकन, और निष्पादन की अनिवार्य उपधारणा ('मानेगा')।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह अप्रस्तुतकर्ता पक्ष के विरुद्ध एक दंड-शैली की उपधारणा है -- यह धारा 64 (द्वितीयक साक्ष्य को ट्रिगर करने वाली प्रस्तुति की सूचना) और धारा 167 (जिस दस्तावेज की प्रस्तुति पहले अस्वीकार की गई थी उसके बाद के उपयोग को रोकना) के साथ मिलकर काम करती है, जो एक साथ दस्तावेजों को रणनीतिक रूप से रोकने को हतोत्साहित करती हैं।"
       }
     },
     {
@@ -2756,7 +2779,17 @@
           "The Illustrations show \"proper custody\" is interpreted flexibly -- a title-holder's own possession, a mortgagee's possession while the mortgagor holds the land, or a relative's safe-custody holding, are all proper."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This presumption is a major practical tool in title/property litigation involving old deeds where the original executants and attesting witnesses are long dead and direct proof of execution is impossible -- age plus proper custody substitutes for that proof."
+        "how_to_read": "This presumption is a major practical tool in title/property litigation involving old deeds where the original executants and attesting witnesses are long dead and direct proof of execution is impossible -- age plus proper custody substitutes for that proof.",
+        "plain_summary_hi": "क्लासिक 'तीस वर्ष पुराना दस्तावेज' उपधारणा: एक दस्तावेज जो तीस वर्ष पुराना है (या होने का दावा करता है), जो परिस्थितियों में न्यायालय द्वारा उचित समझी गई अभिरक्षा से प्रस्तुत किया गया है, उसे उस हस्तलेख में माना जा सकता है जिसका वह दावा करता है, और, यदि वह निष्पादित/अनुप्रमाणित होने का दावा करता है, तो उसे विधिवत निष्पादित और अनुप्रमाणित माना जा सकता है।",
+        "essential_elements_hi": [
+          "दस्तावेज को तीस वर्ष पुराना होने का दावा करना चाहिए, या सिद्ध होना चाहिए।",
+          "इसे उस विशेष मामले में न्यायालय द्वारा उचित समझी गई अभिरक्षा से प्रस्तुत किया जाना चाहिए -- 'उचित अभिरक्षा' धारा 80 के स्पष्टीकरण से उधार ली गई है।",
+          "उपधारणा हस्तलेख आरोपण को कवर करती है और, निष्पादित/अनुप्रमाणित दस्तावेजों के लिए, विधिवत निष्पादन और अनुप्रमाणन को।",
+          "विवेकाधीन ('मान सकेगा'), अनिवार्य नहीं।",
+          "उदाहरण दिखाते हैं कि 'उचित अभिरक्षा' की व्याख्या लचीले ढंग से की जाती है -- एक हकदार की अपनी अधिकृति, बंधककर्ता के भूमि रखने के दौरान बंधकग्रहीता की अधिकृति, या किसी रिश्तेदार की सुरक्षित-अभिरक्षा धारिता, सभी उचित हैं।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह उपधारणा पुराने विलेखों से जुड़े हक/संपत्ति मुकदमेबाजी में एक प्रमुख व्यावहारिक उपकरण है जहाँ मूल निष्पादक और अनुप्रमाणक गवाह बहुत पहले मर चुके हैं और निष्पादन का प्रत्यक्ष प्रमाण असंभव है -- आयु प्लस उचित अभिरक्षा उस प्रमाण का विकल्प बनती है।"
       }
     },
     {
@@ -2773,7 +2806,16 @@
           "Discretionary (\"may presume\")."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Note the much shorter five-year threshold compared to section 92's thirty years -- a deliberate recognition that electronic records and their custodial systems don't have the same multi-generational lifespan as paper deeds."
+        "how_to_read": "Note the much shorter five-year threshold compared to section 92's thirty years -- a deliberate recognition that electronic records and their custodial systems don't have the same multi-generational lifespan as paper deeds.",
+        "plain_summary_hi": "धारा 92 की तीस-वर्ष उपधारणा का इलेक्ट्रॉनिक-अभिलेख समानांतर, लेकिन एक बहुत छोटी सीमा (पाँच वर्ष) के साथ जो दर्शाती है कि इलेक्ट्रॉनिक अभिलेख कितनी जल्दी पुराने होते हैं और बदलते हैं -- उचित अभिरक्षा से पाँच वर्ष पुराने अभिलेख पर एक इलेक्ट्रॉनिक हस्ताक्षर को उस व्यक्ति द्वारा लगाया गया माना जा सकता है जिसका वह दावा करता है, या उनके द्वारा प्राधिकृत किसी व्यक्ति द्वारा।",
+        "essential_elements_hi": [
+          "इलेक्ट्रॉनिक अभिलेख को पाँच वर्ष पुराना होने का दावा करना चाहिए, या सिद्ध होना चाहिए।",
+          "इसे न्यायालय द्वारा उचित समझी गई अभिरक्षा से प्रस्तुत किया जाना चाहिए -- धारा 81 के उचित-अभिरक्षा स्पष्टीकरण से उधार लेते हुए।",
+          "उपधारणा इलेक्ट्रॉनिक हस्ताक्षर के दावा किए गए हस्ताक्षरकर्ता या उनके प्राधिकृत प्रतिनिधि को आरोपण कवर करती है।",
+          "विवेकाधीन ('मान सकेगा')।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "धारा 92 के तीस वर्षों की तुलना में बहुत छोटी पाँच-वर्ष सीमा पर ध्यान दें -- एक जानबूझकर की गई स्वीकृति कि इलेक्ट्रॉनिक अभिलेखों और उनकी अभिरक्षक प्रणालियों का कागजी विलेखों जैसा बहु-पीढ़ीगत जीवनकाल नहीं होता।"
       }
     },
     {
@@ -2795,7 +2837,19 @@
           "Explanation 3: a document's incidental recital of some unrelated fact doesn't block oral evidence of that unrelated fact -- the exclusion is narrowly about the contract/grant/disposition terms themselves."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This section works hand-in-hand with section 95 -- section 94 says you must prove the document (not orally recreate its terms); section 95 says that once proved, you generally can't contradict/vary it with oral evidence either. Together they form the classic parol evidence rule."
+        "how_to_read": "This section works hand-in-hand with section 95 -- section 94 says you must prove the document (not orally recreate its terms); section 95 says that once proved, you generally can't contradict/vary it with oral evidence either. Together they form the classic parol evidence rule.",
+        "plain_summary_hi": "अध्याय VI की 'सर्वोत्तम साक्ष्य' व्यवस्था को खोलती है: एक बार जब किसी संविदा, अनुदान, या संपत्ति के अन्य व्ययन को दस्तावेज के रूप में रखा जा चुका हो -- या जहाँ भी कानून किसी चीज़ को दस्तावेजीकृत किए जाने की आवश्यकता रखता है -- दस्तावेज स्वयं (या उसका स्वीकार्य द्वितीयक साक्ष्य) ही उसकी शर्तों को सिद्ध करने का एकमात्र तरीका है। दस्तावेज ने क्या कहा इसका मौखिक साक्ष्य बाहर रखा गया है।",
+        "essential_elements_hi": [
+          "वहाँ लागू होता है जहाँ संविदा/अनुदान/संपत्ति-व्ययन की शर्तों को दस्तावेज में रखा गया हो, या कोई भी मामला कानूनी रूप से दस्तावेजीकृत किया जाना आवश्यक हो।",
+          "केवल दस्तावेज स्वयं, या पूर्व धाराओं (57-63) के तहत स्वीकार्य द्वितीयक साक्ष्य, शर्तों को सिद्ध कर सकता है।",
+          "अपवाद 1: जहाँ किसी लोक अधिकारी की नियुक्ति लिखित रूप में होनी चाहिए, और किसी ने वास्तव में उस पद पर काम किया है, नियुक्ति लेख को स्वयं सिद्ध करने की आवश्यकता नहीं है।",
+          "अपवाद 2: प्रोबेट की गई वसीयतों को प्रोबेट से सिद्ध किया जा सकता है।",
+          "स्पष्टीकरण 1: लागू होता है चाहे शर्तें एक दस्तावेज में हों या कई में फैली हों।",
+          "स्पष्टीकरण 2: जहाँ कई मूल मौजूद हों (जैसे प्रतिलिपियाँ), केवल एक को सिद्ध करना पर्याप्त है।",
+          "स्पष्टीकरण 3: किसी दस्तावेज द्वारा किसी असंबद्ध तथ्य का आकस्मिक उल्लेख उस असंबद्ध तथ्य के मौखिक साक्ष्य को नहीं रोकता -- बहिष्करण संकीर्ण रूप से स्वयं संविदा/अनुदान/व्ययन की शर्तों के बारे में है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह धारा धारा 95 के साथ हाथ में हाथ डालकर काम करती है -- धारा 94 कहती है कि आपको दस्तावेज सिद्ध करना होगा (उसकी शर्तों को मौखिक रूप से पुनर्निर्मित नहीं करना); धारा 95 कहती है कि एक बार सिद्ध होने पर, आप आमतौर पर इसे मौखिक साक्ष्य से भी विरोधाभासी/परिवर्तित नहीं कर सकते। साथ में वे क्लासिक मौखिक-साक्ष्य नियम (parol evidence rule) बनाते हैं।"
       }
     },
     {
@@ -2819,7 +2873,21 @@
         "exceptions_and_qualifications": [
           "The registered/required-to-be-in-writing carve-out inside proviso 4 is a frequent litigation flashpoint -- oral rescission/modification of a registered sale deed or lease cannot be proved even under this proviso."
         ],
-        "how_to_read": "Treat this as: general bar, then work through the provisos as recognised exceptions -- vitiating facts, silence-filling collateral agreements, conditions precedent, subsequent rescission/variation (subject to the writing/registration carve-out), usage/custom, and application-to-facts evidence. This is one of the most litigated sections in evidence law -- know each proviso by its function, not just its number."
+        "how_to_read": "Treat this as: general bar, then work through the provisos as recognised exceptions -- vitiating facts, silence-filling collateral agreements, conditions precedent, subsequent rescission/variation (subject to the writing/registration carve-out), usage/custom, and application-to-facts evidence. This is one of the most litigated sections in evidence law -- know each proviso by its function, not just its number.",
+        "plain_summary_hi": "मूल मौखिक-साक्ष्य नियम: एक बार जब धारा 94 के तहत किसी दस्तावेज की शर्तें सिद्ध हो जाएँ, तो उसके पक्ष (या उनके प्रतिनिधि) उन शर्तों का खंडन करने, उन्हें बदलने, उनमें जोड़ने, या उनसे घटाने के लिए मौखिक साक्ष्य का उपयोग नहीं कर सकते। लेकिन यह निषेध परंतुकों के रूप में सूचीबद्ध छह महत्वपूर्ण छूटों के साथ आता है।",
+        "essential_elements_hi": [
+          "सामान्य निषेध: पक्षों/उनके हित-प्रतिनिधियों के बीच, सिद्ध दस्तावेज शर्तों का खंडन करने, बदलने, जोड़ने, या घटाने के लिए कोई मौखिक करार/कथन स्वीकार्य नहीं है।",
+          "परंतुक 1: दस्तावेज को अमान्य करने वाले तथ्य (धोखाधड़ी, अभित्रास, अवैधता, विधिवत निष्पादन की कमी, अक्षमता, प्रतिफल की विफलता, भूल) फिर भी सिद्ध किए जा सकते हैं।",
+          "परंतुक 2: किसी ऐसे विषय पर एक अलग मौखिक करार जिस पर दस्तावेज मौन है, और जो इससे असंगत नहीं है, सिद्ध किया जा सकता है -- दस्तावेज की औपचारिकता की मात्रा एक संगत कारक है।",
+          "परंतुक 3: दायित्व जुड़ने की पूर्व शर्त के रूप में काम करने वाला एक अलग मौखिक करार सिद्ध किया जा सकता है।",
+          "परंतुक 4: रद्द करने या संशोधित करने का एक अलग बाद का मौखिक करार सिद्ध किया जा सकता है -- सिवाय जहाँ लिखत को कानूनी रूप से लिखित रूप में होना आवश्यक हो या पंजीकृत किया गया हो।",
+          "परंतुक 5 और 6: उस विवरण के संविदाओं से असूचित प्रसंग जोड़ने वाली प्रथा/रूढ़ि सिद्ध की जा सकती है, बशर्ते यह दस्तावेज की स्पष्ट शर्तों के विरुद्ध न हो।",
+          "परंतुक 7 (अंतिम): यह दिखाने वाले तथ्य कि दस्तावेज की भाषा मौजूदा तथ्यों से कैसे संबंधित है (अर्थात दस्तावेज को लागू करने के लिए आवश्यक तथ्य) फिर भी सिद्ध किए जा सकते हैं।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "परंतुक 4 के भीतर पंजीकृत/लिखित-रूप-आवश्यक छूट एक बार-बार होने वाला मुकदमेबाजी-ज्वलनबिंदु है -- किसी पंजीकृत विक्रय विलेख या पट्टे का मौखिक रद्दीकरण/संशोधन इस परंतुक के तहत भी सिद्ध नहीं किया जा सकता।"
+        ],
+        "how_to_read_hi": "इसे इस तरह मानें: सामान्य निषेध, फिर मान्यता-प्राप्त अपवादों के रूप में परंतुकों के माध्यम से काम करें -- अमान्यकारी तथ्य, मौन-भराव सहायक करार, पूर्व शर्तें, बाद का रद्दीकरण/परिवर्तन (लेखन/पंजीकरण छूट के अधीन), प्रथा/रूढ़ि, और तथ्यों-पर-अनुप्रयोग साक्ष्य। यह साक्ष्य विधि की सबसे अधिक मुकदमेबाजी वाली धाराओं में से एक है -- प्रत्येक परंतुक को उसके कार्य से जानें, केवल उसकी संख्या से नहीं।"
       }
     },
     {
@@ -2836,7 +2904,14 @@
           "No evidence of outside facts is admissible to resolve the ambiguity or supply the missing content."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Contrast this with sections 97-101, which deal with ambiguity that only emerges when the document is applied to the facts (\"latent\" ambiguity) -- there, extrinsic evidence IS admissible. Section 96 is specifically about ambiguity visible on the document's face alone."
+        "how_to_read": "Contrast this with sections 97-101, which deal with ambiguity that only emerges when the document is applied to the facts (\"latent\" ambiguity) -- there, extrinsic evidence IS admissible. Section 96 is specifically about ambiguity visible on the document's face alone.",
+        "plain_summary_hi": "जहाँ कोई दस्तावेज अपने स्वयं के चेहरे पर अस्पष्ट या दोषपूर्ण है (एक 'प्रकट' अस्पष्टता, दस्तावेज के बाहर देखे बिना दिखाई देने वाली), बाहरी साक्ष्य का उपयोग इसे स्पष्ट करने या कमी भरने के लिए नहीं किया जा सकता -- दस्तावेज उस शर्त के संबंध में अनिश्चितता के कारण बस विफल हो जाता है।",
+        "essential_elements_hi": [
+          "केवल दस्तावेज के स्वयं के चेहरे पर प्रकट अस्पष्टता/दोष पर लागू होता है।",
+          "अस्पष्टता हल करने या गायब विषय-वस्तु प्रदान करने के लिए बाहरी तथ्यों का कोई साक्ष्य स्वीकार्य नहीं है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "इसकी तुलना धारा 97-101 से करें, जो उस अस्पष्टता से निपटती हैं जो केवल तब उभरती है जब दस्तावेज को तथ्यों पर लागू किया जाता है ('गुप्त' अस्पष्टता) -- वहाँ, बाहरी साक्ष्य स्वीकार्य है। धारा 96 विशेष रूप से केवल दस्तावेज के चेहरे पर दिखाई देने वाली अस्पष्टता के बारे में है।"
       }
     },
     {
