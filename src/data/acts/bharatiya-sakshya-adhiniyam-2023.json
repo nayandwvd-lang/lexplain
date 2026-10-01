@@ -2294,7 +2294,15 @@
           "The Court may direct any other person to apply the public key on that certificate to verify the signature."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Under the Information Technology Act, 2000 scheme, \"digital signature\" (asymmetric cryptosystem + hash function, certified by a licensed Certifying Authority) is a narrower, more specific category than the general \"electronic signature\". This section gives the Court a direct verification route for that specific, technically standardised category."
+        "how_to_read": "Under the Information Technology Act, 2000 scheme, \"digital signature\" (asymmetric cryptosystem + hash function, certified by a licensed Certifying Authority) is a narrower, more specific category than the general \"electronic signature\". This section gives the Court a direct verification route for that specific, technically standardised category.",
+        "plain_summary_hi": "धारा 72 का डिजिटल समानांतर -- हस्तलेख की दृष्टिगत तुलना करने के बजाय, न्यायालय डिजिटल हस्ताक्षर प्रमाणपत्र प्रस्तुत करवाता है और किसी से उस पर सार्वजनिक कुंजी लागू करवाता है ताकि यह क्रिप्टोग्राफिक रूप से सत्यापित किया जा सके कि डिजिटल हस्ताक्षर सही है या नहीं।",
+        "essential_elements_hi": [
+          "विशेष रूप से डिजिटल हस्ताक्षरों पर लागू होता है (व्यापक 'इलेक्ट्रॉनिक हस्ताक्षरों' से अलग)।",
+          "न्यायालय कथित हस्ताक्षरकर्ता, नियंत्रक, या प्रमाणन प्राधिकारी को डिजिटल हस्ताक्षर प्रमाणपत्र प्रस्तुत करने का निर्देश दे सकता है।",
+          "न्यायालय किसी अन्य व्यक्ति को हस्ताक्षर सत्यापित करने के लिए उस प्रमाणपत्र पर सार्वजनिक कुंजी लागू करने का निर्देश दे सकता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "सूचना प्रौद्योगिकी अधिनियम, 2000 की योजना के तहत, 'डिजिटल हस्ताक्षर' (असममित क्रिप्टोसिस्टम + हैश फंक्शन, लाइसेंसशुदा प्रमाणन प्राधिकारी द्वारा प्रमाणित) सामान्य 'इलेक्ट्रॉनिक हस्ताक्षर' से एक संकुचित, अधिक विशिष्ट श्रेणी है। यह धारा न्यायालय को उस विशिष्ट, तकनीकी रूप से मानकीकृत श्रेणी के लिए एक प्रत्यक्ष सत्यापन मार्ग देती है।"
       }
     },
     {
@@ -2313,7 +2321,15 @@
           "Everything not fitting sub-section (1) is private, by residual definition."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is purely a classification section -- it doesn't itself prescribe how to prove either category. Sections 75-77 give the proof machinery for public documents (certified copies etc.); private documents fall back on the ordinary primary/secondary evidence rules from Chapter V."
+        "how_to_read": "This is purely a classification section -- it doesn't itself prescribe how to prove either category. Sections 75-77 give the proof machinery for public documents (certified copies etc.); private documents fall back on the ordinary primary/secondary evidence rules from Chapter V.",
+        "plain_summary_hi": "प्रत्येक दस्तावेज को दो समूहों में से एक में वर्गीकृत करती है: लोक दस्तावेज (सरकार/शासकीय निकायों/अधिकारियों के कृत्यों के अभिलेख, या किसी लोक रजिस्ट्री का किसी निजी दस्तावेज का अभिलेख) या निजी दस्तावेज (बाकी सब कुछ)। यह वर्गीकरण मायने रखता है क्योंकि आगे आने वाली धाराओं में लोक दस्तावेजों को अपना एक आसान प्रमाण मार्ग मिलता है।",
+        "essential_elements_hi": [
+          "लोक दस्तावेजों में शामिल हैं: संप्रभु प्राधिकार के कृत्य/अभिलेख; शासकीय निकायों और अधिकरणों के कृत्य/अभिलेख; विधायी, न्यायिक, और कार्यपालक लोक अधिकारियों के कृत्य/अभिलेख, चाहे भारत के हों या किसी विदेशी देश के।",
+          "लोक दस्तावेजों में एक लोक अभिलेख (जैसे उप-पंजीयक की रजिस्ट्री) भी शामिल है जो स्वयं किसी निजी दस्तावेज की प्रति रखता है।",
+          "उपधारा (1) में फिट न बैठने वाली हर चीज़ अवशिष्ट परिभाषा से निजी है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह विशुद्ध रूप से एक वर्गीकरण धारा है -- यह स्वयं यह निर्धारित नहीं करती कि किसी भी श्रेणी को कैसे सिद्ध किया जाए। धारा 75-77 लोक दस्तावेजों के लिए प्रमाण तंत्र (प्रमाणित प्रतियाँ आदि) देती हैं; निजी दस्तावेज अध्याय V के सामान्य प्राथमिक/द्वितीयक साक्ष्य नियमों पर वापस जाते हैं।"
       }
     },
     {
@@ -2332,7 +2348,16 @@
           "A document satisfying these formalities is what the Adhiniyam calls a \"certified copy\"."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "The Explanation widens \"custody\" so that an officer routinely tasked with issuing such copies counts as having custody, even if they aren't the document's original keeper -- important in large record offices where issuing copies is delegated to a specific desk/officer."
+        "how_to_read": "The Explanation widens \"custody\" so that an officer routinely tasked with issuing such copies counts as having custody, even if they aren't the document's original keeper -- important in large record offices where issuing copies is delegated to a specific desk/officer.",
+        "plain_summary_hi": "'प्रमाणित प्रतियों' के लिए तंत्र बनाती है: एक अभिरक्षक लोक अधिकारी को, मांग पर और शुल्क के भुगतान पर, किसी निरीक्षण-योग्य लोक दस्तावेज की एक प्रति देनी होगी जिसके नीचे एक दिनांकित, हस्ताक्षरित (और जहाँ लागू हो, मुद्रांकित) प्रमाणपत्र हो जो पुष्टि करे कि यह एक सच्ची प्रति है।",
+        "essential_elements_hi": [
+          "केवल उन लोक दस्तावेजों पर लागू होता है जिनका निरीक्षण करने का अनुरोधकर्ता को अधिकार है।",
+          "अधिकारी को मांग पर और कानूनी शुल्क के भुगतान पर प्रति देनी होगी।",
+          "प्रमाणपत्र प्रति के नीचे होना चाहिए, दिनांकित, और अधिकारी के नाम तथा शासकीय पदनाम के साथ हस्ताक्षरित होना चाहिए, और यदि अधिकारी मुद्रा उपयोग करने के लिए प्राधिकृत है तो मुद्रांकित होना चाहिए।",
+          "इन औपचारिकताओं को पूरा करने वाला दस्तावेज वही है जिसे अधिनियम 'प्रमाणित प्रति' कहता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "स्पष्टीकरण 'अभिरक्षा' को व्यापक बनाता है ताकि एक अधिकारी जिसे नियमित रूप से ऐसी प्रतियाँ जारी करने का काम सौंपा गया हो, उसे अभिरक्षा रखने वाला माना जाए, भले ही वह दस्तावेज का मूल रखवाला न हो -- बड़े अभिलेख कार्यालयों में महत्वपूर्ण जहाँ प्रतियाँ जारी करना किसी विशिष्ट डेस्क/अधिकारी को सौंपा जाता है।"
       }
     },
     {
@@ -2347,7 +2372,14 @@
           "The certified copy proves the contents of the public document (or the certified part of it) it purports to copy."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is a standalone, self-sufficient proof route for public documents -- it operates independently of the general primary/secondary evidence hierarchy in sections 57-63."
+        "how_to_read": "This is a standalone, self-sufficient proof route for public documents -- it operates independently of the general primary/secondary evidence hierarchy in sections 57-63.",
+        "plain_summary_hi": "धारा 75 का लाभ: एक बार जब आपके पास प्रमाणित प्रति हो, तो आप इसे न्यायालय में प्रस्तुत करके अंतर्निहित लोक दस्तावेज की विषय-वस्तु सिद्ध कर सकते हैं -- मूल की हानि को अलग से स्थापित करने या सामान्य द्वितीयक-साक्ष्य शर्तों को पूरा करने की आवश्यकता नहीं है।",
+        "essential_elements_hi": [
+          "केवल धारा 75 के तहत बनाई गई प्रमाणित प्रतियाँ ही इस शॉर्टकट के लिए योग्य हैं।",
+          "प्रमाणित प्रति उस लोक दस्तावेज (या उसके प्रमाणित भाग) की विषय-वस्तु सिद्ध करती है जिसकी वह प्रतिलिपि होने का दावा करती है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह लोक दस्तावेजों के लिए एक स्वतंत्र, आत्मनिर्भर प्रमाण मार्ग है -- यह धारा 57-63 के सामान्य प्राथमिक/द्वितीयक साक्ष्य पदानुक्रम से स्वतंत्र रूप से संचालित होता है।"
       }
     },
     {
@@ -2366,7 +2398,18 @@
           "Other foreign public documents: original, or a copy certified by the foreign legal keeper plus a Notary Public/Indian Consul/diplomatic agent certificate, plus proof of the document's character under the foreign law."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Read this as a menu of convenient, self-authenticating proof shortcuts for specific document types -- it supplements rather than replaces sections 75-76's general certified-copy mechanism for public documents that don't fit these specific categories."
+        "how_to_read": "Read this as a menu of convenient, self-authenticating proof shortcuts for specific document types -- it supplements rather than replaces sections 75-76's general certified-copy mechanism for public documents that don't fit these specific categories.",
+        "plain_summary_hi": "धारा 75-76 के सामान्य प्रमाणित-प्रति मार्ग से आगे, यह धारा विशिष्ट शासकीय सामग्री की विशेष श्रेणियों -- सरकारी आदेश/अधिसूचनाएँ, विधायी कार्यवाहियाँ, राज्यपाल/राष्ट्रपति की उद्घोषणाएँ, विदेशी सरकार के कृत्य, नगरपालिका कार्यवाहियाँ, और अन्य विदेशी लोक दस्तावेज -- के लिए विशिष्ट, तैयार प्रमाण विधियाँ देती है।",
+        "essential_elements_hi": [
+          "सरकारी कृत्य/आदेश/अधिसूचनाएँ: विभागाध्यक्ष द्वारा प्रमाणित विभागीय अभिलेख, या सरकार-मुद्रित होने का दावा करने वाला दस्तावेज।",
+          "विधायी कार्यवाहियाँ: सदन की पत्रिकाएँ, प्रकाशित अधिनियम/सार, या सरकार-मुद्रित प्रतियाँ।",
+          "राष्ट्रपति/राज्यपाल/प्रशासक की उद्घोषणाएँ, आदेश, विनियम: राजपत्र की प्रतियाँ या उद्धरण।",
+          "विदेशी कार्यपालक कृत्य/विधायी कार्यवाहियाँ: आधिकारिक विदेशी पत्रिकाएँ, मुद्रा-प्रमाणित प्रतियाँ, या किसी केंद्रीय अधिनियम में मान्यता।",
+          "नगरपालिका/स्थानीय निकाय कार्यवाहियाँ: कानूनी रखवाले द्वारा प्रमाणित प्रतियाँ, या निकाय-प्राधिकृत मुद्रित पुस्तक।",
+          "अन्य विदेशी लोक दस्तावेज: मूल, या विदेशी कानूनी रखवाले द्वारा प्रमाणित प्रति प्लस नोटरी पब्लिक/भारतीय वाणिज्य दूत/राजनयिक अभिकर्ता का प्रमाणपत्र, प्लस विदेशी कानून के तहत दस्तावेज की प्रकृति का प्रमाण।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "इसे विशिष्ट दस्तावेज प्रकारों के लिए सुविधाजनक, स्व-प्रामाणिक प्रमाण शॉर्टकटों की एक सूची मानें -- यह उन लोक दस्तावेजों के लिए धारा 75-76 के सामान्य प्रमाणित-प्रति तंत्र का पूरक है, प्रतिस्थापन नहीं, जो इन विशिष्ट श्रेणियों में फिट नहीं बैठते।"
       }
     },
     {
@@ -2385,7 +2428,16 @@
           "Sub-section (2) separately presumes the certifying officer's claimed official character/capacity at the time of signing."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is a \"shall presume\" (mandatory, though rebuttable) provision -- contrast with the \"may presume\" (discretionary) presumptions later in this cluster (e.g. sections 82-83, 88-90). The presumption of genuineness saves the proponent from separately proving the officer's signature and authority every time a certified copy is tendered."
+        "how_to_read": "This is a \"shall presume\" (mandatory, though rebuttable) provision -- contrast with the \"may presume\" (discretionary) presumptions later in this cluster (e.g. sections 82-83, 88-90). The presumption of genuineness saves the proponent from separately proving the officer's signature and authority every time a certified copy is tendered.",
+        "plain_summary_hi": "एक अनिवार्य उपधारणा: एक दस्तावेज जो अपने चेहरे पर एक प्रमाणपत्र/प्रमाणित प्रति/अन्य कानून द्वारा स्वीकार्य बनाया गया दस्तावेज है और जो किसी केंद्रीय या राज्य सरकार के अधिकारी द्वारा विधिवत प्रमाणित होने का दावा करता है, को वास्तविक मानकर चलना होगा, बशर्ते वह कानूनी रूप से निर्धारित रूप और तरीके में पर्याप्त रूप से हो। न्यायालय को यह भी मानना होगा कि प्रमाणित करने वाले अधिकारी ने वास्तव में वह शासकीय पद धारण किया जिसका वह दावा करता है।",
+        "essential_elements_hi": [
+          "दस्तावेज को एक प्रमाणपत्र, प्रमाणित प्रति, या अन्य दस्तावेज होने का दावा करना चाहिए जिसे कोई कानून किसी विशेष तथ्य के साक्ष्य के रूप में स्वीकार्य घोषित करता है।",
+          "इसे किसी केंद्रीय या राज्य सरकार के अधिकारी द्वारा विधिवत प्रमाणित होने का दावा करना चाहिए।",
+          "परंतुक: यह कानून द्वारा निर्देशित रूप और तरीके में पर्याप्त रूप से होना चाहिए -- निर्धारित रूप से बहुत अधिक विचलित होने वाला दस्तावेज उपधारणा खो देता है।",
+          "उपधारा (2) अलग से हस्ताक्षर के समय प्रमाणित करने वाले अधिकारी के दावा किए गए शासकीय चरित्र/क्षमता की उपधारणा करती है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह एक 'मानेगा' (अनिवार्य, हालाँकि खंडनीय) प्रावधान है -- इसकी तुलना इस समूह में आगे की 'मान सकेगा' (विवेकाधीन) उपधारणाओं (जैसे धारा 82-83, 88-90) से करें। वास्तविकता की उपधारणा प्रस्तावक को हर बार प्रमाणित प्रति प्रस्तुत किए जाने पर अलग से अधिकारी के हस्ताक्षर और प्राधिकार को सिद्ध करने से बचाती है।"
       }
     },
     {
@@ -2401,7 +2453,15 @@
           "Three simultaneous presumptions follow: genuineness, truth of any recorded circumstances, and due/proper taking of the evidence or statement."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is the presumption that gives a properly signed 164-statement-style record (recorded confession/statement, or a deposition) its evidentiary weight without the recording officer needing to separately prove every formality each time it's tendered -- though it remains rebuttable."
+        "how_to_read": "This is the presumption that gives a properly signed 164-statement-style record (recorded confession/statement, or a deposition) its evidentiary weight without the recording officer needing to separately prove every formality each time it's tendered -- though it remains rebuttable.",
+        "plain_summary_hi": "जहाँ कोई दस्तावेज किसी न्यायाधीश/मजिस्ट्रेट/प्राधिकृत अधिकारी के किसी गवाह के साक्ष्य के हस्ताक्षरित अभिलेख, या किसी कैदी/अभियुक्त के कथन या संस्वीकृति होने का दावा करता है, न्यायालय को एक साथ तीन बातें माननी होंगी: अभिलेख वास्तविक है, अभिलेखन की परिस्थितियों का कोई भी विवरण सत्य है, और अंतर्निहित साक्ष्य/कथन/संस्वीकृति विधिवत (अर्थात ठीक से) ली गई थी।",
+        "essential_elements_hi": [
+          "न्यायिक कार्यवाही में या कानूनी रूप से प्राधिकृत अधिकारी के समक्ष साक्ष्य के अभिलेखों/ज्ञापनों पर, और किसी कैदी या अभियुक्त के कथनों या संस्वीकृतियों पर लागू होता है।",
+          "दस्तावेज को किसी न्यायाधीश, मजिस्ट्रेट, या इसे लेने वाले प्राधिकृत अधिकारी द्वारा हस्ताक्षरित होने का दावा करना चाहिए।",
+          "तीन समवर्ती उपधारणाएँ अनुसरण करती हैं: वास्तविकता, अभिलिखित परिस्थितियों की सत्यता, और साक्ष्य या कथन का विधिवत/उचित रूप से लिया जाना।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह वह उपधारणा है जो एक ठीक से हस्ताक्षरित 164-शैली के कथन अभिलेख (अभिलिखित संस्वीकृति/कथन, या एक अभिसाक्ष्य) को उसका साक्ष्यिक महत्व देती है, बिना अभिलेखक अधिकारी को हर बार प्रस्तुत किए जाने पर हर औपचारिकता को अलग से सिद्ध करने की आवश्यकता के -- हालाँकि यह खंडनीय बनी रहती है।"
       }
     },
     {
@@ -2420,7 +2480,16 @@
           "The Explanation relaxes this: custody isn't improper merely because it deviates, so long as a legitimate origin is proved or is rendered probable by the circumstances."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "\"Proper custody\" as defined here is a recurring concept -- the Explanation is expressly incorporated by reference into section 92 (thirty-year-old documents) as well, so master the definition once and apply it in both places."
+        "how_to_read": "\"Proper custody\" as defined here is a recurring concept -- the Explanation is expressly incorporated by reference into section 92 (thirty-year-old documents) as well, so master the definition once and apply it in both places.",
+        "plain_summary_hi": "वास्तविकता की उपधारणा को राजपत्र, समाचार-पत्रों/पत्रिकाओं, और किसी भी ऐसे दस्तावेज तक विस्तारित करती है जिसे कोई कानून किसी विशेष व्यक्ति को रखने की आवश्यकता रखता है -- जब तक कि यह कानूनी रूप से आवश्यक रूप में पर्याप्त रूप से रखा गया हो और स्पष्टीकरण में परिभाषित 'उचित अभिरक्षा' से आता हो।",
+        "essential_elements_hi": [
+          "तीन श्रेणियों को कवर करती है: राजपत्र; समाचार-पत्र/पत्रिकाएँ; और कानून-अनिवार्य रखे गए दस्तावेज।",
+          "दस्तावेज कानूनी रूप से आवश्यक रूप में पर्याप्त रूप से होना चाहिए।",
+          "इसे उचित अभिरक्षा से प्रस्तुत किया जाना चाहिए -- अर्थात वह स्थान जहाँ, और वह व्यक्ति जिसके द्वारा, इसे रखा जाना आवश्यक है।",
+          "स्पष्टीकरण इसे ढीला करता है: अभिरक्षा केवल इसलिए अनुचित नहीं है कि वह विचलित होती है, जब तक कि एक वैध उद्गम सिद्ध हो या परिस्थितियों द्वारा संभाव्य बनाया गया हो।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यहाँ परिभाषित 'उचित अभिरक्षा' एक बार-बार आने वाली अवधारणा है -- स्पष्टीकरण को धारा 92 (तीस वर्ष पुराने दस्तावेज) में भी स्पष्ट रूप से संदर्भ द्वारा शामिल किया गया है, इसलिए परिभाषा को एक बार मास्टर करें और दोनों जगह लागू करें।"
       }
     },
     {
