@@ -188,7 +188,70 @@
     "buying a child for prostitution or illicit purposes": "The mirror-image offence to Section 98 BNS, created by Section 99 BNS: buying, hiring, or otherwise obtaining possession of a person under eighteen with intent that they be used for prostitution, illicit intercourse, or unlawful/immoral purposes — punishable with a mandatory minimum of seven years' rigorous imprisonment extendable to fourteen years, plus fine.",
     "minimum mandatory sentence": "A sentencing structure used across several BNS provisions in Chapter V (e.g. Sections 65, 70, 71, 99) that fixes a statutory floor below which a court cannot sentence on conviction, even where it might otherwise exercise downward sentencing discretion — reflecting the legislature's intent to guarantee a severe baseline punishment for specified offences against women and children.",
     "abuse of position of authority or fiduciary relationship": "The operative aggravating ground for the Section 68 BNS offence (sexual intercourse by a person in authority): a public servant, superintendent or manager of a jail/remand home/other custodial institution, or a member of hospital staff who abuses the position of authority or fiduciary relationship they hold over a woman in their custody, charge, or presence to induce or seduce her into sexual intercourse not amounting to rape commits this distinct offence.",
-    "deceitful inducement of belief in lawful marriage": "The offence in Section 81 BNS of a man, by deceit, causing any woman who is not lawfully married to him to believe that she is lawfully married to him and to cohabit or have sexual intercourse with him in that belief — punishable with up to ten years' imprisonment plus fine, distinct from bigamy since it requires no actual prior or subsequent marriage ceremony, only the deceitful inducement of belief."
+    "deceitful inducement of belief in lawful marriage": "The offence in Section 81 BNS of a man, by deceit, causing any woman who is not lawfully married to him to believe that she is lawfully married to him and to cohabit or have sexual intercourse with him in that belief — punishable with up to ten years' imprisonment plus fine, distinct from bigamy since it requires no actual prior or subsequent marriage ceremony, only the deceitful inducement of belief.",
+    "culpable homicide": "Defined in Section 100 BNS as causing death by an act done with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that the act is likely to cause death — the genus of which murder (Section 101) is a narrower, more culpable species; the three Explanations clarify that death of a person suffering a prior disorder/disease/infirmity still counts if accelerated, that causing death of a child not yet born alive does not count, and that causing the death of a quick unborn child may fall under a separate offence (Section 92).",
+    "accelerating an existing disorder": "Explanation 1 to Section 100 BNS: a person who causes bodily injury to another already labouring under a disorder, disease, or bodily infirmity, and thereby accelerates that person's death, is deemed to have caused their death — a pre-existing vulnerability of the victim is no defence to a culpable homicide charge.",
+    "live-birth threshold for homicide": "Explanation 2 to Section 100 BNS: causing the death of a child in the mother's womb is not culpable homicide, but causing the death of a living child who has not completely come out of its mother's womb may amount to culpable homicide — the dividing line is whether any part of the child has been brought forth alive, even if the umbilical cord is not yet cut.",
+    "murder (BNS definition)": "Defined in Section 101 BNS: culpable homicide is murder if the act causing death is done with the intention of causing death (clause a), or with intention to cause bodily injury the offender knows to be likely to cause death (clause b), or with intention to cause bodily injury sufficient in the ordinary course of nature to cause death (clause c), or with knowledge the act is so imminently dangerous that it must in all probability cause death or such injury, without any excuse for incurring that risk (clause d) — subject to the five Exceptions that downgrade murder to culpable homicide not amounting to murder.",
+    "grave and sudden provocation exception": "Exception 1 to Section 101 BNS: culpable homicide is not murder if the offender, deprived of self-control by grave and sudden provocation, causes the death of the person who gave the provocation or of any other person by mistake or accident — subject to the proviso that the provocation must not be sought or voluntarily provoked by the offender, must not be given by anything done in obedience to law or by a public servant acting lawfully, and must not be given by anything done in the lawful exercise of the right of private defence.",
+    "private defence exceeding power exception": "Exception 2 to Section 101 BNS: culpable homicide is not murder if the offender, in the exercise in good faith of the right of private defence of person or property, exceeds the power given by law and causes death without premeditation and without any intention of doing more harm than necessary for the purpose of such defence.",
+    "public servant exceeding power exception": "Exception 3 to Section 101 BNS: culpable homicide is not murder if a public servant, or a person aiding a public servant acting for the advancement of public justice, exceeds the powers given by law and causes death by an act believed in good faith to be lawful and necessary for the due discharge of duty, without ill-will towards the person whose death is caused.",
+    "sudden fight exception": "Exception 4 to Section 101 BNS: culpable homicide is not murder if it is committed without premeditation in a sudden fight in the heat of passion upon a sudden quarrel, without the offender having taken undue advantage or acted in a cruel or unusual manner — the Explanation clarifies it is immaterial which party offers the provocation or commences the assault.",
+    "consent to death exception": "Exception 5 to Section 101 BNS: culpable homicide is not murder if the person whose death is caused, being above eighteen years of age, suffers death or takes the risk of death with their own consent.",
+    "transferred malice in homicide": "The doctrine codified in Section 102 BNS: where a person, intending or knowing their act likely to cause the death of one person, by doing an act causes the death of a different person whose death they neither intended nor knew likely, the culpable homicide committed is of the same description as it would have been against the intended victim — malice is 'transferred' to the actual victim, illustrated by the mistaken-target shooting example.",
+    "mob lynching provision": "Section 103(2) BNS, a provision with no IPC equivalent: when a group of five or more persons acting in concert commits murder on grounds including race, caste, community, sex, place of birth, language, personal belief, or any other similar ground, each member of that group is punishable with death or life imprisonment plus fine — a direct legislative response to mob lynching incidents.",
+    "discriminatory-ground group murder": "The identity of the aggravating grounds listed in Section 103(2) BNS for mob-lynching-type group murder — race, caste or community, sex, place of birth, language, personal belief, or any other similar ground — mirroring the discriminatory-ground language also used for group grievous hurt under Section 117(4) BNS.",
+    "life-convict committing a further murder": "Section 104 BNS: a person already under sentence of imprisonment for life who commits murder is punishable with death or imprisonment for the remainder of that person's natural life — a distinct, more severe punishment provision from the general murder punishment in Section 103, reflecting the aggravation of reoffending while already serving a life sentence.",
+    "culpable homicide not amounting to murder (punishment)": "Section 105 BNS fixes a two-tier punishment scheme for culpable homicide not amounting to murder (i.e., homicide falling within one of Section 101's five Exceptions, or otherwise not meeting murder's threshold): imprisonment for life or up to ten years plus fine if the act was done with intention of causing death or injury likely to cause death, or up to ten years plus fine if done only with knowledge that death was a likely consequence, without intent to cause death.",
+    "causing death by negligence": "Section 106 BNS: causing death by a rash or negligent act not amounting to culpable homicide, punishable with up to five years' imprisonment plus fine — distinguished from culpable homicide by the complete absence of intention or knowledge that death was a likely consequence, the fault lying purely in a failure to exercise reasonable care.",
+    "registered medical practitioner carve-out": "The proviso to Section 106(1) BNS capping punishment at two years' imprisonment (instead of five) where the rash or negligent act causing death was committed by a registered medical practitioner performing a medical procedure — a protective carve-out for doctors acting in a professional capacity, absent in the former IPC's Section 304A.",
+    "hit-and-run enhancement": "Section 106(2) BNS, a new provision with no IPC equivalent: whoever causes death by rash or negligent driving of a vehicle and escapes without reporting to a police officer or Magistrate soon after the incident is punishable with up to ten years' imprisonment plus fine — a sharp escalation from the base five-year punishment, targeting hit-and-run flight from the scene.",
+    "abetment of suicide of a vulnerable person": "Section 107(2) BNS: where a child, a person of unsound mind, an intoxicated person, or a person in a delirious or otherwise incapacitated state is abetted to commit suicide, the abettor is punishable with death or imprisonment for life or imprisonment up to ten years plus fine — a far more severe band than the general abetment-of-suicide offence under Section 108, reflecting the victim's inability to make a genuinely autonomous choice.",
+    "abetment of suicide (general)": "Section 108 BNS: the general offence of abetting the commission of suicide by any person (not falling within the vulnerable-person category of Section 107(2)), punishable with imprisonment of either description up to ten years, plus fine.",
+    "attempt to murder": "Section 109 BNS: doing an act with such intention or knowledge, and under such circumstances, that if death were caused the offender would be guilty of murder, is punishable with up to ten years' imprisonment plus fine as the base, rising to up to life imprisonment plus fine where hurt is actually caused to any person by the act.",
+    "life-convict attempting murder causing hurt": "Section 109(2) BNS: where a person already under sentence of imprisonment for life attempts to commit murder and hurt is caused, the offender is punishable with death or imprisonment for the remainder of that person's natural life — the attempt-stage mirror of Section 104's completed-murder life-convict enhancement.",
+    "attempt to commit culpable homicide not amounting to murder": "Section 110 BNS: the lighter mirror of Section 109, punishing an attempt to commit culpable homicide not amounting to murder with up to three years' imprisonment, fine, or both, rising to up to seven years plus fine where hurt is actually caused to any person by the act done.",
+    "organised crime": "Defined and comprehensively punished under Section 111 BNS, a provision with no IPC equivalent modelled on state organised-crime statutes like MCOCA: any continuing unlawful activity including kidnapping, robbery, extortion, cyber-crime, or trafficking, carried out by an individual singly or jointly as a member of an organised crime syndicate, by violence, threat, intimidation, corruption, or other unlawful means, to obtain direct or indirect material benefit including financial gain.",
+    "organised crime syndicate": "Defined within Section 111 BNS as a group of two or more persons acting in concert, singly or jointly, as a syndicate or gang, involved in continuing unlawful activity — the structural predicate that distinguishes organised crime from an ordinary single offence committed by one or more individuals acting without that ongoing criminal enterprise structure.",
+    "continuing unlawful activity": "A core element of the Section 111 BNS organised-crime definition: an unlawful activity that is a cognizable offence punishable with three years' imprisonment or more, undertaken singly or jointly, as a member of an organised crime syndicate, in respect of which more than one chargesheet has been filed before a competent court within the preceding ten years and that court has taken cognizance of the offence — the repeated, pattern-based element distinguishing it from an isolated crime.",
+    "economic offence (organised crime)": "A category expressly brought within Section 111 BNS's organised-crime definition: criminal breach of trust, forgery, counterfeiting of currency notes, bank notes or Government stamps, mass-marketing fraud, or running any scheme to defraud multiple persons — recognising that large-scale financial crime syndicates fall within the same organised-crime framework as violent crime syndicates.",
+    "membership of an organised crime syndicate": "An independently punishable act under Section 111 BNS: being a member of an organised crime syndicate is itself an offence (punishable with five to ten years' imprisonment plus fine of not less than five lakh rupees), separate from actually participating in a specific continuing unlawful activity — mere membership suffices for liability.",
+    "harbouring an organised-crime offender": "An offence under Section 111 BNS of harbouring or concealing, or attempting to harbour or conceal, any member of an organised crime syndicate, punishable with three to five years' imprisonment plus fine of not less than five lakh rupees — subject to an express proviso exempting the spouse of the offender from liability under this specific clause.",
+    "unaccounted property linked to organised crime": "A presumption-shifting provision within Section 111 BNS: possessing property known or reasonably believed to be derived from the commission of an organised crime, or possessing property on behalf of another member of an organised crime syndicate where the person cannot satisfactorily account for the possession, is independently punishable — targeting the proceeds and financial infrastructure of organised-crime networks, not just the predicate acts.",
+    "petty organised crime": "Section 112 BNS, a new offence with no IPC equivalent: a group or gang of persons engaged in theft, snatching, cheating, unauthorised selling of tickets, unfair means in examinations, or similar criminal acts affecting daily or economic life, committed with the motive to fill the void of committing petty crime through habitual and organised criminals — punishable up to seven years' imprisonment plus fine, sitting below the heavier Section 111 organised-crime offence.",
+    "terrorist act (BNS definition)": "Defined and punished under Section 113 BNS, a provision with no IPC equivalent modelled on the Unlawful Activities (Prevention) Act, 1967: any act committed with intent to threaten or likely to threaten the unity, integrity, security, or economic security of India, or to strike terror in the people, using bombs, dynamite, firearms, poisonous gases, biological or chemical weapons, or any other means of a nature to cause death, injury, or damage to property or essential supplies/services, falling within clauses (a) to (c) of the section.",
+    "public functionary": "A specific aggravating target identified within Section 113 BNS's terrorist-act definition: an act that causes death of, or injury to, any public functionary with the intent to compel the Government or any other person to do or abstain from doing any act, or that threatens the unity and integrity of India, falls squarely within the terrorist-act offence.",
+    "counterfeit Indian currency": "Listed within Section 113 BNS's terrorist-act definition as a method by which a terrorist act may be committed — the production, smuggling, or circulation of high-quality counterfeit Indian paper currency, coin, or any other material, destabilising the monetary or financial system of the country, is itself treated as capable of constituting a terrorist act.",
+    "terrorist training camp": "An independently punishable activity under Section 113 BNS: organising or causing to be organised any camp or camps for imparting training in terrorism, punishable with imprisonment for life or any term of years with fine — targeting the infrastructure that produces terrorist operatives, not just the completed terrorist act.",
+    "membership of a terrorist organisation": "An independently punishable act under Section 113 BNS, parallel to organised-crime-syndicate membership: being a member of a terrorist organisation involved in a terrorist act is itself an offence, punishable with imprisonment for life or up to ten years plus fine.",
+    "harbouring a terrorist": "An offence under Section 113 BNS of harbouring or concealing, or attempting to harbour or conceal, a person known to be a terrorist, punishable with imprisonment for life or up to ten years plus fine — subject to the same express proviso exempting the spouse of such a person from liability under this clause as applies to harbouring an organised-crime offender under Section 111.",
+    "UAPA overlap for terrorist act": "The Explanation to Section 113 BNS clarifying that an officer not below the rank of Superintendent of Police decides whether a case registered under the Sanhita is to be investigated under the BNS or under the Unlawful Activities (Prevention) Act, 1967 — acknowledging the deliberate overlap between this new BNS terrorist-act provision and the pre-existing specialised anti-terror statute.",
+    "hurt (BNS definition)": "Defined in Section 114 BNS as causing bodily pain, disease, or infirmity to any person — the broad foundational definition from which the entire hurt/grievous-hurt offence ladder (Sections 115-125 BNS) is built, requiring none of the eight specific grievous-hurt categories of Section 116.",
+    "voluntarily causing hurt": "Section 115 BNS: the base offence of voluntarily causing hurt (as defined in Section 114), punishable with up to one year's imprisonment, fine up to ten thousand rupees, or both under sub-section (2); sub-section (1) separately criminalises hurt caused other than by dangerous weapons or means with community service as an available punishment where no grievous hurt results.",
+    "grievous hurt (BNS definition)": "Defined in Section 116 BNS through eight exhaustive categories (a) to (h): emasculation; permanent privation of sight or hearing of either eye or ear; privation of any member or joint; destruction or permanent impairing of the powers of any member or joint; permanent disfiguration of the head or face; fracture or dislocation of a bone or tooth; any hurt endangering life or causing severe bodily pain or inability to follow ordinary pursuits for twenty days; and any hurt leading to a person being in a persistent vegetative state.",
+    "voluntarily causing grievous hurt": "Section 117(1)-(2) BNS: voluntarily causing hurt, if the hurt caused is grievous hurt as defined in Section 116, is punishable with imprisonment of either description up to seven years, plus fine — the escalated counterpart to the base voluntarily-causing-hurt offence under Section 115.",
+    "grievous hurt of a different kind than intended": "A principle embedded in Section 117 BNS's structure (and illustrated across the hurt provisions): a person who voluntarily causes hurt, intending or knowing it likely to cause grievous hurt of one kind, is liable under Section 117 even if the grievous hurt actually caused is of a different kind than intended or known to be likely — liability tracks the grievous character of the injury, not an exact match to the specific category anticipated.",
+    "permanent disability or persistent vegetative state from grievous hurt": "Section 117(3) BNS: where the grievous hurt caused results in permanent disability or a persistent vegetative state of the victim, the offender is punishable with imprisonment of not less than ten years, extendable to imprisonment for life, plus the obligation to pay fine or compensation to the victim covering medical expenses — a severe escalation beyond the general seven-year grievous-hurt band in Section 117(1)-(2).",
+    "discriminatory-ground group grievous hurt": "Section 117(4) BNS: a group of five or more persons acting in concert who cause grievous hurt to a person on grounds of race, caste or community, sex, place of birth, language, personal belief, or any other similar ground, with each member punishable with imprisonment of seven years to life plus fine — the grievous-hurt mirror of the Section 103(2) mob-lynching group-murder provision.",
+    "voluntarily causing hurt by dangerous weapons or means": "Section 118 BNS: an aggravated offence for voluntarily causing hurt or grievous hurt using any instrument for shooting, stabbing, or cutting, or any instrument likely to cause death if used as a weapon of offence, or by means of fire or any heated substance, poison, corrosive substance, explosive substance, or any substance deleterious to the human body to inhale, swallow, or receive into the blood, or by means of any animal — drawing substantially higher punishment than the plain hurt/grievous-hurt offences because of the dangerous method employed.",
+    "voluntarily causing hurt or grievous hurt to extort property": "Section 119 BNS: voluntarily causing hurt or grievous hurt in order to extort property or a valuable security, or to constrain any person to do anything illegal that may facilitate extortion of property or valuable security, punishable with up to ten years' imprisonment (up to fourteen years for grievous hurt) plus fine.",
+    "voluntarily causing hurt or grievous hurt to extort confession": "Section 120 BNS: voluntarily causing hurt or grievous hurt to extort a confession, or information that may lead to the detection of an offence or misconduct, or to compel restoration of property or satisfaction of a claim/demand, or to induce a person to give false evidence — the section whose illustrations expressly address custodial torture by police and revenue officers.",
+    "custodial torture": "A fact pattern expressly illustrated under Section 120 BNS: a police officer who causes hurt to extort a confession of guilt or a revenue officer who causes hurt to extort a confession regarding concealed property both fall squarely within the offence of voluntarily causing hurt/grievous hurt to extort a confession — giving BNS a textual hook for prosecuting custodial violence by law-enforcement and revenue officials.",
+    "voluntarily causing hurt or grievous hurt to deter a public servant": "Section 121 BNS: voluntarily causing hurt or grievous hurt to deter any person, including a public servant, from discharging their lawful duty as such public servant, punishable with up to three years' imprisonment (up to ten years for grievous hurt) plus fine.",
+    "voluntarily causing hurt or grievous hurt on provocation": "Section 122 BNS: a mitigated punishment band for voluntarily causing hurt or grievous hurt on grave and sudden provocation, provided the offender did not intend to cause hurt to any person other than the one who gave the provocation — mirroring the same grave-and-sudden-provocation logic as Exception 1 to Section 101's murder definition, carried down to the hurt-offence level.",
+    "causing hurt by poison to facilitate an offence": "Section 123 BNS: administering to or causing any person to take poison or any stupefying, intoxicating, or unwholesome drug/substance, with intent to cause hurt, or to commit or facilitate the commission of an offence, or knowing it likely that hurt will thereby be caused — punishable with up to ten years' imprisonment plus fine.",
+    "acid attack": "Section 124(1)-(2) BNS: voluntarily causing grievous hurt by throwing acid on, or administering acid to, any person, or by any other means, with intent to cause permanent or partial damage, deformity, burns, maiming, disfigurement, or disability, or to cause grievous hurt — punishable with rigorous imprisonment of not less than ten years, extendable to imprisonment for life, plus fine payable to the victim to meet medical expenses.",
+    "attempt to throw or administer acid": "Section 124(2) BNS: a lesser but still severe offence covering an attempt to throw or administer acid, or an attempt to cause permanent or partial damage, deformity, burns, maiming, disfigurement, disability, or grievous hurt by acid, punishable with five to seven years' imprisonment plus fine — the inchoate-offence counterpart to the completed acid-attack offence in Section 124(1).",
+    "acid (BNS definition)": "The Explanation to Section 124 BNS defining 'acid' to include any substance which is acidic or corrosive in nature and is capable of causing bodily injury leading to scars, disfigurement, temporary or permanent disability, partial or total blindness — a functional definition keyed to the substance's injurious effect rather than any single chemical formula.",
+    "irreversibility not required for acid-attack injury": "A principle drawn from Section 124 BNS's wording ('permanent or partial damage'): the acid-attack offence is made out whether the deformity, burns, or disability caused is permanent or only partial/temporary — the offender need not have succeeded in causing irreversible harm for liability to attach.",
+    "act endangering life or personal safety of others": "Section 125 BNS: doing any act so rashly or negligently as to endanger human life or the personal safety of others, graded by outcome — up to three months' imprisonment, fine up to two thousand five hundred rupees, or both for mere endangerment; rising to up to six months/five thousand rupees if hurt is caused; and up to two years/ten thousand rupees if grievous hurt is caused.",
+    "wrongful restraint": "Defined and punished in Section 126 BNS: voluntarily obstructing a person so as to prevent that person from proceeding in any direction in which they have a right to proceed, punishable with up to one month's imprisonment, fine up to five thousand rupees, or both, or community service — the lighter of the two liberty-restricting offences, not involving total confinement.",
+    "good-faith claim of right to obstruct a private way": "The Exception to Section 126 BNS: the obstruction of a private way over land or water which a person in good faith believes themselves to have a lawful right to obstruct is not wrongful restraint — a defence available only where the belief in the right to obstruct is both genuine and exercised in good faith.",
+    "wrongful confinement": "Defined and punished in Section 127 BNS: wrongfully restraining a person in a manner that prevents that person from proceeding beyond certain circumscribing limits, punishable with up to one year's imprisonment, fine up to five thousand rupees, or both as the base offence under sub-section (2), with escalating punishment under sub-sections (3)-(8) keyed to duration and aggravating circumstances.",
+    "confinement defying a writ of liberation": "Section 127(6) BNS: wrongfully confining a person and keeping that person so confined after receiving a writ of habeas corpus (or any other lawful direction) for that person's release, punishable with imprisonment for up to two years in addition to any other punishment to which the offender may be liable for the original wrongful confinement.",
+    "secret confinement concealing whereabouts": "Section 127(7) BNS: wrongfully confining a person in such a manner as to indicate an intention that the confinement may not be known to any person interested in the confined person, or to any public servant, or that the place of confinement may not be known to or discovered by any such person — punishable with imprisonment up to seven years, plus fine, reflecting the aggravated danger of secretive, undiscoverable confinement.",
+    "wrongful confinement to extort property": "Section 127(8) BNS (extortion-of-property limb): wrongfully confining a person for the purpose of extorting property or a valuable security from the person confined or any interested person, or to constrain any person to do anything illegal that may facilitate such extortion, punishable with imprisonment of up to three years, plus fine.",
+    "wrongful confinement to extort confession": "The companion limb within Section 127(8) BNS: wrongfully confining a person to extort a confession, or information that may lead to the detection of an offence or misconduct, punishable with imprisonment of up to three years, plus fine — paralleling the extort-property limb within the same sub-section."
   },
   "sections": [
     {
@@ -2212,6 +2275,560 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Sections 98 and 99 form the supply-and-demand pair of the child-trafficking-for-prostitution scheme — note that the 'buying' side (Section 99) is punished more severely (mandatory seven-to-fourteen years) than the 'selling' side (Section 98, up to ten years with no mandatory minimum)."
+      }
+    },
+    {
+      "number": "100",
+      "title": "Culpable homicide",
+      "raw_text": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.\n\nIllustrations.\n(a) A lays sticks and turf over a pit, with the intention of thereby causing death, or with the knowledge that death is likely to be thereby caused. Z, believing the ground to be firm, treads on it, falls in and is killed. A has committed the offence of culpable homicide.\n(b) A knows Z to be behind a bush. B does not know it. A, intending to cause, or knowing it to be likely to cause Z's death, induces B to fire at the bush. B fires and kills Z. Here B may be guilty of no offence; but A has committed the offence of culpable homicide.\n(c) A, by shooting at a fowl with intent to kill and steal it, kills B, who is behind a bush; A not knowing that he was there. Here, although A was doing an unlawful act, he was not guilty of culpable homicide, as he did not intend to kill B, or to cause death by doing an act that he knew was likely to cause death.\nExplanation 1.—A person who causes bodily injury to another who is labouring under a disorder, disease or bodily infirmity, and thereby accelerates the death of that other, shall be deemed to have caused his death.\nExplanation 2.—Where death is caused by bodily injury, the person who causes such bodily injury shall be deemed to have caused the death, although by resorting to proper remedies and skilful treatment the death might have been prevented.\nExplanation 3.—The causing of the death of a child in the mother's womb is not homicide. But it may amount to culpable homicide to cause the death of a living child, if any part of that child has been brought forth, though the child may not have breathed or been completely born.",
+      "key_terms": [
+        "culpable homicide",
+        "accelerating an existing disorder",
+        "live-birth threshold for homicide"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 100 BNS defines the foundational offence of culpable homicide — the base category from which both murder (Section 101) and lesser degrees of unlawful killing branch off. It is committed whenever a person causes death through an act done with intent to kill, intent to cause death-likely bodily injury, or knowledge that death is a likely consequence. The three Explanations extend liability to cases of accelerating an existing fatal condition, to cases where prompt medical treatment could have saved the victim, and fix the live-birth threshold that separates homicide from feticide.",
+        "essential_elements": [
+          "An act causing death",
+          "Done with intention to cause death, OR intention to cause bodily injury likely to cause death, OR knowledge that the act is likely to cause death",
+          "The victim must be a living human being who has been at least partly born (Explanation 3)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read this as the trunk of the homicide tree: every murder is culpable homicide, but not every culpable homicide is murder — Section 101 carves murder out as an aggravated subset. The three Explanations are frequently litigated: Explanation 1 stops offenders escaping liability because the victim was already frail, and Explanation 2 stops them escaping liability by arguing better medical care could have saved the victim."
+      }
+    },
+    {
+      "number": "101",
+      "title": "Murder",
+      "raw_text": "Except in the cases hereinafter excepted, culpable homicide is murder,––\n(a) if the act by which the death is caused is done with the intention of causing death; or\n(b) if the act by which the death is caused is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused; or\n(c) if the act by which the death is caused is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death; or\n(d) if the person committing the act by which the death is caused, knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury as aforesaid.\nIllustrations.\n(a) A shoots Z with the intention of killing him. Z dies in consequence. A commits murder.\n(b) A, knowing that Z is labouring under such a disease that a blow is likely to cause his death, strikes him with the intention of causing bodily injury. Z dies in consequence of the blow. A is guilty of murder, although the blow might not have been sufficient in the ordinary course of nature to cause the death of a person in a sound state of health. But if A, not knowing that Z is labouring under any disease, gives him such a blow as would not in the ordinary course of nature kill a person in a sound state of health, here A, although he may intend to cause bodily injury, is not guilty of murder, if he did not intend to cause death, or such bodily injury as in the ordinary course of nature would cause death.\n(c) A intentionally gives Z a sword-cut or club-wound sufficient to cause the death of a man in the ordinary course of nature. Z dies in consequence. Here A is guilty of murder, although he may not have intended to cause Z's death.\n(d) A without any excuse fires a loaded cannon into a crowd of persons and kills one of them. A is guilty of murder, although he may not have had a premeditated design to kill any particular individual.\nException 1.—Culpable homicide is not murder if the offender, whilst deprived of the power of self-control by grave and sudden provocation, causes the death of the person who gave the provocation or causes the death of any other person by mistake or accident:\nProvided that the provocation is not,––\n(a) sought or voluntarily provoked by the offender as an excuse for killing or doing harm to any person;\n(b) given by anything done in obedience to the law, or by a public servant in the lawful exercise of the powers of such public servant;\n(c) given by anything done in the lawful exercise of the right of private defence.\nExplanation.—Whether the provocation was grave and sudden enough to prevent the offence from amounting to murder is a question of fact.\nIllustrations.\n(a) A, under the influence of passion excited by a provocation given by Z, intentionally kills Y, Z's child. This is murder, in as much as the provocation was not given by the child, and the death of the child was not caused by accident or misfortune in doing an act caused by the provocation.\n(b) Y gives grave and sudden provocation to A. A, on this provocation, fires a pistol at Y, neither intending nor knowing himself to be likely to kill Z, who is near him, but out of sight. A kills Z. Here A has not committed murder, but merely culpable homicide.\n(c) A is lawfully arrested by Z, a bailiff. A is excited to sudden and violent passion by the arrest, and kills Z. This is murder, in as much as the provocation was given by a thing done by a public servant in the exercise of his powers.\n(d) A appears as a witness before Z, a Magistrate. Z says that he does not believe a word of A's deposition, and that A has perjured himself. A is moved to sudden passion by these words, and kills Z. This is murder.\n(e) A attempts to pull Z's nose. Z, in the exercise of the right of private defence, lays hold of A to prevent him from doing so. A is moved to sudden and violent passion in consequence, and kills Z. This is murder, in as much as the provocation was giving by a thing done in the exercise of the right of private defence.\n(f) Z strikes B. B is by this provocation excited to violent rage. A, a bystander, intending to take advantage of B's rage, and to cause him to kill Z, puts a knife into B's hand for that purpose. B kills Z with the knife. Here B may have committed only culpable homicide, but A is guilty of murder.\nException 2.—Culpable homicide is not murder if the offender in the exercise in good faith of the right of private defence of person or property, exceeds the power given to him by law and causes the death of the person against whom he is exercising such right of defence without premeditation, and without any intention of doing more harm than is necessary for the purpose of such defence.\nIllustration.\nZ attempts to horsewhip A, not in such a manner as to cause grievous hurt to A. A draws out a pistol. Z persists in the assault. A believing in good faith that he can by no other means prevent himself from being horsewhipped, shoots Z dead. A has not committed murder, but only culpable homicide.\nException 3.—Culpable homicide is not murder if the offender, being a public servant or aiding a public servant acting for the advancement of public justice, exceeds the powers given to him by law, and causes death by doing an act which he, in good faith, believes to be lawful and necessary for the due discharge of his duty as such public servant and without ill-will towards the person whose death is caused.\nException 4.—Culpable homicide is not murder if it is committed without premeditation in a sudden fight in the heat of passion upon a sudden quarrel and without the offender's having taken undue advantage or acted in a cruel or unusual manner.\nExplanation.—It is immaterial in such cases which party offers the provocation or commits the first assault.\nException 5.—Culpable homicide is not murder when the person whose death is caused, being above the age of eighteen years, suffers death or takes the risk of death with his own consent.\nIllustration.\nA, by instigation, voluntarily causes Z, a child to commit suicide. Here, on account of Z's youth, he was incapable of giving consent to his own death; A has therefore abetted murder.",
+      "key_terms": [
+        "murder (BNS definition)",
+        "grave and sudden provocation exception",
+        "private defence exceeding power exception",
+        "public servant exceeding power exception",
+        "sudden fight exception",
+        "consent to death exception"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 101 BNS elevates culpable homicide to murder through four alternative mental-state/factual gateways in clauses (a)-(d) — direct intent to kill, intent to cause death-likely injury known to be death-likely, intent to cause injury objectively sufficient in the ordinary course of nature to cause death, or reckless commission of an imminently dangerous act without excuse. Five Exceptions then pull qualifying killings back down from murder to the lesser offence of culpable homicide not amounting to murder: grave and sudden provocation, exceeding the right of private defence in good faith, a public servant exceeding lawful powers in good faith, a sudden unpremeditated fight, and consensual risk of death by an adult.",
+        "essential_elements": [
+          "Culpable homicide (as defined in Section 100) has been committed",
+          "The act falls within one of clauses (a)-(d): intent to kill; intent to cause injury known to be likely fatal; intent to cause injury objectively sufficient in the ordinary course of nature to kill; or a reckless, imminently dangerous act done without excuse",
+          "None of the five Exceptions applies"
+        ],
+        "exceptions_and_qualifications": [
+          "Exception 1: grave and sudden provocation, provided the provocation was not self-sought, was not given by lawful action of a public servant or by lawful exercise of private defence",
+          "Exception 2: exceeding the right of private defence in good faith, without premeditation and without intending more harm than necessary",
+          "Exception 3: a public servant (or person aiding one) exceeding lawful powers in good faith without ill-will",
+          "Exception 4: an unpremeditated sudden fight in the heat of passion, without undue advantage or cruel/unusual conduct",
+          "Exception 5: death suffered or risked with the free consent of a person above eighteen"
+        ],
+        "how_to_read": "This is the single most litigated provision in the entire homicide scheme. Read clauses (a)-(d) as the prosecution's four independent routes to prove murder — only one need be satisfied. Then treat the five Exceptions as affirmative defences the accused must establish on the facts to pull the offence down to Section 105's culpable-homicide-not-amounting-to-murder band; Exception 1's own internal proviso (a)-(c) is itself a frequent sub-battleground."
+      }
+    },
+    {
+      "number": "102",
+      "title": "Culpable homicide by causing death of person other than person whose death was intended",
+      "raw_text": "If a person, by doing anything which he intends or knows to be likely to cause death, commits culpable homicide by causing the death of any person, whose death he neither intends nor knows himself to be likely to cause, the culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.",
+      "key_terms": [
+        "transferred malice in homicide"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 102 BNS codifies the doctrine of transferred malice for homicide: if a person's murderous or death-likely act ends up killing a bystander instead of (or in addition to) the intended target, the offence is graded exactly as if the intended victim had died — the offender cannot escape a murder charge merely because the bullet, blow, or poison struck the wrong person.",
+        "essential_elements": [
+          "An act done with intent or knowledge of likely death as to one person",
+          "That act causes the death of a different person, not intended or known to be likely to be killed",
+          "The grading of the offence (murder vs. lesser culpable homicide) follows the offender's mental state towards the originally intended victim"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Pair this with Section 101's Illustration (a) under Exception 1, which shows the same transferred-malice logic applied specifically to the provocation exception — the grading travels with the offender's state of mind, not with the identity of the actual victim."
+      }
+    },
+    {
+      "number": "103",
+      "title": "Punishment for murder",
+      "raw_text": "(1) Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine.\n(2) When a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground each member of such group shall be punished with death or with imprisonment for life, and shall also be liable to fine.",
+      "key_terms": [
+        "mob lynching provision",
+        "discriminatory-ground group murder"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 103(1) BNS fixes the base punishment for murder — death or life imprisonment, plus fine. Section 103(2) is a new, specifically-targeted provision (with no direct IPC equivalent) addressing mob lynching: where five or more persons acting in concert commit murder motivated by the victim's race, caste, community, sex, place of birth, language, personal belief, or similar ground, every member of that group faces the same death-or-life-imprisonment punishment, regardless of who struck the fatal blow.",
+        "essential_elements": [
+          "Sub-section (1): a murder (Section 101) has been committed",
+          "Sub-section (2): a group of five or more persons, acting in concert, commits murder, and the motivating ground is race, caste, community, sex, place of birth, language, personal belief, or a similar ground"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 103(2) is the BNS's codified response to mob-lynching incidents and should be read alongside the constructive-liability logic of 'common intention' (Section 3(8)) — it removes any need to prove which specific group member caused death, extending full murder liability to every participant once group action and discriminatory motive are shown."
+      }
+    },
+    {
+      "number": "104",
+      "title": "Punishment for murder by life-convict",
+      "raw_text": "Whoever, being under sentence of imprisonment for life, commits murder, shall be punished with death or with imprisonment for life, which shall mean the remainder of that person's natural life.",
+      "key_terms": [
+        "life-convict committing a further murder"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 104 BNS fixes an enhanced-certainty punishment for a person already serving a life sentence who commits a fresh murder: the life-imprisonment option here is expressly defined as meaning imprisonment for the remainder of that person's natural life, removing any ambiguity or possibility of early release that might otherwise attach to an ordinary life sentence.",
+        "essential_elements": [
+          "The offender is, at the time of the offence, already under a sentence of imprisonment for life",
+          "The offender commits a fresh murder"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The phrase 'remainder of that person's natural life' recurs throughout the Sanhita's most severe provisions (e.g. Sections 65(2), 70(1), 71) — wherever it appears, it forecloses the ordinary possibility that 'life imprisonment' might in practice mean a fixed, shorter term under remission rules."
+      }
+    },
+    {
+      "number": "105",
+      "title": "Punishment for culpable homicide not amounting to murder",
+      "raw_text": "Whoever commits culpable homicide not amounting to murder, shall be punished with imprisonment for life, or imprisonment of either description for a term which shall not be less than five years but which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or with imprisonment of either description for a term which may extend to ten years and with fine, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death.",
+      "key_terms": [
+        "culpable homicide not amounting to murder (punishment)"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 105 BNS punishes the residual category of killings that satisfy Section 100's culpable-homicide definition but fall within one of Section 101's five Exceptions (or otherwise fail to meet the murder threshold) — commonly called 'Part I' (intent-driven, minimum five years to life) and 'Part II' (knowledge-only, up to ten years) depending on whether the offender intended death/death-likely injury or merely knew death was a likely consequence.",
+        "essential_elements": [
+          "Culpable homicide (Section 100) has been committed",
+          "It does not amount to murder under Section 101 (either failing clauses (a)-(d), or qualifying under one of the five Exceptions)",
+          "The punishment band then turns on whether the act was done with intention to cause death/death-likely injury (five years to life) or merely with knowledge that death was a likely consequence (up to ten years)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the direct sentencing destination for any case decided under one of Section 101's five Exceptions (grave-provocation killings, private-defence-exceeding killings, sudden-fight killings, etc.) — always check which limb of Section 105 applies by asking whether the offender intended death/death-likely harm, or merely knew it was a likely risk."
+      }
+    },
+    {
+      "number": "106",
+      "title": "Causing death by negligence",
+      "raw_text": "(1) Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and if such act is done by a registered medical practitioner while performing medical procedure, he shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.\nExplanation.— For the purposes of this sub-section, \"registered medical practitioner\" means a medical practitioner who possesses any medical qualification recognised under the National Medical Commission Act, 2019 and whose name has been entered in the National Medical Register or a State Medical Register under that Act.\n(2) Whoever causes death of any person by rash and negligent driving of vehicle not amounting to culpable homicide, and escapes without reporting it to a police officer or a Magistrate soon after the incident, shall be punished with imprisonment of either description of a term which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "causing death by negligence",
+        "registered medical practitioner carve-out",
+        "hit-and-run enhancement"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 106 BNS punishes deaths caused by rashness or negligence falling short of culpable homicide. Sub-section (1) sets a general five-year ceiling but carves out a significantly lower two-year ceiling for a registered medical practitioner acting within a medical procedure — a protection won after sustained medical-profession lobbying against the fear of criminal prosecution for good-faith treatment mishaps. Sub-section (2) is a new, much harsher hit-and-run provision: rash/negligent driving causing death, followed by fleeing without reporting to police or a Magistrate, draws up to ten years — double the ordinary negligence ceiling.",
+        "essential_elements": [
+          "A rash or negligent act (not amounting to culpable homicide) causing death",
+          "Sub-section (1) proviso: reduced two-year ceiling only where the act is done by a 'registered medical practitioner' as defined, while performing a medical procedure",
+          "Sub-section (2): rash/negligent driving causing death, plus escaping the scene without reporting to police or a Magistrate soon after"
+        ],
+        "exceptions_and_qualifications": [
+          "The lower two-year punishment ceiling applies only to registered medical practitioners (as statutorily defined by reference to the National Medical Commission Act, 2019) acting within a medical procedure — not to unregistered practitioners or acts outside a medical procedure"
+        ],
+        "how_to_read": "Sub-section (2) is a deliberate, significant departure from the former IPC's Section 304A (which had no hit-and-run enhancement) — it was a major point of public controversy when first proposed, since it roughly doubles exposure for drivers who flee an accident scene instead of reporting it."
+      }
+    },
+    {
+      "number": "107",
+      "title": "Abetment of suicide of child or person of unsound mind",
+      "raw_text": "If any child, any person of unsound mind, any delirious person or any person in a state of intoxication, commits suicide, whoever abets the commission of such suicide, shall be punished with death or imprisonment for life, or imprisonment for a term not exceeding ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "abetment of suicide of a vulnerable person"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 107 BNS imposes a severe, murder-adjacent punishment band (death, life imprisonment, or up to ten years, plus fine) on anyone who abets the suicide of a victim drawn from four vulnerable categories — a child, a person of unsound mind, a delirious person, or an intoxicated person — reflecting the law's view that such victims cannot meaningfully exercise free will in taking their own lives, making the abettor's culpability closer to that of a killer than an ordinary abettor of suicide.",
+        "essential_elements": [
+          "The victim falls within one of four categories: a child, a person of unsound mind, a delirious person, or a person in a state of intoxication",
+          "That victim commits suicide",
+          "The accused abetted (instigated, conspired in, or intentionally aided) that suicide"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare directly with Section 101's Exception 5 illustration: instigating a child's suicide is treated as abetment of murder in that illustration, while Section 107 provides the companion, more specifically-targeted standalone offence covering the same vulnerable-victim rationale across all four incapacity categories, not just children."
+      }
+    },
+    {
+      "number": "108",
+      "title": "Abetment of suicide",
+      "raw_text": "If any person commits suicide, whoever abets the commission of such suicide, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "abetment of suicide (general)"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 108 BNS is the general abetment-of-suicide offence, applicable whenever any person (not limited to the vulnerable categories in Section 107) commits suicide and another person abetted that act — punishable with up to ten years' imprisonment plus fine, without the death-penalty/life-imprisonment exposure that Section 107 carries for vulnerable victims.",
+        "essential_elements": [
+          "The victim (of any age or mental capacity) commits suicide",
+          "The accused abetted that suicide through instigation, conspiracy, or intentional aid"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read Sections 107 and 108 as a matched pair graded purely by victim vulnerability: identical conduct (abetting a suicide) draws a dramatically harsher punishment band under Section 107 if the victim was a child, of unsound mind, delirious, or intoxicated, and the ordinary Section 108 band otherwise."
+      }
+    },
+    {
+      "number": "109",
+      "title": "Attempt to murder",
+      "raw_text": "(1) Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as is hereinbefore mentioned.\n(2) When any person offending under sub-section (1) is under sentence of imprisonment for life, he may, if hurt is caused, be punished with death or with imprisonment for life, which shall mean the remainder of that person's natural life.\nIllustrations.\n(a) A shoots at Z with intention to kill him, under such circumstances that, if death ensued, A would be guilty of murder. A is liable to punishment under this section.\n(b) A, with the intention of causing the death of a child of tender years, exposes it in a desert place. A has committed the offence defined by this section, though the death of the child does not ensue.\n(c) A, intending to murder Z, buys a gun and loads it. A has not yet committed the offence. A fires the gun at Z. He has committed the offence defined in this section, and, if by such firing he wounds Z, he is liable to the punishment provided by the latter part of sub-section (1).\n(d) A, intending to murder Z by poison, purchases poison and mixes the same with food which remains in A's keeping; A has not yet committed the offence defined in this section. A places the food on Z's table or delivers it to Z's servants to place it on Z's table. A has committed the offence defined in this section.",
+      "key_terms": [
+        "attempt to murder",
+        "life-convict attempting murder causing hurt"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 109 BNS punishes attempted murder — doing an act with the intention/knowledge and in circumstances that would make the offender guilty of murder had death actually resulted — with up to ten years, rising to life imprisonment if the attempt causes hurt. Sub-section (2) layers on a life-convict enhancement mirroring Section 104: a life-convict who attempts murder and causes hurt may face death or whole-life imprisonment.",
+        "essential_elements": [
+          "An act done with the intention or knowledge, and under circumstances, that would constitute murder if death resulted",
+          "Death does not actually result (otherwise Section 101/103 would apply instead)",
+          "Enhanced punishment (life imprisonment) if the act causes hurt to any person",
+          "Sub-section (2): offender was already under a life sentence when the attempt (causing hurt) occurred"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Illustrations (c) and (d) are the classic attempt-threshold teaching examples — mere preparation (buying/loading a gun, mixing poison and keeping it) is not yet an attempt, but the moment the offender fires or actually delivers the poisoned food towards the victim, the Section 62 'act towards commission' threshold is crossed and Section 109 is complete."
+      }
+    },
+    {
+      "number": "110",
+      "title": "Attempt to commit culpable homicide",
+      "raw_text": "Whoever does any act with such intention or knowledge and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and, if hurt is caused to any person by such act, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.\nIllustration.\nA, on grave and sudden provocation, fires a pistol at Z, under such circumstances that if he thereby caused death, he would be guilty of culpable homicide not amounting to murder. A has committed the offence defined in this section.",
+      "key_terms": [
+        "attempt to commit culpable homicide not amounting to murder"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 110 BNS is the attempt-level mirror of Section 105: where an act, had it caused death, would have amounted only to culpable homicide not amounting to murder (e.g. because a Section 101 Exception like grave-and-sudden-provocation would have applied), the attempt itself draws a much lighter punishment band — up to three years, rising to seven if hurt actually results — than attempted murder under Section 109.",
+        "essential_elements": [
+          "An act done with the intention/knowledge, and under circumstances, that would amount to culpable homicide not amounting to murder if death resulted",
+          "Death does not actually result",
+          "Enhanced punishment (up to seven years) if hurt is caused"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Grading logic travels downward in lockstep across the homicide-attempt scheme: Section 101 Exceptions reduce a completed killing from murder to Section 105 culpable homicide; the same Exception-driven facts, applied to an unsuccessful attempt, pull the attempt down from Section 109 to this lighter Section 110 band."
+      }
+    },
+    {
+      "number": "111",
+      "title": "Organised crime",
+      "raw_text": "(1) Any continuing unlawful activity including kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offence, cyber-crimes, trafficking of persons, drugs, weapons or illicit goods or services, human trafficking for prostitution or ransom, by any person or a group of persons acting in concert, singly or jointly, either as a member of an organised crime syndicate or on behalf of such syndicate, by use of violence, threat of violence, intimidation, coercion, or by any other unlawful means to obtain direct or indirect material benefit including a financial benefit, shall constitute organised crime.\nExplanation.—For the purposes of this sub-section,––\n(i) \"organised crime syndicate\" means a group of two or more persons who, acting either singly or jointly, as a syndicate or gang indulge in any continuing unlawful activity;\n(ii) \"continuing unlawful activity\" means an activity prohibited by law which is a cognizable offence punishable with imprisonment of three years or more, undertaken by any person, either singly or jointly, as a member of an organised crime syndicate or on behalf of such syndicate in respect of which more than one charge-sheets have been filed before a competent Court within the preceding period of ten years and that Court has taken cognizance of such offence, and includes economic offence;\n(iii) \"economic offence\" includes criminal breach of trust, forgery, counterfeiting of currency-notes, bank-notes and Government stamps, hawala transaction, mass-marketing fraud or running any scheme to defraud several persons or doing any act in any manner with a view to defraud any bank or financial institution or any other institution or organisation for obtaining monetary benefits in any form.\n(2) Whoever commits organised crime shall,—\n(a) if such offence has resulted in the death of any person, be punished with death or imprisonment for life, and shall also be liable to fine which shall not be less than ten lakh rupees;\n(b) in any other case, be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees.\n(3) Whoever abets, attempts, conspires or knowingly facilitates the commission of an organised crime, or otherwise engages in any act preparatory to an organised crime, shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees.\n(4) Any person who is a member of an organised crime syndicate shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees.\n(5) Whoever, intentionally, harbours or conceals any person who has committed the offence of an organised crime shall be punished with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees:\nProvided that this sub-section shall not apply to any case in which the harbour or concealment is by the spouse of the offender.\n(6) Whoever possesses any property derived or obtained from the commission of an organised crime or proceeds of any organised crime or which has been acquired through the organised crime, shall be punishable with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for life and shall also be liable to fine which shall not be less than two lakh rupees.\n(7) If any person on behalf of a member of an organised crime syndicate is, or at any time has been in possession of movable or immovable property which he cannot satisfactorily account for, shall be punishable with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for ten years and shall also be liable to fine which shall not be less than one lakh rupees.",
+      "key_terms": [
+        "organised crime",
+        "organised crime syndicate",
+        "continuing unlawful activity",
+        "economic offence (organised crime)",
+        "membership of an organised crime syndicate",
+        "harbouring an organised-crime offender",
+        "unaccounted property linked to organised crime"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 111 BNS is an entirely new, MCOCA/state-organised-crime-Act-style provision — the first time general central criminal law has directly codified organised crime as a standalone Sanhita offence. It defines organised crime through a 'continuing unlawful activity' threshold requiring multiple charge-sheets over ten years against a syndicate, lists a wide range of predicate activities (kidnapping, extortion, trafficking, land grabbing, cyber-crime, economic offences), and then separately punishes commission (2), abetment/conspiracy/facilitation (3), mere membership (4), harbouring an offender (5, with a spousal carve-out), possession of crime proceeds (6), and unaccounted property held on a syndicate member's behalf (7).",
+        "essential_elements": [
+          "A 'continuing unlawful activity' as statutorily defined — a cognizable offence punishable with three-plus years' imprisonment, pursued by/on behalf of a syndicate, with more than one charge-sheet filed and cognizance taken within the preceding ten years",
+          "Committed by a person or group acting in concert, as or on behalf of an organised crime syndicate (two or more persons acting as a syndicate or gang)",
+          "Through violence, threat of violence, intimidation, coercion, or other unlawful means",
+          "To obtain direct or indirect material/financial benefit"
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-section (5)'s harbouring/concealment offence does not apply where the harbourer or concealer is the offender's spouse"
+        ],
+        "how_to_read": "Treat sub-section (1)'s Explanation as the real gatekeeper: unless the 'continuing unlawful activity' and 'organised crime syndicate' definitional thresholds (especially the multiple-charge-sheet, ten-year window) are satisfied, a string of predicate offences — however serious individually — does not elevate into 'organised crime' under this section; sub-sections (2)-(7) then layer distinct, independently chargeable offences onto that base definition."
+      }
+    },
+    {
+      "number": "112",
+      "title": "Petty organised crime",
+      "raw_text": "(1) Whoever, being a member of a group or gang, either singly or jointly, commits any act of theft, snatching, cheating, unauthorised selling of tickets, unauthorised betting or gambling, selling of public examination question papers or any other similar criminal act, is said to commit petty organised crime.\nExplanation.—For the purposes of this sub-section \"theft\" includes trick theft, theft from vehicle, dwelling house or business premises, cargo theft, pick pocketing, theft through card skimming, shoplifting and theft of Automated Teller Machine.\n(2) Whoever commits any petty organised crime shall be punished with imprisonment for a term which shall not be less than one year but which may extend to seven years, and shall also be liable to fine.",
+      "key_terms": [
+        "petty organised crime"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 112 BNS creates a lesser, lower-threshold sibling to Section 111: 'petty organised crime' covers group or gang members committing lower-level property and fraud offences — theft in its many modern forms (card skimming, ATM theft, cargo theft), snatching, cheating, ticket touting, illegal betting, or exam-paper leaks — without Section 111's demanding 'continuing unlawful activity' threshold, punishable with one to seven years plus fine.",
+        "essential_elements": [
+          "The offender is a member of a group or gang",
+          "Acting singly or jointly as such a member",
+          "Commits theft (in any of the Explanation's listed modern forms), snatching, cheating, unauthorised ticket selling, unauthorised betting/gambling, selling of public examination question papers, or any other similar criminal act"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 112 was added specifically to address organised street-level and small-gang crime (pickpocket rings, ATM-skimming gangs, exam-paper-leak rackets) that falls well short of Section 111's syndicate-level organised crime threshold but still warrants gang-based aggravated punishment beyond the ordinary individual theft/cheating offences."
+      }
+    },
+    {
+      "number": "113",
+      "title": "Terrorist act",
+      "raw_text": "(1) Whoever does any act with the intent to threaten or likely to threaten the unity, integrity, sovereignty, security, or economic security of India or with the intent to strike terror or likely to strike terror in the people or any section of the people in India or in any foreign country,––\n(a) by using bombs, dynamite or other explosive substance or inflammable substance or firearms or other lethal weapons or poisonous or noxious gases or other chemicals or by any other substance (whether biological, radioactive, nuclear or otherwise) of a hazardous nature or by any other means of whatever nature to cause or likely to cause,—\n(i) death of, or injury to, any person or persons; or\n(ii) loss of, or damage to, or destruction of, property; or\n(iii) disruption of any supplies or services essential to the life of the community in India or in any foreign country; or\n(iv) damage to, the monetary stability of India by way of production or smuggling or circulation of counterfeit Indian paper currency, coin or of any other material; or\n(v) damage or destruction of any property in India or in a foreign country used or intended to be used for the defence of India or in connection with any other purposes of the Government of India, any State Government or any of their agencies; or\n(b) overawes by means of criminal force or the show of criminal force or attempts to do so or causes death of any public functionary or attempts to cause death of any public functionary; or\n(c) detains, kidnaps or abducts any person and threatening to kill or injure such person or does any other act in order to compel the Government of India, any State Government or the Government of a foreign country or an international or inter-governmental organisation or any other person to do or abstain from doing any act,\ncommit a terrorist act.\nExplanation.—For the purpose of this sub-section,—\n(a) \"public functionary\" means the constitutional authorities or any other functionary notified in the Official Gazette by the Central Government as public functionary;\n(b) \"counterfeit Indian currency\" means the counterfeit currency as may be declared after examination by an authorised or notified forensic authority that such currency imitates or compromises with the key security features of Indian currency.\n(2) Whoever commits a terrorist act shall,—\n(a) if such offence has resulted in the death of any person, be punished with death or imprisonment for life, and shall also be liable to fine;\n(b) in any other case, be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine.\n(3) Whoever conspires or attempts to commit, or advocates, abets, advises or incites, directly or knowingly facilitates the commission of a terrorist act or any act preparatory to the commission of a terrorist act, shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine.\n(4) Whoever organises or causes to be organised any camp or camps for imparting training in terrorist act, or recruits or causes to be recruited any person or persons for commission of a terrorist act, shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine.\n(5) Any person who is a member of an organisation which is involved in terrorist act, shall be punished with imprisonment for a term which may extend to imprisonment for life, and shall also be liable to fine.\n(6) Whoever voluntarily harbours or conceals, or attempts to harbour or conceal any person knowing that such person has committed a terrorist act shall be punished with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for life, and shall also be liable to fine:\nProvided that this sub-section shall not apply to any case in which the harbour or concealment is by the spouse of the offender.\n(7) Whoever knowingly possesses any property derived or obtained from commission of any terrorist act or acquired through the commission of any terrorist act shall be punished with imprisonment for a term which may extend to imprisonment for life, and shall also be liable to fine.\nExplanation.—For the removal of doubts, it is hereby declared that the officer not below the rank of Superintendent of Police shall decide whether to register the case under this section or under the Unlawful Activities (Prevention) Act, 1967.",
+      "key_terms": [
+        "terrorist act (BNS definition)",
+        "public functionary",
+        "counterfeit Indian currency",
+        "terrorist training camp",
+        "membership of a terrorist organisation",
+        "harbouring a terrorist",
+        "UAPA overlap for terrorist act"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 113 BNS is another entirely new provision bringing a UAPA-style terrorist-act offence directly into general criminal law for the first time. Sub-section (1) defines 'terrorist act' through an intent-to-threaten-India's-sovereignty/security-or-strike-terror threshold combined with any of three means: using explosive/hazardous substances to cause death, property damage, essential-supply disruption, or currency destabilisation (clause (a)); overawing or killing a public functionary by criminal force (clause (b)); or hostage-taking/kidnapping to compel government or international action (clause (c)). Sub-sections (2)-(7) separately punish commission, conspiracy/abetment/facilitation, running training camps or recruiting, mere membership of a terrorist organisation, harbouring (with a spousal carve-out), and possession of terrorism-linked property. A final Explanation requires a Superintendent-of-Police-or-above officer to decide whether to register under this section or the separate Unlawful Activities (Prevention) Act, 1967.",
+        "essential_elements": [
+          "An act done with intent (or likely) to threaten India's unity, integrity, sovereignty, security, or economic security, or to strike terror in people in India or a foreign country",
+          "Carried out through one of clauses (a)-(c): hazardous-substance attacks causing/likely to cause death, property damage, essential-service disruption, or currency destabilisation; overawing or killing a public functionary; or detention/kidnapping/abduction to compel government or international action"
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-section (6)'s harbouring/concealment offence does not apply where the harbourer or concealer is the offender's spouse",
+          "The final Explanation leaves registration choice (this section vs. the UAPA, 1967) to an officer not below the rank of Superintendent of Police, rather than mandating one statute over the other"
+        ],
+        "how_to_read": "Because this duplicates ground long covered by the Unlawful Activities (Prevention) Act, 1967, practitioners should always check which statute a given prosecution is actually brought under — the final Explanation makes that an executive charging decision, not an automatic rule, and the two regimes carry materially different procedural safeguards (e.g. bail standards, designated courts)."
+      }
+    },
+    {
+      "number": "114",
+      "title": "Hurt",
+      "raw_text": "Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt.",
+      "key_terms": [
+        "hurt (BNS definition)"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 114 BNS supplies the foundational, deliberately broad definition of 'hurt' — any bodily pain, disease, or infirmity caused to another person — which anchors the entire hurt/grievous-hurt offence ladder that follows in Sections 115-125.",
+        "essential_elements": [
+          "Causing bodily pain, disease, or infirmity",
+          "To any person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a pure definitional section with no punishment of its own — every operative hurt offence (Sections 115 onward) borrows this definition and then adds its own mental-element and aggravating-circumstance requirements."
+      }
+    },
+    {
+      "number": "115",
+      "title": "Voluntarily causing hurt",
+      "raw_text": "(1) Whoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does thereby cause hurt to any person, is said \"voluntarily to cause hurt\".\n(2) Whoever, except in the case provided for by sub-section (1) of section 122 voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.",
+      "key_terms": [
+        "voluntarily causing hurt"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 115 BNS defines and punishes the base offence of voluntarily causing hurt — intentionally or knowingly causing bodily pain, disease, or infirmity (as defined in Section 114) — with up to one year's imprisonment, a fine up to ten thousand rupees, or both, subject to the lower provocation-based punishment in Section 122(1) where applicable.",
+        "essential_elements": [
+          "An act done with the intention of causing hurt, or with knowledge that hurt is a likely consequence",
+          "Hurt is actually caused to a person as a result"
+        ],
+        "exceptions_and_qualifications": [
+          "Section 122(1)'s lighter, provocation-based punishment applies instead where the hurt was caused on grave and sudden provocation without intent/knowledge of harming anyone beyond the provoker"
+        ],
+        "how_to_read": "This is the baseline against which every aggravated hurt offence in the Chapter (by dangerous weapons, for extortion, against public servants, by acid, etc.) adds a specific aggravating circumstance or purpose to increase the punishment well beyond this one-year ceiling."
+      }
+    },
+    {
+      "number": "116",
+      "title": "Grievous hurt",
+      "raw_text": "The following kinds of hurt only are designated as \"grievous\", namely:––\n(a) Emasculation;\n(b) Permanent privation of the sight of either eye;\n(c) Permanent privation of the hearing of either ear;\n(d) Privation of any member or joint;\n(e) Destruction or permanent impairing of the powers of any member or joint;\n(f) Permanent disfiguration of the head or face;\n(g) Fracture or dislocation of a bone or tooth;\n(h) Any hurt which endangers life or which causes the sufferer to be during the space of fifteen days in severe bodily pain, or unable to follow his ordinary pursuits.",
+      "key_terms": [
+        "grievous hurt (BNS definition)"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 116 BNS supplies a closed, exhaustive list of eight specific categories of hurt that qualify as 'grievous' — ranging from permanent physical losses (sight, hearing, a limb or joint) to fractures and life-endangering or fifteen-day-disabling injuries. Only hurt falling within one of these eight categories counts as grievous for the purposes of every grievous-hurt offence elsewhere in the Sanhita; the list is not illustrative, it is exhaustive.",
+        "essential_elements": [
+          "The hurt caused must fall within one of the eight named categories (a)-(h)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Category (h) is the most frequently contested in practice — the fifteen-day severe-pain/inability-to-pursue-ordinary-activities threshold is a question of medical and factual evidence, usually proven through the treating doctor's testimony and medical records."
+      }
+    },
+    {
+      "number": "117",
+      "title": "Voluntarily causing grievous hurt",
+      "raw_text": "(1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or knows himself to be likely to cause is grievous hurt, and if the hurt which he causes is grievous hurt, is said \"voluntarily to cause grievous hurt\".\nExplanation.—A person is not said voluntarily to cause grievous hurt except when he both causes grievous hurt and intends or knows himself to be likely to cause grievous hurt. But he is said voluntarily to cause grievous hurt, if intending or knowing himself to be likely to cause grievous hurt of one kind, he actually causes grievous hurt of another kind.\nIllustration.\nA, intending of knowing himself to be likely permanently to disfigure Z's face, gives Z a blow which does not permanently disfigure Z's face, but which causes Z to suffer severe bodily pain for the space of fifteen days. A has voluntarily caused grievous hurt.\n(2) Whoever, except in the case provided for by sub-section (2) of section 122, voluntarily causes grievous hurt, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\n(3) Whoever commits an offence under sub-section (1) and in the course of such commission causes any hurt to a person which causes that person to be in permanent disability or in persistent vegetative state, shall be punished with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of that person's natural life.\n(4) When a group of five or more persons acting in concert, causes grievous hurt to a person on the ground of his race, caste or community, sex, place of birth, language, personal belief or any other similar ground, each member of such group shall be guilty of the offence of causing grievous hurt, and shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "key_terms": [
+        "voluntarily causing grievous hurt",
+        "grievous hurt of a different kind than intended",
+        "permanent disability or persistent vegetative state from grievous hurt",
+        "discriminatory-ground group grievous hurt"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 117 BNS defines and punishes voluntarily causing grievous hurt: both intent/knowledge of likely grievous hurt and actual grievous hurt (as defined in Section 116) must be present, though the Explanation clarifies that the kind of grievous hurt intended need not match the kind actually caused. The base punishment is up to seven years. Sub-section (3) escalates sharply — ten years to life — where the act results in permanent disability or persistent vegetative state. Sub-section (4) mirrors Section 103(2)'s mob-violence provision, extending group liability for discriminatory-ground grievous hurt to every member of a five-or-more group acting in concert.",
+        "essential_elements": [
+          "An act causing grievous hurt (as defined in Section 116)",
+          "Done with intention or knowledge of likely grievous hurt (of any kind — not necessarily the specific kind actually caused)",
+          "Sub-section (3): the grievous hurt results in permanent disability or persistent vegetative state",
+          "Sub-section (4): caused by a five-or-more-person group acting in concert on a discriminatory ground"
+        ],
+        "exceptions_and_qualifications": [
+          "Section 122(2)'s lighter, provocation-based punishment applies instead where the grievous hurt was caused on grave and sudden provocation"
+        ],
+        "how_to_read": "The Explanation's 'different kind of grievous hurt' rule is a frequent examination and courtroom point — liability does not fail merely because the actual injury (e.g. fifteen-day severe pain) differs from the originally intended injury (e.g. permanent disfigurement), so long as both qualify as grievous hurt under Section 116."
+      }
+    },
+    {
+      "number": "118",
+      "title": "Voluntarily causing hurt or grievous hurt by dangerous weapons or means",
+      "raw_text": "(1) Whoever, except in the case provided for by sub-section (1) of section 122, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to twenty thousand rupees, or with both.\n(2) Whoever, except in the case provided for by sub-section (2) of section 122, voluntarily causes grievous hurt by any means referred to in sub–section (1), shall be punished with imprisonment for life, or with imprisonment of either description for a term which shall not be less than one year but which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "voluntarily causing hurt by dangerous weapons or means"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 118 BNS escalates the ordinary hurt/grievous-hurt punishment bands wherever the means used are inherently dangerous — shooting/stabbing/cutting instruments, any weapon likely to cause death, fire, heated substances, poison, corrosive substances, explosives, substances deleterious to inhale/swallow/inject, or animals. Simple hurt by such means draws up to three years (versus one year under the base Section 115), while grievous hurt by such means draws a minimum one year extendable to life (versus a flat seven-year ceiling under the base Section 117).",
+        "essential_elements": [
+          "Hurt or grievous hurt is caused voluntarily",
+          "By one of the specifically listed dangerous means: cutting/stabbing/shooting instruments, a death-likely weapon, fire/heat, poison/corrosive substances, explosives, inhalation/injection-deleterious substances, or animals"
+        ],
+        "exceptions_and_qualifications": [
+          "Section 122's provocation-based lighter punishments apply instead where the relevant conditions are met"
+        ],
+        "how_to_read": "This section is the standard charge wherever a knife, acid (though acid has its own dedicated Section 124), firearm, or poison is the instrument of hurt — the weapon/means itself is the aggravating factor here, independent of any extortion, provocation, or public-servant-targeting purpose covered by the surrounding sections."
+      }
+    },
+    {
+      "number": "119",
+      "title": "Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act",
+      "raw_text": "(1) Whoever voluntarily causes hurt for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any property or valuable security, or of constraining the sufferer or any person interested in such sufferer to do anything which is illegal or which may facilitate the commission of an offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.\n(2) Whoever voluntarily causes grievous hurt for any purpose referred to in sub-section (1), shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "voluntarily causing hurt or grievous hurt to extort property"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 119 BNS punishes hurt or grievous hurt inflicted for the specific purpose of extorting property/valuable security, or constraining the victim to do something illegal or offence-facilitating — up to ten years for simple hurt, rising to life imprisonment (or up to ten years) for grievous hurt, reflecting the extortionate purpose as the core aggravating element rather than the means used.",
+        "essential_elements": [
+          "Hurt or grievous hurt caused voluntarily",
+          "For the specific purpose of extorting property/valuable security from the sufferer or a person interested in the sufferer, OR constraining the sufferer/interested person to do an illegal act or one facilitating an offence"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Distinguish this purpose-driven offence from the means-driven Section 118 — the same violent act can attract both provisions where the offender both uses a dangerous weapon and acts for an extortionate purpose, but each section independently supplies its own complete offence and punishment band."
+      }
+    },
+    {
+      "number": "120",
+      "title": "Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property",
+      "raw_text": "(1) Whoever voluntarily causes hurt for the purpose of extorting from the sufferer or from any person interested in the sufferer, any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constraining the sufferer or any person interested in the sufferer to restore or to cause the restoration of any property or valuable security or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\nIllustrations.\n(a) A, a police officer, tortures Z in order to induce Z to confess that he committed a crime. A is guilty of an offence under this section.\n(b) A, a police officer, tortures B to induce him to point out where certain stolen property is deposited. A is guilty of an offence under this section.\n(c) A, a revenue officer, tortures Z in order to compel him to pay certain arrears of revenue due from Z. A is guilty of an offence under this section.\n(2) Whoever voluntarily causes grievous hurt for any purpose referred to in sub-section (1), shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "voluntarily causing hurt or grievous hurt to extort confession",
+        "custodial torture"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 120 BNS is the Sanhita's principal custodial-torture provision — it punishes hurt or grievous hurt inflicted to extort a confession, offence-detecting information, or restoration of property/satisfaction of a claim. The illustrations expressly target police and revenue officers torturing suspects, underscoring its use against custodial abuse of power, with up to seven years for simple hurt and up to ten years for grievous hurt.",
+        "essential_elements": [
+          "Hurt or grievous hurt caused voluntarily",
+          "For the purpose of extorting a confession or offence/misconduct-detecting information, OR constraining restoration of property/valuable security, satisfaction of a claim/demand, or information leading to such restoration"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The illustrations make this the default charge for custodial violence by police or revenue officials — practitioners should plead this section specifically (rather than the generic Section 115/117) whenever the hurt was inflicted to extract a confession or compel restitution, since the purpose element is what unlocks this section's distinct, higher punishment band."
+      }
+    },
+    {
+      "number": "121",
+      "title": "Voluntarily causing hurt or grievous hurt to deter public servant from his duty",
+      "raw_text": "(1) Whoever voluntarily causes hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.\n(2) Whoever voluntarily causes grievous hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "voluntarily causing hurt or grievous hurt to deter a public servant"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 121 BNS specifically protects public servants performing their official duties — causing hurt to a public servant in the discharge of duty, or to deter/prevent them (or any other public servant) from discharging duty, or in consequence of their lawful official acts, draws up to five years; causing grievous hurt in the same circumstances draws a minimum one year extendable to ten.",
+        "essential_elements": [
+          "Hurt or grievous hurt caused voluntarily to a person who is a public servant",
+          "Either while that public servant is in the discharge of duty, OR with intent to prevent/deter that public servant or any other public servant from discharging duty, OR in consequence of something done/attempted in lawful discharge of duty"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The three alternative triggers (during discharge of duty, to deter future discharge, or in reprisal for past discharge) mean this section covers attacks on public servants before, during, or after the official act in question — not merely contemporaneous assaults."
+      }
+    },
+    {
+      "number": "122",
+      "title": "Voluntarily causing hurt or grievous hurt on provocation",
+      "raw_text": "(1) Whoever voluntarily causes hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause hurt to any person other than the person who gave the provocation, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.\n(2) Whoever voluntarily causes grievous hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause grievous hurt to any person other than the person who gave the provocation, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine which may extend to ten thousand rupees, or with both.\nExplanation.—This section is subject to the same proviso as Exception 1 of section 101.",
+      "key_terms": [
+        "voluntarily causing hurt or grievous hurt on provocation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 122 BNS is the hurt-offence counterpart to Section 101's murder-reducing provocation Exception: hurt or grievous hurt caused on grave and sudden provocation, directed only at the provoker (not at an innocent bystander by mistake), draws dramatically lighter punishment — up to one month for simple hurt, up to five years for grievous hurt — than the ordinary Sections 115/117 bands, provided the same three-part proviso from Section 101 Exception 1 (no self-seeking provocation, no provocation by lawful public-servant action, no provocation by lawful private defence) is satisfied.",
+        "essential_elements": [
+          "Hurt or grievous hurt caused voluntarily on grave and sudden provocation",
+          "Directed at the person who actually gave the provocation (not a different, uninvolved person)",
+          "The Section 101 Exception 1 proviso conditions are met (provocation not self-sought, not given by lawful public-servant act, not given by lawful private defence)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the provision every Section 115/117/118 punishment clause expressly excepts ('except in the case provided for by section 122') — always check whether grave and sudden provocation is in play before defaulting to the higher general hurt/grievous-hurt punishment bands."
+      }
+    },
+    {
+      "number": "123",
+      "title": "Causing hurt by means of poison, etc., with intent to commit an offence",
+      "raw_text": "Whoever administers to or causes to be taken by any person any poison or any stupefying, intoxicating or unwholesome drug, or other thing with intent to cause hurt to such person, or with intent to commit or to facilitate the commission of an offence or knowing it to be likely that he will thereby cause hurt, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "causing hurt by poison to facilitate an offence"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 123 BNS specifically targets administering poison, stupefying drugs, intoxicants, or other harmful substances — whether to directly cause hurt or to facilitate the commission of some other offence (e.g. robbery after drugging a victim) — punishable with up to ten years plus fine, independent of whether hurt in the Section 114 sense actually results, so long as the requisite intent or knowledge is present.",
+        "essential_elements": [
+          "Administering, or causing to be taken, poison, a stupefying/intoxicating/unwholesome drug, or other thing",
+          "With intent to cause hurt, OR intent to commit/facilitate an offence, OR knowledge that hurt is a likely consequence"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the standard charge in 'drink-spiking' and 'drug-and-rob' fact patterns — the intent to facilitate a separate offence (robbery, sexual assault, etc.) is independently sufficient, so the prosecution need not always prove intent to cause hurt as such."
+      }
+    },
+    {
+      "number": "124",
+      "title": "Voluntarily causing grievous hurt by use of acid, etc.",
+      "raw_text": "(1) Whoever causes permanent or partial damage or deformity to, or burns or maims or disfigures or disables, any part or parts of the body of a person or causes grievous hurt by throwing acid on or by administering acid to that person, or by using any other means with the intention of causing or with the knowledge that he is likely to cause such injury or hurt or causes a person to be in a permanent vegetative state shall be punished with imprisonment of either description for a term which shall not be less than ten years but which may extend to imprisonment for life, and with fine:\nProvided that such fine shall be just and reasonable to meet the medical expenses of the treatment of the victim:\nProvided further that any fine imposed under this sub-section shall be paid to the victim.\n(2) Whoever throws or attempts to throw acid on any person or attempts to administer acid to any person, or attempts to use any other means, with the intention of causing permanent or partial damage or deformity or burns or maiming or disfigurement or disability or grievous hurt to that person, shall be punished with imprisonment of either description for a term which shall not be less than five years but which may extend to seven years, and shall also be liable to fine.\nExplanation 1.—For the purposes of this section, \"acid\" includes any substance which has acidic or corrosive character or burning nature, that is capable of causing bodily injury leading to scars or disfigurement or temporary or permanent disability.\nExplanation 2.—For the purposes of this section, permanent or partial damage or deformity or permanent vegetative state shall not be required to be irreversible.",
+      "key_terms": [
+        "acid attack",
+        "attempt to throw or administer acid",
+        "acid (BNS definition)",
+        "irreversibility not required for acid-attack injury"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 124 BNS is the Sanhita's dedicated acid-attack provision, carrying one of the heaviest non-homicide punishment bands in the Chapter — a minimum of ten years rising to life imprisonment for a completed acid attack causing damage, disfigurement, disability, or permanent vegetative state, with fine specifically directed to the victim's medical expenses. Sub-section (2) separately punishes attempted acid attacks (throwing or administering, or attempting to) with five to seven years, even where the attempt fails to cause the intended injury.",
+        "essential_elements": [
+          "Causing permanent/partial damage, deformity, burns, maiming, disfigurement, disability, grievous hurt, or permanent vegetative state",
+          "By throwing or administering acid, or any other means",
+          "With intention of causing, or knowledge of likelihood of causing, such injury",
+          "Sub-section (2): attempting (rather than completing) such an acid attack"
+        ],
+        "exceptions_and_qualifications": [
+          "Explanation 2 clarifies that the injury need not be irreversible to qualify — temporary damage/deformity/vegetative state still satisfies the section"
+        ],
+        "how_to_read": "The two mandatory fine provisos (medical-expense adequacy and direct payment to the victim) make this section's sentencing structure explicitly victim-centred/restorative, distinct from the general fine-to-State-treasury default seen elsewhere in the Sanhita."
+      }
+    },
+    {
+      "number": "125",
+      "title": "Act endangering life or personal safety of others",
+      "raw_text": "Whoever does any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to three months or with fine which may extend to two thousand five hundred rupees, or with both, but—\n(a) where hurt is caused, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both;\n(b) where grievous hurt is caused, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to ten thousand rupees, or with both.",
+      "key_terms": [
+        "act endangering life or personal safety of others"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 125 BNS punishes rash or negligent acts that merely endanger human life or personal safety — even where no hurt at all results — with a modest base punishment of up to three months, scaling up to six months where hurt is caused and three years where grievous hurt results, forming a graduated ladder tied directly to actual outcome.",
+        "essential_elements": [
+          "An act done rashly or negligently",
+          "That endangers human life or the personal safety of others",
+          "Punishment escalates based on actual outcome: no injury (base band), hurt caused (clause (a)), or grievous hurt caused (clause (b))"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the Sanhita's general rash-endangerment offence and is frequently charged alongside Section 106 (causing death by negligence) or the hurt provisions where the rash act's actual consequences vary — it supplies the baseline liability even when, fortunately, no one is actually hurt."
+      }
+    },
+    {
+      "number": "126",
+      "title": "Wrongful restraint",
+      "raw_text": "(1) Whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person.\nException.—The obstruction of a private way over land or water which a person in good faith believes himself to have a lawful right to obstruct, is not an offence within the meaning of this section.\nIllustration.\nA obstructs a path along which Z has a right to pass, A not believing in good faith that he has a right to stop the path. Z is thereby prevented from passing. A wrongfully restrains Z.\n(2) Whoever wrongfully restrains any person shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "wrongful restraint",
+        "good-faith claim of right to obstruct a private way"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 126 BNS defines and punishes wrongful restraint — voluntarily obstructing a person's right to proceed in a direction they are entitled to go — with a modest penalty of up to one month's simple imprisonment. The built-in Exception protects a person who, in good faith, genuinely believes they have a lawful right to obstruct a private way, even if that belief later turns out to be mistaken.",
+        "essential_elements": [
+          "Voluntary obstruction of a person",
+          "Preventing that person from proceeding in a direction they have a legal right to proceed in"
+        ],
+        "exceptions_and_qualifications": [
+          "Good-faith obstruction of a private way by someone who genuinely believes they have a lawful right to obstruct it is not an offence under this section"
+        ],
+        "how_to_read": "Wrongful restraint is the lesser, 'blocking' offence; Section 127 (wrongful confinement) is its aggravated sibling where the obstruction goes further and actually encloses the victim within circumscribed limits — always check which of the two actually occurred on the facts."
+      }
+    },
+    {
+      "number": "127",
+      "title": "Wrongful confinement",
+      "raw_text": "(1) Whoever wrongfully restrains any person in such a manner as to prevent that person from proceedings beyond certain circumscribing limits, is said \"wrongfully to confine\" that person.\nIllustrations.\n(a) A causes Z to go within a walled space, and locks Z in. Z is thus prevented from proceeding in any direction beyond the circumscribing line of wall. A wrongfully confines Z.\n(b) A places men with firearms at the outlets of a building, and tells Z that they will fire at Z if Z attempts to leave the building. A wrongfully confines Z.\n(2) Whoever wrongfully confines any person shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.\n(3) Whoever wrongfully confines any person for three days, or more, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to ten thousand rupees, or with both.\n(4) Whoever wrongfully confines any person for ten days or more, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine which shall not be less than ten thousand rupees.\n(5) Whoever keeps any person in wrongful confinement, knowing that a writ for the liberation of that person has been duly issued, shall be punished with imprisonment of either description for a term which may extend to two years in addition to any term of imprisonment to which he may be liable under any other section of this Chapter and shall also be liable to fine.\n(6) Whoever wrongfully confines any person in such manner as to indicate an intention that the confinement of such person may not be known to any person interested in the person so confined, or to any public servant, or that the place of such confinement may not be known to or discovered by any such person or public servant as hereinbefore mentioned, shall be punished with imprisonment of either description for a term which may extend to three years in addition to any other punishment to which he may be liable for such wrongful confinement and shall also be liable to fine.\n(7) Whoever wrongfully confines any person for the purpose of extorting from the person confined, or from any person interested in the person confined, any property or valuable security or of constraining the person confined or any person interested in such person to do anything illegal or to give any information which may facilitate the commission of an offence, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.\n(8) Whoever wrongfully confines any person for the purpose of extorting from the person confined or any person interested in the person confined any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constraining the person confined or any person interested in the person confined to restore or to cause the restoration of any property or valuable security or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+      "key_terms": [
+        "wrongful confinement",
+        "confinement defying a writ of liberation",
+        "secret confinement concealing whereabouts",
+        "wrongful confinement to extort property",
+        "wrongful confinement to extort confession"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 127 BNS defines wrongful confinement as restraint within circumscribing limits (as opposed to mere directional obstruction under Section 126) and then builds a detailed, duration- and purpose-based punishment ladder across eight sub-sections: a base one-year offence (2), escalating to three years for three-plus days' confinement (3) and five years for ten-plus days (4), a distinct offence for defying a liberation writ (5), concealment-of-whereabouts aggravation (6), and purpose-based extortion-of-property (7) and extortion-of-confession (8) variants mirroring the hurt-offence structure in Sections 119-120.",
+        "essential_elements": [
+          "Wrongful restraint (Section 126) within circumscribing limits preventing the victim from proceeding beyond them",
+          "Duration-based escalation: three-plus days (sub-section (3)), ten-plus days (sub-section (4))",
+          "Sub-section (5): confinement continued with knowledge that a liberation writ has been issued",
+          "Sub-section (6): confinement carried out to conceal it from interested persons or public servants",
+          "Sub-sections (7)-(8): confinement for the purpose of extorting property/valuable security, or a confession/offence-detecting information"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat sub-sections (3)-(8) as independently chargeable aggravations layered on top of the base sub-section (2) offence — a single confinement lasting, say, twelve days and carried out to extort a confession could in principle attract sub-sections (4) and (8) together, so plead and prove each aggravating fact (duration, purpose, concealment, writ-defiance) separately."
       }
     }
   ]
