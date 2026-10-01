@@ -251,7 +251,48 @@
     "confinement defying a writ of liberation": "Section 127(6) BNS: wrongfully confining a person and keeping that person so confined after receiving a writ of habeas corpus (or any other lawful direction) for that person's release, punishable with imprisonment for up to two years in addition to any other punishment to which the offender may be liable for the original wrongful confinement.",
     "secret confinement concealing whereabouts": "Section 127(7) BNS: wrongfully confining a person in such a manner as to indicate an intention that the confinement may not be known to any person interested in the confined person, or to any public servant, or that the place of confinement may not be known to or discovered by any such person — punishable with imprisonment up to seven years, plus fine, reflecting the aggravated danger of secretive, undiscoverable confinement.",
     "wrongful confinement to extort property": "Section 127(8) BNS (extortion-of-property limb): wrongfully confining a person for the purpose of extorting property or a valuable security from the person confined or any interested person, or to constrain any person to do anything illegal that may facilitate such extortion, punishable with imprisonment of up to three years, plus fine.",
-    "wrongful confinement to extort confession": "The companion limb within Section 127(8) BNS: wrongfully confining a person to extort a confession, or information that may lead to the detection of an offence or misconduct, punishable with imprisonment of up to three years, plus fine — paralleling the extort-property limb within the same sub-section."
+    "wrongful confinement to extort confession": "The companion limb within Section 127(8) BNS: wrongfully confining a person to extort a confession, or information that may lead to the detection of an offence or misconduct, punishable with imprisonment of up to three years, plus fine — paralleling the extort-property limb within the same sub-section.",
+    "force (BNS definition)": "Defined in Section 128 BNS as causing motion, change of motion, or cessation of motion to another person or to a substance that then contacts that person's body, clothing, or carried items, or affects their sense of feeling -- but only where the actor brings this about by their own bodily power, by arranging a substance so the motion occurs without further action, or by inducing an animal to move. A morally neutral physical concept, narrowed into criminal force by Section 129.",
+    "cessation of motion": "One of the three physical effects captured by Section 128 BNS's definition of 'force' -- stopping an already-moving person or object counts as using force just as much as starting or changing its motion, illustrated by A seizing the pole of Z's palanquin and halting it.",
+    "contact affecting sense of feeling": "The qualifying requirement in Section 128 BNS: force is only made out where the motion caused brings a substance into contact with the victim's body, clothing, or carried items, or is otherwise so situated that the contact affects the victim's sense of feeling -- illustrated by pouring boiling water into a bath where the heat itself affects Z even without direct skin contact.",
+    "criminal force": "Defined in Section 129 BNS as the intentional use of force (per Section 128) to any person, without that person's consent, done either in order to commit an offence or with intention or knowledge that it is likely to cause injury, fear, or annoyance to that person -- the operative, punishable concept built on the neutral physical definition of force.",
+    "absence of consent for force": "The second of Section 129 BNS's two defining conditions for criminal force: the force must be used without the consent of the person to whom it is applied -- consensual physical contact, however forceful, does not become criminal force merely because it causes incidental injury, fear, or annoyance.",
+    "injury fear or annoyance": "The disjunctive mental-element trigger in Section 129 BNS: criminal force requires either that the force was used in order to commit an offence, or that the actor intended or knew it likely to cause injury, fear, or annoyance to the victim -- any one of these three outcomes (injury, fear, or mere annoyance) suffices, reflecting how low the threshold is set.",
+    "assault (BNS definition)": "Defined in Section 130 BNS as making any gesture or preparation, intending or knowing it likely to cause a person present to apprehend that criminal force is about to be used against them -- an anticipatory offence requiring no actual physical contact, only the creation of a reasonable apprehension of imminent criminal force.",
+    "apprehension of criminal force": "The core mental result required by Section 130 BNS's assault definition: the victim must be caused to apprehend that the person making the gesture or preparation is about to use criminal force against them -- fear of future force, not the force itself, is what completes the offence of assault.",
+    "mere words not amounting to assault": "The Explanation to Section 130 BNS: words alone, however threatening, never by themselves amount to an assault -- but words can give an otherwise ambiguous gesture or preparation the meaning needed to make it an assault, illustrated by A picking up a stick while saying 'I will give you a beating.'",
+    "punishment for base assault or criminal force": "The default punishment fixed by Section 131 BNS for simple assault or criminal force not committed on grave and sudden provocation: imprisonment of either description up to three months, fine up to one thousand rupees, or both -- the residual provision that applies unless one of the more specific, heavier Sections 132-135 (public servant, dishonour, theft, or confinement contexts) is engaged.",
+    "grave and sudden provocation defence to assault": "The mitigating circumstance recognised by Sections 131 and 136 BNS: an assault or use of criminal force committed on grave and sudden provocation from the victim draws a much lighter punishment (Section 136) than the same act committed otherwise (Section 131) -- but the mitigation is unavailable where the provocation was self-sought, arose from lawful official conduct, or arose from lawful exercise of the right of private defence.",
+    "assault or criminal force to deter a public servant": "Section 132 BNS: an aggravated assault offence, punishable up to two years' imprisonment, fine, or both, covering assault or criminal force used on a public servant in execution of duty, or with intent to deter that duty, or in consequence of duty lawfully discharged -- the assault-level counterpart to the hurt-level offence in Section 121.",
+    "assault or criminal force with intent to dishonour": "Section 133 BNS: assault or criminal force committed with the specific intention of dishonouring the victim, otherwise than on grave and sudden provocation, punishable up to two years' imprisonment, fine, or both -- the dishonouring intent is what elevates this above the base Section 131 offence.",
+    "assault or criminal force in attempt to commit theft of carried property": "Section 134 BNS: assault or criminal force used while attempting to steal property that the victim is then wearing or carrying (e.g. chain-snatching, bag-snatching), punishable up to two years' imprisonment, fine, or both.",
+    "assault or criminal force in attempt wrongfully to confine": "Section 135 BNS: assault or criminal force used while attempting to wrongfully confine a person, punishable up to one year's imprisonment, fine up to five thousand rupees, or both -- the attempt-stage precursor to a completed wrongful confinement under Section 127.",
+    "assault or criminal force on grave and sudden provocation": "Section 136 BNS: the mitigated mirror of Section 131, punishing assault or criminal force genuinely triggered by grave and sudden provocation from the victim with only simple imprisonment up to one month, fine up to one thousand rupees, or both -- subject to the same disqualifying circumstances as Section 131's Explanation 1.",
+    "kidnapping (BNS definition)": "Defined in Section 137(1) BNS as being of two kinds -- kidnapping from India and kidnapping from lawful guardianship -- punishable under sub-section (2) with up to seven years' imprisonment plus fine; it opens the 'Of kidnapping, abduction, slavery and forced labour' sub-chapter and is distinguished from the separately defined 'abduction' (Section 138), which requires force or deceitful inducement but is not independently punishable.",
+    "kidnapping from India": "The first kind of kidnapping under Section 137(1)(a) BNS: conveying any person beyond the limits of India without the consent of that person, or of someone legally authorised to consent on their behalf -- the victim's own territorial removal, not confinement or guardianship, is the gravamen.",
+    "kidnapping from lawful guardianship": "The second kind of kidnapping under Section 137(1)(b) BNS: taking or enticing a child or a person of unsound mind out of the keeping of their lawful guardian without that guardian's consent -- the victim's own consent is irrelevant here since the law deems children and persons of unsound mind incapable of consenting to being taken away.",
+    "good-faith illegitimate-father exception to kidnapping": "The Exception to Section 137(1)(b) BNS: a person who in good faith believes himself to be the father of an illegitimate child, or believes himself entitled to the child's lawful custody, is not guilty of kidnapping from lawful guardianship by taking that child -- unless the act is committed for an immoral or unlawful purpose, in which case the exception does not apply.",
+    "abduction (BNS definition)": "Defined in Section 138 BNS as compelling a person by force, or inducing them by deceitful means, to go from any place -- unlike kidnapping, abduction is not by itself a punishable offence under the Sanhita; it becomes punishable only when combined with a specific wrongful purpose under later sections such as 140 or 142.",
+    "kidnapping a child for begging": "Section 139(1) BNS: kidnapping a child, or obtaining custody of a child without being the lawful guardian, in order that the child be employed or used for begging, punishable with rigorous imprisonment of ten years to life plus fine -- a severe child-protection provision targeting organised begging rackets.",
+    "maiming a child for begging": "Section 139(2) BNS: the even more severe offence of actually maiming a child in order that the child may be employed or used for begging, punishable with a minimum twenty years' imprisonment up to life (meaning the remainder of the person's natural life), plus fine.",
+    "presumption of begging-related kidnapping": "Section 139(3) BNS: where any person other than a child's lawful guardian employs or uses that child for begging, it is presumed, unless the contrary is proved, that the person kidnapped or otherwise obtained custody of the child for the purpose of begging -- a reversed burden of proof that significantly eases the prosecution's task once child-begging-by-a-non-guardian is shown.",
+    "begging (BNS definition)": "Defined in Section 139(4) BNS to include soliciting or receiving alms in a public place under any pretence (singing, dancing, fortune-telling, tricks, selling articles, or otherwise), entering private premises to solicit alms, exhibiting a sore, wound, injury, deformity or disease (of oneself, another, or an animal) to obtain or extort alms, and using a child as an exhibit to solicit alms.",
+    "kidnapping or abducting to murder": "Section 140(1) BNS: kidnapping or abducting a person in order that they may be murdered, or exposed to the danger of being murdered, punishable with life imprisonment or up to ten years' rigorous imprisonment plus fine -- illustrated by kidnapping someone to be sacrificed to an idol, or carrying someone away from home in order that they be murdered.",
+    "kidnapping or abducting for ransom": "Section 140(2) BNS: kidnapping or abducting a person, or detaining them after such kidnapping or abduction, and threatening death or hurt (or causing a reasonable apprehension of it), or actually causing hurt or death, in order to compel a Government, foreign State, international organisation, or any person to act, abstain from acting, or pay a ransom -- punishable with death or life imprisonment, the most severe tier within Section 140.",
+    "kidnapping or abducting for secret wrongful confinement": "Section 140(3) BNS: kidnapping or abducting a person with intent that they be secretly and wrongfully confined, punishable with up to seven years' imprisonment plus fine -- the lightest of Section 140's four purpose-based tiers.",
+    "kidnapping or abducting to subject to grievous hurt or slavery": "Section 140(4) BNS: kidnapping or abducting a person in order that they be subjected (or exposed to the danger of being subjected) to grievous hurt, slavery, or the unnatural lust of any person, punishable with up to ten years' imprisonment plus fine.",
+    "importation of girl or boy for illicit intercourse": "Section 141 BNS: importing into India from any foreign country a girl under twenty-one years or a boy under eighteen years, with intent or knowledge that they will likely be forced or seduced into illicit intercourse with another person, punishable with up to ten years' imprisonment plus fine -- notable for its asymmetric age thresholds between girls and boys, and for requiring a cross-border importation element that the general trafficking offence (Section 143) does not.",
+    "wrongfully concealing a kidnapped or abducted person": "Section 142 BNS: a person who, knowing that someone has been kidnapped or abducted, wrongfully conceals or confines them is punished exactly as if they themselves had committed the kidnapping or abduction with the same intention, knowledge, or purpose underlying the concealment -- a derivative-liability provision that borrows its punishment from whichever purpose-specific tier of Section 140 matches the concealer's own purpose.",
+    "derivative liability for concealment matching original purpose": "The operative mechanism of Section 142 BNS: the concealer of a kidnapped or abducted person does not face a fixed, independent punishment, but is instead punished as if they had committed the underlying kidnapping or abduction themselves, calibrated to the same intention, knowledge, or purpose that motivates their own act of concealment or confinement.",
+    "trafficking of person (BNS definition)": "Defined in Section 143(1) BNS as recruiting, transporting, harbouring, transferring, or receiving a person for the purpose of exploitation, by any of six specified means -- threats, force or coercion, abduction, fraud or deception, abuse of power, or inducement (including payments or benefits) to secure the consent of whoever controls the victim -- the Sanhita's comprehensive anti-trafficking provision, carrying a punishment ladder from seven years to mandatory life depending on aggravating factors.",
+    "exploitation (trafficking definition)": "Defined in Explanation 1 to Section 143 BNS to include any act of physical exploitation, any form of sexual exploitation, slavery or practices similar to slavery, servitude, beggary, or forced removal of organs -- the broad purpose element that, combined with one of Section 143(1)'s six listed means, completes the offence of trafficking.",
+    "victim consent immaterial in trafficking": "Explanation 2 to Section 143 BNS: the consent of the victim is expressly made immaterial in determining whether the offence of trafficking has been committed -- a trafficked person's apparent agreement to be recruited, transported, harboured, transferred, or received does not provide any defence once the exploitation purpose and one of the specified means is established.",
+    "aggravated trafficking of a child": "The escalated punishment tiers within Section 143 BNS keyed to child victims: ten years to life for trafficking a single child (sub-section 4), fourteen years to life for trafficking more than one child (sub-section 5), and mandatory imprisonment for the remainder of natural life for a repeat conviction of child trafficking (sub-section 6) -- reflecting the Sanhita's markedly harsher treatment of trafficking offences against children.",
+    "public servant or police officer trafficking": "Section 143(7) BNS: where a public servant or police officer is involved in trafficking any person, that public servant or police officer is punishable with imprisonment for the remainder of their natural life plus fine -- a mandatory-life aggravation reflecting the particular betrayal of public trust when state functionaries participate in trafficking.",
+    "repeat child-trafficking conviction": "Section 143(6) BNS: a person convicted of child trafficking on more than one occasion must be punished with imprisonment for life, meaning imprisonment for the remainder of that person's natural life, plus fine -- a mandatory (not merely discretionary) life sentence triggered purely by the fact of a repeat conviction.",
+    "exploitation of a trafficked person": "Section 144 BNS: a demand-side offence distinct from Section 143's supply-side trafficking offence -- knowingly or having reason to believe a person has been trafficked, and then engaging that person for sexual exploitation, is independently punishable with five to ten years' imprisonment where the victim is a child, or three to seven years where the victim is an adult.",
+    "habitual dealing in slaves": "Section 145 BNS: a standalone anti-slavery offence punishing habitual importing, exporting, removing, buying, selling, trafficking in, or dealing in slaves, with life imprisonment or up to ten years' imprisonment plus fine -- the 'habitually' requirement distinguishes it from a single, isolated transaction.",
+    "unlawful compulsory labour": "Section 146 BNS, the final provision of Chapter VI: unlawfully compelling any person to labour against their will, punishable with up to one year's imprisonment, fine, or both -- a general, comparatively lightly punished forced-labour offence for situations not otherwise captured by the more specific slavery or trafficking provisions."
   },
   "sections": [
     {
@@ -2829,6 +2870,366 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Treat sub-sections (3)-(8) as independently chargeable aggravations layered on top of the base sub-section (2) offence — a single confinement lasting, say, twelve days and carried out to extort a confession could in principle attract sub-sections (4) and (8) together, so plead and prove each aggravating fact (duration, purpose, concealment, writ-defiance) separately."
+      }
+    },
+    {
+      "number": "128",
+      "title": "Force",
+      "raw_text": "A person is said to use force to another if he causes motion, change of motion, or cessation of motion to that other, or if he causes to any substance such motion, or change of motion, or cessation of motion as brings that substance into contact with any part of that other's body, or with anything which that other is wearing or carrying, or with anything so situated that such contact affects that other's sense of feeling: Provided that the person causing the motion, or change of motion, or cessation of motion, causes that motion, change of motion, or cessation of motion in one of the following three ways, namely:-- (a) by his own bodily power; (b) by disposing any substance in such a manner that the motion or change or cessation of motion takes place without any further act on his part, or on the part of any other person; (c) by inducing any animal to move, to change its motion, or to cease to move.",
+      "key_terms": [
+        "force (BNS definition)",
+        "cessation of motion",
+        "contact affecting sense of feeling"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 128 opens the 'Of criminal force and assault' sub-chapter by defining the neutral physical concept of 'force' before Section 129 narrows it to 'criminal' force. Force is causing motion, a change of motion, or a stopping of motion to another person or to a substance that then touches that person's body, clothes, or anything they're carrying, or anything positioned so the contact affects their sense of feeling. It only counts if brought about in one of three ways: by the actor's own bodily power, by arranging a substance so the motion happens without any further act, or by inducing an animal to move.",
+        "essential_elements": [
+          "Causing motion, change of motion, or cessation of motion to another person or to a substance",
+          "The motion causes contact with the other person's body, clothing, or carried items, or affects their sense of feeling",
+          "The motion is brought about by the actor's own bodily power, by disposing a substance, or by inducing an animal"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A purely definitional section, mirrored by near-identical illustrations to the historic IPC Section 349 -- read it before Section 129 to understand that 'force' itself is morally neutral; criminality is added only by the absence of consent and the actor's intent or knowledge under Section 129."
+      }
+    },
+    {
+      "number": "129",
+      "title": "Criminal force",
+      "raw_text": "Whoever intentionally uses force to any person, without that person's consent, in order to the committing of any offence, or intending by the use of such force to cause, or knowing it to be likely that by the use of such force he will cause injury, fear or annoyance to the person to whom the force is used, is said to use criminal force to that other. Illustrations. (a) Z is sitting in a moored boat on a river. A unfastens the moorings, and thus intentionally causes the boat to drift down the stream. Here A intentionally causes motion to Z, and he does this by disposing substances in such a manner that the motion is produced without any other action on any person's part. A has therefore intentionally used force to Z; and if he has done so without Z's consent, in order to the committing of any offence, or intending or knowing it to be likely that this use of force will cause injury, fear or annoyance to Z, A has used criminal force to Z. (b) Z is riding in a chariot. A lashes Z's horses, and thereby causes them to quicken their pace. Here A has caused change of motion to Z by inducing the animals to change their motion. A has therefore used force to Z; and if A has done this without Z's consent, intending or knowing it to be likely that he may thereby injure, frighten or annoy Z, A has used criminal force to Z. (c) Z is riding in a palanquin. A, intending to rob Z, seizes the pole and stops the palanquin. Here A has caused cessation of motion to Z, and he has done this by his own bodily power. A has therefore used force to Z; and as A has acted thus intentionally, without Z's consent, in order to the commission of an offence. A has used criminal force to Z. (d) A intentionally pushes against Z in the street. Here A has by his own bodily power moved his own person so as to bring it into contact with Z. He has therefore intentionally used force to Z; and if he has done so without Z's consent, intending or knowing it to be likely that he may thereby injure, frighten or annoy Z, he has used criminal force to Z. (e) A throws a stone, intending or knowing it to be likely that the stone will be thus brought into contact with Z, or with Z's clothes, or with something carried by Z, or that it will strike water and dash up the water against Z's clothes or something carried by Z. Here, if the throwing of the stone produce the effect of causing any substance to come into contact with Z, or Z's clothes, A has used force to Z, and if he did so without Z's consent, intending thereby to injure, frighten or annoy Z, he has used criminal force to Z. (f) A intentionally pulls up a woman's veil. Here A intentionally uses force to her, and if he does so without her consent intending or knowing it to be likely that he may thereby injure, frighten or annoy her, he has used criminal force to her. (g) Z is bathing. A pours into the bath water which he knows to be boiling. Here A intentionally by his own bodily power causes such motion in the boiling water as brings that water into contact with Z, or with other water so situated that such contact must affect Z's sense of feeling; A has therefore intentionally used force to Z; and if he has done this without Z's consent intending or knowing it to be likely that he may thereby cause injury, fear or annoyance to Z, A has used criminal force. (h) A incites a dog to spring upon Z, without Z's consent. Here, if A intends to cause injury, fear or annoyance to Z, he uses criminal force to Z.",
+      "key_terms": [
+        "criminal force",
+        "absence of consent for force",
+        "injury fear or annoyance"
+      ],
+      "breakdown": {
+        "plain_summary": "Criminal force is Section 128's plain 'force' plus two further conditions: it must be used without the other person's consent, and it must either be in order to commit an offence, or be intended (or known likely) to cause that person injury, fear, or annoyance. The eight illustrations -- cutting a boat's moorings, whipping a chariot's horses, stopping a palanquin to rob its occupant, jostling someone in the street, throwing a stone, pulling up a woman's veil, pouring boiling water into someone's bath, and siccing a dog on someone -- walk through each of the three force-causing methods from Section 128 combined with the non-consent and intent/knowledge requirements.",
+        "essential_elements": [
+          "Intentional use of force (as defined in Section 128) to any person",
+          "The force is used without that person's consent",
+          "Either the force is used in order to commit an offence, or the actor intends or knows it likely to cause injury, fear, or annoyance to that person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat this as the bridge definition between plain 'force' (Section 128) and the specific assault/criminal-force offences in Sections 131-136 -- Section 129 itself prescribes no punishment; it only defines the conduct that those later sections criminalise."
+      }
+    },
+    {
+      "number": "130",
+      "title": "Assault",
+      "raw_text": "Whoever makes any gesture, or any preparation intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he who makes that gesture or preparation is about to use criminal force to that person, is said to commit an assault. Explanation.--Mere words do not amount to an assault. But the words which a person uses may give to his gestures or preparation such a meaning as may make those gestures or preparations amount to an assault. Illustrations. (a) A shakes his fist at Z, intending or knowing it to be likely that he may thereby cause Z to believe that A is about to strike Z. A has committed an assault. (b) A begins to unloose the muzzle of a ferocious dog, intending or knowing it to be likely that he may thereby cause Z to believe that he is about to cause the dog to attack Z. A has committed an assault upon Z. (c) A takes up a stick, saying to Z, 'I will give you a beating'. Here, though the words used by A could in no case amount to an assault, and though the mere gesture, unaccompanied by any other circumstances, might not amount to an assault, the gesture explained by the words may amount to an assault.",
+      "key_terms": [
+        "assault (BNS definition)",
+        "apprehension of criminal force",
+        "mere words not amounting to assault"
+      ],
+      "breakdown": {
+        "plain_summary": "Assault is an anticipatory offence: it is committed by a gesture or preparation -- not actual contact -- that is intended or known likely to make a person present apprehend that criminal force is about to be used on them. Mere words alone never amount to an assault, but words can colour an otherwise ambiguous gesture (like picking up a stick) into one that does.",
+        "essential_elements": [
+          "A gesture or preparation (not actual force) by the accused",
+          "Intention or knowledge that it is likely to cause apprehension in a person present",
+          "The apprehension must be of imminent criminal force being used against that person"
+        ],
+        "exceptions_and_qualifications": [
+          "Mere words, standing alone, never amount to an assault"
+        ],
+        "how_to_read": "Note the deliberate sequencing: Section 128 defines force, 129 narrows it to criminal force, and 130 defines assault as the anticipatory, gesture-based cousin of criminal force -- the three illustrations show words either being irrelevant (shaking a fist), bolstering a gesture (unloosing a dog's muzzle), or transforming an otherwise-insufficient gesture into an assault (picking up a stick while threatening a beating)."
+      }
+    },
+    {
+      "number": "131",
+      "title": "Punishment for assault or criminal force otherwise than on grave and sudden provocation",
+      "raw_text": "Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both. Explanation 1.--Grave and sudden provocation will not mitigate the punishment for an offence under this section,-- (a) if the provocation is sought or voluntarily provoked by the offender as an excuse for the offence; or (b) if the provocation is given by anything done in obedience to the law, or by a public servant, in the lawful exercise of the powers of such public servant; or (c) if the provocation is given by anything done in the lawful exercise of the right of private defence. Explanation 2.--Whether the provocation was grave and sudden enough to mitigate the offence, is a question of fact.",
+      "key_terms": [
+        "punishment for base assault or criminal force",
+        "grave and sudden provocation defence to assault"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the base punishment provision for simple assault or criminal force: up to three months' imprisonment, fine up to one thousand rupees, or both -- but only where the act was not done on grave and sudden provocation by the victim (that scenario is punished more lightly under Section 136). The two Explanations borrow the same three provocation-disqualifying circumstances used elsewhere in the Sanhita (sought/self-provoked, lawful official conduct, lawful private defence) and confirm that whether provocation was grave and sudden enough is always a question of fact for the court.",
+        "essential_elements": [
+          "Assault or use of criminal force to any person",
+          "The act was not committed on grave and sudden provocation given by that person"
+        ],
+        "exceptions_and_qualifications": [
+          "Grave and sudden provocation is excluded as a mitigating factor where it was sought or self-provoked by the offender as an excuse",
+          "Grave and sudden provocation is excluded where given by lawful official conduct",
+          "Grave and sudden provocation is excluded where given by lawful exercise of the right of private defence"
+        ],
+        "how_to_read": "This is the residual/default assault punishment section -- always check first whether Sections 132-135 apply (public-servant, dishonour, theft, or wrongful-confinement contexts), since those carry heavier punishment; Section 131 catches everything else, and Section 136 is its own lighter-punishment mirror for genuinely provoked assaults."
+      }
+    },
+    {
+      "number": "132",
+      "title": "Assault or criminal force to deter public servant from discharge of his duty",
+      "raw_text": "Whoever assaults or uses criminal force to any person being a public servant in the execution of his duty as such public servant, or with intent to prevent or deter that person from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by such person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "assault or criminal force to deter a public servant"
+      ],
+      "breakdown": {
+        "plain_summary": "An aggravated assault offence protecting public servants in three overlapping scenarios: being assaulted while actually executing official duty, being assaulted with intent to prevent or deter that duty, or being assaulted in consequence of having lawfully discharged that duty -- punishable up to two years' imprisonment, fine, or both.",
+        "essential_elements": [
+          "Assault or use of criminal force to a public servant",
+          "Either (a) the public servant was in the execution of duty, or (b) the act was intended to prevent/deter duty, or (c) the act was in consequence of duty lawfully discharged"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare with the hurt-level equivalent, Section 121 (causing hurt to deter a public servant) -- Section 132 is the lighter, assault/force-only counterpart that doesn't require actual hurt to be caused."
+      }
+    },
+    {
+      "number": "133",
+      "title": "Assault or criminal force with intent to dishonour person, otherwise than on grave provocation",
+      "raw_text": "Whoever assaults or uses criminal force to any person, intending thereby to dishonour that person, otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "assault or criminal force with intent to dishonour"
+      ],
+      "breakdown": {
+        "plain_summary": "A dignity-protecting offence: assaulting or using criminal force with the specific intention of dishonouring the victim, where that was not provoked by grave and sudden provocation from the victim, draws up to two years' imprisonment, fine, or both -- heavier than the base Section 131 offence because of the added dishonouring intent.",
+        "essential_elements": [
+          "Assault or use of criminal force to any person",
+          "Intention to thereby dishonour that person",
+          "The act was not committed on grave and sudden provocation given by that person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The dishonouring-intent element is what separates this from plain Section 131 assault -- in practice this is pleaded where the assault is accompanied by a public, humiliating element (e.g. slapping or striking someone in front of others specifically to humiliate them)."
+      }
+    },
+    {
+      "number": "134",
+      "title": "Assault or criminal force in attempt to commit theft of property carried by a person",
+      "raw_text": "Whoever assaults or uses criminal force to any person, in attempting to commit theft on any property which that person is then wearing or carrying, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "assault or criminal force in attempt to commit theft of carried property"
+      ],
+      "breakdown": {
+        "plain_summary": "A theft-related aggravation: assaulting or using criminal force on a person while attempting to steal property they are currently wearing or carrying (e.g. snatching a chain, grabbing a bag) is punishable up to two years' imprisonment, fine, or both.",
+        "essential_elements": [
+          "Assault or use of criminal force to a person",
+          "Done in the course of attempting to commit theft on property that person is then wearing or carrying"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A common charge in chain-snatching and bag-snatching cases where the theft attempt involves direct physical contact with the victim -- if actual force sufficient to overcome resistance is used to carry the property away, consider whether robbery (which builds on theft plus force) is the more apt charge instead."
+      }
+    },
+    {
+      "number": "135",
+      "title": "Assault or criminal force in attempt wrongfully to confine a person",
+      "raw_text": "Whoever assaults or uses criminal force to any person, in attempting wrongfully to confine that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "assault or criminal force in attempt wrongfully to confine"
+      ],
+      "breakdown": {
+        "plain_summary": "Assaulting or using criminal force on someone while attempting to wrongfully confine them is punishable up to one year's imprisonment, fine up to five thousand rupees, or both -- the attempt-stage counterpart that precedes a completed wrongful confinement under Section 127.",
+        "essential_elements": [
+          "Assault or use of criminal force to a person",
+          "Done in attempting to wrongfully confine that person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If the confinement is actually completed (not merely attempted), charge under Section 127 instead (or in addition, depending on the facts) -- Section 135 specifically targets the attempt stage where force or assault was used but confinement didn't fully succeed."
+      }
+    },
+    {
+      "number": "136",
+      "title": "Assault or criminal force on grave and sudden provocation",
+      "raw_text": "Whoever assaults or uses criminal force to any person on grave and sudden provocation given by that person, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to one thousand rupees, or with both. Explanation.--This section is subject to the same Explanation as section 131.",
+      "key_terms": [
+        "assault or criminal force on grave and sudden provocation"
+      ],
+      "breakdown": {
+        "plain_summary": "The mitigated mirror of Section 131: where the assault or criminal force was genuinely provoked by grave and sudden provocation from the victim (and none of Section 131's three disqualifying circumstances apply), punishment is capped much lower -- simple imprisonment up to one month, fine up to one thousand rupees, or both.",
+        "essential_elements": [
+          "Assault or use of criminal force to any person",
+          "The act was committed on grave and sudden provocation given by that person"
+        ],
+        "exceptions_and_qualifications": [
+          "Subject to the same three disqualifying circumstances as Section 131's Explanation 1 (self-sought provocation, lawful official conduct, lawful private defence)"
+        ],
+        "how_to_read": "Always read together with Section 131 -- the two sections are mirror images keyed to the single fact of whether grave and sudden provocation triggered the assault, with 136 as the lenient outcome and 131 as the default."
+      }
+    },
+    {
+      "number": "137",
+      "title": "Kidnapping",
+      "raw_text": "(1) Kidnapping is of two kinds: kidnapping from India, and kidnapping from lawful guardianship-- (a) whoever conveys any person beyond the limits of India without the consent of that person, or of some person legally authorised to consent on behalf of that person, is said to kidnap that person from India; (b) whoever takes or entices any child or any person of unsound mind, out of the keeping of the lawful guardian of such child or person of unsound mind, without the consent of such guardian, is said to kidnap such child or person from lawful guardianship. Explanation.--The words 'lawful guardian' in this clause include any person lawfully entrusted with the care or custody of such child or other person. Exception.--This clause does not extend to the act of any person who in good faith believes himself to be the father of an illegitimate child, or who in good faith believes himself to be entitled to the lawful custody of such child, unless such act is committed for an immoral or unlawful purpose. (2) Whoever kidnaps any person from India or from lawful guardianship shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "key_terms": [
+        "kidnapping (BNS definition)",
+        "kidnapping from India",
+        "kidnapping from lawful guardianship",
+        "good-faith illegitimate-father exception to kidnapping"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 137 opens the 'Of kidnapping, abduction, slavery and forced labour' sub-chapter by defining kidnapping in two distinct forms: kidnapping from India (conveying any person beyond India's limits without their own or their lawful guardian's consent), and kidnapping from lawful guardianship (taking or enticing a child or person of unsound mind out of their lawful guardian's keeping without that guardian's consent). Both forms are punishable with up to seven years' imprisonment plus fine. A targeted exception protects a person who in good faith believes himself the father of an illegitimate child, or believes he is entitled to lawful custody, unless the act is for an immoral or unlawful purpose.",
+        "essential_elements": [
+          "Either: conveying any person beyond India's limits without consent of that person or their legally authorised consenter",
+          "Or: taking or enticing a child or person of unsound mind out of the keeping of their lawful guardian, without the guardian's consent"
+        ],
+        "exceptions_and_qualifications": [
+          "A good-faith belief of being the illegitimate child's father, or of being entitled to lawful custody of the child, is a defence -- unless the act was for an immoral or unlawful purpose"
+        ],
+        "how_to_read": "Note that the victim's own consent is irrelevant for the lawful-guardianship form if the victim is a child or person of unsound mind -- it is the guardian's consent that matters, reflecting that such victims are deemed incapable of consenting to being taken away."
+      }
+    },
+    {
+      "number": "138",
+      "title": "Abduction",
+      "raw_text": "Whoever by force compels, or by any deceitful means induces, any person to go from any place, is said to abduct that person.",
+      "key_terms": [
+        "abduction (BNS definition)"
+      ],
+      "breakdown": {
+        "plain_summary": "Abduction is defined separately from kidnapping: it is compelling a person by force, or inducing them by deceitful means, to go from any place. Unlike kidnapping, abduction by itself is not an independent offence under the Sanhita -- it only becomes punishable when combined with a specific wrongful purpose set out in later sections (e.g. Sections 140, 142).",
+        "essential_elements": [
+          "Compelling a person to go from a place by force, or inducing them to go by deceitful means"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Unlike kidnapping (independently punishable under Section 137(2)), abduction is merely an ingredient -- always check which later section (140, 142, etc.) attaches a punishable purpose to the abduction before charging it as an offence."
+      }
+    },
+    {
+      "number": "139",
+      "title": "Kidnapping or maiming a child for purposes of begging",
+      "raw_text": "(1) Whoever kidnaps any child or, not being the lawful guardian of such child, obtains the custody of the child, in order that such child may be employed or used for the purposes of begging shall be punishable with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life, and shall also be liable to fine. (2) Whoever maims any child in order that such child may be employed or used for the purposes of begging shall be punishable with imprisonment which shall not be less than twenty years, but which may extend to life which shall mean imprisonment for the remainder of that person's natural life, and with fine. (3) Where any person, not being the lawful guardian of a child employs or uses such child for the purposes of begging, it shall be presumed, unless the contrary is proved, that he kidnapped or otherwise obtained the custody of such child in order that such child might be employed or used for the purposes of begging. (4) In this section 'begging' means-- (i) soliciting or receiving alms in a public place, whether under the pretence of singing, dancing, fortune telling, performing tricks or selling articles or otherwise; (ii) entering on any private premises for the purpose of soliciting or receiving alms; (iii) exposing or exhibiting, with the object of obtaining or extorting alms, any sore, wound, injury, deformity or disease, whether of himself or of any other person or of an animal; (iv) using such child as an exhibit for the purpose of soliciting or receiving alms.",
+      "key_terms": [
+        "kidnapping a child for begging",
+        "maiming a child for begging",
+        "presumption of begging-related kidnapping",
+        "begging (BNS definition)"
+      ],
+      "breakdown": {
+        "plain_summary": "A severe child-protection provision targeting organised begging rackets: kidnapping or wrongfully obtaining custody of a child to use them for begging draws rigorous imprisonment of ten years to life, while actually maiming a child for that purpose draws a minimum twenty years up to life meaning the remainder of natural life. Sub-section (3) creates a reverse presumption -- anyone other than the lawful guardian found using a child for begging is presumed to have kidnapped or obtained custody of that child for that very purpose, unless they prove otherwise. 'Begging' itself is broadly defined to include soliciting alms in public under any pretence, entering private premises to solicit alms, exhibiting injuries or deformities to extort alms, or using a child as a prop for alms-seeking.",
+        "essential_elements": [
+          "Kidnapping a child, or obtaining custody without being the lawful guardian",
+          "The purpose of such kidnapping or custody is that the child may be employed or used for begging",
+          "(For sub-section (2)) maiming a child, with the purpose that the child may be used for begging"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sub-section (3)'s reversed burden of proof is the practically decisive feature -- prosecutors need only show a non-guardian using a child to beg; the accused must then affirmatively disprove the kidnapping/wrongful-custody purpose, a significant departure from the ordinary presumption of innocence."
+      }
+    },
+    {
+      "number": "140",
+      "title": "Kidnapping or abducting in order to murder or for ransom, etc.",
+      "raw_text": "(1) Whoever kidnaps or abducts any person in order that such person may be murdered or may be so disposed of as to be put in danger of being murdered, shall be punished with imprisonment for life or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine. Illustrations. (a) A kidnaps Z from India, intending or knowing it to be likely that Z may be sacrificed to an idol. A has committed the offence defined in this section. (b) A forcibly carries or entices B away from his home in order that B may be murdered. A has committed the offence defined in this section. (2) Whoever kidnaps or abducts any person or keeps a person in detention after such kidnapping or abduction, and threatens to cause death or hurt to such person, or by his conduct gives rise to a reasonable apprehension that such person may be put to death or hurt, or causes hurt or death to such person in order to compel the Government or any foreign State or international inter-governmental organisation or any other person to do or abstain from doing any act or to pay a ransom, shall be punishable with death, or imprisonment for life, and shall also be liable to fine. (3) Whoever kidnaps or abducts any person with intent to cause that person to be secretly and wrongfully confined, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (4) Whoever kidnaps or abducts any person in order that such person may be subjected, or may be so disposed of as to be put in danger of being subjected to grievous hurt, or slavery, or to the unnatural lust of any person, or knowing it to be likely that such person will be so subjected or disposed of, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "kidnapping or abducting to murder",
+        "kidnapping or abducting for ransom",
+        "kidnapping or abducting for secret wrongful confinement",
+        "kidnapping or abducting to subject to grievous hurt or slavery"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 140 graduates kidnapping/abduction punishment by the wrongful purpose behind it. Sub-section (1): kidnapping/abducting to murder or expose to danger of murder draws life imprisonment or up to ten years' rigorous imprisonment. Sub-section (2), the ransom/hostage-taking provision: kidnapping/abducting and threatening death or hurt, or actually causing hurt or death, to compel a government, foreign state, international organisation, or any person to act or pay ransom, draws death or life imprisonment -- the most severe band in this section. Sub-section (3): kidnapping/abducting to secretly and wrongfully confine someone draws up to seven years. Sub-section (4): kidnapping/abducting to subject someone to grievous hurt, slavery, or unnatural lust draws up to ten years.",
+        "essential_elements": [
+          "Kidnapping or abduction of a person",
+          "Coupled with one of the specific wrongful purposes in sub-sections (1)-(4): murder/danger of murder; ransom/compelling an act via threat or infliction of death or hurt; secret wrongful confinement; or grievous hurt/slavery/unnatural lust"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A multi-tier section -- always identify which specific sub-section's purpose matches the facts, since the punishment ladder ranges enormously, from seven years (secret confinement) up to death (ransom/hostage-taking with threatened or actual harm)."
+      }
+    },
+    {
+      "number": "141",
+      "title": "Importation of girl or boy from foreign country",
+      "raw_text": "Whoever imports into India from any country outside India any girl under the age of twenty-one years or any boy under the age of eighteen years with intent that girl or boy may be, or knowing it to be likely that girl or boy will be, forced or seduced to illicit intercourse with another person, shall be punishable with imprisonment which may extend to ten years and shall also be liable to fine.",
+      "key_terms": [
+        "importation of girl or boy for illicit intercourse"
+      ],
+      "breakdown": {
+        "plain_summary": "A cross-border trafficking-adjacent offence: importing a girl under twenty-one or a boy under eighteen into India from abroad, with intent or knowledge that they will be forced or seduced into illicit intercourse with another, is punishable with up to ten years' imprisonment plus fine -- notable for its asymmetric age thresholds (twenty-one for girls, eighteen for boys).",
+        "essential_elements": [
+          "Importing into India from a foreign country a girl under twenty-one or a boy under eighteen",
+          "Intent that the girl or boy will be forced or seduced to illicit intercourse, or knowledge it is likely"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note this offence is keyed specifically to cross-border importation, distinguishing it from the general trafficking offence (Section 143) which has no such territorial-crossing requirement."
+      }
+    },
+    {
+      "number": "142",
+      "title": "Wrongfully concealing or keeping in confinement, kidnapped or abducted person",
+      "raw_text": "Whoever, knowing that any person has been kidnapped or has been abducted, wrongfully conceals or confines such person, shall be punished in the same manner as if he had kidnapped or abducted such person with the same intention or knowledge, or for the same purpose as that with or for which he conceals or detains such person in confinement.",
+      "key_terms": [
+        "wrongfully concealing a kidnapped or abducted person",
+        "derivative liability for concealment matching original purpose"
+      ],
+      "breakdown": {
+        "plain_summary": "A derivative-liability provision: a person who, knowing that someone has been kidnapped or abducted, wrongfully conceals or confines that person is punished exactly as if they themselves had kidnapped or abducted that person with the same intention, knowledge, or purpose that underlies the concealment or confinement -- effectively equating the concealer's liability to Section 140's graduated purpose-based scheme.",
+        "essential_elements": [
+          "Knowledge that the person has been kidnapped or abducted",
+          "Wrongfully concealing or confining that person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The punishment is not fixed independently -- it borrows whatever punishment would apply under the kidnapping/abduction provisions (chiefly Section 140) matching the concealer's own intention or purpose in concealing/confining, so always trace back to which purpose-specific tier applies."
+      }
+    },
+    {
+      "number": "143",
+      "title": "Trafficking of person",
+      "raw_text": "(1) Whoever, for the purpose of exploitation recruits, transports, harbours, transfers, or receives a person or persons, by-- (a) using threats; or (b) using force, or any other form of coercion; or (c) by abduction; or (d) by practising fraud, or deception; or (e) by abuse of power; or (f) by inducement, including the giving or receiving of payments or benefits, in order to achieve the consent of any person having control over the person recruited, transported, harboured, transferred or received, commits the offence of trafficking. Explanation 1.--The expression 'exploitation' shall include any act of physical exploitation or any form of sexual exploitation, slavery or practices similar to slavery, servitude, beggary or forced removal of organs. Explanation 2.--The consent of the victim is immaterial in determination of the offence of trafficking. (2) Whoever commits the offence of trafficking shall be punished with rigorous imprisonment for a term which shall not be less than seven years, but which may extend to ten years, and shall also be liable to fine. (3) Where the offence involves the trafficking of more than one person, it shall be punishable with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life, and shall also be liable to fine. (4) Where the offence involves the trafficking of a child, it shall be punishable with rigorous imprisonment for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine. (5) Where the offence involves the trafficking of more than one child, it shall be punishable with rigorous imprisonment for a term which shall not be less than fourteen years, but which may extend to imprisonment for life, and shall also be liable to fine. (6) If a person is convicted of the offence of trafficking of a child on more than one occasion, then such person shall be punished with imprisonment for life, which shall mean imprisonment for the remainder of that person's natural life, and shall also be liable to fine. (7) When a public servant or a police officer is involved in the trafficking of any person then, such public servant or police officer shall be punished with imprisonment for life, which shall mean imprisonment for the remainder of that person's natural life, and shall also be liable to fine.",
+      "key_terms": [
+        "trafficking of person (BNS definition)",
+        "exploitation (trafficking definition)",
+        "victim consent immaterial in trafficking",
+        "aggravated trafficking of a child",
+        "repeat child-trafficking conviction",
+        "public servant or police officer trafficking"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 143 is the Sanhita's comprehensive anti-trafficking provision. Sub-section (1) defines trafficking broadly: recruiting, transporting, harbouring, transferring, or receiving a person for exploitation, using any of six listed means (threats, force/coercion, abduction, fraud/deception, abuse of power, or inducement including payments to whoever controls the victim). 'Exploitation' is defined expansively to cover physical or sexual exploitation, slavery-like practices, servitude, beggary, or forced organ removal, and -- critically -- the victim's consent is expressly made immaterial. The punishment ladder then escalates sharply: seven to ten years as the base (2); ten years to life for trafficking more than one person (3); ten years to life for trafficking a child (4); fourteen years to life for trafficking more than one child (5); mandatory life (remainder of natural life) for a repeat child-trafficking conviction (6); and mandatory life for any public servant or police officer involved in trafficking (7).",
+        "essential_elements": [
+          "Recruiting, transporting, harbouring, transferring, or receiving a person or persons",
+          "For the purpose of exploitation",
+          "By one of the six specified means: threats, force/coercion, abduction, fraud/deception, abuse of power, or inducement"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Explanation 2's abolition of victim consent as a defence is the single most important interpretive point -- unlike many other Sanhita offences, a trafficking victim's apparent agreement to be recruited, transported, or transferred is legally irrelevant once the exploitation purpose and one of the six means is shown."
+      }
+    },
+    {
+      "number": "144",
+      "title": "Exploitation of a trafficked person",
+      "raw_text": "(1) Whoever, knowingly or having reason to believe that a child has been trafficked, engages such child for sexual exploitation in any manner, shall be punished with rigorous imprisonment for a term which shall not be less than five years, but which may extend to ten years, and shall also be liable to fine. (2) Whoever, knowingly or having reason to believe that a person has been trafficked, engages such person for sexual exploitation in any manner, shall be punished with rigorous imprisonment for a term which shall not be less than three years, but which may extend to seven years, and shall also be liable to fine.",
+      "key_terms": [
+        "exploitation of a trafficked person"
+      ],
+      "breakdown": {
+        "plain_summary": "A demand-side offence distinct from Section 143's supply-side trafficking offence: knowingly or having reason to believe a person has been trafficked, and then engaging that person for sexual exploitation, is independently punishable -- five to ten years where the victim is a child, three to seven years where the victim is an adult.",
+        "essential_elements": [
+          "Knowledge or reason to believe that the person has been trafficked",
+          "Engaging that person for sexual exploitation in any manner"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section targets the end-user/exploiter of a trafficking chain, complementing Section 143's focus on the recruiter/transporter/harbourer -- both can be separately charged on the same facts where a trafficked person is subsequently sexually exploited by a different person."
+      }
+    },
+    {
+      "number": "145",
+      "title": "Habitual dealing in slaves",
+      "raw_text": "Whoever habitually imports, exports, removes, buys, sells, traffics or deals in slaves, shall be punished with imprisonment for life, or with imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "habitual dealing in slaves"
+      ],
+      "breakdown": {
+        "plain_summary": "A standalone anti-slavery offence targeting habitual conduct -- repeatedly importing, exporting, removing, buying, selling, trafficking, or otherwise dealing in slaves is punishable with life imprisonment or up to ten years' imprisonment, plus fine.",
+        "essential_elements": [
+          "Habitual conduct (not a single isolated act) of importing, exporting, removing, buying, selling, trafficking, or dealing in slaves"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The 'habitually' requirement distinguishes this from a single, isolated transaction -- a pattern of repeated dealing is the gravamen of this offence, carried forward largely unchanged from the former IPC's equivalent provision."
+      }
+    },
+    {
+      "number": "146",
+      "title": "Unlawful compulsory labour",
+      "raw_text": "Whoever unlawfully compels any person to labour against the will of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+      "key_terms": [
+        "unlawful compulsory labour"
+      ],
+      "breakdown": {
+        "plain_summary": "The final provision of Chapter VI: unlawfully compelling any person to labour against their will is punishable with up to one year's imprisonment, fine, or both -- a general forced-labour offence catching situations not otherwise covered by the more specific slavery or trafficking provisions.",
+        "essential_elements": [
+          "Compelling a person to labour",
+          "Against the will of that person",
+          "The compulsion is unlawful"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A residual, comparatively lightly punished offence -- where the forced labour arises from or forms part of a trafficking or exploitation scheme, consider the heavier Sections 143-144 instead; Section 146 is better suited to standalone forced-labour situations outside an organised trafficking context."
       }
     }
   ]
