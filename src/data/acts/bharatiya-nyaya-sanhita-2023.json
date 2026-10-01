@@ -517,7 +517,29 @@
     "voluntarily vitiating the atmosphere to make it noxious to health": "Section 280 BNS: voluntarily vitiating the atmosphere in a place so as to make it noxious to the health of people generally dwelling, working, or passing by nearby -- an early air-pollution offence punishable only with a fine up to one thousand rupees, the lightest (fine-only, no imprisonment option) of the chapter's environmental-nuisance offences.",
     "rash or negligent driving or riding on a public way": "Section 281 BNS: driving a vehicle or riding on a public way in a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury, punishable with up to six months' imprisonment plus fine up to one thousand rupees -- the land-transport counterpart to Section 282's rash-vessel-navigation offence.",
     "rash or negligent navigation of a vessel": "Section 282 BNS: navigating a vessel so rashly or negligently as to endanger human life or be likely to cause hurt or injury, punishable with up to six months' imprisonment plus fine up to ten thousand rupees -- the water-transport mirror of Section 281, with a tenfold higher fine ceiling reflecting the generally higher stakes of reckless vessel navigation.",
-    "exhibiting a false light mark or buoy to mislead navigators": "Section 283 BNS: exhibiting a false light, mark, or buoy, intending or knowing it likely to mislead a navigator, punishable with up to seven years' imprisonment plus a mandatory minimum fine of ten thousand rupees -- by far the heaviest offence in the maritime-safety cluster, reflecting the catastrophic shipwreck/mass-casualty risk this conduct creates."
+    "exhibiting a false light mark or buoy to mislead navigators": "Section 283 BNS: exhibiting a false light, mark, or buoy, intending or knowing it likely to mislead a navigator, punishable with up to seven years' imprisonment plus a mandatory minimum fine of ten thousand rupees -- by far the heaviest offence in the maritime-safety cluster, reflecting the catastrophic shipwreck/mass-casualty risk this conduct creates.",
+    "conveying a person for hire in an unsafe or overloaded vessel": "Section 284 BNS: knowingly or negligently conveying, or causing to be conveyed, a person by water for hire in a vessel so unsafe or overloaded as to endanger that person's life, punishable with up to six months' imprisonment plus fine up to five thousand rupees -- protects paying passengers, distinct from Section 282's rash-navigation offence which targets reckless operation rather than inherent unsafety.",
+    "causing danger obstruction or injury in a public way or line of navigation": "Section 285 BNS: a fine-only offence (up to five thousand rupees) covering both acts and omissions -- doing an act, or omitting to properly manage property in one's possession or charge, so as to cause danger, obstruction, or injury to anyone in a public way or public line of navigation; functions as a broad catch-all beneath the more specific negligence offences of Sections 286-291.",
+    "rash or negligent act with a poisonous substance": "The active-conduct limb of Section 286 BNS: doing an act with a poisonous substance in a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury, punishable with up to six months' imprisonment plus fine up to five thousand rupees.",
+    "negligent omission to safeguard a poisonous substance": "The passive-omission limb of Section 286 BNS: knowingly or negligently omitting to take precautions sufficient to guard against probable danger to human life from a poisonous substance in one's possession, punished identically to the active-conduct limb -- the first of six structurally parallel 'negligent conduct with respect to X' offences spanning Sections 286-291.",
+    "rash or negligent act with fire or combustible matter": "The active-conduct limb of Section 287 BNS: doing an act with fire or combustible matter in a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury, punishable with up to six months' imprisonment plus fine up to two thousand rupees -- a lower fine ceiling than the parallel poisonous-substance offence.",
+    "negligent omission to safeguard fire or combustible matter": "The passive-omission limb of Section 287 BNS: knowingly or negligently omitting sufficient precautions with fire or combustible matter in one's possession to guard against probable danger to human life, punished identically to the active-conduct limb of the same section.",
+    "rash or negligent act with an explosive substance": "The active-conduct limb of Section 288 BNS: doing an act with an explosive substance in a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury, punishable with up to six months' imprisonment plus fine up to five thousand rupees -- covers negligence only; deliberate misuse of explosives to cause harm falls under heavier body/property offences elsewhere in the Sanhita.",
+    "negligent omission to safeguard an explosive substance": "The passive-omission limb of Section 288 BNS: knowingly or negligently omitting sufficient precautions with an explosive substance in one's possession to guard against probable danger to human life, punished identically to the active-conduct limb of the same section.",
+    "rash or negligent act with machinery": "The active-conduct limb of Section 289 BNS: doing an act with machinery in a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury, punishable with up to six months' imprisonment plus fine up to five thousand rupees.",
+    "negligent omission to safeguard machinery": "The passive-omission limb of Section 289 BNS: knowingly or negligently omitting sufficient precautions with machinery in one's possession or under one's care to guard against probable danger to human life -- the 'or under his care' wording extends this slightly beyond strict legal possession, unlike the parallel poison/fire/explosive provisions.",
+    "negligent omission to safeguard against building collapse during demolition repair or construction": "Section 290 BNS: a person pulling down, repairing, or constructing a building who knowingly or negligently omits measures sufficient to guard against the probable danger of the building (or part of it) falling, punishable with up to six months' imprisonment plus fine up to five thousand rupees -- unlike Sections 286-289, this has only a single omission-based limb, with no separate rash-act limb.",
+    "negligent omission to safeguard against danger from an animal": "Section 291 BNS, closing the negligence-offence cluster: knowingly or negligently omitting measures sufficient to guard against probable danger to human life, or probable grievous hurt, from an animal in one's possession, punishable with up to six months' imprisonment plus fine up to five thousand rupees -- like Section 290, a single omission-based limb with no separate rash-act limb.",
+    "residual punishment for public nuisance": "Section 292 BNS: the catch-all fine-only punishment (up to one thousand rupees) for conduct meeting the Section 270 public-nuisance definition but not already specifically punished elsewhere in the Sanhita -- always check the more targeted provisions (Sections 271-291 and others) first.",
+    "repeating or continuing a nuisance after a lawful injunction to discontinue": "Section 293 BNS: repeating or continuing a public nuisance after being enjoined to stop by a public servant with lawful authority to issue such an injunction, punishable with up to six months' simple imprisonment plus fine up to five thousand rupees -- far heavier than Section 292's plain fine-only residual punishment, reflecting the added seriousness of defying a specific lawful official order.",
+    "obscenity test for books and other objects including electronic content": "Section 294(1) BNS: material is deemed obscene if it is lascivious, appeals to the prurient interest, or if its effect (or the effect of any one item within a composite work), taken as a whole, tends to deprave and corrupt persons likely to read, see, or hear it -- expressly extended to cover display of content in electronic form, not just physical books or objects.",
+    "selling distributing or circulating obscene objects": "Section 294(2) BNS: the broad conduct offence built on the sub-section (1) obscenity test -- selling, hiring, distributing, publicly exhibiting, circulating, producing, possessing for those purposes, importing/exporting/conveying, profiting from such a business, advertising such material, or attempting any of the above, punishable up to two years (first conviction) escalating to five years (second or subsequent conviction), subject to public-good and religious-use exceptions.",
+    "public-good and bona fide religious-use exceptions to obscenity": "The Exception to Section 294 BNS: material whose publication is proved justified as being for the public good on grounds of science, literature, art, learning, or other objects of general concern, or kept/used bona fide for religious purposes, falls outside the obscenity offence entirely -- as do representations on protected ancient monuments or on temples/idol-conveyance cars used for religious purposes.",
+    "selling or distributing an obscene object to a child": "Section 295 BNS: the child-protection escalation of Section 294 -- selling, hiring, distributing, exhibiting, or circulating (or attempting) a Section-294-obscene object specifically to a child, punishable up to three years (first conviction) escalating to seven years (second or subsequent conviction), both tiers heavier than the general Section 294 obscenity offence.",
+    "obscene act in a public place": "The first limb of Section 296 BNS: doing an obscene act in a public place to the annoyance of others, punishable with up to three months' imprisonment plus fine up to one thousand rupees -- targets live public conduct, distinct from Section 294's offences concerning obscene material/objects.",
+    "obscene song ballad or words in or near a public place": "The second limb of Section 296 BNS: singing, reciting, or uttering an obscene song, ballad, or words in or near a public place, to the annoyance of others, punished identically to the obscene-act limb of the same section -- the 'to the annoyance of others' requirement is an operative element the prosecution must prove.",
+    "keeping an office for an unauthorised lottery": "Section 297(1) BNS, closing Chapter XV: keeping any office or place for drawing a lottery that is neither a State lottery nor one authorised by the State Government, punishable with up to six months' imprisonment, fine, or both -- State-run or State-authorised lotteries are entirely outside this prohibition.",
+    "publishing a proposal tied to the drawing of an unauthorised lottery": "Section 297(2) BNS: publishing any proposal to pay a sum, deliver goods, or do/forbear from doing anything for a person's benefit, contingent on the drawing of a ticket, lot, number, or figure in an unauthorised lottery -- a fine-only offence (up to five thousand rupees) targeting promoters/advertisers rather than the office-keeping operator covered by sub-section (1)."
   },
   "sections": [
     {
@@ -5973,6 +5995,260 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "The mandatory minimum fine (not less than ten thousand rupees, with no stated upper cap) is unusual within this chapter's otherwise fine-capped offences, and the seven-year maximum imprisonment reflects the potentially catastrophic consequences of deliberately misleading maritime navigation -- shipwrecks, mass casualties -- that this conduct risks."
+      }
+    },
+    {
+      "number": "284",
+      "title": "Conveying person by water for hire in unsafe or overloaded vessel",
+      "raw_text": "Whoever knowingly or negligently conveys, or causes to be conveyed for hire, any person by water in any vessel, when that vessel is in such a state or so loaded as to endanger the life of that person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "conveying a person for hire in an unsafe or overloaded vessel"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 284 BNS protects paying passengers on water transport -- knowingly or negligently conveying, or causing to be conveyed, a person for hire by water in a vessel so unsafe or overloaded as to endanger that person's life, punishable with up to six months plus fine up to five thousand rupees.",
+        "essential_elements": [
+          "conveying, or causing to be conveyed, a person by water in a vessel, for hire",
+          "the vessel's state or loading endangers the life of that person",
+          "knowledge or negligence as to the unsafe state or overloading"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This sits alongside Section 282's rash-navigation offence but targets a distinct wrong -- not reckless operation of an otherwise sound vessel, but putting a paying passenger on a vessel that is inherently unsafe or overloaded in the first place."
+      }
+    },
+    {
+      "number": "285",
+      "title": "Danger or obstruction in public way or line of navigation",
+      "raw_text": "Whoever, by doing any act, or by omitting to take order with any property in his possession or under his charge, causes danger, obstruction or injury to any person in any public way or public line of navigation, shall be punished with fine which may extend to five thousand rupees.",
+      "key_terms": [
+        "causing danger obstruction or injury in a public way or line of navigation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 285 BNS is a fine-only offence covering both acts and omissions -- doing any act, or omitting to properly manage property in one's possession or charge, so as to cause danger, obstruction, or injury to anyone in a public way or public line of navigation, punishable with fine up to five thousand rupees.",
+        "essential_elements": [
+          "an act, or an omission to take order with property in one's possession or under one's charge",
+          "causing danger, obstruction, or injury to a person in a public way or public line of navigation"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Like Section 280, this is fine-only with no imprisonment option -- it functions as a broad catch-all for public-way/navigation-line obstruction that doesn't rise to the level of the more specific, imprisonment-carrying negligence offences in Sections 286-291."
+      }
+    },
+    {
+      "number": "286",
+      "title": "Negligent conduct with respect to poisonous substance",
+      "raw_text": "Whoever does, with any poisonous substance, any act in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any person or knowingly or negligently omits to take such order with any poisonous substance in his possession as is sufficient to guard against any probable danger to human life from such poisonous substance, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "rash or negligent act with a poisonous substance",
+        "negligent omission to safeguard a poisonous substance"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 286 BNS opens a cluster of near-identically structured negligence offences tied to specific categories of inherently dangerous things -- here, poisonous substances. Either rashly/negligently acting with a poisonous substance so as to endanger life, or knowingly/negligently failing to take sufficient safeguarding precautions with one in one's possession, draws up to six months plus fine up to five thousand rupees.",
+        "essential_elements": [
+          "doing an act with a poisonous substance in a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury, OR",
+          "knowingly or negligently omitting to take sufficient precautions with a poisonous substance in one's possession to guard against probable danger to human life"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the first of six structurally parallel 'negligent conduct with respect to X' offences (Sections 286-291, covering poisonous substances, fire/combustible matter, explosives, machinery, buildings, and animals) -- each pairs an active-rash-act limb with a passive-failure-to-safeguard limb, both carrying identical punishment ranges except where noted."
+      }
+    },
+    {
+      "number": "287",
+      "title": "Negligent conduct with respect to fire or combustible matter",
+      "raw_text": "Whoever does, with fire or any combustible matter, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person or knowingly or negligently omits to take such order with any fire or any combustible matter in his possession as is sufficient to guard against any probable danger to human life from such fire or combustible matter, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to two thousand rupees, or with both.",
+      "key_terms": [
+        "rash or negligent act with fire or combustible matter",
+        "negligent omission to safeguard fire or combustible matter"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 287 BNS applies the same rash-act/failure-to-safeguard structure as Section 286, but to fire or combustible matter -- punishable with up to six months plus fine up to two thousand rupees (a lower fine ceiling than the poisonous-substance offence).",
+        "essential_elements": [
+          "doing an act with fire or combustible matter in a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury, OR",
+          "knowingly or negligently omitting to take sufficient precautions with fire or combustible matter in one's possession to guard against probable danger to human life"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare the fine ceilings across this cluster of sections -- they are not uniform (five thousand for poison, two thousand for fire, five thousand for explosives and machinery and buildings) even though imprisonment ceilings are identical at six months throughout."
+      }
+    },
+    {
+      "number": "288",
+      "title": "Negligent conduct with respect to explosive substance",
+      "raw_text": "Whoever does, with any explosive substance, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any explosive substance in his possession as is sufficient to guard against any probable danger to human life from that substance, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "rash or negligent act with an explosive substance",
+        "negligent omission to safeguard an explosive substance"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 288 BNS continues the structural pattern for explosive substances -- rashly/negligently acting with an explosive so as to endanger life, or failing to safeguard one sufficiently, punishable with up to six months plus fine up to five thousand rupees.",
+        "essential_elements": [
+          "doing an act with an explosive substance in a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury, OR",
+          "knowingly or negligently omitting to take sufficient precautions with an explosive substance in one's possession to guard against probable danger to human life"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note this section's relatively modest six-month maximum applies only to the negligence-based conduct covered here -- deliberate, intentional misuse of explosives to cause harm falls instead under the much heavier body-offence or property-offence provisions elsewhere in the Sanhita, not this section."
+      }
+    },
+    {
+      "number": "289",
+      "title": "Negligent conduct with respect to machinery",
+      "raw_text": "Whoever does, with any machinery, any act so rashly or negligently as to endanger human life or to be likely to cause hurt or injury to any other person or knowingly or negligently omits to take such order with any machinery in his possession or under his care as is sufficient to guard against any probable danger to human life from such machinery, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "rash or negligent act with machinery",
+        "negligent omission to safeguard machinery"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 289 BNS applies the same structure to machinery -- rashly/negligently operating machinery so as to endanger life, or failing to sufficiently safeguard machinery in one's possession or care, punishable with up to six months plus fine up to five thousand rupees.",
+        "essential_elements": [
+          "doing an act with machinery in a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury, OR",
+          "knowingly or negligently omitting to take sufficient precautions with machinery in one's possession or under one's care to guard against probable danger to human life"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The phrase 'in his possession or under his care' (slightly broader than the 'in his possession' wording used for poison, fire, and explosives) extends this offence to machinery one merely has custodial responsibility for, even without strict legal possession."
+      }
+    },
+    {
+      "number": "290",
+      "title": "Negligent conduct with respect to pulling down, repairing or constructing buildings, etc.",
+      "raw_text": "Whoever, in pulling down, repairing or constructing any building, knowingly or negligently omits to take such measures with that building as is sufficient to guard against any probable danger to human life from the fall of that building, or of any part thereof, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "negligent omission to safeguard against building collapse during demolition repair or construction"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 290 BNS targets construction-site safety -- a person pulling down, repairing, or constructing a building who knowingly or negligently omits sufficient safety measures against the probable danger of the building (or part of it) falling, punishable with up to six months plus fine up to five thousand rupees.",
+        "essential_elements": [
+          "pulling down, repairing, or constructing a building",
+          "knowing or negligent omission to take measures sufficient to guard against probable danger to human life from the fall of that building or any part of it"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Unlike Sections 286-289, this section has only a single omission-based limb (no separate 'rash act' limb) -- the offence is specifically about failing to safeguard during demolition, repair, or construction work, not about rashly operating equipment in the process."
+      }
+    },
+    {
+      "number": "291",
+      "title": "Negligent conduct with respect to animal",
+      "raw_text": "Whoever knowingly or negligently omits to take such measures with any animal in his possession as is sufficient to guard against any probable danger to human life, or any probable danger of grievous hurt from such animal, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "negligent omission to safeguard against danger from an animal"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 291 BNS closes the negligence-offence cluster -- knowingly or negligently omitting sufficient safeguarding measures with an animal in one's possession, guarding against probable danger to human life or probable grievous hurt, punishable with up to six months plus fine up to five thousand rupees.",
+        "essential_elements": [
+          "possession of an animal",
+          "knowing or negligent omission to take measures sufficient to guard against probable danger to human life, or probable danger of grievous hurt, from that animal"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Like Section 290, this is a single omission-based limb -- the offence targets failure to safeguard against a dangerous animal one possesses, not any rash act done 'with' the animal; this closes out the six-section negligence cluster (286-291) before the chapter returns to nuisance and obscenity offences."
+      }
+    },
+    {
+      "number": "292",
+      "title": "Punishment for public nuisance in cases not otherwise provided for",
+      "raw_text": "Whoever commits a public nuisance in any case not otherwise punishable by this Sanhita shall be punished with fine which may extend to one thousand rupees.",
+      "key_terms": [
+        "residual punishment for public nuisance"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 292 BNS supplies the residual, catch-all punishment for the Section 270 public-nuisance definition -- where conduct fits the definition of public nuisance but isn't already specifically punished elsewhere in the Sanhita (e.g. by Sections 271-291's targeted offences), this fine-only provision (up to one thousand rupees) applies.",
+        "essential_elements": [
+          "conduct that constitutes a public nuisance within the Section 270 definition",
+          "the conduct is not otherwise punishable under any other provision of the Sanhita"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always check the more specific provisions first (Sections 271-291, and others scattered through the Sanhita) before falling back on Section 292 -- it exists precisely to avoid a gap in coverage for public-nuisance conduct that doesn't fit any more targeted offence."
+      }
+    },
+    {
+      "number": "293",
+      "title": "Continuance of nuisance after injunction to discontinue",
+      "raw_text": "Whoever repeats or continues a public nuisance, having been enjoined by any public servant who has lawful authority to issue such injunction not to repeat or continue such nuisance, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "repeating or continuing a nuisance after a lawful injunction to discontinue"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 293 BNS escalates liability where a public nuisance continues despite an official order to stop -- repeating or continuing a public nuisance after being enjoined by a public servant with lawful authority to issue such an injunction, punishable with up to six months' simple imprisonment plus fine up to five thousand rupees, far heavier than Section 292's plain fine-only residual punishment.",
+        "essential_elements": [
+          "repeating or continuing a public nuisance",
+          "having been enjoined (ordered to stop) by a public servant with lawful authority to issue such an injunction"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The jump from Section 292's fine-only residual punishment to this section's imprisonment-carrying punishment illustrates a recurring theme in the Sanhita -- defiance of a specific lawful official order is treated as substantially more serious than the underlying primary conduct alone."
+      }
+    },
+    {
+      "number": "294",
+      "title": "Sale, etc., of obscene books, etc.",
+      "raw_text": "(1) For the purposes of sub-section (2), a book, pamphlet, paper, writing, drawing, painting, representation, figure or any other object, including display of any content in electronic form shall be deemed to be obscene if it is lascivious or appeals to the prurient interest or if its effect, or (where it comprises two or more distinct items) the effect of any one of its items, is, if taken as a whole, such as to tend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter contained or embodied in it.\n\n(2) Whoever--\n\n(a) sells, lets to hire, distributes, publicly exhibits or in any manner puts into circulation, or for purposes of sale, hire, distribution, public exhibition or circulation, makes, produces or has in his possession any obscene book, pamphlet, paper, drawing, painting, representation or figure or any other obscene object whatsoever in whatever manner; or\n\n(b) imports, exports or conveys any obscene object for any of the purposes aforesaid, or knowing or having reason to believe that such object will be sold, let to hire, distributed or publicly exhibited or in any manner put into circulation; or\n\n(c) takes part in or receives profits from any business in the course of which he knows or has reason to believe that any such obscene objects are, for any of the purposes aforesaid, made produced, purchased, kept, imported, exported, conveyed, publicly exhibited or in any manner put into circulation; or\n\n(d) advertises or makes known by any means whatsoever that any person is engaged or is ready to engage in any act which is an offence under this section, or that any such obscene object can be procured from or through any person; or\n\n(e) offers or attempts to do any act which is an offence under this section,\n\nshall be punished on first conviction with imprisonment of either description for a term which may extend to two years, and with fine which may extend to five thousand rupees, and, in the event of a second or subsequent conviction, with imprisonment of either description for a term which may extend to five years, and also with fine which may extend to ten thousand rupees.\n\nException.--This section does not extend to--\n\n(a) any book, pamphlet, paper, writing, drawing, painting, representation or figure--\n\n(i) the publication of which is proved to be justified as being for the public good on the ground that such book, pamphlet, paper, writing, drawing, painting, representation or figure is in the interest of science, literature, art or learning or other objects of general concern; or\n\n(ii) which is kept or used bona fide for religious purposes;\n\n(b) any representation sculptured, engraved, painted or otherwise represented on or in--\n\n(i) any ancient monument within the meaning of the Ancient Monuments and Archaeological Sites and Remains Act, 1958; or\n\n(ii) any temple, or on any car used for the conveyance of idols, or kept or used for any religious purpose.",
+      "key_terms": [
+        "obscenity test for books and other objects including electronic content",
+        "selling distributing or circulating obscene objects",
+        "public-good and bona fide religious-use exceptions to obscenity"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 294 BNS defines what counts as 'obscene' (lascivious, appealing to prurient interest, or tending to deprave and corrupt likely readers/viewers/listeners, taking the work as a whole, and expressly extending to electronic-form content) and then criminalises a broad range of conduct around obscene material -- selling, hiring, distributing, exhibiting, producing, importing/exporting, profiting from, advertising, or attempting any of these -- with escalating punishment for repeat convictions, subject to public-good and bona fide religious-use exceptions.",
+        "essential_elements": [
+          "the material qualifies as 'obscene' under sub-section (1)'s test (lascivious, prurient appeal, or tending to deprave/corrupt likely readers/viewers/listeners taken as a whole)",
+          "one of the acts in sub-section (2)(a)-(e) -- selling/hiring/distributing/exhibiting/circulating/producing/possessing for those purposes, importing/exporting/conveying, profiting from such a business, advertising such material or services, or attempting any of the above",
+          "first conviction: up to two years plus fine up to five thousand rupees; second or subsequent conviction: up to five years plus fine up to ten thousand rupees"
+        ],
+        "exceptions_and_qualifications": [
+          "Does not extend to material whose publication is proved justified as being for the public good on grounds of science, literature, art, learning, or other objects of general concern, or kept/used bona fide for religious purposes.",
+          "Does not extend to representations on ancient monuments (under the Ancient Monuments and Archaeological Sites and Remains Act, 1958) or on temples/idol-conveyance cars kept or used for religious purposes."
+        ],
+        "how_to_read": "The sub-section (1) obscenity test ('taken as a whole,' likely-audience-focused) is the threshold question that must be answered before any of the sub-section (2) conduct limbs can apply; always check the Exception next -- genuine scientific, literary, artistic, or bona fide religious material is carved out even if it might otherwise satisfy the obscenity test."
+      }
+    },
+    {
+      "number": "295",
+      "title": "Sale, etc., of obscene objects to child",
+      "raw_text": "Whoever sells, lets to hire, distributes, exhibits or circulates to any child any such obscene object as is referred to in section 294, or offers or attempts so to do, shall be punished on first conviction with imprisonment of either description for a term which may extend to three years, and with fine which may extend to two thousand rupees, and, in the event of a second or subsequent conviction, with imprisonment of either description for a term which may extend to seven years, and also with fine which may extend to five thousand rupees.",
+      "key_terms": [
+        "selling or distributing an obscene object to a child"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 295 BNS is the child-protection escalation of Section 294 -- selling, hiring, distributing, exhibiting, or circulating (or attempting to do any of these with) an obscene object as defined in Section 294, specifically to a child, carrying heavier punishment than the general obscenity offence: up to three years on first conviction, up to seven years on repeat conviction.",
+        "essential_elements": [
+          "an object that qualifies as obscene under Section 294's definition",
+          "selling, letting to hire, distributing, exhibiting, or circulating that object to a child, or offering/attempting to do so",
+          "first conviction: up to three years plus fine up to two thousand rupees; second or subsequent conviction: up to seven years plus fine up to five thousand rupees"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare directly against Section 294: the imprisonment maximum here is higher at every tier (3 years vs. 2 years on first conviction; 7 years vs. 5 years on repeat) despite a lower first-conviction fine ceiling, reflecting the heightened seriousness the Sanhita attaches to exposing children specifically to obscene material."
+      }
+    },
+    {
+      "number": "296",
+      "title": "Obscene acts and songs",
+      "raw_text": "Whoever, to the annoyance of others,--\n\n(a) does any obscene act in any public place; or\n\n(b) sings, recites or utters any obscene song, ballad or words, in or near any public place,\n\nshall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.",
+      "key_terms": [
+        "obscene act in a public place",
+        "obscene song ballad or words in or near a public place"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 296 BNS targets live obscene conduct in public, as distinct from Section 294's obscene-material offences -- doing an obscene act in a public place, or singing/reciting/uttering obscene songs, ballads, or words in or near a public place, to the annoyance of others, punishable with up to three months plus fine up to one thousand rupees.",
+        "essential_elements": [
+          "an obscene act in a public place, OR obscene song/ballad/words sung, recited, or uttered in or near a public place",
+          "the conduct is to the annoyance of others"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The 'to the annoyance of others' requirement is an operative element, not mere surplus language -- the prosecution must show the conduct actually annoyed someone, tying this offence conceptually back to the public-nuisance framework opening the chapter even though it sits in the obscenity cluster."
+      }
+    },
+    {
+      "number": "297",
+      "title": "Keeping lottery office",
+      "raw_text": "(1) Whoever keeps any office or place for the purpose of drawing any lottery not being a State lottery or a lottery authorised by the State Government, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.\n\n(2) Whoever publishes any proposal to pay any sum, or to deliver any goods, or to do or forbear from doing anything for the benefit of any person, on any event or contingency relative or applicable to the drawing of any ticket, lot, number or figure in any such lottery, shall be punished with fine which may extend to five thousand rupees.",
+      "key_terms": [
+        "keeping an office for an unauthorised lottery",
+        "publishing a proposal tied to the drawing of an unauthorised lottery"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 297 BNS, closing Chapter XV, targets unauthorised lotteries -- keeping an office or place for drawing any lottery that is not a State lottery or a State-Government-authorised lottery (sub-section (1)), and separately, publishing any proposal to pay money, deliver goods, or do/forbear from doing anything contingent on such an unauthorised lottery's drawing (sub-section (2)).",
+        "essential_elements": [
+          "sub-section (1): keeping an office or place for the purpose of drawing a lottery that is neither a State lottery nor one authorised by the State Government",
+          "sub-section (2): publishing a proposal to pay a sum, deliver goods, or do/forbear from doing anything for a person's benefit, contingent on the drawing of a ticket, lot, number, or figure in such an unauthorised lottery"
+        ],
+        "exceptions_and_qualifications": [
+          "State lotteries and lotteries authorised by the State Government fall outside sub-section (1)'s prohibition entirely."
+        ],
+        "how_to_read": "The two sub-sections target different points in the unauthorised-lottery chain -- sub-section (1) the operator who keeps the drawing office (imprisonment-eligible), sub-section (2) anyone who publishes lottery-contingent proposals, such as promoters or advertisers (fine-only) -- and both carve out State-run or State-authorised lotteries from the outset."
       }
     }
   ]
