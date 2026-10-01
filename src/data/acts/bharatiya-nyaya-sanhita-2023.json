@@ -665,7 +665,12 @@
     "bare possession of a counterfeit seal plate or instrument without the specific forgery intent": "Section 341(3) BNS: possessing any seal, plate, or other instrument knowing it to be counterfeit, without proof of the specific forgery-intent required under sub-sections (1) or (2), punishable with up to three years plus fine -- a lower-culpability residual tier.",
     "fraudulently or dishonestly using a known counterfeit seal plate or instrument as genuine": "Section 341(4) BNS: fraudulently or dishonestly using as genuine any seal, plate, or other instrument known or reasonably believed to be counterfeit, punished in the same manner as if the user had made or counterfeited it themselves under sub-sections (1) or (2) as applicable.",
     "counterfeiting or possessing a counterfeited authenticating device or mark for Section 338-category documents": "Section 342(1) BNS: counterfeiting, upon or in any material, a device or mark used to authenticate a Section 338-category document (valuable securities, wills, etc.), or possessing material bearing such a counterfeited device/mark, intending it give a forged document the appearance of authenticity, punishable with life imprisonment or up to seven years plus fine.",
-    "counterfeiting or possessing a counterfeited authenticating device or mark for any other document or electronic record": "Section 342(2) BNS: the same counterfeiting/possessing conduct as Section 342(1), but for authenticating devices or marks used on documents or electronic records outside the Section 338 category, punishable with up to seven years plus fine."
+    "counterfeiting or possessing a counterfeited authenticating device or mark for any other document or electronic record": "Section 342(2) BNS: the same counterfeiting/possessing conduct as Section 342(1), but for authenticating devices or marks used on documents or electronic records outside the Section 338 category, punishable with up to seven years plus fine.",
+    "fraudulently or dishonestly cancelling destroying defacing or secreting a will authority to adopt or valuable security": "Section 343 BNS, core conduct: fraudulently or dishonestly, or with intent to cause damage or injury to the public or any person, cancelling, destroying, defacing, or secreting a document which is or purports to be a will, an authority to adopt a son, or a valuable security, punishable with life imprisonment or up to seven years plus fine -- the destruction-side mirror of Section 338's forgery offence over the same document category.",
+    "attempting to cancel destroy deface or secrete such a document, or committing mischief in respect of it": "Section 343 BNS, extended conduct: the offence is equally made out by merely attempting to cancel, destroy, deface, or secrete a will/adoption-authority/valuable-security document, or by committing mischief in respect of it, carrying the identical life-imprisonment-or-seven-years punishment as the completed act.",
+    "a clerk officer or servant wilfully and fraudulently destroying altering mutilating or falsifying an employer's book record or account": "Section 344 BNS, first limb: a clerk, officer, or servant (or person employed/acting as such) who wilfully and with intent to defraud destroys, alters, mutilates, or falsifies any book, electronic record, paper, writing, valuable security, or account belonging to, in the possession of, or received on behalf of, their employer, punishable with up to seven years, fine, or both.",
+    "wilfully and fraudulently making a false entry or omitting or altering a material particular in an employer's book record or account": "Section 344 BNS, second limb: a clerk, officer, or servant who wilfully and with intent to defraud makes or abets a false entry in, or omits or alters (or abets the omission/alteration of) a material particular from or in, an employer's book, electronic record, paper, writing, valuable security, or account, carrying the same up-to-seven-years punishment as the destruction/falsification limb.",
+    "sufficiency of alleging a general intent to defraud without specifics in a falsification-of-accounts charge": "Explanation to Section 344 BNS: a charge under this section need only allege a general intent to defraud, without naming the particular person intended to be defrauded, specifying the particular sum of money involved, or specifying the particular day of commission -- a relaxed pleading standard reflecting how accounting fraud is typically detected through patterns rather than a single identifiable incident."
   },
   "sections": [
     {
@@ -7249,6 +7254,44 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "Read Sections 341 and 342 as a matched pair targeting two different categories of forgery-enabling tools -- Section 341 covers seals, plates, and impression-making instruments, while Section 342 covers devices or marks counterfeited directly onto or into the material itself (closer to security features like watermarks or holograms); both replicate the same Section-338-category-versus-other split in their sentencing tiers, keeping the tool offences calibrated to the gravity of the forgery they are meant to facilitate."
+      }
+    },
+    {
+      "number": "343",
+      "title": "Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security",
+      "raw_text": "Whoever fraudulently or dishonestly, or with intent to cause damage or injury to the public or to any person, cancels, destroys or defaces, or attempts to cancel, destroy or deface, or secretes or attempts to secrete any document which is or purports to be a will, or an authority to adopt a son, or any valuable security, or commits mischief in respect of such document, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "key_terms": [
+        "fraudulently or dishonestly cancelling destroying defacing or secreting a will authority to adopt or valuable security",
+        "attempting to cancel destroy deface or secrete such a document, or committing mischief in respect of it"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 343 BNS protects the same category of high-value documents as Section 338 (wills, authorities to adopt a son, valuable securities) from a different kind of attack -- not fabrication but destruction or suppression. Fraudulently or dishonestly, or with intent to cause damage or injury to the public or any person, cancelling, destroying, defacing, or secreting (or attempting any of these) such a document, or committing mischief in respect of it, is punishable with life imprisonment or up to seven years plus fine -- the same severe ceiling as forging such a document under Section 338, reflecting that destroying a genuine will or security can be just as devastating to the rightful beneficiary as forging a false one.",
+        "essential_elements": [
+          "a document which is, or purports to be, a will, an authority to adopt a son, or a valuable security",
+          "cancelling, destroying, defacing, or secreting that document (or attempting to do so), or committing mischief in respect of it",
+          "done fraudulently or dishonestly, or with intent to cause damage or injury to the public or any person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read Section 343 as Section 338's mirror image -- Section 338 punishes creating a false instrument in this category, Section 343 punishes destroying or suppressing a genuine one, and both share an identical life-imprisonment-or-seven-years ceiling (Section 343's determinate alternative is capped at seven years rather than Section 338's ten, a modest distinction), underscoring that fabrication and destruction of wills/adoption-authorities/valuable-securities are treated as comparably grave because both can equally defeat the true intentions recorded in, or the true entitlement represented by, the document."
+      }
+    },
+    {
+      "number": "344",
+      "title": "Falsification of accounts",
+      "raw_text": "Whoever, being a clerk, officer or servant, or employed or acting in the capacity of a clerk, officer or servant, wilfully, and with intent to defraud, destroys, alters, mutilates or falsifies any book, electronic record, paper, writing, valuable security or account which belongs to or is in the possession of his employer, or has been received by him for or on behalf of his employer, or wilfully, and with intent to defraud, makes or abets the making of any false entry in, or omits or alters or abets the omission or alteration of any material particular from or in, any such book, electronic record, paper, writing, valuable security or account, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.\n\nExplanation.--It shall be sufficient in any charge under this section to allege a general intent to defraud without naming any particular person intended to be defrauded or specifying any particular sum of money intended to be the subject of the fraud, or any particular day on which the offence was committed.",
+      "key_terms": [
+        "a clerk officer or servant wilfully and fraudulently destroying altering mutilating or falsifying an employer's book record or account",
+        "wilfully and fraudulently making a false entry or omitting or altering a material particular in an employer's book record or account",
+        "sufficiency of alleging a general intent to defraud without specifics in a falsification-of-accounts charge"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 344 BNS targets employee fraud through records: a clerk, officer, or servant (or anyone employed or acting in that capacity) who wilfully and with intent to defraud destroys, alters, mutilates, or falsifies any book, electronic record, paper, writing, valuable security, or account belonging to or in the possession of their employer (or received on the employer's behalf), or who wilfully and fraudulently makes a false entry in, or omits/alters a material particular from, any such record, is punishable with up to seven years, fine, or both. The Explanation lowers the pleading burden for prosecutors -- a charge need only allege a general intent to defraud, without having to name a specific intended victim, a specific sum, or a specific date of commission.",
+        "essential_elements": [
+          "being a clerk, officer, or servant (or employed/acting in that capacity)",
+          "wilfully and with intent to defraud, destroying, altering, mutilating, or falsifying (or making/abetting a false entry in, or omitting/altering a material particular from) a book, electronic record, paper, writing, valuable security, or account belonging to, in the possession of, or received on behalf of, the employer"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section is the Sanhita's white-collar-fraud workhorse, closely paralleling Section 316's enhanced criminal-breach-of-trust tier for clerks/servants -- but where Section 316 punishes misappropriating the property itself, Section 344 punishes tampering with the paper trail (whether or not any property actually changes hands), and the Explanation's relaxed pleading standard reflects how accounting fraud is often detected through patterns of falsification before any single defrauded victim or exact sum can be pinned down."
       }
     }
   ]
