@@ -3898,7 +3898,15 @@
           "The bailee is called the pawnee."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Think of pledge as bailment-plus-purpose: all pledges are bailments, but not all bailments are pledges — the defining extra ingredient is that the goods secure a debt or promise."
+        "how_to_read": "Think of pledge as bailment-plus-purpose: all pledges are bailments, but not all bailments are pledges — the defining extra ingredient is that the goods secure a debt or promise.",
+        "plain_summary_hi": "धारा 172 'प्रतिभूत निक्षेप' अर्थात गिरवी (pledge) के उप-अध्याय की शुरुआत करती है (गिरवी वास्तव में निक्षेप/bailment का ही एक विशेष प्रकार है)। जब माल किसी ऋण या वचन की अदायगी के लिए प्रतिभूति (security) के रूप में सौंपा जाता है, तो वह गिरवी कहलाती है; प्रतिभूति देने वाला व्यक्ति 'गिरवीकर्ता' (pawnor) और उसे प्रतिभूति के रूप में रखने वाला व्यक्ति 'गिरवीग्रहीता' (pawnee) कहलाता है।",
+        "essential_elements_hi": [
+          "माल विशेष रूप से किसी ऋण के भुगतान या वचन की पूर्ति की प्रतिभूति के रूप में निक्षिप्त किया जाता है।",
+          "इस व्यवस्था में निक्षेपक को 'गिरवीकर्ता' कहा जाता है।",
+          "निक्षेपगृहीता को 'गिरवीग्रहीता' कहा जाता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "गिरवी को निक्षेप-प्लस-प्रयोजन के रूप में समझें: हर गिरवी निक्षेप है, पर हर निक्षेप गिरवी नहीं — निर्णायक अतिरिक्त तत्व यह है कि माल किसी ऋण या वचन की प्रतिभूति के रूप में है।"
       }
     },
     {
@@ -3918,7 +3926,15 @@
           "It also covers necessary expenses incurred for possession or preservation of the pledged goods."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is the pledge-specific version of a lien — broader than a simple 'hold until paid,' it captures interest and upkeep costs too, all secured by the same retained goods."
+        "how_to_read": "This is the pledge-specific version of a lien — broader than a simple 'hold until paid,' it captures interest and upkeep costs too, all secured by the same retained goods.",
+        "plain_summary_hi": "धारा 173 यह स्पष्ट करती है कि गिरवीग्रहीता का गिरवी रखे माल पर धारणाधिकार ठीक किन-किन चीज़ों को सुरक्षित करता है: केवल मूल ऋण या वचन ही नहीं, बल्कि उस पर चढ़ा ब्याज और माल को रखने/सुरक्षित रखने में हुए आवश्यक व्यय भी।",
+        "essential_elements_hi": [
+          "गिरवीग्रहीता का माल रोकने का अधिकार मूल ऋण या वचन को कवर करता है।",
+          "यह ऋण पर ब्याज को भी कवर करता है।",
+          "यह गिरवी माल के कब्ज़े या संरक्षण हेतु किए गए आवश्यक व्ययों को भी कवर करता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह धारणाधिकार का गिरवी-विशिष्ट संस्करण है — सामान्य 'भुगतान तक रोको' से व्यापक, इसमें ब्याज और रखरखाव व्यय भी शामिल हैं, सभी उसी रोके गए माल द्वारा सुरक्षित।"
       }
     },
     {
@@ -3940,7 +3956,17 @@
         "exceptions_and_qualifications": [
           "The presumption for subsequent advances can be rebutted by evidence showing the parties intended otherwise."
         ],
-        "how_to_read": "This is essentially Section 171's general-lien logic transplanted into pledge, but scoped down: default is narrow (particular-lien-like), extendable by contract, and specifically presumed extended for later top-up advances between the same parties."
+        "how_to_read": "This is essentially Section 171's general-lien logic transplanted into pledge, but scoped down: default is narrow (particular-lien-like), extendable by contract, and specifically presumed extended for later top-up advances between the same parties.",
+        "plain_summary_hi": "धारा 174 गिरवीग्रहीता के रोकने के अधिकार को उसी विशिष्ट ऋण तक सीमित करती है जिसके लिए माल गिरवी रखा गया था — बिना करार के वह किसी असंबंधित ऋण के लिए माल को बंधक नहीं बना सकता। परंतु एक सहायक उपधारणा है: यदि गिरवीग्रहीता बाद में उसी गिरवीकर्ता को अतिरिक्त अग्रिम (और ऋण) देता है, तो यह उपधारित होता है कि वे भी उसी गिरवी द्वारा सुरक्षित हैं, जब तक अन्यथा न दिखाया जाए।",
+        "essential_elements_hi": [
+          "डिफ़ॉल्ट नियम: गिरवीग्रहीता केवल उस ऋण/वचन के लिए गिरवी माल रोक सकता है जिसके लिए वह गिरवी रखा गया था।",
+          "एक स्पष्ट करार गिरवीग्रहीता के रोकने के अधिकार को अन्य ऋणों तक भी बढ़ा सकता है।",
+          "उसी गिरवीग्रहीता द्वारा उसी गिरवीकर्ता को दिए गए बाद के अग्रिमों के लिए, विपरीत साक्ष्य के अभाव में, विस्तारित करार उपधारित होता है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "बाद के अग्रिमों की उपधारणा को यह दर्शाने वाले साक्ष्य से खंडित किया जा सकता है कि पक्षकारों का आशय अन्यथा था।"
+        ],
+        "how_to_read_hi": "यह अनिवार्यतः धारा 171 के सामान्य धारणाधिकार के तर्क को गिरवी में प्रतिरोपित करती है, पर सीमित रूप में: डिफ़ॉल्ट संकीर्ण है (विशिष्ट-धारणाधिकार जैसा), करार द्वारा विस्तारणीय, और विशेष रूप से उन्हीं पक्षकारों के बीच बाद के टॉप-अप अग्रिमों के लिए विस्तारित उपधारित है।"
       }
     },
     {
@@ -3958,7 +3984,14 @@
           "He is entitled to receive (recover) those expenses from the pawnor."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Contrast with Section 173's ordinary/necessary expenses (which are secured by retention of the goods themselves): Section 175's extraordinary expenses give a separate, direct right to recover from the pawnor personally."
+        "how_to_read": "Contrast with Section 173's ordinary/necessary expenses (which are secured by retention of the goods themselves): Section 175's extraordinary expenses give a separate, direct right to recover from the pawnor personally.",
+        "plain_summary_hi": "धारा 175 गिरवीग्रहीता को गिरवी माल के संरक्षण में हुए असाधारण — यानी असामान्य, सामान्य से अधिक — व्यय के लिए एक सीधा व्यक्तिगत दावा (केवल माल पर धारणाधिकार नहीं) देती है, जो गिरवीकर्ता से वसूल किया जा सकता है।",
+        "essential_elements_hi": [
+          "गिरवीग्रहीता गिरवी माल के संरक्षण हेतु असाधारण व्यय वहन करता है।",
+          "वह गिरवीकर्ता से वे व्यय प्राप्त (वसूल) करने का हकदार है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "धारा 173 के सामान्य/आवश्यक व्ययों (जो माल रोकने से ही सुरक्षित होते हैं) से तुलना करें: धारा 175 के असाधारण व्यय गिरवीकर्ता से व्यक्तिगत रूप से वसूली का एक अलग, सीधा अधिकार देते हैं।"
       }
     },
     {
@@ -3981,7 +4014,18 @@
         "exceptions_and_qualifications": [
           "Sale is conditional on giving the pawnor reasonable notice — a sale without proper notice is not a valid exercise of this right."
         ],
-        "how_to_read": "This section is the practical engine of pledge as security: it's what makes a pledge more useful to a creditor than an unsecured debt — a self-help sale remedy, tempered by a notice requirement and a surplus/shortfall true-up so neither side is unjustly enriched or left short."
+        "how_to_read": "This section is the practical engine of pledge as security: it's what makes a pledge more useful to a creditor than an unsecured debt — a self-help sale remedy, tempered by a notice requirement and a surplus/shortfall true-up so neither side is unjustly enriched or left short.",
+        "plain_summary_hi": "धारा 176 चूक होने पर गिरवीग्रहीता के उपायों की सूची देती है: वह या तो माल को प्रतिभूति के रूप में रखते हुए मूल ऋण पर वाद ला सकता है, या गिरवीकर्ता को उचित सूचना देकर गिरवी माल बेच सकता है। किसी भी स्थिति में, बाद में हिसाब सही किया जाता है — बिक्री के बाद यदि कमी रहती है तो वह गिरवीकर्ता से वसूली योग्य रहती है, और यदि अधिशेष है तो वह उसे लौटाना होगा। गिरवीग्रहीता केवल अप्रत्याशित लाभ नहीं रख सकता।",
+        "essential_elements_hi": [
+          "गिरवीकर्ता निर्धारित समय पर ऋण के भुगतान या वचन की पूर्ति में चूक करता है।",
+          "गिरवीग्रहीता तब या तो माल को प्रतिभूति के रूप में रखते हुए ऋण/वचन पर वाद ला सकता है, या गिरवीकर्ता को उचित सूचना देकर माल बेच सकता है।",
+          "यदि बिक्री की राशि देय राशि से कम पड़ती है, तो गिरवीकर्ता शेष राशि के लिए उत्तरदायी रहता है।",
+          "यदि बिक्री की राशि देय राशि से अधिक है, तो गिरवीग्रहीता को अधिशेष गिरवीकर्ता को देना होगा।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "बिक्री गिरवीकर्ता को उचित सूचना देने की शर्त पर निर्भर है — उचित सूचना के बिना बिक्री इस अधिकार का वैध प्रयोग नहीं है।"
+        ],
+        "how_to_read_hi": "यह धारा गिरवी को प्रतिभूति के रूप में व्यावहारिक इंजन बनाती है: यही गिरवी को एक असुरक्षित ऋण से अधिक उपयोगी बनाता है — स्वयं-सहायता बिक्री का उपाय, सूचना की शर्त और अधिशेष/कमी समायोजन द्वारा संतुलित, ताकि किसी भी पक्ष को अनुचित लाभ न मिले या हानि न हो।"
       }
     },
     {
@@ -4003,7 +4047,17 @@
         "exceptions_and_qualifications": [
           "This right to redeem ends once an actual sale of the pledged goods has taken place — it cannot be exercised after that point."
         ],
-        "how_to_read": "This is a pawnor-protective rule mirroring the general equity-of-redemption idea in secured-lending law: default alone doesn't extinguish the pawnor's rights over his goods — only an actual completed sale does."
+        "how_to_read": "This is a pawnor-protective rule mirroring the general equity-of-redemption idea in secured-lending law: default alone doesn't extinguish the pawnor's rights over his goods — only an actual completed sale does.",
+        "plain_summary_hi": "धारा 177 गिरवीकर्ता को निर्धारित समय-सीमा चूकने के बाद भी एक दूसरा अवसर देती है: वह गिरवीग्रहीता द्वारा वास्तव में माल बेचे जाने से पहले कभी भी गिरवी माल को उन्मोचित (वापस) कर सकता है, बशर्ते वह अपनी चूक से हुए अतिरिक्त व्यय का भी भुगतान करे।",
+        "essential_elements_hi": [
+          "ऋण के भुगतान या वचन की पूर्ति के लिए एक समय निर्धारित किया गया था।",
+          "गिरवीकर्ता उस निर्धारित समय पर चूक करता है।",
+          "वह फिर भी वास्तविक बिक्री से पहले किसी भी समय माल उन्मोचित कर सकता है, चूक-संबंधी व्यय अतिरिक्त रूप से देकर।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यह उन्मोचन का अधिकार गिरवी माल की वास्तविक बिक्री हो जाने के बाद समाप्त हो जाता है — उसके बाद इसका प्रयोग नहीं किया जा सकता।"
+        ],
+        "how_to_read_hi": "यह प्रतिभूत-उधार कानून के सामान्य 'उन्मोचन की समता' विचार को प्रतिबिंबित करने वाला गिरवीकर्ता-संरक्षक नियम है: केवल चूक गिरवीकर्ता के अपने माल पर अधिकारों को समाप्त नहीं करती — केवल वास्तव में पूर्ण हुई बिक्री ही करती है।"
       }
     },
     {
@@ -4027,7 +4081,18 @@
         "exceptions_and_qualifications": [
           "If the pawnee knew, or had notice, of the agent's lack of authority, this protection does not apply."
         ],
-        "how_to_read": "This is a commercial-certainty exception to ordinary agency/title rules — it protects the marketplace by letting good-faith lenders rely on apparent authority created by the owner's own act of entrusting goods to a mercantile agent."
+        "how_to_read": "This is a commercial-certainty exception to ordinary agency/title rules — it protects the marketplace by letting good-faith lenders rely on apparent authority created by the owner's own act of entrusting goods to a mercantile agent.",
+        "plain_summary_hi": "धारा 178 किसी वाणिज्यिक अभिकर्ता (mercantile agent) — यानी ऐसा व्यक्ति जो दूसरों की ओर से माल बेचने या अन्यथा व्यवहार करने के कारोबार में हो — से व्यवहार करने वाले निर्दोष उधारदाताओं की रक्षा करती है। यदि स्वामी ने अभिकर्ता को माल या उसके स्वामित्व-दस्तावेज़ रखने की सहमति दी थी, तो अभिकर्ता द्वारा अपने सामान्य कारोबार के दौरान की गई गिरवी को पूर्णतः प्राधिकृत माना जाता है — भले ही स्वामी ने वह विशेष गिरवी वास्तव में प्राधिकृत न की हो — बशर्ते गिरवीग्रहीता ने सद्भावपूर्वक कार्य किया हो और उसे प्राधिकार की कमी की कोई सूचना न हो।",
+        "essential_elements_hi": [
+          "एक वाणिज्यिक अभिकर्ता, स्वामी की सहमति से, माल या माल के स्वामित्व-दस्तावेज़ों के कब्ज़े में है।",
+          "अभिकर्ता वाणिज्यिक अभिकर्ता के सामान्य कारोबार के दौरान गिरवी करता है।",
+          "गिरवीग्रहीता सद्भावपूर्वक कार्य करता है और गिरवी के समय उसे गिरवीकर्ता के प्राधिकार की कमी की कोई सूचना नहीं है।",
+          "तब गिरवी उतनी ही वैध है जितनी स्वामी द्वारा स्पष्ट रूप से प्राधिकृत होने पर होती।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यदि गिरवीग्रहीता को अभिकर्ता के प्राधिकार की कमी की जानकारी थी, या उसकी सूचना थी, तो यह संरक्षण लागू नहीं होता।"
+        ],
+        "how_to_read_hi": "यह सामान्य अभिकरण/स्वामित्व नियमों का एक वाणिज्यिक-निश्चितता अपवाद है — यह बाज़ार की रक्षा करता है, सद्भावपूर्ण उधारदाताओं को स्वामी के अपने ही कृत्य (माल वाणिज्यिक अभिकर्ता को सौंपना) से उत्पन्न प्रतीयमान प्राधिकार पर भरोसा करने देकर।"
       }
     },
     {
@@ -4051,7 +4116,18 @@
         "exceptions_and_qualifications": [
           "If the original contract had already been rescinded before the pledge, or the pawnee had notice of the defect, this protection is unavailable."
         ],
-        "how_to_read": "The timing is everything here — this section only helps a pawnee who lends before rescission; once the original owner has rescinded the voidable contract and reclaimed title, a subsequent pledge by the erstwhile possessor cannot pass good title, however innocent the pawnee."
+        "how_to_read": "The timing is everything here — this section only helps a pawnee who lends before rescission; once the original owner has rescinded the voidable contract and reclaimed title, a subsequent pledge by the erstwhile possessor cannot pass good title, however innocent the pawnee.",
+        "plain_summary_hi": "धारा 178A एक सद्भावपूर्ण गिरवीग्रहीता की रक्षा करती है जो ऐसे माल के विरुद्ध ऋण देता है जो गिरवीकर्ता ने किसी शून्यकरणीय करार (जैसे धारा 19/19A के अंतर्गत कपट या प्रपीड़न द्वारा प्रेरित) के अधीन प्राप्त किया था — बशर्ते गिरवी के समय मूल करार अभी तक उन्मोचित (rescind) न किया गया हो, और गिरवीग्रहीता ने ईमानदारी से तथा दोष की सूचना के बिना कार्य किया हो, तो गिरवीग्रहीता को गिरवी माल पर सम्यक् स्वत्व मिल जाता है।",
+        "essential_elements_hi": [
+          "गिरवीकर्ता ने धारा 19 या 19A के अंतर्गत शून्यकरणीय करार के तहत माल का कब्ज़ा प्राप्त किया था।",
+          "गिरवी के समय वह शून्यकरणीय करार उन्मोचित नहीं किया गया था।",
+          "गिरवीग्रहीता सद्भावपूर्वक और गिरवीकर्ता के स्वत्व-दोष की सूचना के बिना कार्य करता है।",
+          "तब गिरवीग्रहीता को माल पर सम्यक् स्वत्व प्राप्त होता है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यदि गिरवी से पहले ही मूल करार उन्मोचित किया जा चुका था, या गिरवीग्रहीता को दोष की सूचना थी, तो यह संरक्षण उपलब्ध नहीं है।"
+        ],
+        "how_to_read_hi": "यहाँ समय ही सब कुछ है — यह धारा केवल उस गिरवीग्रहीता की मदद करती है जो उन्मोचन से पहले उधार देता है; एक बार जब मूल स्वामी शून्यकरणीय करार उन्मोचित कर स्वत्व पुनः प्राप्त कर लेता है, तो पूर्व कब्ज़ाधारी द्वारा बाद की गिरवी सम्यक् स्वत्व नहीं दे सकती, चाहे गिरवीग्रहीता कितना भी निर्दोष क्यों न हो।"
       }
     },
     {
