@@ -479,7 +479,30 @@
     "compoundable-offence exception to Sections 250-251": "The shared Exception to Sections 250 and 251 BNS: neither the taking nor the offering of a screening-related gift is an offence where the underlying matter concerns a legally compoundable offence -- aligning the Sanhita's obstruction-of-justice provisions with the ordinary criminal-procedure compounding regime rather than criminalising lawful private settlement of compoundable matters.",
     "taking a gift to help recover stolen property without pursuing the offender": "Section 252 BNS: taking a gift under pretence or on account of helping any person recover movable property of which they have been deprived by an offence, without causing the apprehension/conviction of, or giving such information as would facilitate the apprehension/conviction of, the offender -- punishable with up to two years' imprisonment, fine, or both.",
     "harbouring an escaped-from-custody or apprehension-ordered person": "Section 253 BNS: harbouring or concealing a person known or believed to have escaped from lawful custody, or for whose apprehension an order has been issued, with intent to prevent their apprehension -- punished in the same three graduated tiers as Section 249, with its own extradition-linked extraterritorial Explanation and the same spousal exception.",
-    "extradition-linked extraterritorial offence for Section 253": "The Explanation to Section 253 BNS: extends the harbouring offence to cover persons who have escaped from custody or are liable to apprehension in respect of acts committed outside India that would constitute offences under Indian law and that are extraditable under applicable extradition law -- tying the domestic harbouring offence to India's extradition framework for offenders fleeing foreign jurisdiction."
+    "extradition-linked extraterritorial offence for Section 253": "The Explanation to Section 253 BNS: extends the harbouring offence to cover persons who have escaped from custody or are liable to apprehension in respect of acts committed outside India that would constitute offences under Indian law and that are extraditable under applicable extradition law -- tying the domestic harbouring offence to India's extradition framework for offenders fleeing foreign jurisdiction.",
+    "harbouring robbers or dacoits": "Section 254 BNS: harbouring persons known or believed to be about to commit, or to have recently committed, robbery or dacoity, with intent to facilitate or screen them, punishable with rigorous imprisonment up to seven years plus fine -- a heavier, offence-specific version of Section 249's general offender-harbouring provision, reflecting the Sanhita's particular concern with organised and violent property crime.",
+    "facilitating or screening robbery or dacoity through harbour": "The dual-intent requirement of Section 254 BNS: the harbour must be given either to facilitate the commission of the robbery or dacoity, or to screen the persons involved from punishment -- either intent suffices, and the Explanation makes it immaterial whether the robbery/dacoity is intended within or without India.",
+    "public servant disobeying legal direction to save a person from punishment": "The first limb of Section 255 BNS: a public servant who knowingly disobeys a legal direction governing their own official conduct, intending or knowing it likely that doing so will save a person from legal punishment or reduce the punishment to which they are liable, punishable with up to two years' imprisonment, fine, or both.",
+    "public servant disobeying legal direction to save property from forfeiture": "The alternative limb of Section 255 BNS: the same knowing disobedience of an official-conduct direction, but aimed instead at saving property from forfeiture or a legal charge -- either limb independently completes the offence, punished identically.",
+    "public servant knowingly framing an incorrect official record": "Section 256 BNS: a public servant charged with preparing a record or writing who knowingly frames it incorrectly, intending (or knowing it likely) to cause loss or injury to the public or a person, or to save a person from punishment, or to save property from forfeiture -- punishable with up to three years' imprisonment, fine, or both, one year heavier than Section 255's conduct-disobedience offence.",
+    "public servant corruptly making a report order verdict or decision contrary to law": "Section 257 BNS: a public servant who corruptly or maliciously makes or pronounces, in any stage of a judicial proceeding, a report, order, verdict, or decision known to be contrary to law, punishable with up to seven years' imprisonment, fine, or both -- targeting deliberate judicial or quasi-judicial corruption, not honest legal error.",
+    "corruptly committing or confining a person contrary to law": "Section 258 BNS: a person holding legal authority to commit persons for trial or to confinement, or to keep persons in confinement, who corruptly or maliciously exercises that authority knowing it is contrary to law, punishable with up to seven years' imprisonment, fine, or both -- the custody-side companion to Section 257's judgment-side corruption offence.",
+    "intentional omission to apprehend by public servant bound to apprehend": "Section 259 BNS: a public servant legally bound to apprehend or confine a person charged with, or liable to be apprehended for, an offence, who intentionally omits to apprehend them, punishable in three tiers (up to 7 years, 3 years, or 2 years) graduated by the severity of the offence the person was charged with or liable for.",
+    "intentionally suffering or aiding escape of a person liable to apprehension": "The alternative limbs of Section 259 BNS alongside outright omission to apprehend -- intentionally suffering such a person to escape, or intentionally aiding their escape or attempted escape from confinement, punished identically across the same three severity-graded tiers.",
+    "intentional omission to apprehend a person under sentence or lawfully committed": "Section 260 BNS: the heavier sibling of Section 259, covering a public servant's intentional omission to apprehend, or suffering/aiding the escape of, a person already under a Court's sentence or lawfully committed to custody (rather than merely charged) -- punishment tiers roughly double those of Section 259, up to life imprisonment or fourteen years where the escapee was under sentence of death.",
+    "negligently suffering an escape from confinement": "Section 261 BNS: the negligence-based residual offence alongside Sections 259-260's intentional omission offences -- a public servant bound to keep a person in confinement who merely negligently (not intentionally) suffers their escape, punishable with up to two years' simple imprisonment, fine, or both, regardless of the escapee's status or underlying offence severity.",
+    "resisting or obstructing one's own lawful apprehension": "Section 262 BNS: the flip side of Sections 259-261 -- a person who intentionally offers resistance or illegal obstruction to their own lawful apprehension for a charged or convicted offence, punishable with up to two years' imprisonment, fine, or both, explicitly in addition to punishment for the underlying offence.",
+    "escaping or attempting escape from lawful custody": "The second limb of Section 262 BNS alongside resistance/obstruction -- escaping, or attempting to escape, from custody in which one is lawfully detained for a charged or convicted offence, punished identically and equally stacked atop the underlying offence's punishment per the section's Explanation.",
+    "resisting or obstructing the lawful apprehension of another person": "Section 263 BNS: the third-party mirror of Section 262 -- intentionally resisting or illegally obstructing another person's lawful apprehension, punished across five escalating tiers (base up to two years, rising to life imprisonment or ten years) keyed to the severity of the offence the apprehended person faces or the sentence they are already serving.",
+    "rescuing or attempting to rescue another person from lawful custody": "The alternative limb of Section 263 BNS alongside resistance/obstruction -- rescuing or attempting to rescue another person from lawful custody, punished under the same five-tier severity ladder as resisting that person's apprehension in the first place.",
+    "residual omission to apprehend or sufferance of escape": "Section 264 BNS: the catch-all provision for a public servant's omission to apprehend, or sufferance of escape, in cases not already covered by Sections 259, 260, or 261 -- split into an intentional band (up to three years) and a negligent band (up to two years' simple imprisonment), mirroring those sections' intentional/negligent split.",
+    "residual resistance obstruction escape or rescue": "Section 265 BNS: the catch-all counterpart to Section 264, covering resistance, illegal obstruction, escape, or rescue not already covered by Sections 262 or 263, punishable with a single flat band of up to six months' imprisonment, fine, or both -- deliberately lighter than the specifically enumerated scenarios in 262-263.",
+    "knowing violation of a condition of remission": "Section 266 BNS: a person who has accepted conditional remission of punishment and knowingly violates a condition of that remission is restored to liability for the original sentence (or whatever unserved portion remains) -- a restorative rather than additive consequence, closing out the public-servant-complicity cluster of Chapter XIV before its final three offences.",
+    "intentional insult or interruption to a public servant in a judicial proceeding": "Section 267 BNS: the Sanhita's contempt-of-court-adjacent offence -- intentionally insulting or interrupting a public servant while sitting in any stage of a judicial proceeding, punishable with up to six months' simple imprisonment, fine up to five thousand rupees, or both.",
+    "personation of an assessor": "Section 268 BNS: by personation or otherwise, intentionally causing or suffering oneself to be returned, empanelled, or sworn as an assessor while knowing one is not legally entitled to be, punishable with up to two years' imprisonment, fine, or both.",
+    "knowingly serving as an assessor when not legally entitled": "The alternative limb of Section 268 BNS alongside personation -- knowing oneself to have been returned, empanelled, or sworn as an assessor contrary to law, and voluntarily serving on the case regardless, punished identically to engineering one's own unlawful selection in the first place.",
+    "failure to appear in court per bail bond or bond terms": "Section 269 BNS, closing Chapter XIV: a person released on bail bond or bond who fails, without sufficient cause, to appear in Court per the bond's terms, punishable with up to one year's imprisonment, fine, or both -- explicitly stacked on top of punishment for the underlying charged offence and independent of the Court's own bond-forfeiture power under BNSS Section 491.",
+    "burden of proof on the accused to show sufficient cause for non-appearance": "The reversed-burden feature of Section 269 BNS: once the bare fact of non-appearance under a bail bond or bond is shown, the accused bears the burden of proving sufficient cause for it -- unlike most BNS offences, where the prosecution carries the burden throughout."
   },
   "sections": [
     {
@@ -5394,6 +5417,306 @@
           "This section does not extend to harbouring or concealment by the spouse of the person to be apprehended"
         ],
         "how_to_read": "Distinguish this from Section 249: Section 249 covers harbouring the original offender generally, while Section 253 covers the more specific scenario of someone who has already escaped custody or is already the subject of a formal apprehension order -- the extradition-linked Explanation also broadens its extraterritorial reach beyond Section 249's list of specific cross-referenced offences."
+      }
+    },
+    {
+      "number": "254",
+      "title": "Penalty for harbouring robbers or dacoits",
+      "raw_text": "Whoever, knowing or having reason to believe that any persons are about to commit or have recently committed robbery or dacoity, harbours them or any of them, with the intention of facilitating the commission of such robbery or dacoity, or of screening them or any of them from punishment, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.\n\nExplanation.--For the purposes of this section it is immaterial whether the robbery or dacoity is intended to be committed, or has been committed, within or without India.\n\nException.--This provision does not extend to the case in which the harbour is given by the spouse of the offender.",
+      "key_terms": [
+        "harbouring robbers or dacoits",
+        "facilitating or screening robbery or dacoity through harbour"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 254 BNS specifically targets harbouring persons connected to robbery or dacoity -- a heavier, specialised version of Section 249's general offender-harbouring offence, reflecting the particular seriousness the Sanhita attaches to organised and violent property crime.",
+        "essential_elements": [
+          "harbouring persons",
+          "knowledge or reason to believe those persons are about to commit, or have recently committed, robbery or dacoity",
+          "intention to facilitate the robbery/dacoity or to screen the persons from punishment"
+        ],
+        "exceptions_and_qualifications": [
+          "Immaterial whether the robbery or dacoity is intended within or without India (Explanation).",
+          "Does not extend to harbour given by the offender's spouse (Exception)."
+        ],
+        "how_to_read": "Read this as the robbery/dacoity-specific sibling of Section 249 -- it does not replace Section 249's general harbouring offence but adds a heavier, targeted punishment (up to seven years rigorous imprisonment) for harbouring tied specifically to this especially serious category of property crime."
+      }
+    },
+    {
+      "number": "255",
+      "title": "Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture",
+      "raw_text": "Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending thereby to save, or knowing it to be likely that he will thereby save, any person from legal punishment, or subject him to a less punishment than that to which he is liable, or with intent to save, or knowing that he is likely thereby to save, any property from forfeiture or any charge to which it is liable by law, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "public servant disobeying legal direction to save a person from punishment",
+        "public servant disobeying legal direction to save property from forfeiture"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 255 BNS targets a public servant who knowingly breaks the rules governing their own official conduct, specifically in order to let a person off the hook or spare property from forfeiture -- opening the public-servant-complicity cluster of Chapter XIV, distinct from false-evidence offences committed by ordinary witnesses or litigants.",
+        "essential_elements": [
+          "accused is a public servant",
+          "knowing disobedience of a legal direction as to official conduct",
+          "intent (or knowledge of likelihood) to save a person from legal punishment, or reduce the punishment to which they are liable",
+          "or, alternatively, intent (or knowledge of likelihood) to save property from forfeiture or a legal charge"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the dual-intent structure: either limb (saving a person from punishment, or saving property from forfeiture) independently completes the offence -- a prosecutor only needs to establish one, not both."
+      }
+    },
+    {
+      "number": "256",
+      "title": "Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture",
+      "raw_text": "Whoever, being a public servant, and being as such public servant, charged with the preparation of any record or other writing, frames that record or writing in a manner which he knows to be incorrect, with intent to cause, or knowing it to be likely that he will thereby cause, loss or injury to the public or to any person, or with intent thereby to save, or knowing it to be likely that he will thereby save, any person from legal punishment, or with intent to save, or knowing that he is likely thereby to save, any property from forfeiture or other charge to which it is liable by law, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "key_terms": [
+        "public servant knowingly framing an incorrect official record"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 256 BNS is the record-falsification counterpart to Section 255's conduct-disobedience offence -- a public servant tasked with preparing an official record or writing who deliberately frames it incorrectly, whether to harm someone, to save a person from punishment, or to save property from forfeiture.",
+        "essential_elements": [
+          "accused is a public servant charged with preparing a record or other writing",
+          "framing the record/writing in a manner known to be incorrect",
+          "intent (or knowledge of likelihood) to cause loss or injury to the public or a person, OR",
+          "intent (or knowledge of likelihood) to save a person from legal punishment, OR",
+          "intent (or knowledge of likelihood) to save property from forfeiture or a legal charge"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Three independent intent-limbs are listed disjunctively -- loss/injury, saving a person, or saving property -- any one of which suffices; the three-year maximum here is higher than Section 255's two-year maximum because this section involves affirmative falsification of a record rather than mere disobedience of conduct rules."
+      }
+    },
+    {
+      "number": "257",
+      "title": "Public servant in judicial proceeding corruptly making report, etc., contrary to law",
+      "raw_text": "Whoever, being a public servant, corruptly or maliciously makes or pronounces in any stage of a judicial proceeding, any report, order, verdict, or decision which he knows to be contrary to law, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+      "key_terms": [
+        "public servant corruptly making a report order verdict or decision contrary to law"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 257 BNS targets judicial and quasi-judicial corruption directly -- a public servant who, in any stage of a judicial proceeding, corruptly or maliciously issues a report, order, verdict, or decision they know to be contrary to law, carrying a punishment as severe as the heaviest false-evidence band under Section 229(1).",
+        "essential_elements": [
+          "accused is a public servant",
+          "acting in any stage of a judicial proceeding",
+          "corruptly or maliciously making or pronouncing a report, order, verdict, or decision",
+          "knowledge that the report/order/verdict/decision is contrary to law"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The 'corruptly or maliciously' plus 'knows to be contrary to law' combination sets a high mens rea bar -- an honest legal error or even a negligent misapplication of law does not suffice; this targets deliberate, bad-faith judicial or quasi-judicial corruption."
+      }
+    },
+    {
+      "number": "258",
+      "title": "Commitment for trial or confinement by person having authority who knows that he is acting contrary to law",
+      "raw_text": "Whoever, being in any office which gives him legal authority to commit persons for trial or to confinement, or to keep persons in confinement, corruptly or maliciously commits any person for trial or to confinement, or keeps any person in confinement, in the exercise of that authority knowing that in so doing he is acting contrary to law, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+      "key_terms": [
+        "corruptly committing or confining a person contrary to law"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 258 BNS is the custody-side companion to Section 257's judgment-side corruption offence -- it targets a person holding legal authority over commitment for trial or confinement who corruptly or maliciously exercises that authority knowing it is contrary to law, equally punishable up to seven years.",
+        "essential_elements": [
+          "accused holds an office with legal authority to commit persons for trial or to confinement, or to keep persons in confinement",
+          "corruptly or maliciously committing a person for trial or to confinement, or keeping a person in confinement, in exercise of that authority",
+          "knowledge that doing so is contrary to law"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read Sections 257 and 258 as a pair covering the two ends of judicial-adjacent authority most susceptible to corrupt abuse -- the decision itself (257) and the physical custody consequences that flow from decisions (258)."
+      }
+    },
+    {
+      "number": "259",
+      "title": "Intentional omission to apprehend on part of public servant bound to apprehend",
+      "raw_text": "Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person charged with or liable to be apprehended for an offence, intentionally omits to apprehend such person, or intentionally suffers such person to escape, or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished--\n\n(a) if the person in relation to whom such omission or escape takes place, is charged with or liable to be apprehended for an offence punishable with death, with imprisonment for a term which may extend to seven years, and shall also be liable to fine; or\n\n(b) if the person in relation to whom such omission or escape takes place, is charged with or liable to be apprehended for an offence punishable with imprisonment for life or imprisonment for a term of ten years or upwards, with imprisonment for a term which may extend to three years, and shall also be liable to fine; or\n\n(c) if the person in relation to whom such omission or escape takes place, is charged with or liable to be apprehended for an offence punishable with imprisonment for a term less than ten years, or if the person was taken into custody on a charge of, or for having been concerned in, a non-cognizable offence, or in execution of any process lawfully issued, with imprisonment for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "intentional omission to apprehend by public servant bound to apprehend",
+        "intentionally suffering or aiding escape of a person liable to apprehension"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 259 BNS criminalises a public servant who is legally bound to arrest or detain a person charged with (or liable to be apprehended for) an offence, but who intentionally fails to apprehend them, lets them escape, or helps them escape -- punishment graduated across three tiers depending on the severity of the offence the escapee was charged with or liable for.",
+        "essential_elements": [
+          "accused is a public servant legally bound to apprehend or keep in confinement a person charged with, or liable to be apprehended for, an offence",
+          "intentional omission to apprehend, OR intentionally suffering the person to escape, OR intentionally aiding escape or attempted escape",
+          "punishment tier set by the severity of the offence the person was charged with/liable for: death-punishable (up to 7 years + fine); life/10+-years-punishable (up to 3 years + fine); lesser or non-cognizable/process-based custody (up to 2 years, fine, or both)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section concerns a person who has not yet been convicted -- merely charged with or liable to be apprehended for an offence; contrast with Section 260, which covers the same conduct but for a person already under sentence or lawfully committed, carrying heavier punishment at each tier."
+      }
+    },
+    {
+      "number": "260",
+      "title": "Intentional omission to apprehend on part of public servant bound to apprehend person under sentence or lawfully committed",
+      "raw_text": "Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person under sentence of a Court of Justice for any offence or lawfully committed to custody, intentionally omits to apprehend such person, or intentionally suffers such person to escape, or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished--\n\n(a) if the person in relation to whom such omission or escape takes place, is under sentence of death, with imprisonment for life or imprisonment for a term which may extend to fourteen years, and shall also be liable to fine; or\n\n(b) if the person in relation to whom such omission or escape takes place, is under sentence of imprisonment for life, or imprisonment for a term of ten years or upwards, with imprisonment for a term which may extend to seven years, and shall also be liable to fine; or\n\n(c) if the person in relation to whom such omission or escape takes place, is under sentence of imprisonment for a term less than ten years or lawfully committed to custody, with imprisonment for a term which may extend to three years, or with fine, or with both.",
+      "key_terms": [
+        "intentional omission to apprehend a person under sentence or lawfully committed"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 260 BNS mirrors Section 259's structure but for a more serious category of person -- one already under a Court's sentence or lawfully committed to custody, not merely charged -- drawing much heavier punishment at every tier, up to life imprisonment where the escapee was under sentence of death.",
+        "essential_elements": [
+          "accused is a public servant legally bound to apprehend or keep in confinement a person under sentence of a Court, or lawfully committed to custody",
+          "intentional omission to apprehend, OR intentionally suffering escape, OR intentionally aiding escape or attempted escape",
+          "punishment tier set by the sentence: death sentence (life imprisonment or up to 14 years + fine); life/10+-years sentence (up to 7 years + fine); lesser sentence or lawful committal (up to 3 years, fine, or both)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare the punishment tiers directly against Section 259: for an equivalent category of underlying offence severity, Section 260 (already-sentenced or lawfully-committed persons) punishes the public servant's complicity roughly twice as severely as Section 259 (merely charged or liable persons) -- the Sanhita treats letting a convicted/committed person escape as markedly graver than letting a charged person escape."
+      }
+    },
+    {
+      "number": "261",
+      "title": "Escape from confinement or custody negligently suffered by public servant",
+      "raw_text": "Whoever, being a public servant legally bound as such public servant to keep in confinement any person charged with or convicted of any offence or lawfully committed to custody, negligently suffers such person to escape from confinement, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "negligently suffering an escape from confinement"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 261 BNS is the negligence-based residual offence alongside Sections 259-260's intentional omission offences -- where a public servant merely negligently (not intentionally) lets a confined person escape, the punishment is capped at two years' simple imprisonment regardless of the escapee's status or underlying offence severity.",
+        "essential_elements": [
+          "accused is a public servant legally bound to keep in confinement a person charged with, convicted of, or lawfully committed in custody for, an offence",
+          "negligently (as opposed to intentionally) suffering that person to escape from confinement"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The mental-state threshold is the whole story here: swap 'intentionally' for 'negligently' and the graduated, offence-severity-linked tiers of Sections 259-260 collapse into one flat, much lighter punishment band -- negligence is treated far more leniently than deliberate complicity in escape."
+      }
+    },
+    {
+      "number": "262",
+      "title": "Resistance or obstruction by a person to his lawful apprehension",
+      "raw_text": "Whoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself for any offence with which he is charged or of which he has been convicted, or escapes or attempts to escape from any custody in which he is lawfully detained for any such offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.\n\nExplanation.--The punishment in this section is in addition to the punishment for which the person charged with or convicted of the offence for which he was in custody, would be liable on conviction for such offence.",
+      "key_terms": [
+        "resisting or obstructing one's own lawful apprehension",
+        "escaping or attempting escape from lawful custody"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 262 BNS criminalises the flip side of Sections 259-261 -- not the public servant's failure to apprehend, but the apprehended person's own deliberate resistance, illegal obstruction, or escape attempt, punishable up to two years, explicitly stacked on top of punishment for the underlying offence.",
+        "essential_elements": [
+          "intentional resistance or illegal obstruction to one's own lawful apprehension for a charged or convicted offence, OR escaping or attempting to escape from lawful custody for such an offence"
+        ],
+        "exceptions_and_qualifications": [
+          "The Explanation confirms this punishment is in addition to, not instead of, the punishment for the underlying offence for which the person was in custody."
+        ],
+        "how_to_read": "The 'in addition to' Explanation is the key operative point -- a person who both commits an offence and then resists lawful apprehension for it faces cumulative, not concurrent-by-default, criminal exposure; always check whether a resistance/escape charge is being added onto the underlying charge rather than substituted for it."
+      }
+    },
+    {
+      "number": "263",
+      "title": "Resistance or obstruction to lawful apprehension of another person",
+      "raw_text": "Whoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of any other person for an offence, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained for an offence, shall be punished--\n\n(a) with imprisonment of either description for a term which may extend to two years, or with fine, or with both;\n\n(b) if the person to be apprehended or rescued is charged with or liable to be apprehended for an offence punishable with imprisonment for life or imprisonment for a term of ten years or upwards, with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;\n\n(c) if the person to be apprehended or rescued is charged with or liable to be apprehended for an offence punishable with death, with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;\n\n(d) if the person to be rescued is under sentence of imprisonment for life or imprisonment for a term of ten years or upwards, with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;\n\n(e) if the person to be rescued is under sentence of death, with imprisonment for life, or imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "resisting or obstructing the lawful apprehension of another person",
+        "rescuing or attempting to rescue another person from lawful custody"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 263 BNS is the third-party mirror of Section 262 -- resisting or obstructing someone else's lawful apprehension, or rescuing them from lawful custody, with five escalating punishment tiers driven by the severity of the offence the apprehended/rescued person faces or the sentence they are already serving.",
+        "essential_elements": [
+          "intentional resistance or illegal obstruction to the lawful apprehension of another person for an offence, OR rescuing/attempting to rescue another person from lawful custody for an offence",
+          "base punishment up to two years (tier (a))",
+          "escalating tiers (b)-(e) keyed to the apprehended/rescued person's offence severity or existing sentence, up to life imprisonment or ten years where that person was under sentence of death"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The five tiers mirror the same severity ladder used in Sections 259-260 for the public servant's own complicity, but applied here to a private third party who interferes with someone else's lawful apprehension or custody -- always check which of the five sub-clauses the facts fall under before assuming the lightest band applies."
+      }
+    },
+    {
+      "number": "264",
+      "title": "Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for",
+      "raw_text": "Whoever, being a public servant legally bound as such public servant to apprehend or to keep in confinement any person in any case not provided for in section 259, section 260 or section 261, omits to apprehend that person or suffers him to escape from confinement, shall be punished--\n\n(a) if he does so intentionally, with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and\n\n(b) if he does so negligently, with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "residual omission to apprehend or sufferance of escape"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 264 BNS is the catch-all residual provision for public-servant apprehension/confinement duties not already covered by Sections 259-261 -- splitting, like those sections, into an intentional band (up to three years) and a negligent band (up to two years, simple imprisonment).",
+        "essential_elements": [
+          "accused is a public servant legally bound to apprehend or keep in confinement a person, in a case not already covered by Sections 259, 260, or 261",
+          "omission to apprehend, or suffering the person to escape from confinement",
+          "intentional conduct draws up to three years (any imprisonment description); negligent conduct draws up to two years simple imprisonment"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat this as the fallback bucket: only reach for Section 264 once you've confirmed the facts don't fit neatly into Sections 259 (charged/liable persons), 260 (sentenced/committed persons), or 261 (negligent escape from confinement) -- it exists precisely to avoid a gap in coverage."
+      }
+    },
+    {
+      "number": "265",
+      "title": "Resistance or obstruction to lawful apprehension, or escape or rescue, in cases not otherwise provided for",
+      "raw_text": "Whoever, in any case not provided for in section 262 or section 263, intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself or any other person, or escapes or attempts to escape from any custody in which he is lawfully detained, or rescues or attempts to rescue any person from any custody in which that person is lawfully detained, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+      "key_terms": [
+        "residual resistance obstruction escape or rescue"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 265 BNS is the catch-all residual counterpart to Section 264, mirroring its relationship to Sections 262-263 -- a single flat punishment band of up to six months for resistance, obstruction, escape, or rescue not already covered by those two targeted sections.",
+        "essential_elements": [
+          "a case not already covered by Sections 262 or 263",
+          "intentional resistance or illegal obstruction to one's own or another's lawful apprehension, OR escaping/attempting to escape from lawful custody, OR rescuing/attempting to rescue another from lawful custody"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the much lighter residual punishment here (up to six months) compared to the specifically targeted Sections 262 (up to two years) and 263 (up to seven years at the top tier) -- residual, catch-all coverage is deliberately punished more lightly than the enumerated, severity-graded scenarios."
+      }
+    },
+    {
+      "number": "266",
+      "title": "Violation of condition of remission of punishment",
+      "raw_text": "Whoever, having accepted any conditional remission of punishment, knowingly violates any condition on which such remission was granted, shall be punished with the punishment to which he was originally sentenced, if he has already suffered no part of that punishment, and if he has suffered any part of that punishment, then with so much of that punishment as he has not already suffered.",
+      "key_terms": [
+        "knowing violation of a condition of remission"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 266 BNS enforces the conditional nature of a remission of sentence -- a person who accepts conditional remission and then knowingly breaks a condition of it is put back on the hook for the original sentence, minus whatever portion they have already served.",
+        "essential_elements": [
+          "accused had accepted a conditional remission of punishment",
+          "knowing violation of a condition attached to that remission"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The remedy is restorative, not additive -- the violator doesn't get a fresh, separate punishment on top of everything else; they simply forfeit the benefit of remission and must serve the unserved remainder (or the whole original sentence if none was yet served)."
+      }
+    },
+    {
+      "number": "267",
+      "title": "Intentional insult or interruption to public servant sitting in judicial proceeding",
+      "raw_text": "Whoever intentionally offers any insult, or causes any interruption to any public servant, while such public servant is sitting in any stage of a judicial proceeding, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "intentional insult or interruption to a public servant in a judicial proceeding"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 267 BNS is the Sanhita's contempt-of-court-adjacent offence -- intentionally insulting or interrupting a public servant while they are sitting in any stage of a judicial proceeding, punishable with up to six months' simple imprisonment, fine up to five thousand rupees, or both.",
+        "essential_elements": [
+          "intentional insult, or causing interruption, to a public servant",
+          "the public servant is sitting in any stage of a judicial proceeding at the time"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "'Any stage of a judicial proceeding' carries the same broad meaning developed under Section 229's Explanations (including Court-directed preliminary investigations and courts-martial) -- this isn't limited to disrupting a trial judge mid-hearing in a conventional courtroom."
+      }
+    },
+    {
+      "number": "268",
+      "title": "Personation of assessor",
+      "raw_text": "Whoever, by personation or otherwise, intentionally causes or suffers himself to be returned, empanelled or sworn as an assessor in any case in which he knows that he is not entitled by law to be so returned, empanelled or sworn, or knowing himself to have been so returned, empanelled or sworn contrary to law, voluntarily serves on such case as an assessor, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "personation of an assessor",
+        "knowingly serving as an assessor when not legally entitled"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 268 BNS targets fraudulent or otherwise unlawful participation as a court assessor -- either by personation/other means causing oneself to be returned, empanelled, or sworn as an assessor when not legally entitled, or by knowingly and voluntarily serving despite knowing the selection was unlawful.",
+        "essential_elements": [
+          "by personation or otherwise, intentionally causing or suffering oneself to be returned, empanelled, or sworn as an assessor while knowing one is not legally entitled, OR",
+          "knowing oneself to have been returned, empanelled, or sworn as an assessor contrary to law, and voluntarily serving on the case regardless"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The two limbs cover both ends of the timeline: fraudulently engineering one's own unlawful selection in the first place, and separately, discovering after the fact that one's selection was unlawful yet choosing to serve anyway -- either suffices independently."
+      }
+    },
+    {
+      "number": "269",
+      "title": "Failure by person released on bail bond or bond to appear in Court",
+      "raw_text": "Whoever, being released on bail bond or bond, fails without sufficient cause (which shall be proved by him) to appear in Court in accordance with the terms of the bail bond or bond, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.\n\nExplanation.--The punishment under this section is--\n\n(a) in addition to the punishment to which such person would be otherwise liable on conviction for the offence with which he has been charged or convicted; and\n\n(b) without prejudice to the power of the Court to order forfeiture of the bond under section 491 of the Bhartiya Nagarik Suraksha Sanhita, 2023.",
+      "key_terms": [
+        "failure to appear in court per bail bond or bond terms",
+        "burden of proof on the accused to show sufficient cause for non-appearance"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 269 BNS, closing Chapter XIV, is the Sanhita's bail-jumping offence -- a person released on bail bond or bond who fails, without sufficient cause, to appear in Court per the bond's terms is separately punishable with up to one year's imprisonment, fine, or both, on top of consequences for the underlying charged offence and independent of the Court's own bond-forfeiture power.",
+        "essential_elements": [
+          "accused was released on a bail bond or bond",
+          "failure to appear in Court in accordance with that bond's terms",
+          "absence of sufficient cause for the non-appearance, with the burden of proving sufficient cause resting on the accused"
+        ],
+        "exceptions_and_qualifications": [
+          "Punishment under this section is in addition to whatever the accused is otherwise liable to on conviction for the underlying charged offence (Explanation (a)).",
+          "This punishment operates without prejudice to the Court's separate power to order forfeiture of the bond under BNSS Section 491 (Explanation (b))."
+        ],
+        "how_to_read": "Note the reversed burden of proof -- unlike most BNS offences where the prosecution bears the burden throughout, here the accused must affirmatively prove sufficient cause for non-appearance once the bare fact of non-appearance is shown; and like Section 262, this punishment stacks rather than substitutes."
       }
     }
   ]
