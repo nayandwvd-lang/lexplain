@@ -4163,7 +4163,13 @@
           "Character witnesses are subject to cross-examination and re-examination."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "A short confirmatory section — removes any doubt that character evidence gets special protection from normal testing."
+        "how_to_read": "A short confirmatory section — removes any doubt that character evidence gets special protection from normal testing.",
+        "plain_summary_hi": "चरित्र गवाह सामान्य परीक्षा प्रक्रिया से मुक्त नहीं हैं — उन्हें भी किसी भी अन्य गवाह की तरह प्रति-परीक्षित और पुनः परीक्षित किया जा सकता है।",
+        "essential_elements_hi": [
+          "चरित्र गवाह प्रति-परीक्षा और पुनः परीक्षा के अधीन हैं।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "एक संक्षिप्त पुष्टिकारी धारा — यह किसी भी संदेह को दूर करती है कि चरित्र साक्ष्य को सामान्य परीक्षण से विशेष संरक्षण प्राप्त है।"
       }
     },
     {
@@ -4184,7 +4190,18 @@
         "exceptions_and_qualifications": [
           "The bar in chief/re-examination is objection-triggered, not automatic — if the adverse party doesn't object, a leading question can stand."
         ],
-        "how_to_read": "Classic trial-advocacy rule: no leading your own witness on contested matters (unless unopposed or the Court allows it for uncontested ground), but leading is the norm in cross-examination."
+        "how_to_read": "Classic trial-advocacy rule: no leading your own witness on contested matters (unless unopposed or the Court allows it for uncontested ground), but leading is the norm in cross-examination.",
+        "plain_summary_hi": "सुझावात्मक प्रश्नों को परिभाषित करती है और जहाँ वे अनुमत हैं: सामान्यतः मुख्य परीक्षा और पुनः परीक्षा में (यदि आपत्ति की जाए) वर्जित, लेकिन परिचयात्मक/निर्विवाद/पहले से सिद्ध मामलों के लिए अनुमत, और प्रति-परीक्षा में स्वतंत्र रूप से अनुमत।",
+        "essential_elements_hi": [
+          "सुझावात्मक प्रश्न = वह जो वांछित उत्तर का सुझाव देता है।",
+          "मुख्य/पुनः परीक्षा में केवल तभी वर्जित जब प्रतिकूल पक्ष द्वारा आपत्ति की जाए — स्वचालित रोक नहीं।",
+          "न्यायालय को परिचयात्मक, निर्विवाद, या पहले से पर्याप्त रूप से सिद्ध मामलों के लिए सुझावात्मक प्रश्नों की अनुमति देनी चाहिए।",
+          "प्रति-परीक्षा में स्वतंत्र रूप से अनुमत (कोई प्रतिबंध नहीं)।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "मुख्य/पुनः परीक्षा में रोक आपत्ति-ट्रिगर है, स्वचालित नहीं — यदि प्रतिकूल पक्ष आपत्ति नहीं करता, तो एक सुझावात्मक प्रश्न टिक सकता है।"
+        ],
+        "how_to_read_hi": "क्लासिक विचारण-वकालत नियम: विवादित मामलों पर अपने ही गवाह को न ले जाएँ (जब तक विरोध न हो या न्यायालय अविवादित आधार के लिए अनुमति न दे), लेकिन प्रति-परीक्षा में सुझाव देना मानक है।"
       }
     },
     {
@@ -4202,7 +4219,17 @@
         "exceptions_and_qualifications": [
           "The illustration is key: the letter's contents are never proved, but the fact that A referenced the letter and threatened revenge is independently relevant to show motive — that's different from trying to prove what the letter said."
         ],
-        "how_to_read": "Link back to the best-evidence-rule ss.94-95 (Chapter VI) — s.147 is the trial-mechanics enforcement tool for that same document-priority principle."
+        "how_to_read": "Link back to the best-evidence-rule ss.94-95 (Chapter VI) — s.147 is the trial-mechanics enforcement tool for that same document-priority principle.",
+        "plain_summary_hi": "परीक्षा चरण में दस्तावेजों को मौखिक गवाही पर प्राथमिकता लागू करती है: यदि किसी गवाह की साक्ष्य प्रभावी रूप से किसी दस्तावेज की विषयवस्तु को दोहराती है, तो प्रतिकूल पक्ष मांग कर सकता है कि मौखिक साक्ष्य जारी रहने से पहले दस्तावेज प्रस्तुत किया जाए (या द्वितीयक साक्ष्य की शर्तें पूरी की जाएँ)। लेकिन स्वतंत्र रूप से प्रासंगिक कथनों (जैसे उद्देश्य दिखाने के रूप में) के बारे में गवाही इस रोक से नहीं पकड़ी जाती, भले ही वे कथन किसी दस्तावेज के अस्तित्व का संदर्भ दें।",
+        "essential_elements_hi": [
+          "वहाँ लागू होता है जहाँ किसी गवाह की साक्ष्य किसी ऐसे संविदा/अनुदान/व्ययन से संबंधित हो जो दस्तावेज में घटाया गया था।",
+          "प्रतिकूल पक्ष आपत्ति कर सकता है और मौखिक विवरण जारी रहने से पहले दस्तावेज की प्रस्तुति (या द्वितीयक साक्ष्य को सक्षम बनाने वाला प्रमाण) की मांग कर सकता है।",
+          "स्पष्टीकरण अपवाद: किसी तीसरे पक्ष के किसी दस्तावेज की विषयवस्तु के बारे में कथन की मौखिक साक्ष्य ठीक है यदि कथन स्वयं स्वतंत्र रूप से प्रासंगिक हो (दस्तावेज की विषयवस्तु सिद्ध करने के लिए उपयोग नहीं किया जा रहा हो)।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "उदाहरण मुख्य है: पत्र की विषयवस्तु कभी सिद्ध नहीं होती, लेकिन यह तथ्य कि A ने पत्र का संदर्भ दिया और बदले की धमकी दी, उद्देश्य दिखाने के लिए स्वतंत्र रूप से प्रासंगिक है — यह पत्र में क्या कहा गया था यह सिद्ध करने के प्रयास से भिन्न है।"
+        ],
+        "how_to_read_hi": "सर्वोत्तम-साक्ष्य-नियम धारा 94-95 (अध्याय VI) से वापस जोड़ें — धारा 147 उसी दस्तावेज-प्राथमिकता सिद्धांत के लिए विचारण-यांत्रिकी प्रवर्तन उपकरण है।"
       }
     },
     {
@@ -4219,7 +4246,14 @@
           "To use the writing to contradict the witness, the specific contradicting parts must first be put to the witness before the writing is proved."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is the procedural foundation for classic impeachment-by-prior-statement cross-examination — fairness requires giving the witness a chance to explain before the document is formally proved against them."
+        "how_to_read": "This is the procedural foundation for classic impeachment-by-prior-statement cross-examination — fairness requires giving the witness a chance to explain before the document is formally proved against them.",
+        "plain_summary_hi": "किसी गवाह को उनके अपने पहले के लिखित कथनों के बारे में प्रति-परीक्षित किया जा सकता है बिना पहले उन्हें लेखन दिखाए — लेकिन यदि वकील वास्तव में उस लेखन का उपयोग उनका खंडन करने (विश्वसनीयता को चोट पहुँचाने) के लिए करना चाहता है, तो लेखन के औपचारिक रूप से सिद्ध होने से पहले गवाह का ध्यान पहले विशिष्ट खंडनकारी भागों की ओर आकर्षित किया जाना चाहिए।",
+        "essential_elements_hi": [
+          "पहले के लिखित कथनों पर प्रति-परीक्षा बिना पहले लेखन दिखाए या सिद्ध किए अनुमत है।",
+          "लेखन का उपयोग गवाह का खंडन करने के लिए करने हेतु, लेखन सिद्ध होने से पहले विशिष्ट खंडनकारी भागों को गवाह के समक्ष पहले रखना होगा।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह पूर्व-कथन-द्वारा-क्लासिक-विश्वसनीयता-हनन प्रति-परीक्षा की प्रक्रियात्मक नींव है — निष्पक्षता के लिए गवाह को दस्तावेज औपचारिक रूप से उसके विरुद्ध सिद्ध होने से पहले स्पष्टीकरण देने का अवसर देना आवश्यक है।"
       }
     },
     {
@@ -4239,7 +4273,17 @@
         "exceptions_and_qualifications": [
           "The proviso is a significant victim-protection reform — it forecloses the old 'character assassination' cross-examination tactic in rape/sexual-assault trials on the consent question."
         ],
-        "how_to_read": "Flag the proviso prominently in any sexual-offence trial prep — it is a hard bar, not a discretionary one, on a specific and historically abused line of cross-examination."
+        "how_to_read": "Flag the proviso prominently in any sexual-offence trial prep — it is a hard bar, not a discretionary one, on a specific and historically abused line of cross-examination.",
+        "plain_summary_hi": "अनुमेय प्रति-परीक्षा को विश्वसनीयता-परीक्षण, पहचान, और चरित्र-पर-आक्रमण करने वाले प्रश्नों तक विस्तारित करती है, भले ही उत्तर आत्म-दोषारोपक हो सकते हों। लेकिन परंतुक एक महत्वपूर्ण संरक्षण की गुंजाइश छोड़ता है: यौन अपराध अभियोजनों में जहाँ सहमति प्रश्नगत हो, पीड़िता से सहमति सिद्ध करने के लिए सामान्य अनैतिक चरित्र या पिछले यौन इतिहास पर प्रति-परीक्षा नहीं की जा सकती।",
+        "essential_elements_hi": [
+          "अनुमेय प्रति-परीक्षा उद्देश्य: सत्यता का परीक्षण, पहचान/जीवन में स्थिति स्थापित करना, और चरित्र के माध्यम से विश्वसनीयता हिलाना।",
+          "ऐसे प्रश्न तब भी अनुमत हैं जब उत्तर गवाह को दोषारोपित कर सकता हो या दंड/अधिहरण के लिए उजागर कर सकता हो।",
+          "परंतुक बीएनएस धारा 64-71 (और उनके प्रयास) के अंतर्गत अभियोजनों में सहमति सिद्ध करने के लिए यौन-अपराध पीड़िता के सामान्य अनैतिक चरित्र या पूर्व यौन इतिहास पर प्रश्न करने को रोकता है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "परंतुक एक महत्वपूर्ण पीड़िता-संरक्षण सुधार है — यह बलात्संग/यौन-हमला विचारणों में सहमति के मुद्दे पर पुरानी 'चरित्र-हनन' प्रति-परीक्षा रणनीति को अवरुद्ध करता है।"
+        ],
+        "how_to_read_hi": "किसी भी यौन-अपराध विचारण तैयारी में परंतुक को प्रमुखता से चिह्नित करें — यह प्रति-परीक्षा की एक विशिष्ट और ऐतिहासिक रूप से दुरुपयोग की गई पंक्ति पर एक कठोर रोक है, विवेकाधीन नहीं।"
       }
     },
     {
@@ -4254,7 +4298,14 @@
           "In that overlap, s.137 (compelled answer + use immunity) governs."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "A cross-referencing bridge section — it routes relevance-overlapping credit questions back into the s.137 compulsion-plus-immunity framework."
+        "how_to_read": "A cross-referencing bridge section — it routes relevance-overlapping credit questions back into the s.137 compulsion-plus-immunity framework.",
+        "plain_summary_hi": "जहाँ धारा 149-प्रकार का चरित्र/विश्वसनीयता प्रश्न मामले के लिए भी प्रासंगिक हो (केवल विश्वसनीयता के लिए नहीं), वहाँ धारा 137 का नियम लागू होता है — गवाह को आत्म-दोषारोपण की चिंताओं के बावजूद उत्तर देना होगा, लेकिन बाध्य उत्तर के लिए उपयोग प्रतिरक्षा मिलती है।",
+        "essential_elements_hi": [
+          "केवल तभी लागू होता है जब धारा 149 का प्रश्न विवादग्रस्त मामले के लिए भी प्रासंगिक हो।",
+          "उस अतिव्याप्ति में, धारा 137 (बाध्य उत्तर + उपयोग प्रतिरक्षा) शासित करती है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "एक पार-संदर्भिक सेतु धारा — यह प्रासंगिकता-अतिव्यापी विश्वसनीयता प्रश्नों को वापस धारा 137 के बाध्यता-सह-प्रतिरक्षा ढांचे में मार्गित करती है।"
       }
     },
     {
@@ -4270,7 +4321,15 @@
           "Four guiding considerations: seriousness of the imputation's effect on credibility; remoteness/triviality cutting against compulsion; disproportionality between the attack and the evidence's importance cutting against compulsion; and permissible adverse inference from refusal."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is the discretionary balancing counterpart to s.149's broader permission — s.149 says such questions CAN be asked, s.151 tells the Court how to decide whether the witness must actually answer."
+        "how_to_read": "This is the discretionary balancing counterpart to s.149's broader permission — s.149 says such questions CAN be asked, s.151 tells the Court how to decide whether the witness must actually answer.",
+        "plain_summary_hi": "केवल विश्वसनीयता को क्षति पहुँचाने वाले प्रश्नों के लिए जिनकी कोई स्वतंत्र प्रासंगिकता नहीं है, न्यायालय को उत्तर बाध्य करने का विवेकाधिकार है, जो चार कारकों द्वारा निर्देशित है: विश्वसनीयता पर प्रभाव की गंभीरता, आरोप की दूरस्थता/तुच्छता, चरित्र-आक्रमण और साक्ष्य के महत्व के बीच आनुपातिकता, और इनकार से प्रतिकूल अनुमान निकालने का विकल्प।",
+        "essential_elements_hi": [
+          "केवल विश्वसनीयता के लिए प्रासंगिक प्रश्नों पर लागू होता है, मामले की मूल विषयवस्तु पर नहीं।",
+          "न्यायालय को उत्तर बाध्य करने या माफ करने का विवेकाधिकार है, और गवाह को चेतावनी दे सकता है कि उसे उत्तर देने की आवश्यकता नहीं है।",
+          "चार मार्गदर्शक विचार: आरोप के विश्वसनीयता पर प्रभाव की गंभीरता; दूरस्थता/तुच्छता जो बाध्यता के विरुद्ध जाती है; आक्रमण और साक्ष्य के महत्व के बीच अननुपातिकता जो बाध्यता के विरुद्ध जाती है; और इनकार से अनुमेय प्रतिकूल अनुमान।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह धारा 149 की व्यापक अनुमति का विवेकाधीन संतुलन-समकक्ष है — धारा 149 कहती है कि ऐसे प्रश्न पूछे जा सकते हैं, धारा 151 न्यायालय को यह तय करने का तरीका बताती है कि गवाह को वास्तव में उत्तर देना चाहिए या नहीं।"
       }
     },
     {
@@ -4285,7 +4344,14 @@
           "Illustrations distinguish instructed/corroborated grounds (proper) from asking 'at random' with no information (improper), and note that unsatisfactory answers during questioning can themselves generate reasonable grounds."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Pair with s.153: this section sets the good-faith precondition, s.153 supplies the sanction (report to the High Court/disciplinary authority) for advocates who breach it."
+        "how_to_read": "Pair with s.153: this section sets the good-faith precondition, s.153 supplies the sanction (report to the High Court/disciplinary authority) for advocates who breach it.",
+        "plain_summary_hi": "धारा 151-प्रकार के विश्वसनीयता-आक्रमणकारी प्रश्नों पर सद्भावना की आवश्यकता लागू करती है: वकील को प्रश्न पूछने से पहले यह विश्वास करने के उचित आधार होने चाहिए कि आरोप सत्य है, जिसे ठीक से निर्देशित प्रश्नों और यादृच्छिक मत्स्य-अभियानों के बीच विरोधाभासों द्वारा दर्शाया गया है।",
+        "essential_elements_hi": [
+          "धारा 151 का प्रश्न पूछने के लिए पूर्वशर्त के रूप में आरोप के सुस्थापित होने पर विश्वास के उचित आधार।",
+          "उदाहरण निर्देशित/संपुष्ट आधारों (उचित) को बिना किसी जानकारी के 'यादृच्छिक रूप से' पूछने (अनुचित) से अलग करते हैं, और नोट करते हैं कि प्रश्नोत्तर के दौरान असंतोषजनक उत्तर स्वयं उचित आधार उत्पन्न कर सकते हैं।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "धारा 153 के साथ जोड़ें: यह धारा सद्भावना पूर्वशर्त तय करती है, धारा 153 इसका उल्लंघन करने वाले अधिवक्ताओं के लिए मंजूरी (उच्च न्यायालय/अनुशासनिक प्राधिकरण को रिपोर्ट) प्रदान करती है।"
       }
     },
     {
