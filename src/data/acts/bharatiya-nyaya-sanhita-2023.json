@@ -645,7 +645,19 @@
     "falsifying a document by unauthorised material alteration after its execution": "Section 335(B) BNS: without lawful authority, dishonestly or fraudulently altering a document or electronic record in any material part, by cancellation or otherwise, after it has been made, executed, or affixed with an electronic signature -- applying even where the original maker is dead at the time of the alteration.",
     "causing a person to sign execute or alter a document while incapable of knowing its contents due to unsoundness of mind intoxication or deception": "Section 335(C) BNS: dishonestly or fraudulently causing a person to sign, seal, execute, or alter a document or electronic record, or to affix an electronic signature, knowing that the person cannot know the document's contents or the nature of the alteration by reason of unsoundness of mind or intoxication, or does not know it by reason of deception practised upon them.",
     "own-name signature amounting to forgery where it misrepresents authorship or timing": "Explanation 1 to Section 335 BNS, with five illustrations: signing one's own genuine name can still constitute forgery where it is done to misrepresent authorship (e.g. signing a bill intending it to be believed drawn by a different person of the same name) or timing (e.g. antedating a lease or promissory note to defraud a purchaser or creditors).",
-    "making a false document in the name of a fictitious or deceased person": "Explanation 2 to Section 335 BNS: making a false document in the name of a fictitious person, intending it to be believed the document was made by a real person, or in the name of a deceased person, intending it to be believed the document was made by that person during their lifetime, may amount to forgery -- illustrated by drawing and fraudulently accepting a bill of exchange upon a fictitious person."
+    "making a false document in the name of a fictitious or deceased person": "Explanation 2 to Section 335 BNS: making a false document in the name of a fictitious person, intending it to be believed the document was made by a real person, or in the name of a deceased person, intending it to be believed the document was made by that person during their lifetime, may amount to forgery -- illustrated by drawing and fraudulently accepting a bill of exchange upon a fictitious person.",
+    "forgery as making a false document or electronic record with intent to cause damage injury or fraud or to support a claim or induce a transaction": "Section 336(1) BNS: making a false document or false electronic record (or part of one, per Section 335), with intent to cause damage or injury to the public or any person, or to support a claim or title, or to cause a person to part with property, or to induce entry into a contract, or with intent to commit fraud or that fraud may be committed -- the ulterior intent that converts Section 335's bare definitional conduct into punishable forgery.",
+    "base punishment for forgery": "Section 336(2) BNS: the baseline punishment for forgery -- up to two years, fine, or both -- applicable where neither of the enhanced intent-based tracks in sub-sections (3) or (4) applies.",
+    "enhanced punishment for forgery intended for use in cheating": "Section 336(3) BNS: forgery committed with intent that the forged document or electronic record be used for the purpose of cheating, punishable with up to seven years plus mandatory fine.",
+    "enhanced punishment for forgery intended or known likely to harm a party's reputation": "Section 336(4) BNS: forgery committed with intent that the forged document or electronic record harm the reputation of any party, or with knowledge that it is likely to be used for that purpose, punishable with up to three years plus mandatory fine.",
+    "forgery of a court record or proceeding or a government-issued identity document": "Part of the Section 337 BNS category list: forging a document or electronic record purporting to be a record or proceeding of or in a Court, or a Government-issued identity document including a voter identity card or Aadhaar Card, punishable with up to seven years plus fine.",
+    "forgery of a register of birth marriage or burial or a public servant's official register": "Part of the Section 337 BNS category list: forging a document or electronic record purporting to be a register of birth, marriage, or burial, or a register kept by a public servant as such (including electronic-form registers per the section's Explanation), punishable with up to seven years plus fine.",
+    "forgery of a public servant's official certificate or document or an authority to sue or confess judgment or a power of attorney": "Part of the Section 337 BNS category list: forging a certificate or document purporting to be made by a public servant in their official capacity, or an authority to institute or defend a suit or take proceedings in it, or to confess judgment, or a power of attorney, punishable with up to seven years plus fine.",
+    "forgery of a document purporting to be a valuable security or a will or an authority to adopt a son": "Part of the Section 338 BNS category list: forging a document purporting to be a valuable security, a will, or an authority to adopt a son, punishable with life imprisonment or up to ten years plus fine -- the heaviest forgery-punishment tier in the Sanhita.",
+    "forgery of a document purporting to authorise dealing with a valuable security or receiving or delivering money or property": "Part of the Section 338 BNS category list: forging a document purporting to give authority to any person to make or transfer any valuable security, or to receive its principal/interest/dividends, or to receive or deliver any money, movable property, or valuable security, punishable with life imprisonment or up to ten years plus fine.",
+    "forgery of a document purporting to be an acquittance or receipt for money or property": "Part of the Section 338 BNS category list: forging a document purporting to be an acquittance or receipt acknowledging payment of money, or an acquittance or receipt for the delivery of movable property or a valuable security, punishable with life imprisonment or up to ten years plus fine.",
+    "possessing a forged document of the Section 337 category with intent to fraudulently or dishonestly use it as genuine": "Section 339 BNS, first limb: possessing a document or electronic record of the Section 337 category (court records, public registers, government identity documents, official certificates, authorities to sue, powers of attorney), knowing it to be forged and intending it be fraudulently or dishonestly used as genuine, punishable with up to seven years plus fine.",
+    "possessing a forged document of the Section 338 category with intent to fraudulently or dishonestly use it as genuine": "Section 339 BNS, second limb: possessing a document of the Section 338 category (valuable securities, wills, adoption authorities, acquittances/receipts), knowing it to be forged and intending it be fraudulently or dishonestly used as genuine, punishable with life imprisonment or up to seven years plus fine."
   },
   "sections": [
     {
@@ -7094,6 +7106,84 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This section only defines what counts as 'making a false document' -- it does not itself prescribe any punishment; Section 336 (forgery) and the sections that follow attach criminal liability to the conduct defined here. Note the three-way structure: limb (A) is pure fabrication/false attribution, limb (B) is unauthorised alteration of a genuine document, and limb (C) is procuring a document through someone else's incapacity or deception -- all three converge on the same underlying wrong of creating a document that misrepresents its own true authorship, content, or timing, which is what the forgery offences in Sections 336 onward ultimately punish."
+      }
+    },
+    {
+      "number": "336",
+      "title": "Forgery",
+      "raw_text": "(1) Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.\n(2) Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.\n(3) Whoever commits forgery, intending that the document or electronic record forged shall be used for the purpose of cheating, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\n(4) Whoever commits forgery, intending that the document or electronic record forged shall harm the reputation of any party, or knowing that it is likely to be used for that purpose, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+      "key_terms": [
+        "forgery as making a false document or electronic record with intent to cause damage injury or fraud or to support a claim or induce a transaction",
+        "base punishment for forgery",
+        "enhanced punishment for forgery intended for use in cheating",
+        "enhanced punishment for forgery intended or known likely to harm a party's reputation"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 336 BNS attaches criminal liability to the conduct defined in Section 335: making a false document or false electronic record (or part of one), with intent to cause damage or injury to the public or any person, or to support a claim or title, or to cause a person to part with property, or to induce entry into a contract, or with intent to commit fraud or that fraud may be committed, constitutes forgery. Sub-section (2) sets the base punishment at up to two years, fine, or both. Sub-section (3) raises this to up to seven years plus mandatory fine where the forgery is intended for use in cheating. Sub-section (4) sets a separate enhanced tier of up to three years plus mandatory fine where the forgery is intended, or known likely, to harm a party's reputation.",
+        "essential_elements": [
+          "making a false document or false electronic record, or part of one (per Section 335)",
+          "with intent to cause damage or injury to the public or any person, or to support a claim or title, or to cause a person to part with property, or to induce entry into an express or implied contract, or with intent to commit fraud or that fraud may be committed"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The ulterior-intent element is what elevates Section 335's bare definitional conduct into the punishable offence of forgery -- the same false-document-making act, once coupled with any one of the listed intents (damage, supporting a claim, inducing a transfer or contract, or fraud), completes the offence under sub-section (1); sub-sections (3) and (4) then function as alternative, non-cumulative enhancement tracks layered on the base offence depending on whether the forger's specific purpose was facilitating cheating (the heavier seven-year track) or damaging reputation (the three-year track), with sub-section (2) as the residual base tier for forgery that fits neither enhancement."
+      }
+    },
+    {
+      "number": "337",
+      "title": "Forgery of record of Court or of public register, etc.",
+      "raw_text": "Whoever forges a document or an electronic record, purporting to be a record or proceeding of or in a Court or an identity document issued by Government including voter identity card or Aadhaar Card, or a register of birth, marriage or burial, or a register kept by a public servant as such, or a certificate or document purporting to be made by a public servant in his official capacity, or an authority to institute or defend a suit, or to take any proceedings therein, or to confess judgment, or a power of attorney, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\n\nExplanation.--For the purposes of this section, \"register\" includes any list, data or record of any entries maintained in the electronic form as defined in clause (r) of sub-section (1) of section 2 of the Information Technology Act, 2000.",
+      "key_terms": [
+        "forgery of a court record or proceeding or a government-issued identity document",
+        "forgery of a register of birth marriage or burial or a public servant's official register",
+        "forgery of a public servant's official certificate or document or an authority to sue or confess judgment or a power of attorney"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 337 BNS enhances forgery punishment to up to seven years plus fine where the forged document purports to be one of a specified list of high-trust public documents: a Court record or proceeding; a government-issued identity document including a voter identity card or Aadhaar Card; a register of birth, marriage, or burial, or any register kept by a public servant as such; a certificate or document purporting to be made by a public servant in their official capacity; an authority to institute or defend a suit or take proceedings in it, or to confess judgment; or a power of attorney. The Explanation clarifies that 'register' includes electronic-form lists, data, or records as defined under the Information Technology Act, 2000.",
+        "essential_elements": [
+          "forging a document or electronic record",
+          "that document purporting to be one of the specified categories -- a Court record/proceeding, a Government-issued identity document, a birth/marriage/burial or public-servant-maintained register, an official public-servant certificate/document, an authority to sue/defend/confess judgment, or a power of attorney"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The explicit inclusion of 'voter identity card or Aadhaar Card' as examples of Government-issued identity documents reflects a modernisation over the pre-2023 law, extending this heightened seven-year punishment to forgery of contemporary digital-identity instruments alongside the traditional categories of court records and civil registers."
+      }
+    },
+    {
+      "number": "338",
+      "title": "Forgery of valuable security, will, etc.",
+      "raw_text": "Whoever forges a document which purports to be a valuable security or a will, or an authority to adopt a son, or which purports to give authority to any person to make or transfer any valuable security, or to receive the principal, interest or dividends thereon, or to receive or deliver any money, movable property, or valuable security, or any document purporting to be an acquittance or receipt acknowledging the payment of money, or an acquittance or receipt for the delivery of any movable property or valuable security, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+      "key_terms": [
+        "forgery of a document purporting to be a valuable security or a will or an authority to adopt a son",
+        "forgery of a document purporting to authorise dealing with a valuable security or receiving or delivering money or property",
+        "forgery of a document purporting to be an acquittance or receipt for money or property"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 338 BNS sets the heaviest forgery-category punishment -- life imprisonment, or imprisonment of either description up to ten years, plus fine -- for forging a document purporting to be: a valuable security; a will; an authority to adopt a son; an authority to make, transfer, or deal with (receive principal, interest, or dividends on) a valuable security; an authority to receive or deliver money, movable property, or a valuable security; or an acquittance/receipt acknowledging payment of money or delivery of movable property or a valuable security.",
+        "essential_elements": [
+          "forging a document",
+          "that document purporting to be one of the specified categories -- a valuable security, a will, an authority to adopt a son, an authority over a valuable security or over receiving/delivering money or property, or an acquittance/receipt for money or property"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This section sits at the top of the forgery-punishment hierarchy, above both the base offence (Section 336, up to two/three/seven years depending on intent) and the public-document category (Section 337, up to seven years) -- the common thread across its categories is direct, immediate financial exposure: a forged will or security-authority document can be used to extract real money or property from a victim or an estate with comparatively little further effort, which is why Parliament matched its ceiling to life imprisonment, on par with the most serious property offences in Chapter XVII."
+      }
+    },
+    {
+      "number": "339",
+      "title": "Having possession of document described in section 337 or section 338, knowing it to be forged and intending to use it as genuine",
+      "raw_text": "Whoever has in his possession any document or electronic record, knowing the same to be forged and intending that the same shall fraudulently or dishonestly be used as genuine, shall, if the document or electronic record is one of the description mentioned in section 337 of this Sanhita, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and if the document is one of the description mentioned in section 338, shall be punished with imprisonment for life, or with imprisonment of either description, for a term which may extend to seven years, and shall also be liable to fine.",
+      "key_terms": [
+        "possessing a forged document of the Section 337 category with intent to fraudulently or dishonestly use it as genuine",
+        "possessing a forged document of the Section 338 category with intent to fraudulently or dishonestly use it as genuine"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 339 BNS criminalises mere possession (short of actually using) a forged document or electronic record, where the possessor knows it to be forged and intends that it be fraudulently or dishonestly used as genuine. The punishment tracks the category of the underlying forged document: up to seven years plus fine where it is a Section 337-category document (court records, public registers, government identity documents, official certificates, authorities to sue, powers of attorney); life imprisonment or up to seven years plus fine where it is a Section 338-category document (valuable securities, wills, adoption authorities, acquittances/receipts).",
+        "essential_elements": [
+          "possessing a document or electronic record",
+          "knowing it to be forged",
+          "intending that it shall fraudulently or dishonestly be used as genuine",
+          "the document falling within the Section 337 category (court/public register/identity-document forgeries) or the Section 338 category (valuable security/will/acquittance forgeries), which determines the applicable punishment tier"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note that Section 339's punishment for Section 338-category documents caps imprisonment-of-either-description at seven years (not ten, as in Section 338 itself) while retaining the life-imprisonment alternative -- possession-with-intent-to-use is treated as marginally less grave than the act of forgery itself on the determinate-term axis, even though both carry the same life-imprisonment ceiling; this section functions as the forgery-chapter's analogue to Section 317's receiving-stolen-property offence, extending liability down the chain from the original forger to anyone who knowingly holds the forged instrument meaning to pass it off as genuine."
       }
     }
   ]
