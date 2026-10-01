@@ -670,7 +670,19 @@
     "attempting to cancel destroy deface or secrete such a document, or committing mischief in respect of it": "Section 343 BNS, extended conduct: the offence is equally made out by merely attempting to cancel, destroy, deface, or secrete a will/adoption-authority/valuable-security document, or by committing mischief in respect of it, carrying the identical life-imprisonment-or-seven-years punishment as the completed act.",
     "a clerk officer or servant wilfully and fraudulently destroying altering mutilating or falsifying an employer's book record or account": "Section 344 BNS, first limb: a clerk, officer, or servant (or person employed/acting as such) who wilfully and with intent to defraud destroys, alters, mutilates, or falsifies any book, electronic record, paper, writing, valuable security, or account belonging to, in the possession of, or received on behalf of, their employer, punishable with up to seven years, fine, or both.",
     "wilfully and fraudulently making a false entry or omitting or altering a material particular in an employer's book record or account": "Section 344 BNS, second limb: a clerk, officer, or servant who wilfully and with intent to defraud makes or abets a false entry in, or omits or alters (or abets the omission/alteration of) a material particular from or in, an employer's book, electronic record, paper, writing, valuable security, or account, carrying the same up-to-seven-years punishment as the destruction/falsification limb.",
-    "sufficiency of alleging a general intent to defraud without specifics in a falsification-of-accounts charge": "Explanation to Section 344 BNS: a charge under this section need only allege a general intent to defraud, without naming the particular person intended to be defrauded, specifying the particular sum of money involved, or specifying the particular day of commission -- a relaxed pleading standard reflecting how accounting fraud is typically detected through patterns rather than a single identifiable incident."
+    "sufficiency of alleging a general intent to defraud without specifics in a falsification-of-accounts charge": "Explanation to Section 344 BNS: a charge under this section need only allege a general intent to defraud, without naming the particular person intended to be defrauded, specifying the particular sum of money involved, or specifying the particular day of commission -- a relaxed pleading standard reflecting how accounting fraud is typically detected through patterns rather than a single identifiable incident.",
+    "property mark as a mark denoting movable property belongs to a particular person": "Section 345(1) BNS: the foundational definition opening the property-marks sub-chapter -- a 'property mark' is any mark used to denote that movable property belongs to a particular person, the concept every later offence in Sections 345-350 is built around.",
+    "using a false property mark on goods or their receptacle in a manner calculated to misattribute ownership": "Section 345(2)-(3) BNS: marking goods, or their case/package/receptacle, or using an already-marked receptacle, in a manner reasonably calculated to cause belief that the goods belong to someone they do not actually belong to constitutes using a 'false property mark', punishable with up to one year, fine, or both, unless the accused proves absence of intent to defraud.",
+    "reverse onus defence of absence of intent to defraud for using a false property mark": "Section 345(3) BNS's evidentiary structure: the offence of using a false property mark is made out unless the accused affirmatively proves they acted without intent to defraud -- a reverse-onus defence that recurs at Sections 350(1) and (in a modified three-limb form) Section 349.",
+    "removing destroying defacing or adding to a property mark intending or knowing it likely to cause injury": "Section 346 BNS: tampering with a genuine property mark -- removing, destroying, defacing, or adding to it -- intending or knowing it likely to cause injury to any person, punishable with up to one year, fine, or both, with no reverse-onus defence (the prosecution must prove the intent/knowledge element).",
+    "counterfeiting a property mark used by any other person": "Section 347(1) BNS: counterfeiting any property mark used by another (private) person, punishable with up to two years, fine, or both -- the base tier of the property-mark counterfeiting offence.",
+    "counterfeiting or fraudulently using as genuine a property mark used by a public servant or denoting manufacture quality or exemption particulars": "Section 347(2) BNS: the enhanced tier -- counterfeiting a property mark used by a public servant, or a mark denoting manufacture particulars (maker, time, place), quality, passage through a particular office, or exemption entitlement, or fraudulently using such a mark as genuine knowing it counterfeit, punishable with up to three years plus mandatory fine.",
+    "making or possessing a die plate or instrument for counterfeiting a property mark": "Section 348 BNS, first limb: making or possessing any die, plate, or other instrument for the purpose of counterfeiting a property mark, punishable with up to three years, fine, or both -- the property-marks sub-chapter's tool offence, paralleling Section 341's seal/plate offence for forgery.",
+    "possessing a property mark for the purpose of misattributing goods to a person they do not belong to": "Section 348 BNS, second limb: possessing a property mark itself (not merely the instrument for making one) for the purpose of denoting that goods belong to a person to whom they do not belong, carrying the same up-to-three-years punishment as the instrument-possession limb.",
+    "selling exposing or possessing for sale goods bearing a counterfeit property mark": "Section 349 BNS: selling, exposing for sale, or possessing for sale any goods or things (or their case/package/receptacle) with a counterfeit property mark affixed or impressed upon them, punishable with up to one year, fine, or both, unless the accused establishes the section's innocent-dealer defence.",
+    "innocent-dealer defence of reasonable precautions plus full cooperation, or otherwise acting innocently": "Section 349 BNS's three-limbed defence to the counterfeit-goods-dealing offence: the accused escapes liability by proving (a) reasonable precautions taken and no reason to suspect the mark's genuineness at the time, AND (b) full cooperation with the prosecutor's demand for information about the goods' source -- or, as a separate fallback, (c) that they otherwise acted innocently.",
+    "making a false mark on a receptacle calculated to mislead about its contents or their nature or quality": "Section 350(1) BNS: making a false mark on a case, package, or other receptacle containing goods, in a manner reasonably calculated to mislead a public servant or any other person about whether the receptacle contains particular goods, or about the nature or quality of the goods it contains, punishable with up to three years, fine, or both, unless the accused proves absence of intent to defraud.",
+    "using a false mark on a receptacle in the sub-section (1) prohibited manner punished identically to making it": "Section 350(2) BNS: using any false mark in the manner prohibited by sub-section (1) is punished in the same manner as making such a false mark -- the using/making parity pattern repeated throughout Chapter XVIII (cf. Sections 340(2), 341(4)), closing out the property-marks sub-chapter and Chapter XVIII as a whole before Chapter XIX begins at Section 351."
   },
   "sections": [
     {
@@ -7292,6 +7304,123 @@
         ],
         "exceptions_and_qualifications": [],
         "how_to_read": "This section is the Sanhita's white-collar-fraud workhorse, closely paralleling Section 316's enhanced criminal-breach-of-trust tier for clerks/servants -- but where Section 316 punishes misappropriating the property itself, Section 344 punishes tampering with the paper trail (whether or not any property actually changes hands), and the Explanation's relaxed pleading standard reflects how accounting fraud is often detected through patterns of falsification before any single defrauded victim or exact sum can be pinned down."
+      }
+    },
+    {
+      "number": "345",
+      "title": "Property mark",
+      "raw_text": "(1) A mark used for denoting that movable property belongs to a particular person is called a property mark.\n(2) Whoever marks any movable property or goods, or any case, package or other receptacle containing movable property or goods, or uses any case, package or other receptacle having any mark thereon, in a manner reasonably calculated to cause it to be believed that the property or goods so marked, or any property or goods contained in any such receptacle so marked, belong to a person to whom they do not belong, is said to use a false property mark.\n(3) Whoever uses any false property mark shall, unless he proves that he acted without intent to defraud, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+      "key_terms": [
+        "property mark as a mark denoting movable property belongs to a particular person",
+        "using a false property mark on goods or their receptacle in a manner calculated to misattribute ownership",
+        "reverse onus defence of absence of intent to defraud for using a false property mark"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 345 BNS opens the 'property marks' sub-chapter, which protects ownership-identifying marks on movable goods the way the forgery provisions protect documents. Sub-section (1) defines a property mark as any mark denoting that movable property belongs to a particular person. Sub-section (2) defines 'false property mark': marking goods or their container, or using a marked container, in a manner reasonably calculated to cause the belief that the goods belong to someone they do not actually belong to. Sub-section (3) makes using any false property mark punishable with up to one year, fine, or both -- but places the burden on the accused to prove absence of intent to defraud, failing which the offence is made out.",
+        "essential_elements": [
+          "marking movable property/goods or their case, package, or receptacle, or using an already-marked receptacle",
+          "in a manner reasonably calculated to cause belief that the property belongs to a person to whom it does not actually belong",
+          "punishable unless the accused proves absence of intent to defraud"
+        ],
+        "exceptions_and_qualifications": [
+          "the accused is punished unless they prove they acted without intent to defraud -- a reverse-onus defence rather than the prosecution having to prove fraudulent intent"
+        ],
+        "how_to_read": "Treat Section 345 as the foundational definitional section for the whole property-marks sub-chapter, exactly as Section 335 ('making a false document') anchors the documents sub-chapter -- every subsequent property-mark offence (346-350) builds on the 'property mark' and 'false property mark' definitions set here, and the reverse-onus structure in sub-section (3) recurs throughout the sub-chapter (349, 350) as the default evidentiary posture for property-mark offences."
+      }
+    },
+    {
+      "number": "346",
+      "title": "Tampering with property mark with intent to cause injury",
+      "raw_text": "Whoever removes, destroys, defaces or adds to any property mark, intending or knowing it to be likely that he may thereby cause injury to any person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+      "key_terms": [
+        "removing destroying defacing or adding to a property mark intending or knowing it likely to cause injury"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 346 BNS punishes tampering with a genuine property mark -- removing, destroying, defacing, or adding to it -- where done intending, or knowing it likely, that the tampering will cause injury to any person, with up to one year, fine, or both. Unlike Section 345(3), there is no reverse-onus defence here -- the prosecution must affirmatively show the intent-or-knowledge element.",
+        "essential_elements": [
+          "removing, destroying, defacing, or adding to any property mark",
+          "intending, or knowing it likely, that the act will cause injury to any person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 346 is the property-marks sub-chapter's analogue to Section 343's destruction offence for wills/securities -- Section 345 punishes creating a false mark (the forgery-like offence), Section 346 punishes tampering with a genuine one (the destruction-like offence), and both carry an identical one-year ceiling, the lightest tier in this sub-chapter."
+      }
+    },
+    {
+      "number": "347",
+      "title": "Counterfeiting a property mark",
+      "raw_text": "(1) Whoever counterfeits any property mark used by any other person shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.\n(2) Whoever counterfeits any property mark used by a public servant, or any mark used by a public servant to denote that any property has been manufactured by a particular person or at a particular time or place, or that the property is of a particular quality or has passed through a particular office, or that it is entitled to any exemption, or uses as genuine any such mark knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+      "key_terms": [
+        "counterfeiting a property mark used by any other person",
+        "counterfeiting or fraudulently using as genuine a property mark used by a public servant or denoting manufacture quality or exemption particulars"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 347 BNS criminalises counterfeiting property marks in a two-tier structure keyed to who uses the genuine mark. Sub-section (1) punishes counterfeiting any property mark used by another private person, with up to two years, fine, or both. Sub-section (2) punishes the more serious conduct of counterfeiting a mark used by a public servant -- or a mark denoting manufacture particulars (maker, time, place), quality, passage through a particular office, or exemption entitlement -- or fraudulently using such a mark as genuine knowing it counterfeit, with a higher ceiling of three years plus mandatory fine.",
+        "essential_elements": [
+          "counterfeiting a property mark",
+          "used by another person (sub-section 1), or used by a public servant or denoting manufacture/quality/office-passage/exemption particulars, or fraudulently using such a mark as genuine knowing it counterfeit (sub-section 2)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read Section 347 as scaling punishment by the authority behind the genuine mark -- counterfeiting an ordinary trader's property mark (sub-section 1) is less grave than counterfeiting a public servant's official mark or an exemption/quality-certifying mark (sub-section 2), mirroring the general pattern in this Sanhita of treating offences touching public servants' official functions and government-backed certifications as more serious than equivalent private-party offences."
+      }
+    },
+    {
+      "number": "348",
+      "title": "Making or possession of any instrument for counterfeiting a property mark",
+      "raw_text": "Whoever makes or has in his possession any die, plate or other instrument for the purpose of counterfeiting a property mark, or has in his possession a property mark for the purpose of denoting that any goods belong to a person to whom they do not belong, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "key_terms": [
+        "making or possessing a die plate or instrument for counterfeiting a property mark",
+        "possessing a property mark for the purpose of misattributing goods to a person they do not belong to"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 348 BNS targets the tools and materials of property-mark forgery, mirroring Section 341's approach to forgery seals/plates. Making or possessing any die, plate, or other counterfeiting instrument for the purpose of counterfeiting a property mark, or possessing a property mark itself for the purpose of denoting that goods belong to someone they do not, is punishable with up to three years, fine, or both.",
+        "essential_elements": [
+          "making, or possessing, a die, plate, or other instrument for counterfeiting a property mark, OR possessing a property mark itself",
+          "for the purpose of counterfeiting, or of denoting that goods belong to a person to whom they do not belong"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 348 is the property-marks sub-chapter's tool offence, structurally paired with Section 347 the same way Section 341 pairs with the Section-338-category forgery offences -- it captures preparatory conduct (possessing the means to counterfeit) independently of whether any actual counterfeit mark has yet been applied to goods."
+      }
+    },
+    {
+      "number": "349",
+      "title": "Selling goods marked with a counterfeit property mark",
+      "raw_text": "Whoever sells, or exposes, or has in possession for sale, any goods or things with a counterfeit property mark affixed to or impressed upon the same, or to or upon any case, package or other receptacle in which such goods are contained, shall, unless he proves--\n(a) that, having taken all reasonable precautions against committing an offence against this section, he had at the time of the commission of the alleged offence no reason to suspect the genuineness of the mark; and\n(b) that, on demand made by or on behalf of the prosecutor, he gave all the information in his power with respect to the persons from whom he obtained such goods or things; or\n(c) that otherwise he had acted innocently,\nbe punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+      "key_terms": [
+        "selling exposing or possessing for sale goods bearing a counterfeit property mark",
+        "innocent-dealer defence of reasonable precautions plus full cooperation, or otherwise acting innocently"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 349 BNS punishes dealing in goods bearing a counterfeit property mark -- selling, exposing for sale, or possessing for sale such goods -- with up to one year, fine, or both, UNLESS the accused proves an innocent-dealer defence. That defence has two cumulative limbs, (a) having taken all reasonable precautions and having had no reason at the time to suspect the mark's genuineness, AND (b) having fully cooperated with the prosecutor's demand for information about the source of the goods -- or, as an alternative standalone limb (c), proving that the dealer otherwise acted innocently.",
+        "essential_elements": [
+          "selling, exposing for sale, or possessing for sale goods or things (or their case/package/receptacle) bearing a counterfeit property mark",
+          "punishable unless the accused proves the innocent-dealer defence under clauses (a)+(b), or clause (c)"
+        ],
+        "exceptions_and_qualifications": [
+          "clauses (a) and (b) operate together: reasonable precautions plus no reason to suspect at the time, AND full cooperation when the prosecutor demands source information",
+          "clause (c) is a separate, broader fallback: proving the dealer otherwise acted innocently, even if (a)/(b) are not separately established"
+        ],
+        "how_to_read": "Section 349 is this sub-chapter's commercial-dealer provision, structurally resembling Section 340(2)'s using-a-forged-document-as-genuine offence but built around a reverse-onus innocent-dealer defence instead of a knowledge/belief element -- a trader caught selling counterfeit-marked goods must affirmatively show either the (a)+(b) precautions-and-cooperation combination or (c) innocent conduct generally, placing the practical burden of proving good faith on the seller rather than requiring the prosecution to prove bad faith."
+      }
+    },
+    {
+      "number": "350",
+      "title": "Making a false mark upon any receptacle containing goods",
+      "raw_text": "(1) Whoever makes any false mark upon any case, package or other receptacle containing goods, in a manner reasonably calculated to cause any public servant or any other person to believe that such receptacle contains goods which it does not contain or that it does not contain goods which it does contain, or that the goods contained therein are of a nature or quality different from the real nature or quality thereof, shall, unless he proves that he acted without intent to defraud, be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.\n(2) Whoever uses any such false mark in any manner prohibited by sub-section (1) shall be punished in the same manner as if he had made such false mark.",
+      "key_terms": [
+        "making a false mark on a receptacle calculated to mislead about its contents or their nature or quality",
+        "using a false mark on a receptacle in the sub-section (1) prohibited manner punished identically to making it"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 350 BNS closes the property-marks sub-chapter by addressing false marks about a receptacle's contents, as distinct from false marks about ownership (Section 345). Sub-section (1) punishes making a false mark on a case, package, or receptacle in a manner reasonably calculated to mislead a public servant or any other person about whether the receptacle contains particular goods, or about the nature or quality of the goods it contains, with up to three years, fine, or both -- subject to a reverse-onus defence of absence of intent to defraud. Sub-section (2) extends identical punishment to using such a false mark in the sub-section (1) prohibited manner.",
+        "essential_elements": [
+          "making (or, under sub-section 2, using) a false mark upon a case, package, or other receptacle containing goods",
+          "in a manner reasonably calculated to mislead a public servant or any other person about the presence/absence, nature, or quality of the goods contained",
+          "punishable unless the accused proves absence of intent to defraud"
+        ],
+        "exceptions_and_qualifications": [
+          "the accused is punished unless they prove they acted without intent to defraud, the same reverse-onus structure as Section 345(3)"
+        ],
+        "how_to_read": "Section 350 completes a deliberate ownership-versus-contents split within the property-marks sub-chapter: Section 345 polices false marks about whose goods they are, while Section 350 polices false marks about what the goods are (or their quality) -- both share the identical reverse-onus 'unless he proves absence of intent to defraud' structure, and sub-section (2)'s using-the-mark offence mirrors the making/using split seen throughout this chapter (e.g., Section 340(2), Section 341(4)), closing out Chapter XVIII ('Of Offences Relating to Documents and to Property Marks') before Chapter XIX opens at Section 351."
       }
     }
   ]
