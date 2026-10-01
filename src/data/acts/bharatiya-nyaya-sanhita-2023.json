@@ -682,7 +682,13 @@
     "selling exposing or possessing for sale goods bearing a counterfeit property mark": "Section 349 BNS: selling, exposing for sale, or possessing for sale any goods or things (or their case/package/receptacle) with a counterfeit property mark affixed or impressed upon them, punishable with up to one year, fine, or both, unless the accused establishes the section's innocent-dealer defence.",
     "innocent-dealer defence of reasonable precautions plus full cooperation, or otherwise acting innocently": "Section 349 BNS's three-limbed defence to the counterfeit-goods-dealing offence: the accused escapes liability by proving (a) reasonable precautions taken and no reason to suspect the mark's genuineness at the time, AND (b) full cooperation with the prosecutor's demand for information about the goods' source -- or, as a separate fallback, (c) that they otherwise acted innocently.",
     "making a false mark on a receptacle calculated to mislead about its contents or their nature or quality": "Section 350(1) BNS: making a false mark on a case, package, or other receptacle containing goods, in a manner reasonably calculated to mislead a public servant or any other person about whether the receptacle contains particular goods, or about the nature or quality of the goods it contains, punishable with up to three years, fine, or both, unless the accused proves absence of intent to defraud.",
-    "using a false mark on a receptacle in the sub-section (1) prohibited manner punished identically to making it": "Section 350(2) BNS: using any false mark in the manner prohibited by sub-section (1) is punished in the same manner as making such a false mark -- the using/making parity pattern repeated throughout Chapter XVIII (cf. Sections 340(2), 341(4)), closing out the property-marks sub-chapter and Chapter XVIII as a whole before Chapter XIX begins at Section 351."
+    "using a false mark on a receptacle in the sub-section (1) prohibited manner punished identically to making it": "Section 350(2) BNS: using any false mark in the manner prohibited by sub-section (1) is punished in the same manner as making such a false mark -- the using/making parity pattern repeated throughout Chapter XVIII (cf. Sections 340(2), 341(4)), closing out the property-marks sub-chapter and Chapter XVIII as a whole before Chapter XIX begins at Section 351.",
+    "criminal intimidation as threatening injury to person reputation or property with intent to cause alarm or compel an act or omission": "Section 351(1) BNS: the core definition of criminal intimidation -- threatening another, by any means, with injury to their person, reputation, or property, or to someone they are interested in, with intent to cause alarm, or to coerce them into an act they are not legally bound to do, or an omission of an act they are legally entitled to do, as the means of avoiding the threat's execution.",
+    "threatening to injure a deceased person's reputation being within the criminal intimidation offence": "Explanation to Section 351(1) BNS: a threat to injure the reputation of a deceased person falls within criminal intimidation where the person threatened has an interest in that deceased person's reputation.",
+    "base punishment for criminal intimidation": "Section 351(2) BNS: the default sentencing tier for criminal intimidation -- up to two years, fine, or both -- applicable where neither sub-section (3)'s gravity-based escalation nor sub-section (4)'s anonymity aggravator applies.",
+    "enhanced punishment for criminal intimidation by threatening death grievous hurt destruction by fire a serious offence or imputing unchastity to a woman": "Section 351(3) BNS: an escalated up-to-seven-years tier for criminal intimidation where the content of the threat is itself grave -- death, grievous hurt, destruction of property by fire, an offence punishable with death/life imprisonment/up to seven years, or imputing unchastity to a woman.",
+    "additional punishment for committing criminal intimidation anonymously or while concealing identity": "Section 351(4) BNS: a stackable up-to-two-years addition, on top of whichever punishment under sub-section (1) already applies, where the criminal intimidation was committed via anonymous communication or the offender took precautions to conceal their name or abode.",
+    "intentionally insulting another in a manner intended or known likely to provoke a breach of the public peace or another offence": "Section 352 BNS: intentionally insulting a person in any manner, thereby provoking them, where the offender intends or knows it likely that the provocation will cause the insulted person to break the public peace or commit any other offence, punishable with up to two years, fine, or both -- a public-order provision distinct from the later defamation offence at Section 356."
   },
   "sections": [
     {
@@ -7421,6 +7427,46 @@
           "the accused is punished unless they prove they acted without intent to defraud, the same reverse-onus structure as Section 345(3)"
         ],
         "how_to_read": "Section 350 completes a deliberate ownership-versus-contents split within the property-marks sub-chapter: Section 345 polices false marks about whose goods they are, while Section 350 polices false marks about what the goods are (or their quality) -- both share the identical reverse-onus 'unless he proves absence of intent to defraud' structure, and sub-section (2)'s using-the-mark offence mirrors the making/using split seen throughout this chapter (e.g., Section 340(2), Section 341(4)), closing out Chapter XVIII ('Of Offences Relating to Documents and to Property Marks') before Chapter XIX opens at Section 351."
+      }
+    },
+    {
+      "number": "351",
+      "title": "Criminal intimidation",
+      "raw_text": "(1) Whoever threatens another by any means, with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation.\n\nExplanation.--A threat to injure the reputation of any deceased person in whom the person threatened is interested, is within this section.\n\nIllustration.--A, for the purpose of inducing B to resist from prosecuting a civil suit, threatens to burn B's house. A is guilty of criminal intimidation.\n\n(2) Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.\n(3) Whoever commits the offence of criminal intimidation by threatening to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or imprisonment for life, or with imprisonment for a term which may extend to seven years, or to impute unchastity to a woman, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.\n(4) Whoever commits the offence of criminal intimidation by an anonymous communication, or having taken precaution to conceal the name or abode of the person from whom the threat comes, shall be punished with imprisonment of either description for a term which may extend to two years, in addition to the punishment provided for the offence under sub-section (1).",
+      "key_terms": [
+        "criminal intimidation as threatening injury to person reputation or property with intent to cause alarm or compel an act or omission",
+        "threatening to injure a deceased person's reputation being within the criminal intimidation offence",
+        "base punishment for criminal intimidation",
+        "enhanced punishment for criminal intimidation by threatening death grievous hurt destruction by fire a serious offence or imputing unchastity to a woman",
+        "additional punishment for committing criminal intimidation anonymously or while concealing identity"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 351 BNS opens Chapter XIX with the foundational offence of criminal intimidation: threatening another, by any means, with injury to their person, reputation, or property (or to someone they are interested in), with intent to cause alarm or to coerce them into doing something they are not legally bound to do, or into omitting something they are legally entitled to do, as the price of avoiding the threat. The Explanation extends this to threats against a deceased person's reputation. Sub-section (2) sets the base punishment at up to two years, fine, or both. Sub-section (3) escalates this to up to seven years where the threat itself is of death, grievous hurt, destruction of property by fire, a serious offence (death/life imprisonment/up to seven years), or imputing unchastity to a woman. Sub-section (4) adds a further up-to-two-years on top of whatever sub-section (1)'s punishment applies, where the intimidation was anonymous or the threatener concealed their identity.",
+        "essential_elements": [
+          "threatening another person, by any means, with injury to person, reputation, or property (of the threatened person or someone they are interested in)",
+          "with intent to cause alarm, or to compel the person to do an act they are not legally bound to do, or to omit an act they are legally entitled to do",
+          "as the means of avoiding execution of the threat"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read this section's four sub-sections as a punishment ladder built on a single definitional core in sub-section (1): (2) is the default tier, (3) escalates based on the gravity of what is threatened (death/grievous hurt/arson/serious offence/unchastity imputation), and (4) is a stackable aggravator for anonymity that adds to whichever of (2)/(3) already applies rather than replacing it -- so an anonymous death threat draws up to seven years under (3) plus up to two more years under (4)."
+      }
+    },
+    {
+      "number": "352",
+      "title": "Intentional insult with intent to provoke breach of peace",
+      "raw_text": "Whoever intentionally insults in any manner, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace, or to commit any other offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "key_terms": [
+        "intentionally insulting another in a manner intended or known likely to provoke a breach of the public peace or another offence"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 352 BNS punishes intentionally insulting someone, in any manner, where the insult provokes them and the offender intends or knows it likely that the provocation will cause the insulted person to break the public peace or commit some other offence, with up to two years, fine, or both. The offence targets provocative insult as a trigger for public-order breakdown, not insult in general.",
+        "essential_elements": [
+          "intentionally insulting another person, in any manner",
+          "thereby giving provocation to that person",
+          "intending, or knowing it likely, that the provocation will cause the insulted person to break the public peace, or to commit any other offence"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 352 is narrower than it first appears -- mere intentional insult is not the offence; the insult must be shown to be a deliberate or knowing trigger for a breach of the peace or a further offence by the insulted person, making this a public-order provision rather than a general insult/defamation provision (defamation itself is separately dealt with later at Section 356)."
       }
     }
   ]
