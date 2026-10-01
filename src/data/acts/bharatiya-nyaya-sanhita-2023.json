@@ -50,7 +50,46 @@
     "fourteen-day execution cap": "The rule under Section 12 BNS that, in actually carrying out a sentence of solitary confinement, no single continuous spell may exceed fourteen days, and each such spell must be followed by a rest interval of at least equal length.",
     "mandatory rest intervals between solitary spells": "The requirement in Section 12 BNS that periods of solitary confinement — whether under the fourteen-day-per-spell rule or the seven-day-per-month rule for terms exceeding three months — must each be separated by a rest interval at least as long as the preceding spell of confinement.",
     "recidivist enhanced punishment": "The elevated sentencing ceiling (life imprisonment, or imprisonment of either description up to ten years) imposed by Section 13 BNS on a person who, having already been convicted of a Chapter X or Chapter XVII offence carrying three years' imprisonment or more, commits a further offence under either chapter carrying the same three-year-plus threshold.",
-    "repeat-offender liability under Chapters X and XVII": "The specific scope restriction of Section 13 BNS's enhanced-punishment regime: both the prior conviction and the fresh offence must fall under Chapter X (Offences Against the Public Tranquillity) or Chapter XVII (Offences Against Property) and each must independently carry a three-year-or-more imprisonment threshold before the enhancement applies."
+    "repeat-offender liability under Chapters X and XVII": "The specific scope restriction of Section 13 BNS's enhanced-punishment regime: both the prior conviction and the fresh offence must fall under Chapter X (Offences Against the Public Tranquillity) or Chapter XVII (Offences Against Property) and each must independently carry a three-year-or-more imprisonment threshold before the enhancement applies.",
+    "mistake of fact bound by law": "The exception in Section 14 BNS: a person who is, or in good faith and due to a mistake of fact (never a mistake of law) believes himself to be, legally bound to do an act commits no offence by doing it — illustrated by a soldier obeying a lawful order, or a court officer arresting the wrong person after a genuine, careful enquiry.",
+    "ignorantia juris non excusat": "The Latin maxim ('ignorance of the law excuses no one') underlying Sections 14 and 17 BNS — a mistaken belief about what the law requires or permits gives no defence; only a good-faith mistake about the underlying facts can.",
+    "judicial immunity": "The protection under Section 15 BNS for a Judge acting judicially in the exercise of a power actually given, or in good faith believed to be given, to them by law — it covers only judicial acts, not a Judge's personal or administrative conduct.",
+    "acts warranted by court judgment or order": "The protection under Section 16 BNS for a person who acts in pursuance of, or as warranted by, a still-valid court judgment or order, even if the court lacked jurisdiction to pass it, provided the person in good faith believed the court had jurisdiction.",
+    "act justified by law or mistaken belief of justification": "The exception in Section 17 BNS, the permissive counterpart to Section 14's mandatory one: a person actually justified by law, or who in good faith mistakenly believes (due to a mistake of fact) that they are justified, commits no offence — illustrated by a citizen's lawful power to apprehend an apparent offender.",
+    "pure accident defence": "The exception in Section 18 BNS for harm that results purely by accident or misfortune, without criminal intention or knowledge, while doing a lawful act, lawfully, with proper care and caution — illustrated by a hatchet-head accidentally flying off during lawful work.",
+    "necessity defence": "The exception in Section 19 BNS (also called the choice-of-evils defence): an act known to be likely to cause harm is not an offence if done without criminal intent and in good faith to prevent or avoid a different, greater harm to person or property, with the proportionality of the risk taken assessed objectively as a question of fact.",
+    "choice-of-evils harm prevention": "Another name for the necessity defence under Section 19 BNS, capturing its core logic: knowingly risking a lesser harm is excused when done in good faith to avoid a more serious and imminent harm, illustrated by the ship-captain and fire-fighting scenarios in the section's own illustrations.",
+    "doli incapax under seven": "The absolute, age-based bar in Section 20 BNS: a child under seven years of age is conclusively incapable of committing any offence under the Sanhita, with no inquiry into the child's actual understanding.",
+    "doli incapax seven to twelve": "The case-specific defence in Section 21 BNS for a child between seven and twelve years of age, available only where it is proved the child had not, on the specific occasion, attained sufficient maturity of understanding to judge the nature and consequences of their conduct.",
+    "unsoundness of mind defence": "The insanity defence under Section 22 BNS: a person who, due to unsoundness of mind at the time of the act, was incapable of knowing either the nature of the act or that it was wrong or contrary to law, commits no offence — India's long-standing M'Naghten-derived cognitive-incapacity test.",
+    "M'Naghten-style insanity test": "The historical label for the cognitive-incapacity standard codified in Section 22 BNS (carried over from the former IPC), which asks whether unsoundness of mind left the accused incapable of knowing the nature of the act, or that it was wrong or illegal — not whether the accused has a diagnosed mental illness as such.",
+    "involuntary intoxication defence": "The defence under Section 23 BNS, paralleling the insanity test, available only where the intoxicating substance was administered without the person's knowledge or against their will and rendered them incapable of knowing the nature of the act or that it was wrong or illegal.",
+    "imputed sobriety for voluntary intoxication": "The rule under Section 24 BNS that, for offences requiring a particular knowledge or intent, a voluntarily intoxicated person is treated as if they had the knowledge they would have had while sober — voluntary intoxication cannot be used to deny the required mental element, unless the intoxication was itself involuntary.",
+    "consent defence for non-fatal non-grievous harm": "The baseline consent exception under Section 25 BNS: an act neither intended nor known to be likely to cause death or grievous hurt is not an offence against an adult (above eighteen) who consented to suffer the harm or take the risk of it, illustrated by consensual fencing for sport.",
+    "consensual medical treatment defence": "The exception under Section 26 BNS protecting good-faith medical and surgical treatment: an act not intended to cause death is not an offence, even if known likely to cause death, when done in good faith for the benefit of a person who consented, illustrated by a surgeon performing a risky but beneficial operation with the patient's consent.",
+    "guardian-consented treatment of minors and persons of unsound mind": "The exception under Section 27 BNS extending consent-based protection to children under twelve and persons of unsound mind via their guardian's or lawful custodian's consent, subject to four provisos barring intentional killing, unjustified death-likely acts, unjustified voluntary grievous hurt, and unprotected abetment.",
+    "vitiated consent": "The definitional bar in Section 28 BNS specifying when a purported 'consent' does not count as valid consent anywhere in the Sanhita: consent obtained under fear of injury or a known factual misconception, consent from someone incapable of understanding it due to unsoundness of mind or intoxication, and (absent contrary context) consent from a child under twelve.",
+    "offences independent of consent-related harm": "The limitation in Section 29 BNS confirming that consent-based exceptions (Sections 25-27) excuse only the harm caused to the consenting person, not an act that is independently defined as an offence regardless of that harm — illustrated by causing miscarriage, which remains an offence despite the woman's consent, except where done in good faith to save her life.",
+    "emergency-necessity defence without consent": "The exception under Section 30 BNS covering true emergencies: a good-faith act for a person's benefit is not an offence by reason of harm caused, where it was genuinely impossible to obtain consent in time (the person being unconscious or incapable with no guardian reachable), subject to the same four provisos as Section 27.",
+    "mere pecuniary benefit exclusion": "The Explanation attached to Section 30 BNS (and cross-applied to Sections 26 and 27) clarifying that purely financial advantage does not count as 'benefit' for the purposes of the good-faith consent and necessity exceptions.",
+    "good-faith communication defence": "The exception under Section 31 BNS protecting a communication made in good faith for the recipient's benefit from being treated as an offence merely because it causes harm — illustrated by a surgeon's honest, fatal-shock-inducing disclosure of a grim prognosis.",
+    "duress by threat of instant death": "The compulsion/duress defence under Section 32 BNS: an act compelled by threats reasonably causing apprehension of instant death is not an offence — except murder and death-punishable offences against the State, which can never be excused this way — provided the actor did not voluntarily place themselves in that dangerous situation.",
+    "de minimis harm defence": "The 'law does not concern itself with trifles' exception under Section 33 BNS: an act causing, intending, or known likely to cause harm so slight that no person of ordinary sense and temper would complain of it is not an offence, judged by an objective reasonable-person standard.",
+    "right of private defence (general bar)": "The opening, umbrella rule of Section 34 BNS: any act genuinely done in the exercise of the right of private defence is not an offence, with the actual scope and limits of that right worked out across the subsequent Sections 35-44.",
+    "private defence of body": "The branch of the private-defence right under Section 35(a) BNS permitting every person to defend their own body or any other person's body against any offence affecting the human body, subject to Section 37's restrictions.",
+    "private defence of property": "The branch of the private-defence right under Section 35(b) BNS permitting every person to defend their own or any other person's movable or immovable property against theft, robbery, mischief, criminal trespass, or attempts at these, subject to Section 37's restrictions.",
+    "private defence against a non-culpable attacker": "The rule under Section 36 BNS that private defence remains available against an attacker who is personally non-culpable due to youth, immaturity, unsoundness of mind, intoxication, or honest misconception — the defender has exactly the same right as if the attacker's act had been a full offence.",
+    "no private defence against good-faith public servants": "The restriction in Section 37(1)(a)-(b) BNS barring private defence against a good-faith, colour-of-office act (or directed act) of a public servant that does not reasonably threaten death or grievous hurt, even if not strictly lawful — subject to the defender's knowledge of the actor's public-servant status (Explanations 1-2).",
+    "time-to-seek-public-authorities bar": "The restriction in Section 37(1)(c) BNS denying the right of private defence wherever there was time to seek the protection of public authorities instead of acting unilaterally.",
+    "necessity limit on private defence": "The proportionality cap in Section 37(2) BNS: the right of private defence never extends to inflicting more harm than is genuinely necessary for the purpose of defence.",
+    "private defence extending to death — body": "The expanded right under Section 38 BNS permitting voluntary causing of death in defence of the body, but only against seven enumerated grave categories of assault — reasonable apprehension of death or grievous hurt, rape, unnatural-lust gratification, kidnapping/abduction, wrongful confinement without recourse to authorities, and acid-throwing or attempted acid-throwing.",
+    "acid-attack ground for lethal private defence": "The seventh category added in Section 38(g) BNS — throwing or administering acid, or attempting to do so, in circumstances reasonably causing apprehension of grievous hurt — as a ground on which lethal private defence of the body is permitted, reflecting the specific gravity the BNS attaches to acid attacks.",
+    "private defence capped below death": "The default rule under Section 39 BNS: for any assault not matching Section 38's seven grave categories, the right of private defence of the body never extends to causing death, only to causing harm short of death, subject to Section 37's restrictions.",
+    "temporal window of private defence of body": "The commencement-and-continuance rule under Section 40 BNS: the right of private defence of the body begins as soon as a reasonable apprehension of danger arises from an attempt or threat, even before any offence is committed, and lasts only as long as that reasonable apprehension continues.",
+    "private defence extending to death — property": "The expanded right under Section 41 BNS permitting voluntary causing of death in defence of property, but only against four enumerated grave categories: robbery, night house-breaking (sunset-to-sunrise), arson or explosive mischief against a dwelling or property-custody structure, and theft/mischief/house-trespass under circumstances reasonably raising apprehension of death or grievous hurt.",
+    "private defence of property capped below death": "The default rule under Section 42 BNS: for theft, mischief, or criminal trespass not matching Section 41's four grave categories, the right of private defence of property never extends to causing death, only to causing harm short of death, subject to Section 37's restrictions.",
+    "temporal window of private defence of property": "The set of commencement-and-continuance rules under Section 43 BNS: the right of private defence of property always begins once a reasonable apprehension of danger to the property arises, but its end point differs by offence — tied to the thief's retreat/recovery/authority-assistance for theft, continuing danger/fear for robbery, continuation of the trespass/mischief itself, or continuation of the house-trespass begun by night house-breaking.",
+    "private defence with incidental risk to bystanders": "The closing safety-valve of the private-defence scheme under Section 44 BNS: where a defender facing an assault reasonably threatening death cannot effectively exercise private defence without risking incidental harm to an innocent bystander, the right extends to running that risk — illustrated by firing into a threatening mob that includes children."
   },
   "sections": [
     {
@@ -370,6 +409,624 @@
           "The three-year threshold must be met on both the prior conviction and the fresh offence for the enhancement to engage."
         ],
         "how_to_read": "Apply this section as a two-step test: (1) was the earlier conviction under Chapter X or XVII with a three-year-plus imprisonment term, and (2) is the new offence also under Chapter X or XVII with a three-year-plus term — only if both are 'yes' does the enhanced life/ten-year ceiling under Section 13 replace the ordinary punishment for the new offence."
+      }
+    },
+    {
+      "number": "14",
+      "title": "Act done by a person bound, or by mistake of fact believing himself bound, by law",
+      "raw_text": "Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it.\n\nIllustrations.\n(a) A, a soldier, fires on a mob by the order of his superior officer, in conformity with the commands of the law. A has committed no offence.\n(b) A, an officer of a Court, being ordered by that Court to arrest Y, and, after due enquiry, believing Z to be Y, arrests Z. A has committed no offence.",
+      "key_terms": [
+        "mistake of fact bound by law",
+        "ignorantia juris non excusat"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the first General Exception: a person legally bound to do something, or who in good faith mistakenly but reasonably believes (due to a mistake of *fact*, never a mistake of *law*) that they are bound to do it, commits no offence by doing it.",
+        "essential_elements": [
+          "Applies to a person who is actually bound by law, or who believes in good faith they are bound, due to a mistake of fact.",
+          "The mistake must be one of fact, not of law — the old maxim 'ignorance of law is no excuse' still applies.",
+          "Good faith is required (see Section 2(14)'s 'due care and attention' standard)."
+        ],
+        "exceptions_and_qualifications": [
+          "A mistaken belief about what the law itself requires provides no protection under this section — only a mistaken belief about facts, held with due care, does."
+        ],
+        "how_to_read": "Pair this with Section 17 (acts justified, or believed in good faith to be justified, by law) — Section 14 covers compulsion ('bound to do'), Section 17 covers permission ('justified in doing')."
+      }
+    },
+    {
+      "number": "15",
+      "title": "Act of Judge when acting judicially",
+      "raw_text": "Nothing is an offence which is done by a Judge when acting judicially in the exercise of any power which is, or which in good faith he believes to be, given to him by law.",
+      "key_terms": [
+        "judicial immunity"
+      ],
+      "breakdown": {
+        "plain_summary": "A Judge acting in a judicial capacity commits no offence by exercising a power that is actually given to them by law, or that they in good faith believe is given to them by law.",
+        "essential_elements": [
+          "Protection applies only to acts done 'acting judicially' — not to a Judge's purely administrative or personal conduct.",
+          "Covers both powers actually conferred by law and powers honestly, carefully believed to be conferred."
+        ],
+        "exceptions_and_qualifications": [
+          "Does not immunise acts done outside a judicial capacity, or in bad faith."
+        ],
+        "how_to_read": "Read alongside Section 16 (acts done pursuant to a court's judgment/order) — Section 15 protects the Judge who makes the order; Section 16 protects the person who executes it."
+      }
+    },
+    {
+      "number": "16",
+      "title": "Act done pursuant to judgment or order of Court",
+      "raw_text": "Nothing which is done in pursuance of, or which is warranted by the judgment or order of, a Court; if done whilst such judgment or order remains in force, is an offence, notwithstanding the Court may have had no jurisdiction to pass such judgment or order, provided the person doing the act in good faith believes that the Court had such jurisdiction.",
+      "key_terms": [
+        "acts warranted by court judgment or order"
+      ],
+      "breakdown": {
+        "plain_summary": "A person who acts in pursuance of, or as warranted by, a still-valid court judgment or order commits no offence — even if the court turns out to have lacked jurisdiction to pass it — so long as that person in good faith believed the court had jurisdiction.",
+        "essential_elements": [
+          "The judgment or order must still be in force at the time of the act.",
+          "Protection survives even a jurisdictional defect in the underlying order, provided the actor's good-faith belief in the court's jurisdiction."
+        ],
+        "exceptions_and_qualifications": [
+          "No protection if the judgment/order has already been set aside or has expired, or if the person acted without the required good-faith belief."
+        ],
+        "how_to_read": "This protects enforcement officers and litigants who rely on a court order — focus on whether the order was still in force and whether the actor's belief in the court's jurisdiction meets the good-faith (due care and attention) standard."
+      }
+    },
+    {
+      "number": "17",
+      "title": "Act done by a person justified, or by mistake of fact believing himself justified, by law",
+      "raw_text": "Nothing is an offence which is done by any person who is justified by law, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith, believes himself to be justified by law, in doing it.\n\nIllustration.\nA sees Z commit what appears to A to be a murder. A, in the exercise, to the best of his judgment exerted in good faith, of the power which the law gives to all persons of apprehending murderers in the fact, seizes Z, in order to bring Z before the proper authorities. A has committed no offence, though it may turn out that Z was acting in self-defence.",
+      "key_terms": [
+        "act justified by law or mistaken belief of justification"
+      ],
+      "breakdown": {
+        "plain_summary": "Mirrors Section 14 but for permissive rather than mandatory legal authority: a person actually justified by law, or who in good faith mistakenly believes (due to a mistake of fact) that they are justified, commits no offence.",
+        "essential_elements": [
+          "Covers both genuine legal justification and a good-faith, fact-based mistaken belief in justification.",
+          "The illustration shows a private citizen's lawful power to apprehend an apparent offender, even if the underlying facts later turn out differently."
+        ],
+        "exceptions_and_qualifications": [
+          "As with Section 14, a mistake about the law itself (rather than the facts) gives no protection."
+        ],
+        "how_to_read": "Think of Section 14 as 'I thought I had to' and Section 17 as 'I thought I was allowed to' — both require the mistake to be factual, held in good faith."
+      }
+    },
+    {
+      "number": "18",
+      "title": "Accident in doing a lawful act",
+      "raw_text": "Nothing is an offence which is done by accident or misfortune, and without any criminal intention or knowledge in the doing of a lawful act in a lawful manner by lawful means and with proper care and caution.\n\nIllustration.\nA is at work with a hatchet; the head flies off and kills a man who is standing by. Here, if there was no want of proper caution on the part of A, his act is excusable and not an offence.",
+      "key_terms": [
+        "pure accident defence"
+      ],
+      "breakdown": {
+        "plain_summary": "A harm that results purely by accident or misfortune — with no criminal intention or knowledge — while doing a lawful act, lawfully, with proper care and caution, is not an offence.",
+        "essential_elements": [
+          "The underlying act itself must be lawful, done by lawful means, in a lawful manner.",
+          "The actor must have exercised proper care and caution.",
+          "No criminal intention or knowledge of the resulting harm."
+        ],
+        "exceptions_and_qualifications": [
+          "If the underlying act was unlawful, or the actor was careless, this defence fails even if the harm was unintended — negligence-based liability can still attach separately."
+        ],
+        "how_to_read": "Use the hatchet illustration as the template: ask (1) was the act itself lawful, (2) was it done carefully, and (3) was the resulting harm unintended and unknown — only a 'yes' to all three engages this exception."
+      }
+    },
+    {
+      "number": "19",
+      "title": "Act likely to cause harm, but done without criminal intent, and to prevent other harm",
+      "raw_text": "Nothing is an offence merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done without any criminal intention to cause harm, and in good faith for the purpose of preventing or avoiding other harm to person or property.\n\nExplanation.—It is a question of fact in such a case whether the harm to be prevented or avoided was of such a nature and so imminent as to justify or excuse the risk of doing the act with the knowledge that it was likely to cause harm.\n\nIllustrations.\n(a) A, the captain of a vessel, suddenly and without any fault or negligence on his part, finds himself in such a position that, before he can stop his vessel, he must inevitably run down a boat B, with twenty or thirty passengers on board, unless he changes the course of his vessel, and that, by changing his course, he must incur risk of running down a boat C with only two passengers on board, which he may possibly clear. Here, if A alters his course without any intention to run down the boat C and in good faith for the purpose of avoiding the danger to the passengers in the boat B, he is not guilty of an offence, though he may run down the boat C by doing an act which he knew was likely to cause that effect, if it be found as a matter of fact that the danger which he intended to avoid was such as to excuse him in incurring the risk of running down the boat C.\n(b) A, in a great fire, pulls down houses in order to prevent the conflagration from spreading. He does this with the intention in good faith of saving human life or property. Here, if it be found that the harm to be prevented was of such a nature and so imminent as to excuse A's act, A is not guilty of the offence.",
+      "key_terms": [
+        "necessity defence",
+        "choice-of-evils harm prevention"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the Sanhita's 'necessity' defence: doing something known to be likely to cause harm is not an offence if done without criminal intent and in good faith to prevent or avoid a greater harm to person or property — whether the prevented harm was imminent and serious enough to justify the risk taken is always a question of fact.",
+        "essential_elements": [
+          "Knowledge of likely harm is not enough on its own — there must be no criminal intention to cause that harm.",
+          "The act must be done in good faith specifically to prevent or avoid a different, other harm.",
+          "Whether the prevented harm justified the risk is assessed objectively as a question of fact (the Explanation)."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a true necessity/choice-of-evils defence, distinct from private defence (Sections 34-44), which responds to an offence being committed against the defender, not to a general emergency."
+        ],
+        "how_to_read": "Apply a proportionality test using the two illustrations: was the harm avoided genuinely severe and imminent enough, viewed objectively, to excuse knowingly risking the lesser harm that actually occurred?"
+      }
+    },
+    {
+      "number": "20",
+      "title": "Act of a child under seven years of age",
+      "raw_text": "Nothing is an offence which is done by a child under seven years of age.",
+      "key_terms": [
+        "doli incapax under seven"
+      ],
+      "breakdown": {
+        "plain_summary": "A child under seven years of age is conclusively incapable of committing any offence under the Sanhita — this is an absolute, age-based bar, with no inquiry into the child's actual maturity.",
+        "essential_elements": [
+          "Age is determined purely by the calendar — under seven years at the time of the act.",
+          "No factual inquiry into the child's actual understanding is undertaken or needed; the bar is absolute."
+        ],
+        "exceptions_and_qualifications": [
+          "Contrast with Section 21, which covers children aged seven to twelve and requires proof of immaturity of understanding rather than an absolute age bar."
+        ],
+        "how_to_read": "Treat Section 20 as a bright-line rule (age alone decides) and Section 21 as a case-specific inquiry (age plus proof of immaturity) — do not blend the two tests."
+      }
+    },
+    {
+      "number": "21",
+      "title": "Act of a child above seven years of age and under twelve years of age of immature understanding",
+      "raw_text": "Nothing is an offence which is done by a child above seven years of age and under twelve years of age, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.",
+      "key_terms": [
+        "doli incapax seven to twelve"
+      ],
+      "breakdown": {
+        "plain_summary": "A child between seven and twelve years of age escapes liability only if, on the specific occasion in question, they had not attained sufficient maturity of understanding to judge the nature and consequences of their conduct — unlike Section 20, this requires proof of actual immaturity, not just an age cut-off.",
+        "essential_elements": [
+          "Age bracket: above seven and under twelve years.",
+          "Requires a factual finding that the child lacked sufficient maturity to understand the nature and consequences of that specific act, on that specific occasion."
+        ],
+        "exceptions_and_qualifications": [
+          "A child in this bracket who did understand the nature and consequences of the act is not protected — maturity, not mere age, is the operative test."
+        ],
+        "how_to_read": "Expect this defence to be contested on evidence of the particular child's cognitive development and the circumstances of the specific act — it is not automatic merely because the child falls within the age bracket."
+      }
+    },
+    {
+      "number": "22",
+      "title": "Act of a person of unsound mind",
+      "raw_text": "Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.",
+      "key_terms": [
+        "unsoundness of mind defence",
+        "M'Naghten-style insanity test"
+      ],
+      "breakdown": {
+        "plain_summary": "The insanity defence: a person who, because of unsoundness of mind at the time of the act, was incapable of knowing either the nature of the act itself, or that it was wrong or contrary to law, commits no offence.",
+        "essential_elements": [
+          "Unsoundness of mind must exist at the time of the act, not merely before or after.",
+          "Incapacity must go to either (a) knowledge of the nature of the act, or (b) knowledge that the act was wrong or illegal — either suffices."
+        ],
+        "exceptions_and_qualifications": [
+          "Mere eccentricity, odd behaviour, or even a diagnosed mental illness is insufficient on its own — the specific cognitive incapacity described must be established for the moment of the act."
+        ],
+        "how_to_read": "This is India's long-standing (M'Naghten-derived) insanity test, carried over from the IPC's equivalent provision — focus on the two alternative cognitive incapacities, not on mental illness as a diagnosis in itself."
+      }
+    },
+    {
+      "number": "23",
+      "title": "Act of a person incapable of judgment by reason of intoxication caused against his will",
+      "raw_text": "Nothing is an offence which is done by a person who, at the time of doing it, is, by reason of intoxication, incapable of knowing the nature of the act, or that he is doing what is either wrong, or contrary to law; provided that the thing which intoxicated him was administered to him without his knowledge or against his will.",
+      "key_terms": [
+        "involuntary intoxication defence"
+      ],
+      "breakdown": {
+        "plain_summary": "Involuntary intoxication can excuse an offence in the same way unsoundness of mind can — but only where the intoxicating substance was administered without the person's knowledge or against their will, and it rendered them incapable of knowing the nature of the act or that it was wrong or illegal.",
+        "essential_elements": [
+          "The incapacity test mirrors Section 22's (nature of act, or wrongfulness/illegality).",
+          "The intoxication must have been administered without knowledge or against the person's will — this proviso is the crux of the section."
+        ],
+        "exceptions_and_qualifications": [
+          "Voluntary intoxication is never covered here — a person who chose to consume the intoxicant gets no defence under Section 23 (compare Section 24, which deals with voluntary intoxication differently)."
+        ],
+        "how_to_read": "Always check the 'how did the intoxication happen' question first — if it was voluntary, Section 23 is unavailable and Section 24's knowledge-imputation rule applies instead."
+      }
+    },
+    {
+      "number": "24",
+      "title": "Offence requiring a particular intent or knowledge committed by one who is intoxicated",
+      "raw_text": "In cases where an act done is not an offence unless done with a particular knowledge or intent, a person who does the act in a state of intoxication shall be liable to be dealt with as if he had the same knowledge as he would have had if he had not been intoxicated, unless the thing which intoxicated him was administered to him without his knowledge or against his will.",
+      "key_terms": [
+        "imputed sobriety for voluntary intoxication"
+      ],
+      "breakdown": {
+        "plain_summary": "Where an offence requires proof of a particular knowledge or intent, a voluntarily intoxicated person is treated as if they had the same knowledge they would have had while sober — in effect, voluntary intoxication is no excuse for lack of the required mental element, unless the intoxication was itself involuntary (administered without knowledge or against the person's will).",
+        "essential_elements": [
+          "Applies specifically to offences that require proof of a particular knowledge or intent (not strict-liability or general-intent offences).",
+          "The default rule imputes the knowledge the person would have had sober — voluntary intoxication cannot be used to negate that imputed knowledge.",
+          "The imputation does not apply where the intoxication was involuntary — that scenario instead falls back on Section 23's true incapacity test."
+        ],
+        "exceptions_and_qualifications": [
+          "This section does not excuse the act at all for voluntary intoxication — it is the opposite of an exception; it closes off intoxication as a route to deny the required mental state."
+        ],
+        "how_to_read": "Read Sections 23 and 24 as a matched pair covering the two intoxication scenarios: Section 23 is a full defence for involuntary intoxication causing true incapacity; Section 24 denies voluntary intoxication as an excuse for lacking a required intent/knowledge, by imputing sober-state knowledge."
+      }
+    },
+    {
+      "number": "25",
+      "title": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent",
+      "raw_text": "Nothing which is not intended to cause death, or grievous hurt, and which is not known by the doer to be likely to cause death or grievous hurt, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, to any person, above eighteen years of age, who has given consent, whether express or implied, to suffer that harm; or by reason of any harm which it may be known by the doer to be likely to cause to any such person who has consented to take the risk of that harm.\n\nIllustration.\nA and Z agree to fence with each other for amusement. This agreement implies the consent of each to suffer any harm which, in the course of such fencing, may be caused without foul play; and if A, while playing fairly, hurts Z, A commits no offence.",
+      "key_terms": [
+        "consent defence for non-fatal non-grievous harm"
+      ],
+      "breakdown": {
+        "plain_summary": "An act that is neither intended, nor known by the actor to be likely, to cause death or grievous hurt is not an offence as against an adult (above eighteen) who consented to suffer that harm or to take the risk of it — the classic example being consensual sport such as fencing.",
+        "essential_elements": [
+          "The consenting person must be above eighteen years of age.",
+          "The act must not be intended to cause, and must not be known to be likely to cause, death or grievous hurt.",
+          "Consent may be express or implied (as in the fencing illustration)."
+        ],
+        "exceptions_and_qualifications": [
+          "If the act is intended to cause, or known to be likely to cause, death or grievous hurt, this exception does not apply at all — see Section 26 for the narrower death-related consent exception, and Section 29's bar on acts that are independently offences."
+        ],
+        "how_to_read": "This is the baseline consent exception for minor/moderate harm among adults; for anything touching death or grievous hurt, look instead to the stricter, narrower exceptions in Sections 26-30."
+      }
+    },
+    {
+      "number": "26",
+      "title": "Act not intended to cause death, done by consent in good faith for person's benefit",
+      "raw_text": "Nothing, which is not intended to cause death, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, or be known by the doer to be likely to cause, to any person for whose benefit it is done in good faith, and who has given a consent, whether express or implied, to suffer that harm, or to take the risk of that harm.\n\nIllustration.\nA, a surgeon, knowing that a particular operation is likely to cause the death of Z, who suffers under the painful complaint, but not intending to cause Z's death, and intending, in good faith, Z's benefit, performs that operation on Z, with Z's consent. A has committed no offence.",
+      "key_terms": [
+        "consensual medical treatment defence"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the core defence protecting consensual medical and surgical treatment: an act not intended to cause death is not an offence — even if it may cause or is known to be likely to cause serious harm or death — when done in good faith for the benefit of a consenting person, as illustrated by a surgeon performing a risky but beneficial operation with the patient's consent.",
+        "essential_elements": [
+          "Death must not be intended (knowledge that death is a likely risk is permitted, unlike intent).",
+          "The act must be done in good faith for the benefit of the person harmed.",
+          "The person must have given express or implied consent to suffer the harm or take the risk."
+        ],
+        "exceptions_and_qualifications": [
+          "Mere pecuniary benefit does not count as 'benefit' for this purpose (Explanation to Section 30, expressly made applicable to Sections 26, 27, and 30).",
+          "Does not protect acts intended to cause death, however consensual."
+        ],
+        "how_to_read": "This is the doctor's/surgeon's shield — the dividing line from Section 25 is that Section 26 permits acts known to be likely to cause death itself (not just grievous hurt), provided death is not intended and the act is in good faith for the patient's benefit."
+      }
+    },
+    {
+      "number": "27",
+      "title": "Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian",
+      "raw_text": "Nothing which is done in good faith for the benefit of a person under twelve years of age, or person of unsound mind, by, or by consent, either express or implied, of the guardian or other person having lawful charge of that person, is an offence by reason of any harm which it may cause, or be intended by the doer to cause or be known by the doer to be likely to cause to that person:\nProvided that this exception shall not extend to––\n(a) the intentional causing of death, or to the attempting to cause death;\n(b) the doing of anything which the person doing it knows to be likely to cause death, for any purpose other than the preventing of death or grievous hurt, or the curing of any grievous disease or infirmity;\n(c) the voluntary causing of grievous hurt, or to the attempting to cause grievous hurt, unless it be for the purpose of preventing death or grievous hurt, or the curing of any grievous disease or infirmity;\n(d) the abetment of any offence, to the committing of which offence it would not extend.\n\nIllustration.\nA, in good faith, for his child's benefit without his child's consent, has his child cut for the stone by a surgeon knowing it to be likely that the operation will cause the child's death, but not intending to cause the child's death. A is within the exception, in as much as his object was the cure of the child.",
+      "key_terms": [
+        "guardian-consented treatment of minors and persons of unsound mind"
+      ],
+      "breakdown": {
+        "plain_summary": "Extends the consensual-benefit idea to persons who cannot themselves give effective consent — children under twelve and persons of unsound mind — by allowing a guardian or lawful custodian to consent on their behalf to good-faith beneficial acts, but with four carved-out limits: it never covers intentional killing, acts known likely to cause death except to prevent death/grievous hurt or cure a grievous condition, voluntary grievous hurt except for the same narrow purposes, or abetment of offences the exception itself would not cover.",
+        "essential_elements": [
+          "Protected person: under twelve years of age, or of unsound mind.",
+          "Act must be done in good faith for that person's benefit, by or with the guardian/lawful custodian's express or implied consent.",
+          "Four provisos strip the protection for intentional death, death-likely acts (outside curative/life-saving purpose), voluntary grievous hurt (outside the same purpose), and derivative abetment."
+        ],
+        "exceptions_and_qualifications": [
+          "The four provisos are cumulative limits, not alternatives — any one of them being triggered removes the protection for that particular act.",
+          "Explanation under Section 30 (mere pecuniary benefit excluded) applies here too by cross-reference."
+        ],
+        "how_to_read": "Use the illustration as the template for the *permitted* zone (risky but curative surgery with guardian consent), and the four provisos as the boundary markers for where guardian consent stops protecting the actor."
+      }
+    },
+    {
+      "number": "28",
+      "title": "Consent known to be given under fear or misconception",
+      "raw_text": "A consent is not such a consent as is intended by any section of this Sanhita,––\n(a) if the consent is given by a person under fear of injury, or under a misconception of fact, and if the person doing the act knows, or has reason to believe, that the fear or consent was given in consequence of such fear or misconception; or\n(b) if the consent is given by a person who, from unsoundness of mind, or intoxication, is unable to understand the nature and consequence of that to which he gives his consent; or\n(c) unless the contrary appears from the context, if the consent is given by a person who is under twelve years of age.",
+      "key_terms": [
+        "vitiated consent"
+      ],
+      "breakdown": {
+        "plain_summary": "This section defines when a purported 'consent' does not count as valid consent anywhere else in the Sanhita: consent obtained under fear of injury or a factual misconception (known to the actor), consent given by someone incapable of understanding it due to unsoundness of mind or intoxication, and — unless context shows otherwise — consent given by a child under twelve.",
+        "essential_elements": [
+          "Clause (a): fear-of-injury or factual-misconception consent, where the actor knows or has reason to believe this caused the 'consent' — a knowledge requirement on the actor's side.",
+          "Clause (b): consent from a person incapable, due to unsoundness of mind or intoxication, of understanding its nature and consequence.",
+          "Clause (c): a default rule that consent given by a child under twelve does not count, unless context indicates otherwise."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (c) is a rebuttable default ('unless the contrary appears from the context'), not an absolute bar like the age-twelve threshold used elsewhere in the consent exceptions."
+        ],
+        "how_to_read": "Treat Section 28 as the definitional gatekeeper for every consent-based exception in Sections 25-27 and 29-30 — before relying on 'consent' as a defence anywhere in the Sanhita, check it does not fall into one of these three vitiating categories."
+      }
+    },
+    {
+      "number": "29",
+      "title": "Exclusion of acts which are offences independently of harm caused",
+      "raw_text": "The exceptions in sections 25, 26 and 27 do not extend to acts which are offences independently of any harm which they may cause, or be intended to cause, or be known to be likely to cause, to the person giving the consent, or on whose behalf the consent is given.\n\nIllustration.\nCausing miscarriage (unless caused in good faith for the purpose of saving the life of the woman) is an offence independently of any harm which it may cause or be intended to cause to the woman. Therefore, it is not an offence “by reason of such harm”; and the consent of the woman or of her guardian to the causing of such miscarriage does not justify the act.",
+      "key_terms": [
+        "offences independent of consent-related harm"
+      ],
+      "breakdown": {
+        "plain_summary": "Consent-based protection under Sections 25, 26, and 27 only ever excuses the *harm* caused to the consenting person — it cannot excuse an act that is a separate, independent offence in its own right regardless of that harm, as illustrated by causing miscarriage, which is independently punishable and is not cured merely because the woman or her guardian consented.",
+        "essential_elements": [
+          "Applies as a limiting cross-reference specifically to the exceptions in Sections 25, 26, and 27.",
+          "Distinguishes harm-to-the-consenting-person (which consent can excuse) from independently-defined offences (which consent cannot excuse)."
+        ],
+        "exceptions_and_qualifications": [
+          "The illustration itself carries its own exception within it: miscarriage caused in good faith to save the woman's life is not independently an offence, so this bar does not apply to that scenario."
+        ],
+        "how_to_read": "Whenever invoking the consent exceptions (Sections 25-27), separately ask whether the act is *also* defined as an offence on some basis other than the harm to the consenting person — if so, Section 29 blocks the consent defence regardless of how genuine that consent was."
+      }
+    },
+    {
+      "number": "30",
+      "title": "Act done in good faith for benefit of a person without consent",
+      "raw_text": "Nothing is an offence by reason of any harm which it may cause to a person for whose benefit it is done in good faith, even without that person's consent, if the circumstances are such that it is impossible for that person to signify consent, or if that person is incapable of giving consent, and has no guardian or other person in lawful charge of him from whom it is possible to obtain consent in time for the thing to be done with benefit:\nProvided that this exception shall not extend to––\n(a) the intentional causing of death, or the attempting to cause death;\n(b) the doing of anything which the person doing it knows to be likely to cause death, for any purpose other than the preventing of death or grievous hurt, or the curing of any grievous disease or infirmity;\n(c) the voluntary causing of hurt, or to the attempting to cause hurt, for any purpose other than the preventing of death or hurt;\n(d) the abetment of any offence, to the committing of which offence it would not extend.\n\nIllustrations.\n(1) Z is thrown from his horse, and is insensible. A, a surgeon, finds that Z requires to be trepanned. A, not intending Z's death, but in good faith, for Z's benefit, performs the trepan before Z recovers his power of judging for himself. A has committed no offence.\n(2) Z is carried off by a tiger. A fires at the tiger knowing it to be likely that the shot may kill Z, but not intending to kill Z, and in good faith intending Z's benefit. A's bullet gives Z a mortal wound. A has committed no offence.\n(3) A, a surgeon, sees a child suffer an accident which is likely to prove fatal unless an operation be immediately performed. There is no time to apply to the child's guardian. A performs the operation in spite of the entreaties of the child, intending, in good faith, the child's benefit. A has committed no offence.\n(4) A is in a house which is on fire, with Z, a child. People below hold out a blanket. A drops the child from the house top, knowing it to be likely that the fall may kill the child, but not intending to kill the child, and intending, in good faith, the child's benefit. Here, even if the child is killed by the fall, A has committed no offence.\n\nExplanation.—Mere pecuniary benefit is not benefit within the meaning of sections 26, 27 and this section.",
+      "key_terms": [
+        "emergency-necessity defence without consent",
+        "mere pecuniary benefit exclusion"
+      ],
+      "breakdown": {
+        "plain_summary": "The emergency counterpart to Sections 26-27: where it is impossible to obtain consent in time (the person is unconscious, or incapable with no guardian reachable in time), a good-faith act for that person's benefit is not an offence by reason of the harm caused — subject to the same four provisos as Section 27 (no intentional killing, no death-likely acts outside a curative/life-saving purpose, no voluntary hurt outside preventing death/hurt, no unprotected abetment).",
+        "essential_elements": [
+          "Consent must be genuinely impossible to obtain in time — either the person cannot signify it, or is incapable and has no reachable guardian.",
+          "The act must be in good faith for that person's benefit.",
+          "The same four limiting provisos as Section 27 apply.",
+          "The closing Explanation — purely financial benefit does not count as 'benefit' — governs this section as well as Sections 26 and 27."
+        ],
+        "exceptions_and_qualifications": [
+          "If consent could have been obtained in time but simply was not sought, this exception does not apply — the impossibility/incapacity condition is a genuine precondition, not a formality."
+        ],
+        "how_to_read": "Use the four illustrations (unconscious rider, tiger-mauling victim, injured child with no time to reach the guardian, burning-house rescue) as the paradigm emergency scenarios this section is built for — each shows good-faith, no-time-for-consent, benefit-oriented action."
+      }
+    },
+    {
+      "number": "31",
+      "title": "Communication made in good faith",
+      "raw_text": "No communication made in good faith is an offence by reason of any harm to the person to whom it is made, if it is made for the benefit of that person.\n\nIllustration.\nA, a surgeon, in good faith, communicates to a patient his opinion that he cannot live. The patient dies in consequence of the shock. A has committed no offence, though he knew it to be likely that the communication might cause the patient's death.",
+      "key_terms": [
+        "good-faith communication defence"
+      ],
+      "breakdown": {
+        "plain_summary": "A communication made in good faith, for the recipient's benefit, is not an offence merely because it causes harm to the person it is made to — even fatal psychological shock, as in the illustration of a surgeon honestly disclosing a grim prognosis.",
+        "essential_elements": [
+          "The communication must be made in good faith.",
+          "It must be made for the benefit of the person to whom it is communicated."
+        ],
+        "exceptions_and_qualifications": [
+          "A communication made recklessly, maliciously, or not genuinely for the recipient's benefit falls outside this protection."
+        ],
+        "how_to_read": "This is a narrow, specific protection for honest, well-intentioned disclosures (classically, medical prognoses) — it does not protect communications made for some other purpose that merely happen to also be framed as being for the recipient's benefit."
+      }
+    },
+    {
+      "number": "32",
+      "title": "Act to which a person is compelled by threats",
+      "raw_text": "Except murder, and offences against the State punishable with death, nothing is an offence which is done by a person who is compelled to do it by threats, which, at the time of doing it, reasonably cause the apprehension that instant death to that person will otherwise be the consequence:\nProvided that the person doing the act did not of his own accord, or from a reasonable apprehension of harm to himself short of instant death, place himself in the situation by which he became subject to such constraint.\n\nExplanation 1.—A person who, of his own accord, or by reason of a threat of being beaten, joins a gang of dacoits, knowing their character, is not entitled to the benefit of this exception, on the ground of his having been compelled by his associates to do anything that is an offence by law.\nExplanation 2.—A person seized by a gang of dacoits, and forced, by threat of instant death, to do a thing which is an offence by law; for example, a smith compelled to take his tools and to force the door of a house for the dacoits to enter and plunder it, is entitled to the benefit of this exception.",
+      "key_terms": [
+        "duress by threat of instant death"
+      ],
+      "breakdown": {
+        "plain_summary": "The duress defence: an act compelled by threats that, at the time, reasonably create an apprehension of instant death to the actor is not an offence — except for murder and offences against the State punishable with death, which can never be excused this way — provided the actor did not voluntarily place themselves in that dangerous situation.",
+        "essential_elements": [
+          "The threat must reasonably cause apprehension of *instant* death — lesser threats (e.g. of being beaten) do not qualify.",
+          "The threat must be operating at the time of the act.",
+          "The actor must not have voluntarily, or through foreseeable lesser risk, placed themselves in the compelling situation (the proviso).",
+          "Murder and offences against the State punishable with death are absolutely excluded from this defence, however severe the threat."
+        ],
+        "exceptions_and_qualifications": [
+          "Explanation 1 denies the defence to someone who knowingly joins a criminal gang and is then 'compelled' by associates — foreseeable risk undertaken voluntarily disqualifies the defence.",
+          "Explanation 2 confirms the defence protects someone genuinely seized and threatened with instant death by criminals, illustrated by a forced locksmith."
+        ],
+        "how_to_read": "Run through: (1) is the offence murder or a death-punishable State offence (if so, stop — no defence at all); (2) was the threat one of instant death, not lesser harm; (3) did the actor voluntarily walk into the risk beforehand — only a clean path through all three preserves the defence."
+      }
+    },
+    {
+      "number": "33",
+      "title": "Act causing slight harm",
+      "raw_text": "Nothing is an offence by reason that it causes, or that it is intended to cause, or that it is known to be likely to cause, any harm, if that harm is so slight that no person of ordinary sense and temper would complain of such harm.",
+      "key_terms": [
+        "de minimis harm defence"
+      ],
+      "breakdown": {
+        "plain_summary": "The law does not concern itself with trifles: an act causing (or intended to cause, or known to be likely to cause) harm so slight that an ordinary, reasonable person would not even complain about it is not an offence.",
+        "essential_elements": [
+          "The test is objective — whether a person of ordinary sense and temper would complain — not whether the particular victim was unusually sensitive or tolerant.",
+          "Covers harm that is caused, intended, or merely known-likely, so long as it meets the slightness threshold."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a narrow, fact-specific defence best suited to genuinely trivial harms — courts apply it conservatively, since almost any physical contact or minor loss could otherwise be dressed up as 'slight.'"
+        ],
+        "how_to_read": "Apply the 'ordinary sense and temper' reasonable-person standard, not the actual complainant's own reaction — a thin-skinned complainant's objection does not defeat this defence if an ordinary person would have shrugged the harm off."
+      }
+    },
+    {
+      "number": "34",
+      "title": "Things done in private defence",
+      "raw_text": "Nothing is an offence which is done in the exercise of the right of private defence.",
+      "key_terms": [
+        "right of private defence (general bar)"
+      ],
+      "breakdown": {
+        "plain_summary": "The opening, umbrella provision of the private-defence scheme: any act genuinely done in the exercise of the right of private defence is not an offence. The scope and limits of that right are then worked out across Sections 35-44.",
+        "essential_elements": [
+          "A purely gateway provision — it establishes that private defence is a complete defence, but the content of the right is defined by the sections that follow."
+        ],
+        "exceptions_and_qualifications": [
+          "Always read together with Sections 35-44, especially Section 37's restrictions — Section 34 alone does not tell you what conduct actually qualifies as 'private defence.'"
+        ],
+        "how_to_read": "Treat Section 34 as a signpost into the private-defence sub-scheme (Sections 35-44) under the heading 'Of right of private defence' — the real analytical work happens in those later sections."
+      }
+    },
+    {
+      "number": "35",
+      "title": "Right of private defence of body and of property",
+      "raw_text": "Every person has a right, subject to the restrictions contained in section 37, to defend—\n(a) his own body, and the body of any other person, against any offence affecting the human body;\n(b) the property, whether movable or immovable, of himself or of any other person, against any act which is an offence falling under the definition of theft, robbery, mischief or criminal trespass, or which is an attempt to commit theft, robbery, mischief or criminal trespass.",
+      "key_terms": [
+        "private defence of body",
+        "private defence of property"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 35 defines the two broad categories of the right of private defence, subject to Section 37's restrictions: defence of the body (one's own or any other person's) against any body-affecting offence, and defence of property (one's own or any other person's, movable or immovable) against theft, robbery, mischief, criminal trespass, or attempts at those offences.",
+        "essential_elements": [
+          "The right extends to defending third parties' bodies and property, not just one's own.",
+          "Body-defence applies against 'any offence affecting the human body' — a broad category.",
+          "Property-defence is narrower, limited to theft, robbery, mischief, criminal trespass, or attempts at these.",
+          "Both branches are expressly made subject to Section 37's restrictions."
+        ],
+        "exceptions_and_qualifications": [
+          "Property defence does not cover every property-related wrong — only the four named offences/attempts; a civil property dispute, for instance, is not automatically within this right."
+        ],
+        "how_to_read": "Identify first whether you are defending body or property and against what kind of offence — then proceed to Sections 36-44 to work out the restrictions, extent (including whether death may be caused), and duration of that specific branch of the right."
+      }
+    },
+    {
+      "number": "36",
+      "title": "Right of private defence against act of a person of unsound mind, etc.",
+      "raw_text": "When an act, which would otherwise be a certain offence, is not that offence, by reason of the youth, the want of maturity of understanding, the unsoundness of mind or the intoxication of the person doing that act, or by reason of any misconception on the part of that person, every person has the same right of private defence against that act which he would have if the act were that offence.\n\nIllustrations.\n(a) Z, a person of unsound mind, attempts to kill A; Z is guilty of no offence. But A has the same right of private defence which he would have if Z were sane.\n(b) A enters by night a house which he is legally entitled to enter. Z, in good faith, taking A for a house-breaker, attacks A. Here Z, by attacking A under this misconception, commits no offence. But A has the same right of private defence against Z, which he would have if Z were not acting under that misconception.",
+      "key_terms": [
+        "private defence against a non-culpable attacker"
+      ],
+      "breakdown": {
+        "plain_summary": "Private defence is available even against an attacker who personally commits no offence because of youth, immaturity, unsoundness of mind, intoxication, or an honest misconception — the defender has exactly the same right of private defence as if the attacker's act had been a full offence.",
+        "essential_elements": [
+          "The attacker's personal lack of culpability (due to the listed excusing factors) does not reduce the victim's right to defend themselves.",
+          "The defender's right is measured as if the attacker's act were, in fact, the offence it resembles."
+        ],
+        "exceptions_and_qualifications": [
+          "This section does not expand the *scope* of private defence beyond what Sections 35 and 37-44 otherwise allow — it only confirms the right exists despite the attacker's personal non-liability."
+        ],
+        "how_to_read": "Use the two illustrations (the insane assailant, and the honestly-mistaken house-breaker accusation) to see that private defence protects against the *objective* danger posed by an act, independent of whether the person causing that danger is themselves legally blameworthy."
+      }
+    },
+    {
+      "number": "37",
+      "title": "Acts against which there is no right of private defence",
+      "raw_text": "(1) There is no right of private defence,––\n(a) against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by a public servant acting in good faith under colour of his office, though that act, may not be strictly justifiable by law;\n(b) against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by the direction of a public servant acting in good faith under colour of his office, though that direction may not be strictly justifiable by law;\n(c) in cases in which there is time to have recourse to the protection of the public authorities.\n\n(2) The right of private defence in no case extends to the inflicting of more harm than it is necessary to inflict for the purpose of defence.\n\nExplanation 1.—A person is not deprived of the right of private defence against an act done, or attempted to be done, by a public servant, as such, unless he knows or has reason to believe, that the person doing the act is such public servant.\nExplanation 2.—A person is not deprived of the right of private defence against an act done, or attempted to be done, by the direction of a public servant, unless he knows, or has reason to believe, that the person doing the act is acting by such direction, or unless such person states the authority under which he acts, or if he has authority in writing, unless he produces such authority, if demanded.",
+      "key_terms": [
+        "no private defence against good-faith public servants",
+        "time-to-seek-public-authorities bar",
+        "necessity limit on private defence"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 37 is the master restriction provision for the whole private-defence scheme: there is no right of private defence against a public servant's (or a public servant's directed) act that does not reasonably threaten death or grievous hurt, so long as it is done in good faith under colour of office — even if not strictly lawful; nor is there a right where there was time to seek help from public authorities instead of taking the law into one's own hands. And whatever right does exist is always capped at the harm genuinely necessary for defence, never more.",
+        "essential_elements": [
+          "Clause (a)/(b): bars private defence against good-faith, colour-of-office public-servant action (direct or directed) that does not threaten death/grievous hurt.",
+          "Clause (c): bars private defence whenever there was time to seek the protection of public authorities instead.",
+          "Sub-section (2): an absolute proportionality cap — never more harm than necessary for defence.",
+          "Explanation 1: the public-servant bar only applies if the defender knew or had reason to believe the actor was a public servant.",
+          "Explanation 2: the directed-action bar only applies if the defender knew, or the directing authority was properly identified/demonstrated, as acting under such direction."
+        ],
+        "exceptions_and_qualifications": [
+          "If the public servant's act does threaten death or grievous hurt, or is not in good faith/under colour of office, the bar in clauses (a)-(b) does not apply and ordinary private-defence rules resume.",
+          "The two Explanations are defender-protective — ignorance of the attacker's public-servant status, or absence of proper identification/authority, preserves the defender's right."
+        ],
+        "how_to_read": "Run Section 37 as a checklist before concluding private defence was available: public servant involved and good faith/colour of office and no death/grievous-hurt threat (bar applies, subject to the knowledge provisos)? time available to call public authorities (bar applies)? and finally, regardless, was the force used proportionate to what was necessary?"
+      }
+    },
+    {
+      "number": "38",
+      "title": "When right of private defence of body extends to causing death",
+      "raw_text": "The right of private defence of the body extends, under the restrictions specified in section 37, to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right be of any of the descriptions hereinafter enumerated, namely:—\n(a) such an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault;\n(b) such an assault as may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault;\n(c) an assault with the intention of committing rape;\n(d) an assault with the intention of gratifying unnatural lust;\n(e) an assault with the intention of kidnapping or abducting;\n(f) an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release;\n(g) an act of throwing or administering acid or an attempt to throw or administer acid which may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such act.",
+      "key_terms": [
+        "private defence extending to death — body",
+        "acid-attack ground for lethal private defence"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 38 lists the seven categories of assault grave enough that the right of private defence of the body extends all the way to voluntarily causing death to the assailant: reasonable apprehension of death or grievous hurt, assault intending rape, unnatural-lust gratification, kidnapping/abduction, wrongful confinement with no recourse to authorities, and acid-throwing (or attempted acid-throwing) likely to cause grievous hurt — the last being a BNS-era addition reflecting the specific seriousness of acid attacks.",
+        "essential_elements": [
+          "Only these seven enumerated categories of assault justify lethal force in defence of the body.",
+          "The right to cause death under this section is itself still subject to Section 37's restrictions (proportionality, no-time-to-seek-help, public-servant carve-outs)."
+        ],
+        "exceptions_and_qualifications": [
+          "For any assault not falling within these seven categories, Section 39 applies instead — the right does not extend to causing death, only to other harm."
+        ],
+        "how_to_read": "Treat this as a closed list — match the attacker's conduct against the seven categories precisely before concluding that lethal private defence of the body was legally available."
+      }
+    },
+    {
+      "number": "39",
+      "title": "When such right extends to causing any harm other than death",
+      "raw_text": "If the offence be not of any of the descriptions specified in section 38, the right of private defence of the body does not extend to the voluntary causing of death to the assailant, but does extend, under the restrictions specified in section 37, to the voluntary causing to the assailant of any harm other than death.",
+      "key_terms": [
+        "private defence capped below death"
+      ],
+      "breakdown": {
+        "plain_summary": "For any assault that does not fall within Section 38's seven grave categories, the right of private defence of the body is capped: it never extends to voluntarily causing the assailant's death, but it does extend to causing any harm short of death, subject to Section 37's restrictions.",
+        "essential_elements": [
+          "This is the default/residual rule for all body-defence scenarios not covered by Section 38's list.",
+          "Death is categorically off the table; lesser harm remains available, still bounded by proportionality under Section 37(2)."
+        ],
+        "exceptions_and_qualifications": [
+          "Always cross-check Section 38 first — if the assault matches one of its seven categories, Section 39's death-ban does not apply."
+        ],
+        "how_to_read": "Sections 38 and 39 work as a binary switch: classify the assailant's conduct under Section 38's list first; if it fits, lethal defence is permitted (subject to Section 37); if it does not fit, Section 39 caps the defender at non-lethal harm only."
+      }
+    },
+    {
+      "number": "40",
+      "title": "Commencement and continuance of right of private defence of body",
+      "raw_text": "The right of private defence of the body commences as soon as a reasonable apprehension of danger to the body arises from an attempt or threat to commit the offence though the offence may not have been committed; and it continues as long as such apprehension of danger to the body continues.",
+      "key_terms": [
+        "temporal window of private defence of body"
+      ],
+      "breakdown": {
+        "plain_summary": "The right of private defence of the body is not limited to the moment of actual physical attack — it begins as soon as a reasonable apprehension of danger arises from an attempt or threat, even before any offence is actually committed, and it lasts for exactly as long as that reasonable apprehension of danger persists.",
+        "essential_elements": [
+          "Trigger: reasonable apprehension of danger from an attempt or threat — actual commission of the offence is not required to start the clock.",
+          "Duration: the right lasts only as long as the reasonable apprehension of danger continues, not indefinitely or retrospectively after the danger has passed."
+        ],
+        "exceptions_and_qualifications": [
+          "Once the apprehension of danger genuinely ends (e.g. the attacker retreats or is subdued), continued force is no longer private defence but becomes retaliation — a critical, frequently litigated line."
+        ],
+        "how_to_read": "Focus fact-finding on two timestamps: when did reasonable apprehension of bodily danger first arise, and when did it cease — force used outside that window falls outside the protection of private defence of the body."
+      }
+    },
+    {
+      "number": "41",
+      "title": "When right of private defence of property extends to causing death",
+      "raw_text": "The right of private defence of property extends, under the restrictions specified in section 37, to the voluntary causing of death or of any other harm to the wrong-doer, if the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right, be an offence of any of the descriptions hereinafter enumerated, namely:—\n(a) robbery;\n(b) house-breaking after sunset and before sunrise;\n(c) mischief by fire or any explosive substance committed on any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or as a place for the custody of property;\n(d) theft, mischief, or house-trespass, under such circumstances as may reasonably cause apprehension that death or grievous hurt will be the consequence, if such right of private defence is not exercised.",
+      "key_terms": [
+        "private defence extending to death — property"
+      ],
+      "breakdown": {
+        "plain_summary": "Mirroring Section 38 for property, Section 41 lists the four categories of property offence grave enough to justify the defender voluntarily causing death: robbery, house-breaking at night (after sunset, before sunrise), arson/explosive mischief against a dwelling or property-custody structure, and theft/mischief/house-trespass committed under circumstances reasonably raising apprehension of death or grievous hurt if the right is not exercised.",
+        "essential_elements": [
+          "Four enumerated categories only — robbery, night house-breaking, dwelling/custody-structure arson or explosive mischief, and theft/mischief/house-trespass with reasonable apprehension of death or grievous hurt.",
+          "Still subject to Section 37's restrictions (good-faith public servants, time to seek help, and proportionality)."
+        ],
+        "exceptions_and_qualifications": [
+          "Ordinary daytime theft or simple trespass not accompanied by a reasonable apprehension of death or grievous hurt does not qualify — see Section 42 for the non-lethal default."
+        ],
+        "how_to_read": "Match the specific property offence against these four categories before concluding lethal private defence of property was available — the 'night' element in house-breaking and the 'dwelling/custody-structure' element in arson/mischief are both load-bearing qualifiers, not incidental detail."
+      }
+    },
+    {
+      "number": "42",
+      "title": "When such right extends to causing any harm other than death",
+      "raw_text": "If the offence, the committing of which, or the attempting to commit which occasions the exercise of the right of private defence, be theft, mischief, or criminal trespass, not of any of the descriptions specified in section 41, that right does not extend to the voluntary causing of death, but does extend, subject to the restrictions specified in section 37, to the voluntary causing to the wrong-doer of any harm other than death.",
+      "key_terms": [
+        "private defence of property capped below death"
+      ],
+      "breakdown": {
+        "plain_summary": "For theft, mischief, or criminal trespass that does not fall within Section 41's four grave categories, the right of private defence of property never extends to causing death — only to causing harm short of death, subject to Section 37's restrictions.",
+        "essential_elements": [
+          "Residual/default rule for property-defence scenarios not covered by Section 41's list.",
+          "Death is barred; lesser harm remains available, proportionate under Section 37(2)."
+        ],
+        "exceptions_and_qualifications": [
+          "Always check Section 41 first — if the offence matches robbery, night house-breaking, dwelling-targeted arson/explosive mischief, or theft/mischief/house-trespass with reasonable apprehension of death or grievous hurt, Section 41 (not Section 42) governs."
+        ],
+        "how_to_read": "Sections 41 and 42 form the property-defence counterpart to the Section 38/39 body-defence binary — classify the offence against Section 41's list first; lethal force is permitted only on a match, otherwise Section 42 caps the response below death."
+      }
+    },
+    {
+      "number": "43",
+      "title": "Commencement and continuance of right of private defence of property",
+      "raw_text": "The right of private defence of property,––\n(a) commences when a reasonable apprehension of danger to the property commences;\n(b) against theft continues till the offender has effected his retreat with the property or either the assistance of the public authorities is obtained, or the property has been recovered;\n(c) against robbery continues as long as the offender causes or attempts to cause to any person death or hurt or wrongful restraint or as long as the fear of instant death or of instant hurt or of instant personal restraint continues;\n(d) against criminal trespass or mischief continues as long as the offender continues in the commission of criminal trespass or mischief;\n(e) against house-breaking after sunset and before sunrise continues as long as the house-trespass which has been begun by such house-breaking continues.",
+      "key_terms": [
+        "temporal window of private defence of property"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 43 fixes separate start-and-end windows for the right of private defence of property depending on which specific offence is being resisted: it always starts once a reasonable apprehension of danger to the property arises, but how long it lasts differs for theft (until the thief escapes with the property, help arrives, or the property is recovered), robbery (as long as danger or fear of instant death/hurt/restraint continues), criminal trespass/mischief (as long as the trespass/mischief continues), and night house-breaking (as long as the resulting house-trespass continues).",
+        "essential_elements": [
+          "A single commencement rule (clause (a)) applies across all property offences.",
+          "Four distinct continuance rules (clauses (b)-(e)) are each tailored to a specific offence category — theft, robbery, criminal trespass/mischief, and night house-breaking.",
+          "Clause (b)'s theft rule gives three independent endpoints: successful retreat with the property, arrival of public-authority assistance, or recovery of the property."
+        ],
+        "exceptions_and_qualifications": [
+          "Using force after the relevant continuance window has closed (e.g. after a thief has successfully retreated and escaped, under clause (b)) converts the response from defence into unlawful retaliation."
+        ],
+        "how_to_read": "Identify which specific property offence is in play first, then apply the matching clause ((b)-(e)) to determine exactly when the defender's right of private defence of property legally ends — the end-point differs meaningfully across the four offence types."
+      }
+    },
+    {
+      "number": "44",
+      "title": "Right of private defence against deadly assault when there is risk of harm to innocent person",
+      "raw_text": "If in the exercise of the right of private defence against an assault which reasonably causes the apprehension of death, the defender be so situated that he cannot effectually exercise that right without risk of harm to an innocent person, his right of private defence extends to the running of that risk.\n\nIllustration.\nA is attacked by a mob who attempt to murder him. He cannot effectually exercise his right of private defence without firing on the mob, and he cannot fire without risk of harming young children who are mingled with the mob. A commits no offence if by so firing he harms any of the children.",
+      "key_terms": [
+        "private defence with incidental risk to bystanders"
+      ],
+      "breakdown": {
+        "plain_summary": "The final provision in the private-defence scheme addresses a hard case: if a defender facing an assault that reasonably threatens death cannot effectively exercise the right of private defence without risking incidental harm to an innocent bystander, the right extends to running that risk — as illustrated by a person forced to fire into a threatening mob that includes children, without committing an offence even if a child is incidentally harmed.",
+        "essential_elements": [
+          "Applies only where the underlying assault reasonably causes apprehension of death — the highest tier of threat.",
+          "Requires genuine impossibility of exercising the defence effectively without risking the innocent third party."
+        ],
+        "exceptions_and_qualifications": [
+          "This does not license indifference to bystander safety generally — it applies narrowly to situations of genuine necessity where no safer means of effective defence exists."
+        ],
+        "how_to_read": "Read this as the closing safety-valve of the private-defence scheme, applicable only in the most extreme (apprehension-of-death) cases and only where effective defence is genuinely impossible without incidental risk to an innocent person — not a general license to disregard bystanders."
       }
     }
   ]
