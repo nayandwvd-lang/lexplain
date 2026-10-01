@@ -715,7 +715,12 @@
     "Exception 10 good-faith caution conveyed for the benefit of the recipient or another or the public good": "Exception 10 to Section 356 BNS: it is not defamation to convey a caution, in good faith, to one person against another, where the caution is intended for the good of the recipient, of someone the recipient is interested in, or for the public good.",
     "base punishment for defaming another": "Section 356(2) BNS: defaming another is punishable with simple imprisonment up to two years, fine, both, or community service.",
     "punishment for printing or engraving matter known or believed to be defamatory": "Section 356(3) BNS: printing or engraving any matter, knowing or having good reason to believe it is defamatory of any person, is punishable with simple imprisonment up to two years, fine, or both -- extending defamation liability to the printer/engraver independently of the original defamer.",
-    "punishment for selling or offering for sale printed or engraved defamatory matter": "Section 356(4) BNS: selling or offering for sale any printed or engraved substance containing defamatory matter, knowing that it contains such matter, is punishable with simple imprisonment up to two years, fine, or both -- extending defamation liability to knowing sellers/distributors of defamatory material."
+    "punishment for selling or offering for sale printed or engraved defamatory matter": "Section 356(4) BNS: selling or offering for sale any printed or engraved substance containing defamatory matter, knowing that it contains such matter, is punishable with simple imprisonment up to two years, fine, or both -- extending defamation liability to knowing sellers/distributors of defamatory material.",
+    "voluntarily omitting a lawful contractual duty to attend on or supply the wants of a helpless person": "Section 357 BNS: being bound by a lawful contract to attend on, or supply the wants of, a person helpless or incapable of self-care due to youth, unsoundness of mind, disease, or bodily weakness, and voluntarily omitting to do so, punishable with up to three months, fine up to five thousand rupees, or both.",
+    "repeal of the Indian Penal Code by the Bharatiya Nyaya Sanhita": "Section 358(1) BNS: the Indian Penal Code, 1860 is hereby repealed -- the Sanhita's final operative provision, formally replacing the old Code.",
+    "savings clause preserving prior operation rights obligations liabilities penalties and proceedings under the repealed Penal Code": "Section 358(2) BNS: notwithstanding the repeal, it does not affect the Penal Code's previous operation or anything duly done under it, any rights/privileges/obligations/liabilities already acquired, accrued, or incurred under it, any penalty or punishment already incurred for offences against it, or any investigation, proceeding, or remedy in respect of such a penalty or punishment -- all of which may continue to be instituted, continued, enforced, or imposed as if the Code had not been repealed.",
+    "deeming actions taken under the repealed Penal Code as done under the corresponding Sanhita provisions": "Section 358(3) BNS: notwithstanding the repeal, anything done or any action taken under the Indian Penal Code is deemed to have been done or taken under the corresponding provisions of the Bharatiya Nyaya Sanhita, ensuring continuity for matters that straddle the transition.",
+    "the savings clause not prejudicing the general application of Section 6 of the General Clauses Act 1897": "Section 358(4) BNS: the specific savings listed in sub-section (2) do not prejudice or affect the general application of Section 6 of the General Clauses Act, 1897 with regard to the effect of the repeal -- a clarifying rider confirming the specific list is additive to, not a substitute for, the broader statutory savings machinery."
   },
   "sections": [
     {
@@ -7603,6 +7608,48 @@
           "Exception 10: good-faith caution conveyed for the benefit of the recipient, someone they are interested in, or the public good"
         ],
         "how_to_read": "Section 356 rewards close reading of its own internal structure: the ten Exceptions are not a single undifferentiated defence but cluster into themes -- truth-based (1), opinion-based with a 'character only so far as it appears in X conduct, and no further' limiting phrase repeated across (2)/(3)/(5)/(6) (a load-bearing phrase practitioners should quote precisely, since it caps how far the opinion can range before losing the exception), authority-based (7)/(8), and interest/public-good-based (9)/(10); good faith is the operative qualifier running through Exceptions 2, 3, 5, 6, 7, 8, 9, and 10, so establishing good faith (rather than truth per se) is usually the practical battleground in defamation defences, while sub-sections (2)-(4) show the offence reaches not just the original defamer but the printer and the seller of defamatory matter, each carrying their own knowledge/belief requirement."
+      }
+    },
+    {
+      "number": "357",
+      "title": "Breach of contract to attend on and supply wants of helpless person",
+      "raw_text": "Whoever, being bound by a lawful contract to attend on or to supply the wants of any person who, by reason of youth, or of unsoundness of mind, or of a disease or bodily weakness, is helpless or incapable of providing for his own safety or of supplying his own wants, voluntarily omits so to do, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both.",
+      "key_terms": [
+        "voluntarily omitting a lawful contractual duty to attend on or supply the wants of a helpless person"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 357 BNS closes Chapter XIX by punishing a specific breach of care: being bound by a lawful contract to attend on, or supply the wants of, a person who is helpless or incapable of self-care or self-provision due to youth, unsoundness of mind, disease, or bodily weakness, and voluntarily omitting to do so, punishable with up to three months, fine up to five thousand rupees, or both -- a modest sentencing ceiling reflecting the civil/contractual character of the underlying obligation that this section criminalises only when breached against a vulnerable dependent.",
+        "essential_elements": [
+          "being bound by a lawful contract to attend on, or to supply the wants of, a person",
+          "that person being helpless or incapable of providing for their own safety or supplying their own wants, by reason of youth, unsoundness of mind, disease, or bodily weakness",
+          "voluntarily omitting to attend on or supply the wants of that person as the contract requires"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Section 357 is a narrow but important bridge between contract law and criminal law -- it does not criminalise breach of contract generally, only the voluntary omission of a contractual caregiving duty toward someone rendered helpless by youth, mental unsoundness, disease, or bodily weakness, making proof of both the lawful contract and the dependent's qualifying helplessness essential before the voluntary omission itself becomes punishable."
+      }
+    },
+    {
+      "number": "358",
+      "title": "Repeal and savings",
+      "raw_text": "(1) The Indian Penal Code is hereby repealed.\n(2) Notwithstanding the repeal of the Code referred to in sub-section (1), it shall not affect,--\n(a) the previous operation of the Code so repealed or anything duly done or suffered thereunder; or\n(b) any right, privilege, obligation or liability acquired, accrued or incurred under the Code so repealed; or\n(c) any penalty, or punishment incurred in respect of any offences committed against the Code so repealed; or\n(d) any investigation or remedy in respect of any such penalty, or punishment; or\n(e) any proceeding, investigation or remedy in respect of any such penalty or punishment as aforesaid, and any such proceeding or remedy may be instituted, continued or enforced, and any such penalty may be imposed as if that Code had not been repealed.\n(3) Notwithstanding such repeal, anything done or any action taken under the said Code shall be deemed to have been done or taken under the corresponding provisions of this Sanhita.\n(4) The mention of particular matters in sub-section (2) shall not be held to prejudice or affect the general application of section 6 of the General Clauses Act, 1897 with regard to the effect of the repeal.",
+      "key_terms": [
+        "repeal of the Indian Penal Code by the Bharatiya Nyaya Sanhita",
+        "savings clause preserving prior operation rights obligations liabilities penalties and proceedings under the repealed Penal Code",
+        "deeming actions taken under the repealed Penal Code as done under the corresponding Sanhita provisions",
+        "the savings clause not prejudicing the general application of Section 6 of the General Clauses Act 1897"
+      ],
+      "breakdown": {
+        "plain_summary": "Section 358 BNS is the Sanhita's final provision, forming Chapter XX ('Repeal and Savings') on its own. Sub-section (1) repeals the Indian Penal Code, 1860 outright. Sub-sections (2)-(4) then cushion that repeal with standard savings-clause machinery: the repeal does not disturb the Penal Code's previous operation or anything validly done under it; does not extinguish rights, privileges, obligations, or liabilities already acquired, accrued, or incurred under it; does not erase penalties or punishments already incurred for offences against it; and does not cut off any investigation, proceeding, or remedy in respect of such a penalty or punishment -- all of which may continue to be instituted, continued, enforced, or imposed exactly as if the Penal Code had never been repealed. Sub-section (3) deems anything done or any action taken under the old Code as having been done or taken under the Sanhita's corresponding provisions, ensuring continuity of ongoing matters. Sub-section (4) is a clarifying rider confirming that nothing in sub-section (2)'s specific list displaces the general savings machinery already supplied by Section 6 of the General Clauses Act, 1897.",
+        "essential_elements": [
+          "the Indian Penal Code, 1860 being repealed by sub-section (1)",
+          "the repeal not affecting prior operation, accrued rights/obligations/liabilities, incurred penalties, or pending investigations/proceedings/remedies under the repealed Code",
+          "actions taken under the repealed Code being deemed taken under the Sanhita's corresponding provisions"
+        ],
+        "exceptions_and_qualifications": [
+          "sub-section (2) is itself an exception to the bare fact of repeal -- it preserves specified categories of pre-repeal legal consequences notwithstanding the repeal",
+          "sub-section (4) clarifies that the specific savings in sub-section (2) do not limit the independent, broader general-savings effect of Section 6 of the General Clauses Act, 1897"
+        ],
+        "how_to_read": "Section 358 is purely transitional/mechanical rather than substantive -- it is the standard repeal-and-savings template that accompanies any codification replacing an older statute, and its real practical function for a practitioner is ensuring that offences committed, investigations begun, or proceedings pending under the old Indian Penal Code before the Sanhita's commencement are not left in limbo, continuing to be governed to completion under the old Code's substantive terms while new offences post-commencement fall under the Sanhita; this section also marks the formal end of the Bharatiya Nyaya Sanhita, 2023 as enacted -- 358 sections across twenty chapters."
       }
     }
   ]
