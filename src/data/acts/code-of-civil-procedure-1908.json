@@ -10448,6 +10448,492 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "Remember that Section 35A's compensatory-costs exposure for false or vexatious claims/defences is available in the summary judgment context too — a party who forces a summary judgment hearing on a hopeless claim or defence risks more than simply losing the application."
       }
+    },
+    {
+      "number": "O-XIV",
+      "title": "Order XIV — Settlement of Issues and Determination of Suit on Issues of Law or on Issues Agreed Upon",
+      "raw_text": "Order XIV governs the framing of issues — the formal statement of the precise questions of fact and law on which a suit will be tried — along with the Court's power to decide preliminary issues of law or jurisdiction first, and the special procedure for suits where the parties agree to submit a specific question to the Court's decision.",
+      "key_terms": [
+        "issues",
+        "material proposition",
+        "preliminary issue of law",
+        "agreed issues"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XIV is the hinge between pleadings and trial. Once pleadings close, the Court reads the plaint, written statement, and the Order X Rule 2 oral examination, and distils the dispute into a numbered list of 'issues' — the only questions the trial will actually be about. Everything at trial (evidence, arguments, the final judgment) is organised around these issues. Rule 2 lets the Court decide a pure issue of law first — if it goes to jurisdiction or a statutory bar to the suit — without wading into the facts at all, potentially disposing of the whole case on a threshold point. Rules 6-7 provide a rare procedural shortcut: if both sides agree to frame their entire dispute as a single stated question and bind themselves to its answer, the Court can try just that question and decree accordingly.",
+        "essential_elements": [
+          "Rule 1: issues arise from a 'material proposition' of fact or law affirmed by one side and denied by the other; every such proposition gets its own distinct issue, framed at the first hearing after reading the pleadings, the Order X Rule 2 oral examination, and hearing the parties; no issues need be framed if the defendant puts up no defence at all.",
+          "Rule 2: the Court must ordinarily decide all issues and pronounce judgment on all of them even if the case could be disposed of on one preliminary issue — but as an exception, if there are mixed issues of law and fact, the Court may try a pure issue of law first if it goes to (a) the Court's jurisdiction or (b) a statutory bar to the suit, postponing the rest pending that decision.",
+          "Rule 3: issues may be framed from oath-based allegations by parties/their pleaders, from the pleadings or interrogatory answers, or from the contents of produced documents.",
+          "Rule 4: if issues cannot be correctly framed without examining an absent person or inspecting an unproduced document, the Court may adjourn framing (to a day not later than seven days) and compel attendance/production by summons.",
+          "Rule 5: the Court retains a continuing power, at any time before passing a decree, to amend issues, frame additional issues necessary to determine the real controversy, or strike out wrongly framed or unnecessary issues.",
+          "Rules 6-7: where parties agree on a question of fact or law and execute a written agreement binding themselves to a stated consequence (payment of a sum, delivery of property, or doing/abstaining from an act) depending on the Court's finding, the Court — after satisfying itself the agreement was duly executed, the parties have a substantial interest in the question, and it is fit to be tried — records and tries that question as if it were a Court-framed issue, then pronounces judgment according to the agreement's terms, upon which a decree follows."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 2's 'decide jurisdiction/bar-to-suit issues first' power is discretionary ('may'), not mandatory — a Court can still choose to try all issues together.",
+          "The Rule 5 amendment power is available only before the decree is passed, not after.",
+          "Rules 6-7's agreed-issue procedure is distinct from an Order XXIII compromise — here the Court still tries the stated question and renders a genuine adjudication; it is not a mere recording of settlement terms."
+        ],
+        "how_to_read": "Read Rule 1 as defining what an issue even is before reading anything else — a lawyer disputing a draft issue list should test each proposed issue against the 'material proposition... affirmed by one, denied by the other' definition. Rule 2's proviso is a favourite defence tool: frame the limitation or jurisdiction objection as a threshold issue of law and press the Court to decide it first under Rule 2(2) before the expense of a full trial. Rules 6-7 are rarely used in ordinary litigation but valuable in commercial/technical disputes where the parties can isolate one dispositive legal or valuation question."
+      }
+    },
+    {
+      "number": "O-XIV-1",
+      "title": "Order XIV, Rule 1 — Framing of Issues",
+      "raw_text": "1. Framing of issues.—(1) Issues arise when a material proposition of fact or law is affirmed by the one party and denied by the other. (2) Material propositions are those propositions of law or fact which a plaintiff must allege in order to show a right to sue or a defendant must allege in order to constitute his defence. (3) Each material proposition affirmed by one party and denied by the other shall form the subject of a distinct issue. (4) Issues are of two kinds: (a) issues of fact, (b) issues of law. (5) At the first hearing of the suit the Court shall, after reading the plaint and the written statements if any, and after examination under rule 2 of Order X and after hearing the parties or their pleaders, ascertain upon what material propositions of fact or of law the parties are at variance, and shall thereupon proceed to frame and record the issues on which the right decision of the case appears to depend. (6) Nothing in this rule requires the Court to frame and record issues where the defendant at the first hearing of the suit makes no defence.",
+      "key_terms": [
+        "material proposition",
+        "issue of fact",
+        "issue of law",
+        "first hearing"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 1 defines an 'issue' as a material proposition — something the plaintiff must allege to show a right to sue, or the defendant to show a defence — that one side affirms and the other denies. Every genuinely disputed material proposition gets its own issue, split into fact-issues and law-issues, framed at the first hearing after the Court has read the pleadings and conducted the Order X Rule 2 examination. If the defendant offers no defence at all, there is nothing to frame issues on.",
+        "essential_elements": [
+          "A 'material proposition' is tied to the cause of action/defence — not every factual assertion in the pleadings generates an issue, only those essential to the right to sue or the defence.",
+          "Affirmation by one side and denial by the other is the triggering test — admitted facts never become issues.",
+          "Framing happens at the first hearing, informed by the pleadings and the Order X Rule 2 oral examination of parties.",
+          "No issues are required where the defendant makes no defence at the first hearing (the matter proceeds under Order VIII/Order XV instead)."
+        ],
+        "exceptions_and_qualifications": [
+          "A fact admitted in the written statement is not an 'issue' even if mentioned in the plaint — Rule 1 applies only to genuinely contested propositions."
+        ],
+        "how_to_read": "This is the foundational definitional rule — every later Order XIV rule (amendment, striking out, preliminary trial) operates on 'issues' as defined here. A practitioner reviewing a draft issue list should check each item traces back to a specific pleaded-and-denied material proposition."
+      }
+    },
+    {
+      "number": "O-XIV-2",
+      "title": "Order XIV, Rule 2 — Court to Pronounce Judgment on All Issues",
+      "raw_text": "2. Court to pronounce judgment on all issues.—(1) Notwithstanding that a case may be disposed of on a preliminary issue, the Court shall, subject to the provisions of sub-rule (2), pronounce judgment on all issues. (2) Where issues both of law and of fact arise in the same suit, and the Court is of opinion that the case or any part thereof may be disposed of on an issue of law only, it may try that issue first if the issue relates to— (a) the jurisdiction of the Court, or (b) a bar to the suit created by any law for the time being in force, and for that purpose may, if it thinks fit, postpone the settlement of the other issues until after that issue has been determined, and may deal with the suit in accordance with the decision on that issue.",
+      "key_terms": [
+        "preliminary issue",
+        "jurisdiction",
+        "bar to the suit",
+        "pronounce judgment on all issues"
+      ],
+      "breakdown": {
+        "plain_summary": "The default rule (sub-rule 1) is that a Court must decide every framed issue, even if one issue alone would dispose of the whole case — this guards against piecemeal appeals and ensures a complete record. Sub-rule (2) is the narrow, defence-friendly exception: where a pure issue of law touches jurisdiction or a statutory bar to the suit (limitation, res judicata, lack of cause of action, etc.), the Court may try that one issue first and dispose of the suit on it without ever reaching the facts.",
+        "essential_elements": [
+          "General rule: all issues must be decided, even after a preliminary issue disposes of the case — this avoids remand loops if the preliminary finding is later reversed in appeal.",
+          "Exception threshold: the issue must be a pure issue of law (not mixed fact-and-law) and must relate specifically to jurisdiction or a statutory bar to the suit.",
+          "The power to try that issue first and postpone the rest is discretionary, not mandatory."
+        ],
+        "exceptions_and_qualifications": [
+          "This sub-rule (2) exception is narrower than it looks: 'bar to the suit created by any law' means a statutory bar (e.g., limitation, Section 80 notice, res judicata) — not any issue the Court subjectively regards as dispositive.",
+          "Rule 2 interacts with Order VII Rule 11 (rejection of plaint) and Section 9A-style preliminary jurisdictional objections where applicable."
+        ],
+        "how_to_read": "Defence counsel plead jurisdiction or limitation prominently and early precisely to invoke Rule 2(2) — framing the issue as 'law only' is the tactical move, since a mixed fact-law issue cannot be tried preliminarily under this rule. Plaintiffs resisting a preliminary trial should argue the issue is in truth mixed (requires evidence) to keep it bundled with the rest under sub-rule (1)."
+      }
+    },
+    {
+      "number": "O-XIV-3",
+      "title": "Order XIV, Rule 3 — Materials from Which Issues May Be Framed",
+      "raw_text": "3. Materials from which issues may be framed.—The Court may frame the issues from all or any of the following materials:— (a) allegations made on oath by the parties, or by any persons present on their behalf, or made by the pleaders of such parties; (b) allegations made in the pleadings or in answers to interrogatories delivered in the suit; (c) the contents of documents produced by either party.",
+      "key_terms": [
+        "allegations on oath",
+        "pleadings",
+        "interrogatories",
+        "documents produced"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 3 lists the Court's raw material for framing issues: sworn statements by parties or counsel, the pleadings themselves (including interrogatory answers), and the content of produced documents. It confirms issue-framing is not limited mechanically to the plaint/written statement text but can draw on anything already properly before the Court by the first hearing.",
+        "essential_elements": [
+          "Three sources: oath-based allegations (party/representative/pleader), pleadings/interrogatory answers, and document contents.",
+          "The list is permissive ('all or any') — the Court is not required to consult every source for every issue."
+        ],
+        "exceptions_and_qualifications": [
+          "This rule does not let the Court import extraneous material not yet on the suit's record — the sources are all things already before the Court through the ordinary pleading/interrogatory/document process."
+        ],
+        "how_to_read": "Useful where the written statement is vague or evasive — counsel can point the Court to interrogatory answers or produced documents to sharpen a properly-framed issue instead of accepting an issue drafted only off the bare pleadings."
+      }
+    },
+    {
+      "number": "O-XIV-4",
+      "title": "Order XIV, Rule 4 — Court May Examine Witnesses or Documents Before Framing Issues",
+      "raw_text": "4. Court may examine witnesses or documents before framing issues.—Where the Court is of opinion that the issues cannot be correctly framed without the examination of some person not before the Court or without the inspection of some document not produced in the suit, it may adjourn the framing of issues to a day not later than seven days and may (subject to any law for the time being in force) compel the attendance of any person or the production of any document by the person in whose possession or power it is by summons or other process.",
+      "key_terms": [
+        "adjourn framing of issues",
+        "compel attendance",
+        "compel production"
+      ],
+      "breakdown": {
+        "plain_summary": "If the Court genuinely cannot frame correct issues without input from an absent person or an unproduced document, it can pause issue-framing (for up to seven days) and use summons/process to compel that person's attendance or that document's production, then resume framing with the fuller picture.",
+        "essential_elements": [
+          "Trigger: issues 'cannot be correctly framed' without the missing testimony/document — a genuine necessity, not routine delay.",
+          "The adjournment is capped at seven days.",
+          "The compulsion power is exercised 'subject to any law for the time being in force' (e.g., Evidence Act privilege rules still apply)."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a narrow, time-boxed power distinct from the general discovery/interrogatories machinery of Order XI — it operates specifically to enable correct issue-framing at the threshold, not general evidence-gathering."
+        ],
+        "how_to_read": "Rarely invoked in practice since most issue-framing proceeds on the pleadings alone; relevant where a critical document (e.g., a disputed contract) is referenced but not yet filed and its content is essential to state the issue accurately."
+      }
+    },
+    {
+      "number": "O-XIV-5",
+      "title": "Order XIV, Rule 5 — Power to Amend and Strike Out Issues",
+      "raw_text": "5. Power to amend and strike out issues.—(1) The Court may at any time before passing a decree amend the issues or frame additional issues on such terms as it thinks fit, and all such amendments or additional issues as may be necessary for determining the matters in controversy between the parties shall be so made or framed. (2) The Court may also, at any time before passing a decree, strike out any issues that appear to it to be wrongly framed or introduced.",
+      "key_terms": [
+        "amend issues",
+        "additional issues",
+        "strike out issues",
+        "matters in controversy"
+      ],
+      "breakdown": {
+        "plain_summary": "Issue-framing is not frozen at the first hearing — Rule 5 gives the Court a continuing power, right up until the decree is passed, to amend existing issues, add new ones necessary to resolve the real dispute, or delete issues that were wrongly framed or unnecessarily introduced.",
+        "essential_elements": [
+          "Time limit: any time before the decree is passed — this is a trial-stage power, not a post-decree one.",
+          "Amendment/addition is actually mandatory where 'necessary for determining the matters in controversy' — the discretionary word is only 'on such terms as it thinks fit' for conditions, not whether to act at all when necessity is shown.",
+          "Striking out targets issues wrongly framed or introduced — e.g., issues not supported by any pleaded material proposition."
+        ],
+        "exceptions_and_qualifications": [
+          "This power must be read alongside Order VI Rule 17 (amendment of pleadings) — a pleading amendment often necessitates a corresponding Rule 5 issue amendment."
+        ],
+        "how_to_read": "Counsel who discover mid-trial that a crucial issue was omitted (e.g., limitation was pleaded but never framed as an issue) should move promptly under Rule 5 rather than waiting for appeal, since appellate courts are reluctant to entertain issues never tried below."
+      }
+    },
+    {
+      "number": "O-XIV-6",
+      "title": "Order XIV, Rule 6 — Questions of Fact or Law May by Agreement Be Stated in Form of Issues",
+      "raw_text": "6. Questions of fact or law may by agreement be stated in form of issues.—(1) Where the parties to a suit are agreed as to the question of fact or of law to be decided between them, they may state the same in the form of an issue, and enter into an agreement in writing that, upon the finding of the Court in the affirmative or the negative of such issue,— (a) a sum of money specified in the agreement or to be ascertained by the Court, or in such manner as the Court may direct, shall be paid by one of the parties to the other of them, or that one of them be declared entitled to some right or subject some liability specified in the agreement; (b) some property specified in the agreement and in dispute in the suit shall be delivered by one of the parties to the other of them, or as that other may direct; or (c) one or more of the parties shall do or abstain from doing some particular act specified in the agreement and relating to the matter in dispute.",
+      "key_terms": [
+        "agreed issue",
+        "written agreement",
+        "consequential relief by agreement"
+      ],
+      "breakdown": {
+        "plain_summary": "This rule lets parties shortcut a full trial by isolating a single agreed question (of fact or law) and binding themselves in writing to a specific consequence depending on how the Court answers it — payment of a sum, a declared right/liability, delivery of specified property, or doing/abstaining from a specified act.",
+        "essential_elements": [
+          "Requires genuine party agreement on both the question and the written consequence structure.",
+          "Three permitted consequence types: money payment/right-liability declaration, property delivery, or an act/omission order.",
+          "The agreement must specify (or provide a mechanism to ascertain) the consequence precisely."
+        ],
+        "exceptions_and_qualifications": [
+          "This is not a compromise under Order XXIII — the Court still genuinely adjudicates the stated question; the agreement only fixes what follows from the answer."
+        ],
+        "how_to_read": "Useful in disputes that genuinely turn on one clean legal or valuation question (e.g., 'is the sale deed a benami transaction?') where both sides would rather bind themselves to the answer than litigate every ancillary issue."
+      }
+    },
+    {
+      "number": "O-XIV-7",
+      "title": "Order XIV, Rule 7 — Court, If Satisfied That Agreement Was Executed in Good Faith, May Pronounce Judgment",
+      "raw_text": "7. Court, if satisfied that agreement was executed in good faith, may pronounce judgment.—Where the Court is satisfied, after making such inquiry as it deems proper,— (a) that the agreement was duly executed by the parties, (b) that they have a substantial interest in the decision of such question as aforesaid, and (c) that the same is fit to be tried and decided, it shall proceed to record and try the issue and state its finding or decision thereon in the same manner as if the issue had been framed by the Court; and shall, upon the finding or decision on such issue, pronounce judgment according to the terms of the agreement; and, upon the judgment so pronounced, a decree shall follow.",
+      "key_terms": [
+        "due execution",
+        "substantial interest",
+        "fit to be tried",
+        "judgment according to agreement"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 7 is the operative follow-through to Rule 6: once the Court verifies (i) the agreement was duly executed, (ii) the parties have a genuine substantial interest in the question, and (iii) the question is fit to be tried, it tries that single issue exactly as it would a Court-framed issue, then pronounces judgment strictly according to the agreement's pre-fixed consequence — and a decree follows automatically.",
+        "essential_elements": [
+          "Three-part satisfaction test before the Court will act: due execution, substantial interest, fitness for trial.",
+          "The trial of the agreed issue proceeds exactly as an ordinary issue trial (evidence, arguments, findings).",
+          "Judgment is bound by the agreement's terms — the Court does not independently fashion relief once the issue is answered."
+        ],
+        "exceptions_and_qualifications": [
+          "If the Court is not satisfied on any of the three conditions, it declines to use this shortcut and the suit proceeds on ordinary issues instead — Rule 7 does not compel the Court to accept a defective or collusive agreement."
+        ],
+        "how_to_read": "Advocates drafting a Rule 6 agreement should pre-empt Rule 7 scrutiny by making due execution easy to prove (registered/notarised where possible) and by articulating each party's substantial interest expressly in the agreement's recitals."
+      }
+    },
+    {
+      "number": "O-XV",
+      "title": "Order XV — Disposal of the Suit at the First Hearing",
+      "raw_text": "Order XV lets the Court shortcut the trial at the very first hearing where the parties either are not genuinely at issue on any question, or are at issue but the available evidence and argument are already sufficient to decide — avoiding a wasted full trial where the real dispute is thin or absent.",
+      "key_terms": [
+        "first hearing",
+        "not at issue",
+        "parties at issue",
+        "failure to produce evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XV operates at the opposite end of the spectrum from a protracted trial: Rules 1-2 let the Court pronounce judgment immediately if, on reading the pleadings, there is simply no real dispute (either overall or as against one of several defendants). Rule 3 lets the Court decide the suit on the spot if the parties are at issue but nothing further needs to be adduced for a sufficient decision. Rule 4 penalises a party who, despite the summons being for final disposal, fails without sufficient cause to produce evidence — the Court may decide against them immediately. Note: this Order is extended to apply to specified-value Commercial Disputes by the Commercial Courts Act, 2015.",
+        "essential_elements": [
+          "Rule 1: if at the first hearing the parties are not at issue on any question of law or fact at all, the Court may pronounce judgment at once.",
+          "Rule 2: where there are multiple defendants and one is not at issue with the plaintiff, the Court may pronounce judgment for/against that defendant alone and continue the suit only against the remaining defendants; whenever judgment is so pronounced, the decree is drawn up dated to the judgment date.",
+          "Rule 3: where parties are at issue and issues are framed, but the Court is satisfied no further argument or evidence is required for a sufficient decision and no injustice results from proceeding forthwith, it may decide the issues and pronounce judgment immediately — whether summons was for issue-settlement only or for final disposal (with a proviso requiring party/pleader presence and no objection if summons was for issues only).",
+          "Rule 4: if summons was for final disposal and a party fails without sufficient cause to produce relied-upon evidence, the Court may pronounce judgment at once, or adjourn (after framing issues) for production of necessary evidence if it thinks fit."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 3's shortcut applies even where summons was issued only for settling issues, but only with the proviso's safeguards (presence, no objection).",
+          "Order XV is applied to Commercial Disputes of specified value by the Commercial Courts Act, 2015 (Act 4 of 2016) alongside the ordinary civil suit context."
+        ],
+        "how_to_read": "A defendant with a genuinely undisputed claim against them (e.g., admitting liability in the written statement) should expect judgment under Rule 1/2 at the first hearing itself — delay tactics gain nothing once there is truly nothing to contest. Plaintiffs facing a party who stonewalls on evidence despite a final-disposal summons should press for Rule 4 relief rather than accepting repeated adjournments."
+      }
+    },
+    {
+      "number": "O-XV-1",
+      "title": "Order XV, Rule 1 — Parties Not at Issue",
+      "raw_text": "1. Parties not at issue.—(1) Where at the first hearing of a suit it appears that the parties are not at issue on any question of law or of fact, the Court may at once pronounce judgment.",
+      "key_terms": [
+        "not at issue",
+        "pronounce judgment at once"
+      ],
+      "breakdown": {
+        "plain_summary": "If, at the very first hearing, it turns out there is no genuine dispute of law or fact between the parties at all, the Court need not go through framing issues or a trial — it may pronounce judgment immediately.",
+        "essential_elements": [
+          "Applies only when there is no dispute whatsoever — any live question of law or fact takes the case out of this rule.",
+          "Operative at the first hearing specifically."
+        ],
+        "exceptions_and_qualifications": [
+          "Distinguish from Rule 3, which applies where the parties are at issue but little remains to decide it — Rule 1 is for cases with no issue at all."
+        ],
+        "how_to_read": "Typically invoked where the written statement effectively admits the plaint's claim or raises only legally irrelevant objections."
+      }
+    },
+    {
+      "number": "O-XV-2",
+      "title": "Order XV, Rule 2 — One of Several Defendants Not at Issue",
+      "raw_text": "2. One of several defendants not at issue.—(1) Where there are more defendants than one, and any one of the defendants is not at issue with the plaintiff on any question of law or of fact, the Court may at once pronounce judgment for or against such defendant and the suit shall proceed only against the other defendants. (2) Whenever a judgment is pronounced under this rule, a decree shall be drawn up in accordance with such judgment and the decree shall bear the date on which the judgment was pronounced.",
+      "key_terms": [
+        "multiple defendants",
+        "severable judgment",
+        "decree dated to judgment"
+      ],
+      "breakdown": {
+        "plain_summary": "In a multi-defendant suit, if one defendant simply has no live dispute with the plaintiff (e.g., admits the claim), the Court can resolve that defendant's part of the case immediately by judgment and decree, letting the suit continue only against the remaining, genuinely contesting defendants.",
+        "essential_elements": [
+          "Applies specifically to multi-defendant suits where severance is possible.",
+          "The decree for the severed defendant is dated to the judgment date, not deferred to final disposal of the whole suit."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a true partial/severed judgment — distinct from staying the whole suit pending the other defendants' trial."
+        ],
+        "how_to_read": "Useful where a nominal or formal defendant (e.g., a bank holding disputed funds as a stakeholder) admits the claim while the real contest is against a different defendant — the suit need not wait for that second defendant's trial to conclude before relief issues against the first."
+      }
+    },
+    {
+      "number": "O-XV-3",
+      "title": "Order XV, Rule 3 — Parties at Issue",
+      "raw_text": "3. Parties at issue.—(1) Where the parties are at issue on some question of law or of fact, and issues have been framed by the Court as hereinbefore provided, if the Court is satisfied that no further argument or evidence that the parties can at once adduce is required upon such of the issues as may be sufficient for the decision of the suit, and that no injustice will result from proceeding with the suit forthwith, the Court may proceed to determine such issues, and, if the finding thereon is sufficient for the decision, may pronounce judgment accordingly, whether the summons has been issued for the settlement of issues only or for the final disposal of the suit: Provided that, where the summons has been issued for the settlement of issues only, the parties or their pleaders are present and none of them objects. (2) Where the finding is not sufficient for the decision, the Court shall postpone the further hearing of the suit, and shall fix a day for the production of such further evidence, or for such further argument as the case requires.",
+      "key_terms": [
+        "sufficient for decision",
+        "no injustice",
+        "postpone further hearing"
+      ],
+      "breakdown": {
+        "plain_summary": "Even where real issues exist, if the Court is satisfied the parties can immediately supply all the argument/evidence needed on the issues sufficient to decide the suit — and proceeding at once would cause no injustice — it may determine those issues then and there and pronounce judgment, even if the summons only called for settling issues (subject to the presence-and-no-objection proviso). If what emerges isn't enough, the Court instead fixes a future date for the missing evidence or argument.",
+        "essential_elements": [
+          "Two-part satisfaction: (a) no further argument/evidence needed beyond what parties can give right away, and (b) no injustice from proceeding forthwith.",
+          "Works regardless of whether summons was for issue-settlement only or final disposal — but if the former, the proviso's presence-and-no-objection safeguard applies.",
+          "If findings prove insufficient after all, sub-rule (2) requires postponement with a fixed future date — not an indefinite adjournment."
+        ],
+        "exceptions_and_qualifications": [
+          "The 'no injustice' requirement is the key guardrail — a party ambushed without fair opportunity to adduce evidence can resist an immediate Rule 3 disposal on this ground."
+        ],
+        "how_to_read": "This rule rewards well-prepared counsel who come to the first hearing ready to argue the dispositive issues on the spot — it can compress months of litigation into a single hearing where the dispute is narrow."
+      }
+    },
+    {
+      "number": "O-XV-4",
+      "title": "Order XV, Rule 4 — Failure to Produce Evidence",
+      "raw_text": "4. Failure to produce evidence.—Where the summons has been issued for the final disposal of the suit and either party fails without sufficient cause to produce the evidence on which he relies, the Court may at once pronounce judgment, or may, if it thinks fit, after framing and recording issues, adjourn the suit for the production of such evidence as may be necessary for its decision upon such issues.",
+      "key_terms": [
+        "sufficient cause",
+        "final disposal summons",
+        "pronounce judgment at once"
+      ],
+      "breakdown": {
+        "plain_summary": "If the summons was explicitly for final disposal and a party, without a good reason, fails to bring the evidence it relies on, the Court has a choice: decide the suit immediately (typically against the defaulting party), or — if it thinks that's unjust — frame issues and give one more adjourned date for producing the necessary evidence.",
+        "essential_elements": [
+          "Precondition: summons must have been for final disposal, not merely issue-settlement.",
+          "Trigger: failure, without sufficient cause, to produce relied-upon evidence.",
+          "Two Court options: immediate judgment, or a single structured adjournment after issues are framed/recorded."
+        ],
+        "exceptions_and_qualifications": [
+          "'Sufficient cause' is assessed case-by-case — genuine, unavoidable circumstances differ from negligence or deliberate delay."
+        ],
+        "how_to_read": "A cautionary rule for litigants who treat the final-disposal hearing casually — showing up without evidence in hand risks an adverse judgment on the spot rather than an automatic adjournment."
+      }
+    },
+    {
+      "number": "O-XV-A",
+      "title": "Order XV-A — Case Management Hearing (Commercial Disputes)",
+      "raw_text": "Order XV-A, inserted for Commercial Disputes of specified value by the Commercial Courts Act, 2015, introduces a structured Case Management Hearing regime that compresses issue-framing, evidence scheduling, and argument timetabling into Court-fixed, enforceable deadlines aimed at closing arguments within six months of the first such hearing.",
+      "key_terms": [
+        "Case Management Hearing",
+        "trial timetable",
+        "day-to-day recording",
+        "non-compliance sanctions"
+      ],
+      "breakdown": {
+        "plain_summary": "This Order is the Commercial Courts Act's answer to chronic trial delay: instead of open-ended adjournments, the Court holds a structured Case Management Hearing (within four weeks of the affidavit of admission/denial of documents) at which it frames issues, lists witnesses, and fixes dates for every remaining stage of the trial — evidence affidavits, cross-examination, written arguments, oral arguments — with a hard target of closing arguments within six months. Rule 6 gives the Court sweeping case-management powers (strike off irrelevant evidence, consolidate proceedings, delegate evidence recording, order cost budgets) and Rule 8 arms it with escalating sanctions — up to dismissal or judgment — for non-compliance.",
+        "essential_elements": [
+          "Rule 1: first Case Management Hearing must be held not later than four weeks from the filing of the affidavit of admission or denial of documents by all parties.",
+          "Rule 2: once the Court finds triable issues of fact/law exist, it passes an order framing issues (per Order XIV, informed by Order X Rule 2 examination), listing witnesses, and fixing dates for evidence affidavits, recording of evidence, written arguments, and oral arguments, with time limits for advocates' oral submissions.",
+          "Rule 3: the Court must ensure arguments close not later than six months from the first Case Management Hearing.",
+          "Rule 4: evidence recording must, as far as possible, proceed day-to-day until cross-examination of all witnesses is complete.",
+          "Rule 5: further Case Management Hearings may be held during trial to enforce the fixed dates and speed disposal.",
+          "Rule 6: lists extensive case-management powers (deciding pending Order XIII-A applications before framing issues, directing document compilations, extending/shortening time, adjourning/advancing hearings, consolidating proceedings, striking irrelevant witnesses/evidence, directing commission-recorded evidence under Order XXVI, rejecting or striking argumentative affidavit content, ordering costs budgets, and general case-management directions) — orders under this Order may be made conditional (including deposit of money) with specified consequences for non-compliance; parties may be directed to attend personally if settlement seems possible.",
+          "Rule 7: a Case Management Hearing shall not be adjourned solely for the advocate's absence, though an advance application may secure an adjournment on costs, and a justified-reason absence may still be accommodated.",
+          "Rule 8: non-compliance with a Case Management order may be met with costs, foreclosure of the defaulting party's right to file affidavits/cross-examine/argue, or — where wilful, repeated, and costs are inadequate — dismissal of the plaint or allowing the suit outright."
+        ],
+        "exceptions_and_qualifications": [
+          "Order XV-A applies only to Commercial Disputes of specified value under the Commercial Courts Act, 2015 — it does not govern ordinary civil suits, which remain under the more flexible Order XIV/XVII regime.",
+          "The six-month argument-closure target in Rule 3 is an administrative discipline requirement, not a jurisdictional limitation period — missing it doesn't void proceedings, but invites Rule 8-type scrutiny of the cause."
+        ],
+        "how_to_read": "Commercial litigators must treat the first Case Management Hearing as the single most important procedural event in the suit — the entire trial calendar, evidence strategy, and argument structure gets locked in there. Rule 8's escalating sanctions mean missed Case Management deadlines are not merely inconvenient; repeated or wilful non-compliance can forfeit a party's right to present its case at all."
+      }
+    },
+    {
+      "number": "O-XV-A-1",
+      "title": "Order XV-A, Rule 1 — First Case Management Hearing",
+      "raw_text": "1. First Case Management Hearing.—The Court shall hold the first Case Management Hearing, not later than four weeks from the date of filing of affidavit of admission or denial of documents by all parties to the suit.",
+      "key_terms": [
+        "four weeks",
+        "affidavit of admission or denial of documents"
+      ],
+      "breakdown": {
+        "plain_summary": "The clock for the first Case Management Hearing starts running from the date all parties have filed their affidavits of admission/denial of documents (the Commercial Courts disclosure mechanism under Order XI-CC) — the Court must convene within four weeks of that date.",
+        "essential_elements": [
+          "Trigger event: filing of the affidavit of admission/denial of documents by all parties.",
+          "Deadline: not later than four weeks thereafter."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Counsel should track the affidavit-of-admission filing date closely, since it silently starts this four-week clock without a separate notice requirement."
+      }
+    },
+    {
+      "number": "O-XV-A-2",
+      "title": "Order XV-A, Rule 2 — Orders to Be Passed in a Case Management Hearing",
+      "raw_text": "2. Orders to be passed in a Case Management Hearing.—In a Case Management Hearing, after hearing the parties, and once it finds that there are issues of fact and law which require to be tried, the Court may pass an order–– (a) framing the issues between the parties in accordance with Order XIV of the Code of Civil Procedure, 1908 (5 of 1908), after examining pleadings, documents and documents produced before it, and on examination conducted by the Court under Rule 2 of Order X, if required; (b) listing witnesses to be examined by the parties; (c) fixing the date by which affidavit of evidence to be filed by parties; (d) fixing the date on which evidence of the witnesses of the parties to be recorded; (e) fixing the date by which written arguments are to be filed before the Court by the parties; (f) fixing the date on which oral arguments are to be heard by the Court; and (g) setting time limits for parties and their advocates to address oral arguments.",
+      "key_terms": [
+        "framing issues",
+        "witness list",
+        "evidence affidavit date",
+        "written arguments deadline"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the core scheduling order — once the Court determines there are triable issues, it frames them (per Order XIV, informed by the pleadings/documents/Order X Rule 2 examination) and, in the same breath, fixes the entire remaining trial calendar: witness list, evidence-affidavit deadline, evidence-recording date, written-argument deadline, oral-argument date, and time limits for oral submissions.",
+        "essential_elements": [
+          "Seven distinct components bundled into one order: issue-framing plus six scheduling directions covering the rest of the trial.",
+          "Issue-framing under this rule expressly cross-references Order XIV and the Order X Rule 2 oral examination."
+        ],
+        "exceptions_and_qualifications": [
+          "This order issues only after the Court first finds triable issues exist — if parties are not genuinely at issue, Order XV's immediate-disposal route applies instead."
+        ],
+        "how_to_read": "Advocates should come to this hearing prepared with a complete witness list and a realistic self-imposed timetable proposal — the dates fixed here bind the remainder of the case under the Rule 8 sanctions regime."
+      }
+    },
+    {
+      "number": "O-XV-A-3",
+      "title": "Order XV-A, Rule 3 — Time Limit for the Completion of a Trial",
+      "raw_text": "3. Time limit for the completion of a trial.—In fixing dates or setting time limits for the purposes of Rule 2 of this Order, the Court shall ensure that the arguments are closed not later than six months from the date of the first Case Management Hearing.",
+      "key_terms": [
+        "six months",
+        "closure of arguments"
+      ],
+      "breakdown": {
+        "plain_summary": "Whatever specific dates the Court fixes under Rule 2, it must structure them so that oral/written arguments conclude within six months of the first Case Management Hearing — a hard outer ceiling on the whole evidence-and-argument phase.",
+        "essential_elements": [
+          "The six-month clock runs from the first Case Management Hearing, not from suit filing or issue-framing alone.",
+          "It is the Court's obligation to structure the Rule 2 schedule to meet this ceiling."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practitioner can cite this provision to resist excessive piecemeal adjournment requests from the opposing side that threaten to blow past the six-month target."
+      }
+    },
+    {
+      "number": "O-XV-A-4",
+      "title": "Order XV-A, Rule 4 — Recording of Oral Evidence on a Day-to-Day Basis",
+      "raw_text": "4. Recording of oral evidence on a day-to-day basis.—The Court shall, as far as possible, ensure that the recording of evidence shall be carried on, on a day-to-day basis until the cross-examination of all the witnesses is complete.",
+      "key_terms": [
+        "day-to-day recording",
+        "continuous cross-examination"
+      ],
+      "breakdown": {
+        "plain_summary": "Evidence recording in a Commercial Dispute should, wherever feasible, run continuously day-to-day rather than in scattered, spread-out hearings, until every witness's cross-examination is finished — mirroring the Order XVII Rule 1 proviso for ordinary suits but stated as a specific Commercial Courts obligation.",
+        "essential_elements": [
+          "Obligation qualified by 'as far as possible' — not an absolute bar on any gap.",
+          "Applies through completion of cross-examination of all witnesses, not just examination-in-chief."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Useful leverage against a party seeking to fragment cross-examination across many separated dates to exhaust or confuse a witness, or simply to delay."
+      }
+    },
+    {
+      "number": "O-XV-A-5",
+      "title": "Order XV-A, Rule 5 — Case Management Hearings During a Trial",
+      "raw_text": "5. Case Management Hearings during a trial.—The Court may, if necessary, also hold Case Management Hearings anytime during the trial to issue appropriate orders so as to ensure adherence by the parties to the dates fixed under Rule 2 and facilitate speedy disposal of the suit.",
+      "key_terms": [
+        "mid-trial Case Management Hearing"
+      ],
+      "breakdown": {
+        "plain_summary": "The Rule 1 hearing is not the only one — the Court can convene further Case Management Hearings at any point during the trial if needed to keep the parties on track with the Rule 2 schedule and push the suit toward speedy disposal.",
+        "essential_elements": [
+          "Discretionary and need-triggered — not mandated at fixed intervals.",
+          "Purpose is enforcement of the existing schedule and acceleration, not re-opening settled issues."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A party experiencing the other side's repeated non-compliance should proactively seek a mid-trial Case Management Hearing under this rule rather than waiting passively for the final hearing to raise the issue."
+      }
+    },
+    {
+      "number": "O-XV-A-6",
+      "title": "Order XV-A, Rule 6 — Powers of the Court in a Case Management Hearing",
+      "raw_text": "6. Powers of the Court in a Case Management Hearing.—(1) In any Case Management Hearing held under this Order, the Court shall have the power to— (a) prior to the framing of issues, hear and decide any pending application filed by the parties under Order XIII-A; (b) direct parties to file compilations of documents or pleadings relevant and necessary for framing issues; (c) extend or shorten the time for compliance with any practice, direction or Court order if it finds sufficient reason to do so; (d) adjourn or bring forward a hearing if it finds sufficient reason to do so; (e) direct a party to attend the Court for the purposes of examination under Rule 2 of Order X; (f) consolidate proceedings; (g) strike off the name of any witness or evidence that it deems irrelevant to the issues framed; (h) direct a separate trial of any issue; (i) decide the order in which issues are to be tried; (j) exclude an issue from consideration; (k) dismiss or give judgment on a claim after a decision on a preliminary issue; (l) direct that evidence be recorded by a Commission where necessary in accordance with Order XXVI; (m) reject any affidavit of evidence filed by the parties for containing irrelevant, inadmissible or argumentative material; (n) strike off any parts of the affidavit of evidence filed by the parties containing irrelevant, inadmissible or argumentative material; (o) delegate the recording of evidence to such authority appointed by the Court for this purpose; (p) pass any order relating to the monitoring of recording the evidence by a commission or any other authority; (q) order any party to file and exchange a costs budget; (r) issue directions or pass any order for the purpose of managing the case and furthering the overriding objective of ensuring the efficient disposal of the suit. (2) When the Court passes an order in exercise of its powers under this Order, it may— (a) make it subject to conditions, including a condition to pay a sum of money into Court; and (b) specify the consequence of failure to comply with the order or a condition. (3) While fixing the date for a Case Management Hearing, the Court may direct that the parties also be present for such Case Management Hearing, if it is of the view that there is a possibility of settlement between the parties.",
+      "key_terms": [
+        "case management powers",
+        "strike off evidence",
+        "conditional orders",
+        "costs budget"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 6 is the toolbox: eighteen distinct case-management powers ranging from deciding pending Order XIII-A summary judgment applications before issues are even framed, through document compilation directions, time extensions, consolidation, striking irrelevant witnesses/evidence, commission-based evidence recording, rejecting argumentative affidavits, cost-budget orders, and a general residuary power to further the 'overriding objective' of efficient disposal. Any order under this toolbox can be made conditional (including a money deposit) with pre-specified consequences for default, and the Court can require personal party attendance where settlement seems achievable.",
+        "essential_elements": [
+          "Eighteen enumerated powers under sub-rule (1), spanning pre-issue applications, scheduling, evidence control, and consolidation/separation of issues.",
+          "Sub-rule (2) allows conditional orders (including a money-deposit condition) with specified default consequences — mirroring the Order XIII-A Rule 7 conditional-order mechanism.",
+          "Sub-rule (3) lets the Court compel personal party presence specifically where it sees settlement potential."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (a)'s pre-issue-framing disposal of Order XIII-A applications shows the two Orders are designed to interlock — summary judgment is meant to be resolved before full issue-framing wherever possible.",
+          "The 'overriding objective of ensuring the efficient disposal of the suit' residuary clause (r) gives this rule considerable breadth beyond the sixteen specifically enumerated powers."
+        ],
+        "how_to_read": "This is the single most powerful case-management toolkit in the CPC — commercial litigators should anticipate that irrelevant witnesses, padded affidavits, and delay tactics face a much harder time surviving a Case Management Hearing than an ordinary civil trial's more permissive culture."
+      }
+    },
+    {
+      "number": "O-XV-A-7",
+      "title": "Order XV-A, Rule 7 — Adjournment of Case Management Hearing",
+      "raw_text": "7. Adjournment of Case Management Hearing.—(1) The Court shall not adjourn the Case Management Hearing for the sole reason that the advocate appearing on behalf of a party is not present: Provided that an adjournment of the hearing is sought in advance by moving an application, the Court may adjourn the hearing to another date upon the payment of such costs as the Court deems fit, by the party moving such application. (2) Notwithstanding anything contained in this Rule, if the Court is satisfied that there is a justified reason for the absence of the advocate, it may adjourn the hearing to another date upon such terms and conditions it deems fit.",
+      "key_terms": [
+        "advocate absence",
+        "costs on adjournment",
+        "justified reason"
+      ],
+      "breakdown": {
+        "plain_summary": "An advocate's mere absence, by itself, is not grounds for adjourning a Case Management Hearing. A party wanting an adjournment must apply in advance and will typically pay costs for the privilege; if the advocate's absence has a genuinely justified reason, the Court retains discretion to adjourn on whatever terms it sees fit regardless.",
+        "essential_elements": [
+          "Default position: no adjournment for bare advocate absence.",
+          "Advance application + costs is the structured route to a discretionary adjournment.",
+          "Justified-reason absence remains a residual discretionary ground, outside the advance-application route."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Mirrors the hard line Order XVII Rule 1's proviso takes against 'engaged in another Court' excuses — commercial litigation counsel must treat Case Management Hearing dates as firm commitments."
+      }
+    },
+    {
+      "number": "O-XV-A-8",
+      "title": "Order XV-A, Rule 8 — Consequences of Non-Compliance with Orders",
+      "raw_text": "8. Consequences of non-compliance with orders.—Where any party fails to comply with the order of the Court passed in a Case Management Hearing, the Court shall have the power to— (a) condone such non-compliance by payment of costs to the Court; (b) foreclose the non-compliant party's right to file affidavits, conduct cross-examination of witnesses, file written submissions, address oral arguments or make further arguments in the trial, as the case may be, or (c) dismiss the plaint or allow the suit where such non-compliance is wilful, repeated and the imposition of costs is not adequate to ensure compliance.",
+      "key_terms": [
+        "condone by costs",
+        "foreclose rights",
+        "dismiss the plaint",
+        "allow the suit"
+      ],
+      "breakdown": {
+        "plain_summary": "A three-tier escalating sanction ladder for non-compliance with Case Management orders: (a) the mildest, condoning via costs; (b) foreclosing specific procedural rights (filing affidavits, cross-examining, written/oral arguments) going forward; and (c) the most severe — dismissing the plaintiff's plaint or simply allowing the suit (i.e., deciding against the non-compliant defendant) — reserved for wilful, repeated non-compliance where costs alone won't secure compliance.",
+        "essential_elements": [
+          "Escalation is graduated and discretionary — the Court is not bound to jump straight to the harshest sanction.",
+          "Clause (c)'s dismissal/allowance of the suit requires both wilfulness and repetition, plus a finding that costs are inadequate."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (c) effectively lets non-compliance alone (independent of the merits) determine the outcome of the suit — a stark departure from the ordinary civil procedure's reluctance to decide cases on procedural default rather than merits."
+        ],
+        "how_to_read": "This is the ultimate enforcement teeth behind Order XV-A's entire scheduling architecture — commercial litigators must treat every Case Management deadline as potentially outcome-determinative, not merely administrative."
+      }
     }
   ]
 }
