@@ -18842,6 +18842,291 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "Sub-rule (2) is a useful contrast to Rule 14 — where the charge arises directly from the decree itself (rather than from a pre-existing mortgage later reduced to a mere money decree), no fresh suit for sale is required; execution can proceed directly against the charged property."
       }
+    },
+    {
+      "number": "O-XXXV",
+      "title": "Interpleader — Overview",
+      "raw_text": "ORDER XXXV. Interpleader.",
+      "key_terms": [
+        "interpleader suit",
+        "stakeholder with no interest",
+        "rival claimants",
+        "discharge from liability"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXXV governs the interpleader suit — a mechanism for a neutral stakeholder holding property or a debt claimed by two or more rival claimants (who are not themselves claiming through the stakeholder) to ask the Court to resolve who is actually entitled, so the stakeholder can discharge their obligation safely to the right person without risking double liability. The stakeholder plaintiff claims no interest beyond costs/charges, and the real contest is between the defendants.",
+        "essential_elements": [
+          "Plaintiff must claim no interest in the subject-matter beyond charges/costs, and must disclose no collusion with any defendant",
+          "Court may require payment/deposit of the claimed thing into Court as a precondition to relief",
+          "If a defendant is already suing the plaintiff over the same subject-matter elsewhere, that suit is stayed",
+          "At first hearing, Court may discharge the plaintiff outright, or retain all parties until final disposal",
+          "Court can adjudicate title directly on admissions, or frame issues and convert a claimant into a plaintiff",
+          "Agents cannot interplead against their principals, nor tenants against landlords, except for third-party claims not derived through that principal/landlord"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Interpleader is fundamentally a procedural mechanism to protect a disinterested stakeholder, not a device for the stakeholder to litigate a dispute of its own — always confirm the Rule 1(a)/(c) 'no interest beyond costs' and 'no collusion' requirements are genuinely met before invoking this Order."
+      }
+    },
+    {
+      "number": "O-XXXV-1",
+      "title": "Plaint in interpleader-suit",
+      "raw_text": "In every suit of interpleader the plaint shall, in addition to the other statements necessary for plaints, state— (a) that the plaintiff claims no interest in the subject-matter in dispute other than for charges or costs; (b) the claims made by the defendants severally; and (c) that there is no collusion between the plaintiff and any of the defendants.",
+      "key_terms": [
+        "no-interest averment",
+        "defendants' several claims",
+        "no-collusion averment"
+      ],
+      "breakdown": {
+        "plain_summary": "Beyond the ordinary plaint requirements, an interpleader plaint must contain three specific averments: that the plaintiff claims no interest in the disputed subject-matter beyond recovering charges/costs, a statement of each defendant's individual claim, and a declaration that there is no collusion between the plaintiff and any defendant — these three elements are what distinguish and qualify a suit as a genuine interpleader action.",
+        "essential_elements": [
+          "Mandatory averment: no plaintiff interest beyond charges/costs",
+          "Mandatory averment: each defendant's several claim stated",
+          "Mandatory averment: no collusion between plaintiff and any defendant"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat these three averments as jurisdictional threshold requirements for interpleader relief — a plaint missing any one of them, especially the no-interest or no-collusion statements, risks being treated as an ordinary suit rather than a true interpleader."
+      }
+    },
+    {
+      "number": "O-XXXV-2",
+      "title": "Payment of thing claimed into Court",
+      "raw_text": "Where the thing claimed is capable of being paid into Court or placed in the custody of the Court, the plaintiff may be required to so pay or place it before he can be entitled to any order in the suit.",
+      "key_terms": [
+        "deposit as precondition",
+        "custody of the Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the disputed property/money can physically be paid into Court or placed in Court custody, the Court can make that deposit a precondition to granting the plaintiff any relief — ensuring the stakeholder's neutrality claim is backed by actually surrendering control of the disputed asset rather than merely asserting disinterest.",
+        "essential_elements": [
+          "Applies only where the thing claimed is capable of being paid in or placed in custody",
+          "Deposit/custody may be made a precondition to any order in the plaintiff's favour"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A plaintiff resisting deposit while still seeking interpleader relief undermines their own 'no interest' claim — practically, prompt voluntary deposit strengthens the credibility of the interpleader plea."
+      }
+    },
+    {
+      "number": "O-XXXV-3",
+      "title": "Procedure where defendant is suing plaintiff",
+      "raw_text": "Where any of the defendants in an interpleader-suit is actually suing the plaintiff in respect of the subject-matter of such suit, the Court in which the suit against the plaintiff is pending shall, on being informed by the Court in which the interpleader-suit has been instituted, stay the proceedings as against him; and his costs in the suit so stayed may be provided for in such suit; but if, and in so far as, they are not provided for in that suit, they may be added to his costs incurred in the interpleader-suit.",
+      "key_terms": [
+        "mandatory stay of parallel suit",
+        "cross-court communication",
+        "costs consolidation"
+      ],
+      "breakdown": {
+        "plain_summary": "If a defendant in the interpleader suit is already separately suing the plaintiff over the same subject-matter, the Court hearing that separate suit must stay it against that defendant once informed by the interpleader Court — avoiding parallel, potentially conflicting proceedings. That defendant's costs in the stayed suit are ideally addressed within that suit, but any shortfall can be folded into his costs in the interpleader suit instead.",
+        "essential_elements": [
+          "Mandatory stay, triggered by inter-Court communication",
+          "Applies only to the specific defendant actually suing the plaintiff over the same subject-matter",
+          "Costs primarily addressed in the stayed suit, with interpleader-suit costs as a fallback for any shortfall"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This Rule funnels the entire dispute into the single interpleader proceeding — counsel for a defendant with a pending separate suit against the stakeholder should promptly notify both Courts to trigger the mandatory stay."
+      }
+    },
+    {
+      "number": "O-XXXV-4",
+      "title": "Procedure at first hearing",
+      "raw_text": "(1) At the first hearing the Court may— (a) declare that the plaintiff is discharged from all liability to the defendants in respect of the thing claimed, award him his costs, and dismiss him from the suit; or (b) if it thinks that justice or convenience so require, retain all parties until the final disposal of the suit. (2) Where the Court finds that the admissions of the parties or other evidence enable it to do so, it may adjudicate the title to the thing claimed. (3) Where the admissions of the parties do not enable the Court so to adjudicate, it may direct— (a) that an issue or issues between the parties be framed and tried, and (b) that any claimant be made a plaintiff in lieu of or in addition to the original plaintiff, and shall proceed to try the suit in the ordinary manner.",
+      "key_terms": [
+        "early plaintiff discharge",
+        "retain-all-parties option",
+        "adjudication on admissions",
+        "issue-framing and claimant conversion"
+      ],
+      "breakdown": {
+        "plain_summary": "At the first hearing, the Court has a menu of options reflecting how clear the case already is: it can immediately discharge the stakeholder plaintiff (with costs) and dismiss them from the suit if satisfied of genuine neutrality; or retain everyone if justice/convenience requires further proceedings. If the parties' admissions or other evidence already settle who's entitled, the Court can adjudicate title right away. Otherwise, it frames issues for trial and converts one of the rival claimants into a (co-)plaintiff, then proceeds as an ordinary suit between the real contesting parties.",
+        "essential_elements": [
+          "Sub-rule (1)(a): early discharge of the plaintiff with costs, suit dismissed against him",
+          "Sub-rule (1)(b): discretionary retention of all parties for final disposal",
+          "Sub-rule (2): adjudication on admissions/evidence if sufficient",
+          "Sub-rule (3): issue-framing and claimant-to-plaintiff conversion where admissions are insufficient, suit proceeds in ordinary manner"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The claimant-to-plaintiff conversion under sub-rule (3)(b) effectively relabels the true contest — once converted, the suit becomes an ordinary dispute between the former defendants (now plaintiff and defendant), proceeding through normal trial procedure."
+      }
+    },
+    {
+      "number": "O-XXXV-5",
+      "title": "Agents and tenants may not institute interpleader suits",
+      "raw_text": "Nothing in this Order shall be deemed to enable agents to sue their principals, or tenants to sue their landlords, for the purpose of compelling them to interplead with any persons other than persons making claim through such principals or landlords. Illustrations: (a) A deposits a box of jewels with B as his agent. C alleges that the jewels were wrongfully obtained from him by A, and claims them from B. B cannot institute an interpleader-suit against A and C. (b) A deposits a box of jewels with B as his agent. He then writes to C for the purpose of making the jewels a security for a debt due from himself to C. A afterwards alleges that C's debt is satisfied, and C alleges the contrary. Both claim the jewels from B. B may institute an interpleader-suit against A and C.",
+      "key_terms": [
+        "agent-principal bar",
+        "tenant-landlord bar",
+        "claim-through exception"
+      ],
+      "breakdown": {
+        "plain_summary": "This Rule protects the integrity of agency and tenancy relationships by barring an agent from interpleading against their own principal, or a tenant against their own landlord, to force them to litigate against a stranger's independent claim. The bar applies only to claims not derived through the principal/landlord — illustration (a) shows a true stranger's adverse claim (C alleging wrongful taking from A) cannot ground an interpleader against the principal A; illustration (b) shows that where both rival claimants' claims genuinely derive through/relate to dealings the principal himself set up (A pledging the jewels to C, then disputing whether C's debt is satisfied), interpleader is permissible since both claims trace back to the principal's own arrangement.",
+        "essential_elements": [
+          "Bars agent-vs-principal and tenant-vs-landlord interpleader suits",
+          "Exception: permissible where the rival claims derive through/relate to the principal's or landlord's own dealings",
+          "Illustration (a): a stranger's independent adverse claim cannot be used to interplead against the principal",
+          "Illustration (b): claims both tracing to the principal's own transaction (pledge + repayment dispute) support interpleader"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The agent/tenant bar protects the principal/landlord from being dragged into litigation over a stranger's unrelated claim — but where the agent is genuinely caught between two claims both rooted in the principal's own transactions (as in illustration (b)), interpleader remains available."
+      }
+    },
+    {
+      "number": "O-XXXV-6",
+      "title": "Charge for plaintiff's costs",
+      "raw_text": "Where the suit is properly instituted the Court may provide for the costs of the original plaintiff by giving him a charge on the thing claimed or in some other effectual way.",
+      "key_terms": [
+        "costs charge on the disputed thing",
+        "effectual security for stakeholder's costs"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the interpleader suit was properly brought, the Court can secure the stakeholder-plaintiff's costs by granting a charge on the very thing in dispute (or through some other effective mechanism) — ensuring the neutral stakeholder isn't left out of pocket for having properly invoked this protective procedure.",
+        "essential_elements": [
+          "Applies only where the suit was properly instituted",
+          "Court has flexibility in the mode of securing costs — a charge on the disputed thing, or another effectual method"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A charge on the disputed property is a practically valuable form of costs security for the stakeholder, since it attaches directly to the asset ultimately awarded to the successful claimant."
+      }
+    },
+    {
+      "number": "O-XXXVI",
+      "title": "Special Case — Overview",
+      "raw_text": "ORDER XXXVI. Special case.",
+      "key_terms": [
+        "special case procedure",
+        "agreed statement of facts",
+        "case for Court's opinion",
+        "no appeal from Rule 5 decree"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXXVI lets parties who already agree on the underlying facts (or who want a clean legal/factual question resolved) bypass full-blown adversarial litigation by jointly submitting an agreed 'special case' stating the question for the Court's opinion, with a pre-agreed consequence (payment, property delivery, or an act) tied to the outcome. Filed and registered as a suit, it proceeds largely like an ordinary suit but culminates in a judgment and decree from which, uniquely, no appeal lies.",
+        "essential_elements": [
+          "Requires a written agreement between parties interested in a question of fact or law, stating the question and the consequence of the Court's finding",
+          "Case must be divided into numbered paragraphs stating facts/documents necessary to decide the question",
+          "Where the agreement involves property delivery or an act, its estimated value must be stated",
+          "Filed as an application in the Court of appropriate jurisdiction, then numbered/registered as a suit with notice to all agreement parties",
+          "Once filed, parties are bound by the agreement's statements and subject to the Court's jurisdiction",
+          "Court verifies due execution, bona fide interest, and fitness for decision before pronouncing judgment",
+          "No appeal lies from the resulting decree"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a consensual, fast-track adjudication mechanism — its defining trade-off is finality: the complete bar on appeal under Rule 6 means parties must be confident in both the agreed facts and their chosen forum's eventual ruling before opting into this procedure."
+      }
+    },
+    {
+      "number": "O-XXXVI-1",
+      "title": "Power to state case for Court's opinion",
+      "raw_text": "(1) Parties claiming to be interested in the decision of any question of fact or law may enter into an agreement in writing stating such question in the form of a case for the opinion of the Court, and providing that, upon the finding of the Court with respect to such question,— (a) a sum of money fixed by the parties or to be determined by the Court shall be paid by one of the parties to the other of them; or (b) some property, movable or immovable, specified in the agreement, shall be delivered by one of the parties to the other of them; or (c) one or more of the parties shall do, or refrain from doing, some other particular act specified in the agreement. (2) Every case stated under this rule shall be divided into consecutively numbered paragraphs, and shall concisely state such facts and specify such documents as may be necessary to enable the Court to decide the question raised thereby.",
+      "key_terms": [
+        "agreed question of fact or law",
+        "three consequence types",
+        "numbered-paragraph case statement"
+      ],
+      "breakdown": {
+        "plain_summary": "Interested parties can jointly frame any question of fact or law as a 'special case' for the Court's opinion, with the agreement pre-specifying what happens once the Court rules: a money payment (fixed or Court-determined), delivery of specified property, or performance/non-performance of a specified act. Sub-rule (2) imposes a drafting discipline — the case must be organized into consecutively numbered paragraphs concisely stating the necessary facts and documents.",
+        "essential_elements": [
+          "Written agreement among interested parties, stating the question for the Court's opinion",
+          "Three possible pre-agreed consequences: (a) money payment, (b) property delivery, (c) act or forbearance",
+          "Case statement must use consecutively numbered paragraphs",
+          "Must concisely state facts and specify documents necessary to decide the question"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The pre-agreed consequence under sub-rule (1)(a)-(c) is what gives the special case practical teeth — the Court isn't just issuing an advisory opinion, its finding automatically triggers a binding, pre-defined legal consequence."
+      }
+    },
+    {
+      "number": "O-XXXVI-2",
+      "title": "Where value of subject-matter must be stated",
+      "raw_text": "Where the agreement is for the delivery of any property, or for the doing, or the refraining from doing, any particular act, the estimated value of the property to be delivered, or to which the act specified has reference, shall be stated in the agreement.",
+      "key_terms": [
+        "estimated value disclosure",
+        "jurisdictional valuation"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the special case's consequence is property delivery or an act (rather than a straightforward money payment), the agreement must state the estimated value of that property or of the subject-matter the act relates to — this valuation feeds directly into determining which Court has jurisdiction under Rule 3.",
+        "essential_elements": [
+          "Applies specifically to property-delivery and act/forbearance consequences, not money-payment consequences",
+          "Estimated value must be stated in the agreement itself"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This valuation requirement is not a mere formality — it is the basis for identifying the correct pecuniary-jurisdiction Court under Rule 3, so an inaccurate or omitted valuation risks a jurisdictional challenge."
+      }
+    },
+    {
+      "number": "O-XXXVI-3",
+      "title": "Agreement to be filed and registered as suit",
+      "raw_text": "(1) The agreement, if framed in accordance with the rules hereinbefore contained, may be filed with an application in the Court which would have jurisdiction to entertain a suit, the amount or value of the subject-matter of which is the same as the amount or value of the subject-matter of the agreement. (2) The application, when so filed, shall be numbered and registered as a suit between one or more of the parties claiming to be interested as plaintiff or plaintiffs, and the other or the others of them as defendant or defendants; and notice shall be given to all the parties to the agreement, other than the party or parties by whom the application was presented.",
+      "key_terms": [
+        "jurisdiction by agreement's subject-matter value",
+        "numbered and registered as a suit",
+        "notice to non-presenting parties"
+      ],
+      "breakdown": {
+        "plain_summary": "The properly framed agreement is filed with an application in whichever Court would have jurisdiction over an ordinary suit of the same subject-matter value — the Rule 2 valuation requirement directly determines this. Once filed, it's formally numbered and registered as a suit, with some agreement parties designated plaintiff(s) and others defendant(s), and notice issued to every agreement party except whoever actually presented the application.",
+        "essential_elements": [
+          "Jurisdiction determined by the agreement's stated subject-matter value, as if it were an ordinary suit",
+          "Application is numbered/registered as a suit upon filing",
+          "Parties are allocated as plaintiff(s)/defendant(s)",
+          "Notice goes to all agreement parties except the presenting party/parties"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat the Rule 2 valuation as doing double duty — it is both a disclosure requirement and the jurisdictional anchor that determines exactly which Court can receive the Rule 3 filing."
+      }
+    },
+    {
+      "number": "O-XXXVI-4",
+      "title": "Parties to be subject to Court's jurisdiction",
+      "raw_text": "Where the agreement has been filed, the parties to it shall be subject to the jurisdiction of the Court and shall be bound by the statements contained therein.",
+      "key_terms": [
+        "submission to jurisdiction",
+        "binding effect of agreed statements"
+      ],
+      "breakdown": {
+        "plain_summary": "Once filed, the special-case agreement has an immediate binding effect — all parties to it submit to the Court's jurisdiction and are bound by the facts/statements the agreement contains, foreclosing any later attempt to dispute those agreed statements.",
+        "essential_elements": [
+          "Filing triggers submission to the Court's jurisdiction for all agreement parties",
+          "Agreement's statements become binding on all parties"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This binding effect is precisely why careful drafting of the agreed facts under Rule 1(2) matters so much — once filed, a party cannot walk back an inaccurate or incomplete factual statement in the case."
+      }
+    },
+    {
+      "number": "O-XXXVI-5",
+      "title": "Hearing and disposal of case",
+      "raw_text": "(1) The case shall be set down for hearing as a suit instituted in the ordinary manner, and the provisions of this Code shall apply to such suit so far as the same are applicable. (2) Where the Court is satisfied, after examination of the parties, or after taking such evidence as it thinks fit— (a) that the agreement was duly executed by them, (b) that they have a bona fide interest in the question stated therein, and (c) that the same is fit to be decided, it shall proceed to pronounce judgment thereon, in the same way as in an ordinary suit, and upon the judgment so pronounced a decree shall follow.",
+      "key_terms": [
+        "hearing as ordinary suit",
+        "three-fold satisfaction test",
+        "judgment and decree"
+      ],
+      "breakdown": {
+        "plain_summary": "Procedurally, the special case is heard like any ordinary suit, with the Code's general provisions applying so far as relevant. But before actually pronouncing judgment, the Court must satisfy itself on three things — through party examination or whatever evidence it thinks fit: that the agreement was genuinely duly executed, that the parties have a bona fide (not contrived or collusive) interest in the stated question, and that the question is actually fit to be decided this way. Once satisfied, judgment follows as in an ordinary suit, and a decree follows the judgment.",
+        "essential_elements": [
+          "Sub-rule (1): heard as an ordinary suit, Code provisions apply so far as applicable",
+          "Sub-rule (2)(a): due execution of the agreement",
+          "Sub-rule (2)(b): bona fide interest of the parties in the stated question",
+          "Sub-rule (2)(c): the question's fitness for this mode of decision",
+          "Judgment pronounced as in an ordinary suit, decree follows"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The bona fide interest and fitness-for-decision checks are the Court's safeguard against collusive or contrived 'special cases' engineered to secure a quick, appeal-proof binding ruling on a manufactured dispute — a Court unsatisfied on any of the three limbs should decline to proceed under this Rule."
+      }
+    },
+    {
+      "number": "O-XXXVI-6",
+      "title": "No appeal from a decree passed under rule 5",
+      "raw_text": "No appeal shall lie from a decree passed under rule 5.",
+      "key_terms": [
+        "appeal bar",
+        "finality of special-case decree"
+      ],
+      "breakdown": {
+        "plain_summary": "A decree resulting from the special-case procedure is final and cannot be appealed — the complete trade-off parties accept in exchange for the speed and consensual nature of this streamlined adjudication route.",
+        "essential_elements": [
+          "Absolute statutory bar on appeal from a Rule 5 decree"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Advise clients considering the special-case route that this finality is categorical, not merely discretionary — there is no appellate safety net if the Court's decision on the agreed question turns out unfavourably."
+      }
     }
   ]
 }
