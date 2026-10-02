@@ -14408,6 +14408,282 @@
         ],
         "how_to_read": "A decree-holder whose execution application is dismissed but who intends to file afresh should immediately seek an express continuation direction under this rule — relying on silence risks the attachment automatically lapsing."
       }
+    },
+    {
+      "number": "O-XXI-58",
+      "title": "Adjudication of claims to or objections to attachment of, property",
+      "raw_text": "(1) Where any claim is preferred to, or any objection is made to the attachment of, any property attached in execution of a decree on the ground that such property is not liable to such attachment, the Court shall proceed to adjudicate upon the claim or objection in accordance with the provisions herein contained: Provided that no such claim or objection shall be entertained— (a) where, before the claim is preferred or objection is made, the property attached has already been sold; or (b) where the Court considers that the claim or objection was designedly or unnecessarily delayed. (2) All questions (including questions relating to right, title or interest in the property attached) arising between the parties to a proceeding or their representatives under this rule and relevant to the adjudication of the claim or objection, shall be determined by the Court dealing with the claim or objection and not by a separate suit. (3) Upon the determination of the questions referred to in sub-rule (2), the Court shall, in accordance with such determination,— (a) allow the claim or objection and release the property from attachment either wholly or to such extent as it thinks fit; or (b) disallow the claim or objection; or (c) continue the attachment subject to any mortgage, charge or other interest in favour of any person; or (d) pass such order as in the circumstances of the case it deems fit. (4) Where any claim or objection has been adjudicated upon under this rule, order made thereon shall have the same force and be subject to the same conditions as to appeal or otherwise as if it were a decree. (5) Where a claim or an objection is preferred and the Court, under the proviso to sub-rule (1), refuses to entertain it, the party against whom such order is made may institute a suit to establish the right which he claims to the property in dispute; but, subject to the result of such suit, if any, an order so refusing to entertain the claim or objection shall be conclusive.",
+      "key_terms": [
+        "claim petition",
+        "objection to attachment",
+        "designedly delayed",
+        "conclusive order",
+        "deemed decree",
+        "release from attachment"
+      ],
+      "breakdown": {
+        "plain_summary": "A third party (or even a co-judgment-debtor) who says 'that property you attached isn't the judgment-debtor's to lose' can file a claim petition. The executing Court itself decides it — summarily, like a mini-trial — instead of the claimant having to file a fresh suit. The order the Court passes is treated as if it were a decree, so it is appealable in its own right.",
+        "essential_elements": [
+          "A claim or objection is preferred to property attached in execution",
+          "The claim is made on the ground that the property is not liable to attachment (typically third-party ownership or an exempt-property claim)",
+          "The executing Court itself adjudicates all questions of right, title, or interest relevant to the claim — no separate suit is required or permitted",
+          "The Court's order can allow, disallow, conditionally continue the attachment, or pass any other fit order",
+          "An order under this rule has the force of a decree, including appealability"
+        ],
+        "exceptions_and_qualifications": [
+          "The claim/objection will not even be entertained if the property has already been sold before it was raised",
+          "It will also be refused entertainment if the Court finds it was designedly or unnecessarily delayed — a device to stall execution",
+          "Where entertainment is refused under the proviso, the aggrieved party is not shut out entirely — a separate suit to establish title remains open, though the refusal order is otherwise conclusive"
+        ],
+        "how_to_read": "This is the 1976-amendment replacement of the old 'investigation of claims' scheme (old Rules 58-63). The key structural change practitioners must remember: a separate suit after adjudication is now barred (sub-rule (2)) except in the narrow sub-rule (5) situation where the claim was never entertained at all on a threshold ground. Read it with Rule 59 (stay of sale pending adjudication) and Order XXI Rule 90 (setting aside sale) for the full claimant toolkit."
+      }
+    },
+    {
+      "number": "O-XXI-59",
+      "title": "Stay of sale",
+      "raw_text": "Where before the claim was preferred or the objection was made, the property attached had already been advertised for sale, the Court may— (a) if the property is movable, make an order postponing the sale pending the adjudication of the claim or objection, or (b) if the property is immovable, make an order that, pending the adjudication of the claim or objection, the property shall not be sold, or that pending such adjudication, the property may be sold but the sale shall not be confirmed, and any such order may be made subject to such terms and conditions as to security or otherwise as the Court thinks fit.",
+      "key_terms": [
+        "stay of sale",
+        "postponement",
+        "sale without confirmation",
+        "security"
+      ],
+      "breakdown": {
+        "plain_summary": "Filing a claim under Rule 58 doesn't automatically freeze a sale that has already been advertised. The claimant must separately ask the Court to stay it — and the Court can choose a middle path for immovable property: let the auction happen but withhold confirmation until the claim is decided, so time isn't lost either way.",
+        "essential_elements": [
+          "Applies only where the property had already been advertised for sale before the claim/objection was raised",
+          "For movable property, the Court's only real option is to postpone the sale itself",
+          "For immovable property, the Court has two options: stop the sale outright, or let it proceed but withhold confirmation pending adjudication",
+          "Any stay order may be conditioned on security or other terms"
+        ],
+        "exceptions_and_qualifications": [
+          "This rule is discretionary ('the Court may') — a claimant is not entitled to a stay as of right merely by filing an objection"
+        ],
+        "how_to_read": "Practitioners should ask specifically for the 'sale may proceed but not be confirmed' variant for immovable property when time is short — it avoids giving the judgment-debtor or auction-purchaser a limitation-driven advantage while the claim is pending, and keeps the eventual buyer pool from evaporating due to delay."
+      }
+    },
+    {
+      "number": "O-XXI-64",
+      "title": "Power to order property attached to be sold and proceeds to be paid to person entitled",
+      "raw_text": "Any Court executing a decree may order that any property attached by it and liable to sale, or such portion thereof as may seem necessary to satisfy the decree, shall be sold, and that the proceeds of such sale, or a sufficient portion thereof, shall be paid to the party entitled under the decree to receive the same.",
+      "key_terms": [
+        "order for sale",
+        "proceeds of sale",
+        "portion sufficient to satisfy decree"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the trigger rule that converts attachment into sale. The Court need not order the whole property sold — only as much as is necessary to satisfy the decree.",
+        "essential_elements": [
+          "The executing Court may order sale of attached property that is liable to sale",
+          "Only so much of the property as is necessary to satisfy the decree need be sold",
+          "Sale proceeds go to the decree-holder"
+        ],
+        "exceptions_and_qualifications": [
+          "The power is confined to property already attached and liable to sale — exempt property under Section 60 remains outside its reach"
+        ],
+        "how_to_read": "In partial-satisfaction scenarios, always ask the Court to limit the sale order to the minimum portion necessary — over-selling attached property invites a Rule 90 set-aside application from the judgment-debtor on grounds of material irregularity causing substantial loss."
+      }
+    },
+    {
+      "number": "O-XXI-65",
+      "title": "Sales by whom conducted and how made",
+      "raw_text": "Save as otherwise prescribed, every sale in execution of a decree shall be conducted by an officer of the Court or by such other person as the Court may appoint in this behalf, and shall be made by public auction in manner prescribed.",
+      "key_terms": [
+        "court officer",
+        "public auction",
+        "appointed person"
+      ],
+      "breakdown": {
+        "plain_summary": "Execution sales are court-controlled, public-auction events — not private, negotiated sales — unless the Rules specifically provide otherwise (as with negotiable instruments/shares under Rule 76).",
+        "essential_elements": [
+          "The sale must be conducted by a Court officer or a person appointed by the Court for that purpose",
+          "The sale must be by public auction, in the manner prescribed by the Rules"
+        ],
+        "exceptions_and_qualifications": [
+          "The default is displaced wherever the Code itself prescribes a different mode — e.g., Rule 76 permits sale of negotiable instruments/shares through a broker instead of public auction"
+        ],
+        "how_to_read": "Verify the identity and authority of the person conducting the sale when challenging an execution sale — conduct by an unauthorized person is a classic ground under Rule 90, though it still must show material irregularity and substantial injury to succeed."
+      }
+    },
+    {
+      "number": "O-XXI-66",
+      "title": "Proclamation of sales by public auction",
+      "raw_text": "(1) Where any property is ordered to be sold by public auction in execution of a decree, the Court shall cause a proclamation of the intended sale to be made in the language of such Court. (2) Such proclamation shall be drawn up after notice to the decree-holder and the judgment-debtor and shall state the time and place of sale, and specify as fairly and accurately as possible— (a) the property to be sold, or, where a part of the property would be sufficient to satisfy the decree, such part; (b) the revenue assessed upon the estate or part of the estate, where the property to be sold is an interest in an estate or in part of an estate paying revenue to the Government; (c) any incumbrance to which the property is liable; (d) the amount for the recovery of which the sale is ordered; and (e) every other thing which the Court considers material for a purchaser to know in order to judge of the nature and value of the property: Provided that where notice of the date for settling the terms of the proclamation has been given to the judgment-debtor by means of an order under rule 54, it shall not be necessary to give notice under this rule to the judgment-debtor unless the Court otherwise directs: Provided further that nothing in this rule shall be construed as requiring the Court to enter in the proclamation of sale its own estimate of the value of the property, but the proclamation shall include the estimate, if any, given by either or both of the parties. (3) Every application for an order for sale under this rule shall be accompanied by a statement signed and verified in the manner hereinbefore prescribed for the signing and verification of pleadings and containing, so far as they are known to or can be ascertained by the person making the verification, the matters required by sub-rule (2) to be specified in the proclamation. (4) For the purpose of ascertaining the matters to be specified in the proclamation, the Court may summon any person whom it thinks necessary to summon and may examine him in respect to any such matters and require him to produce any document in his possession or power relating thereto.",
+      "key_terms": [
+        "proclamation of sale",
+        "incumbrance",
+        "estimate of value",
+        "verified statement",
+        "notice to judgment-debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "The proclamation is the public 'advertisement' of the sale — but it is far more than that legally: it is the document that fixes what bidders are told about the property, and defects in it (wrong description, suppressed incumbrance, inflated or deflated value) are the single most litigated ground for setting aside execution sales.",
+        "essential_elements": [
+          "A formal proclamation must be made in the Court's language before any public-auction sale",
+          "Notice of settling the proclamation's terms must ordinarily go to both decree-holder and judgment-debtor",
+          "The proclamation must fairly and accurately specify the property (or sufficient part), revenue assessment, incumbrances, the decretal amount, and anything else material to a purchaser's judgment of value",
+          "The application for sale must be accompanied by a verified statement covering these same particulars",
+          "The Court may summon and examine persons, and call for documents, to ascertain proclamation particulars"
+        ],
+        "exceptions_and_qualifications": [
+          "If the judgment-debtor was already given notice under Rule 54 for settling the proclamation, fresh notice under this rule is unnecessary unless the Court directs otherwise",
+          "The Court itself is not obliged to fix or enter its own valuation estimate — it need only include whatever estimate either party has given"
+        ],
+        "how_to_read": "A judgment-debtor resisting an unfair sale should scrutinize the proclamation line by line: an under-stated valuation or an omitted incumbrance, if shown to have caused substantial injury, is textbook Rule 90 territory. Conversely, a decree-holder should insist all particulars are accurate and complete to sale-proof the auction against later challenge."
+      }
+    },
+    {
+      "number": "O-XXI-67",
+      "title": "Mode of making proclamation",
+      "raw_text": "(1) Every proclamation shall be made and published, as nearly as may be, in the manner prescribed by rule 54, sub-rule (2). (2) Where the Court so directs, such proclamation shall also be published in the Official Gazette or in a local newspaper, or in both, and the costs of such publication shall be deemed to be costs of the sale. (3) Where property is divided into lots for the purpose of being sold separately, it shall not be necessary to make a separate proclamation for each lot, unless proper notice of the sale cannot, in the opinion of the Court, otherwise be given.",
+      "key_terms": [
+        "mode of publication",
+        "official gazette",
+        "lots"
+      ],
+      "breakdown": {
+        "plain_summary": "This tells you how the Rule 66 proclamation must physically be put out into the world — beat of drum/affixture as under Rule 54, plus optional newspaper/Gazette publicity the Court can order (at the sale's expense), and a practical carve-out for lotted sales.",
+        "essential_elements": [
+          "Publication follows the Rule 54(2) mode (affixture at the court-house and on the property, etc.)",
+          "The Court may additionally direct Official Gazette or local-newspaper publication; its cost is added to sale costs",
+          "Lotted property need not have a separate proclamation per lot unless adequate notice otherwise requires it"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "For high-value immovable property, actively request Gazette/newspaper publication under sub-rule (2) — wider publicity both maximizes the sale price for the decree-holder and insulates the sale from a later 'inadequate publicity' challenge by the judgment-debtor."
+      }
+    },
+    {
+      "number": "O-XXI-68",
+      "title": "Time of sale",
+      "raw_text": "Save in the case of property of the kind described in the proviso to rule 43, no sale hereunder shall, without the consent in writing of the judgment-debtor, take place until after the expiration of at least fifteen days in the case of immovable property, and of at least seven days in the case of movable property, calculated from the date on which the copy of the proclamation has been affixed on the court-house of the Judge ordering the sale.",
+      "key_terms": [
+        "minimum notice period",
+        "fifteen days",
+        "seven days",
+        "consent in writing"
+      ],
+      "breakdown": {
+        "plain_summary": "A cooling-off period is mandatory before any sale can happen — fifteen clear days for immovable property, seven for movable — measured from when the proclamation copy was affixed at the court-house, giving bidders and the judgment-debtor time to prepare, object, or arrange funds.",
+        "essential_elements": [
+          "Minimum fifteen days before sale of immovable property",
+          "Minimum seven days before sale of movable property",
+          "Time runs from affixture of the proclamation copy on the court-house"
+        ],
+        "exceptions_and_qualifications": [
+          "The minimum period can be waived by the judgment-debtor's written consent",
+          "Perishable/speedy-decay property falling under the Rule 43 proviso is exempt from this minimum-notice requirement altogether"
+        ],
+        "how_to_read": "A sale held before the statutory minimum period has elapsed, without the judgment-debtor's written consent, is a material irregularity ripe for a Rule 90 challenge — always check the affixture date against the sale date first when reviewing an execution sale."
+      }
+    },
+    {
+      "number": "O-XXI-69",
+      "title": "Adjournment or stoppage of sale",
+      "raw_text": "(1) The Court may, in its discretion, adjourn any sale hereunder to a specified day and hour, and the officer conducting any such sale may in his discretion adjourn the sale, recording his reasons for such adjournment: Provided that, where the sale is made in, or within the precincts of, the court-house, no such adjournment shall be made without the leave of the Court. (2) Where a sale is adjourned under sub-rule (1) for a longer period than thirty days a fresh proclamation under rule 67 shall be made, unless the judgment-debtor consents to waive it. (3) Every sale shall be stopped if, before the lot is knocked down, the debt and costs (including the costs of the sale) are tendered to the officer conducting the sale, or proof is given to his satisfaction that the amount of such debt and costs has been paid into the Court which ordered the sale.",
+      "key_terms": [
+        "adjournment",
+        "stoppage of sale",
+        "knocked down",
+        "tender of debt and costs"
+      ],
+      "breakdown": {
+        "plain_summary": "Three distinct safety valves: the Court or the conducting officer can postpone a sale for good reason; a long adjournment (over thirty days) resets the clock with a fresh proclamation; and — most importantly for a judgment-debtor who has finally found the money — the sale must stop the instant the decretal debt and costs are tendered, right up until the hammer actually falls.",
+        "essential_elements": [
+          "Both the Court and the sale-conducting officer have discretion to adjourn, with reasons to be recorded by the officer",
+          "Adjournment of a courthouse sale needs the Court's leave",
+          "An adjournment beyond thirty days requires a fresh Rule 67 proclamation unless the judgment-debtor waives it",
+          "Mandatory stoppage on tender (or proof of Court-deposit) of the debt and costs, any time before the lot is knocked down"
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (3)'s stoppage right is time-limited — once the lot is knocked down (the auctioneer's hammer falls / bid accepted), tender is too late"
+        ],
+        "how_to_read": "A judgment-debtor racing to save property from auction must tender funds to the officer conducting the sale (not merely promise to pay) before the final bid is accepted — this is an absolute, non-discretionary stoppage right and one of the most powerful last-minute tools in execution practice."
+      }
+    },
+    {
+      "number": "O-XXI-71",
+      "title": "Defaulting purchaser answerable for loss on re-sale",
+      "raw_text": "Any deficiency of price which may happen on a re-sale by reason of the purchaser's default, and all expenses attending such re-sale, shall be certified to the Court by the officer or other person holding the sale, and shall, at the instance of either the decree-holder or the judgment-debtor, be recoverable from the defaulting purchaser under the provisions relating to the execution of a decree for the payment of money.",
+      "key_terms": [
+        "defaulting purchaser",
+        "deficiency on re-sale",
+        "certified to Court"
+      ],
+      "breakdown": {
+        "plain_summary": "If an auction-purchaser wins the bid but then fails to pay up, the property is re-sold — and if it fetches less the second time, that shortfall (plus the re-sale's expenses) is recovered from the defaulting purchaser, as if it were itself a money decree against him.",
+        "essential_elements": [
+          "Applies when a purchaser defaults on payment, triggering a re-sale under Rule 77(1) (for movables) or the analogous immovable-property process",
+          "The shortfall and re-sale expenses are certified to the Court by the officer who held the sale",
+          "Either the decree-holder or the judgment-debtor may apply to recover this amount from the defaulting purchaser",
+          "Recovery proceeds as if executing a money decree"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a potent deterrent practitioners should remind reluctant or speculative bidders about — a defaulting bid is not a free option to test the market; it carries real monetary exposure if the re-sale price is lower."
+      }
+    },
+    {
+      "number": "O-XXI-72",
+      "title": "Decree holder not to bid for or buy property without permission",
+      "raw_text": "(1) No holder of a decree in execution of which property is sold shall, without the express permission of the Court, bid for or purchase the property. (2) Where decree-holder purchases, amount of decree may be taken as payment.—Where a decree-holder purchases with such permission, the purchase-money and the amount due on the decree may, subject to the provisions of section 73, be set off against one another, and the Court executing the decree shall enter up satisfaction of the decree in whole or in part accordingly. (3) Where a decree-holder purchases, by himself or through another person, without such permission, the Court may, if it thinks fit, on the application of the judgment-debtor or any other person whose interests are affected by the sale, by order set aside the sale; and the costs of such application and order, and any deficiency of price which may happen on the re-sale and all expenses attending it, shall be paid by the decree-holder.",
+      "key_terms": [
+        "decree-holder as purchaser",
+        "leave of Court",
+        "set-off of purchase money",
+        "set aside sale"
+      ],
+      "breakdown": {
+        "plain_summary": "A decree-holder cannot quietly buy up the very property being sold to satisfy his own decree — that invites collusion and depressed bidding. He needs the Court's express leave first; if he gets it, the purchase price can simply be set off against what's owed to him instead of changing hands twice.",
+        "essential_elements": [
+          "Decree-holder purchase requires the Court's express permission",
+          "With permission, purchase-money and the decretal amount may be set off (subject to Section 73's rateable-distribution rule), and satisfaction entered accordingly",
+          "Without permission — whether bidding personally or through a benami/another person — the sale is liable to be set aside on application by the judgment-debtor or any affected person",
+          "If set aside, the decree-holder bears the costs of the application and any deficiency plus expenses on re-sale"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always obtain written leave to bid before a decree-holder client participates in his own execution sale — an unauthorised purchase, even through a proxy, hands the judgment-debtor a ready-made ground to unwind the sale at the decree-holder's expense."
+      }
+    },
+    {
+      "number": "O-XXI-72A",
+      "title": "Mortgagee not to bid at sale without the leave of the Court",
+      "raw_text": "(1) Notwithstanding anything contained in rule 72, a mortgagee of immovable property shall not bid for or purchase property sold in execution of a decree on the mortgage unless the Court grants him leave to bid for or purchase the property. (2) If leave to bid is granted to such mortgagee, then the Court shall fix a reserve price as regards the mortgagee, and unless the Court otherwise directs, the reserve price shall be— (a) not less than the amount then due for principal, interest and costs in respect of the mortgage if the property is sold in one lot; and (b) in the case of any property sold in lots, not less than such sum as shall appear to the Court to be properly attributable to each lot in relation to the amount then due for principal, interest and costs on the mortgage. (3) In other respects, the provisions of sub-rules (2) and (3) of rule 72 shall apply in relation to purchase by the decree-holder under that rule.",
+      "key_terms": [
+        "mortgagee as purchaser",
+        "reserve price",
+        "mortgage decree sale"
+      ],
+      "breakdown": {
+        "plain_summary": "A special, stricter version of Rule 72 for mortgagee decree-holders: not only does a mortgagee need leave to bid, but the Court must additionally fix a reserve price — tied to what is actually owed on the mortgage — so the mortgagee cannot buy back the secured property at a bargain below his own dues.",
+        "essential_elements": [
+          "Applies specifically to a mortgagee selling mortgaged immovable property in execution of a decree on the mortgage",
+          "Leave of Court to bid/purchase is mandatory, overriding Rule 72's general permission scheme for this special case",
+          "Where leave is granted, the Court must fix a reserve price — ordinarily not less than principal, interest, and costs due (apportioned by lot, if lotted)",
+          "Rule 72(2) and (3) (set-off of purchase money against the decree; power to set aside an unauthorised purchase) otherwise apply"
+        ],
+        "exceptions_and_qualifications": [
+          "The Court may direct a different reserve-price formula than the default principal-plus-interest-plus-costs rule"
+        ],
+        "how_to_read": "In mortgage-decree executions, always check whether a reserve price was actually fixed before the mortgagee-decree-holder's bid was accepted — its absence is a direct statutory violation distinct from, and in addition to, the general Rule 90 irregularity grounds."
+      }
+    },
+    {
+      "number": "O-XXI-73",
+      "title": "Restriction on bidding or purchase by officers",
+      "raw_text": "No officer or other person having any duty to perform in connection with any sale shall, either directly or indirectly, bid for, acquire or attempt to acquire any interest in the property sold.",
+      "key_terms": [
+        "conflict of interest",
+        "sale officer",
+        "prohibited purchase"
+      ],
+      "breakdown": {
+        "plain_summary": "Anyone running or assisting the sale — auctioneer, court officer, clerk — is flatly barred from buying the property themselves, directly or through a front, because that is an obvious conflict of interest that could taint the fairness of the auction.",
+        "essential_elements": [
+          "The bar covers anyone with a duty to perform in connection with the sale",
+          "It prohibits bidding, acquiring, or even attempting to acquire any interest in the property, whether directly or indirectly"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A sale conducted where the auctioning officer himself (or his benamidar) ends up as purchaser is void on this ground alone — flag it immediately as a threshold defect rather than arguing it merely as an irregularity under Rule 90."
+      }
     }
   ]
 }
