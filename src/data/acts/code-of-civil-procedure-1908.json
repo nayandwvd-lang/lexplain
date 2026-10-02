@@ -14856,6 +14856,326 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "Use this residuary rule for unusual movable assets (intellectual property rights, unusual contractual entitlements, etc.) where no specific delivery mechanism exists elsewhere in the Order — a vesting order avoids arguing by analogy from the wrong specific rule."
       }
+    },
+    {
+      "number": "O-XXI-82",
+      "title": "What Court may order sales",
+      "raw_text": "Sales of immovable property in execution of decrees may be ordered by any Court other than a Court of Small Causes.",
+      "key_terms": [
+        "immovable property sale",
+        "Court of Small Causes bar"
+      ],
+      "breakdown": {
+        "plain_summary": "A jurisdictional gatekeeper: Courts of Small Causes — designed for quick, low-value money disputes — are not permitted to order sales of immovable property in execution; that power is reserved to ordinary civil Courts.",
+        "essential_elements": [
+          "Any Court may order an execution sale of immovable property except a Court of Small Causes"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If an execution decree from a Small Causes Court needs immovable property sold to satisfy it, the execution must be transferred to (or taken up by) an ordinary civil Court with jurisdiction — flag this threshold issue early."
+      }
+    },
+    {
+      "number": "O-XXI-83",
+      "title": "Postponement of sale to enable judgment-debtor to raise amount of decree",
+      "raw_text": "(1) Where an order for the sale of immovable property has been made, if the judgment-debtor can satisfy the Court that there is reason to believe that the amount of the decree may be raised by the mortgage or lease or private sale of such property, or some part thereof, or of any other immovable property of the judgment-debtor, the Court may, on his application, postpone the sale of the property comprised in the order for sale on such terms and for such period as it thinks proper, to enable him to raise the amount. (2) In such case the Court shall grant a certificate to the judgment-debtor authorizing him within a period to be mentioned therein, and notwithstanding anything contained in section 64, to make the proposed mortgage, lease or sale: Provided that all moneys payable under such mortgage, lease or sale shall be paid, not to the judgment-debtor, but, save in so far as a decree-holder is entitled to set-off such money under the provisions of rule 72, into Court: Provided also that no mortgage, lease or sale under this rule shall become absolute until it has been confirmed by the Court. (3) Nothing in this rule shall be deemed to apply to a sale of property directed to be sold in execution of a decree for sale in enforcement of a mortgage of, or charge on, such property.",
+      "key_terms": [
+        "postponement to raise funds",
+        "certificate authorizing private sale",
+        "Section 64 override",
+        "confirmation requirement"
+      ],
+      "breakdown": {
+        "plain_summary": "A judgment-debtor who believes he can raise the decretal amount himself — by privately mortgaging, leasing, or selling the property (or other property he owns) — can ask the Court to pause the auction and give him a certificate permitting exactly that, even overriding the normal bar on dealing with attached property under Section 64. But the money must go into Court, not into his pocket, and the private deal itself needs the Court's final confirmation.",
+        "essential_elements": [
+          "Judgment-debtor must satisfy the Court there is reason to believe the decretal amount can be raised through private mortgage, lease, or sale",
+          "The Court may postpone the ordered sale on terms and for a period it thinks proper",
+          "A certificate is issued authorizing the private transaction notwithstanding Section 64's general attachment bar",
+          "Proceeds must be paid into Court (subject to the decree-holder's Rule 72 set-off entitlement), not to the judgment-debtor directly",
+          "The private mortgage/lease/sale does not become absolute until confirmed by the Court"
+        ],
+        "exceptions_and_qualifications": [
+          "This rule does not apply where the sale itself is in execution of a mortgage-enforcement decree for sale of that very property"
+        ],
+        "how_to_read": "This is a valuable breathing-room tool for a judgment-debtor client with realizable assets — but counsel them that the relief is discretionary, time-bound, and ultimately supervised: the Court controls both the proceeds and the confirmation, so it is not a way to simply delay execution indefinitely."
+      }
+    },
+    {
+      "number": "O-XXI-84",
+      "title": "Deposit by purchaser and re-sale on default",
+      "raw_text": "(1) On every sale of immovable property the person declared to be the purchaser shall pay immediately after such declaration a deposit of twenty-five per cent. on the amount of his purchase-money to the officer or other person conducting the sale, and in default of such deposit, the property shall forthwith be re-sold. (2) Where the decree-holder is the purchaser and is entitled to set-off the purchase-money under rule 72, the Court may dispense with the requirements of this rule.",
+      "key_terms": [
+        "25% deposit",
+        "immediate payment",
+        "forthwith re-sale",
+        "set-off exemption"
+      ],
+      "breakdown": {
+        "plain_summary": "The winning bidder for immovable property must put down 25% of the price on the spot — not days later. Fail to do so, and the property goes straight back up for auction, no second chances. A decree-holder purchasing with set-off rights can be excused this deposit since the set-off already secures the price.",
+        "essential_elements": [
+          "Successful bidder must deposit 25% of the purchase price immediately on being declared the purchaser",
+          "Default in depositing triggers immediate re-sale",
+          "The Court may waive this requirement for a decree-holder purchaser entitled to set-off under Rule 72"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Advise any bidding client to have 25% of their maximum intended bid available in liquid, immediately deployable form before the auction — 'immediately after declaration' leaves no room for arranging funds after the fact."
+      }
+    },
+    {
+      "number": "O-XXI-85",
+      "title": "Time for payment in full of purchase money",
+      "raw_text": "The full amount of purchase-money payable shall be paid by the purchaser into Court before the Court closes on the fifteenth day from the sale of the property: Provided that, in calculating the amount to be so paid into Court, the purchaser shall have the advantage of any set-off to which he may be entitled under rule 72.",
+      "key_terms": [
+        "fifteen-day payment deadline",
+        "balance purchase money",
+        "set-off credit"
+      ],
+      "breakdown": {
+        "plain_summary": "After the 25% deposit, the purchaser has a hard fifteen-day window (from the sale date) to pay the remaining balance into Court — with credit given for any Rule 72 set-off a decree-holder purchaser may be entitled to.",
+        "essential_elements": [
+          "Full balance purchase-money must be paid into Court by close of business on the fifteenth day from the sale",
+          "A purchaser entitled to Rule 72 set-off gets credit for that amount when calculating the balance due"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Calendar the fifteenth day precisely from the sale date (not the confirmation date) when advising a purchaser client — missing it triggers the Rule 86 forfeiture-and-re-sale consequences regardless of good intentions."
+      }
+    },
+    {
+      "number": "O-XXI-86",
+      "title": "Procedure in default of payment",
+      "raw_text": "In default of payment within the period mentioned in the last preceding rule, the deposit may, if the Court thinks fit, after defraying the expenses of the sale, be forfeited to the Government, and the property shall be re-sold, and the defaulting purchaser shall forfeit all claim to the property or to any part of the sum for which it may subsequently be sold.",
+      "key_terms": [
+        "forfeiture of deposit",
+        "re-sale",
+        "forfeiture of claim"
+      ],
+      "breakdown": {
+        "plain_summary": "Miss the fifteen-day deadline, and the consequences bite hard: the 25% deposit can be forfeited to the Government (after covering sale expenses), the property is re-sold, and the defaulting purchaser loses all claim — including any claim to share in a higher price the re-sale might fetch.",
+        "essential_elements": [
+          "Non-payment within the Rule 85 period allows forfeiture of the deposit to the Government, after sale expenses are deducted",
+          "The property is then re-sold",
+          "The defaulting purchaser forfeits all claim to the property and to any part of the re-sale proceeds"
+        ],
+        "exceptions_and_qualifications": [
+          "Forfeiture is discretionary ('if the Court thinks fit') — not automatic"
+        ],
+        "how_to_read": "This dovetails with Rule 71's deficiency-recovery provision: a defaulting purchaser faces a double exposure — losing the deposit under this rule and being separately liable for any price shortfall on re-sale under Rule 71."
+      }
+    },
+    {
+      "number": "O-XXI-87",
+      "title": "Notification on re-sale",
+      "raw_text": "Every re-sale of immovable property, in default of payment of the purchase-money within the period allowed for such payment, shall be made after the issue of fresh proclamation in the manner and for the period hereinbefore prescribed for the sale.",
+      "key_terms": [
+        "fresh proclamation",
+        "re-sale procedure"
+      ],
+      "breakdown": {
+        "plain_summary": "A re-sale triggered by a defaulting purchaser is not a quick redo — it must go through the full proclamation process again, just like an original sale.",
+        "essential_elements": [
+          "Re-sale for default of payment requires a fresh proclamation",
+          "That proclamation must follow the same manner and minimum time period as an original sale"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Don't let a decree-holder client assume a re-sale can be rushed through informally — skipping the fresh-proclamation requirement reintroduces exactly the kind of irregularity that invites a Rule 90 challenge from the new purchaser or the judgment-debtor."
+      }
+    },
+    {
+      "number": "O-XXI-88",
+      "title": "Bid of co-sharer to have preference",
+      "raw_text": "Where the property sold is a share of undivided immovable property and two or more persons, of whom one is a co-sharer, respectively bid the same sum for such property or for any lot, the bid shall be deemed to be the bid of the co-sharer.",
+      "key_terms": [
+        "co-sharer preference",
+        "undivided property",
+        "tied bid"
+      ],
+      "breakdown": {
+        "plain_summary": "Mirroring Rule 77(3) for movables, this gives a co-sharer of undivided immovable property the benefit of the doubt on a tied highest bid — keeping the property within the existing co-ownership rather than letting an outsider in by coincidence of an equal bid.",
+        "essential_elements": [
+          "Applies to sale of a share in undivided immovable property",
+          "Where a co-sharer and another bidder tie for the highest bid, the bid is deemed to be the co-sharer's"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always confirm co-sharer status on record before the auction so this preference can be invoked immediately if a tie occurs — proving co-ownership after the fact, once the hammer has fallen to someone else, is far harder."
+      }
+    },
+    {
+      "number": "O-XXI-89",
+      "title": "Application to set aside sale on deposit",
+      "raw_text": "(1) Where immovable property has been sold in execution of a decree, any person claiming an interest in the property sold at the time of the sale or at the time of making the application, or acting for or in the interest of such person, may apply to have the sale set aside on his depositing in Court,— (a) for payment to the purchaser, a sum equal to five per cent. of the purchase-money, and (b) for payment, to the decree-holder, the amount specified in the proclamation of sale as that for the recovery of which the sale was ordered, less any amount which may, since the date of such proclamation of sale, have been received by the decree-holder. (2) Where a person applies under rule 90 to set aside the sale of his immovable property, he shall not, unless he withdraws his application, be entitled to make or prosecute an application under this rule. (3) Nothing in this rule shall relieve the judgment-debtor from any liability he may be under in respect of costs and interest not covered by the proclamation of sale.",
+      "key_terms": [
+        "set aside on deposit",
+        "5% to purchaser",
+        "full decretal amount to decree-holder",
+        "no-fault remedy"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a 'pay your way out' remedy — no need to prove any irregularity or fraud. Anyone with an interest in the property (classically the judgment-debtor, but also others) can simply undo the sale by depositing 5% of the purchase price for the purchaser's trouble, plus the full decretal amount for the decree-holder.",
+        "essential_elements": [
+          "Available to any person claiming an interest in the property, at the time of sale or of the application",
+          "Requires depositing 5% of the purchase-money (for the purchaser) and the full proclamation amount less post-proclamation receipts (for the decree-holder)",
+          "No need to show irregularity, fraud, or any other ground — it is a pure pay-off remedy"
+        ],
+        "exceptions_and_qualifications": [
+          "A person cannot pursue both a Rule 90 (irregularity/fraud) application and this Rule 89 deposit application simultaneously — choosing Rule 90 forecloses Rule 89 unless the Rule 90 application is withdrawn",
+          "This rule does not extinguish the judgment-debtor's liability for costs and interest not covered by the sale proclamation"
+        ],
+        "how_to_read": "When time is short and proving fraud/irregularity under Rule 90 looks difficult, this no-fault deposit route under Rule 89 is often the faster, more certain way to save the property — but remember the two remedies are mutually exclusive unless the other is formally withdrawn first."
+      }
+    },
+    {
+      "number": "O-XXI-90",
+      "title": "Application to set aside sale on ground of irregularity or fraud",
+      "raw_text": "(1) Where any immovable property has been sold in execution of a decree, the decree-holder, or the purchaser, or any other person entitled to share in a rateable distribution of assets, or whose interests are affected by the sale, may apply to the Court to set aside the sale on the ground of a material irregularity or fraud in publishing or conducting it. (2) No sale shall be set aside on the ground of irregularity or fraud in publishing or conducting it unless, upon the facts proved, the Court is satisfied that the applicant has sustained substantial injury by reason of such irregularity or fraud. (3) No application to set aside a sale under this rule shall be entertained upon any ground which the applicant could have taken on or before the date on which the proclamation of sale was drawn up. Explanation.—The mere absence of, or defect in, attachment of the property sold shall not, by itself, be a ground for setting aside a sale under this rule.",
+      "key_terms": [
+        "material irregularity",
+        "fraud",
+        "substantial injury",
+        "proclamation-stage objection bar"
+      ],
+      "breakdown": {
+        "plain_summary": "The classic execution-sale challenge: a wider class of applicants (decree-holder, purchaser, rateable-distribution claimants, anyone affected) can seek to undo the sale — but only on proof of both a material irregularity or fraud AND actual substantial injury flowing from it. Mere technical slip-ups that caused no real harm won't do, and you can't raise an objection here that you should have raised when the proclamation was being settled.",
+        "essential_elements": [
+          "Applicant class: decree-holder, purchaser, any person entitled to share in rateable distribution, or anyone whose interests are affected by the sale",
+          "Ground: material irregularity or fraud in publishing or conducting the sale",
+          "Mandatory proof requirement: substantial injury actually sustained because of that irregularity or fraud — the twin-condition test",
+          "Bar: grounds available at the proclamation-settling stage cannot be raised for the first time here"
+        ],
+        "exceptions_and_qualifications": [
+          "The Explanation specifically excludes mere absence of, or defect in, attachment as a standalone ground — that alone is not enough even though it might otherwise look like an 'irregularity'"
+        ],
+        "how_to_read": "This is the single most litigated provision in the whole Order — always plead and prove both limbs (irregularity/fraud AND substantial injury) distinctly; courts routinely reject applications that establish only a technical irregularity without demonstrating real prejudice. Also always check the proclamation-stage record first, since Rule 90(3)'s bar can dispose of an application on a pure timing technicality."
+      }
+    },
+    {
+      "number": "O-XXI-91",
+      "title": "Application by purchaser to set aside sale on ground of judgment-debtor having no saleable interest",
+      "raw_text": "The purchaser at any such sale in execution of a decree may apply to the Court to set aside the sale, on the ground that the judgment-debtor had no saleable interest in the property sold.",
+      "key_terms": [
+        "no saleable interest",
+        "purchaser's remedy",
+        "title failure"
+      ],
+      "breakdown": {
+        "plain_summary": "If a purchaser discovers, after buying, that the judgment-debtor never actually owned a saleable interest in the property at all — he bought nothing of value — the purchaser himself can apply to undo the sale.",
+        "essential_elements": [
+          "Only the purchaser may apply under this rule",
+          "Ground: the judgment-debtor had no saleable interest in the property sold"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Pair this with Rule 93 (return of purchase-money) — a purchaser successfully invoking Rule 91 should simultaneously seek repayment of what he paid, since setting aside the sale alone doesn't automatically return his money."
+      }
+    },
+    {
+      "number": "O-XXI-92",
+      "title": "Sale when to become absolute or be set aside",
+      "raw_text": "(1) Where no application is made under rule 89, rule 90 or rule 91, or where such application is made and disallowed, the Court shall make an order confirming the sale, and thereupon the sale shall become absolute: Provided that, where any property is sold in execution of a decree pending the final disposal of any claim to, or any objection to the attachment of, such property, the Court shall not confirm such sale until the final disposal of such claim or objection. (2) Where such application is made and allowed, and where, in the case of an application under rule 89, the deposit required by that rule is made within sixty days from the date of sale, or in cases where the amount deposited under rule 89 is found to be deficient owing to any clerical or arithmetical mistake on the part of the depositor and such deficiency has been made good within such time as may be fixed by the Court, the Court shall make an order setting aside the sale: Provided that no order shall be made unless notice of the application has been given to all persons affected thereby: Provided further that the deposit under this sub-rule may be made within sixty days in all such cases where the period of thirty days, within which the deposit had to be made, has not expired before the commencement of the Code of Civil Procedure (Amendment) Act, 2002. (3) No suit to set aside an order made under this rule shall be brought by any person against whom such order is made. (4) Where a third party challenges the judgment-debtor's title by filing a suit against the auction-purchaser, the decree-holder and the judgment-debtor shall be necessary parties to the suit. (5) If the suit referred to in sub-rule (4) is decreed, the Court shall direct the decree-holder to refund the money to the auction-purchaser, and where such an order is passed the execution proceeding in which the sale had been held shall, unless the Court otherwise directs, be revived at the stage at which the sale was ordered.",
+      "key_terms": [
+        "confirmation of sale",
+        "sale becomes absolute",
+        "60-day deposit window",
+        "no suit against order",
+        "third-party title suit"
+      ],
+      "breakdown": {
+        "plain_summary": "The decision point: if no Rules 89/90/91 application is made (or one is made but fails), the Court confirms the sale and it becomes legally final ('absolute') — unless a pending claim/objection to the attachment itself blocks confirmation. If an application succeeds, the sale is instead set aside (with a 60-day window to complete the Rule 89 deposit). Either way, the Court's order here is final — no separate suit can attack it — though a genuine third-party title dispute can still proceed against the purchaser, with a built-in refund-and-revival mechanism if that suit succeeds.",
+        "essential_elements": [
+          "No application, or a disallowed application, under Rules 89/90/91 leads to a confirmation order making the sale absolute",
+          "A pending claim or objection to the property's attachment blocks confirmation until that claim/objection is finally disposed of",
+          "A successful application leads to the sale being set aside, with Rule 89 deposits having a 60-day window (with clerical-error top-up allowance)",
+          "Notice to all affected persons is mandatory before any order under sub-rule (2)",
+          "No suit lies to set aside an order made under this rule",
+          "A third party's title suit against the auction-purchaser must join both decree-holder and judgment-debtor as necessary parties",
+          "If that third-party suit succeeds, the decree-holder must refund the auction-purchaser, and the execution proceeding revives from the sale-order stage"
+        ],
+        "exceptions_and_qualifications": [
+          "The bar on a fresh suit (sub-rule (3)) does not extend to a genuine third-party title suit under sub-rule (4) — that remains a distinct, permitted avenue"
+        ],
+        "how_to_read": "This is the finality-and-exceptions hub of the whole sale-challenge scheme — when advising a purchaser on the security of their title, always check whether any claim/objection to attachment is still pending (it blocks confirmation) and whether a third-party title suit under sub-rule (4) is a live risk, since that is the one route that survives even after confirmation."
+      }
+    },
+    {
+      "number": "O-XXI-93",
+      "title": "Return of purchase-money in certain cases",
+      "raw_text": "Where a sale of immovable property is set aside under rule 92, the purchaser shall be entitled to an order for repayment of his purchase-money, with or without interest as the Court may direct, against any person to whom it has been paid.",
+      "key_terms": [
+        "repayment of purchase money",
+        "interest at Court's discretion"
+      ],
+      "breakdown": {
+        "plain_summary": "If the sale is ultimately set aside, the purchaser doesn't simply lose out — he is entitled to get his money back (potentially with interest), recoverable from whoever actually received it.",
+        "essential_elements": [
+          "Applies where a sale is set aside under Rule 92",
+          "The purchaser is entitled to an order for repayment of the purchase-money",
+          "Interest is at the Court's discretion",
+          "Recovery runs against whoever the money was paid to"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "File the repayment application under this rule promptly alongside (or immediately after) the Rule 92 set-aside order — don't assume the refund happens automatically."
+      }
+    },
+    {
+      "number": "O-XXI-94",
+      "title": "Certificate to purchaser",
+      "raw_text": "Where a sale of immovable property has become absolute, the Court shall grant a certificate specifying the property sold and the name of the person who at the time of sale is declared to be the purchaser. Such certificate shall bear date the day on which the sale became absolute.",
+      "key_terms": [
+        "sale certificate",
+        "proof of title",
+        "date of absoluteness"
+      ],
+      "breakdown": {
+        "plain_summary": "Once the sale is final, the purchaser gets a formal Court certificate — the document that evidences his title to the property — dated from the day the sale actually became absolute (i.e., the confirmation date), not the auction date.",
+        "essential_elements": [
+          "Issued once the sale has become absolute under Rule 92",
+          "Specifies the property and the declared purchaser",
+          "Dated the day the sale became absolute"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the dating rule carefully for limitation and title-chain purposes — the certificate's date is the confirmation date, which can be weeks or months after the actual auction, and this date is what governs for many downstream purposes (e.g., Rule 95/96 delivery applications, or computing when the purchaser's title vested)."
+      }
+    },
+    {
+      "number": "O-XXI-95",
+      "title": "Delivery of property in occupancy of judgment-debtor",
+      "raw_text": "Where the immovable property sold is in the occupancy of the judgment-debtor or of some person on his behalf or of some person claiming under a title created by the judgment-debtor subsequently to the attachment of such property and a certificate in respect thereof has been granted under rule 94, the Court shall, on the application of the purchaser, order delivery to be made by putting such purchaser or any person whom he may appoint to receive delivery on his behalf in possession of the property, and, if need be, by removing any person who refuses to vacate the same.",
+      "key_terms": [
+        "delivery of possession",
+        "forcible removal",
+        "post-attachment title"
+      ],
+      "breakdown": {
+        "plain_summary": "If the judgment-debtor (or someone holding for him, or someone who got a post-attachment title from him) is still sitting on the property, the purchaser can get the Court to physically put him in possession — using force to remove anyone who won't leave voluntarily.",
+        "essential_elements": [
+          "Applies when the property is occupied by the judgment-debtor, someone on his behalf, or a post-attachment transferee from him",
+          "Requires a Rule 94 certificate already granted",
+          "On the purchaser's application, the Court orders delivery of possession, including forcible removal of refusing occupants"
+        ],
+        "exceptions_and_qualifications": [
+          "A title created after attachment gets no protection here — such a transferee can be removed just like the judgment-debtor himself"
+        ],
+        "how_to_read": "Use this rule (rather than Rule 96) whenever the occupant's claim to stay traces back to the judgment-debtor himself — the forcible-removal power here is broader than Rule 96's symbolic-delivery mechanism for genuine third-party tenants."
+      }
+    },
+    {
+      "number": "O-XXI-96",
+      "title": "Delivery of property in occupancy of tenant",
+      "raw_text": "Where the property sold is in the occupancy of a tenant or other person entitled to occupy the same and a certificate in respect thereof has been granted under rule 94, the Court shall, on the application of the purchaser, order delivery to be made by affixing a copy of the certificate of sale in some conspicuous place on the property, and proclaiming to the occupant by beat of drum or other customary mode, at some convenient place, that the interest of the judgment-debtor has been transferred to the purchaser.",
+      "key_terms": [
+        "symbolic delivery",
+        "tenant in occupation",
+        "proclamation by beat of drum"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a genuine tenant (someone independently entitled to occupy, not merely holding on the judgment-debtor's behalf) is in possession, the purchaser doesn't get physical eviction through this rule — only 'symbolic' delivery: a certificate is affixed on the property and the tenant is publicly proclaimed notice that ownership has changed hands. The tenant's own occupation rights (e.g., under tenancy law) are left undisturbed by this mechanism.",
+        "essential_elements": [
+          "Applies to property occupied by a tenant or other person independently entitled to occupy",
+          "Requires a Rule 94 certificate already granted",
+          "Delivery is symbolic: affixing a copy of the sale certificate on the property plus a public proclamation (beat of drum or customary mode) that the judgment-debtor's interest has transferred"
+        ],
+        "exceptions_and_qualifications": [
+          "This does not evict the tenant — it only formally notifies him that his landlord has changed, leaving his occupation (and the purchaser's new landlord-tenant relationship with him) to be worked out separately"
+        ],
+        "how_to_read": "Don't conflate this with Rule 95 — a purchaser cannot forcibly evict a genuine tenant using this rule; if actual possession against the tenant is needed, separate proceedings under the applicable tenancy law (or a fresh suit) are required."
+      }
     }
   ]
 }
