@@ -5823,6 +5823,369 @@
         ],
         "how_to_read_hi": "मुख्यतः पुराने (1908-पूर्व) विधान की व्याख्या करते समय उपयोगी एक विशुद्ध सांविधिक-अन्वयन सहायक, जो सिविल प्रक्रिया संहिता की धाराओं का क्रमांक से परोक्ष संदर्भ देता है — पुष्टि करता है कि संदर्भ को इस संहिता के संगत वर्तमान प्रावधान की ओर इंगित करने वाला पढ़ा जाना चाहिए; यह संहिता की क्रमांकित धारा 1 से 158 तक की श्रृंखला को पूर्ण करता है — प्रथम अनुसूची के आदेश और नियम (आदेश I से आगे) इसके तुरंत बाद आते हैं और इस क्रमांकित-धारा श्रृंखला से बाहर हैं।"
       }
+    },
+    {
+      "number": "O-I",
+      "title": "Order I — Parties to Suits (Overview)",
+      "raw_text": "ORDER I\nParties to Suits\n\nThis Order of the First Schedule governs who may, and who must, be joined as plaintiffs and defendants in a civil suit, how misjoinder and non-joinder of parties are handled, representative suits on behalf of numerous persons with the same interest, and the Court's powers to add, strike out, or substitute parties at any stage.",
+      "key_terms": [
+        "joinder of parties",
+        "misjoinder",
+        "non-joinder",
+        "representative suit",
+        "necessary party"
+      ],
+      "breakdown": {
+        "plain_summary": "Order I is the Code's rulebook on who belongs in a suit. It sets the test for joining multiple plaintiffs or defendants (common question of law or fact arising from the same act, transaction, or series of transactions), gives the Court power to separate an unwieldy joinder into distinct trials, allows one or more persons to sue or defend on behalf of numerous persons sharing the same interest (the representative-suit mechanism later leveraged by class-action-style litigation), and equips the Court with broad, flexible powers to add, strike out, or substitute parties as the real controversy demands — all while providing that a suit is not defeated merely for having the wrong mix of parties, except where a truly necessary party is missing.",
+        "essential_elements": [
+          "Rules 1–7 set the test and mechanics for joining multiple plaintiffs (Rules 1–2) and multiple defendants (Rules 3, 3A), including the Court's power to order separate trials and the plaintiff's option to join alternative or jointly-liable parties when in doubt (Rules 4–7).",
+          "Rule 8 (and 8A) provide the representative-suit mechanism: one or more persons may sue or defend on behalf of numerous persons with the same interest, subject to Court permission/direction and mandatory notice at the plaintiff's expense; Rule 8A separately lets a person or body with a public interest in a question of law be heard (an early amicus-curiae style provision).",
+          "Rule 9 declares that misjoinder or non-joinder of parties does not by itself defeat a suit — the Court decides the controversy as between the parties actually before it — subject to the Rule 9 proviso for non-joinder of a necessary party.",
+          "Rules 10, 10A, and 12 give the Court flexible powers to substitute a wrongly-named plaintiff, add or strike out parties at any stage, request any pleader to address the Court on an unrepresented interest, and let co-plaintiffs/co-defendants authorise one another to act in the proceeding.",
+          "Rule 13 requires objections on the ground of misjoinder or non-joinder to be raised at the earliest opportunity (at the latest when issues are settled) or be treated as waived."
+        ],
+        "exceptions_and_qualifications": [
+          "The Rule 9 proviso is the key exception: non-joinder of a genuinely necessary party (one without whom no effective decree can be passed) is fatal and is not cured by the general \"misjoinder/non-joinder does not defeat a suit\" rule.",
+          "Rule 10(3) bars adding a next friend or a person under disability as plaintiff without that person's own consent.",
+          "Rule 13 is itself a waiver trap: an objection to misjoinder/non-joinder not raised by the time issues are settled is deemed waived, even if technically well-founded."
+        ],
+        "how_to_read": "Read Order I alongside Order II (frame of suit, splitting of claims) and Section 99 (no decree reversed for misjoinder/non-joinder alone unless it affects the merits or jurisdiction) — together they explain why Indian procedure tolerates imperfect party arrays but draws a hard line at necessary parties. When a defendant wants to attack a suit on party-structure grounds, Rule 13 timing is decisive: raise it early, or lose it."
+      }
+    },
+    {
+      "number": "O-I-1",
+      "title": "Order I, Rule 1 — Who may be joined as plaintiffs",
+      "raw_text": "1. Who may be joined as plaintiffs.—All persons may be joined in one suit as plaintiffs where—\n(a) any right to relief in respect of, or arising out of, the same act or transaction or series of acts or transactions is alleged to exist in such persons, whether jointly, severally or in the alternative; and\n(b) if such persons brought separate suits, any common question of law or fact would arise.",
+      "key_terms": [
+        "joinder of plaintiffs",
+        "same transaction",
+        "common question of law or fact"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 1 permits (but does not compel) multiple persons to sue together in one suit as co-plaintiffs, provided two cumulative conditions are met: their claims to relief arise out of the same act, transaction, or series of transactions, and separate suits by them would raise a common question of law or fact.",
+        "essential_elements": [
+          "Both conditions — (a) same act/transaction/series and (b) a common question of law or fact — must be satisfied; either alone is insufficient.",
+          "The right to relief may exist jointly, severally, or in the alternative among the plaintiffs — they need not all claim the identical relief.",
+          "This is a permissive, enabling rule (\"may be joined\") — it does not obligate co-claimants to sue together."
+        ],
+        "exceptions_and_qualifications": [
+          "Even where Rule 1's conditions are satisfied, Rule 2 lets the Court order separate trials if the joinder would embarrass or delay the suit — joinder is permitted, not an unconditional right to a combined trial."
+        ],
+        "how_to_read": "This is the mirror image of Rule 3 (joinder of defendants) and is most commonly invoked where several persons suffer loss from the same wrongful act (e.g., a single breach of contract or tort affecting multiple claimants) — pleaders should expressly plead both limbs (common transaction and common question) to avoid a splitting-of-cause-of-action objection later."
+      }
+    },
+    {
+      "number": "O-I-2",
+      "title": "Order I, Rule 2 — Power of Court to order separate trial",
+      "raw_text": "2. Power of Court to order separate trial.—Where it appears to the Court that any joinder of plaintiffs may embarrass or delay the trial of the suit, the Court may put the plaintiffs to the election or order separate trials or make such other order as may be expedient.",
+      "key_terms": [
+        "separate trial",
+        "embarrass or delay",
+        "election"
+      ],
+      "breakdown": {
+        "plain_summary": "Even where multiple plaintiffs are validly joined under Rule 1, the Court retains discretion to prevent that joinder from becoming unmanageable: it may force the plaintiffs to elect which of them will proceed, order separate trials, or make any other expedient order.",
+        "essential_elements": [
+          "The trigger is the Court's own assessment that the joinder may embarrass or delay the trial — it is a case-management power, not a response to a defendant's technical objection alone.",
+          "The Court has three listed options — putting plaintiffs to election, ordering separate trials, or any other expedient order — giving it broad flexibility."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 2 is the safety valve for Rule 1: a valid joinder on paper can still be unwound in practice if it threatens to turn a straightforward suit into an unwieldy multi-party trial; defendants facing an unwieldy joinder should invoke this rule rather than seeking outright rejection of the plaint."
+      }
+    },
+    {
+      "number": "O-I-3",
+      "title": "Order I, Rule 3 — Who may be joined as defendants",
+      "raw_text": "3. Who may be joined as defendants.—All persons may be joined in one suit as defendants where—\n(a) any right to relief in respect of, or arising out of, the same act or transaction or series of acts or transactions is alleged to exist against such persons, whether jointly, severally or in the alternative; and\n(b) if separate suits were brought against such persons, any common question of law or fact would arise.",
+      "key_terms": [
+        "joinder of defendants",
+        "same transaction",
+        "common question of law or fact"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 3 is the defendant-side counterpart of Rule 1: multiple persons may be sued together as co-defendants where the right to relief against them arises out of the same act, transaction, or series of transactions, and separate suits against them would raise a common question of law or fact.",
+        "essential_elements": [
+          "Both conditions must be satisfied cumulatively, mirroring Rule 1's structure.",
+          "Liability may be alleged jointly, severally, or in the alternative against the defendants."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 3A allows the Court to order separate trials even for a valid Rule 3 joinder if it would embarrass or delay the trial."
+        ],
+        "how_to_read": "Plaintiffs commonly rely on Rule 3 when unsure which of several persons is truly liable (see also Rule 7) — pleading joint, several, and alternative liability together as permitted here avoids having to guess wrong and lose against the real wrongdoer."
+      }
+    },
+    {
+      "number": "O-I-3A",
+      "title": "Order I, Rule 3A — Power to order separate trials where joinder of defendants may embarrass or delay trial",
+      "raw_text": "3A. Power to order separate trials where joinder of defendants may embarrass or delay trial.—Where it appears to the Court that any joinder of defendants may embarrass or delay the trial of the suit, the Court may order separate trials or make such other order as may be expedient in the interests of justice.",
+      "key_terms": [
+        "separate trials",
+        "joinder of defendants",
+        "interests of justice"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 3A gives the Court the same case-management power over an unwieldy joinder of defendants that Rule 2 gives over an unwieldy joinder of plaintiffs: it may order separate trials or any other expedient order in the interests of justice.",
+        "essential_elements": [
+          "Applies specifically to joinder of defendants (as opposed to Rule 2, which addresses joinder of plaintiffs).",
+          "The standard is the same — joinder that \"may embarrass or delay\" the trial — and the remedy is flexible (separate trials or any other expedient order)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rules 2 and 3A together ensure that permissive joinder under Rules 1 and 3 never becomes mandatory in substance — the Court can always de-couple an over-joined suit without dismissing any claim outright."
+      }
+    },
+    {
+      "number": "O-I-4",
+      "title": "Order I, Rule 4 — Court may give judgment for or against one or more of joint parties",
+      "raw_text": "4. Court may give judgment for or against one or more of joint parties.—Judgment may be given without any amendment—\n(a) for such one or more of the plaintiffs as may be found to be entitled to relief, for such relief as he or they may be entitled to;\n(b) against such one or more of the defendants as may be found to be liable, according to their respective liabilities.",
+      "key_terms": [
+        "joint parties",
+        "several liability",
+        "judgment"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 4 confirms that in a suit with multiple plaintiffs or defendants, the Court can give judgment for only some of the plaintiffs (to the extent they are entitled) and/or against only some of the defendants (to the extent of their respective liability) — all without needing to amend the pleadings.",
+        "essential_elements": [
+          "The Court is not bound to an all-or-nothing outcome merely because the suit was framed with multiple parties on one or both sides.",
+          "Relief for plaintiffs and liability for defendants can each be individualised according to what is actually proved.",
+          "No amendment of the plaint or written statement is required to render such a differentiated judgment."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This rule removes a common procedural anxiety: joining several plaintiffs or defendants under Rules 1/3 does not risk the whole suit failing just because the proof against or for only some of them succeeds — the Court tailors the decree to the evidence."
+      }
+    },
+    {
+      "number": "O-I-5",
+      "title": "Order I, Rule 5 — Defendant need not be interested in all the relief claimed",
+      "raw_text": "5. Defendant need not be interested in all the relief claimed.—It shall not be necessary that every defendant shall be interested as to all the relief claimed in any suit against him.",
+      "key_terms": [
+        "relief claimed",
+        "defendant's interest"
+      ],
+      "breakdown": {
+        "plain_summary": "A defendant can validly be joined to a suit even if he is not interested in, or affected by, every single item of relief claimed in it — interest in some of the relief is enough to justify his joinder.",
+        "essential_elements": [
+          "Removes any requirement that each defendant be concerned with the entirety of the relief sought in the suit."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This works together with Rule 4 — since judgment can be tailored defendant-by-defendant, there is no need to artificially limit who can be joined based on whether they are interested in every claim made."
+      }
+    },
+    {
+      "number": "O-I-6",
+      "title": "Order I, Rule 6 — Joinder of parties liable on same contract",
+      "raw_text": "6. Joinder of parties liable on same contract.—The plaintiff may, at his option, join as parties to the same suit all or any of the persons severally, or jointly and severally, liable on any one contract, including parties to bills of exchange, hundis and promissory notes.",
+      "key_terms": [
+        "joint and several liability",
+        "bills of exchange",
+        "hundis",
+        "promissory notes"
+      ],
+      "breakdown": {
+        "plain_summary": "Where several persons are liable — whether severally, or jointly and severally — on a single contract (including negotiable instruments like bills of exchange, hundis, and promissory notes), the plaintiff has the option to sue all of them, or only some, in the same suit.",
+        "essential_elements": [
+          "Covers persons severally liable, and persons jointly and severally liable, on one contract.",
+          "Expressly extends to parties on bills of exchange, hundis, and promissory notes — a specific and commercially important application.",
+          "The choice of whom to join is the plaintiff's option, not mandatory."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Frequently invoked in suits on dishonoured negotiable instruments with multiple endorsers/guarantors — the plaintiff can choose to sue only the most solvent obligor, or all of them together, without a misjoinder objection."
+      }
+    },
+    {
+      "number": "O-I-7",
+      "title": "Order I, Rule 7 — When plaintiff in doubt from whom redress is to be sought",
+      "raw_text": "7. When plaintiff in doubt from whom redress is to be sought.—Where the plaintiff is in doubt as to the persons from whom he is entitled to obtain redress, he may join two or more defendants in order that the question as to which of the defendants is liable, and to what extent, may be determined as between all parties.",
+      "key_terms": [
+        "doubt as to liability",
+        "alternative defendants"
+      ],
+      "breakdown": {
+        "plain_summary": "If a plaintiff genuinely cannot tell which of two or more persons is actually liable to him, Rule 7 lets him join all of them as defendants in one suit so the Court can determine, as between all the parties, who is liable and to what extent.",
+        "essential_elements": [
+          "The plaintiff's doubt must be as to which person is liable, not merely a tactical joinder of unrelated parties.",
+          "The purpose is to let the Court resolve liability as between all defendants in a single proceeding, avoiding the risk of losing against the wrong party in separate suits."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical escape hatch for cases like disputed agency, successive assignments, or unclear chains of responsibility — instead of guessing and risking a dismissal for suing the wrong party, the plaintiff can let the Court sort out liability among all plausible defendants in one trial."
+      }
+    },
+    {
+      "number": "O-I-8",
+      "title": "Order I, Rule 8 — One person may sue or defend on behalf of all in same interest",
+      "raw_text": "8. One person may sue or defend on behalf of all in same interest.—(1) Where there are numerous persons having the same interest in one suit,—\n(a) one or more of such persons may, with the permission of the Court, sue or be sued, or may defend such suit, on behalf of, or for the benefit of, all persons so interested;\n(b) the Court may direct that one or more of such persons may sue or be sued, or may defend such suit, on behalf of, or for the benefit of, all persons so interested.\n(2) The Court shall, in every case where a permission or direction is given under sub-rule (1), at the plaintiff's expense, give notice of the institution of the suit to all persons so interested, either by personal service, or, where, by reason of the number of persons or any other cause, such service is not reasonably practicable, by public advertisement, as the Court in each case may direct.\n(3) Any person on whose behalf, or for whose benefit, a suit is instituted, or defended, under sub-rule (1), may apply to the Court to be made a party to such suit.\n(4) No part of the claim in any such suit shall be abandoned under sub-rule (1), and no such suit shall be withdrawn under sub-rule (3) of rule 1 of Order XXIII, and no agreement, compromise or satisfaction shall be recorded in any such suit under rule 3 of that Order, unless the Court has given, at the plaintiff's expense, notice to all persons so interested in the manner specified in sub-rule (2).\n(5) Where any person suing or defending in any such suit does not proceed with due diligence in the suit or defence, the Court may substitute in his place any other person having the same interest in the suit.\n(6) A decree passed in a suit under this rule shall be binding on all persons on whose behalf, or for whose benefit, the suit is instituted, or defended, as the case may be.\nExplanation.—For the purpose of determining whether the persons who sue or are sued, or defend, have the same interest in one suit, it is not necessary to establish that such persons have the same cause of action as the persons on whose behalf, or for whose benefit, they sue or are sued, or defend the suit, as the case may be.",
+      "key_terms": [
+        "representative suit",
+        "same interest",
+        "public advertisement",
+        "binding decree",
+        "withdrawal/compromise notice"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 8 is India's representative-suit (class-action-style) mechanism: where numerous persons share the same interest in a suit, one or more of them may, with the Court's permission or direction, sue or be sued on behalf of all of them. Mandatory notice must go out to all interested persons at the plaintiff's expense; any interested person may apply to join; the claim cannot be abandoned, nor the suit withdrawn, nor any compromise recorded, without fresh notice to everyone interested; a laggard representative can be substituted; and the final decree binds every person on whose behalf the suit was brought or defended.",
+        "essential_elements": [
+          "The threshold requirement is \"same interest\" among numerous persons — the Explanation clarifies this does not require an identical cause of action, only a shared interest in the suit's subject-matter/outcome.",
+          "Court permission (sub-rule (1)(a)) or direction (sub-rule (1)(b)) is a precondition — a person cannot unilaterally declare himself a representative plaintiff/defendant.",
+          "Notice to all interested persons (personal service, or public advertisement if personal service is impracticable) is mandatory and at the plaintiff's expense whenever permission/direction is given.",
+          "Any interested person may apply under sub-rule (3) to be formally impleaded as a party.",
+          "Sub-rule (4) bars abandonment of any part of the claim, withdrawal of the suit, or recording of any compromise/satisfaction without fresh notice to all interested persons in the sub-rule (2) manner — a critical safeguard against a representative plaintiff selling out the class.",
+          "Sub-rule (5) allows substitution of the representative if he fails to prosecute or defend with due diligence.",
+          "Sub-rule (6) makes the resulting decree binding on everyone on whose behalf or for whose benefit the suit was brought or defended — the core res judicata effect that makes representative suits powerful."
+        ],
+        "exceptions_and_qualifications": [
+          "Notice under sub-rule (2) is indispensable — a representative suit's binding effect under sub-rule (6) depends on the class having had a real opportunity to know of and join the proceeding.",
+          "The sub-rule (4) restriction on abandonment/withdrawal/compromise applies only to representative suits under this rule — ordinary suits remain governed by the general Order XXIII rules without this extra notice layer."
+        ],
+        "how_to_read": "Order I Rule 8 is the procedural ancestor of modern Indian class-action and public-interest representative litigation (consumer, environmental, and shareholder actions have all used it) — when drafting such a suit, build the permission/direction application and the notice plan into the very first hearing, since the binding effect on absent class members under sub-rule (6) stands or falls on strict compliance with sub-rule (2)'s notice requirement."
+      }
+    },
+    {
+      "number": "O-I-8A",
+      "title": "Order I, Rule 8A — Power of Court to permit a person or body of persons to present opinion or to take part in the proceedings",
+      "raw_text": "8A. Power of Court to permit a person or body of persons to present opinion or to take part in the proceedings.—While trying a suit, the Court may, if satisfied that a person or body of persons is interested in any question of law which is directly and substantially in issue in the suit and that it is necessary in the public interest to allow that person or body of persons to present his or its opinion on that question of law, permit that person or body of persons to present such opinion and to take such part in the proceedings of the suit as the Court may specify.",
+      "key_terms": [
+        "intervention",
+        "public interest",
+        "question of law",
+        "amicus"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 8A lets the Court, while trying a suit, permit an outside person or body — one who is interested in a question of law directly and substantially in issue — to present its opinion and take part in the proceedings to the extent the Court specifies, where this is necessary in the public interest.",
+        "essential_elements": [
+          "The applicant must be interested in a question of law directly and substantially in issue (not a peripheral or incidental point).",
+          "The Court must be satisfied that permitting participation is necessary in the public interest.",
+          "The Court controls the scope of participation — it \"may specify\" the extent to which the person or body can take part; this is not full party status as of right."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is India's statutory amicus-curiae/intervenor provision for civil suits — useful for industry bodies, regulators, or public-interest organisations seeking to be heard on a significant legal question without becoming full parties bound by the decree the way Rule 8 representative parties are."
+      }
+    },
+    {
+      "number": "O-I-9",
+      "title": "Order I, Rule 9 — Misjoinder and non-joinder",
+      "raw_text": "9. Misjoinder and non-joinder.—No suit shall be defeated by reason of the misjoinder or non-joinder of parties, and the Court may in every suit deal with the matter in controversy so far as regards the rights and interests of the parties actually before it:\nProvided that nothing in this rule shall apply to non-joinder of a necessary party.",
+      "key_terms": [
+        "misjoinder",
+        "non-joinder",
+        "necessary party",
+        "proviso"
+      ],
+      "breakdown": {
+        "plain_summary": "As a general rule, a suit is not defeated merely because the wrong extra parties were joined (misjoinder) or because some proper parties were left out (non-joinder) — the Court simply decides the dispute as between whoever is actually before it. The one hard exception is the proviso: this tolerance does not extend to non-joinder of a necessary party.",
+        "essential_elements": [
+          "The general rule is curative: misjoinder or non-joinder, by itself, does not defeat (dismiss) the suit.",
+          "The Court proceeds to decide the matter in controversy as regards the rights and interests of the parties actually on record.",
+          "The proviso carves out non-joinder of a necessary party — a party without whom no effective and complete decree can be passed — from this protection."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso is the operative exception: if a genuinely necessary party (as opposed to a merely proper party) is missing, the suit can fail for non-joinder notwithstanding the general rule."
+        ],
+        "how_to_read": "Distinguish \"necessary party\" (without whom no effective decree can be made — non-joinder can be fatal under the proviso) from \"proper party\" (whose presence enables complete adjudication but isn't indispensable — non-joinder is cured by this rule); this distinction is the single most litigated issue arising from Order I, and is reinforced by Section 99's bar on reversing a decree for misjoinder/non-joinder that does not affect the merits or the Court's jurisdiction."
+      }
+    },
+    {
+      "number": "O-I-10",
+      "title": "Order I, Rule 10 — Suit in name of wrong plaintiff",
+      "raw_text": "10. Suit in name of wrong plaintiff.—(1) Where a suit has been instituted in the name of the wrong person as plaintiff or where it is doubtful whether it has been instituted in the name of the right plaintiff, the Court may at any stage of the suit, if satisfied that the suit has been instituted through a bona fide mistake, and that it is necessary for the determination of the real matter in dispute so to do, order any other person to be substituted or added as plaintiff upon such terms as the Court thinks just.\n(2) Court may strike out or add parties.—The Court may at any stage of the proceedings, either upon or without the application of either party, and on such terms as may appear to the Court to be just, order that the name of any party improperly joined, whether as plaintiff or defendant, be struck out, and that the name of any person who ought to have been joined, whether as plaintiff or defendant, or whose presence before the Court may be necessary in order to enable the Court effectually and completely to adjudicate upon and settle all the questions involved in the suit, be added.\n(3) No person shall be added as a plaintiff suing without a next friend or as the next friend of a plaintiff under any disability without his consent.\n(4) Where defendant added, plaint to be amended.—Where a defendant is added, the plaint shall, unless the Court otherwise directs, be amended in such manner as may be necessary, and amended copies of the summons and of the plaint shall be served on the new defendant and, if the Court thinks fit, on the original defendant.\n(5) Subject to the provisions of the Indian Limitation Act, 1877 (XV of 1877), section 22, the proceedings as against any person added as defendant shall be deemed to have begun only on the service of the summons.",
+      "key_terms": [
+        "wrong plaintiff",
+        "bona fide mistake",
+        "substitution",
+        "striking out parties",
+        "next friend",
+        "amendment of plaint"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 10 gives the Court wide, flexible power over the identity of the parties at any stage of the suit: it can substitute or add the correct plaintiff where a suit was filed in the wrong person's name by bona fide mistake (sub-rule (1)); strike out improperly joined parties or add necessary/proper parties on its own motion or on application (sub-rule (2)); and, when a defendant is added, requires the plaint to be amended and fresh summons served, with the suit against the new defendant treated as having begun only on service of that summons (sub-rules (4)–(5)) — subject to a consent safeguard for persons under disability (sub-rule (3)).",
+        "essential_elements": [
+          "Sub-rule (1) substitution/addition of a plaintiff requires both a bona fide mistake and necessity for determining the real matter in dispute — it is not available to cure a deliberately wrong filing.",
+          "Sub-rule (2) is the Court's general party-correction power — it may act suo motu (without application) or on a party's application, and covers both striking out improper parties and adding necessary/proper ones.",
+          "The test for adding a party under sub-rule (2) is whether that person's presence is necessary to enable the Court to effectually and completely adjudicate and settle all questions in the suit.",
+          "Sub-rule (4) makes plaint amendment (and fresh service) the default consequence of adding a defendant, unless the Court directs otherwise.",
+          "Sub-rule (5) fixes the limitation-relevant date for a newly added defendant as the date of service of summons on that defendant, not the original filing date, subject to Section 22 of the (then) Indian Limitation Act."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (3): no person can be added as a plaintiff suing without a next friend, or as next friend of a plaintiff under disability, without that person's own consent — consent is a hard precondition, not a formality.",
+          "Sub-rule (5)'s limitation treatment (fresh start on service) is itself subject to the applicable Limitation Act provision on added parties, so the exact cut-off should be checked against the current Limitation Act, 1963, equivalent."
+        ],
+        "how_to_read": "Rule 10(5) is the trap practitioners must watch for: adding a defendant mid-suit does not relate back to the original filing date for limitation purposes (absent the Limitation Act's own savings) — so if a potential defendant is likely to be added later, consider impleading early rather than relying on Rule 10 to fix it after limitation may have run against that specific defendant."
+      }
+    },
+    {
+      "number": "O-I-10A",
+      "title": "Order I, Rule 10A — Power of Court to request any pleader to address it",
+      "raw_text": "10A. Power of Court to request any pleader to address it.—The Court may, in its discretion, request any pleader to address it as to any interest which is likely to be affected by its decision on any matter in issue in any suit or proceeding, if the party having the interest which is likely to be so affected is not represented by any pleader.",
+      "key_terms": [
+        "amicus curiae",
+        "unrepresented interest",
+        "pleader"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a party whose interest is likely to be affected by the Court's decision on a matter in issue is not represented by any pleader (lawyer), Rule 10A lets the Court, at its discretion, request any pleader to address it on that interest.",
+        "essential_elements": [
+          "Applies where an affected interest is unrepresented — typically an absent, unrepresented, or inadequately represented party.",
+          "The request is at the Court's discretion; there is no right in a party to demand it."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A limited amicus-style safeguard distinct from Rule 8A (which addresses a public-interest question of law) — Rule 10A is squarely about ensuring a specific unrepresented party's interest is not overlooked for want of advocacy."
+      }
+    },
+    {
+      "number": "O-I-11",
+      "title": "Order I, Rule 11 — Conduct of suit",
+      "raw_text": "11. Conduct of suit.—The Court may give the conduct of a suit to such persons as it deems proper.",
+      "key_terms": [
+        "conduct of suit"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court has discretion to designate which person (typically among multiple plaintiffs or defendants, or their representatives) is to have carriage and control of the conduct of the suit.",
+        "essential_elements": [
+          "This is a general discretionary power, most relevant in multi-party suits where it is unclear who should lead the litigation on a side."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Often invoked alongside Rule 8 representative suits or Rule 12 appearances to resolve disputes among co-plaintiffs or co-defendants about who controls strategy and instructions in the litigation."
+      }
+    },
+    {
+      "number": "O-I-12",
+      "title": "Order I, Rule 12 — Appearance of one of several plaintiffs or defendants for others",
+      "raw_text": "12. Appearance of one of several plaintiffs or defendants for others.—(1) Where there are more plaintiffs than one, any one or more of them may be authorized by any other of them to appear, plead or act for such other in any proceeding; and in like manner, where there are more defendants than one, any one or more of them may be authorized by any other of them to appear, plead or act for such other in any proceeding.\n(2) The authority shall be in writing signed by the party giving it and shall be filed in Court.",
+      "key_terms": [
+        "authorisation",
+        "appearance",
+        "power of attorney"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a suit has multiple plaintiffs or multiple defendants, one or more of them may be formally authorised by the others to appear, plead, or act on their behalf in the proceeding, provided the authorisation is in writing, signed by the authorising party, and filed in Court.",
+        "essential_elements": [
+          "Available symmetrically to co-plaintiffs and co-defendants.",
+          "The authority must be in writing, signed by the party giving it, and filed in Court — an unwritten or unfiled authorisation does not satisfy this rule."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical convenience rule for multi-party suits — rather than every co-party separately instructing counsel and appearing, one can be authorised to represent the others procedurally, provided the formal writing-and-filing requirement is observed (otherwise the Court may insist on independent appearance)."
+      }
+    },
+    {
+      "number": "O-I-13",
+      "title": "Order I, Rule 13 — Objections as to non-joinder or misjoinder",
+      "raw_text": "13. Objections as to non-joinder or misjoinder.—All objections on the ground of non-joinder or misjoinder of parties shall be taken at the earliest possible opportunity and, in all cases where issues are settled, at or before such settlement, unless the ground of objection has subsequently arisen, and any such objection not so taken shall be deemed to have been waived.",
+      "key_terms": [
+        "waiver",
+        "non-joinder objection",
+        "misjoinder objection",
+        "settlement of issues"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 13 imposes a strict timing discipline on objections to non-joinder or misjoinder of parties: they must be raised at the earliest possible opportunity, and in any case no later than when issues are settled (unless the ground for objection only arose afterward). An objection not timely raised is deemed waived.",
+        "essential_elements": [
+          "The default deadline is \"at or before\" the settlement of issues.",
+          "An exception exists where the ground of objection arises only after issues are settled — such a later-arising ground is not time-barred by this rule.",
+          "Failure to raise the objection within this window results in deemed waiver — the objection is lost, not merely weakened."
+        ],
+        "exceptions_and_qualifications": [
+          "The exception for objections whose ground arises later (e.g., a necessary party's interest only becomes apparent after issues are framed) preserves the right to object in that narrow circumstance."
+        ],
+        "how_to_read": "This is the practical enforcement mechanism behind Order I's party-joinder scheme: a defendant who spots a misjoinder or non-joinder problem must raise it immediately — waiting until final arguments or appeal to spring a non-joinder objection will typically fail as deemed-waived under this rule, except for the true necessary-party non-joinder, which courts have sometimes treated as going to the root of jurisdiction and thus less readily waivable."
+      }
     }
   ]
 }

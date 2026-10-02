@@ -1,6 +1,7 @@
 import { X, CheckCircle2, AlertTriangle, BookOpen, MessageSquareText, Languages } from "lucide-react";
 import type { ActSection } from "../types/act";
 import { useLanguage } from "../state/LanguageContext";
+import { sectionLabel } from "../utils/sectionLabel";
 
 interface SectionInspectorProps {
   section: ActSection | null;
@@ -41,7 +42,7 @@ export default function SectionInspector({ section, onClose }: SectionInspectorP
           <div className="flex items-start justify-between mb-4 pb-4 border-b border-stone-200">
             <div>
               <p className="text-xs font-semibold uppercase tracking-wide text-amber-700 mb-1">
-                Section {section.number}
+                {sectionLabel(section.number)}
               </p>
               <h2 className="text-lg font-semibold text-stone-900">{section.title}</h2>
             </div>

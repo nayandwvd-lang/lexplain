@@ -1,5 +1,6 @@
 import type { ActSection } from "../types/act";
 import { tokenizeWithGlossary } from "../utils/textParser";
+import { sectionLabel } from "../utils/sectionLabel";
 
 interface SectionBlockProps {
   section: ActSection;
@@ -23,7 +24,7 @@ export default function SectionBlock({
       }`}
     >
       <h3 className="font-sans text-sm font-semibold uppercase tracking-wide text-amber-700 mb-1">
-        Section {section.number}
+        {sectionLabel(section.number)}
       </h3>
       <h2 className="font-serif text-xl font-semibold text-stone-900 mb-3">
         {section.title}
