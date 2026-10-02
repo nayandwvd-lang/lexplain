@@ -8954,6 +8954,174 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "Always confirm proof of notice/service on the opposite party is on record before expecting a Rule 13 application to be decided — an order setting aside a decree without this notice is itself vulnerable to challenge for violating this mandatory safeguard."
       }
+    },
+    {
+      "number": "O-X",
+      "title": "Order X — Examination of Parties by the Court (Overview)",
+      "raw_text": "ORDER X\nExamination of parties by the court\n\nThis short but pivotal Order governs the first hearing's admission/denial exercise, the mandatory direction to attempt Section 89 alternative dispute resolution, the Court's power to orally examine parties (and their accompanying knowledgeable persons) to narrow the real controversy, the requirement that such examination be recorded, and the consequence when a pleader cannot answer a material question that only the party personally could answer.",
+      "key_terms": [
+        "admission and denial",
+        "alternative dispute resolution",
+        "Section 89",
+        "oral examination of party",
+        "first hearing"
+      ],
+      "breakdown": {
+        "plain_summary": "Order X operationalises the first hearing as a genuine issue-narrowing exercise, not a formality. Rule 1 requires the Court to go through the plaint and written statement allegation by allegation, asking each party or pleader to admit or deny what hasn't already been expressly or impliedly admitted/denied, and record the result. Rules 1A-1C then mandate that, once admissions and denials are recorded, the Court must direct the parties to choose one of the Section 89 ADR modes (arbitration, conciliation, judicial settlement, Lok Adalat, or mediation), send them to that forum, and — if conciliation efforts fail — have the matter referred back for continuation before the Court. Rule 2 empowers (and partly mandates) oral examination of parties present in Court, and even of any knowledgeable person accompanying a party or pleader, to elucidate the matters genuinely in controversy, with the Court free to put either party's suggested questions. Rule 3 requires the substance of any such examination to be reduced to writing as part of the record. Rule 4 addresses the scenario where a pleader cannot answer a material question that the party personally could likely answer: the Court may postpone the hearing (up to seven days) and order personal appearance, with judgment or any suitable order available against a party who then fails to appear without lawful excuse.",
+        "essential_elements": [
+          "Rule 1's admission/denial exercise is mandatory at the first hearing and is recorded — forming a binding part of the record that narrows what actually remains in dispute going forward.",
+          "Rules 1A-1C make the Section 89 ADR reference a mandatory first-hearing step (not optional case management) once admissions/denials are recorded, with a built-in return-to-Court mechanism if conciliation is judged unlikely to succeed.",
+          "Rule 2(1)(a) makes oral examination of present parties mandatory (\"shall\") where it would elucidate the controversy, while examining an accompanying knowledgeable person is discretionary (\"may\") under Rule 2(1)(b).",
+          "Rule 3's written-record requirement means the oral examination becomes part of the formal case record, usable later (e.g., as an admission) much like pleadings themselves.",
+          "Rule 4 is a targeted tool against pleaders who are unable to answer party-specific material questions — it forces personal appearance within seven days, backed by a judgment-against sanction for unexcused non-appearance."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 2(3) lets the Court put either party's suggested questions during the examination — this is not a free-for-all cross-examination by opposing counsel but a Court-controlled, Court-put inquiry.",
+          "Rule 4's postponement is capped at seven days from the first hearing date and is triggered only when the pleader (or accompanying person) is unable/refuses to answer AND the Court believes the party personally could likely answer if asked directly."
+        ],
+        "how_to_read": "Order X's first-hearing sequence (Rule 1 admissions/denials -> Rule 1A-1C ADR reference -> Rule 2 oral examination) is the Code's primary case-management tool for narrowing a suit before the expense of a full trial — advocates should prepare clients for the real possibility of being orally examined by the Court at the first hearing and should likewise be ready with a considered ADR-mode preference, since the Rule 1A direction is now a mandatory step, not a discretionary suggestion."
+      }
+    },
+    {
+      "number": "O-X-1",
+      "title": "Order X, Rule 1 — Ascertainment whether allegations in pleadings are admitted or denied",
+      "raw_text": "1. Ascertainment whether allegations in pleadings are admitted or denied.—At the first hearing of the suit the Court shall ascertain from each party or his pleader whether he admits or denies such allegations of fact as are made in the plaint or written statement (if any) of the opposite party, and as are not expressly or by necessary implication admitted or denied by the party against whom they are made. The Court shall record such admissions and denials.",
+      "key_terms": [
+        "admission and denial",
+        "first hearing",
+        "recorded admissions"
+      ],
+      "breakdown": {
+        "plain_summary": "At the first hearing, the Court must go through the opposite party's pleading and directly ask each party (or their pleader) whether they admit or deny any factual allegation that hasn't already been clearly admitted or denied (expressly or by necessary implication) — and must record the resulting admissions and denials.",
+        "essential_elements": [
+          "Mandatory exercise at the first hearing.",
+          "Covers only allegations not already expressly/impliedly admitted or denied.",
+          "Admissions and denials elicited this way must be recorded by the Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This Rule is the live, in-Court counterpart to Order VI Rule 5's deemed-admission-by-silence-in-pleading rule — a party should walk into the first hearing having already rehearsed exactly what will be admitted and denied, since the Court's own recorded ascertainment here carries evidentiary weight independent of the written pleadings."
+      }
+    },
+    {
+      "number": "O-X-1A",
+      "title": "Order X, Rule 1A — Direction of the court to opt for any one mode of alternative dispute resolution",
+      "raw_text": "1A. Direction of the court to opt for any one mode of alternative dispute resolution.—After recording the admissions and denials, the court shall direct the parties to the suit to opt either mode of the settlement outside the court as specified in sub-section (1) of section 89. On the option of the parties, the court shall fix the date of appearance before such forum or authority as may be opted by the parties.",
+      "key_terms": [
+        "alternative dispute resolution",
+        "Section 89",
+        "settlement outside court"
+      ],
+      "breakdown": {
+        "plain_summary": "Once admissions and denials are recorded, the Court must direct the parties to choose one of the out-of-court settlement modes listed in Section 89(1) (arbitration, conciliation, judicial settlement including Lok Adalat, or mediation). Once the parties choose, the Court fixes a date for them to appear before that chosen forum/authority.",
+        "essential_elements": [
+          "Mandatory direction after Rule 1's admission/denial recording.",
+          "Parties choose the specific Section 89(1) ADR mode.",
+          "Court fixes an appearance date before the chosen forum/authority."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Prepare a considered ADR-mode preference (and rationale) before the first hearing rather than treating this as a pro forma step — courts increasingly expect parties to engage substantively with Section 89, and a well-chosen forum (e.g., mediation for a continuing commercial relationship versus Lok Adalat for a straightforward money claim) can resolve the dispute far more efficiently than full trial."
+      }
+    },
+    {
+      "number": "O-X-1B",
+      "title": "Order X, Rule 1B — Appearance before the conciliatory forum or authority",
+      "raw_text": "1B. Appearance before the conciliatory forum or authority.—Where a suit is referred under rule 1A, the parties shall appear before such forum or authority for conciliation of the suit.",
+      "key_terms": [
+        "conciliation",
+        "appearance before forum"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a suit is referred to an ADR mode under Rule 1A, the parties must actually appear before that chosen forum or authority for conciliation of the dispute.",
+        "essential_elements": [
+          "Mandatory appearance before the Rule 1A-referred forum/authority."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat the ADR appearance date with the same seriousness as a Court hearing date — non-appearance before the referred forum can trigger adverse consequences when the matter is reported back to the Court under Rule 1C."
+      }
+    },
+    {
+      "number": "O-X-1C",
+      "title": "Order X, Rule 1C — Appearance before the court consequent to the failure of efforts of conciliation",
+      "raw_text": "1C. Appearance before the court consequent to the failure of efforts of conciliation.—Where a suit is referred under rule 1A, and the presiding officer of conciliation forum or authority is satisfied that it would not be proper in the interest of justice to proceed with the matter further, then, it shall refer the matter again to the court and direct the parties to appear before the court on the date fixed by it.",
+      "key_terms": [
+        "failure of conciliation",
+        "referral back to court",
+        "interest of justice"
+      ],
+      "breakdown": {
+        "plain_summary": "If the ADR forum's presiding officer concludes that continuing conciliation efforts would not serve the interest of justice, the matter is referred back to the Court, and the parties are directed to appear before the Court on a date it fixes — resuming the regular suit.",
+        "essential_elements": [
+          "Triggered by the conciliation forum's own assessment that further proceedings would not be proper in the interest of justice.",
+          "Results in automatic referral back to the Court with a fixed appearance date."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A failed ADR attempt under this Rule is not a dead end — the suit simply resumes before the Court on the fixed date, so parties should not view an unsuccessful Section 89 reference as wasted effort but as a genuine (if unsuccessful) attempt that the Code expects before full trial proceeds."
+      }
+    },
+    {
+      "number": "O-X-2",
+      "title": "Order X, Rule 2 — Oral examination of party, or companion of party",
+      "raw_text": "2. Oral examination of party, or companion of party.—(1) At the first hearing of the suit, the Court—\n(a) shall, with a view to elucidating matters in controversy in the suit examine orally such of the parties to the suit appearing in person or present in Court, as it deems fit; and\n(b) may orally examine any person, able to answer any material question relating to the suit, by whom any party appearing in person or present in Court or his pleader is accompanied.\n(2) At any subsequent hearing, the Court may orally examine any party appearing in person or present in Court, or any person, able to answer any material question relating to the suit, by whom such party or his pleader is accompanied.\n(3) The Court may, if it thinks fit, put in the course of an examination under this rule questions suggested by either party.",
+      "key_terms": [
+        "oral examination",
+        "elucidating controversy",
+        "accompanying person",
+        "suggested questions"
+      ],
+      "breakdown": {
+        "plain_summary": "At the first hearing, the Court must orally examine parties present in Court (as it deems fit) to clarify the real matters in controversy, and may also examine any knowledgeable person accompanying a party or pleader. At later hearings, the same oral-examination power (for both parties and accompanying knowledgeable persons) continues, but becomes discretionary throughout. In either case, the Court may put questions suggested by either party during the examination.",
+        "essential_elements": [
+          "Sub-rule (1)(a): mandatory oral examination of present parties at the first hearing, for elucidation purposes, as the Court deems fit.",
+          "Sub-rule (1)(b): discretionary oral examination of an accompanying knowledgeable person at the first hearing.",
+          "Sub-rule (2): both types of examination become fully discretionary at subsequent hearings.",
+          "Sub-rule (3): Court may incorporate either party's suggested questions into the examination."
+        ],
+        "exceptions_and_qualifications": [
+          "The examination is always Court-conducted, not direct cross-examination by opposing counsel — parties/counsel can only suggest questions for the Court to ask, under sub-rule (3)."
+        ],
+        "how_to_read": "Prepare clients for the realistic possibility of direct oral questioning by the Judge at the first hearing — this is a genuine fact-finding tool the Court uses to narrow the controversy early, and an unprepared client's answers here become part of the record under Rule 3."
+      }
+    },
+    {
+      "number": "O-X-3",
+      "title": "Order X, Rule 3 — Substance of examination to be written",
+      "raw_text": "3. Substance of examination to be written.—The substance of the examination shall be reduced to writing by the Judge, and shall form part of the record.",
+      "key_terms": [
+        "written record",
+        "substance of examination"
+      ],
+      "breakdown": {
+        "plain_summary": "Whatever emerges from an oral examination under Rule 2 must be written down by the Judge (in substance) and becomes a formal part of the case record.",
+        "essential_elements": [
+          "Mandatory written record of the examination's substance, made by the Judge.",
+          "Becomes part of the official case record."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always ask to review the Judge's recorded note of any oral examination for accuracy before it is finalised — since this written record becomes part of the case file and can later be relied upon, an inaccurate recording of a party's oral answers can have lasting evidentiary consequences."
+      }
+    },
+    {
+      "number": "O-X-4",
+      "title": "Order X, Rule 4 — Consequence of refusal or inability of pleader to answer",
+      "raw_text": "4. Consequence of refusal or inability of pleader to answer.—(1) Where the pleader of any party who appears by a pleader or any such person accompanying a pleader as is referred to in rule 2, refuses or is unable to answer any material question relating to the suit which the Court is of opinion that the party whom he represents ought to answer, and is likely to be able to answer if interrogated in person, the Court may postpone the hearing of the suit to a day not later than seven days from the date of first hearing and direct that such party shall appear in person on such day.\n(2) If such party fails without lawful excuse to appear in person on the day so appointed, the Court may pronounce judgment against him, or make such order in relation to the suit as it thinks fit.",
+      "key_terms": [
+        "pleader unable to answer",
+        "personal appearance direction",
+        "seven days",
+        "judgment for non-appearance"
+      ],
+      "breakdown": {
+        "plain_summary": "If a party's pleader (or an accompanying knowledgeable person) can't or won't answer a material question that the Court believes the party personally could likely answer, the Court can postpone the hearing — up to seven days from the first hearing date — and order the party to appear in person. If that party then fails to appear in person without lawful excuse, the Court can pronounce judgment against him or make any other order it thinks fit.",
+        "essential_elements": [
+          "Triggered by a pleader's (or accompanying person's) refusal or inability to answer a material question the Court believes the party personally could likely answer.",
+          "Remedy: postponement, capped at seven days from the first hearing, with a personal-appearance direction.",
+          "Sanction for unexcused non-appearance on the appointed day: judgment against the party, or any other order the Court thinks fit."
+        ],
+        "exceptions_and_qualifications": [
+          "The party retains an escape valve: appearing with a lawful excuse for not appearing in person avoids the adverse consequence — it is specifically unexcused non-appearance that triggers judgment."
+        ],
+        "how_to_read": "If a pleader anticipates being unable to answer case-specific factual questions at the first hearing, arrange for the client to be present in Court (or readily reachable) from the outset — being caught by a Rule 4 postponement-and-personal-appearance order, followed by a missed appointment, risks an adverse judgment on a technicality unrelated to the substantive merits."
+      }
     }
   ]
 }
