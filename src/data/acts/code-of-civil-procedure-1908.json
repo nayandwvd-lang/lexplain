@@ -20019,6 +20019,804 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "Rule 5 appointments are relatively rare in modern urban litigation but remain relevant in agricultural land and estate disputes where the Collector's revenue records and administrative machinery make him uniquely positioned to manage the property pending suit — always confirm consent is actually on record before relying on a Rule 5 appointment, since want of consent renders the appointment void."
       }
+    },
+    {
+      "number": "O-XLI",
+      "title": "Appeals from Original Decrees — Overview",
+      "raw_text": "ORDER XLI. Appeals from original decrees.",
+      "key_terms": [
+        "memorandum of appeal",
+        "grounds of appeal",
+        "stay of execution",
+        "admission of appeal",
+        "cross-objection",
+        "remand",
+        "additional evidence",
+        "judgment and decree in appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XLI is the master procedural code for the First Appeal — it governs everything from how a memorandum of appeal must be drafted and admitted, through stay of execution pending appeal, to the hearing procedure, remand powers, the taking of additional evidence, and finally the form of the Appellate Court's judgment and decree. It is organised in a roughly chronological sequence mirroring an appeal's actual life-cycle: presentation and admission (Rules 1-14), hearing procedure (Rules 16-22), remand and additional evidence (Rules 23-29), and judgment/decree (Rules 30-37). Because Order XLII (second appeals) and Order XLIII (appeals from orders) both apply Order XLI 'so far as may be,' this Order is effectively the procedural backbone for the entire appellate layer of civil litigation.",
+        "essential_elements": [
+          "Rules 1-3A: form/contents of memorandum, permissible grounds, rejection/amendment, condonation of delay",
+          "Rule 4: one plaintiff/defendant among several can reverse the whole decree on a ground common to all",
+          "Rules 5-8: stay of proceedings/execution pending appeal, security for execution, exercise of these powers for appeals from execution orders",
+          "Rules 9-15 (as renumbered/amended): registry of appeal, security for costs, summary dismissal, fixing hearing date, notice to respondent",
+          "Rules 16-22: right to begin, dismissal for appellant's default, ex parte hearing, re-admission, adding respondents, re-hearing after ex parte decree, cross-objections",
+          "Rules 23-29: remand (on a preliminary point or otherwise), final determination where evidence is sufficient, framing/referring issues, additional evidence",
+          "Rules 30-37: pronouncement and contents of judgment, what the judgment may direct, Appellate Court's wide remedial powers, dissent, decree formalities, certified copies"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat this Order as a chronological checklist when drafting or defending a first appeal — the earliest-stage defects (memorandum form under Rules 1-3, limitation under Rule 3A, deposit under Rule 1(3)) are the most common grounds for summary dismissal and should be audited before addressing merits-stage rules like additional evidence (Rule 27) or the scope of the Appellate Court's remedial power (Rule 33)."
+      }
+    },
+    {
+      "number": "O-XLI-1",
+      "title": "Form of appeal — What to accompany memorandum",
+      "raw_text": "(1) Every appeal shall be preferred in the form of a memorandum signed by the appellant or his pleader and presented to the Court or to such officer as it appoints in this behalf. The memorandum shall be accompanied by a copy of the Judgment. Provided that where two or more suits have been tried together and a common judgment has been delivered therefor and two or more appeals are filed against any decree covered by that judgment, whether by the same appellant or by different appellants, the Appellate Court may dispense with the filing of more than one copy of the judgment. (2) Contents of memorandum.—The memorandum shall set forth, concisely and under distinct heads, the grounds of objection to the decree appealed from without any argument or narrative; and such grounds shall be numbered consecutively. (3) Where the appeal is against a decree for payment of money, the appellant shall, within such time as the Appellate Court may allow, deposit the amount disputed in the appeal or furnish such security in respect thereof as the Court may think fit.",
+      "key_terms": [
+        "memorandum of appeal",
+        "signed by appellant or pleader",
+        "copy of judgment",
+        "concise numbered grounds",
+        "deposit for money decree"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 1 sets the basic form of a first appeal: it must be a signed memorandum (by the appellant or pleader) presented to the Court, accompanied by a copy of the judgment, with a sensible exception sparing duplicate judgment copies where a common judgment covers multiple consolidated suits. The memorandum's content is tightly disciplined — grounds of objection must be stated concisely, under distinct numbered heads, with no argument or narrative woven in (that is reserved for submissions at hearing). Sub-rule (3) adds a money-decree-specific gatekeeping requirement: the appellant must deposit the disputed amount or furnish security, within the time the Appellate Court allows.",
+        "essential_elements": [
+          "Memorandum must be signed by appellant or pleader and presented to the Court/appointed officer",
+          "Must be accompanied by a copy of the judgment (with a dispensation for duplicate copies in consolidated-suit appeals)",
+          "Grounds of objection: concise, under distinct heads, no argument/narrative, numbered consecutively",
+          "For money decrees: deposit of the disputed amount or furnishing of security within time allowed"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sub-rule (3)'s deposit/security requirement for money decrees is a frequently litigated gatekeeping condition — Rule 5(5) later makes clear that failure to comply bars any stay of execution, so an appellant challenging a money decree should treat compliance with Rule 1(3) as inseparable from the appeal's survival, not a mere formality."
+      }
+    },
+    {
+      "number": "O-XLI-2",
+      "title": "Grounds which may be taken in appeal",
+      "raw_text": "The appellant shall not, except by leave of the Court, urge or be heard in support of any ground of objection not set forth in the memorandum of appeal; but the Appellate Court, in deciding the appeal, shall not be confined to the grounds of objections set forth in the memorandum of appeal or taken by leave of the Court under this rule: Provided that the Court shall not rest its decision on any other ground unless the party who may be affected thereby has had a sufficient opportunity of contesting the case on that ground.",
+      "key_terms": [
+        "grounds confined to memorandum",
+        "leave of Court",
+        "Court not confined to pleaded grounds",
+        "opportunity to contest"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 2 polices a two-way street. The appellant is normally confined to the grounds actually stated in the memorandum and cannot argue a fresh ground without the Court's leave. But the Appellate Court itself is not bound by that same confinement when deciding the appeal — it may decide on a ground neither party pleaded, provided (the crucial proviso) the party who would be adversely affected by that ground has had a fair opportunity to contest it. This balances procedural discipline on the appellant with the Court's duty to reach a correct result even via an unpleaded legal point, without springing surprises on a litigant.",
+        "essential_elements": [
+          "Appellant needs leave of Court to urge a ground not in the memorandum",
+          "The Appellate Court itself is not confined to pleaded/leave-granted grounds when deciding the appeal",
+          "Proviso: the Court cannot rest its decision on an unpleaded ground unless the affected party had sufficient opportunity to contest it"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If an Appellate Court's judgment turns on a ground neither side argued, the first line of challenge is whether the proviso's 'sufficient opportunity to contest' requirement was actually honoured — a decision resting on a genuinely blindsiding ground is vulnerable on that basis alone."
+      }
+    },
+    {
+      "number": "O-XLI-3",
+      "title": "Rejection or amendment of memorandum",
+      "raw_text": "(1) Where the memorandum of appeal is not drawn up in the manner hereinbefore prescribed, it may be rejected, or be returned to the appellant for the purpose of being amended within a time to be fixed by the Court or be amended then and there. (2) Where the Court rejects any memorandum, it shall record the reasons for such rejection. (3) Where a memorandum of appeal is amended, the judge, or such officer as he appoints in this behalf, shall sign or initial the amendment.",
+      "key_terms": [
+        "defective memorandum",
+        "rejection or return for amendment",
+        "recorded reasons",
+        "signed amendment"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 3 gives the Court three options when a memorandum does not comply with Rule 1's form requirements: reject it outright, return it to the appellant for amendment within a fixed time, or allow it to be corrected then and there. If the Court chooses outright rejection, it must record its reasons — a safeguard against arbitrary gatekeeping. Any amendment actually made must be signed or initialled by the judge (or an appointed officer), creating a clear, authenticated record of what was changed.",
+        "essential_elements": [
+          "Three options for a defective memorandum: reject, return for amendment within fixed time, or amend on the spot",
+          "Rejection must be accompanied by recorded reasons",
+          "Any amendment must be signed/initialled by the judge or an appointed officer"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A rejection order lacking recorded reasons under sub-rule (2) is itself procedurally vulnerable — counsel facing a rejected memorandum should check first whether the Court actually complied with this mandatory recording obligation before conceding the rejection's correctness."
+      }
+    },
+    {
+      "number": "O-XLI-3A",
+      "title": "Application for condonation of delay",
+      "raw_text": "(1) When an appeal is presented after the expiry of the period of limitation specified therefore, it shall be accompanied by an application supported by affidavit setting forth the facts on which the appellant relies to satisfy the Court that he had sufficient cause for not preferring the appeal within such period. (2) If the Court sees no reason to reject the application without the issue of a notice to the respondent, notice hereof shall be issued to the respondent and the matter shall be finally decided by the Court before it proceeds to deal with the appeal under rule 11 or rule 13, as the case may be. (3) Where an application has been made under sub-rule (1), the Court shall not make an order fact the stay of execution of the decree against which the appeal is proposed to be filed so long as the Court does not, after hearing under rule 11, decide to hear the appeal.",
+      "key_terms": [
+        "condonation of delay",
+        "sufficient cause affidavit",
+        "notice to respondent",
+        "no stay pending condonation decision"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 3A governs the mandatory procedure for a time-barred appeal. The appellant must accompany the memorandum with a condonation application supported by an affidavit setting out the facts constituting 'sufficient cause' for the delay. If the Court is not minded to reject that application outright, it must issue notice to the respondent and decide the condonation question finally before proceeding to the Rule 11/13 admission stage. Sub-rule (3) is a protective check against premature relief: no stay of execution can be granted while the condonation application remains undecided, preventing a time-barred appellant from obtaining interim protection before even clearing the limitation threshold.",
+        "essential_elements": [
+          "Delay-barred appeal must be accompanied by a condonation application + supporting affidavit of sufficient cause",
+          "If not summarily rejected, notice must issue to the respondent and the condonation question decided finally before Rule 11/13 admission proceedings",
+          "No stay of execution may be ordered while the condonation application is pending undecided"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The sufficient-cause affidavit under sub-rule (1) should plead specific, verifiable facts (not vague assertions) since courts apply a meaningfully more exacting standard once the respondent is heard under sub-rule (2) — treat this as a mini-trial on delay, not a formality."
+      }
+    },
+    {
+      "number": "O-XLI-4",
+      "title": "One of several plaintiffs or defendants may obtain reversal of whole decree where it proceeds on ground common to all",
+      "raw_text": "Where there are more plaintiffs or more defendants than one in a suit, and the decree appealed from proceeds on any ground common to all the plaintiffs or to all the defendants, any one of the plaintiffs or of the defendants may appeal from the whole decree, and thereupon the Appellate Court may reverse or vary the decree in favour of all the plaintiffs or defendants, as the case may be.",
+      "key_terms": [
+        "common ground decree",
+        "one of several plaintiffs/defendants",
+        "reversal in favour of all"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 4 prevents a wasteful multiplicity of appeals where a decree rests on a ground common to multiple plaintiffs or defendants — any single one of them can appeal the whole decree, and if successful, the Appellate Court can reverse or vary the decree in favour of all of them, not just the one who actually appealed. This avoids forcing every co-plaintiff or co-defendant to separately appeal the identical point merely to protect their own share of relief.",
+        "essential_elements": [
+          "Applies where multiple plaintiffs or multiple defendants exist in the suit",
+          "Decree must proceed on a ground common to all of them",
+          "Any one of them may appeal the whole decree",
+          "Appellate Court's reversal/variation can benefit all plaintiffs/defendants, not just the appellant"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 4 complements Rule 33's broad remedial power (which lets the Appellate Court pass orders in favour of non-appealing respondents too) — together they reflect the CPC's general preference for substance-driven, efficient appellate relief over rigid party-by-party formalism."
+      }
+    },
+    {
+      "number": "O-XLI-5",
+      "title": "Stay by Appellate Court",
+      "raw_text": "(1) An appeal shall not operate as a stay of proceedings under a decree or order appealed from except so far as the Appellate Court may order, nor shall execution of a decree be stayed by reason only of an appeal having been preferred from the decree; but the Appellate Court may for sufficient cause order stay of execution of such decree. Explanation.—An order by the Appellate Court for the stay of execution of the decree shall be effective from the date of the communication of such order to the Court of first instance, but an affidavit sworn by the appellant, based on his personal knowledge, stating that an order for the stay of execution of the decree has been made by the Appellate Court shall, pending the receipt from the Appellate Court of the order for the stay of execution or any order to the contrary, be acted upon by the Court of first instance. (2) Stay by Court which passed the decree.—Where an application is made for stay of execution of an appealable decree before the expiration of the time allowed for appealing therefrom, the Court which passed the decree may on sufficient cause being shown order the execution to be stayed. (3) No order for stay of execution shall be made under sub-rule (1) or sub-rule (2) unless the Court making it is satisfied— (a) that substantial loss may result to the party applying for stay of execution unless the order is made; (b) that the application has been made without unreasonable delay; and (c) that security has been given by the applicant for the due performance of such decree or order as may ultimately be binding upon him. (4) Subject to the provision of sub-rule (3), the Court may make an ex parte order for stay of execution pending the hearing of the application. (5) Notwithstanding anything contained in the foregoing sub-rules, where the appellant fails to make the deposit or furnish the security specified in sub-rule (3) of rule 1, the Court shall not make an order staying the execution of the decree.",
+      "key_terms": [
+        "no automatic stay",
+        "sufficient cause",
+        "substantial loss",
+        "no unreasonable delay",
+        "security for due performance",
+        "ex parte interim stay",
+        "Rule 1(3) deposit precondition"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 5 establishes the foundational principle that a pending appeal does NOT automatically stay execution of the decree — stay must be affirmatively ordered, either by the Appellate Court (sub-rule (1)) or, before the limitation period for appeal even expires, by the Court that passed the decree itself (sub-rule (2)). Either Court can only grant stay upon being satisfied of three cumulative conditions: substantial loss to the applicant absent a stay, absence of unreasonable delay in applying, and security furnished for due performance of whatever decree ultimately binds the applicant. An ex parte interim stay pending the hearing of the stay application itself is permitted, subject to those same conditions. Sub-rule (5) ties this whole structure back to Rule 1(3): if the appellant has not made the required deposit/security for a money decree, no stay can be granted at all, however compelling the equities.",
+        "essential_elements": [
+          "Default rule: no automatic stay of proceedings or execution merely because an appeal is pending",
+          "Stay may be granted by the Appellate Court (sub-rule 1) or by the Court that passed the decree, before the appeal period expires (sub-rule 2)",
+          "Three cumulative conditions for stay: substantial loss absent stay; no unreasonable delay in applying; security for due performance furnished",
+          "Ex parte interim stay permitted pending final decision on the stay application",
+          "Absolute bar: no stay where the Rule 1(3) deposit/security for a money decree has not been furnished"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The Explanation's affidavit mechanism is a practical lifeline — because a stay order takes effect only once communicated to the trial Court, an appellant can rely on his own personal-knowledge affidavit confirming the Appellate Court's stay order to get the trial Court to act provisionally, pending formal communication, preventing execution from outrunning a genuinely granted stay merely due to administrative delay."
+      }
+    },
+    {
+      "number": "O-XLI-6",
+      "title": "Security in case of order for execution of decree appealed from",
+      "raw_text": "(1) Where an order is made for the execution of a decree from which an appeal is pending, the Court which passed the decree shall, on sufficient cause being shown by the appellant, require security to be taken for the restitution of any property which may be or has been taken in execution of the decree or for the payment of the value of such property and for the due performance of the decree or order of the Appellate Court, or the Appellate Court may for like cause direct the Court which passed the decree to take such security. (2) Where an order has been made for the sale of immovable property in execution of a decree, and an appeal is pending from such decree, the sale shall, on the application of the judgment-debtor to the Court which made the order, be stayed on such terms as to giving security or otherwise as the Court thinks fit until the appeal is disposed of.",
+      "key_terms": [
+        "security for restitution",
+        "pending appeal execution",
+        "sale of immovable property stayed"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 6 offers a middle path between unconditional execution and an outright stay — where execution of a decree proceeds despite a pending appeal, the trial Court (on sufficient cause shown, or on the Appellate Court's direction) can require security for restitution of any property taken in execution, or for its value, and for due performance of whatever the Appellate Court ultimately orders. Sub-rule (2) gives special protection against the irreversible harm of a completed immovable-property sale: on the judgment-debtor's application, such a sale can be stayed on appropriate security terms until the appeal is disposed of, since land/property sales are much harder to unwind than money payments.",
+        "essential_elements": [
+          "Security for restitution/value of property taken in execution, and for due performance of the Appellate Court's eventual order, on sufficient cause",
+          "Can be ordered by the trial Court on its own on sufficient cause, or on the Appellate Court's direction",
+          "Sub-rule (2): sale of immovable property in execution can be stayed, on the judgment-debtor's application, pending appeal disposal, on appropriate security terms"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 6(2) is the practical tool to prevent irreversible loss of land through a completed execution sale even where a full Rule 5 stay has not been granted — it should be invoked specifically and promptly once a sale is ordered, since once the sale is confirmed the remedy becomes far harder to obtain."
+      }
+    },
+    {
+      "number": "O-XLI-8",
+      "title": "Exercise of power in appeal from order made in execution of decree",
+      "raw_text": "The powers conferred by rules 5 and 6 shall be exercisable where an appeal may be or has been preferred not from the decree but from an order made in execution of such decree.",
+      "key_terms": [
+        "appeal from execution order",
+        "Rules 5 and 6 extended"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 8 extends the stay and security powers of Rules 5 and 6 — which are framed in terms of appeals from decrees — to appeals from orders made in execution of a decree, ensuring the same stay/security protections are available regardless of whether the appeal targets the underlying decree itself or a subsequent order made while executing it.",
+        "essential_elements": [
+          "Rules 5 and 6 powers apply equally to appeals from execution orders, not just appeals from the decree itself"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Counsel appealing an execution-stage order (e.g., an order under Order XXI) should not assume stay/security relief is unavailable merely because the appeal is not against the original decree — Rule 8 makes the full Rule 5/6 toolkit available in that scenario too."
+      }
+    },
+    {
+      "number": "O-XLI-9",
+      "title": "Registry of memorandum of appeal",
+      "raw_text": "(1) The Court from whose decree an appeal lies shall entertain the memorandum of appeal and shall endorse thereon the date of presentation and shall register the appeal in a book of appeal kept for that purpose. (2) Such book shall be called the register of appeal.",
+      "key_terms": [
+        "endorsement of presentation date",
+        "register of appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 9 is an administrative but evidentially important step — the Court receiving the memorandum must endorse the date of presentation on it and register the appeal in a dedicated register of appeal. This creates an official, dated record of when the appeal was filed, which matters for limitation computation and institutional tracking.",
+        "essential_elements": [
+          "Endorsement of the date of presentation on the memorandum",
+          "Registration of the appeal in the register of appeal"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The endorsed presentation date under Rule 9 is often the decisive evidentiary fact in a limitation dispute — always verify the Court's endorsement matches the actual filing date when limitation is contested."
+      }
+    },
+    {
+      "number": "O-XLI-10",
+      "title": "Appellate Court may require appellant to furnish security for costs",
+      "raw_text": "(1) The Appellate Court may in its discretion, either before the respondent is called upon to appear and answer or afterwards on the application of the respondent, demand from the appellant security for the costs of the appeal, or of the original suit, or of both: Provided that the Court shall demand such security in all cases in which the appellant is residing out of India, and is not possessed of any sufficient immovable property within India other than the property (if any) to which the appeal relates. (2) Where such security is not furnished within such time as the Court orders, the Court shall reject the appeal.",
+      "key_terms": [
+        "security for costs",
+        "appellant residing outside India",
+        "mandatory security for non-resident appellants",
+        "rejection on default"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 10 gives the Appellate Court discretion to demand security for costs (of the appeal, the original suit, or both) from the appellant, either proactively or on the respondent's application. That discretion turns into a mandatory obligation in one specific scenario: where the appellant resides outside India and lacks sufficient immovable property within India (apart from the property the appeal concerns) — reflecting the practical concern that an unsuccessful foreign-resident appellant without local assets could leave a costs award unenforceable. Failure to furnish ordered security leads to outright rejection of the appeal.",
+        "essential_elements": [
+          "General rule: discretionary security for costs, demandable before or after the respondent's appearance",
+          "Mandatory proviso: security MUST be demanded where the appellant resides outside India and lacks sufficient immovable property within India (other than the suit property)",
+          "Non-compliance within the Court's fixed time leads to rejection of the appeal"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A respondent facing a non-resident appellant with no local immovable assets should proactively move under Rule 10 early, since the mandatory proviso gives a near-automatic entitlement to security — and failure by the appellant to furnish it is one of the cleanest grounds for outright rejection of the appeal."
+      }
+    },
+    {
+      "number": "O-XLI-11",
+      "title": "Power to dismiss appeal without sending notice to Lower Court",
+      "raw_text": "(1) The appellate Court after fixing a day for hearing the appellant or his pleader and hearing him accordingly if he appears on that day may dismiss the appeal. (2) If on the day fixed or any other day to which the hearing may be adjourned the appellant does not appear when the appeal is called on for hearing, the Court may make an order that the appeal be dismissed. (3) The dismissal of an appeal under this rule shall be notified to the Court from whose decree the appeal is preferred. (4) Where an Appellate Court, not being the High Court, dismisses an appeal under sub-rule (1), it shall deliver a judgment, recording in brief its grounds for doing so, and a decree shall be drawn up in accordance with the judgment.",
+      "key_terms": [
+        "summary dismissal at admission",
+        "hearing appellant alone",
+        "non-appearance dismissal",
+        "notification to lower Court",
+        "brief judgment for non-High-Court dismissal"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 11 is the appeal's first judicial checkpoint — before even issuing notice to the respondent, the Appellate Court can hear the appellant alone (on a fixed hearing day) and summarily dismiss the appeal if it finds no merit even on the appellant's own best case, sparing the respondent the burden of appearing in a hopeless appeal. If the appellant himself fails to appear on the fixed (or adjourned) day, the appeal can likewise be dismissed for default. Either kind of dismissal must be notified to the trial Court, and where a subordinate Appellate Court (not the High Court) dismisses this way, it must deliver a brief reasoned judgment and draw up a corresponding decree — ensuring even summary dismissals leave an auditable record.",
+        "essential_elements": [
+          "Court may dismiss after hearing the appellant alone at the admission stage, without issuing notice to the respondent",
+          "Non-appearance of the appellant on the fixed/adjourned hearing day also permits dismissal",
+          "Dismissal must be notified to the Court from whose decree the appeal was preferred",
+          "Non-High-Court Appellate Courts must record brief reasons and draw up a decree for a Rule 11(1) dismissal"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 11A (immediately following) imposes a 60-day target for concluding this very hearing — so an appellant should not assume unlimited time to perfect the appeal before the Rule 11 hearing is listed; practical diligence in readying the appeal record matters from day one."
+      }
+    },
+    {
+      "number": "O-XLI-11A",
+      "title": "Time within which hearing under rule 11 should be concluded",
+      "raw_text": "Every appeal shall be hear under rule 11 as expeditiously as possible and endeavour shall be made to conclude such hearing within sixty days from the date on which the memorandum of appeal is filed.",
+      "key_terms": [
+        "sixty-day target",
+        "expeditious admission hearing"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 11A sets a directory time target for the Rule 11 admission-stage hearing: it should be concluded, as far as possible, within sixty days of the memorandum's filing. This reflects the CPC's broader post-1976/1999 push toward reducing delay at the appellate stage, though — consistent with similar 'endeavour' language elsewhere in the Code — it does not operate as a hard jurisdictional deadline.",
+        "essential_elements": [
+          "Target: conclude the Rule 11 hearing within 60 days of the memorandum's filing",
+          "Expressed as an expeditiousness obligation/endeavour, not an absolute bar"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Like Rule 3A's limitation-decision deadline, Rule 11A's 60-day target is best used as leverage for seeking an expedited hearing date rather than as a ground to challenge a dismissal or admission that occurs after the 60 days have lapsed."
+      }
+    },
+    {
+      "number": "O-XLI-12",
+      "title": "Day for hearing appeal",
+      "raw_text": "(1) Unless the Appellate Court dismisses the appeal under rule 11, it shall fix a day for hearing the appeal. (2) Such day shall be fixed with reference to the current business of the Court.",
+      "key_terms": [
+        "fixing hearing date",
+        "current business of the Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 12 follows naturally from a Rule 11 survival — once the appeal is not summarily dismissed at admission, the Court must fix a substantive hearing date, set with reference to the Court's actual pending caseload ('current business'), rather than arbitrarily.",
+        "essential_elements": [
+          "Applies once the appeal survives the Rule 11 admission stage",
+          "Hearing date is fixed with reference to the Court's current business/caseload"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 12's hearing-date fixation is the trigger for the notice-and-service machinery in Rule 14 — counsel should track this date closely since it anchors the respondent's statutory notice period."
+      }
+    },
+    {
+      "number": "O-XLI-14",
+      "title": "Publication and service of notice of day for hearing appeal",
+      "raw_text": "(1) Notice of the day fixed under rule 12 shall be affixed in the Appellate Court-house, and a like notice shall be sent by the Appellate Court to the Court from whose decree the appeal is preferred, and shall be served on the respondent or on his pleader in the Appellate Court in the manner provided for the service on a defendant of a summons to appear and answer, and all the provisions applicable to such summons, and to proceedings with reference to the service thereof, shall apply to the service of such notice. (2) Appellate Court may itself cause notice to be served.—Instead of sending the notice to the Court from whose decree the appeal is preferred, the Appellate Court may itself cause the notice to be served on the respondent or his pleader under the provisions above referred to. (3) The notice to be served on the respondent shall be accompanied by a copy of the memorandum of appeal. (4) Notwithstanding anything to the contrary contained in sub-rule (1), it shall not be necessary to serve notice of any proceeding incidental to an appeal on any respondent other than a person impleaded for the first time in the Appellate Court, unless he has appeared and filed an address for the service in the Court of first instance or has appeared in the appeal. (5) Nothing in sub-rule (4) shall bar the respondent referred to in the appeal from defending it.",
+      "key_terms": [
+        "notice affixed in Court-house",
+        "service like summons",
+        "copy of memorandum with notice",
+        "newly impleaded respondent exception"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 14 prescribes how the hearing-date notice reaches all stakeholders: it must be affixed in the Appellate Court-house, communicated to the trial Court, and formally served on the respondent (or pleader) using the same procedure as service of a summons on a defendant — with the full summons-service machinery (and its provisions on proof of service etc.) applying by extension. The Appellate Court can bypass routing through the trial Court and serve the respondent directly. Every notice to the respondent must carry a copy of the memorandum of appeal, so the respondent knows precisely what is being challenged. Sub-rule (4) streamlines incidental-proceeding notices by exempting most existing respondents from repeat service, except a person impleaded for the first time at the appellate stage who has not yet appeared or filed an address for service — while sub-rule (5) confirms that exemption never actually bars that respondent from defending the appeal if they do show up.",
+        "essential_elements": [
+          "Notice affixed in the Appellate Court-house and communicated to the trial Court, or served directly by the Appellate Court",
+          "Service on the respondent follows summons-to-defendant procedure in full, including all ancillary service-proof provisions",
+          "Notice to the respondent must be accompanied by a copy of the memorandum of appeal",
+          "Incidental-proceeding notices need not be repeated on existing respondents, except a newly-impleaded appellate-stage respondent who hasn't appeared/filed an address",
+          "That exemption does not bar the respondent's right to defend the appeal if they later appear"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 14(4)'s reference to 'Court of first instance' is specifically reinterpreted by Order XLII Rule 3 for second appeals (substituting the first-appeal Court) — always check which level of appeal is in play before applying this sub-rule literally."
+      }
+    },
+    {
+      "number": "O-XLI-16",
+      "title": "Right to begin",
+      "raw_text": "(1) On the day fixed, or on any other day to which the hearing may be adjourned, the appellant shall be heard in support of the appeal. (2) The Court shall then, if it does not dismiss the appeal at once, hear the respondent against the appeal, and in such case the appellant shall be entitled to reply.",
+      "key_terms": [
+        "appellant begins",
+        "respondent heard next",
+        "appellant's right of reply"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 16 fixes the basic order of argument at the hearing: the appellant goes first in support of the appeal; if the Court does not dismiss it immediately on that submission, the respondent is then heard against the appeal, after which the appellant has a right of reply. This mirrors the general civil-trial sequencing logic (the party bearing the burden on the point at issue speaks first and last).",
+        "essential_elements": [
+          "Appellant argues first in support of the appeal",
+          "If not dismissed outright, respondent argues against the appeal",
+          "Appellant then has a right of reply"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Advocates should reserve genuinely rebuttal-only points for the reply stage rather than frontloading everything, since Rule 16 structurally guarantees the appellant the last word on rebuttal — a tactical advantage worth using deliberately."
+      }
+    },
+    {
+      "number": "O-XLI-17",
+      "title": "Dismissal of appeal for appellant's default",
+      "raw_text": "(1) Where on the day fixed, or on any other day to which the hearing may be adjourned, the appellant does not appear when the appeal is called on for hearing, the Court may make an order that the appeal be dismissed. Explanation.—Nothing in this sub-rule shall be construed as empowering the Court to dismiss the appeal on the merits. (2) Hearing appeal ex parte.—Where the appellant appears and the respondent does not appear, the appeal shall be heard ex parte.",
+      "key_terms": [
+        "dismissal for default",
+        "not a merits dismissal",
+        "ex parte hearing against absent respondent"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 17 addresses non-appearance at the substantive hearing stage (distinct from Rule 11's admission-stage non-appearance). If the appellant fails to appear when the appeal is called, the Court may dismiss it — but the Explanation is crucial: this is purely a default dismissal, not an adjudication on the merits, preserving the conceptual distinction relevant to Rule 19's re-admission remedy. Conversely, if the appellant appears but the respondent does not, the appeal proceeds and is heard ex parte against the absent respondent (who retains the Rule 21 re-hearing remedy if later able to show good cause).",
+        "essential_elements": [
+          "Appellant's non-appearance at the called hearing: Court may dismiss for default",
+          "Explanation: such dismissal is not a decision on the merits",
+          "Appellant appears, respondent doesn't: appeal heard ex parte"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The Explanation's non-merits characterisation is what makes Rule 19's re-admission remedy coherent — because a Rule 17(1) dismissal was never an adjudication on substance, re-admission on sufficient cause simply restores the status quo rather than requiring the appellant to overturn a reasoned merits ruling."
+      }
+    },
+    {
+      "number": "O-XLI-19",
+      "title": "Re-admission of appeal dismissed for default",
+      "raw_text": "Where an appeal is dismissed under rule 11, sub-rule (2) or rule 17, the appellant may apply to the Appellate Court for the re-admission of the appeal; and, where it is proved that he was prevented by any sufficient cause from appearing when the appeal was, called on for hearing or from depositing the sum so required, the Court shall re-admit the appeal on such terms as to costs or otherwise as it thinks fit.",
+      "key_terms": [
+        "re-admission application",
+        "sufficient cause for non-appearance",
+        "terms as to costs"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 19 is the remedy for an appellant whose appeal was dismissed for default (under Rule 11(2) at admission, or Rule 17 at hearing) — on an application proving sufficient cause for the non-appearance (or for failing to make a required deposit), the Court must re-admit the appeal, though it can impose terms as to costs or otherwise. The word 'shall' makes re-admission mandatory once sufficient cause is actually proved, not merely discretionary.",
+        "essential_elements": [
+          "Available only for dismissals under Rule 11(2) or Rule 17 (both default dismissals)",
+          "Applicant must prove sufficient cause for the non-appearance or for failing to make a required deposit",
+          "Once sufficient cause is proved, re-admission is mandatory, on such terms as to costs/otherwise as the Court thinks fit"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A Rule 19 application should be filed promptly and supported by specific, verifiable sufficient-cause evidence (medical emergency, genuine miscommunication, etc.) — vague or generic excuses rarely satisfy the sufficient-cause threshold that this mandatory remedy nonetheless requires as a precondition."
+      }
+    },
+    {
+      "number": "O-XLI-20",
+      "title": "Power to adjourn hearing and direct persons appearing interested to be made respondents",
+      "raw_text": "(1) Where it appears to the Court at the hearing that any person who was a party to the suit in the Court from whose decree the appeal is preferred, but who has not been made a party to the appeal, is interested in the result of the appeal, the Court may adjourn the hearing to a future day to be fixed by the Court and direct that such person be made a respondent. (2) No respondent shall be added under this rule, after the expiry of the period of limitation for appeal, unless the Court, for reasons to be recorded, allows that to be done, on such terms as to costs as it thinks fit.",
+      "key_terms": [
+        "adding interested respondent",
+        "adjournment to implead",
+        "limitation bar on adding respondents"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 20 lets the Appellate Court correct an incomplete array of parties mid-hearing — if it notices that someone who was a party below, with a genuine interest in the appeal's outcome, has not been impleaded as a respondent, it can adjourn the hearing and direct that person be added. Sub-rule (2) imposes a limitation-linked safeguard: once the appeal period has expired, such addition is permitted only for recorded reasons and on appropriate costs terms, preventing indefinite expansion of the party array long after the appeal window has closed.",
+        "essential_elements": [
+          "Trigger: a trial-Court party, not currently a respondent, appears interested in the appeal's result",
+          "Court may adjourn and direct that person be impleaded as a respondent",
+          "Post-limitation addition requires recorded reasons and is subject to costs terms"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Parties genuinely affected by an appeal but omitted as respondents should move promptly to be impleaded rather than waiting, since Rule 20(2)'s post-limitation threshold ('for reasons to be recorded') is a materially higher bar than simply being added within the ordinary appeal period."
+      }
+    },
+    {
+      "number": "O-XLI-21",
+      "title": "Re-hearing on application of respondent against whom ex parte decree made",
+      "raw_text": "Where an appeal is heard ex parte and judgment is pronounced against the respondent, he may apply to the Appellate Court to re-hear the appeal; and, if he satisfies the Court that the notice was not duly served or that he was prevented by sufficient cause from appearing when the appeal was called on for hearing, the Court shall re-hear the appeal on such terms as to costs or otherwise as it thinks fit to impose upon him.",
+      "key_terms": [
+        "ex parte appellate judgment",
+        "re-hearing application",
+        "improper service or sufficient cause"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 21 mirrors Rule 19 but from the respondent's side — where the appeal was heard and decided ex parte against an absent respondent (under Rule 17(2)), that respondent can apply for re-hearing, and the Court must grant it (again, mandatory 'shall' once proved) upon the respondent showing either that the hearing notice was not duly served, or that sufficient cause prevented appearance, subject to whatever costs terms the Court thinks fit to impose.",
+        "essential_elements": [
+          "Available only where the appeal was decided ex parte against the respondent under Rule 17(2)",
+          "Grounds: notice not duly served, OR sufficient cause for non-appearance",
+          "Mandatory re-hearing once either ground is proved, subject to costs terms imposed on the respondent"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Improper service is often the stronger and easier ground to establish than 'sufficient cause' for non-appearance — a respondent challenging an ex parte appellate judgment should first scrutinise the Rule 14 service record for defects before resorting to the more fact-intensive sufficient-cause route."
+      }
+    },
+    {
+      "number": "O-XLI-22",
+      "title": "Upon hearing respondent may object to decree as if he had preferred separate appeal",
+      "raw_text": "(1) Any respondent, though he may not have appealed from any part of the decree, may not only support the decree but may also state that the finding against him in the Court below in respect of any issue ought to have been in his favour; and may also take any cross-objection to the decree which he could have taken by way of appeal provided he has filed such objection in the Appellate Court within one month from the date of service on him or his pleader of notice of the day fixed for hearing the appeal, or within such further time as the Appellate Court may see fit to allow. Explanation.—A respondent aggrieved by a finding of the Court in the judgment on which the decree appealed against is based may, under this rule, file cross-objection in respect of the decree in so far as it is based on that finding, notwithstanding that by reason of the decision of the Court on any other finding which is sufficient for the decision of the suit, the decree, is, wholly or in part, in favour of that respondent. (2) Form of objection and provisions applicable thereto.—Such cross-objection shall be in the form of a memorandum, and the provisions of rule 1, so far as they relate to the form and contents of the memorandum of appeal, shall apply thereto. (4) Where, in any case in which any respondent has under this rule filed a memorandum of objection, the original appeal is withdrawn or is dismissed for default, the objection so filed may nevertheless be heard and determined after such notice to the other parties as the Court thinks fit. (5) The provisions relating to appeals by indigent persons shall, so far as they can be made applicable, apply to an objection under this rule.",
+      "key_terms": [
+        "cross-objection",
+        "one-month filing window",
+        "memorandum form",
+        "survives withdrawal or default dismissal",
+        "indigent-person provisions applicable"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 22 is the cross-objection mechanism — a respondent who has not separately appealed can still challenge an adverse finding against them, or take any ground they could have raised by way of a separate appeal, by filing a cross-objection within one month of being served notice of the hearing date (extendable by the Court). The Explanation clarifies this remains available even where the overall decree happens to favour that respondent on some other, independently sufficient finding — the cross-objection targets the specific adverse finding, not merely the ultimate decretal outcome. The cross-objection takes the form of a memorandum (Rule 1's form rules apply), survives even if the main appeal is withdrawn or dismissed for default (sub-rule (4), ensuring the respondent's own grievance gets heard regardless of the appellant's fate), and the indigent-persons appeal provisions apply to it so far as practicable.",
+        "essential_elements": [
+          "Available to any respondent, whether or not they filed a separate appeal",
+          "Covers both: (a) a finding against the respondent that should have gone the other way, and (b) any ground that could have been an independent appeal",
+          "Must be filed within one month of service of the hearing-date notice, extendable by the Court",
+          "Explanation: available even where the decree, taken as a whole, favours the respondent on some other sufficient finding",
+          "Takes the form of a memorandum, governed by Rule 1's form/content rules",
+          "Survives withdrawal or default-dismissal of the main appeal — heard independently after appropriate notice",
+          "Indigent-person appeal provisions apply so far as applicable"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The Explanation is the single most important and most litigated feature of Rule 22 — a party who 'won' on the ultimate decree but lost on a specific finding adverse to their interest (which could matter in future litigation, e.g. on res judicata/issue estoppel) must still file a timely cross-objection to that specific finding, or risk being bound by it later despite having 'won' the appeal."
+      }
+    },
+    {
+      "number": "O-XLI-23",
+      "title": "Remand of case by Appellate Court",
+      "raw_text": "Where the Court from whose decree an appeal is preferred has disposed of the suit upon a preliminary point and the decree is reversed in appeal, the Appellate Court may, if it thinks fit, by order remand the case, and may further direct what issue or issues shall be tried in the case so remanded, and shall send a copy of its judgment and order to the Court from whose decree the appeal is preferred, which directions to re-admit the suit under its original number in the register of civil suits, and proceed to determine the suit; and the evidence (if any) recorded during the original trial shall, subject to all just exceptions, be evidence during the trial after remand.",
+      "key_terms": [
+        "preliminary point disposal",
+        "remand after reversal",
+        "issues to be tried",
+        "re-admission under original number",
+        "original evidence preserved"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 23 addresses the classic remand scenario: the trial Court disposed of the entire suit on a threshold preliminary point (e.g., limitation, jurisdiction) without going into the merits, the Appellate Court reverses that preliminary finding, and the suit now genuinely needs a full trial on the merits that never happened. The Appellate Court can remand the case, specifying which issues must be tried, with the trial Court directed to re-admit the suit under its original number and proceed to determine it. Importantly, evidence already recorded in the original (preliminary-point) trial remains usable evidence after remand, subject to just exceptions — avoiding the waste of re-proving facts not actually in dispute.",
+        "essential_elements": [
+          "Applies where the suit was disposed of wholly on a preliminary point by the trial Court",
+          "Trigger: that preliminary-point decision is reversed on appeal",
+          "Appellate Court may remand and direct which issues are to be tried",
+          "Trial Court re-admits the suit under its original number and proceeds to determine it",
+          "Evidence recorded in the original trial remains usable post-remand, subject to just exceptions"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A remand order under Rule 23 should precisely specify the issues to be tried, since ambiguity here is a frequent source of further appeals — practitioners receiving a vague remand order should seek clarification before re-litigating the whole suit afresh."
+      }
+    },
+    {
+      "number": "O-XLI-23A",
+      "title": "Remand in other cases",
+      "raw_text": "Where the Court from whose decree an appeal is preferred has disposed of the case otherwise than on a preliminary point, and the decree is reversed in appeal and a re-trial is considered necessary, the Appellate Court shall have the same powers as it has under rule 23.",
+      "key_terms": [
+        "remand beyond preliminary point cases",
+        "re-trial necessary"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 23A closes a gap left by Rule 23's narrow preliminary-point framing — even where the trial Court decided the case on its full merits (not merely a preliminary point), if the decree is reversed on appeal and the Appellate Court considers a re-trial genuinely necessary, it has the same remand powers available under Rule 23. This was a 1976 amendment correcting the earlier anomaly where remand seemed textually available only for preliminary-point dismissals.",
+        "essential_elements": [
+          "Applies where the case was disposed of on full merits (not a preliminary point)",
+          "Trigger: decree reversed on appeal AND the Appellate Court considers re-trial necessary",
+          "Same remand powers as Rule 23 apply"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 23A should be the go-to remand provision whenever the trial Court actually went into the merits but the appellate reversal reveals a fundamental gap (e.g., a key issue was never properly tried) requiring fresh evidence — don't assume remand is unavailable just because Rule 23's literal text is limited to preliminary-point cases."
+      }
+    },
+    {
+      "number": "O-XLI-24",
+      "title": "Where evidence on record sufficient Appellate Court may determine case finally",
+      "raw_text": "Where the evidence upon the record is sufficient to enable the Appellate Court to pronounce judgement, the Appellate Court may, after resettling the issues, if necessary, finally determine the suit, notwithstanding that the judgment of the Court from whose decree the appeal is preferred has proceeded wholly upon some ground other than that on which the Appellate Court proceeds.",
+      "key_terms": [
+        "sufficient evidence on record",
+        "final determination by Appellate Court",
+        "resettling issues",
+        "different ground than trial Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 24 expresses a strong judicial preference for finality over remand — if the existing record already contains sufficient evidence for the Appellate Court to decide the suit itself, it should do so directly (after resettling issues if needed), even if its reasoning proceeds on an entirely different ground than the trial Court used. This avoids the delay and expense of sending the matter back down merely because the trial Court's own rationale differed, so long as the evidentiary record is adequate for the Appellate Court's own path to decision.",
+        "essential_elements": [
+          "Precondition: the existing record is sufficient for the Appellate Court to pronounce judgment itself",
+          "Appellate Court may resettle issues if necessary before finally determining the suit",
+          "Final determination is permitted even where the Appellate Court's ground of decision differs entirely from the trial Court's"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 24 and Rules 23/23A sit in deliberate tension — courts are expected to prefer Rule 24's direct final-determination route over remand whenever the record genuinely permits it, and remand should be reserved for cases where fresh evidence is truly indispensable, consistent with the appellate system's general anti-remand, pro-finality policy."
+      }
+    },
+    {
+      "number": "O-XLI-25",
+      "title": "Where Appellate Court may frame issues and refer them for trial to Court whose decree appealed from",
+      "raw_text": "Where the Court from whose decree the appeal is preferred has omitted to frame or try any issue, or to determine any question of fact, which appears to the Appellate Court essential to the right decision of the suit upon the merits, the Appellate Court may, if necessary, frame issues, and refer the same for trial to the Court from whose decree the appeal is preferred, and in such case shall direct such Court to take the additional evidence required; and such Court shall proceed to try such issues, and shall return the evidence to the Appellate Court together with its findings thereon and the reasons therefor within such time as may be fixed by the Appellate Court or extended by it from time to time.",
+      "key_terms": [
+        "omitted issue",
+        "essential question of fact",
+        "issues referred for trial",
+        "findings returned to Appellate Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 25 is a narrower, more surgical alternative to a full remand under Rules 23/23A — rather than sending the whole case back, the Appellate Court can identify a specific gap (an issue the trial Court never framed or tried, or a question of fact never determined, that is essential to deciding the suit on its merits), frame that issue itself, and refer just that issue back to the trial Court for trial, directing it to take whatever additional evidence is needed. The trial Court tries only that referred issue and returns the evidence plus its findings and reasons to the Appellate Court within a time fixed (or extended) by the Appellate Court — keeping the Appellate Court firmly in control of the overall appeal while outsourcing only the fact-finding gap.",
+        "essential_elements": [
+          "Trigger: trial Court omitted to frame/try an issue, or determine a fact question, essential to deciding the suit on merits",
+          "Appellate Court frames the issue(s) itself and refers them (not the whole suit) for trial below",
+          "Trial Court directed to take whatever additional evidence is required",
+          "Trial Court returns the evidence plus its findings and reasons within the Appellate-Court-fixed (or extended) time"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 25 is the preferred tool when only a narrow factual gap exists, since it avoids the cost and delay of restarting the entire suit under Rules 23/23A — practitioners should press for a Rule 25 reference over full remand whenever the deficiency is genuinely confined to one or two discrete issues."
+      }
+    },
+    {
+      "number": "O-XLI-26",
+      "title": "Findings and evidence to be put on record. Objections to findings",
+      "raw_text": "(1) Such evidence and findings shall form part of the record in the suit; and either party may, within a time to be fixed by the Appellate Court, present a memorandum of objections to any finding. (2) Determination of appeal.—After the expiration of the period so fixed for presenting such memorandum the Appellate Court shall proceed to determine the appeal.",
+      "key_terms": [
+        "evidence and findings on record",
+        "memorandum of objections",
+        "Appellate Court determines after objection period"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 26 completes the Rule 25 reference process — once the trial Court returns the additional evidence and its findings, both become part of the suit record, and either party gets a fixed window to file a memorandum of objections to any finding they disagree with. Only after that objection window closes does the Appellate Court proceed to finally determine the appeal, ensuring both sides get a fair chance to contest the referred findings before the appeal is decided.",
+        "essential_elements": [
+          "Returned evidence and findings become part of the suit record",
+          "Either party may file a memorandum of objections to any finding, within a Court-fixed time",
+          "Appellate Court determines the appeal only after that objection period expires"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A party dissatisfied with a Rule 25-referred finding must act within the fixed objection window under Rule 26 — silence during that period risks the finding being treated as effectively unchallenged when the Appellate Court proceeds to final determination."
+      }
+    },
+    {
+      "number": "O-XLI-26A",
+      "title": "Order of remand to mention date of next hearing",
+      "raw_text": "Where the Appellate Court remands a case under rule 23 or rule 23A, or frames issues and refers them for trial under rule 25, it shall fix a date for the appearance of the parties before the Court from whose decree the appeal was preferred for the purpose of receiving the directions of that Court as to further proceedings in the suit.",
+      "key_terms": [
+        "fixed appearance date",
+        "remand or reference order"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 26A is a practical administrative safeguard — whenever the Appellate Court remands a case (Rules 23/23A) or refers issues for trial (Rule 25), it must also fix a specific date for the parties to appear before the trial Court to receive directions on further proceedings. This prevents a remanded/referred matter from languishing without a clear next procedural step once it returns to the trial Court's docket.",
+        "essential_elements": [
+          "Applies to remand orders under Rule 23 or Rule 23A, and to issue-reference orders under Rule 25",
+          "Appellate Court must fix a date for party appearance before the trial Court to receive further directions"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Counsel should calendar the Rule 26A appearance date immediately upon receiving a remand/reference order — missing this date can cause needless delay in restarting proceedings before the trial Court."
+      }
+    },
+    {
+      "number": "O-XLI-27",
+      "title": "Production of additional evidence in Appellate Court",
+      "raw_text": "(1) The parties to an appeal shall not be entitled to produce additional evidence, whether oral or documentary, in the Appellate Court. But if— (a) the Court from whose decree the appeal is preferred has refused to admit evidence which ought to have been admitted, or (aa) the party seeking to produce additional evidence, establishes that notwithstanding the exercise of due diligence, such evidence was not within his knowledge or could not, after the exercise of due diligence, be produced by him at the time when the decree appealed against was passed, or (b) the Appellate Court requires any document to be produced or any witness to be examined to enable it to pronounce judgment, or for any other substantial cause, the Appellate Court may allow such evidence or document to be produced, or witness to be examined. (2) Wherever additional evidence is allowed to be produced by an Appellate Court, the Court shall record the reason for its admission.",
+      "key_terms": [
+        "no additional evidence as of right",
+        "wrongly refused evidence",
+        "due diligence exception",
+        "Court's own need for evidence",
+        "recorded reasons for admission"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 27 embodies a strict default rule against additional evidence at the appellate stage — appeals are meant to review the trial record, not provide a second bite at evidence-gathering. The exceptions are narrow and specific: (a) the trial Court wrongly refused to admit evidence that should have been admitted; (aa) the evidence, despite due diligence, was genuinely unknown to or unobtainable by the party at the time of the trial decree (added by amendment to tighten the due-diligence threshold); or (b) the Appellate Court itself needs a document produced or witness examined to pronounce judgment, or there is otherwise substantial cause. Whenever additional evidence is allowed under any of these gateways, the Court must record its reasons — a safeguard against casual erosion of the no-additional-evidence default.",
+        "essential_elements": [
+          "Default: no entitlement to additional oral/documentary evidence on appeal",
+          "Exception (a): trial Court wrongly refused evidence that ought to have been admitted",
+          "Exception (aa): evidence not within the party's knowledge, or unobtainable despite due diligence, at the time of the decree",
+          "Exception (b): Appellate Court itself requires production/examination to pronounce judgment, or substantial cause exists",
+          "Mandatory recorded reasons whenever additional evidence is admitted"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Exception (aa)'s due-diligence threshold is strictly construed — an application to lead additional evidence must affirmatively demonstrate why the evidence could not have been obtained and produced at trial despite genuine diligence, not merely assert its relevance or usefulness to the appeal."
+      }
+    },
+    {
+      "number": "O-XLI-28",
+      "title": "Mode of taking additional evidence",
+      "raw_text": "Wherever additional evidence is allowed to be produced, the Appellate Court may either take such evidence, or direct the Court from whose decree the appeal is preferred, or any other subordinate Court, to take such evidence and to send it when taken to the Appellate Court.",
+      "key_terms": [
+        "mode of taking additional evidence",
+        "Appellate Court or subordinate Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 28 gives the Appellate Court flexibility in how Rule 27-permitted additional evidence is actually recorded — it can take the evidence itself, or delegate the task to the trial Court or any other subordinate Court, with the evidence sent up to the Appellate Court once recorded.",
+        "essential_elements": [
+          "Appellate Court may take the additional evidence itself",
+          "Or direct the trial Court (or another subordinate Court) to take it and forward it once recorded"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Practically, delegation to the trial Court is common where the additional evidence requires extensive witness examination — but the Appellate Court retains full control over assessing and weighing that evidence once returned, regardless of who recorded it."
+      }
+    },
+    {
+      "number": "O-XLI-29",
+      "title": "Points to be defined and recorded",
+      "raw_text": "Where additional evidence is directed or allowed to be taken, the Appellate Court shall specify the points to which the evidence is to be confined, and record on its proceedings the points so specified.",
+      "key_terms": [
+        "points specified",
+        "evidence confined to specified points"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 29 keeps Rule 27/28 additional evidence tightly scoped — the Appellate Court must specify precisely which points the additional evidence is meant to address and record those points formally, preventing the additional-evidence exception from ballooning into a wholesale re-trial of issues never in genuine doubt.",
+        "essential_elements": [
+          "Appellate Court must specify the points to which additional evidence is confined",
+          "Those points must be recorded on the Court's proceedings"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A party or Court recording additional evidence beyond the Rule 29-specified points risks that evidence being excluded as outside the sanctioned scope — always cross-check the evidence actually led against the points formally recorded."
+      }
+    },
+    {
+      "number": "O-XLI-30",
+      "title": "Judgment when and where pronounced",
+      "raw_text": "(1) The Appellate Court, after hearing the parties or their pleaders and referring to any part of the proceedings, whether on appeal or in the Court from whose decree the appeal is preferred, to which reference may be considered necessary, shall pronounce judgment in open Court, either at once or on some future day of which notice shall be given to the parties or their pleaders. (2) Where a written judgment is to be pronounced, it shall be sufficient if the points for determination, the decision thereon and the final order passed in the appeal are read out and it shall not be necessary for the Court to read out the whole judgment, but a copy of the whole judgment shall be made available for the perusal of the parties or their pleaders immediately after the judgment is pronounced.",
+      "key_terms": [
+        "pronouncement in open Court",
+        "immediate or future day",
+        "abbreviated oral reading permitted",
+        "full copy made available"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 30 governs the mechanics of pronouncing the Appellate Court's judgment — after hearing the parties and consulting whatever part of the record (appellate or original) is needed, judgment must be pronounced in open Court, either immediately or on a notified future date. Sub-rule (2) is a practical efficiency measure: the Court need not read out the entire written judgment aloud — reading the points for determination, the decision on each, and the final order suffices — provided the complete judgment text is made available to the parties immediately after pronouncement.",
+        "essential_elements": [
+          "Judgment pronounced in open Court, immediately or on a future notified day",
+          "Court may reference any part of the record (appellate or original) considered necessary",
+          "Abbreviated oral reading (points, decisions, final order) is sufficient in lieu of reading the whole judgment aloud",
+          "Full written judgment must be made available to the parties immediately upon pronouncement"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sub-rule (2)'s abbreviated-reading practice is now the near-universal norm in Indian appellate courts given caseload volume — counsel should ensure they promptly obtain the full written copy immediately after pronouncement rather than relying solely on the summarised oral reading for drafting any further appeal or review."
+      }
+    },
+    {
+      "number": "O-XLI-31",
+      "title": "Contents, date and signature of judgment",
+      "raw_text": "The judgment of the Appellate Court shall be in writing and shall state— (a) the points for determination; (b) the decision thereon; (c) the reasons for the decision; and (d) where the decree appealed from is reversed or varied, the relief to which the appellant is entitled, and shall at the time that it is pronounced be signed and dated by the Judge or by the Judges concurring therein.",
+      "key_terms": [
+        "written judgment",
+        "points for determination",
+        "reasons for decision",
+        "relief on reversal or variation",
+        "signed and dated"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 31 mandates a structured, reasoned written judgment from the Appellate Court — points for determination, the decision on each, the reasons supporting that decision, and (where the appeal succeeds in reversing or varying the decree) the specific relief the appellant is entitled to. This structure mirrors Order XX's requirements for trial-Court judgments and ensures appellate reasoning is transparent and reviewable on further appeal. The judgment must be signed and dated by the concurring judge(s) at the time of pronouncement.",
+        "essential_elements": [
+          "Must be in writing",
+          "Must state: points for determination; decision on each; reasons for the decision",
+          "Where decree is reversed/varied: must specify the relief to which the appellant is entitled",
+          "Signed and dated by the judge(s) concurring, at the time of pronouncement"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A judgment lacking clearly identified points for determination and corresponding reasons under clauses (a)-(c) is vulnerable to challenge on further appeal for being unreasoned — practitioners reviewing an appellate judgment for a possible second appeal should check first whether Rule 31's structural requirements were actually met."
+      }
+    },
+    {
+      "number": "O-XLI-32",
+      "title": "What judgment may direct",
+      "raw_text": "The judgment may be for confirming, varying or reversing the decree from which the appeal is preferred, or, if the parties to the appeal agree as to the form which the decree in appeal shall take, or as to the order to be made in appeal, the Appellate Court may pass a decree or make an order accordingly.",
+      "key_terms": [
+        "confirm vary or reverse",
+        "consent decree on appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 32 states the basic range of outcomes an appellate judgment can direct: confirming the decree below, varying it, or reversing it outright. It also recognises a consensual shortcut — if the parties themselves agree on the form the appellate decree or order should take, the Court can simply pass that agreed decree/order, avoiding a fully contested adjudication where the parties have already settled on the outcome.",
+        "essential_elements": [
+          "Three ordinary outcomes: confirm, vary, or reverse the decree appealed from",
+          "Consensual alternative: Court may pass a decree/order in the form agreed by the parties to the appeal"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The consent-decree route under Rule 32 is a useful, underused mechanism for formalising an appellate-stage settlement without needing a fully reasoned contested judgment — appropriate wherever the parties reach agreement on terms after the appeal is filed but before full argument."
+      }
+    },
+    {
+      "number": "O-XLI-33",
+      "title": "Power of Court of Appeal",
+      "raw_text": "The Appellate Court shall have power to pass any decree and make any order which ought to have been passed or made and to pass or make such further or other decree or order as the case may require, and this power may be exercised by the Court notwithstanding that the appeal is as to part only of the decree and may be exercised in favour of all or any of the respondents or parties, although such respondents or parties may not have filed any appeal or objection and may, where there have been decrees in cross-suits or where two or more decrees are passed in one suit, be exercised in respect of all or any of the decrees, although an appeal may not have been filed against such decrees: Provided that the Appellate Court shall not make any order under section 35A in pursuance of any objection on which the Court from whose decree the appeal is preferred has omitted or refused to make such order. Illustration: A claims a sum of money as due to him from X or Y, and in a suit against both obtains a decree against X. X, appeals and A and Y are respondents. The Appellate Court decides in favour of X. It has power to pass a decree against Y.",
+      "key_terms": [
+        "widest remedial power",
+        "partial appeal",
+        "benefit to non-appealing parties",
+        "cross-suits and multiple decrees",
+        "Section 35A compensatory costs proviso"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 33 is the broadest and most powerful provision in the Order — it gives the Appellate Court sweeping authority to pass whatever decree or order 'ought to have been passed,' not confined to the specific relief the appellant formally sought, and not even confined to the part of the decree actually appealed. This power can be exercised in favour of any respondent or party, even one who never filed any appeal or cross-objection themselves, and even across multiple decrees arising from cross-suits or consolidated proceedings where only one decree was formally appealed. The Illustration makes this concrete: where A sues both X and Y and wins only against X, and X alone appeals, the Appellate Court — on finding for X — can pass a corresponding decree against Y, even though Y never appealed. The sole proviso restraint concerns Section 35A compensatory costs for false/vexatious claims, which cannot be awarded on appeal if the trial Court itself declined or omitted to award them on the same objection.",
+        "essential_elements": [
+          "Power to pass any decree/order that ought to have been passed, not limited to what was formally prayed for",
+          "Exercisable even where the appeal concerns only part of the decree",
+          "Exercisable in favour of any respondent/party, whether or not they themselves appealed or filed objections",
+          "Exercisable across multiple decrees (cross-suits, consolidated suits) even if not all were separately appealed",
+          "Proviso: no Section 35A compensatory-costs order on appeal where the trial Court itself omitted/refused to make such an order on the same objection"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 33 is the textual foundation for granting relief to a non-appealing co-defendant/co-plaintiff in multi-party litigation — always consider at the drafting stage whether a favourable appellate finding could or should extend, via Rule 33, to parties beyond the formal appellant/respondent pairing, since the Court has clear power to do so of its own motion."
+      }
+    },
+    {
+      "number": "O-XLI-34",
+      "title": "Dissent to be recorded",
+      "raw_text": "Where the Appeal is heard by more judges than one, any judge dissenting from the judgment of the Court shall state in writing the decision or order which he thinks should be passed on the appeal, and he may state his reasons for the same.",
+      "key_terms": [
+        "dissenting judgment",
+        "multi-judge bench"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 34 ensures a transparent record in multi-judge appellate benches — a dissenting judge must put the dissenting decision or order they consider correct in writing, and may (though is not compelled to) also state the reasons for that dissent. This preserves the minority view on record for the parties and for any further appeal, even though it does not alter the operative outcome of the majority decision.",
+        "essential_elements": [
+          "Applies only where the appeal is heard by more than one judge",
+          "A dissenting judge must record in writing the decision/order he considers should have been passed",
+          "Stating reasons for the dissent is optional, not mandatory"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A recorded dissent under Rule 34 is often significant for a further appeal (e.g., to the Supreme Court) as it can highlight precisely which legal or factual point was genuinely contested within the bench — litigants drafting a further appeal should always examine any dissent for arguable grounds the majority may have glossed over."
+      }
+    },
+    {
+      "number": "O-XLI-35",
+      "title": "Date and contents of decree",
+      "raw_text": "(1) The decree of the Appellate Court shall bear date the day on which the judgment was pronounced. (2) The decree shall contain the number of the appeal, the names and descriptions of the appellant and respondent, and a clear specification of the relief granted or other adjudication made. (3) The decree shall also state the amount of costs incurred in the appeal, and by whom, or out of what property, and in what proportions such costs and the costs in the suit are to be paid. (4) The decree shall be signed and dated by the Judge or Judges who passed it: Judge dissenting from judgment need not sign decree.—Provided that where there are more Judges than one and there is a difference of opinion among them, it shall not be necessary for any Judge dissenting from the judgment of the Court to sign the decree.",
+      "key_terms": [
+        "decree dated as judgment",
+        "appeal number and party details",
+        "costs apportionment",
+        "signed by majority judges",
+        "dissenting judge need not sign"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 35 governs the formal contents and execution of the appellate decree — it must be dated the same day as the judgment's pronouncement, must specify the appeal number, the parties' names/descriptions, and a clear statement of the relief granted or adjudication made, and must state the appeal costs (and their apportionment, including interaction with suit costs below). The decree is signed and dated by the deciding judge(s), with an explicit exemption sparing a dissenting judge from having to sign a decree that reflects the majority's (not his own) conclusion.",
+        "essential_elements": [
+          "Decree date = date of judgment pronouncement",
+          "Must contain: appeal number, parties' names/descriptions, clear specification of relief/adjudication",
+          "Must state appeal costs, by whom/out of what property payable, and proportion relative to suit costs",
+          "Signed and dated by the deciding judge(s)",
+          "A dissenting judge is not required to sign the decree"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A decree that omits the costs apportionment required by sub-rule (3), or that is undated/unsigned as required by sub-rule (4), is procedurally defective — practitioners should check these formal requirements before treating an appellate decree as final and executable."
+      }
+    },
+    {
+      "number": "O-XLI-36",
+      "title": "Copies of judgment and decree to be furnished to parties",
+      "raw_text": "Certified copies of the judgment and decree in appeal shall be furnished to the parties on application to the Appellate Court and at their expense.",
+      "key_terms": [
+        "certified copies",
+        "application and expense"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 36 entitles either party to obtain certified copies of the appellate judgment and decree, on application to the Appellate Court and at the applying party's own expense — the standard mechanism for obtaining authenticated documents needed for execution, further appeal, or record purposes.",
+        "essential_elements": [
+          "Certified copies of judgment and decree available on application",
+          "Furnished at the applicant's own expense"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A certified copy obtained under Rule 36 is typically a mandatory accompaniment to any further appeal (e.g., second appeal or Supreme Court appeal) — parties should apply for it promptly once judgment is pronounced to avoid limitation pressure on any further challenge."
+      }
+    },
+    {
+      "number": "O-XLI-37",
+      "title": "Certified copy of decree to be sent to Court whose decree appealed from",
+      "raw_text": "A copy of the judgment and of the decree, certified by the Appellate Court or such officer as it appoints in this behalf, shall be sent to the Court which passed the decree appealed from and shall be filed with the original proceedings in the suit, and an entry of the judgment of the Appellate Court shall be made in the register of civil suits.",
+      "key_terms": [
+        "certified copy sent to trial Court",
+        "filed with original proceedings",
+        "entry in register of civil suits"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 37 closes the administrative loop between the Appellate Court and the trial Court — a certified copy of the appellate judgment and decree must be sent down to the Court that passed the original decree, filed together with the original suit proceedings, and formally entered in the register of civil suits. This ensures the trial-Court record accurately reflects the final appellate outcome, which matters for any subsequent execution or further proceedings in that Court.",
+        "essential_elements": [
+          "Certified copy of judgment and decree sent to the trial Court",
+          "Filed with the original suit proceedings",
+          "Entry of the Appellate Court's judgment made in the register of civil suits"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This Rule 37 transmission is what ultimately enables the trial Court to execute the appellate decree (or any varied decree) — a party seeking execution post-appeal should confirm this transmission has actually occurred before proceeding in the executing Court."
+      }
     }
   ]
 }
