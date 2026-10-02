@@ -7723,6 +7723,462 @@
         ],
         "how_to_read": "Once leave to amend is granted, calendar the deadline immediately and file the amended pleading well within time (or apply proactively for an extension before the deadline lapses) — letting leave to amend lapse is an avoidable, purely administrative failure that can cost a party a hard-won procedural opportunity."
       }
+    },
+    {
+      "number": "O-VII",
+      "title": "Order VII — Plaint (Overview)",
+      "raw_text": "ORDER VII\nPlaint\n\nThis Order is the complete code on the plaintiff's foundational pleading: the mandatory particulars every plaint must contain, special requirements for money suits, interest claims, immovable property, representative suits, limitation exemption, and specific relief; the procedure on admitting a plaint, returning it to the correct Court, and — most critically for practitioners — the grounds and procedure for rejecting a plaint under Rule 11; and the rules on producing documents relied on in the plaint.",
+      "key_terms": [
+        "plaint",
+        "cause of action",
+        "rejection of plaint",
+        "return of plaint",
+        "Order VII Rule 11",
+        "documents relied on"
+      ],
+      "breakdown": {
+        "plain_summary": "Order VII governs everything about drafting, filing, and testing a plaint. Rule 1 lists the mandatory particulars (parties, cause of action and when it arose, jurisdictional facts, relief claimed, valuation); Rules 2-8 add special requirements for money claims, interest claims (Rule 2A), immovable property suits, representative suits, limitation-exemption pleading, and specific relief. Rules 9-10B deal with Court procedure after a plaint is admitted, including the pivotal power to return a plaint to the proper Court (Rule 10) and the appellate-transfer mechanism (Rule 10B). Rule 11 — one of the most heavily litigated provisions in the entire Code — lists the exhaustive grounds on which a plaint must be rejected (no cause of action, undervaluation, insufficient stamping, statutory bar apparent from the plaint, non-filing in duplicate, non-compliance with Rule 9), with Rule 13 clarifying that rejection does not by itself bar a fresh plaint on the same cause of action. Rules 14-17 govern production of documents the plaintiff relies on, with Rule 14(3) excluding undisclosed documents from evidence absent leave of Court.",
+        "essential_elements": [
+          "Rule 1 mandates specific particulars in every plaint: Court, parties' details, minority/unsoundness-of-mind status, cause of action facts and date, jurisdictional facts, relief claimed, any set-off/relinquishment, and valuation for jurisdiction/court-fees.",
+          "Rule 2A requires plaints seeking interest to specify whether it is claimed under Section 34, under a contract/statute, or otherwise, with the rate, start date, calculation date, total to date, and post-date daily accrual rate.",
+          "Rule 10 empowers the Court to return a plaint at any stage to the Court in which the suit should have been instituted (lack of jurisdiction), with Rule 10A letting the Court fix an appearance date in the transferee Court to streamline the transition, and Rule 10B governing appellate-level transfer.",
+          "Rule 11 is the core gatekeeping provision: a plaint MUST be rejected for no disclosed cause of action, undervaluation uncorrected after Court direction, insufficient stamping uncorrected after Court direction, a statutory bar apparent on the plaint's own statements, non-duplicate filing, or non-compliance with Rule 9 — tested ordinarily by reading the plaint's own averments as true, without looking at the written statement.",
+          "Rule 13 softens Rule 11's bite: rejection of a plaint does not, by its own force, bar the plaintiff from presenting a fresh plaint on the same cause of action (subject to limitation and other legal bars).",
+          "Rule 14 requires the plaintiff to produce and list, at the time of presenting the plaint, every document sued upon or relied on that is in the plaintiff's possession/power, with Rule 14(3) barring an undisclosed document from being received in evidence on the plaintiff's behalf without the Court's leave."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 15 (statement where documents are not in the plaintiff's possession) was omitted by the 1999 amendment, and Rule 18 (inadmissibility of undisclosed documents) was omitted by the 2002 amendment — their substance now largely folded into Rule 14.",
+          "Rule 11's proviso bars extension of time to correct valuation/stamping unless the Court is satisfied, for recorded reasons, that an exceptional cause prevented timely compliance and that refusing extension would cause grave injustice.",
+          "Rule 14(4) exempts documents used only for cross-examining the plaintiff's witnesses or to refresh a witness's memory from the disclosure-and-list requirement.",
+          "Rule 17's shop-book production requirement yields to the Bankers' Books Evidence Act, 1891 where that special Act applies."
+        ],
+        "how_to_read": "Order VII Rule 11 is the single most common pre-trial battleground in Indian civil litigation — as a defendant, scrutinise the plaint's own averments (not the merits) for a missing cause of action, an apparent limitation/jurisdictional bar, or undervaluation/stamping defects, and move promptly; as a plaintiff, draft the plaint defensively against exactly these six grounds, since an adverse Rule 11 order (though not an automatic bar to re-filing under Rule 13) can still cost time, limitation exposure, and costs."
+      }
+    },
+    {
+      "number": "O-VII-1",
+      "title": "Order VII, Rule 1 — Particulars to be contained in plaint",
+      "raw_text": "1. Particulars to be contained in plaint.—The plaint shall contain the following particulars:—\n(a) the name of the Court in which the suit is brought;\n(b) the name, description and place of residence of the plaintiff;\n(c) the name, description and place of residence of the defendant, so far as they can be ascertained;\n(d) where the plaintiff or the defendant is a minor or a person of unsound mind, a statement to that effect;\n(e) the facts constituting the cause of action and when it arose;\n(f) the facts showing that the Court has jurisdiction;\n(g) the relief which the plaintiff claims;\n(h) where the plaintiff has allowed a set-off or relinquished a portion of his claim, the amount so allowed, or relinquished; and\n(i) a statement of the value of the subject-matter of the suit for the purposes of jurisdiction and of court-fees, so far as the case admits.",
+      "key_terms": [
+        "plaint particulars",
+        "cause of action",
+        "jurisdictional facts",
+        "valuation",
+        "relief claimed"
+      ],
+      "breakdown": {
+        "plain_summary": "This Rule is the master checklist for every plaint: the Court's name, both parties' identifying details, any minority/unsoundness-of-mind status, the cause-of-action facts and when they arose, the facts establishing the Court's jurisdiction, the relief claimed, any set-off allowed or claim relinquished, and the suit's valuation for jurisdiction and court-fee purposes.",
+        "essential_elements": [
+          "Clause (a): correct Court's name.",
+          "Clauses (b)-(c): parties' name, description, and residence (defendant's, so far as ascertainable).",
+          "Clause (d): minority/unsoundness-of-mind disclosure where applicable.",
+          "Clause (e): cause-of-action facts AND when the cause of action arose (critical for limitation).",
+          "Clause (f): jurisdictional facts (pecuniary and territorial).",
+          "Clause (g): relief claimed.",
+          "Clause (h): disclosure of any set-off allowed or portion of claim relinquished.",
+          "Clause (i): valuation for jurisdiction and court-fees."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (c)'s defendant-details requirement is qualified by \"so far as they can be ascertained\" — a plaintiff is not expected to supply details genuinely unknown despite reasonable effort."
+        ],
+        "how_to_read": "This Rule 1 checklist is the first thing to audit both when drafting a plaint and when attacking one under Order VII Rule 11 — a missing cause-of-action date (clause (e)) is often the entry point for a limitation-bar rejection argument, and missing jurisdictional facts (clause (f)) for a jurisdiction challenge."
+      }
+    },
+    {
+      "number": "O-VII-2",
+      "title": "Order VII, Rule 2 — In money suits",
+      "raw_text": "2. In money suits.—Where the plaintiff seeks the recovery of money, the plaint shall state the precise amount claimed:\nBut where the plaintiff sues for mesne profits, or for an amount which will be found due to him on taking unsettled accounts between him and the defendant, or for movables in the possession of the defendant, or for debts of which the value he cannot, after the exercise of reasonable diligence, estimate, the plaint shall state approximately the amount or value sued for.",
+      "key_terms": [
+        "money suit",
+        "precise amount",
+        "mesne profits",
+        "unsettled accounts",
+        "approximate valuation"
+      ],
+      "breakdown": {
+        "plain_summary": "A plaint seeking recovery of money must state the exact amount claimed — except in specific situations (mesne profits, amounts to be ascertained from unsettled accounts, movables in the defendant's possession, or debts whose value cannot be estimated despite reasonable diligence), where an approximate amount or value suffices.",
+        "essential_elements": [
+          "General rule: precise amount must be stated for money claims.",
+          "Exception: approximate amount/value suffices for mesne profits, unsettled-account claims, movables in defendant's possession, or genuinely inestimable debts."
+        ],
+        "exceptions_and_qualifications": [
+          "The approximation exception is conditioned on \"reasonable diligence\" having been exercised first — a plaintiff cannot claim the exception merely for convenience without having tried to ascertain the precise figure."
+        ],
+        "how_to_read": "Court-fee calculation usually tracks the amount stated under this Rule, so getting the precise-vs-approximate characterisation right (and being able to justify an approximate figure if challenged) has direct cost and Rule 11(b) undervaluation-rejection consequences."
+      }
+    },
+    {
+      "number": "O-VII-2A",
+      "title": "Order VII, Rule 2A — Where interest is sought in the suit",
+      "raw_text": "2A. Where interest is sought in the suit.— (1) Where the plaintiff seeks interest, the plaint shall contain a statement to that effect along with the details set out under sub-rules (2) and (3).\n(2) Where the plaintiff seeks interest, the plaint shall state whether the plaintiff is seeking interest in relation to a commercial transaction within the meaning of section 34 of the Code of Civil Procedure, 1908 (5 of 1908) and, furthermore, if the plaintiff is doing so under the terms of a contract or under an Act, in which case the Act is to be specified in the plaint; or on some other basis and shall state the basis of that.\n(3) Pleadings shall also state—\n(a) the rate at which interest is claimed;\n(b) the date from which it is claimed;\n(c) the date to which it is calculated;\n(d) the total amount of interest claimed to the date of calculation; and\n(e) the daily rate at which interest accrues after that date.",
+      "key_terms": [
+        "interest claim",
+        "Section 34 CPC",
+        "commercial transaction",
+        "interest particulars"
+      ],
+      "breakdown": {
+        "plain_summary": "A plaint claiming interest must spell out the legal basis for the claim (commercial transaction under Section 34, a contract, a statute, or some other basis) and give full particulars: the rate, the start date, the date up to which it is calculated, the total interest to that date, and the daily rate accruing thereafter.",
+        "essential_elements": [
+          "Sub-rule (2): must identify the basis of the interest claim (Section 34 commercial-transaction interest, contractual, statutory, or other).",
+          "Sub-rule (3): must state rate, start date, calculation-date cut-off, total interest to that date, and post-cut-off daily accrual rate."
+        ],
+        "exceptions_and_qualifications": [
+          "This Rule applies specifically where the plaintiff \"seeks interest\" — a plaint making no interest claim need not address it at all."
+        ],
+        "how_to_read": "Pleading interest with this level of particularity avoids later disputes over quantum at the decree stage — draft the interest paragraph as a worked calculation (principal, rate, period, running total, daily accrual) rather than a vague \"interest at such rate as the Court deems fit\" formula, which invites challenge under this Rule's specificity requirement."
+      }
+    },
+    {
+      "number": "O-VII-3",
+      "title": "Order VII, Rule 3 — Where the subject-matter of the suit is immovable property",
+      "raw_text": "3. Where the subject-matter of the suit is immovable property.—Where the subject-matter of the suit is immovable property, the plaint shall contain a description of the property sufficient to identify it, and, in case such property can be identified by boundaries or numbers in a record of settlement or survey, the plaint shall specify such boundaries or numbers.",
+      "key_terms": [
+        "immovable property",
+        "property description",
+        "survey numbers",
+        "boundaries"
+      ],
+      "breakdown": {
+        "plain_summary": "Suits concerning immovable property must describe the property precisely enough to identify it — and where settlement/survey records give it boundaries or numbers, those must be specified in the plaint.",
+        "essential_elements": [
+          "Sufficient description to identify the property is mandatory.",
+          "Settlement/survey boundaries or numbers must be specified where they exist."
+        ],
+        "exceptions_and_qualifications": [
+          "Where no settlement/survey record exists for the property, a general but sufficiently identifying description (metes and bounds, landmarks, etc.) will suffice in its place."
+        ],
+        "how_to_read": "Vague property descriptions in suits for possession, partition, or injunction are a recurring source of execution difficulty later — always attach survey numbers/boundaries and, where practical, a site plan or schedule of property to the plaint to pre-empt identification disputes at the decree-execution stage."
+      }
+    },
+    {
+      "number": "O-VII-4",
+      "title": "Order VII, Rule 4 — When plaintiff sues as representative",
+      "raw_text": "4. When plaintiff sues as representative.—Where the plaintiff sues in a representative character the plaint shall show not only that he has an actual existing interest in the subject-matter, but that he has taken the steps (if any) necessary to enable him to institute a suit concerning it.",
+      "key_terms": [
+        "representative suit",
+        "representative capacity",
+        "existing interest"
+      ],
+      "breakdown": {
+        "plain_summary": "A plaintiff suing in a representative capacity (e.g., as trustee, next friend, or under Order I Rule 8) must show in the plaint both an actual existing interest in the subject-matter and compliance with any procedural steps required to be entitled to sue representatively.",
+        "essential_elements": [
+          "Must show actual existing interest in the subject-matter.",
+          "Must show compliance with any preconditions/steps necessary to sue in that representative character."
+        ],
+        "exceptions_and_qualifications": [
+          "Applies only where the plaintiff sues \"in a representative character\" — an ordinary plaintiff suing in his own right need not address this Rule."
+        ],
+        "how_to_read": "When suing as a representative (trustee, guardian, or under a representative-suit order), expressly plead both the source of the representative interest and compliance with any procedural precondition (e.g., Court permission under Order I Rule 8) — omitting this is a common ground for a maintainability challenge."
+      }
+    },
+    {
+      "number": "O-VII-5",
+      "title": "Order VII, Rule 5 — Defendant's interest and liability to be shown",
+      "raw_text": "5. Defendant's interest and liability to be shown.—The plaint shall show that the defendant is or claims to be interested in the subject-matter, and that he is liable to be called upon to answer the plaintiff's demand.",
+      "key_terms": [
+        "defendant's interest",
+        "liability to answer"
+      ],
+      "breakdown": {
+        "plain_summary": "The plaint must affirmatively show that the defendant has (or claims) an interest in the subject-matter of the suit and is liable to be called upon to answer the plaintiff's claim — tying the defendant into the dispute, not just naming them.",
+        "essential_elements": [
+          "Must show the defendant's actual or claimed interest in the subject-matter.",
+          "Must show the defendant's liability to answer the plaintiff's demand."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A plaint that merely names a party as defendant without pleading facts connecting them to the cause of action or showing their liability is vulnerable to a misjoinder or no-cause-of-action objection — always plead the specific nexus between each defendant and the relief sought against them."
+      }
+    },
+    {
+      "number": "O-VII-6",
+      "title": "Order VII, Rule 6 — Grounds of exemption from limitation law",
+      "raw_text": "6. Grounds of exemption from limitation law.—Where the suit is instituted after the expiration of the period prescribed by the law of limitation, the plaint shall show the ground upon which exemption from such law is claimed:\nProvided that the Court may permit the plaintiff to claim exemption from the law of limitation on any ground not set out in the plaint, if such ground is not inconsistent with the grounds set out in the plaint.",
+      "key_terms": [
+        "limitation exemption",
+        "condonation of delay",
+        "limitation bar"
+      ],
+      "breakdown": {
+        "plain_summary": "If a suit is filed after the normal limitation period, the plaint must plead the specific ground relied on to claim exemption from the bar of limitation. The Court may still permit reliance on an additional, unpleaded ground later — but only if it is consistent with (not contradictory to) the grounds already pleaded.",
+        "essential_elements": [
+          "Mandatory pleading of the limitation-exemption ground where the suit is filed beyond the limitation period.",
+          "Proviso: Court may permit an additional unpleaded ground, but only if consistent with the pleaded grounds."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso's consistency requirement prevents a plaintiff from pleading one exemption ground and later shifting to a factually contradictory one — a genuinely inconsistent new ground requires amendment, not mere Court permission under this proviso."
+        ],
+        "how_to_read": "A time-barred-looking plaint that fails to plead a limitation-exemption ground at all is a direct, often fatal, target for Rule 11(d) rejection (suit barred by law apparent from the plaint) — always address limitation head-on in the plaint if the suit is filed anywhere near or past the ordinary limitation period."
+      }
+    },
+    {
+      "number": "O-VII-7",
+      "title": "Order VII, Rule 7 — Relief to be specifically stated",
+      "raw_text": "7. Relief to be specifically stated.—Every plaint shall state specifically the relief which the plaintiff claims either simply or in the alternative, and it shall not be necessary to ask for general or other relief which may always be given as the Court may think just to the same extent as if it had been asked for. And the same rule shall apply to any relief claimed by the defendant in his written statement.",
+      "key_terms": [
+        "relief claimed",
+        "alternative relief",
+        "general relief"
+      ],
+      "breakdown": {
+        "plain_summary": "The plaint must specifically state the relief claimed, whether as a simple claim or in the alternative. There is no need to separately ask for \"general or other relief\" — the Court can always grant such relief as it thinks just, to the same extent as if it had been expressly asked for. The same principle applies to relief a defendant claims in a written statement (e.g., counter-claim).",
+        "essential_elements": [
+          "Specific relief (simple or alternative) must be stated.",
+          "No separate \"general relief\" prayer is necessary — the Court's power to grant just relief is not limited to what is expressly prayed.",
+          "Applies equally to defendant's relief claims in a written statement."
+        ],
+        "exceptions_and_qualifications": [
+          "The Court's power to grant unprayed \"general relief\" is not unlimited — it operates within the bounds of what is just on the facts and cause of action actually pleaded, not as a licence to grant an entirely different, unpleaded relief."
+        ],
+        "how_to_read": "Always plead relief in the alternative wherever the facts support more than one possible outcome (e.g., specific performance, or alternatively damages) — this Rule expressly sanctions alternative prayers, and failing to do so can needlessly narrow what the Court can grant even though general-relief power exists as a backstop."
+      }
+    },
+    {
+      "number": "O-VII-8",
+      "title": "Order VII, Rule 8 — Relief founded on separate grounds",
+      "raw_text": "8. Relief founded on separate grounds.—Where the plaintiff seeks relief in respect of several distinct claims or causes of action founded upon separate and distinct grounds, they shall be stated as far as may be separately and distinctly.",
+      "key_terms": [
+        "separate grounds",
+        "distinct causes of action",
+        "pleading structure"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a plaintiff claims relief on multiple distinct claims or causes of action, each founded on separate grounds, those claims/grounds must be pleaded separately and distinctly, as far as practicable — not blended together.",
+        "essential_elements": [
+          "Requires separate and distinct pleading of each distinct claim/cause of action founded on separate grounds."
+        ],
+        "exceptions_and_qualifications": [
+          "Qualified by \"as far as may be\" — practical blending is tolerated where genuinely necessary, but the default expectation is separation."
+        ],
+        "how_to_read": "In a plaint combining multiple causes of action (e.g., breach of contract and a separate tortious claim against the same defendant), structure the plaint with clearly separated sections/headings for each — this Rule reflects the same discipline Order II Rule 3 encourages for joinder of causes of action."
+      }
+    },
+    {
+      "number": "O-VII-9",
+      "title": "Order VII, Rule 9 — Procedure on admitting plaint",
+      "raw_text": "9. Procedure on admitting plaint.—Where the Court orders that the summons be served on the defendants in the manner provided in rule 9 of Order V, it will direct the plaintiff to present as many copies of the plaint on plain paper as there are defendants within seven days from the date of such order along with requisite fee for service of summons on the defendants.",
+      "key_terms": [
+        "admitting plaint",
+        "copies of plaint",
+        "service fee"
+      ],
+      "breakdown": {
+        "plain_summary": "Once the Court admits the plaint and orders summons to be served under Order V Rule 9's modern service modes, it directs the plaintiff to file one copy of the plaint on plain paper for each defendant, within seven days, along with the fee needed for serving summons.",
+        "essential_elements": [
+          "Triggered once the Court orders Order V Rule 9 service.",
+          "Plaintiff must supply one plain-paper copy per defendant within seven days of the order.",
+          "Plaintiff must also pay the requisite service fee within that window."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Non-compliance with this Rule is itself a ground for rejection of the plaint under Rule 11(f) — calendar the seven-day deadline for supplying copies and fees the moment the Court admits the plaint, since missing it can unravel an otherwise sound suit on a purely administrative default."
+      }
+    },
+    {
+      "number": "O-VII-10",
+      "title": "Order VII, Rule 10 — Return of plaint",
+      "raw_text": "10. Return of plaint.—(1) Subject to the provisions of rule 10A, the plaint shall at any stage of the suit be returned to be presented to the Court in which the suit should have been instituted.\nExplanation.— For the removal of doubts, it is hereby declared that a Court of appeal or revision may direct after setting aside the decree passed in a suit, the return of the plaint under this sub-rule.\n(2) Procedure on returning plaint.—On returning a plaint, the Judge shall endorse thereon the date of its presentation and return, the name of the party presenting it, and a brief statement of the reasons for returning it.",
+      "key_terms": [
+        "return of plaint",
+        "wrong Court",
+        "endorsement"
+      ],
+      "breakdown": {
+        "plain_summary": "If a suit was instituted in the wrong Court, the plaint must be returned (at any stage of the suit) for presentation to the correct Court — even an appellate or revisional Court can order this after setting aside a decree. On return, the Judge endorses the presentation date, return date, presenter's name, and brief reasons for return.",
+        "essential_elements": [
+          "Return is available \"at any stage of the suit\" once the wrong-Court problem is identified.",
+          "Explanation confirms appellate/revisional Courts can direct return of plaint after setting aside a decree.",
+          "Mandatory judicial endorsement: dates of presentation and return, presenter's name, and reasons."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 10 operates \"subject to the provisions of rule 10A\" — where the defendant has already appeared, the Court must follow Rule 10A's intimation-and-appearance-date procedure before (or as part of) returning the plaint."
+        ],
+        "how_to_read": "A plaint return for want of jurisdiction is not the end of the suit — the plaintiff can represent it to the correct Court, and under the Limitation Act the time spent in the wrong Court in good faith is typically excludable, so always check the endorsed return order and reasons carefully before refiling."
+      }
+    },
+    {
+      "number": "O-VII-10A",
+      "title": "Order VII, Rule 10A — Power of Court to fix a date of appearance in the Court where plaint is to be filed after its return",
+      "raw_text": "10A. Power of Court to fix a date of appearance in the Court where plaint is to be filed after its return.—(1) Where, in any suit, after the defendant has appeared, the Court is of opinion that the plaint should be returned, it shall, before doing so, intimate its decision to the plaintiff.\n(2) Where an intimation is given to the plaintiff under sub-rule (1), the plaintiff may make an application to the Court—\n(a) specifying the Court in which he proposes to present the plaint after its return,\n(b) praying that the Court may fix a date for the appearance of the parties in the said Court, and\n(c) requesting that the notice of the date so fixed may be given to him and to the defendant.\n(3) Where an application is made by the plaintiff under sub-rule (2), the Court shall, before returning the plaint and notwithstanding that the order for return of plaint was made by it on the ground that it has no jurisdiction to try the suit,—\n(a) fix a date for the appearance of the parties in the Court in which the plaint is proposed to be presented, and\n(b) give to the plaintiff and to the defendant notice of such date for appearance.\n(4) Where the notice of the date for appearance is given under sub-rule (3),—\n(a) it shall not be necessary for the Court in which the plaint is presented after its return, to serve the defendant with a summons for appearance in the suit, unless that Court, for reasons to be recorded, otherwise directs, and\n(b) the said notice shall be deemed to be a summons for the appearance of the defendant in the Court in which the plaint is presented on the date so fixed by the Court by which the plaint was returned.\n(5) Where the application made by the plaintiff under sub-rule (2) is allowed by the Court, the plaintiff shall not be entitled to appeal against the order returning the plaint.",
+      "key_terms": [
+        "intimation to plaintiff",
+        "fixed appearance date",
+        "deemed summons",
+        "waiver of appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the defendant has already appeared and the Court decides the plaint must be returned for want of jurisdiction, it must first intimate the plaintiff. The plaintiff can then apply for the Court to fix a date of appearance in the proposed correct Court and notify both sides — which, if granted, dispenses with a fresh summons in the new Court (the notice itself counts as the summons) and smooths the transition. But opting for this streamlined route costs the plaintiff the right to appeal the return order.",
+        "essential_elements": [
+          "Sub-rule (1): mandatory prior intimation to the plaintiff once the Court is minded to return the plaint after the defendant's appearance.",
+          "Sub-rule (2): plaintiff's application specifying the proposed Court and requesting a fixed appearance date with notice to both parties.",
+          "Sub-rule (3): Court must fix the date and give notice before actually returning the plaint, despite the jurisdictional defect.",
+          "Sub-rule (4): the notice doubles as a deemed summons in the new Court, ordinarily dispensing with fresh service.",
+          "Sub-rule (5): the trade-off — if the plaintiff's application is allowed, no appeal lies against the order returning the plaint."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (4)(a)'s dispensation from fresh summons yields if the new Court, for recorded reasons, directs otherwise."
+        ],
+        "how_to_read": "This Rule offers real efficiency (no fresh summons, immediate continuity in the correct Court) but at the explicit cost of appeal rights over the jurisdiction finding — weigh that trade-off carefully before invoking sub-rule (2), especially if the jurisdictional ruling itself is arguably wrong and worth appealing."
+      }
+    },
+    {
+      "number": "O-VII-10B",
+      "title": "Order VII, Rule 10B — Power of appellate Court to transfer suit to the proper Court",
+      "raw_text": "10B. Power of appellate Court to transfer suit to the proper Court.—(1) Where, on an appeal against an order for the return of plaint, the Court hearing the appeal confirms such order, the Court of appeal may, if the plaintiff by an application so desires, while returning the plaint, direct plaintiff to file the plaint, subject to the provisions of the Limitation Act, 1963 (36 of 1963), in the Court in which the suit should have been instituted, (whether such Court is within or without the State in which the Court hearing the appeal is situated), and fix a date for the appearance of the parties in the Court in which the plaint is directed to be filed and when the date is so fixed it shall not be necessary for the Court in which the plaint is filed to serve the defendant with the summons for appearance in the suit, unless that Court in which the plaint is filed, for reasons to be recorded, otherwise directs.\n(2) The direction made by the Court under sub-rule (1) shall be without any prejudice to the rights of the parties to question the jurisdiction of the Court, in which the plaint is filed, to try the suit.",
+      "key_terms": [
+        "appellate transfer",
+        "cross-State transfer",
+        "deemed summons"
+      ],
+      "breakdown": {
+        "plain_summary": "When an appeal against a plaint-return order is dismissed (the return order is confirmed), the appellate Court can, on the plaintiff's application, direct the plaintiff to file the plaint in the correct Court (even in another State), fix an appearance date there, and dispense with fresh summons — all without prejudicing either party's right to later contest that new Court's jurisdiction.",
+        "essential_elements": [
+          "Available only after an appeal against a return-of-plaint order is dismissed (order confirmed).",
+          "Requires a plaintiff application.",
+          "Can direct filing in a Court outside the State, subject to the Limitation Act.",
+          "Fixes an appearance date and (ordinarily) dispenses with fresh summons.",
+          "Sub-rule (2): expressly preserves both parties' right to still contest the new Court's jurisdiction."
+        ],
+        "exceptions_and_qualifications": [
+          "The fresh-summons dispensation again yields if the new Court records reasons to require fresh service."
+        ],
+        "how_to_read": "This is the appellate-stage counterpart to Rule 10A — useful for cross-State jurisdictional disputes where re-institution from scratch would be costly, but note it operates subject to the Limitation Act, so a plaintiff should not assume indefinite protection from limitation merely by invoking this transfer mechanism."
+      }
+    },
+    {
+      "number": "O-VII-11",
+      "title": "Order VII, Rule 11 — Rejection of plaint",
+      "raw_text": "11. Rejection of plaint.—The plaint shall be rejected in the following cases:—\n(a) where it does not disclose a cause of action;\n(b) where the relief claimed is undervalued, and the plaintiff, on being required by the Court to correct the valuation within a time to be fixed by the Court, fails to do so;\n(c) where the relief claimed is properly valued, but the plaint is returned upon paper insufficiently stamped, and the plaintiff, on being required by the Court to supply the requisite stamp-paper within a time to be fixed by the Court, fails to do so;\n(d) where the suit appears from the statement in the plaint to be barred by any law;\n(e) where it is not filed in duplicate;\n(f) where the plaintiff fails to comply with the provisions of rule 9:\nProvided that the time fixed by the Court for the correction of the valuation or supplying of the requisite stamp-paper shall not be extended unless the Court, for reasons to be recorded, is satisfied that the plaintiff was prevented by any cause of an exceptional nature from correcting the valuation or supplying the requisite stamp-paper, as the case may be, within the time fixed by the Court and that refusal to extend such time would cause grave injustice to the plaintiff.",
+      "key_terms": [
+        "rejection of plaint",
+        "no cause of action",
+        "undervaluation",
+        "insufficient stamping",
+        "barred by law",
+        "duplicate filing",
+        "Order VII Rule 11"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the Code's exhaustive list of grounds requiring a plaint's rejection: no disclosed cause of action; uncorrected undervaluation after a Court direction; uncorrected insufficient stamping after a Court direction; a statutory bar apparent from the plaint's own statements; non-duplicate filing; or non-compliance with Rule 9's post-admission procedure. The proviso makes time extensions for valuation/stamping defects hard to get — only for exceptional, recorded reasons where refusal would cause grave injustice.",
+        "essential_elements": [
+          "Clause (a): tested on the plaint's own averments — does it disclose a cause of action at all, taken as true?",
+          "Clause (b): undervaluation, but only rejectable after the plaintiff is given a Court-fixed time to correct and fails to do so.",
+          "Clause (c): insufficient stamping, again only rejectable after a similar correction opportunity and failure.",
+          "Clause (d): a legal bar (e.g., limitation, res judicata, lack of jurisdiction) apparent from the plaint's own statements — not requiring evidence outside the plaint.",
+          "Clause (e): failure to file in duplicate (procedural, tied to Order IV).",
+          "Clause (f): failure to comply with Rule 9 (supplying plain-paper copies and service fees after admission).",
+          "Proviso: strict limits on extending the valuation/stamping correction time — exceptional cause, recorded reasons, and grave injustice if refused."
+        ],
+        "exceptions_and_qualifications": [
+          "Rejection is tested ONLY on the plaint's own statements (and, per settled jurisprudence, documents filed with it) — the Court does not look at the written statement or weigh evidence at this stage.",
+          "The proviso is itself a tight exception on an exception — ordinarily the Court-fixed correction time is firm, and extension is the rare case, not the default."
+        ],
+        "how_to_read": "Order VII Rule 11 applications are won or lost entirely on the four corners of the plaint — never try to rely on the written statement or extraneous facts to support a Rule 11(a)/(d) application, and conversely, as plaintiff's counsel, always plead cause-of-action facts and limitation/jurisdiction facts defensively enough that no clause of this Rule can be triggered by a plain reading of the plaint alone."
+      }
+    },
+    {
+      "number": "O-VII-12",
+      "title": "Order VII, Rule 12 — Procedure on rejecting plaint",
+      "raw_text": "12. Procedure on rejecting plaint.—Where a plaint is rejected the Judge shall record an order to that effect with the reasons for such order.",
+      "key_terms": [
+        "rejection order",
+        "reasons recorded"
+      ],
+      "breakdown": {
+        "plain_summary": "When a plaint is rejected under Rule 11, the Judge must record a formal order to that effect, stating the reasons for rejection.",
+        "essential_elements": [
+          "Mandatory recorded order.",
+          "Mandatory recorded reasons."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A reasoned rejection order is essential for any appeal against it (rejection of a plaint is treated as a decree, appealable under Section 96) — always obtain and carefully analyse the recorded reasons before deciding whether and how to challenge a Rule 11 rejection."
+      }
+    },
+    {
+      "number": "O-VII-13",
+      "title": "Order VII, Rule 13 — Where rejection of plaint does not preclude presentation of fresh plaint",
+      "raw_text": "13. Where rejection of plaint does not preclude presentation of fresh plaint.—The rejection of the plaint on any of the grounds hereinbefore mentioned shall not of its own force preclude the plaintiff from presenting a fresh plaint in respect of the same cause of action.",
+      "key_terms": [
+        "fresh plaint",
+        "res judicata",
+        "rejection not a bar"
+      ],
+      "breakdown": {
+        "plain_summary": "Rejection of a plaint under Rule 11 does not, by itself, stop the plaintiff from filing a fresh plaint on the same cause of action — rejection is a curable, non-final-on-the-merits disposal, not an adjudication barring re-litigation.",
+        "essential_elements": [
+          "Rejection alone does not operate as res judicata or any automatic bar to a fresh plaint on the same cause of action."
+        ],
+        "exceptions_and_qualifications": [
+          "This protection is \"of its own force\" only — other legal bars (limitation having since expired, a fresh and independent statutory bar, etc.) can still prevent a fresh plaint from succeeding even though Rule 11 rejection itself does not bar it."
+        ],
+        "how_to_read": "A Rule 11 rejection is rarely the end of the road for the plaintiff — but don't treat Rule 13 as a safety net that removes all urgency: limitation keeps running, so refile the corrected plaint promptly rather than relying on this Rule to indefinitely preserve the claim."
+      }
+    },
+    {
+      "number": "O-VII-14",
+      "title": "Order VII, Rule 14 — Production of document on which plaintiff sues or relies",
+      "raw_text": "14. Production of document on which plaintiff sues or relies.—(1) Where a plaintiff sues upon a document or relies upon document in his possession or power in support of his claim, he shall enter such documents in a list, and shall produce it in Court when the plaint is presented by him and shall, at the same time deliver the document and a copy thereof, to be filed with the plaint.\n(2) Where any such document is not in the possession or power of the plaintiff, he shall, wherever possible, state in whose possession or power it is.\n(3) A document which ought to be produced in Court by the plaintiff when the plaint is presented, or to be entered in the list to be added or annexed to the plaint but is not produced or entered accordingly, shall not, without the leave of the Court, be received in evidence on his behalf at the hearing of the suit.\n(4) Nothing in this rule shall apply to document produced for the cross-examination of the plaintiff's witnesses, or handed over to a witness merely to refresh his memory.",
+      "key_terms": [
+        "documents relied on",
+        "list of documents",
+        "leave of Court",
+        "exclusion from evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "Every document the plaintiff sues upon or relies on, if in the plaintiff's possession or power, must be listed, produced in Court, and filed (with a copy) along with the plaint. If a relied-on document is not in the plaintiff's possession, the plaint should state who has it, where possible. Failing to produce/list a document this way bars it from being used in evidence for the plaintiff later, unless the Court grants leave. Documents used only for cross-examining the plaintiff's own witnesses, or to refresh a witness's memory, are exempt from this entire discipline.",
+        "essential_elements": [
+          "Sub-rule (1): mandatory listing, production, and filing of documents in the plaintiff's possession/power at the time of presenting the plaint.",
+          "Sub-rule (2): where not in possession/power, state (where possible) who holds it.",
+          "Sub-rule (3): non-compliance bars the document from evidence on the plaintiff's behalf absent Court leave.",
+          "Sub-rule (4): cross-examination and memory-refreshing documents are outside this Rule's scope entirely."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (3)'s evidentiary bar is not absolute — the Court retains discretion to grant leave allowing a late or undisclosed document into evidence."
+        ],
+        "how_to_read": "Build a document list as a standing checklist alongside every plaint: every document the plaint relies on must be filed with it, or expressly explained as held by a named third party — a document surfacing for the first time at trial without having been disclosed risks exclusion under sub-rule (3), and obtaining leave to cure that is never guaranteed."
+      }
+    },
+    {
+      "number": "O-VII-16",
+      "title": "Order VII, Rule 16 — Suits on lost negotiable instruments",
+      "raw_text": "16. Suits on lost negotiable instruments.—Where the suit is founded upon a negotiable instrument, and it is proved that the instrument is lost, and an indemnity is given by the plaintiff, to the satisfaction of the Court, against the claims of any other person upon such instrument, the Court may pass such decree as it would have passed if the plaintiff had produced the instrument in Court when the plaint was presented, and had at the same time delivered a copy of the instrument to be filed with the plaint.",
+      "key_terms": [
+        "lost negotiable instrument",
+        "indemnity",
+        "decree despite loss"
+      ],
+      "breakdown": {
+        "plain_summary": "If a suit is based on a negotiable instrument (promissory note, bill of exchange, cheque) that has been lost, the plaintiff can still get a decree exactly as if the instrument had been produced — provided the loss is proved and the plaintiff gives the Court a satisfactory indemnity against anyone else later claiming on that same instrument.",
+        "essential_elements": [
+          "Loss of the instrument must be proved.",
+          "Plaintiff must give an indemnity, to the Court's satisfaction, against third-party claims on the lost instrument.",
+          "On satisfying both, the Court may decree the suit as if the instrument had been produced per Rule 14."
+        ],
+        "exceptions_and_qualifications": [
+          "This Rule is a specific carve-out from Rule 14's production requirement, available only for negotiable instruments and only on proof of loss plus adequate indemnity — it does not excuse non-production of any other type of document."
+        ],
+        "how_to_read": "In a suit on a lost cheque or promissory note, plead the loss explicitly and come prepared to offer a concrete indemnity (bond, undertaking, or security) rather than merely asserting the instrument is lost — Court satisfaction on the indemnity is a real precondition, not a formality."
+      }
+    },
+    {
+      "number": "O-VII-17",
+      "title": "Order VII, Rule 17 — Production of shop-book",
+      "raw_text": "17. Production of shop-book.—(1) Save in so far as is otherwise provided by the Bankers' Books Evidence Act, 1891 (XVIII of 1891), where the document on which the plaintiff sues is an entry in a shop-book or other account in his possession or power, the plaintiff shall produce the book or account at the time of filing the plaint, together with a copy of the entry on which he relies.\n(2) Original entry to be marked and returned.—The Court or such officer as it appoints in this behalf, shall forthwith mark the document for the purpose of identification; and, after examining and comparing the copy with the original, shall, if it is found correct, certify it to be so and return the book to the plaintiff and cause the copy to be filed.",
+      "key_terms": [
+        "shop-book",
+        "Bankers' Books Evidence Act",
+        "account entry"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a plaintiff sues on an entry in a shop-book or other account, the original book/account must be produced at the time of filing the plaint along with a copy of the relevant entry (subject to the special regime under the Bankers' Books Evidence Act, 1891, for banking records). The Court marks the original for identification, compares it with the copy, certifies the copy correct if it matches, and returns the original book to the plaintiff while retaining the certified copy on file.",
+        "essential_elements": [
+          "Production of the original shop-book/account at plaint-filing, with a copy of the relevant entry.",
+          "Court identification-marking, comparison, and certification procedure, followed by return of the original and filing of the certified copy."
+        ],
+        "exceptions_and_qualifications": [
+          "Yields to the Bankers' Books Evidence Act, 1891 where that special statute governs the document (i.e., banking records generally follow that Act's certified-copy regime instead)."
+        ],
+        "how_to_read": "For suits founded on ledger or account-book entries (not bank records), this Rule lets the plaintiff retain the original book for ongoing business use by substituting a Court-certified copy on the record — invoke it proactively rather than leaving an original business record tied up in Court files indefinitely."
+      }
     }
   ]
 }
