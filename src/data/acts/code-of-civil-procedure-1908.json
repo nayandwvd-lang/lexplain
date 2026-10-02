@@ -12919,6 +12919,592 @@
         ],
         "how_to_read": "Before filing a detailed bill of costs under Order XX-A, consult the applicable High Court's own costs rules, since the Code itself sets only the categories (Rule 1), not the rates."
       }
+    },
+    {
+      "number": "O-XXI",
+      "title": "Order XXI — Execution of Decrees and Orders",
+      "raw_text": "Order XXI of the First Schedule to the Code of Civil Procedure, 1908 is the Code's single largest and most heavily litigated Order, containing the entire machinery for turning a decree into actual relief: modes of payment under a decree, which Court may execute it, how to apply for execution, stay of execution, the modes of execution for each type of decree (money, movables, immovables, specific performance, injunctions, conjugal rights), attachment of every category of property, adjudication of claims and objections to attachment, the detailed sale process for movable and immovable property, and the special procedure for resisted or obstructed delivery of possession.",
+      "key_terms": [
+        "execution",
+        "decree-holder",
+        "judgment-debtor",
+        "attachment",
+        "sale",
+        "garnishee",
+        "resistance to possession",
+        "decree of a kind"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXI operationalises every other Order and the substantive execution Sections (36-74) of the Code. It runs, numerically, from Rule 1 to Rule 106 (with several inserted sub-rules like 11A, 22A, 43A, 46A-46I, 48A, and 72A), organised under running sub-headings: payment under a decree; which Court executes; applying for execution; stay of execution; the mode of execution appropriate to each kind of decree; attachment of property; adjudication of claims and objections to attachment; sale (general rules, then movable-specific, then immovable-specific rules); and resistance or obstruction to delivery of possession. A decree-holder's practical journey — file the execution application, get the right Court, choose the right mode, attach the right property, survive any claim petition, get through the sale process, and finally obtain actual possession or payment — tracks this Order's structure rule by rule.",
+        "essential_elements": [
+          "Payment under a decree (Rules 1-2): how and where money due under a decree may be paid or certified as adjusted.",
+          "Courts executing decrees (Rules 3-9): which Court executes, and the mechanics of transferring a decree for execution elsewhere.",
+          "Application for execution (Rules 10-25): how to apply, defect-curing, cross-decrees, show-cause notices, and formal process issuance.",
+          "Stay of execution (Rules 26-29) and mode of execution (Rules 30-40): temporary halts, and the specific enforcement method for each category of decree.",
+          "Attachment of property (Rules 41-57) and adjudication of claims/objections (Rules 58-59): how different kinds of property are attached, and how third-party claims are resolved.",
+          "Sale of property — general rules (Rules 64-73), movable-specific (Rules 74-81), and immovable-specific (Rules 82-96) — followed by resistance to delivery of possession (Rules 97-106)."
+        ],
+        "exceptions_and_qualifications": [
+          "Because of its size, this Order is split across multiple grouped entries in this library (by sub-heading) rather than being read as one continuous block — always check which sub-heading a given Rule falls under, since many rules are only meaningful in that procedural context.",
+          "Many rules were substantially rewritten by the Code of Civil Procedure (Amendment) Act, 1976 (w.e.f. 1-2-1977), which remains the dominant layer of amendment across this Order; rules 60-63 and rule 70 were omitted outright by subsequent amendments and no longer exist.",
+          "Execution proceedings are proceedings in continuation of the suit, not a fresh suit — Section 47 bars a separate suit on most questions relating to execution, discharge or satisfaction of the decree, channelling such disputes into applications under this Order instead."
+        ],
+        "how_to_read": "Treat Order XXI as a procedural flowchart rather than a list: identify which stage the execution has reached (filing, attachment, claim/objection, sale, or possession) and go straight to that sub-heading's rules rather than reading the whole Order sequentially."
+      }
+    },
+    {
+      "number": "O-XXI-1",
+      "title": "Order XXI Rule 1 — Modes of paying money under decree",
+      "raw_text": "1. Modes of paying money under decree.—(1) All money payable under a decree shall be paid as follows, namely:—\n(a) by deposit into the Court whose duty it is to execute the decree, or sent to that Court by postal money order or through a bank or by such other mode of transmission of money as the High Court may, by rule, provide; or\n(b) out of Court, to the decree-holder by postal money order or through a bank or by any other mode wherein payment is evidenced in writing; or\n(c) otherwise, as the Court which made the decree, directs.\n(2) Where any payment is made under clause (a) or clause (c) of sub-rule (1) notice of such payment shall be given to the decree-holder.\n(3) Where money is paid by postal money order or through a bank or by any other mode in pursuance of clause (a) or clause (b) sub-rule (1), the money shall be deemed to have been paid—\n(a) in the case of payment by postal money order, on the date on which the money was despatched by post; and\n(b) in the case of payment through a bank or by any other mode, on the date on which the payment was made.\n(4) Where any payment is made under clause (b) of sub-rule (1), the judgment-debtor shall give notice thereof to the decree-holder either through the Court or directly to him by registered post, acknowledgment due.\n(5) Where money is paid into Court under clause (a) of sub-rule (1), the Court shall issue a receipt for the payment to the person who pays it.",
+      "key_terms": [
+        "payment into Court",
+        "payment out of Court",
+        "postal money order",
+        "notice of payment"
+      ],
+      "breakdown": {
+        "plain_summary": "A judgment-debtor can satisfy a money decree in three ways: deposit the money in the executing Court (notice to decree-holder required), pay the decree-holder directly out of Court in a documented manner with notice to him, or pay in whatever other manner the Court directs. Payment by money order or bank transfer is deemed made the date it was sent/paid, not the date received, which matters for limitation and interest calculations.",
+        "essential_elements": [
+          "Three channels: into Court (clause a), direct to decree-holder out of Court with written evidence (clause b), or as the Court otherwise directs (clause c).",
+          "Notice obligations run both ways — the Court gives notice to the decree-holder of an into-Court payment, and the judgment-debtor must separately notify the decree-holder of an out-of-Court payment.",
+          "Date-of-payment deeming rule for money orders/bank transfers fixes the moment satisfaction occurs, independent of when the decree-holder actually receives or acknowledges it."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (c)'s 'otherwise, as the Court directs' is a residual catch-all beyond the two primary channels, invoked only where neither into-Court deposit nor direct out-of-Court payment fits the circumstances."
+        ],
+        "how_to_read": "This rule is the gateway to Section 47 disputes about whether a decree has been satisfied — a judgment-debtor relying on an out-of-Court payment should always ensure clause (b)'s written-evidence and notice requirements were met, or risk the payment being disputed later in execution."
+      }
+    },
+    {
+      "number": "O-XXI-2",
+      "title": "Order XXI Rule 2 — Payment out of Court to decree-holder",
+      "raw_text": "2. Payment out of Court to decree-holder.—(1) Where any money payable under a decree of any kind is paid out of Court, or the decree is otherwise adjusted in whole or in part to the satisfaction of the decree-holder, the decree-holder shall certify such payment or adjustment to the Court whose duty it is to execute the decree, and the Court shall record the same accordingly.\n(2) The judgment-debtor also may inform the Court of such payment or adjustment, and apply to the Court to issue a notice to the decree-holder to show cause, on a day to be fixed by the Court, why such payment or adjustment should not be recorded as certified; and if, after service of such notice, the decree-holder fails to show cause why the payment or adjustment should not be recorded as certified, the Court shall record the same accordingly.\n2[(2A) No payment or adjustment shall be recorded at the instance of the judgment-debtor unless—\n(a) the payment is made in the manner provided in rule 1; or\n(b) the payment or adjustment is proved by documentary evidence; or\n(c) the payment or adjustment is admitted by, or on behalf of, the decree-holder in his reply to the notice issued under sub-rule (2) or is otherwise proved to have been made or come into existence.]\n(3) A payment or adjustment, which has not been certified or recorded as aforesaid, shall not be recognised by any Court executing the decree.",
+      "key_terms": [
+        "certified payment",
+        "adjustment of decree",
+        "show-cause notice to decree-holder",
+        "uncertified payment not recognised"
+      ],
+      "breakdown": {
+        "plain_summary": "Any out-of-Court payment or settlement of a decree must be formally 'certified' to the executing Court — either the decree-holder reports it voluntarily, or the judgment-debtor can apply to make the decree-holder show cause why it shouldn't be recorded. Sub-rule (2A) tightens this for judgment-debtor-initiated certification, requiring either Rule 1-compliant payment, documentary proof, or the decree-holder's own admission. Critically, an uncertified payment or adjustment is simply not recognised by the executing Court at all.",
+        "essential_elements": [
+          "Two initiation routes: decree-holder self-certifies (sub-rule 1), or judgment-debtor applies for a show-cause notice compelling the decree-holder to respond (sub-rule 2).",
+          "Sub-rule (2A)'s evidentiary gatekeeping (Rule 1-compliant payment, documentary proof, or admission) was added to curb false claims of out-of-Court settlement by judgment-debtors.",
+          "Sub-rule (3)'s non-recognition bar is absolute: however genuine an uncertified payment may actually have been, the executing Court cannot act on it until it is certified/recorded under this rule."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (2A)'s three gateways (Rule-1-compliant payment, documentary proof, or the decree-holder's admission) are the exclusive routes for judgment-debtor-initiated certification — a bare, undocumented assertion of oral settlement does not qualify."
+        ],
+        "how_to_read": "A judgment-debtor who pays outside Court should always insist on documentary evidence (receipt, bank record) and promptly move to certify it — relying on an oral or undocumented settlement is a direct path to having execution proceed in full despite genuine payment."
+      }
+    },
+    {
+      "number": "O-XXI-3",
+      "title": "Order XXI Rule 3 — Lands situate in more than one jurisdiction",
+      "raw_text": "3. Lands situate in more than one jurisdiction.—Where a decree is for the sale or delivery of immovable property situate in more than one jurisdiction, the decree may be executed in respect of so much of the property as is situate within the local limits of the jurisdiction of the Court which passed it, and may be sent for execution, with regard to the rest of such property, to the Court within the local limits of whose jurisdiction the property is situate.",
+      "key_terms": [
+        "property in more than one jurisdiction",
+        "transfer of decree for execution"
+      ],
+      "breakdown": {
+        "plain_summary": "If the immovable property covered by a decree straddles the territorial jurisdiction of more than one Court, the decree-passing Court executes the portion within its own jurisdiction directly, and transfers the rest to whichever Court(s) have jurisdiction over the remaining property.",
+        "essential_elements": [
+          "Applies specifically to decrees for sale or delivery of immovable property, not money decrees generally.",
+          "Splits execution of a single decree across multiple Courts by territorial portion, rather than requiring the whole decree to be executed by one Court or transferred wholesale."
+        ],
+        "exceptions_and_qualifications": [
+          "This is the practical counterpart to Section 39's transfer-of-decree power for the specific scenario of jurisdictionally split immovable property — plead the property's full description and locations carefully so execution can be correctly apportioned."
+        ],
+        "how_to_read": "Read together with Rules 5 and 6 (mode and procedure of transferring a decree for execution) whenever the decree property spans Court boundaries."
+      }
+    },
+    {
+      "number": "O-XXI-4",
+      "title": "Order XXI Rule 4 — Transfer of decree to Court of Small Causes",
+      "raw_text": "4. Transfer of decree to Court of Small Causes.—A decree for the payment of money passed in a suit cognizable by Courts of Small Causes may, if it be transferred for execution to another Court, be transferred to a Court of Small Causes.",
+      "key_terms": [
+        "Court of Small Causes",
+        "transfer of money decree"
+      ],
+      "breakdown": {
+        "plain_summary": "A money decree arising from a suit of a kind Small Causes Courts could have heard can be sent for execution to a Court of Small Causes, even though that Court's jurisdiction is otherwise limited.",
+        "essential_elements": [
+          "Limited to money decrees in suits that were 'cognizable by Courts of Small Causes' — not a general grant of execution jurisdiction over all decrees to Small Causes Courts."
+        ],
+        "exceptions_and_qualifications": [
+          "Does not enlarge the Small Causes Court's own jurisdictional limits — it only permits such a Court to receive and execute a qualifying transferred money decree."
+        ],
+        "how_to_read": "A useful venue option when the judgment-debtor or attachable property has moved into a Small Causes Court's territorial jurisdiction and the underlying claim was of a Small-Cause nature."
+      }
+    },
+    {
+      "number": "O-XXI-5",
+      "title": "Order XXI Rule 5 — Mode of transferring decree",
+      "raw_text": "5. Mode of transferring decree.—The Court sending a decree for execution to another Court shall send,—\n(a) a copy of the decree;\n(b) a certificate setting forth that satisfaction of the decree has not been obtained by execution within the jurisdiction of the Court by which it was passed, or, where the decree has been executed in part, the extent to which satisfaction has been obtained and what part of the decree remains unsatisfied; and\n(c) a copy of any order for the execution of the decree, or, if no such order has been made, a certificate to that effect.",
+      "key_terms": [
+        "certified copy of decree",
+        "satisfaction certificate",
+        "transfer package"
+      ],
+      "breakdown": {
+        "plain_summary": "When transferring a decree to another Court for execution, the transferring Court must send a complete package: a copy of the decree itself, a certificate of how much (if any) remains unsatisfied, and either a copy of any existing execution order or a certificate that none exists.",
+        "essential_elements": [
+          "Three mandatory enclosures — decree copy, satisfaction-status certificate, and execution-order copy/certificate — ensure the receiving Court has the full execution history before acting."
+        ],
+        "exceptions_and_qualifications": [
+          "The rule is silent on consequences of an incomplete transfer package; practice treats it as curable rather than fatal, but a deficient package is still a ground for objection."
+        ],
+        "how_to_read": "A practitioner challenging execution by a transferee Court should always verify this transfer package was properly sent — gaps here can found an objection to the transferee Court's authority to execute."
+      }
+    },
+    {
+      "number": "O-XXI-6",
+      "title": "Order XXI Rule 6 — Procedure where Court desires that its own decree shall be executed by another Court",
+      "raw_text": "6. Procedure where Court desires that its own decree shall be executed by another Court.—(1) The Court sending a decree for execution shall send the documents mentioned in the last preceding rule to the Court to which the decree is sent for execution, and, where the latter Court is situate in a different State, shall also send such further copies of the documents accompanied by translations into the language of that State, or into English, as the State Government requires.\n(2) Where the Court to which the decree is to be sent for execution is in a different State, the Court sending the decree shall at the same time send to the Collector of the district in which the Court is situate a copy of the decree to be sent to such officer as the State Government may appoint in this behalf, and such copy shall be deemed sufficient notice of the sending of the said decree for execution to the Court for execution.",
+      "key_terms": [
+        "translation of decree for other State",
+        "Collector notification"
+      ],
+      "breakdown": {
+        "plain_summary": "When the transferee Court is in a different State, the sending Court must attach translated copies of the execution documents (into that State's language or English) and separately notify the Collector of its own district, who routes a copy to a designated officer in the receiving State.",
+        "essential_elements": [
+          "Cross-State transfer adds a translation obligation and a Collector-channel notification step on top of the ordinary Rule 5 transfer package."
+        ],
+        "exceptions_and_qualifications": [
+          "Applies only when the transferee Court is in a different State — a purely intra-State transfer under Rule 5 does not attract the translation or Collector-notification steps."
+        ],
+        "how_to_read": "Flag inter-State execution transfers early since they carry extra procedural steps (translated copies, Collector notification) that can delay execution if overlooked."
+      }
+    },
+    {
+      "number": "O-XXI-7",
+      "title": "Order XXI Rule 7 — Court receiving copies of decree, etc., not to require further proof",
+      "raw_text": "7. Court receiving copies of decree, etc., not to require further proof.—The Court to which a decree is so sent for execution shall file the copies of the decree and of the certificates and orders (if any) referred to in rule 6, without requiring proof of the decree, certificate or order unless the Court which passed the decree is not established or continued by the Central Government or any State Government, in which case the Court to which the decree is so sent may, in its discretion, require such proof as it thinks fit.",
+      "key_terms": [
+        "no further proof required",
+        "foreign/non-Government Court exception"
+      ],
+      "breakdown": {
+        "plain_summary": "The receiving Court ordinarily accepts the transmitted decree, certificate, and orders at face value without demanding fresh proof — unless the originating Court is not a Government-established/continued Court (e.g., certain non-standard tribunals), in which case the receiving Court has discretion to insist on proof.",
+        "essential_elements": [
+          "Default rule: no re-proof needed for transfers between ordinary Government-constituted Courts."
+        ],
+        "exceptions_and_qualifications": [
+          "Exception: discretionary proof requirement where the sending body is not a Central/State Government-established or continued Court — e.g., certain tribunals or foreign forums."
+        ],
+        "how_to_read": "This rule streamlines inter-Court execution by removing a routine evidentiary hurdle; raise the exception only where the originating forum's judicial status is genuinely in question."
+      }
+    },
+    {
+      "number": "O-XXI-8",
+      "title": "Order XXI Rule 8 — Execution by District Court of decree transferred by other Court",
+      "raw_text": "8. Execution by District Court of decree transferred by other Court.—Where the Court to which the decree or order may, if the Court to which it is sent is the District Court, be executed by such Court or be transferred for execution to any subordinate Court of competent jurisdiction.",
+      "key_terms": [
+        "District Court as transferee",
+        "further sub-transfer"
+      ],
+      "breakdown": {
+        "plain_summary": "If the decree is sent to a District Court for execution, the District Court itself may execute it, or may further transfer it down to any subordinate Court within its district that has competent jurisdiction over the matter — a sub-transfer power peculiar to District Courts receiving transferred decrees.",
+        "essential_elements": [
+          "Gives District Courts a routing function — execute directly, or push the decree further down to the appropriate subordinate Court."
+        ],
+        "exceptions_and_qualifications": [
+          "The sub-transfer option is limited to subordinate Courts of competent jurisdiction — the District Court cannot route the decree to a Court lacking jurisdiction over the subject-matter or value."
+        ],
+        "how_to_read": "Useful where the judgment-debtor or attachable property is actually located within a specific taluka/sub-division Court's jurisdiction rather than at district headquarters."
+      }
+    },
+    {
+      "number": "O-XXI-9",
+      "title": "Order XXI Rule 9 — Execution by High Court of decree transferred by other Court",
+      "raw_text": "9. Execution by High Court of decree transferred by other Court.—Where the Court to which the decree is sent for execution is a High Court, the decree shall be executed by such Court in the same manner as if it had been passed by such Court in the exercise of its ordinary original civil jurisdiction.",
+      "key_terms": [
+        "High Court as transferee Court",
+        "ordinary original civil jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "When a decree is transferred to a High Court for execution, the High Court executes it using the same procedure it would use for a decree it had itself passed in its ordinary original civil jurisdiction.",
+        "essential_elements": [
+          "Applies only to High Courts that possess ordinary original civil jurisdiction (historically the Presidency High Courts and a few others) — assimilates transferee-execution procedure to that Court's own first-instance execution practice."
+        ],
+        "exceptions_and_qualifications": [
+          "High Courts without ordinary original civil jurisdiction do not execute transferred decrees under this special assimilation rule; ordinary subordinate-Court execution procedure applies instead where such a Court is the transferee."
+        ],
+        "how_to_read": "Relevant mainly in High Courts retaining original civil jurisdiction; confirm which High Courts this applies to before relying on it as a venue strategy."
+      }
+    },
+    {
+      "number": "O-XXI-10",
+      "title": "Order XXI Rule 10 — Application for execution",
+      "raw_text": "10. Application for execution.—Where the holder of a decree desires to execute it, he shall apply to the Court which passed the decree or to the officer (if any) appointed in this behalf, or if the decree has been sent under the provisions hereinbefore contained to another Court then to such Court or to the proper officer thereof.",
+      "key_terms": [
+        "application for execution",
+        "decree-passing Court or transferee Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Execution begins with an application, filed either with the Court that passed the decree (or its designated execution officer) or, if the decree has been transferred, with the transferee Court (or its officer) instead.",
+        "essential_elements": [
+          "Identifies the two possible filing fora: the original decree-passing Court/officer, or a transferee Court/officer where transfer has already occurred."
+        ],
+        "exceptions_and_qualifications": [
+          "Filing with the wrong forum (e.g., the passing Court after transfer has occurred) does not automatically void the application, but risks delay while the matter is routed correctly."
+        ],
+        "how_to_read": "The threshold question in any execution petition is always 'which Court' — check first whether the decree remains with the passing Court or has been transferred before filing."
+      }
+    },
+    {
+      "number": "O-XXI-11",
+      "title": "Order XXI Rule 11 — Oral and written application for execution",
+      "raw_text": "11. Oral application.—(1) Where a decree is for the payment of money the Court may, on the oral application of the decree-holder at the time of the passing of the decree, order immediate execution thereof by the arrest of the judgment-debtor, prior to the preparation of a warrant if he is within the precincts of the Court.\n(2) Written application.—Save as otherwise provided by sub-rule (1), every application for the execution of a decree shall be in writing, signed and verified by the applicant or by some other person proved to the satisfaction of the Court to be acquainted with the facts of the case, and shall contain in a tabular form the following particulars, namely:—\n(a) the number of the suit;\n(b) the names of the parties;\n(c) the date of the decree;\n(d) whether any appeal has been preferred from the decree;\n(e) whether any, and (if any) what, payment or other adjustment of the matter in controversy has been made between the parties subsequently to the decree;\n(f) whether any, and (if any) what, previous applications have been made for the execution of the decree, the dates of such applications and their results;\n(g) the amount with interest (if any) due upon the decree, or other relief granted thereby, together with particulars of any cross-decree, whether passed before or after the date of the decree sought to be executed;\n(h) the amount of the costs (if any) awarded;\n(i) the name of the person against whom execution of the decree is sought; and\n(j) the mode in which the assistance of the Court is required, whether—\n(i) by the delivery of any property specifically decreed;\n(ii) by the attachment, or by the attachment and sale, or by the sale without attachment, of any property;\n(iii) by the arrest and detention in prison of any person;\n(iv) by the appointment of a receiver;\n(v) otherwise, as the nature of the relief granted may require.\n(3) The Court to which an application is made under sub-rule (2) may require the applicant to produce a certified copy of the decree.",
+      "key_terms": [
+        "oral application",
+        "immediate arrest",
+        "tabular particulars",
+        "execution application form"
+      ],
+      "breakdown": {
+        "plain_summary": "For money decrees, a decree-holder can orally ask, at the very moment judgment is pronounced, for the judgment-debtor's immediate arrest if he is still within Court precincts — bypassing the usual warrant-preparation delay. Every other execution application must be a detailed written, signed and verified application following a prescribed tabular format covering the suit's history, prior part-payments, prior execution attempts, the amount due, and precisely what kind of execution assistance (delivery, attachment/sale, arrest, receiver, or other) is sought.",
+        "essential_elements": [
+          "The oral-application-for-immediate-arrest route under sub-rule (1) is a narrow, time- and place-bound exception (money decree, at time of passing, judgment-debtor within Court precincts) — it does not survive once the moment passes.",
+          "The tabular particulars in sub-rule (2) are not optional formalities; omissions here trigger the defect-curing and rejection machinery of Rule 17."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (1)'s oral-arrest route is confined strictly to money decrees, the moment of passing, and the judgment-debtor's physical presence within Court precincts — it cannot be invoked later or for non-money decrees."
+        ],
+        "how_to_read": "Use this rule's checklist (items a-j) as the execution-petition drafting template — every particular listed must be addressed, especially clause (f)'s disclosure of prior execution history, which Courts scrutinise closely to prevent serial/vexatious execution filings."
+      }
+    },
+    {
+      "number": "O-XXI-11A",
+      "title": "Order XXI Rule 11A — Application for arrest to state grounds",
+      "raw_text": "11A. Application for arrest to state grounds.—Where an application is made for the arrest and detention in prison of the judgment-debtor, it shall state, or be accompanied by an affidavit stating, the grounds on which arrest is applied for.",
+      "key_terms": [
+        "grounds for arrest",
+        "affidavit accompanying arrest application"
+      ],
+      "breakdown": {
+        "plain_summary": "An application seeking a judgment-debtor's arrest and civil imprisonment must itself state, or be accompanied by an affidavit stating, the specific grounds justifying arrest — a bare request for arrest without stated grounds does not suffice.",
+        "essential_elements": [
+          "Mandatory disclosure requirement inserted specifically to curb casual or oppressive use of the arrest-in-execution power."
+        ],
+        "exceptions_and_qualifications": [
+          "The rule does not itself list permissible 'grounds' — those are supplied by Section 51's proviso (e.g., dishonest transfer of property, means to pay but refusal); Rule 11A is purely a disclosure/pleading requirement, not an independent substantive ground."
+        ],
+        "how_to_read": "Read with Section 51's proviso (which itself requires the Court to record reasons before ordering arrest) — the grounds stated here feed directly into the Court's own reason-recording obligation under Section 51."
+      }
+    },
+    {
+      "number": "O-XXI-12",
+      "title": "Order XXI Rule 12 — Application for attachment of movable property not in judgment-debtor's possession",
+      "raw_text": "12. Application for attachment of movable property not in judgment-debtor's possession.—Where an application is made for the attachment of any movable property belonging to a judgment-debtor but not in his possession, the decree-holder shall annex to the application an inventory of the property to be attached, containing a reasonably accurate description of the same.",
+      "key_terms": [
+        "inventory of property",
+        "movable property not in debtor's possession"
+      ],
+      "breakdown": {
+        "plain_summary": "If seeking attachment of the judgment-debtor's movable property that is physically held by someone else, the decree-holder must attach to the application an inventory reasonably accurately describing that property.",
+        "essential_elements": [
+          "Applies only where the property, though belonging to the judgment-debtor, is not in his own possession — ordinary in-possession movables are covered by Rule 43 instead."
+        ],
+        "exceptions_and_qualifications": [
+          "The rule requires only a 'reasonably accurate' description, not exhaustive detail — but an inventory too vague to identify the property defeats the application's purpose."
+        ],
+        "how_to_read": "Draft the inventory carefully; a vague or inaccurate description risks the attachment order being challenged or failing to identify the correct property when executed."
+      }
+    },
+    {
+      "number": "O-XXI-13",
+      "title": "Order XXI Rule 13 — Application for attachment of immovable property to contain certain particulars",
+      "raw_text": "13. Application for attachment of immovable property to contain certain particulars.—Where an application is made for the attachment of any immovable property belonging to a judgment-debtor, it shall contain at the foot—\n(a) a description of such property sufficient to identify the same and, in case such property can be identified by boundaries or numbers in a record of settlement or survey, a specification of such boundaries or numbers; and\n(b) a specification of the judgment-debtor's share or interest in such property to the best of the belief of the applicant, and so far as he has been able to ascertain the same.",
+      "key_terms": [
+        "identifying particulars",
+        "boundaries or survey numbers",
+        "judgment-debtor's share/interest"
+      ],
+      "breakdown": {
+        "plain_summary": "An application to attach immovable property must identify the property precisely (ideally by survey/settlement numbers or boundaries) and state, to the best of the applicant's knowledge, what share or interest the judgment-debtor actually holds in it.",
+        "essential_elements": [
+          "Precise identification is mandatory where survey/settlement records exist — loose or generic descriptions invite objections and complicate a later Rule 54 attachment order."
+        ],
+        "exceptions_and_qualifications": [
+          "Clause (b)'s share/interest specification is only 'to the best of the belief' of the applicant and 'so far as he has been able to ascertain' — it does not demand certainty, only a good-faith, diligence-based estimate."
+        ],
+        "how_to_read": "Cross-check revenue/survey records before filing; an inaccurately described property can lead to attachment of the wrong parcel or a successful claim petition under Rule 58."
+      }
+    },
+    {
+      "number": "O-XXI-14",
+      "title": "Order XXI Rule 14 — Power to require certified extract from Collector's register in certain cases",
+      "raw_text": "14. Power to require certified extract from Collector's register in certain cases.—Where an application is made for the attachment of any land which is registered in the office of the Collector, the Court may require the applicant to produce a certified extract from the register of such office, specifying the persons registered as proprietors of, or as possessing any transferable interest in, the land or its revenue, or as liable to pay revenue for the land, and the shares of the registered proprietors.",
+      "key_terms": [
+        "certified extract",
+        "Collector's register",
+        "registered proprietors"
+      ],
+      "breakdown": {
+        "plain_summary": "For revenue-registered land, the Court may insist on a certified extract from the Collector's register showing who is recorded as owner/interest-holder and their respective shares, before proceeding with attachment.",
+        "essential_elements": [
+          "Discretionary ('the Court may require'), not automatic, and relevant mainly to agricultural or revenue-assessed land."
+        ],
+        "exceptions_and_qualifications": [
+          "Limited to land registered in a Collector's office — urban or unregistered property falls outside this particular evidentiary mechanism."
+        ],
+        "how_to_read": "Obtain the certified revenue extract proactively when attaching registered land — it both satisfies this rule and strengthens the identification particulars required under Rule 13."
+      }
+    },
+    {
+      "number": "O-XXI-15",
+      "title": "Order XXI Rule 15 — Application for execution by joint decree-holders",
+      "raw_text": "15. Application for execution by Joint decree-holders.—(1) Where a decree has been passed jointly in favour of more persons than one, any one or more of such persons may, unless the decree imposes any condition to the contrary, apply for the execution of the whole decree for the benefit of them all, or, where any of them has died, for the benefit of the survivors and the legal representatives of the deceased.\n(2) Where the Court sees sufficient cause for allowing the decree to be executed on an application made under this rule, it shall make such order as it deems necessary for protecting the interest of the persons who have not joined in the application.",
+      "key_terms": [
+        "joint decree-holders",
+        "execution for benefit of all",
+        "protecting non-applicant co-holders"
+      ],
+      "breakdown": {
+        "plain_summary": "Any one of several joint decree-holders can apply to execute the whole decree for the benefit of all of them (absent a contrary condition in the decree itself), with the Court empowered to add protective conditions safeguarding the co-holders who did not join the application.",
+        "essential_elements": [
+          "Default rule favours a single joint-holder being able to execute for everyone's benefit — displaced only if the decree itself conditions execution otherwise.",
+          "The Court's protective-order power under sub-rule (2) is triggered only once it is satisfied there is 'sufficient cause' to allow execution on a less-than-all application."
+        ],
+        "exceptions_and_qualifications": [
+          "The default rule yields where the decree itself imposes a condition contrary to single-holder execution — such a condition must be checked in the decree's operative part first."
+        ],
+        "how_to_read": "A joint decree-holder applying alone should anticipate the Court imposing safeguards (e.g., proceeds held pending apportionment) to protect co-holders who haven't joined — plan the application and prayer accordingly."
+      }
+    },
+    {
+      "number": "O-XXI-16",
+      "title": "Order XXI Rule 16 — Application for execution by transferee of decree",
+      "raw_text": "16. Application for execution by transferee of decree.—Where a decree or, if a decree has been passed jointly in favour of two or more persons, the interest of any decree-holder in the decree is transferred by assignment in writing or by operation of law, the transferee may apply for execution of the decree to the Court which passed it; and the decree may be executed in the same manner and subject to the same conditions as if the application were made by such decree-holder:\nProvided that, where the decree, or such interest as aforesaid, has been transferred by assignment, notice of such application shall be given to the transferor and the judgment-debtor, and the decree shall not be executed until the Court has heard their objections (if any) to its execution:\nProvided also that, where a decree for the payment of money against two or more persons has been transferred to one of them, it shall not be executed against the others.\nExplanation.—Nothing in this rule shall affect the provisions of section 146, and a transferee of rights in the property, which is the subject matter of the suit, may apply for execution of the decree without a separate assignment of the decree as required by this rule.",
+      "key_terms": [
+        "transferee of decree",
+        "assignment in writing",
+        "transfer by operation of law",
+        "notice to transferor and judgment-debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "A person to whom a decree (or a joint decree-holder's interest in it) has been assigned in writing, or who acquires it by operation of law (e.g., succession, insolvency vesting), may apply to execute it just as the original decree-holder could. Written assignments require notice to both the transferor and judgment-debtor, with execution held up until their objections are heard; and a money decree against multiple judgment-debtors, if transferred to one of them, cannot then be executed against the others.",
+        "essential_elements": [
+          "Written assignment triggers a mandatory notice-and-hearing step (to transferor and judgment-debtor) before execution can proceed — operation-of-law transfers are not expressly subjected to the same notice proviso.",
+          "The second proviso prevents a judgment-debtor who buys out the decree against his co-debtors from then executing it against them.",
+          "The Explanation preserves Section 146's broader 'representative-in-interest' route — a transferee of the suit property's rights need not obtain a formal decree-assignment to seek execution."
+        ],
+        "exceptions_and_qualifications": [
+          "The second proviso's bar operates only against the remaining co-judgment-debtors, not against the transferee's own liability or any independent decree the transferee may hold."
+        ],
+        "how_to_read": "Always check whether a transferee applicant relies on a written assignment (notice required) or on Section 146-style derivative rights (Explanation route) — the procedural safeguards differ."
+      }
+    },
+    {
+      "number": "O-XXI-17",
+      "title": "Order XXI Rule 17 — Procedure on receiving application for execution of decree",
+      "raw_text": "17. Procedure on receiving application for execution of decree.—(1) On receiving an application for the execution of a decree as provided by rule 11, sub-rule (2), the Court shall ascertain whether such of the requirements of rules 11 to 14 as may be applicable to the case have been complied with; and, if they have not been complied with, the Court shall allow the defect to be remedied then and there or within a time to be fixed by it.\n1A. If the defect is not so remedied, the Court shall reject the application: Provided that where, in the opinion of the Court, there is some inaccuracy as to the amount referred to in clauses (g) and (h) of sub-rule (2) of rule 11, the Court shall, instead of rejecting the application, decide provisionally (without prejudice to the right of the parties to have the amount finally decided in the course of the proceedings) the amount and make an order for the execution of the decree for the amount so provisionally decided.\n(2) Where an application is amended under the provisions of sub-rule (1), it shall be deemed to have been an application in accordance with law and presented on the date when it was first presented.\n(3) Every amendment made under this rule shall be signed or initialled by the Judge.\n(4) When the application is admitted, the Court shall enter in the proper register a note of the application and the date on which it was made, and shall, subject to the provisions hereinafter contained, order execution of the decree according to the nature of the application: Provided that, in the case of a decree for the payment of money, the value of the property attached shall, as nearly as may be, correspond with the amount due under the decree.",
+      "key_terms": [
+        "defect-curing opportunity",
+        "rejection of application",
+        "provisional amount determination",
+        "relation-back of amendment"
+      ],
+      "breakdown": {
+        "plain_summary": "On receiving an execution application, the Court first screens it for compliance with Rules 11-14's formal requirements; curable defects get a chance to be fixed (immediately or within a fixed time), and only uncured defects lead to rejection. A special carve-out lets the Court provisionally fix a disputed amount-due figure rather than reject the application outright over a mere quantum inaccuracy. A cured amendment relates back to the original filing date, and admitted applications are registered and acted on, with attached-property value kept proportionate to the money actually due.",
+        "essential_elements": [
+          "Rejection is the last resort, not the first response, to a formal defect — the Court must first give an opportunity to cure.",
+          "The provisional-amount proviso under sub-rule (1A) prevents a genuine execution from being derailed by a mere quantum dispute, while expressly preserving the parties' right to a final determination later.",
+          "The relation-back rule in sub-rule (2) protects the decree-holder's limitation position despite a subsequent amendment."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso to sub-rule (1A)'s provisional-amount determination is expressly 'without prejudice' to a final determination later — it is a stopgap, not a conclusive adjudication of the amount due."
+        ],
+        "how_to_read": "If an execution application is rejected outright without first being given a defect-curing opportunity, that is itself a procedural irregularity worth challenging under this rule."
+      }
+    },
+    {
+      "number": "O-XXI-18",
+      "title": "Order XXI Rule 18 — Execution in case of cross-decrees",
+      "raw_text": "18. Execution in case of cross-decrees.—(1) Where applications are made to a Court for the execution of cross-decrees in separate suits for the payment of two sums of money passed between the same parties and capable of execution at the same time by such Court, then—\n(a) if the two sums are equal, satisfaction shall be entered upon both decrees; and\n(b) if the two sums are unequal, execution may be taken out only by the holder of the decree for the larger sum and for so much only as remains after deducting the smaller sum, and satisfaction for the smaller sum shall be entered on the decree for the larger sum as well as satisfaction on the decree for the smaller sum.\n(2) This rule shall be deemed to apply where either party is an assignee of one of the decrees and as well in respect of judgment-debts due by the original assignor as in respect of judgment-debts due by the assignee himself.\n(3) This rule shall not be deemed to apply unless—\n(a) the decree-holder in one of the suits in which the decrees have been made is the judgment-debtor in the other and each party files the same character in both suits; and\n(b) the sums due under the decrees are definite.\n(4) The holder of a decree passed against several persons jointly and severally may treat it as a cross-decree in relation to a decree passed against him singly in favour of one or more of such persons.",
+      "key_terms": [
+        "cross-decrees",
+        "set-off between decrees",
+        "equal and unequal sums",
+        "joint-and-several decree as cross-decree"
+      ],
+      "breakdown": {
+        "plain_summary": "Where two parties each hold a money decree against the other (from separate suits, simultaneously executable by the same Court), the Code effectively nets them off: equal sums cancel each other with satisfaction entered on both; unequal sums let only the larger decree-holder execute, and only for the net difference, with partial satisfaction recorded on the larger decree too. This extends to assignees and to joint-and-several decrees being treated as cross-decrees — but only where the parties' decree-holder/judgment-debtor characters mirror each other exactly and both sums are definite (not contingent or unliquidated).",
+        "essential_elements": [
+          "Strict mirroring requirement under sub-rule (3): same parties occupying opposite characters in both suits, and both sums definite — an inexact match (e.g., different capacities, or one sum still to be ascertained) takes the case outside this rule.",
+          "The two illustrations in the Code (contingent future obligations; co-plaintiffs vs. a decree against only one of them; a trustee's decree on the beneficiary's behalf) all fail this strict-mirroring test and so cannot be treated as cross-decrees."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (4)'s extension to joint-and-several decrees is itself an exception carved into the general mirroring requirement of sub-rule (3) — it lets a holder of a joint-and-several decree treat it as a cross-decree against a decree held against him singly."
+        ],
+        "how_to_read": "Before pleading a cross-decree set-off, verify the four sub-rule (3)/(4) conditions precisely — courts apply this rule narrowly, and the Code's own illustrations are a useful checklist of situations where the set-off fails."
+      }
+    },
+    {
+      "number": "O-XXI-19",
+      "title": "Order XXI Rule 19 — Execution in case of cross-claims under same decree",
+      "raw_text": "19. Execution in case of cross-claims under same decree.—Where application is made to a Court for the execution of a decree under which two parties are entitled to recover sums of money from each other, then—\n(a) if the two sums are equal, satisfaction for both shall be entered upon the decree; and\n(b) if the two sums are unequal, execution may be taken out only by the party entitled to the larger sum and for so much only as remains after deducting the smaller sum, and satisfaction for the smaller sum shall be entered upon the decree.",
+      "key_terms": [
+        "cross-claims",
+        "same decree",
+        "net execution"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a single decree itself awards each party a sum recoverable from the other (e.g., a decree on a suit and counter-claim), the same equal/unequal netting logic as Rule 18 applies, but within one decree rather than across two separate decrees.",
+        "essential_elements": [
+          "Simpler than Rule 18 since there is only one decree and no cross-decree matching requirement to satisfy."
+        ],
+        "exceptions_and_qualifications": [
+          "Because both sums arise under the identical decree, there is no sub-rule (3)-style mirroring or assignee-extension question to litigate — the netting is automatic once the decree's own terms establish mutual sums."
+        ],
+        "how_to_read": "Commonly arises where a decree disposes of both a claim and a set-off/counter-claim under Order VIII Rule 6/6A — check the decree's operative portion for netted cross-sums before filing a separate execution application for the gross amount."
+      }
+    },
+    {
+      "number": "O-XXI-20",
+      "title": "Order XXI Rule 20 — Cross-decrees and cross-claims in mortgage suits",
+      "raw_text": "20. Cross-decrees and cross-claims in mortgage suits.—The provisions contained in rules 18 and 19 shall apply to decrees for sale in enforcement of a mortgage or charge.",
+      "key_terms": [
+        "mortgage decree",
+        "charge decree",
+        "extension of cross-decree rules"
+      ],
+      "breakdown": {
+        "plain_summary": "The cross-decree and cross-claim netting rules (Rules 18 and 19) extend to decrees for sale in enforcement of a mortgage or charge, not just ordinary money decrees.",
+        "essential_elements": [
+          "A short extension provision — no independent substantive content beyond incorporating Rules 18-19 into the mortgage/charge-enforcement context."
+        ],
+        "exceptions_and_qualifications": [
+          "Confined to decrees for sale in enforcement of a mortgage or charge — does not extend Rules 18-19 to other species of mortgage decree such as a redemption decree."
+        ],
+        "how_to_read": "Relevant in mortgage litigation where cross-mortgages or cross-charges exist between the same parties; apply the Rule 18/19 conditions by analogy to the sale-in-enforcement context."
+      }
+    },
+    {
+      "number": "O-XXI-21",
+      "title": "Order XXI Rule 21 — Simultaneous execution",
+      "raw_text": "21. Simultaneous execution.—The Court may, in its discretion, refuse execution at the same time against the person and property of the judgment-debtor.",
+      "key_terms": [
+        "simultaneous execution",
+        "person and property",
+        "Court's discretion"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court has discretion to decline simultaneous execution against both the judgment-debtor's person (i.e., arrest/detention) and his property (i.e., attachment/sale) — it can require the decree-holder to pursue one mode before, or instead of, the other.",
+        "essential_elements": [
+          "Purely discretionary, protective provision aimed at preventing oppressive simultaneous use of both personal-liberty and property remedies."
+        ],
+        "exceptions_and_qualifications": [
+          "There is no automatic entitlement to sequential execution — the Court 'may' refuse simultaneous execution, but a decree-holder can still pursue both modes together unless the Court actually exercises this discretion."
+        ],
+        "how_to_read": "A judgment-debtor facing both an arrest warrant and an attachment application simultaneously can invoke this rule to argue for sequential rather than parallel execution."
+      }
+    },
+    {
+      "number": "O-XXI-22",
+      "title": "Order XXI Rule 22 — Notice to show cause against execution in certain cases",
+      "raw_text": "22. Notice to show cause against execution in certain cases.—(1) Where an application for execution is made—\n(a) more than two years after the date of the decree, or\n(b) against the legal representative of a party to the decree or where an application is made for execution of a decree filed under the provisions of section 44A, or\n(c) against the assignee or receiver in insolvency, where the party to the decree has been adjudged to be an insolvent,\nthe Court executing the decree shall issue a notice to the person against whom execution is applied for requiring him to show cause, on a date to be fixed, why the decree should not be executed against him: Provided that no such notice shall be necessary in consequence of more than two years having elapsed between the date of the decree and the application for execution if the application is made within two years from the date of the last order against the party against whom execution is applied for, made on any previous application for execution, or in consequence of the application being made against the legal representative of the judgment-debtor if upon a previous application for execution against the same person the Court has ordered execution to issue against him.\n(2) Nothing in the foregoing sub-rule shall be deemed to preclude the Court from issuing any process in execution of a decree without issuing the notice thereby prescribed, if, for reasons to be recorded, it considers that the issue of such notice would cause unreasonable delay or would defeat the ends of justice.",
+      "key_terms": [
+        "show-cause notice",
+        "two-year gap",
+        "legal representative",
+        "foreign decree under s.44A",
+        "insolvency assignee/receiver"
+      ],
+      "breakdown": {
+        "plain_summary": "In three situations — execution sought more than two years after the decree, execution sought against a legal representative (including under Section 44A's foreign-decree-filing regime), or execution sought against an insolvency assignee/receiver — the executing Court must first notice the respondent to show cause why execution shouldn't proceed, unless an exception applies (recent prior execution order against the same person) or the Court, for recorded reasons, dispenses with notice to prevent unreasonable delay or injustice.",
+        "essential_elements": [
+          "The two-year notice trigger is itself subject to a proviso exempting cases where a prior execution order was made against the same party within the preceding two years.",
+          "Sub-rule (2) is a genuine escape hatch, not a formality — but it requires the Court to record reasons, making unexplained notice-dispensation vulnerable to challenge."
+        ],
+        "exceptions_and_qualifications": [
+          "The two-year clock and the legal-representative/insolvency triggers are independent grounds — notice can be required under clause (b) or (c) even where less than two years have elapsed since the decree."
+        ],
+        "how_to_read": "A judgment-debtor served with a sudden execution application years after the decree, or a legal representative facing execution for the first time, should check whether Rule 22 notice was given — its omission without recorded reasons under sub-rule (2) is a live objection."
+      }
+    },
+    {
+      "number": "O-XXI-22A",
+      "title": "Order XXI Rule 22A — Sale not to be set aside on death of judgment-debtor before sale but after service of proclamation",
+      "raw_text": "22A. Sale not be set aside on the death of the judgment-debtor before the sale but after the service of the proclamation of sale.—Where any property is sold in execution of a decree, the sale shall not be set aside merely by reason of the death of the judgment-debtor between the date of issue of the proclamation of sale and the date of the sale notwithstanding the failure of the decree-holder to substitute the legal representative of such deceased judgment-debtor, but, in case of such failure, the Court may set aside the sale if it is satisfied that the legal representative of the deceased judgment-debtor has been prejudiced by the sale.",
+      "key_terms": [
+        "death of judgment-debtor",
+        "proclamation already issued",
+        "prejudice to legal representative"
+      ],
+      "breakdown": {
+        "plain_summary": "If the judgment-debtor dies after the sale proclamation has issued but before the sale itself, the sale is not automatically void merely because the decree-holder failed to substitute the deceased's legal representative — it is only set aside if the Court finds actual prejudice to that legal representative from the sale having proceeded.",
+        "essential_elements": [
+          "Protects sale finality/validity against a technical substitution failure, while still giving the legal representative a prejudice-based challenge route.",
+          "Timing-specific: applies only to death occurring between proclamation and sale, not before proclamation or after sale."
+        ],
+        "exceptions_and_qualifications": [
+          "Death before the proclamation of sale is not covered by this saving provision at all — ordinary substitution requirements under Order XXII apply in full to pre-proclamation deaths."
+        ],
+        "how_to_read": "A legal representative challenging a sale under this rule must affirmatively show prejudice — mere non-substitution, without more, will not succeed."
+      }
+    },
+    {
+      "number": "O-XXI-23",
+      "title": "Order XXI Rule 23 — Procedure after issue of notice",
+      "raw_text": "23. Procedure after issue of notice.—(1) Where the person to whom notice is issued under rule 22 does not appear or does not show cause to the satisfaction of the Court why the decree should not be executed, the Court shall order the decree to be executed.\n(2) Where such person offers any objection to the execution of the decree, the Court shall consider such objection and make such order as it thinks fit.",
+      "key_terms": [
+        "non-appearance after notice",
+        "objection to execution",
+        "Court's order"
+      ],
+      "breakdown": {
+        "plain_summary": "After Rule 22 notice issues, non-appearance or an unsatisfactory response results in an order for execution to proceed; a genuine objection, by contrast, must be considered on its merits before the Court decides how to proceed.",
+        "essential_elements": [
+          "Mirrors ordinary default/contest procedure — default leads to an execution order almost automatically, while a contested notice requires substantive adjudication."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (1)'s 'order the decree to be executed' on non-appearance is not a blanket approval of every mode sought — the Court still retains its ordinary powers over the mode and manner of execution."
+        ],
+        "how_to_read": "An ex parte execution order made under sub-rule (1) due to non-appearance can potentially be challenged under Rule 106 (setting aside ex parte orders) on sufficient-cause grounds."
+      }
+    },
+    {
+      "number": "O-XXI-24",
+      "title": "Order XXI Rule 24 — Process for execution",
+      "raw_text": "24. Process for execution.—(1) When the preliminary measures (if any) required by the foregoing rules have been taken, the Court shall, unless it sees cause to the contrary, issue its process for the execution of the decree.\n(2) Every such process shall bear date the day on which it is issued, and shall be signed by the Judge or such officer as the Court may appoint in this behalf, and shall be sealed with the seal of the Court and delivered to the proper officer to be executed.\n(3) In every such process, a day shall be specified on or before which it shall be executed and a day shall also be specified on or before which it shall be returned to the Court, but no process shall be deemed to be void if no day for its return is specified therein.",
+      "key_terms": [
+        "process for execution",
+        "dating, signing, sealing",
+        "execution and return dates"
+      ],
+      "breakdown": {
+        "plain_summary": "Once preliminary steps are complete, the Court issues formal execution process — dated, signed by the Judge or an appointed officer, sealed, and handed to the executing officer, specifying both an execution deadline and a return date (though a missing return date doesn't itself invalidate the process).",
+        "essential_elements": [
+          "The missing-return-date saving clause in sub-rule (3) prevents a purely clerical omission from voiding an otherwise valid execution process."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (1)'s 'unless it sees cause to the contrary' preserves the Court's discretion to withhold process even after preliminary measures are complete — issuance is not purely ministerial."
+        ],
+        "how_to_read": "Check that execution process bears the formal requisites (date, signature, seal) before challenging its validity — the return-date omission specifically is not a valid ground."
+      }
+    },
+    {
+      "number": "O-XXI-25",
+      "title": "Order XXI Rule 25 — Endorsement on process",
+      "raw_text": "25. Endorsement on process.—(1) The officer entrusted with the execution of the process shall endorse thereon the day on, and the manner in, which it was executed, and, if the latest day specified in the process for the return thereof has been exceeded, the reason of the delay, or, if it was not executed, the reason why it was not executed, and shall return the process with such endorsement to the Court.\n(2) Where the endorsement is to the effect that such officer is unable to execute the process, the Court shall examine him touching his alleged inability, and may, if it thinks fit, summon and examine witnesses as to such inability, and shall record the result.",
+      "key_terms": [
+        "endorsement",
+        "return of process",
+        "inability to execute",
+        "examination of officer"
+      ],
+      "breakdown": {
+        "plain_summary": "The executing officer must endorse the process with exactly when and how it was executed (or, if not executed, why not, and the reason for any delay beyond the return date), and return it to the Court. If the officer reports inability to execute, the Court must examine him (and may examine witnesses) on that claimed inability and record its findings.",
+        "essential_elements": [
+          "The Court's examination of a reportedly-unable officer is a built-in accountability check against inaction or negligence in executing process."
+        ],
+        "exceptions_and_qualifications": [
+          "The examination under sub-rule (2) is triggered specifically by an inability endorsement — an endorsement that the process was simply executed late carries only the delay-reason disclosure duty of sub-rule (1), not a formal examination."
+        ],
+        "how_to_read": "A decree-holder facing repeated 'unable to execute' returns should press for the Rule 25(2) examination to test whether the stated inability is genuine or a pretext for inaction."
+      }
     }
   ]
 }
