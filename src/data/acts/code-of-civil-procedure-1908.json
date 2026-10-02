@@ -18000,6 +18000,474 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "Use this broad definition to argue Order XXXII-A's procedural protections (in-camera hearing, settlement duty, welfare-expert assistance) extend to non-marital and extended-family living arrangements falling within clauses (b) through (e), not just conventional nuclear-family disputes."
       }
+    },
+    {
+      "number": "O-XXXIII",
+      "title": "Suits by Indigent Persons — Overview",
+      "raw_text": "ORDER XXXIII. Suits by indigent persons.",
+      "key_terms": [
+        "indigent person",
+        "court-fee exemption",
+        "indigency inquiry",
+        "withdrawal of permission"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXXIII lets a person who cannot afford court fees sue without paying them upfront, by seeking the Court's permission to sue 'as an indigent person' (the modern term replacing the older 'pauper'). It defines indigency, sets out the application and inquiry procedure, the grounds for rejecting the application, what happens once permission is granted or later withdrawn, how the State recovers the deferred court-fees from an unsuccessful or disentitled plaintiff, and provision for free legal aid and for raising a set-off/counter-claim as an indigent defendant.",
+        "essential_elements": [
+          "'Indigent person' defined by a means test tied to ability to pay the prescribed court-fee, or a ₹1000 property threshold where no fee is prescribed",
+          "Application procedure mirrors plaint requirements, with mandatory personal presentation (subject to an agent exemption) and a property schedule",
+          "Court conducts a merits/indigency inquiry before admitting the application, with specific rejection grounds",
+          "If admitted, the application becomes the plaint and the suit proceeds fee-free, subject to later withdrawal of the indigency status",
+          "Court-fees deferred, not waived — recoverable from the plaintiff/estate on success, failure, withdrawal, or abatement, as a first charge on the suit's subject-matter",
+          "State Government has standing as a quasi-party on court-fee recovery questions",
+          "Court may assign a pleader and Government may provide supplementary free legal services"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This Order is a procedural access-to-justice mechanism, not a fee waiver — always flag to an indigent client that court-fees are merely deferred, and that Rules 9-15A create multiple trigger points (failure, withdrawal, abatement, refusal) at which the deferred fee becomes recoverable from them or their estate."
+      }
+    },
+    {
+      "number": "O-XXXIII-1",
+      "title": "Suits may be instituted by indigent persons",
+      "raw_text": "Subject to the following provisions, any suit may be instituted by an indigent person. Explanation 1.—A person is an indigent person,— (a) if he is not possessed of sufficient means (other than property exempt from attachment in execution of a decree and the subject-matter of the suit) to enable him to pay the fee prescribed by law for the plaint in such suit, or (b) where no such fee is prescribed, if he is not entitled to property worth one thousand rupees other than the property exempt from attachment in execution of a decree, and the subject-matter of the suit. Explanation II.—Any property which is acquired by a person after the presentation of his application for permission to sue as an indigent person, and before the decision of the application, shall be taken into account in considering the question whether or not the applicant is an indigent person. Explanation III.—Where the plaintiff sues in a representative capacity, the question whether he is an indigent person shall be determined with reference to the means possessed by him in such capacity.",
+      "key_terms": [
+        "sufficient means test",
+        "exempt property exclusion",
+        "₹1000 property threshold",
+        "after-acquired property",
+        "representative-capacity means test"
+      ],
+      "breakdown": {
+        "plain_summary": "Any suit may be filed by an 'indigent person' — someone who, excluding property exempt from attachment and the suit's own subject-matter, lacks sufficient means to pay the prescribed plaint fee; or, where no fee is prescribed, lacks property worth ₹1000 (again excluding exempt property and the subject-matter). Property acquired between filing the application and its decision counts toward the means test (Explanation II), and a representative plaintiff (e.g., suing as a trustee or guardian) is assessed by the means held in that representative capacity, not personal wealth (Explanation III).",
+        "essential_elements": [
+          "Explanation 1(a): insufficient means to pay the prescribed plaint fee, excluding exempt property and the suit's subject-matter",
+          "Explanation 1(b): fallback ₹1000 property threshold where no fee is prescribed, same exclusions",
+          "Explanation II: after-acquired property during the application's pendency is counted",
+          "Explanation III: representative-capacity plaintiffs assessed by means held in that capacity"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "When assessing a client's indigency eligibility, always exclude both attachment-exempt property and the suit's own subject-matter from the means calculation — these are not merely favorable factors but express statutory exclusions built into the test itself."
+      }
+    },
+    {
+      "number": "O-XXXIII-1A",
+      "title": "Inquiry into the means of an indigent person",
+      "raw_text": "Every inquiry into the question whether or not a person is an indigent person shall be made, in the first instance, by the chief ministerial officer of the Court, unless the Court otherwise directs, and the Court may adopt the report of such officer as its own finding or may itself make an inquiry into the question.",
+      "key_terms": [
+        "chief ministerial officer",
+        "delegated first-instance inquiry",
+        "Court's adoption or independent inquiry"
+      ],
+      "breakdown": {
+        "plain_summary": "The initial indigency inquiry is ordinarily delegated to the Court's chief ministerial officer (an administrative functionary), not conducted by the judge personally, unless the Court directs otherwise. The Court then has the choice of simply adopting that officer's report as its own finding, or conducting its own independent inquiry.",
+        "essential_elements": [
+          "Default: first-instance inquiry by the chief ministerial officer",
+          "Court may direct a different procedure",
+          "Court may adopt the officer's report as its own finding, or inquire independently"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Where the stakes or factual complexity warrant it, counsel can request the Court exercise its override to conduct the indigency inquiry itself rather than relying on the ministerial officer's report."
+      }
+    },
+    {
+      "number": "O-XXXIII-2",
+      "title": "Contents of application",
+      "raw_text": "Every application for permission to sue as an indigent person shall contain the particulars required in regard to plaints in suits: a schedule of any movable or immovable property belonging to the applicant, with the estimated value thereof, shall be annexed thereto; and it shall be signed and verified in the manner prescribed for the signing and verification of pleadings.",
+      "key_terms": [
+        "plaint particulars",
+        "property schedule",
+        "signing and verification"
+      ],
+      "breakdown": {
+        "plain_summary": "The indigency application must contain everything an ordinary plaint would (parties, cause of action, relief, etc.), plus an annexed schedule listing all the applicant's movable and immovable property with estimated values — directly supporting the means-test inquiry — and must be signed and verified exactly as pleadings are.",
+        "essential_elements": [
+          "Must contain ordinary plaint particulars",
+          "Must annex a property schedule with estimated values",
+          "Must be signed and verified per pleading rules"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat the application as functionally a draft plaint plus a sworn asset disclosure — incompleteness or inaccuracy in the property schedule risks rejection under Rule 5 or later withdrawal under Rule 9."
+      }
+    },
+    {
+      "number": "O-XXXIII-3",
+      "title": "Presentation of application",
+      "raw_text": "Notwithstanding anything contained in these rules, the application shall be presented to the Court by the applicant in person, unless he is exempted from appearing in Court, in which case the application may be presented by an authorised agent who can answer all material questions relating to the application, and who may be examined in the same manner as the party represented by him might have been examined had such party attended in person: Provided that, where there are more plaintiffs than one, it shall be sufficient if the application is presented by one of the plaintiffs.",
+      "key_terms": [
+        "mandatory personal presentation",
+        "agent exemption",
+        "multi-plaintiff single-presentation proviso"
+      ],
+      "breakdown": {
+        "plain_summary": "Unlike ordinary plaints, the indigency application generally must be presented by the applicant personally — a notwithstanding clause overriding any contrary general rule — unless the applicant is exempted from Court appearance, in which case a knowledgeable authorised agent can present and be examined in the applicant's stead. Where there are multiple plaintiffs, any one of them presenting is sufficient.",
+        "essential_elements": [
+          "Default: personal presentation by the applicant",
+          "Exception: an exempted applicant may use an authorised agent able to answer all material questions",
+          "Agent may be examined as the applicant would have been",
+          "Proviso: with multiple plaintiffs, presentation by one suffices"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The 'notwithstanding' opening signals this personal-presentation requirement overrides any general provision elsewhere permitting presentation through a pleader alone — verify the agent, if used, genuinely has the knowledge to answer material questions, since a nominal agent risks rejection."
+      }
+    },
+    {
+      "number": "O-XXXIII-4",
+      "title": "Examination of applicant",
+      "raw_text": "(1) Where the application is in proper form and duly presented, the Court may, if it thinks fit, examine the applicant, or his agent when the applicant is allowed to appear by agent regarding the merits of the claim and the property of the applicant. (2) If presented by agent, Court may order applicant to be examined by commission.—Where the application is presented by an agent, the Court may, if it thinks fit, order that the applicant be examined by a commission in the manner in which the examination of an absent witness may be taken.",
+      "key_terms": [
+        "discretionary examination",
+        "commission examination of applicant"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court may, at its discretion, personally examine the applicant (or the agent, where agent-presentation is permitted) on both the merits of the underlying claim and the applicant's property position. Where an agent presented the application, the Court can alternatively order the applicant to be examined by commission, using the same procedure as for an absent witness.",
+        "essential_elements": [
+          "Examination is discretionary, not mandatory",
+          "Covers both claim merits and property/means",
+          "Agent-presented applications allow commission-based examination of the applicant"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Commission examination under sub-rule (2) is a practical tool where the applicant cannot personally attend Court but direct examination is still needed to test the indigency claim."
+      }
+    },
+    {
+      "number": "O-XXXIII-5",
+      "title": "Rejection of application",
+      "raw_text": "The Court shall reject an application for permission to sue as an indigent person— (a) where it is not framed and presented in the manner prescribed by rules 2 and 3, or (b) where the applicant is not an indigent person, or (c) where he has, within two months next before the presentation of the application, disposed of any property fraudulently or in order to be able to apply for permission to sue as an indigent person: Provided that no application shall be rejected if, even after the value of the property disposed of by the applicant is taken into account, the applicant would be entitled to sue as an indigent person, or (d) where his allegations do not show a cause of action, or (e) where he has entered into any agreement with reference to the subject-matter of the proposed suit under which any other person has obtained an interest in such subject-matter; or (f) where the allegations, made by the applicant in the application show that the suit would be barred by any law for the time being in force, or (g) where any other person has entered into an agreement with him to finance the litigation.",
+      "key_terms": [
+        "mandatory rejection grounds",
+        "fraudulent property disposal",
+        "no-cause-of-action bar",
+        "limitation/legal bar",
+        "litigation-financing agreement"
+      ],
+      "breakdown": {
+        "plain_summary": "Rejection of the application is mandatory (not discretionary — 'shall reject') once any of seven grounds is made out: defective form/presentation; the applicant genuinely isn't indigent; fraudulent pre-application property disposal within two months (with a built-in proviso rescuing the application if indigency survives even counting the disposed property); no cause of action disclosed; a third party has already acquired an interest in the suit's subject-matter by agreement; the suit appears time-barred or otherwise legally barred on the applicant's own allegations; or a third-party litigation-financing agreement exists.",
+        "essential_elements": [
+          "(a) formal defect in framing/presentation",
+          "(b) applicant not actually indigent",
+          "(c) fraudulent property disposal within 2 months pre-application, subject to the value-inclusive proviso",
+          "(d) no cause of action shown",
+          "(e) third-party interest already created in the subject-matter by agreement",
+          "(f) suit appears barred by law on the applicant's own allegations",
+          "(g) third-party litigation-financing agreement exists"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This operates as an Order VII Rule 11-style gatekeeping filter specific to indigency applications — grounds (d) and (f) in particular mirror plaint-rejection logic and should be checked together with Order VII Rule 11 when opposing an indigency application."
+      }
+    },
+    {
+      "number": "O-XXXIII-6",
+      "title": "Notice of day for receiving evidence of applicant's indigency",
+      "raw_text": "Where the Court sees no reason to reject the application on any of the grounds stated in rule 5, it shall fix a day (of which at least ten day's clear notice shall be given to the opposite party and the Government pleader) for receiving such evidence as the applicant may adduce in proof of his indigency, and for hearing any evidence which may be adduced in disproof thereof.",
+      "key_terms": [
+        "ten days' clear notice",
+        "opposite party and Government pleader notice",
+        "evidence of indigency"
+      ],
+      "breakdown": {
+        "plain_summary": "If the application survives the Rule 5 screening, the Court fixes a hearing date — with at least ten clear days' notice to both the opposing party and the Government Pleader (reflecting the State's financial stake in deferred court-fees) — to receive evidence proving indigency and to hear any evidence disproving it.",
+        "essential_elements": [
+          "Triggered only if no Rule 5 rejection ground applies",
+          "Minimum ten clear days' notice required",
+          "Notice goes to both the opposite party and the Government Pleader",
+          "Hearing covers both proof and disproof of indigency"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The Government Pleader's mandatory notice reflects that the State, not just the opposing litigant, has a real interest in contesting a dubious indigency claim, since it is the State that ultimately bears deferred court-fee risk."
+      }
+    },
+    {
+      "number": "O-XXXIII-7",
+      "title": "Procedure at hearing",
+      "raw_text": "(1) On the day so fixed or as soon thereafter as may be convenient the Court shall examine the witnesses (if any) produced by either party, and may examine the applicant or his agent, and shall keep a full record of their evidence. (1A) The examination of the witnesses under sub-rule (1) shall be confined to the matters specified in clause (b), clause (c) and clause (e) of rule 5 but the examination of the applicant or his agent may relate to any of the matters specified in rule 5. (2) The Court shall also hear any argument which the parties may desire to offer on the question whether, on the face of the application and of the evidence (if any) taken by the Court under rule 6 or under this rule, the applicant is or is not subject to any of the prohibitions specified in rule 5. (3) The Court shall then either allow or refuse to allow the applicant to sue as an indigent person.",
+      "key_terms": [
+        "witness examination scope limit",
+        "full record of evidence",
+        "allow or refuse determination"
+      ],
+      "breakdown": {
+        "plain_summary": "At the hearing, the Court examines witnesses from both sides and may examine the applicant/agent, keeping a full evidentiary record — but third-party witness examination is confined to Rule 5's indigency, fraudulent-disposal, and third-party-interest grounds (clauses (b), (c), (e)), while the applicant/agent's own examination can range across any Rule 5 ground. After hearing argument on whether any Rule 5 prohibition applies, the Court finally allows or refuses the application.",
+        "essential_elements": [
+          "Sub-rule (1): full evidentiary record of witness and applicant/agent examination",
+          "Sub-rule (1A): third-party witness examination confined to Rule 5(b)/(c)/(e); applicant/agent examination unrestricted across Rule 5",
+          "Sub-rule (2): argument heard on whether any Rule 5 prohibition is made out",
+          "Sub-rule (3): binary allow/refuse outcome"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the asymmetric examination scope in sub-rule (1A) — opposing counsel cannot use third-party witnesses to probe, say, whether the suit discloses a cause of action (clause (d)) or is time-barred (clause (f)); only the applicant/agent's own examination can cover those grounds."
+      }
+    },
+    {
+      "number": "O-XXXIII-8",
+      "title": "Procedure if application admitted",
+      "raw_text": "Where the application is granted, it shall be numbered and registered, and shall be deemed the plaint in the suit, and the suit shall proceed in all other respects as a suit instituted in the ordinary manner, except that the plaintiff shall not be liable to pay any court-fee or fees payable for service of process in respect of any petition, appointment of a pleader or other proceeding connected with the suit.",
+      "key_terms": [
+        "application deemed plaint",
+        "ordinary suit procedure",
+        "fee exemption for ancillary proceedings"
+      ],
+      "breakdown": {
+        "plain_summary": "Once granted, the application itself converts into the plaint (no separate plaint filing needed) and the suit proceeds exactly like any ordinary suit from that point, except the plaintiff is exempted from court-fees and service-of-process fees on the plaint itself and on any connected petitions, pleader appointments, or other proceedings in the suit.",
+        "essential_elements": [
+          "Granted application is deemed the plaint — numbered and registered as such",
+          "Suit otherwise follows ordinary procedure",
+          "Fee exemption extends beyond the plaint to connected petitions, pleader appointments, and other suit proceedings"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The fee exemption is suit-wide, not limited to the initial plaint fee — remember this when an indigent plaintiff later files interlocutory applications in the same suit."
+      }
+    },
+    {
+      "number": "O-XXXIII-9",
+      "title": "Withdrawal of permission to sue as an indigent person",
+      "raw_text": "The Court may, on the application of the defendant, or of the Government pleader, of which seven days' clear notice in writing has been given to the plaintiff, order that the permission granted to the plaintiff to sue as an indigent person be withdrawn— (a) if he is guilty of vexatious or improper conduct in the course of the suit; (b) if it appears that his means are such that he ought not to continue to sue as an indigent person; or (c) if he has entered into any agreement with reference to the subject-matter of the suit under which any other person has obtained an interest in such subject-matter.",
+      "key_terms": [
+        "seven days' clear notice",
+        "vexatious/improper conduct",
+        "means improvement",
+        "post-grant third-party interest"
+      ],
+      "breakdown": {
+        "plain_summary": "Even after permission is granted, it can be withdrawn on the defendant's or Government Pleader's application (with seven clear days' written notice to the plaintiff) on three grounds: vexatious or improper litigation conduct, a later-discovered or developed means improvement making continued indigent status inappropriate, or a post-grant agreement giving a third party an interest in the suit's subject-matter.",
+        "essential_elements": [
+          "Application by defendant or Government Pleader, with 7 clear days' written notice to the plaintiff",
+          "(a) vexatious or improper conduct during the suit",
+          "(b) means now disqualify continued indigent-person status",
+          "(c) third-party interest created by agreement over the subject-matter"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Indigent status is not a one-time determination — it remains contestable throughout the suit, and litigation misconduct alone (ground (a)) is an independent basis for withdrawal even absent any change in the plaintiff's actual means."
+      }
+    },
+    {
+      "number": "O-XXXIII-9A",
+      "title": "Court to assign a pleader to an unrepresented indigent person",
+      "raw_text": "(1) Where a person, who is permitted to sue as an indigent person, is not represented by a pleader, the Court may, if the circumstances of the case so require, assign a pleader to him. (2) The High Court may, with the previous approval of the State Government, make rules providing for— (a) the mode of selecting pleaders to be assigned under sub-rule (1); (b) the facilities to be provided to such pleaders by the Court; (c) any other matter which is required to be or may be provided by the rules for giving effect to the provisions of sub-rule (1).",
+      "key_terms": [
+        "Court-assigned pleader",
+        "High Court rule-making power",
+        "legal aid mechanism"
+      ],
+      "breakdown": {
+        "plain_summary": "If an indigent plaintiff lacks legal representation, the Court may assign a pleader where circumstances warrant — an early legal-aid mechanism within the Code itself. The High Court, with State Government approval, can make detailed rules on how such pleaders are selected and what facilities the Court provides them.",
+        "essential_elements": [
+          "Discretionary assignment, triggered by case circumstances",
+          "Applies only where the indigent person is otherwise unrepresented",
+          "High Court rule-making power (with State Government approval) covers selection mode and pleader facilities"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a pre-constitutional-legal-aid-regime precursor mechanism — in practice now often overlaid by statutory Legal Services Authorities Act machinery, but remains independently available under the Code."
+      }
+    },
+    {
+      "number": "O-XXXIII-10",
+      "title": "Costs where indigent person succeeds",
+      "raw_text": "Where the plaintiff succeeds in the suit, the Court shall calculate the amount of court-fees which would have been paid by the plaintiff if he had not been permitted to sue as an indigent person; such amount shall be recoverable by the State Government from any party ordered by the decree to pay the same and shall be a first charge on the subject-matter of the suit.",
+      "key_terms": [
+        "deferred fee recovery on success",
+        "first charge on subject-matter",
+        "recoverable from decree-liable party"
+      ],
+      "breakdown": {
+        "plain_summary": "A successful indigent plaintiff doesn't escape court-fees forever — the Court calculates what would have been paid absent the indigency permission, and the State Government recovers that amount from whichever party the decree makes liable to pay it, with the recovery secured as a first charge on the suit's subject-matter.",
+        "essential_elements": [
+          "Triggered only on plaintiff's success",
+          "Court calculates the hypothetical fee that would otherwise have been payable",
+          "State recovers from the decree-liable party, not necessarily the plaintiff personally",
+          "Recovery is a first charge on the subject-matter of the suit"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A successful indigent plaintiff should understand that fee deferral is not fee forgiveness — the losing party ordered to pay typically bears this cost, but the first-charge mechanism means it attaches directly to the suit property."
+      }
+    },
+    {
+      "number": "O-XXXIII-11",
+      "title": "Procedure where indigent person fails",
+      "raw_text": "Where the plaintiff fails in the suit or the permission granted to him to sue as an indigent person has been withdrawn, or where the suit is withdrawn or dismissed,— (a) because the summons for the defendant to appear and answer has not been served upon him in consequence of the failure of the plaintiff to pay the court-fee or postal charges (if any) chargeable for such service or to present copies of the plaint or concise statement, or (b) because the plaintiff does not appear when the suit is called on for hearing, the Court shall order the plaintiff, or any person added as a co-plaintiff to the suit, to pay the court-fees which would have been paid by the plaintiff if he had not been permitted to sue as an indigent person.",
+      "key_terms": [
+        "fee recovery on failure/withdrawal/dismissal",
+        "non-service due to non-payment",
+        "non-appearance dismissal"
+      ],
+      "breakdown": {
+        "plain_summary": "If the plaintiff fails in the suit, loses indigent status, or the suit is withdrawn/dismissed (including for failure to pay service charges leading to non-service, or non-appearance at hearing), the Court must order the plaintiff — or any co-plaintiff added to the suit — to pay the deferred court-fees.",
+        "essential_elements": [
+          "Applies on failure, withdrawal of indigent status, or withdrawal/dismissal of the suit",
+          "Specifically covers dismissal for non-service due to non-payment of service charges/copies",
+          "Specifically covers dismissal for plaintiff's non-appearance at hearing",
+          "Liability extends to added co-plaintiffs, not just the original plaintiff"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Co-plaintiffs added after the original indigency grant are not insulated from this fee-recovery liability — a material risk to flag before joining as a co-plaintiff in an indigent-person suit."
+      }
+    },
+    {
+      "number": "O-XXXIII-11A",
+      "title": "Procedure where indigent person's suit abates",
+      "raw_text": "Where the suit abates by reason of the death of the plaintiff or of any person added as a co-plaintiff, the Court shall order that the amount of court-fees which would have been paid by the plaintiff if he had not been permitted to sue as an indigent person shall be recoverable by the State Government from the estate of the deceased plaintiff.",
+      "key_terms": [
+        "abatement on death",
+        "recovery from deceased's estate"
+      ],
+      "breakdown": {
+        "plain_summary": "If the suit abates because the plaintiff or a co-plaintiff dies, the deferred court-fees don't simply disappear — the Court orders them recoverable by the State from the deceased plaintiff's estate.",
+        "essential_elements": [
+          "Applies specifically to abatement by death of plaintiff or co-plaintiff",
+          "Recovery is directed against the deceased's estate"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This closes a potential gap where death-triggered abatement might otherwise let deferred fees go unrecovered — estates of indigent plaintiffs remain exposed to this liability."
+      }
+    },
+    {
+      "number": "O-XXXIII-12",
+      "title": "State Government may apply for payment of court-fees",
+      "raw_text": "The State Government shall have the right at any time to apply to the Court to make an order for the payment of court-fees under rule 10, rule 11 or rule 11A.",
+      "key_terms": [
+        "State's standing to apply",
+        "anytime application right"
+      ],
+      "breakdown": {
+        "plain_summary": "The State Government can approach the Court at any time to seek an order for payment of the deferred court-fees under Rules 10, 11, or 11A — an independent enforcement right, not dependent on the parties' own initiative.",
+        "essential_elements": [
+          "Right available at any time",
+          "Covers fee-recovery orders under Rules 10, 11, and 11A"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This confirms the State Government's standing as an active enforcement party for court-fee recovery, separate from and in addition to whatever the parties themselves do."
+      }
+    },
+    {
+      "number": "O-XXXIII-13",
+      "title": "State Government to be deemed a party",
+      "raw_text": "All matters arising between the State Government and any party to the suit under rule 10, rule 11, rule 11A or rule 12 shall be deemed to be questions arising between the parties to the suit within the meaning of section 47.",
+      "key_terms": [
+        "deemed party status",
+        "Section 47 execution questions"
+      ],
+      "breakdown": {
+        "plain_summary": "For court-fee recovery disputes arising under Rules 10, 11, 11A, or 12, the State Government is deemed a party to the suit, and such disputes are treated as Section 47 execution-stage questions between the parties — meaning they're resolved by the executing Court itself rather than requiring a fresh separate suit.",
+        "essential_elements": [
+          "State Government deemed a party for Rules 10/11/11A/12 matters",
+          "Such matters are treated as Section 47 questions (resolved in execution, not by separate suit)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a procedural convenience provision — it channels court-fee recovery disputes into the existing execution proceeding via Section 47, avoiding the need for the State to file an independent recovery suit."
+      }
+    },
+    {
+      "number": "O-XXXIII-14",
+      "title": "Recovery of amount of court-fees",
+      "raw_text": "Where an order is made under rule 10, rule 11 or rule 11A, the court shall forthwith cause a copy of the decree or order to be forwarded to the Collector who may, without prejudice to any other mode of recovery, recover the amount of court-fees specified therein from the person or property liable for the payment as if it were an arrear of land revenue.",
+      "key_terms": [
+        "forwarding to Collector",
+        "arrear-of-land-revenue recovery mode"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a Rule 10/11/11A fee-recovery order is made, the Court forwards a copy of the decree/order to the Collector, who can then recover the specified amount using the powerful, summary land-revenue-arrears recovery machinery — in addition to, not instead of, any other available recovery mode.",
+        "essential_elements": [
+          "Court must forthwith forward the decree/order to the Collector",
+          "Collector recovers as if the amount were an arrear of land revenue",
+          "This mode is cumulative with, not exclusive of, other recovery modes"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The land-revenue-arrears recovery route is a significant enforcement tool — it bypasses ordinary execution procedure and gives the State access to summary revenue-recovery machinery against the liable person's property."
+      }
+    },
+    {
+      "number": "O-XXXIII-15",
+      "title": "Refusal to allow applicant to sue as an indigent person to bar subsequent application of like nature",
+      "raw_text": "An order refusing to allow the applicant to sue as an indigent person shall be a bar to any subsequent application of the like nature by him in respect of the same right to sue; but the applicant shall be at liberty to institute a suit in the ordinary manner in respect of such right; provided that the plaint shall be rejected if he does not pay, either at the time of the institution of the suit or within such time thereafter as the Court may allow, the costs (if any) incurred by the State Government and by the opposite party in opposing his application for leave to sue as an indigent person.",
+      "key_terms": [
+        "bar on repeat application",
+        "liberty to sue in ordinary manner",
+        "conditional plaint rejection for unpaid opposition costs"
+      ],
+      "breakdown": {
+        "plain_summary": "A refusal order bars the applicant from making another indigency application for the same right to sue — but doesn't bar the underlying right itself, since the applicant remains free to institute an ordinary (fee-paid) suit on that right. That ordinary suit's plaint, however, is liable to rejection if the applicant fails to pay the State's and opposing party's costs incurred in opposing the earlier indigency application, within the time the Court allows.",
+        "essential_elements": [
+          "Refusal bars only a repeat indigency application for the same right, not the underlying suit right",
+          "Applicant may still sue in the ordinary (fee-paying) manner",
+          "Conditional plaint-rejection trigger: non-payment of opposition costs within the allowed time"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Advise a client whose indigency application was refused that filing afresh as an ordinary suit remains available, but budget for both the ordinary court-fee and any outstanding opposition-costs liability, since unpaid opposition costs can independently sink the fresh plaint."
+      }
+    },
+    {
+      "number": "O-XXXIII-15A",
+      "title": "Grant of time for payment of court-fee",
+      "raw_text": "Nothing contained in rule 5, rule 7 or rule 15 shall prevent a Court, while rejecting an application under rule 5 or refusing an application under rule 7, from granting time to the applicant to pay the requisite court-fee within such time as may be fixed by the Court or extended by it from time to time; and upon such payment and on payment of the costs referred to in rule 15 within that time, the suit shall be deemed to have been instituted on the date on which the application for permission to sue as an indigent person was presented.",
+      "key_terms": [
+        "time to pay court-fee",
+        "retroactive institution date",
+        "curative mechanism"
+      ],
+      "breakdown": {
+        "plain_summary": "Even where an application is rejected (Rule 5) or refused (Rule 7), the Court can give the applicant time to pay the ordinary court-fee instead — and if that fee (plus any Rule 15 opposition costs) is paid within the allowed time, the suit is deemed to have been instituted on the original application-presentation date, not the later payment date. This is a curative, limitation-protecting mechanism.",
+        "essential_elements": [
+          "Applies to rejections under Rule 5 and refusals under Rule 7",
+          "Court fixes or extends the payment time",
+          "On timely payment (fee plus Rule 15 costs), the suit relates back to the original application date"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This relation-back feature is critical for limitation purposes — a rejected indigency applicant who promptly pays the court-fee within the Court's allowed time preserves the original filing date, potentially saving an otherwise time-barred claim."
+      }
+    },
+    {
+      "number": "O-XXXIII-16",
+      "title": "Costs",
+      "raw_text": "The costs of an application for permission to sue as an indigent person and of an inquiry into indigency shall be costs in the suit.",
+      "key_terms": [
+        "costs in the suit",
+        "indigency-inquiry costs absorbed into suit costs"
+      ],
+      "breakdown": {
+        "plain_summary": "The expenses of the indigency application itself and the inquiry into indigency are not treated as a separate cost item — they simply become part of the overall costs of the suit, to be allocated however the suit's final costs order directs.",
+        "essential_elements": [
+          "Application costs and inquiry costs are treated as costs in the suit itself"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "No separate costs order is needed for the indigency-application stage — it folds into the suit's general costs determination at the end."
+      }
+    },
+    {
+      "number": "O-XXXIII-17",
+      "title": "Defence by an indigent person",
+      "raw_text": "Any defendant, who desires to plead a set-off or counter-claim, may be allowed to set up such claim as an indigent person, and the rules contained in this Order shall so far as may be, apply to him as if he were a plaintiff and his written statement were a plaint.",
+      "key_terms": [
+        "defendant set-off/counter-claim as indigent",
+        "written statement treated as plaint"
+      ],
+      "breakdown": {
+        "plain_summary": "The Order isn't limited to plaintiffs — a defendant wanting to raise a set-off or counter-claim can seek to do so as an indigent person too, with the whole Order applying to him by analogy: he is treated as a plaintiff and his written statement as a plaint for these purposes.",
+        "essential_elements": [
+          "Available only for set-off or counter-claim, not an ordinary defence",
+          "Whole Order applies mutatis mutandis, defendant treated as plaintiff, written statement treated as plaint"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This extension is narrowly confined to set-off/counter-claim scenarios — an ordinary defensive written statement doesn't require or permit an indigency application, since the defendant isn't the one incurring a plaint-equivalent court-fee for a bare defence."
+      }
+    },
+    {
+      "number": "O-XXXIII-18",
+      "title": "Power of Government to provide for free legal services to indigent persons",
+      "raw_text": "(1) Subject to the provisions of this Order, the Central or State Government may make such supplementary provisions as it thinks fit for providing free legal services to those who have been permitted to sue as indigent persons. (2) The High Court may, with the previous approval of the State Government, make rules for carrying out the supplementary provisions made by the Central or State Government for providing free legal services to indigent persons referred to in sub-rule (1), and such rules may include the nature and extent of such legal services, the conditions under which they may be made available, the matters in respect of which, and the agencies through which, such services may be rendered.",
+      "key_terms": [
+        "supplementary free legal services",
+        "Central/State Government power",
+        "High Court implementing rules"
+      ],
+      "breakdown": {
+        "plain_summary": "Beyond the Rule 9A pleader-assignment mechanism, the Central or State Government may independently create supplementary free-legal-services schemes for indigent-person litigants, and the High Court (with State Government approval) can make detailed rules on the nature, extent, conditions, subject-matters, and delivery agencies for such services.",
+        "essential_elements": [
+          "Government supplementary provisions are additional to, and subject to, the rest of the Order",
+          "High Court rule-making requires prior State Government approval",
+          "Rules may cover nature/extent of services, eligibility conditions, subject-matters, and delivery agencies"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the Code's broader legal-aid enabling provision, complementing the narrower Rule 9A Court-assigned-pleader mechanism — in practice, both now operate alongside the Legal Services Authorities Act, 1987 framework."
+      }
     }
   ]
 }
