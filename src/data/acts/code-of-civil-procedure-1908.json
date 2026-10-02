@@ -17379,6 +17379,86 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "Don't assume Order XXX is limited to formal partnerships — a sole-proprietorship or HUF business can be sued identically in its trade name under Rule 10, which is a frequently overlooked drafting convenience in commercial suits."
       }
+    },
+    {
+      "number": "O-XXXI",
+      "title": "Suits by or against Trustees, Executors and Administrators — Overview",
+      "raw_text": "ORDER XXXI. Suits by or against trustees, executors and administrators.",
+      "key_terms": [
+        "trustee representation",
+        "beneficiary non-joinder",
+        "joinder of co-trustees"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXXI streamlines litigation involving trust/estate property by letting the trustee, executor, or administrator represent the beneficiaries' interests in disputes with third parties — sparing the Court from having to join every beneficiary individually — while still requiring multiple co-trustees/executors/administrators to all be joined when the suit is against them collectively, subject to practical carve-outs.",
+        "essential_elements": [
+          "Trustee/executor/administrator represents beneficiaries against third parties; joining beneficiaries individually is not ordinarily necessary",
+          "Court retains discretion to order beneficiaries joined if it thinks fit",
+          "All co-trustees/executors/administrators must be joined in a suit against any of them, with exceptions for non-proving executors and those outside India",
+          "A married female trustee/executrix/administratrix's husband is not automatically a party"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This Order is the procedural counterpart to substantive trust/succession law — use it to avoid impractical beneficiary-joinder requirements, but always check whether the Court should exercise its Rule 1 discretion to add specific beneficiaries where their interests genuinely diverge from the trustee's litigating position."
+      }
+    },
+    {
+      "number": "O-XXXI-1",
+      "title": "Representation of beneficiaries in suits concerning property vested in trustees etc.",
+      "raw_text": "In all suits concerning property vested in a trustee, executor or administrator, where the contention is between the persons beneficially interested in such property and a third person, the trustee, executor or Administrator shall represent the persons so interested, and it shall not ordinarily be necessary to make them parties to the suit. But the Court may, if it thinks fit, order them or any of them to be made parties.",
+      "key_terms": [
+        "beneficially interested persons",
+        "trustee as representative",
+        "discretionary beneficiary joinder"
+      ],
+      "breakdown": {
+        "plain_summary": "When a dispute over trust/estate property is really between the beneficiaries and an outside third party, the law treats the trustee/executor/administrator as adequately representing the beneficiaries' interests — so there's ordinarily no need to individually join every beneficiary. The Court, however, retains discretion to order some or all beneficiaries joined if it considers that appropriate in a given case.",
+        "essential_elements": [
+          "Applies to suits concerning trust/estate property, contested between beneficiaries and a third person",
+          "Trustee/executor/administrator represents the beneficiaries by default",
+          "Individual beneficiary joinder is not ordinarily necessary",
+          "Court retains discretion to order joinder of some or all beneficiaries"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Where beneficiary interests genuinely conflict with the trustee's own litigating stance (e.g., a trustee accused of self-dealing), actively seek the Court's Rule 1 discretion to join the affected beneficiaries directly rather than relying on default representation."
+      }
+    },
+    {
+      "number": "O-XXXI-2",
+      "title": "Joinder of trustees, executors and administrators",
+      "raw_text": "Where there are several trustees, executors or administrators, they shall all be made parties to a suit against one or more of them: Provided that the executors who have not proved their testator's will, and trustees, executors and administrators outside India, need not be made parties.",
+      "key_terms": [
+        "mandatory co-trustee joinder",
+        "non-proving executors exception",
+        "outside-India exception"
+      ],
+      "breakdown": {
+        "plain_summary": "If a trust/estate has multiple trustees, executors, or administrators, a suit against any one (or some) of them must join all of them as parties — reflecting their collective responsibility. But two practical carve-outs relax this: executors who haven't yet proved the will, and any trustee/executor/administrator who is outside India, need not be joined.",
+        "essential_elements": [
+          "Default rule: all co-trustees/executors/administrators must be joined in a suit against any of them",
+          "Exception: executors who have not proved the testator's will need not be joined",
+          "Exception: trustees/executors/administrators outside India need not be joined"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Before objecting to non-joinder of a co-trustee, check both carve-outs — a missing executor may simply not have proved the will yet, or may be outside India, either of which fully excuses non-joinder."
+      }
+    },
+    {
+      "number": "O-XXXI-3",
+      "title": "Husband of married executrix not to join",
+      "raw_text": "Unless the Court directs otherwise, the husband of a married trustee, administratrix or executrix shall not as such be a party to a suit by or against her.",
+      "key_terms": [
+        "spousal non-joinder",
+        "married trustee/executrix/administratrix"
+      ],
+      "breakdown": {
+        "plain_summary": "A married woman acting as trustee, administratrix, or executrix is treated as capable of litigating that role on her own — her husband is not, merely by virtue of being her husband, automatically a necessary party to a suit by or against her in that capacity, unless the Court specifically directs otherwise.",
+        "essential_elements": [
+          "Default: husband is not a party merely because his wife is a trustee/administratrix/executrix",
+          "Court retains discretion to direct otherwise in a specific case"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a historical-context rule reflecting now largely symbolic drafting caution — in modern practice a married trustee litigates in her own right, and this rule simply confirms her husband need not be separately impleaded absent a specific Court direction."
+      }
     }
   ]
 }
