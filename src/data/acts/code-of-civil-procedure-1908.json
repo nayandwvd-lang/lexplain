@@ -20817,6 +20817,549 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "This Rule 37 transmission is what ultimately enables the trial Court to execute the appellate decree (or any varied decree) — a party seeking execution post-appeal should confirm this transmission has actually occurred before proceeding in the executing Court."
       }
+    },
+    {
+      "number": "O-XLII",
+      "title": "Appeals from Appellate Decrees — Overview",
+      "raw_text": "ORDER XLII. Appeals from appellate decrees.",
+      "key_terms": [
+        "second appeal",
+        "substantial question of law",
+        "Order XLI applied",
+        "Section 100"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XLII governs second appeals — appeals from a decree passed by a first Appellate Court. Rather than re-stating a parallel procedural code, it simply imports Order XLI's entire machinery 'so far as may be,' with two targeted adaptations: the Court must formulate the substantial question of law required by Section 100 at admission and can confine the second appeal to that formulated question, and the 'Court of first instance' reference in Order XLI Rule 14(4) is redirected to mean the first-appeal Court rather than the original trial Court.",
+        "essential_elements": [
+          "Rule 1: Order XLI applies to second appeals so far as may be",
+          "Rule 2: at admission, the Court must formulate the Section 100 substantial question of law; it may confine the appeal to that question, barring other grounds without leave",
+          "Rule 3: Order XLI Rule 14(4)'s reference to the 'Court of first instance' is read, for second appeals, as the Court to which the first appeal was preferred"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A second appeal is procedurally just a first appeal with one extra gate — the Section 100 substantial-question-of-law formulation — so when Order XLI's rules (admission, stay, remand, additional evidence, judgment) are applied to a second appeal, always first check whether the point being argued falls within the formulated question, since Rule 2 restricts the appellant from straying beyond it without the Court's leave."
+      }
+    },
+    {
+      "number": "O-XLII-1",
+      "title": "Procedure",
+      "raw_text": "The rules of Order XLI shall apply, so far as may be, to appeals from appellate decrees.",
+      "key_terms": [
+        "Order XLI applied mutatis mutandis"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 1 is a wholesale incorporation clause — rather than duplicating Order XLI's detailed procedure (memorandum form, stay, hearing, remand, judgment, decree), it simply extends that entire procedural code to second appeals 'so far as may be,' meaning courts apply Order XLI's rules with whatever adaptation the second-appeal context requires.",
+        "essential_elements": [
+          "Order XLI's rules govern second appeals by incorporation",
+          "Applied 'so far as may be' — adapted as necessary to the second-appeal context, not mechanically identical"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Whenever a procedural question arises in a second appeal not specifically addressed by Order XLII itself, the default answer is to look to the corresponding Order XLI rule, since Rule 1 makes that the governing source by default."
+      }
+    },
+    {
+      "number": "O-XLII-2",
+      "title": "Power of Court to direct that the appeal be heard on the question formulated by it",
+      "raw_text": "At the time of making an order under rule 11 of Order XLI for the hearing of a second appeal, the Court shall formulate the substantial question of law as required by section 100, and in doing so, the Court may direct that the second appeal be heard on the question so formulated and it shall not be open to the appellant to urge any other ground in the appeal without the leave of the Court, given in accordance with the provision of section 100.",
+      "key_terms": [
+        "formulation of substantial question of law",
+        "Section 100",
+        "confinement to formulated question",
+        "leave to urge other grounds"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 2 ties the second-appeal admission stage directly to Section 100's jurisdictional requirement — when admitting a second appeal under the Order XLI Rule 11 procedure, the Court must formulate the substantial question(s) of law on which the appeal will proceed. Having formulated the question, the Court may direct the appeal be heard confined to it, and the appellant cannot argue any other ground without the Court's leave, consistent with Section 100's own restriction on second-appeal grounds.",
+        "essential_elements": [
+          "Formulation of the substantial question of law occurs at the Rule 11 admission stage",
+          "Court may confine the second appeal's hearing to the formulated question",
+          "Appellant barred from urging other grounds without leave, per Section 100"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A second-appeal memorandum should be drafted with the eventual Section 100 question squarely in view — since the formulated question (not the pleaded grounds generally) becomes the actual boundary of the appeal, framing a precise, well-supported substantial question of law at the outset materially improves the odds of a favourable formulation."
+      }
+    },
+    {
+      "number": "O-XLII-3",
+      "title": "Application of rule 14 of Order XLI",
+      "raw_text": "Reference in sub-rule (4) of rule 14 of Order XLI to the Court of first instance shall, in the case of an appeal from an appellate decree or order, be construed as a reference to the Court to which the appeal was preferred from the original decree or order.",
+      "key_terms": [
+        "Court of first instance redefined",
+        "first appellate Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 3 is a technical cross-reference fix — Order XLI Rule 14(4) (which exempts most existing respondents from repeat notice of incidental proceedings, except newly-impleaded ones) refers to the 'Court of first instance.' For second appeals, that phrase is deemed to mean the Court that heard the first appeal, not the original trial Court, since the relevant prior proceeding for a second appeal is the first appeal itself.",
+        "essential_elements": [
+          "In second appeals, 'Court of first instance' in Order XLI Rule 14(4) means the first-appeal Court",
+          "Not the original trial Court that passed the initial decree"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a narrow interpretive rule relevant only when applying Order XLI Rule 14(4)'s notice-exemption logic within a second appeal — easy to overlook, but necessary to correctly determine which prior appearance record exempts a respondent from repeat notice."
+      }
+    },
+    {
+      "number": "O-XLIII",
+      "title": "Appeals from Orders — Overview",
+      "raw_text": "ORDER XLIII. Appeals from orders.",
+      "key_terms": [
+        "appealable orders",
+        "Section 104",
+        "Order XLI applied",
+        "non-appealable orders challengeable in decree appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XLIII operationalises Section 104's principle that only specifically listed orders (not every interlocutory order) are independently appealable. Rule 1 is the exhaustive list of such orders, cross-referencing specific Rules across many other Orders (VII, IX, XI, XXI, XXII, XXV, XXXIII, XXXV, XXXVIII, XXXIX, XL, XLI, XLVII). Rule 1A then gives a safety valve for everything NOT on that list — a non-appealable order can still be challenged indirectly in an appeal against the eventual decree. Rule 2 again incorporates Order XLI's procedure wholesale for these order-appeals.",
+        "essential_elements": [
+          "Rule 1: exhaustive list of appealable orders under Section 104, cross-referencing specific rules in numerous other Orders",
+          "Rule 1A: non-appealable orders remain challengeable within an appeal against the resulting decree, including compromise-recording orders",
+          "Rule 2: Order XLI's procedure applies to appeals from orders, so far as may be"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Before drafting any appeal from an interlocutory order, check Rule 1's list item-by-item — if the specific order is not listed, Rule 1A (not a direct appeal) is the correct route: preserve the objection and raise it when appealing the final decree, rather than filing a doomed direct appeal against an unlisted order."
+      }
+    },
+    {
+      "number": "O-XLIII-1",
+      "title": "Appeal from orders",
+      "raw_text": "An appeal shall lie from the following orders under the provisions of section 104, namely:— (a) an order under rule 10 of Order VII returning a plaint to be presented to the proper Court, except where the procedure specified in rule 10A of Order VII has been followed; (c) an order under rule 9 of order IX rejecting an application (in a case open to appeal) for an order to set aside the dismissal of a suit; (d) an order under rule 13 of Order IX rejecting an application (in a case open to appeal) for an order to set aside a decree passed ex parte; (f) an order under rule 21 of Order XI; (i) an order under rule 34 of Order XXI on an objection to the draft of a document or of an endorsement; (j) an order under rule 72 or rule 92 of Order XXI setting aside or refusing to set aside a sale; (ja) an order rejecting an application made under sub-rule (1) of rule 106 of Order XXI, provided that an order on the original application, that is to say, the application referred to in sub-rule (1) of rule 105 of that Order is appealable; (k) an order under rule 9 of Order XXII refusing to set aside the abatement or dismissal of a suit; (l) an order under rule 10 of Order XXII giving or refusing to give leave; (n) an order under rule 2 of Order XXV rejecting an application (in a case open to appeal) for an order to set aside the dismissal of a suit; (na) an order under rule 5 or rule 7 of Order XXXIII rejecting an application for permission to sue as an indigent person; (p) orders in interpleader-suits under rule 3, rule 4 or rule 6 of Order XXXV; (q) an order under rule 2, rule 3 or rule 6 of order XXXVIII; (r) an order under rule 1, rule 2, rule 2A, rule 4 or rule 10 of Order XXXIX; (s) an order under rule 1, or rule 4 of Order XL; (t) an order of refusal under rule 19 of Order XLI to re-admit, or under rule 21 of Order XLI to re-hear, an appeal; (u) an order under rule 23 or rule 23A of Order XLI remanding a case, where an appeal would lie from the decree of the Appellate Court; (w) an order under rule 4 of Order XLVII granting an application for review.",
+      "key_terms": [
+        "exhaustive appealable orders list",
+        "plaint return",
+        "ex parte decree refusal",
+        "execution sale orders",
+        "abatement refusal",
+        "injunction and receiver orders",
+        "remand appealable",
+        "review grant appealable"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 1 is the single master list of which interlocutory orders may be independently appealed under Section 104 — everything else is not directly appealable (see Rule 1A). The list spans the whole Code: plaint-return orders (Order VII Rule 10, unless the return-for-refiling procedure of Rule 10A was used instead), refusals to set aside a dismissed suit or ex parte decree (Order IX Rules 9, 13), discovery orders (Order XI Rule 21), execution-sale objection and setting-aside orders (Order XXI Rules 34, 72, 92, 106), abatement/leave orders in death-of-party situations (Order XXII Rules 9, 10), indigent-suit dismissal and indigent-appeal-permission refusals (Order XXV Rule 2, Order XXXIII Rules 5/7), interpleader-suit orders (Order XXXV), arrest/attachment-before-judgment orders (Order XXXVIII), temporary injunction and related orders (Order XXXIX Rules 1, 2, 2A, 4, 10), receiver orders (Order XL Rules 1, 4), refusals to re-admit or re-hear a first appeal (Order XLI Rules 19, 21), appealable remands (Order XLI Rules 23, 23A), and orders granting a review (Order XLVII Rule 4).",
+        "essential_elements": [
+          "Appeal lies ONLY from orders specifically listed in this Rule, each tied to a named Rule in another Order",
+          "Categories span: plaint return; default/ex parte-decree restoration refusals; discovery; execution-sale objections/setting-aside; abatement and leave orders; indigent-suit/appeal refusals; interpleader orders; arrest/attachment before judgment; injunction and receiver orders; first-appeal re-admission/re-hearing refusals; appealable remands; review grants",
+          "Several clauses have been omitted by amendment over the years (several original letters no longer appear) — always check the current, in-force clause list"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Because this list is exhaustive and strictly construed, an order not falling within one of these specifically named clauses is not independently appealable no matter how significant it feels to the losing party — the correct recourse for such an order is Rule 1A (challenge within the eventual decree appeal) or, in rare cases, a revision petition rather than a Section 104 appeal."
+      }
+    },
+    {
+      "number": "O-XLIII-1A",
+      "title": "Right to challenge non-appealable orders in appeal against decrees",
+      "raw_text": "(1) Where any order is made under this Code against a party and thereupon any judgment is pronounced against such party and a decree is drawn up, such party may, in an appeal against the decree, contend that such order should not have been made and the judgment should not have been pronounced. (2) In an appeal against a decree passed in a suit after recording a compromise or refusing to record a compromise, it shall be open to the appellant to contest the decree on the ground that the compromise should, or should not, have been recorded.",
+      "key_terms": [
+        "non-appealable order challenge",
+        "within decree appeal",
+        "compromise recording ground"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 1A is the essential counterpart to Rule 1's exhaustive list — it confirms that a party is not without any remedy merely because a particular interlocutory order is not independently appealable. Instead, that party can raise the objection to the order when appealing the eventual decree that followed from it, contending the order should not have been made and the resulting judgment should not have been pronounced. Sub-rule (2) specifically extends this to compromise-recording decisions — whether a compromise was wrongly recorded, or wrongly refused to be recorded, can be raised as a ground in the decree appeal.",
+        "essential_elements": [
+          "Applies to any order made against a party that is not independently appealable under Rule 1",
+          "That party may challenge the order within an appeal against the eventual decree",
+          "Sub-rule (2): specifically covers challenging a decree on the ground a compromise should/should not have been recorded"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 1A means counsel should never let an adverse but non-appealable interlocutory order go unchallenged merely because no direct appeal lies — the objection should be explicitly preserved and pleaded as a ground in the eventual decree appeal, since silence at that stage can be construed as acquiescence."
+      }
+    },
+    {
+      "number": "O-XLIII-2",
+      "title": "Procedure",
+      "raw_text": "The rules of Order XLI shall apply, so far as may be, to appeals from orders.",
+      "key_terms": [
+        "Order XLI applied to order-appeals"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 2 mirrors Order XLII Rule 1's incorporation technique — rather than restating procedure, appeals from the Rule 1 list of orders are simply governed by Order XLI's rules (memorandum, admission, stay, hearing, judgment, decree), applied so far as may be.",
+        "essential_elements": [
+          "Order XLI's procedure governs appeals from orders under this Order",
+          "Applied 'so far as may be' — adapted to the order-appeal context"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat an appeal from an appealable order exactly like a first appeal procedurally (memorandum form, stay conditions, hearing sequence) unless the specific nature of the order genuinely requires a different approach."
+      }
+    },
+    {
+      "number": "O-XLIV",
+      "title": "Appeals by Indigent Persons — Overview",
+      "raw_text": "ORDER XLIV. Appeals by indigent persons.",
+      "key_terms": [
+        "indigent person appeal",
+        "court-fee deferred",
+        "inquiry into indigency",
+        "affidavit of continuing indigency"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XLIV extends Order XXXIII's indigent-persons suit framework to the appellate stage — someone unable to pay the appeal memorandum's court fee may apply to appeal as an indigent person, subject to Order XXXIII's provisions so far as applicable. If the application is rejected, the applicant gets a further chance to pay the fee within Court-fixed time, with the memorandum then treated as validly filed from the outset. Rule 3 streamlines the indigency inquiry for someone already found indigent below, requiring a fresh inquiry only if the Government Pleader or respondent actually disputes continuing indigency, or if indigency is newly claimed to have arisen only since the original decree.",
+        "essential_elements": [
+          "Rule 1: any person entitled to appeal but unable to pay court fee may apply to appeal as an indigent person, governed by Order XXXIII so far as applicable",
+          "Rule 2: on rejection of the indigency application, the Court may allow deferred payment of the court fee, validating the memorandum retroactively",
+          "Rule 3: streamlined inquiry where indigency was already established below (affidavit of continuing indigency suffices unless disputed); separate inquiry rules for indigency arising only after the original decree"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Order XLIV is simply Order XXXIII transplanted to the appellate stage — any analysis of an indigent-appeal application should cross-reference Order XXXIII's definitions, inquiry procedure, and consequences (State Government's right to recover court fees, etc.) since Rule 1 expressly imports those provisions rather than restating them."
+      }
+    },
+    {
+      "number": "O-XLIV-1",
+      "title": "Who may appeal as an indigent person",
+      "raw_text": "(1) Any person entitled to prefer an appeal, who is unable to pay the fee required for the memorandum of appeal, may present an application accompanied by a memorandum of appeal, and may be allowed to appeal as an indigent person, subject, in all matters, including the presentation of such application, to the provisions relating to suits by indigent persons, in so far as those provisions are applicable.",
+      "key_terms": [
+        "entitled to appeal",
+        "unable to pay fee",
+        "application with memorandum",
+        "Order XXXIII provisions applicable"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 1 opens the appellate indigent-person route to anyone entitled to appeal who cannot pay the memorandum's court fee — they present an application (accompanied by the memorandum itself) seeking permission to appeal as an indigent person, with the entire Order XXXIII framework for indigent suits (definition, inquiry, rejection grounds, consequences) applying so far as it can be made applicable to the appellate context.",
+        "essential_elements": [
+          "Applicant must be a person entitled to prefer the appeal",
+          "Must be unable to pay the court fee for the memorandum of appeal",
+          "Application accompanied by the memorandum of appeal itself",
+          "Governed throughout by Order XXXIII's indigent-persons provisions, so far as applicable"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Because Order XXXIII's full machinery (indigency definition, examination, rejection grounds under Rule 5, State Government's recovery rights) is imported wholesale, an indigent-appeal application should be prepared with the same rigour as an original indigent-suit application — a defective indigency showing is rejected on the same substantive grounds as at the trial stage."
+      }
+    },
+    {
+      "number": "O-XLIV-2",
+      "title": "Grant of time for payment of court-fee",
+      "raw_text": "Where an application is rejected under rule 1, the Court may, while rejecting the application, allow the applicant to pay the requisite Court-fee, within such time as may be fixed by the Court or extended by it from time to time; and upon such payment, the memorandum of appeal in respect of which such fee is payable shall have the same force and effect as if such fee had been paid in the first instance.",
+      "key_terms": [
+        "deferred court-fee payment",
+        "retroactive validity"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 2 softens the consequence of a rejected indigency application — rather than the memorandum being simply thrown out, the Court can allow the applicant a further fixed (and extendable) window to pay the ordinary court fee. If paid within that window, the memorandum is treated as if the fee had been paid from the very start, preserving the original filing date for limitation and other purposes.",
+        "essential_elements": [
+          "Applies when a Rule 1 indigency application is rejected",
+          "Court may grant time (extendable) to pay the ordinary court fee instead",
+          "Payment within that time validates the memorandum retroactively, as if the fee had been paid at presentation"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 2's retroactive-validity feature is critical for limitation purposes — an appellant whose indigency claim fails should move promptly to pay the fee within the Court's fixed window, since timely payment preserves the original (often otherwise time-barred) presentation date."
+      }
+    },
+    {
+      "number": "O-XLIV-3",
+      "title": "Inquiry as to whether applicant is an indigent person",
+      "raw_text": "(1) Where an applicant, referred to in rule 1, was allowed to sue or appeal as an indigent person in the Court from whose decree the appeal is preferred, no further inquiry in respect of the question whether or not he is an indigent person shall be necessary if the applicant has made an affidavit stating that he has not ceased to be an indigent person since the date of the decree appealed from; but if the Government Pleader or the respondent disputes the truth of the statement made in such affidavit, an inquiry into the question aforesaid shall be held by the Appellate Court, or, under the orders of the Appellate Court, by an officer of that Court. (2) Where the applicant, referred to in rule 1, is alleged to have become an indigent person since the date of the decree appealed from, the inquiry into the question whether or not he is an indigent person shall be made by the Appellate Court or, under the orders of the Appellate Court, by an officer of that Court unless the Appellate Court considers it necessary in the circumstances of the case that the inquiry should be held by the Court from whose decision the appeal is preferred.",
+      "key_terms": [
+        "prior indigency affidavit suffices",
+        "disputed affidavit triggers inquiry",
+        "newly-arisen indigency inquiry"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 3 streamlines the indigency inquiry for an applicant already recognised as indigent in the Court below — a simple affidavit affirming continuing indigency since the decree suffices, with no further inquiry needed, unless the Government Pleader or the respondent actually disputes the affidavit's truth, in which case the Appellate Court (or its delegated officer) holds an inquiry. Sub-rule (2) covers the different scenario of indigency claimed to have arisen only after the original decree — there, an inquiry is held by the Appellate Court (or its officer) by default, though the Appellate Court can direct the trial Court to hold it instead if circumstances warrant.",
+        "essential_elements": [
+          "Prior indigent status + undisputed continuing-indigency affidavit: no further inquiry necessary",
+          "If the Government Pleader or respondent disputes the affidavit: inquiry held by the Appellate Court or its delegated officer",
+          "Newly-arisen indigency (since the decree): inquiry by the Appellate Court/officer by default, or by the trial Court if the Appellate Court considers that necessary"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A respondent genuinely believing the appellant's financial position has improved since the trial-Court decree should formally dispute the continuing-indigency affidavit promptly, since silence allows Rule 3(1)'s streamlined no-inquiry path to apply automatically."
+      }
+    },
+    {
+      "number": "O-XLV",
+      "title": "Appeals to the Supreme Court — Overview",
+      "raw_text": "ORDER XLV. Appeals to the Supreme Court.",
+      "key_terms": [
+        "certificate of fitness",
+        "substantial question of law of general importance",
+        "security and deposit",
+        "transmission of record",
+        "execution pending appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XLV governs the procedure for appeals from a High Court decree to the Supreme Court (originally the Privy Council, references updated over time) — covering the certificate-of-fitness gateway that determines whether such an appeal can proceed at all, the security and deposit obligations once a certificate is granted, admission and record-transmission procedure, the Court's powers over execution pending the appeal, and enforcement of the Supreme Court's eventual decree or order back in the Indian court system.",
+        "essential_elements": [
+          "Rules 1-3: 'decree' includes a final order; petition to the High Court for a certificate that the case involves a substantial question of law of general importance needing Supreme Court decision",
+          "Rule 6: refusal of certificate ends the matter at the High Court (petition dismissed)",
+          "Rules 7-12: on grant of certificate, appellant must furnish security and deposit record-preparation costs within a fixed window; admission, record transmission, and refund of unused deposit",
+          "Rules 13-14: wide High Court powers pending appeal (impound property, allow or stay execution on security, receiver appointment); increase of inadequate security",
+          "Rules 15-16: procedure to enforce the Supreme Court's decree/order through the original executing Court; appeals from orders made in that execution"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The certificate-of-fitness stage (Rules 2-6) is the real gatekeeper for this Order — in practice today Article 133 of the Constitution and the Supreme Court's own direct special-leave jurisdiction under Article 136 have substantially overtaken this Order's certificate mechanism for most civil appeals, so treat Order XLV as the residual Code-based procedural track rather than the primary route to the Supreme Court."
+      }
+    },
+    {
+      "number": "O-XLV-1",
+      "title": "'Decree' defined",
+      "raw_text": "In this Order, unless there is something repugnant in the subject or context, the expression 'decree' shall include a final order.",
+      "key_terms": [
+        "decree includes final order"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 1 broadens the Order's scope by definition — wherever 'decree' is used in Order XLV, it is read to include a final order as well, unless the context makes that reading inappropriate, ensuring the Supreme Court appeal machinery is not artificially limited to decrees in the narrowest technical sense.",
+        "essential_elements": [
+          "'Decree' in this Order includes a final order",
+          "Subject to a repugnancy exception where context requires otherwise"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "When assessing whether a High Court ruling is appealable under this Order, check whether it is final in substance (disposing of the rights of the parties) rather than getting stuck on whether it is formally styled a 'decree' versus an 'order.'"
+      }
+    },
+    {
+      "number": "O-XLV-2",
+      "title": "Application to Court whose decree complained of",
+      "raw_text": "(1) Whoever desires to appeal to the Supreme Court shall apply by petition to the Court whose decree is complained of. (2) Every petition under sub-rule (1) shall be heard as expeditiously as possible and endeavour shall be made to conclude the disposal of the petition within sixty days from the date on which the petition is presented to the Court under sub-rule (1).",
+      "key_terms": [
+        "petition to High Court",
+        "sixty-day disposal target"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 2 requires the appeal process to begin not directly before the Supreme Court but by petition to the High Court whose decree is being challenged, asking that Court to certify the case as fit for Supreme Court appeal. As with other Code provisions post-1976, there is a 60-day disposal target for this petition, reflecting the broader statutory push against appellate-stage delay.",
+        "essential_elements": [
+          "Appeal process begins with a petition to the High Court whose decree is complained of",
+          "Target: dispose of the petition within 60 days of presentation"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The 60-day target is directory, not a hard deadline — practitioners should use it to press for expedited hearing of the certificate petition rather than treating a delayed disposal as itself a ground of challenge."
+      }
+    },
+    {
+      "number": "O-XLV-3",
+      "title": "Certificate as to value or fitness",
+      "raw_text": "(1) Every petition shall state the grounds of appeal and pray for a certificate— (i) that the case involves a substantial question of law of general importance, and (ii) that in the opinion of the Court the said question needs to be decided by the Supreme Court. (2) Upon receipt of such petition, the Court shall direct notice to be served on the opposite party to show cause why the said certificate should not be granted.",
+      "key_terms": [
+        "substantial question of law of general importance",
+        "notice to opposite party",
+        "show cause against certificate"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 3 specifies what the certificate petition must actually establish — not just any legal error, but a substantial question of law of general importance that, in the High Court's own opinion, genuinely needs Supreme Court resolution. This dual requirement (substantiality + general importance + the Court's own opinion on the need for Supreme Court decision) is a high bar deliberately filtering out routine appeals. Before granting or refusing the certificate, the Court must serve notice on the opposite party to show cause against its grant, ensuring the respondent is heard on this threshold question.",
+        "essential_elements": [
+          "Petition must state grounds of appeal and specifically pray for the certificate",
+          "Certificate requires: (i) a substantial question of law of general importance; and (ii) the Court's own opinion that the Supreme Court needs to decide it",
+          "Notice must be served on the opposite party to show cause against the certificate before it is granted"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A certificate petition should be drafted around a precisely framed substantial question of law, not a general complaint about the correctness of the judgment — vague or fact-specific grievances rarely satisfy the 'general importance' threshold this Rule demands."
+      }
+    },
+    {
+      "number": "O-XLV-6",
+      "title": "Effect of refusal of certificate",
+      "raw_text": "Where such certificate is refused, the petition shall be dismissed.",
+      "key_terms": [
+        "certificate refusal",
+        "petition dismissed"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 6 states the straightforward consequence of a failed certificate application — if the High Court declines to certify the case as fit, the petition itself is simply dismissed, ending the Code-based route to the Supreme Court (leaving the petitioner to consider a direct special leave petition under Article 136 of the Constitution, which operates independently of this Order).",
+        "essential_elements": [
+          "Refusal of the certificate results in dismissal of the petition"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A refused certificate under this Order does not foreclose Supreme Court access altogether — it simply forecloses this particular Code-based mechanism; an aggrieved party typically proceeds instead by special leave petition under Article 136."
+      }
+    },
+    {
+      "number": "O-XLV-7",
+      "title": "Security and deposit required on grant of certificate",
+      "raw_text": "(1) Where the certificate is granted, the applicant shall, within ninety days or such further period, not exceeding sixty days, as the Court may upon cause shown allow, from the date of the decree complained of, or within six weeks from the date of the grant of the certificate whichever is the later date,— (a) furnish security in cash or in Government securities for the costs of the respondent, and (b) deposit the amount required to defray the expense of translating, transcribing indexing printing, and transmitting to the Supreme Court a correct copy of the whole record of the suit, except— (1) formal documents directed to be excluded by any Rule of the Supreme Court in force for the time being; (2) papers which the parties agree to exclude; (3) accounts, or portions of accounts, which the officer empowered by the Court for that purpose considers unnecessary, and which the parties have not specifically asked to be included; and (4) such other documents as the High Court may direct to be excluded: Provided that the Court at the time of granting the certificate may, after hearing any opposite party who appears, order on the ground of special hardship that some other form of security may be furnished: Provided further, that no adjournment shall be granted to an opposite party to contest the nature of such security.",
+      "key_terms": [
+        "security for respondent's costs",
+        "deposit for record preparation",
+        "ninety-day or six-week window",
+        "excluded documents",
+        "special hardship alternative security"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 7 fixes the financial preconditions once a certificate is granted — within 90 days (extendable up to a further 60 days for cause shown) of the decree, or six weeks from the certificate's grant (whichever is later), the appellant must furnish security in cash or Government securities for the respondent's costs, and deposit the cost of preparing (translating, transcribing, indexing, printing) and transmitting the complete suit record to the Supreme Court — excluding formal documents the Supreme Court's own rules exclude, papers the parties agree to exclude, unnecessary account portions, or documents the High Court directs excluded. The first proviso allows the Court, on special hardship grounds and after hearing the opposite party, to permit an alternative form of security; the second proviso bars using a dispute over the security's form/nature as a basis for seeking an adjournment.",
+        "essential_elements": [
+          "Time window: 90 days (extendable up to 60 more days for cause) from the decree, or 6 weeks from certificate grant, whichever is later",
+          "Security in cash or Government securities for the respondent's costs",
+          "Deposit to cover record-preparation and transmission expenses, net of specified exclusions",
+          "First proviso: alternative security form permitted on special hardship, after hearing the opposite party",
+          "Second proviso: no adjournment permitted merely to contest the security's nature"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Missing the Rule 7 security/deposit window is fatal to the appeal proceeding further — an appellant granted a certificate should calendar this deadline as rigorously as a limitation period, since the whole admission process under Rule 8 depends on timely compliance."
+      }
+    },
+    {
+      "number": "O-XLV-8",
+      "title": "Admission of appeal and procedure thereon",
+      "raw_text": "Where such security has been furnished and deposit made to the satisfaction of the Court, the court shall— (a) declare the appeal admitted, (b) give notice thereof to the respondent, (c) transmit to the Supreme Court under the seal of the Court a correct copy of the said record, except as aforesaid, and (d) give to either party one or more authenticated copies of any of the papers in the suit on his applying therefore and paying the reasonable expenses incurred in preparing them.",
+      "key_terms": [
+        "declaration of admission",
+        "notice to respondent",
+        "record transmission",
+        "authenticated copies on request"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 8 is the formal admission step following compliance with Rule 7 — once security and deposit are satisfactorily furnished, the Court declares the appeal admitted, notifies the respondent, transmits the certified record to the Supreme Court, and makes authenticated copies of case papers available to either party on request and payment of reasonable preparation expenses.",
+        "essential_elements": [
+          "Triggered by satisfactory furnishing of security and deposit under Rule 7",
+          "Court declares the appeal admitted and notifies the respondent",
+          "Court transmits a certified copy of the record to the Supreme Court",
+          "Either party can obtain authenticated copies of case papers on request and payment"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Once Rule 8 admission occurs, the appeal formally proceeds in the Supreme Court's own domain — practitioners should shift procedural focus at this point to the Supreme Court's own rules of practice rather than continuing to look to the High Court's Order XLV machinery for further steps beyond what Rules 9-16 specifically address."
+      }
+    },
+    {
+      "number": "O-XLV-9",
+      "title": "Revocation of acceptance of security",
+      "raw_text": "At any time before the admission of the appeal the Court may, upon cause shown, revoke the acceptance of any such security, and make further directions thereon.",
+      "key_terms": [
+        "revocation of security acceptance",
+        "before admission"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 9 gives the Court a safety valve before final admission — if cause is shown (e.g., the security turns out to be inadequate or defective), the Court can revoke its earlier acceptance of the security and issue further directions, ensuring the admission under Rule 8 is not based on security that has since proven unsatisfactory.",
+        "essential_elements": [
+          "Available only before the appeal is actually admitted",
+          "Requires cause shown to revoke previously accepted security",
+          "Court may make further directions after revocation"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A respondent who discovers a defect in the appellant's furnished security (e.g., an overvalued asset pledged as security) should move promptly under Rule 9 before admission occurs, since the remedy is specifically time-limited to the pre-admission stage."
+      }
+    },
+    {
+      "number": "O-XLV-10",
+      "title": "Power to order further security or payment",
+      "raw_text": "Where at any time after the admission of an appeal but before the transmission of the copy of the record, except as aforesaid, to the Supreme Court, such security appears inadequate, or further payment is required for the purpose of translating, transcribing, printing, indexing or transmitting the copy of the record, except as aforesaid, the Court may order the appellant to furnish, within a time to be fixed by the Court, other and sufficient security, or to make, within like time, the required payment.",
+      "key_terms": [
+        "post-admission inadequate security",
+        "further payment for record preparation"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 10 extends the Court's oversight past admission — even after the appeal is admitted, if the security proves inadequate or additional funds are needed to complete record preparation/transmission (before the record actually reaches the Supreme Court), the Court can order the appellant to furnish further security or make the required payment within a fixed time.",
+        "essential_elements": [
+          "Applies after admission but before the record is actually transmitted to the Supreme Court",
+          "Trigger: security appears inadequate, or further payment needed for record preparation/transmission",
+          "Court orders further security/payment within a fixed time"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 11's consequence for non-compliance (stay of proceedings) makes Rule 10 orders significant — an appellant should treat any Rule 10 demand with urgency rather than assuming admission alone secures the appeal's progress."
+      }
+    },
+    {
+      "number": "O-XLV-11",
+      "title": "Effect of failure to comply with order",
+      "raw_text": "Where the appellant fails to comply with such order, the proceedings shall be stayed, and the appeal shall not proceed without an order in this behalf of, the Supreme Court, and in the meantime execution of the decree appealed from shall not be stayed.",
+      "key_terms": [
+        "stay of proceedings on non-compliance",
+        "Supreme Court order needed to proceed",
+        "execution not stayed"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 11 enforces Rule 10's further-security/payment order with real teeth — non-compliance stays the appeal proceedings altogether, and the appeal cannot resume without the Supreme Court's own order permitting it. Critically, this stay of the appeal's progress does not extend to staying execution of the underlying decree — the decree-holder can continue executing while the non-compliant appellant's appeal sits frozen.",
+        "essential_elements": [
+          "Non-compliance with a Rule 10 order stays the appeal proceedings",
+          "Resumption requires an order from the Supreme Court itself, not the High Court",
+          "Execution of the decree appealed from is NOT stayed merely because the appeal proceedings are stayed"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 11's execution-continues consequence is a powerful incentive for prompt compliance — an appellant who ignores a Rule 10 security/payment order risks the decree-holder executing the full decree while the appeal remains frozen pending Supreme Court intervention."
+      }
+    },
+    {
+      "number": "O-XLV-12",
+      "title": "Refund of balance deposit",
+      "raw_text": "When the copy of the record, except as aforesaid, has been transmitted to the Supreme Court, the appellant may obtain a refund of the balance (if any) of the amount which he has deposited under rule 7.",
+      "key_terms": [
+        "refund of unused deposit"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 12 is a straightforward housekeeping provision — once the record copy has actually been transmitted to the Supreme Court, any unused portion of the appellant's Rule 7 deposit (made to cover preparation/transmission costs) can be refunded.",
+        "essential_elements": [
+          "Refund available once the record copy is transmitted to the Supreme Court",
+          "Limited to the balance, if any, remaining from the Rule 7 deposit"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Appellants should track actual preparation/transmission expenses against the Rule 7 deposit and promptly apply for refund of any surplus once transmission is confirmed, rather than leaving funds unnecessarily tied up with the Court."
+      }
+    },
+    {
+      "number": "O-XLV-13",
+      "title": "Powers of Court pending appeal",
+      "raw_text": "(1) Notwithstanding the grant of a certificate for the admission of any appeal, the decree appealed from shall be unconditionally executed, unless the Court otherwise directs. (2) The Court may, if it thinks fit, on special cause shown by any party interested in the suit, or otherwise appearing to the Court,— (a) impound any movable property in dispute or any part thereof, or (b) allow the decree appealed from to be executed, taking such security from the respondent as the Court thinks fit for the due performance of any order which the Supreme Court may make on the appeal, or (c) stay the execution of the decree appealed from, taking such security from the appellant as the Court thinks fit for the due performance of the decree appealed from, or of any decree or order which the Supreme Court may make on the appeal, or (d) place any party seeking the assistance of the Court under such conditions or give such other direction respecting the subject-matter of the appeal, as it thinks fit, by the appointment of a receiver or otherwise.",
+      "key_terms": [
+        "unconditional execution by default",
+        "impounding movable property",
+        "conditional execution with security",
+        "stay with appellant security",
+        "receiver appointment"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 13 states the same no-automatic-stay default seen at Order XLI Rule 5, now specifically for Supreme Court appeals — a certificate of fitness alone does not suspend execution; the decree is executed unconditionally unless the Court directs otherwise. On special cause shown, the Court has a flexible toolkit: impound disputed movable property, allow execution to proceed but with security from the respondent (to protect against the Supreme Court's eventual order going the other way), stay execution but with security from the appellant (protecting the respondent's interest meanwhile), or impose any other condition/direction it thinks fit, including appointing a receiver.",
+        "essential_elements": [
+          "Default: decree is unconditionally executed despite the pending appeal, absent a contrary Court direction",
+          "On special cause: Court may impound disputed movable property",
+          "Or: allow execution with security from the respondent protecting the appellant's interest pending the Supreme Court's order",
+          "Or: stay execution with security from the appellant protecting the respondent's interest",
+          "Or: any other condition/direction, including receiver appointment"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "An appellant who has secured a Rule 3 certificate should not assume execution automatically pauses — a specific Rule 13 application for stay or conditional execution, supported by special cause, is necessary to actually protect the appellant's position pending the Supreme Court appeal."
+      }
+    },
+    {
+      "number": "O-XLV-14",
+      "title": "Increase of security found inadequate",
+      "raw_text": "(1) Where at any time during the pendency of the appeal the security furnished by either party appears inadequate, the Court may, on the application of the other party, require further security. (2) In default of such further security being furnished as required by the Court,— (a) if the original security was furnished by the appellant, the Court may, on the application of the respondent, execute the decree, appealed from as if the appellant had furnished no such security: (b) if the original security was furnished by the respondent, the Court shall, so far as may be practicable, stay the further execution of the decree, and restore the parties to the position in which they respectively were when the security which appears inadequate was furnished, or give such direction respecting the subject-matter of the appeal as it thinks fit.",
+      "key_terms": [
+        "inadequate security during pendency",
+        "further security demand",
+        "consequence of default by either side"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 14 polices security adequacy throughout the appeal's pendency, not just at the outset — either party can apply for further security if the other's existing security appears insufficient. The consequence of default differs by who originally furnished the inadequate security: if the appellant's security falls short and they fail to top it up, the respondent can have the decree executed as though no security had ever been furnished (removing the appellant's protection); if the respondent's security falls short, the Court instead stays further execution and restores the parties to their pre-security position, or otherwise directs regarding the subject-matter — protecting the appellant's position when the respondent's inadequate security would otherwise leave the appellant exposed.",
+        "essential_elements": [
+          "Either party may apply for further security where the other's existing security appears inadequate",
+          "Default by the appellant on a further-security order: respondent may execute the decree as if no security had been furnished at all",
+          "Default by the respondent: Court stays further execution and restores status quo ante, or gives other appropriate direction"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The asymmetric consequences under sub-rule (2) matter strategically — a party whose opposing number's security has become inadequate should move promptly under Rule 14, since the available remedy (full execution exposure for an appellant, versus restorative stay for a respondent) depends on which side originally furnished the now-inadequate security."
+      }
+    },
+    {
+      "number": "O-XLV-15",
+      "title": "Procedure to enforce orders of the Supreme Court",
+      "raw_text": "(1) Whoever desires to obtain execution of any decree or order of the Supreme Court shall apply by petition, accompanied by a certified copy of the decree passed or order made in appeal and sought to be executed, to the Court from which the appeal to the Supreme Court was preferred. (2) Such Court shall transmit the decree or order of the Supreme Court to the Court which passed the first decree appealed from, or to such other Court as the Supreme Court by such decree or order may direct and shall (upon the application of either party) give such directions as may be required for the execution of the same; and the Court to which the said decree or order is so transmitted shall execute it accordingly, in the manner and according to the provisions applicable to the execution of its original decrees. (4) Unless the Supreme Court otherwise directs, no decree or order of that Court shall be inoperative on the ground that no notice has been served on or given to the legal representative of any deceased opposite party or deceased respondent in a case, where such opposite party or respondent did not appear either at the hearing in the Court whose decree was complained of or at any proceedings subsequent to the decree of that Court, but such order shall have the same force and effect as if it had been made before the death took place.",
+      "key_terms": [
+        "petition for execution",
+        "transmission to executing Court",
+        "ordinary execution procedure applies",
+        "deceased-party notice not fatal"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 15 brings the Supreme Court's decree/order back down into the ordinary Indian court execution system — the party wanting to execute it applies by petition (with a certified copy) to the High Court from which the Supreme Court appeal was preferred, which then transmits the Supreme Court's decree/order to the Court that passed the original first decree (or wherever the Supreme Court directs), and that Court executes it using the same procedure applicable to its own original decrees. Sub-rule (4) prevents a technical notice-service gap concerning a deceased party (who never appeared anyway) from rendering the Supreme Court's decree/order inoperative — it remains fully effective as though made before the death, unless the Supreme Court itself directs otherwise.",
+        "essential_elements": [
+          "Execution is sought by petition with a certified copy, to the High Court from which the Supreme Court appeal was preferred",
+          "That Court transmits the decree/order to the original executing Court (or wherever the Supreme Court directs)",
+          "The receiving Court executes it using its ordinary execution procedure for original decrees",
+          "Lack of notice to a deceased, never-appeared party's legal representative does not make the Supreme Court's decree/order inoperative, absent a contrary Supreme Court direction"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A decree-holder with a favourable Supreme Court decree should route the execution petition through the correct chain specified here (High Court, then down to the original executing Court) rather than attempting to execute directly on the strength of the Supreme Court decree alone."
+      }
+    },
+    {
+      "number": "O-XLV-16",
+      "title": "Appeal from order relating to execution",
+      "raw_text": "The orders made by the Court which executes the decree or order of the Supreme Court, relating to such execution, shall be appealable in the same manner and subject to the same rules as the orders of such Court relating to the execution of its own decrees.",
+      "key_terms": [
+        "appealability of execution orders",
+        "same rules as ordinary execution appeals"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 16 ensures procedural consistency at the final enforcement stage — orders made while executing a Supreme Court decree are appealable exactly as if they were orders made in executing that Court's own ordinary decrees, rather than being governed by some special, more restrictive appeal regime simply because the underlying decree originated from the Supreme Court.",
+        "essential_elements": [
+          "Orders relating to execution of a Supreme Court decree/order are appealable",
+          "Governed by the same manner and rules as appeals from orders in ordinary decree execution"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A party aggrieved by an execution-stage order implementing a Supreme Court decree should look to the ordinary Order XLIII/Section 104 appealability analysis for execution orders, not assume some special or heightened threshold applies merely because of the decree's Supreme Court origin."
+      }
     }
   ]
 }
