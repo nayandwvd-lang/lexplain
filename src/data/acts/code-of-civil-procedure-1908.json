@@ -6186,6 +6186,400 @@
         ],
         "how_to_read": "This is the practical enforcement mechanism behind Order I's party-joinder scheme: a defendant who spots a misjoinder or non-joinder problem must raise it immediately — waiting until final arguments or appeal to spring a non-joinder objection will typically fail as deemed-waived under this rule, except for the true necessary-party non-joinder, which courts have sometimes treated as going to the root of jurisdiction and thus less readily waivable."
       }
+    },
+    {
+      "number": "O-II",
+      "title": "Order II — Frame of Suit (Overview)",
+      "raw_text": "ORDER II\nFrame of Suit\n\nThis Order governs how a suit must be framed: it must be structured to finally decide all subjects in dispute, must include the plaintiff's whole claim (on pain of losing any relinquished or omitted portion forever), regulates when multiple causes of action may be joined in one suit, and sets limits on joining unrelated claims with a suit for immovable property or with claims against an executor, administrator, or heir in a personal capacity.",
+      "key_terms": [
+        "frame of suit",
+        "whole claim",
+        "relinquishment",
+        "joinder of causes of action",
+        "splitting of claims"
+      ],
+      "breakdown": {
+        "plain_summary": "Order II is the Code's anti-piecemeal-litigation rule: a suit must be framed to finally resolve the dispute and must include the plaintiff's entire claim arising from one cause of action, because any portion omitted or intentionally relinquished is barred forever from being sued upon later (Rule 2). It then regulates when a plaintiff may bundle multiple causes of action together (Rule 3), restricts what can be joined with a suit for recovery of immovable property (Rule 4) and with claims against a person in a representative capacity like an executor (Rule 5), and gives the Court power to separate an over-joined suit (Rule 6) while fixing a strict waiver deadline for misjoinder objections (Rule 7) — mirroring Order I's party-joinder scheme but applied to causes of action.",
+        "essential_elements": [
+          "Rule 1 requires every suit, so far as practicable, to be framed to finally decide the subjects in dispute and prevent further litigation about them.",
+          "Rule 2 bars splitting a single cause of action across multiple suits: the whole claim must be sued for at once, and whatever is omitted or intentionally relinquished cannot be revived in a later suit (subject to the Explanation on obligations and collateral security, and the Illustration on periodic rent).",
+          "Rule 2(3) separately bars omitting one of several available reliefs arising from the same cause of action without the Court's leave — an omitted relief cannot be claimed in a later suit either.",
+          "Rule 3 permits (subject to other provisions) joining several causes of action against the same defendant(s), or by jointly-interested plaintiffs against the same defendant(s), with the Court's jurisdiction then depending on the aggregate value of all joined claims (Rule 3(2)).",
+          "Rules 4 and 5 restrict joinder in two specific situations: claims joined with a suit for recovery of immovable property (limited to mesne profits/rent, breach-of-contract damages on the property, and same-cause-of-action claims, absent Court leave), and claims against an executor/administrator/heir in that representative capacity being joined with claims against them personally (only where the personal claims arise with reference to the same estate or are jointly owed with/by the deceased).",
+          "Rules 6 and 7 mirror Order I: the Court may order separate trials where joinder of causes of action would embarrass or delay the trial, and objections to misjoinder of causes of action must be raised at the earliest opportunity (at or before settlement of issues) or are deemed waived."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 2(1)'s proviso-like carve-out allows a plaintiff to relinquish part of a claim specifically to bring the suit within a court's pecuniary jurisdiction, without that itself being treated as an improper splitting.",
+          "Rule 2(3) permits omitting a relief with the Court's leave — such leave preserves the right to sue for that relief later.",
+          "Rule 4's proviso preserves a party's right, in a suit for foreclosure or redemption, to ask to be put into possession of the mortgaged property even though that would otherwise be an additional claim joined with the immovable-property suit.",
+          "Rule 7's waiver deadline has the same later-arising-ground exception as Order I Rule 13."
+        ],
+        "how_to_read": "Order II Rule 2 is one of the most frequently litigated bars in Indian civil practice — read it together with Section 11's Explanation IV (constructive res judicata) for why claiming only part of what you are entitled to is dangerous: the unclaimed balance is not just discouraged, it is permanently barred (subject only to Rule 2(3)'s leave-of-Court escape for omitted reliefs). Plead every available relief from the same cause of action in one suit, or formally seek leave to omit one."
+      }
+    },
+    {
+      "number": "O-II-1",
+      "title": "Order II, Rule 1 — Frame of suit",
+      "raw_text": "1. Frame of suit.—Every suit shall as far as practicable be framed so as to afford ground for final decision upon the subjects in dispute and to prevent further litigation concerning them.",
+      "key_terms": [
+        "frame of suit",
+        "final decision",
+        "prevent further litigation"
+      ],
+      "breakdown": {
+        "plain_summary": "Every suit must, so far as practicable, be framed to produce a final decision on the matters in dispute and to prevent any further litigation about them.",
+        "essential_elements": [
+          "The standard is \"as far as practicable\" — a flexible, not absolute, obligation.",
+          "The twin goals are finality on the subjects in dispute and prevention of further litigation concerning them."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This opening rule is the policy statement for the whole of Order II — Rules 2 through 7 are the concrete mechanisms (whole-claim rule, joinder rules, waiver deadlines) that implement this finality principle."
+      }
+    },
+    {
+      "number": "O-II-2",
+      "title": "Order II, Rule 2 — Suit to include the whole claim",
+      "raw_text": "2. Suit to include the whole claim.—(1) Every suit shall include the whole of the claim which the plaintiff is entitled to make in respect of the cause of action; but a plaintiff may relinquish any portion of his claim in order to bring the suit within the jurisdiction of any Court.\n(2) Relinquishment of part of claim.—Where a plaintiff omits to sue in respect of, or intentionally relinquishes, any portion of his claim, he shall not afterwards sue in respect of the portion so omitted or relinquished.\n(3) Omission to sue for one of several reliefs.—A person entitled to more than one relief in respect of the same cause of action may sue for all or any of such reliefs; but if he omits, except with the leave of the Court, to sue for all such reliefs, he shall not afterwards sue for any relief so omitted.\nExplanation.—For the purposes of this rule an obligation and a collateral security for its performance and successive claims arising under the same obligation shall be deemed respectively to constitute but one cause of action.\nIllustration\nA lets a house to B at a yearly rent of Rs. 1,200. The rent for the whole of the years 1905, 1906 and 1907 is due and unpaid. A sues B in 1908 only for the rent due for 1906. A shall not afterwards sue B for the rent due for 1905 or 1907.",
+      "key_terms": [
+        "whole claim",
+        "relinquishment",
+        "splitting cause of action",
+        "omitted relief",
+        "collateral security"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 2 is the Code's bar against splitting a cause of action: a suit must include the plaintiff's entire claim arising from that cause of action, and if any portion is omitted or intentionally relinquished, it can never be sued for afterwards — the one allowed exception is relinquishing part of the claim specifically to fit within a Court's jurisdiction. The same logic applies to reliefs: if entitled to several reliefs from one cause of action, a plaintiff who sues for only some of them (without the Court's leave) permanently loses the right to sue for the rest.",
+        "essential_elements": [
+          "Sub-rule (1): the whole claim from the cause of action must be included; relinquishment is permitted only to bring the suit within a Court's jurisdiction.",
+          "Sub-rule (2): omission or intentional relinquishment of any portion of the claim permanently bars a later suit for that portion.",
+          "Sub-rule (3): a plaintiff entitled to multiple reliefs from the same cause of action may sue for all or only some, but omitting any relief without the Court's leave bars suing for it later.",
+          "The Explanation deems an obligation and its collateral security, and successive claims under the same obligation, to be one cause of action for this rule's purposes.",
+          "The Illustration shows the rule's bite: suing for only one year's rent out of three years due bars recovering the other two years in a later suit."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (1)'s own exception: relinquishing part of the claim to bring the suit within a Court's pecuniary (or other) jurisdiction does not trigger the bar.",
+          "Sub-rule (3)'s own exception: omitting a relief with the Court's express leave does not bar suing for it later."
+        ],
+        "how_to_read": "This is arguably the single most consequential procedural trap in Indian civil litigation — distinct periodic payments (like successive years' rent in the Illustration) are often treated as separate causes of action in their own right (and thus not barred by suing on only one), whereas a single, indivisible cause of action split into multiple suits is barred outright; always plead the full relief available on the cause of action sued upon, and formally seek leave under sub-rule (3) if any relief must be deferred."
+      }
+    },
+    {
+      "number": "O-II-3",
+      "title": "Order II, Rule 3 — Joinder of causes of action",
+      "raw_text": "3. Joinder of causes of action.—(1) Save as otherwise provided, a plaintiff may unite in the same suit several causes of action against the same defendant, or the same defendants jointly; and any plaintiffs having causes of action in which they are jointly interested against the same defendant or the same defendants jointly may unite such causes of action in the same suit.\n(2) Where causes of action are united, the jurisdiction of the Court as regards the suit shall depend on the amount or value of the aggregate subject-matters at the date of instituting the suit.",
+      "key_terms": [
+        "joinder of causes of action",
+        "aggregate value",
+        "jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "Subject to the other rules of this Order, a plaintiff may combine several causes of action against the same defendant (or the same defendants jointly) in one suit, and jointly-interested plaintiffs may similarly combine their causes of action against the same defendant(s). Where causes of action are so united, the Court's jurisdiction over the suit is determined by the aggregate value of all the combined subject-matters as of the date the suit is filed.",
+        "essential_elements": [
+          "Joinder is permitted against the same defendant, or the same defendants jointly — not against different, unrelated defendants (that is governed by Order I's party-joinder rules).",
+          "Joint plaintiffs may combine causes of action in which they are jointly interested.",
+          "Rule 3(2) fixes the relevant date for computing aggregate value (and hence jurisdiction) as the date of instituting the suit — later fluctuations in value do not change jurisdiction once fixed."
+        ],
+        "exceptions_and_qualifications": [
+          "The opening words \"Save as otherwise provided\" subject this rule to Rules 4 and 5's specific restrictions on joinder with immovable-property suits and representative-capacity claims."
+        ],
+        "how_to_read": "Rule 3(2) is important for forum planning: combining multiple causes of action raises the suit's aggregate value and can push it into a higher pecuniary-jurisdiction court or attract higher court fees — factor this in before deciding whether to join claims or file them separately."
+      }
+    },
+    {
+      "number": "O-II-4",
+      "title": "Order II, Rule 4 — Only certain claims to be joined for recovery of immovable property",
+      "raw_text": "4. Only certain claims to be joined for recovery of immovable property.—No cause of action shall, unless with the leave of the Court, be joined with a suit for the recovery of immovable property, except—\n(a) claims for mesne profits or arrears of rent in respect of the property claimed or any part thereof;\n(b) claims for damages for breach of any contract under which the property or any part thereof is held; and\n(c) claims in which the relief sought is based on the same cause of action:\nProvided that nothing in this rule shall be deemed to prevent any party in a suit for foreclosure or redemption from asking to be put into possession of the mortgaged property.",
+      "key_terms": [
+        "immovable property",
+        "mesne profits",
+        "arrears of rent",
+        "foreclosure",
+        "redemption"
+      ],
+      "breakdown": {
+        "plain_summary": "A suit for recovery of immovable property can only have three categories of claims joined to it without the Court's leave: mesne profits or rent arrears on the property, damages for breach of the contract under which the property is held, and claims based on the same cause of action as the property claim itself. Anything else requires the Court's specific leave to join. The proviso separately preserves a party's right, in a foreclosure or redemption suit, to seek possession of the mortgaged property.",
+        "essential_elements": [
+          "Three permitted joinder categories without leave: (a) mesne profits/arrears of rent on the property, (b) damages for breach of the holding contract, (c) claims on the same cause of action.",
+          "Any other claim requires the Court's leave to be joined with the immovable-property suit.",
+          "The proviso specifically protects the possession request in foreclosure/redemption suits from this restriction."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso is itself the key carve-out — possession claims in foreclosure/redemption suits are not restricted by the main rule."
+        ],
+        "how_to_read": "A common drafting scenario: a landlord suing for possession of a tenanted property can add mesne-profits/arrears-of-rent claims as of right under clause (a), but must separately seek leave to add an unrelated claim (e.g., a different debt owed by the same tenant) that doesn't fit any of the three categories."
+      }
+    },
+    {
+      "number": "O-II-5",
+      "title": "Order II, Rule 5 — Claims by or against executor, administrator or heir",
+      "raw_text": "5. Claims by or against executor, administrator or heir.—No claim by or against an executor, administrator or heir, as such, shall be joined with claims by or against him personally, unless the last mentioned claims are alleged to arise with reference to the estate in respect of which the plaintiff or defendant sues or is sued as executor, administrator or heir, or are such as he was entitled to, or liable for, jointly with the deceased person whom he represents.",
+      "key_terms": [
+        "executor",
+        "administrator",
+        "heir",
+        "representative capacity",
+        "personal capacity"
+      ],
+      "breakdown": {
+        "plain_summary": "A claim by or against a person in their representative capacity as executor, administrator, or heir cannot be joined with a claim by or against that same person personally — unless the personal claim is alleged to arise with reference to the very estate being represented, or is a claim the person was entitled to or liable for jointly with the deceased they represent.",
+        "essential_elements": [
+          "The default rule is separation: representative-capacity claims and personal-capacity claims against/by the same individual cannot be combined in one suit.",
+          "Exception 1: the personal claim arises with reference to the same estate the person represents as executor/administrator/heir.",
+          "Exception 2: the personal claim is one the person was entitled to, or liable for, jointly with the deceased."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This prevents confusing a suit's scope between a person's estate-representative role and their individual liabilities — pleaders suing an executor personally for an unrelated personal debt cannot tack that claim onto an estate-administration suit against the same person unless one of the two listed exceptions genuinely applies."
+      }
+    },
+    {
+      "number": "O-II-6",
+      "title": "Order II, Rule 6 — Power of Court to order separate trials",
+      "raw_text": "6. Power of Court to order separate trials.—Where it appears to the Court that the joinder of causes of action in one suit may embarrass or delay the trial or is otherwise inconvenient, the Court may order separate trials or make such other order as may be expedient in the interests of justice.",
+      "key_terms": [
+        "separate trials",
+        "embarrass or delay",
+        "inconvenient"
+      ],
+      "breakdown": {
+        "plain_summary": "Even where causes of action are validly joined under Rule 3, the Court can still order separate trials (or any other expedient order) if the joinder would embarrass or delay the trial, or is otherwise inconvenient.",
+        "essential_elements": [
+          "Triggers: the joinder \"may embarrass or delay\" the trial, or is \"otherwise inconvenient\" — a broader standard than Order I's equivalent rules, which do not include the \"otherwise inconvenient\" limb.",
+          "The remedy is flexible: separate trials or any other order expedient in the interests of justice."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The exact counterpart, for causes of action, of Order I Rules 2 and 3A for parties — both exist so that the permissive joinder rules never force an unmanageable omnibus trial."
+      }
+    },
+    {
+      "number": "O-II-7",
+      "title": "Order II, Rule 7 — Objections as to misjoinder",
+      "raw_text": "7. Objections as to misjoinder.—All objections on the ground of misjoinder of causes of action shall be taken at the earliest possible opportunity and, in all cases where issues are settled, at or before such settlement, unless the ground of objection has subsequently arisen, and any such objection not so taken shall be deemed to have been waived.",
+      "key_terms": [
+        "waiver",
+        "misjoinder of causes of action",
+        "settlement of issues"
+      ],
+      "breakdown": {
+        "plain_summary": "Objections to misjoinder of causes of action follow the same strict timing rule as Order I Rule 13 for misjoinder of parties: they must be raised at the earliest possible opportunity, at the latest by the settlement of issues (unless the ground for objection arises later), or they are deemed waived.",
+        "essential_elements": [
+          "Deadline: at or before settlement of issues, absent a later-arising ground.",
+          "Consequence of missing the deadline: deemed waiver of the objection."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read together with Order I Rule 13 — both impose the same early-or-never discipline on joinder objections, reflecting the Code's general policy of resolving structural pleading objections before the parties invest in a full trial on the merits."
+      }
+    },
+    {
+      "number": "O-III",
+      "title": "Order III — Recognised Agents and Pleaders (Overview)",
+      "raw_text": "ORDER III\nRecognized Agents and Pleaders\n\nThis Order governs who may appear, apply, or act for a party in Court — in person, through a recognised agent, or through a pleader — including how pleaders are appointed, how process may be validly served on an agent or pleader, and how an agent to accept service may be appointed or ordered by the Court.",
+      "key_terms": [
+        "recognised agent",
+        "pleader",
+        "power of attorney",
+        "service on pleader",
+        "agent to accept service"
+      ],
+      "breakdown": {
+        "plain_summary": "Order III lets a party act in Court either personally, through a recognised agent (typically a power-of-attorney holder, or a person conducting the party's trade/business locally), or through a pleader, and fixes the rules for how each is validly engaged and how service of Court process on any of them binds the party. A pleader must be formally appointed in writing (vakalatnama) filed in Court, and that appointment stays in force — covering a defined list of post-decree proceedings — until properly terminated, until either party dies, or until the suit concludes. Service on a validly engaged pleader or recognised agent is deemed effectual service on the party itself unless the Court directs otherwise.",
+        "essential_elements": [
+          "Rule 1: appearances, applications, and acts required of a party may be done in person, by a recognised agent, or by a pleader, unless the law otherwise expressly requires personal action; the Court may direct personal appearance.",
+          "Rule 2: defines \"recognised agents\" as power-of-attorney holders, and persons conducting a non-resident party's trade/business locally in matters connected with that trade/business (where no other agent is authorised).",
+          "Rule 3: process served on a recognised agent is as effectual as service on the party personally, unless the Court directs otherwise; the general rules on service of process on a party apply equally to service on the recognised agent.",
+          "Rule 4: a pleader must be formally appointed by a signed writing (filed in Court) to act for a party; the appointment remains in force — covering review applications, Section 144/152 applications, appeals, and document/refund-related acts/applications relating to the suit — until terminated with the Court's leave, or until the client/pleader dies, or until the suit concludes as regards that client; a pleader engaged only to plead (not to act) must file a memorandum of appearance stating the parties, who he appears for, and who authorised him.",
+          "Rule 5: process served on, or left at the office/residence of, a duly appointed pleader is presumed duly communicated to the party and is as effectual as service on the party personally, unless the Court directs otherwise.",
+          "Rule 6: besides recognised agents under Rule 2, any person residing within the Court's jurisdiction may be specially or generally appointed (by a signed, filed writing) as an agent purely to accept service of process; the Court may also order a party without a local recognised agent or pleader to appoint one within a specified time."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 1's proviso: the Court can always direct that an appearance be made by the party in person, overriding the general permission to appear through an agent or pleader.",
+          "Rule 4(3): the duration of a pleader's engagement as between pleader and client, and the Court for which service on the pleader is valid, are not automatically extended by the Rule 4(2) \"deemed in force\" rule — service on a pleader from a different Court, or beyond the pleader-client engagement's actual scope, is not covered unless expressly agreed in the appointment document."
+        ],
+        "how_to_read": "The Rule 4(2) Explanation list of \"deemed proceedings in the suit\" is what keeps a vakalatnama alive for post-decree applications (restitution under Section 144, correction under Section 152, review, appeal) without a fresh appointment — but Rule 4(3) is the counter-check practitioners must watch for: that continuing validity does not stretch to service by an unrelated Court or beyond what the client actually authorised in writing."
+      }
+    },
+    {
+      "number": "O-III-1",
+      "title": "Order III, Rule 1 — Appearances, etc., may be in person, by recognized agent or by pleader",
+      "raw_text": "1. Appearances, etc., may be in person, by recognized agent or by pleader.—Any appearance, application or act in or to any Court, required or authorized by law to be made or done by a party in such Court, may, except where otherwise expressly provided by any law for the time being in force, be made or done by the party in person, or by his recognized agent, or by a pleader appearing, applying or acting, as the case may be, on his behalf:\nProvided that any such appearance shall, if the Court so directs, be made by the party in person.",
+      "key_terms": [
+        "appearance",
+        "recognised agent",
+        "pleader",
+        "personal appearance"
+      ],
+      "breakdown": {
+        "plain_summary": "Unless a specific law requires otherwise, any appearance, application, or act a party is required or allowed to make in Court may be done by the party personally, by a recognised agent, or by a pleader on the party's behalf — subject to the Court's power to direct that the party appear in person.",
+        "essential_elements": [
+          "Three permitted modes: in person, by recognised agent, or by pleader.",
+          "This default is overridden wherever another law expressly requires a different mode (e.g., personal appearance).",
+          "The Court retains an overriding power to direct personal appearance regardless of the general permission."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The baseline rule enabling representation through agents/pleaders in Indian civil litigation — virtually every subsequent rule in this Order elaborates on how that representation is validly established and what effect service on a representative has."
+      }
+    },
+    {
+      "number": "O-III-2",
+      "title": "Order III, Rule 2 — Recognised agents",
+      "raw_text": "2. Recognised agents.—The recognised agents of parties by whom such appearances, applications and acts may be made or done are—\n(a) persons holding powers-of-attorney, authorising them to make and do such appearances, applications and acts on behalf of such parties;\n(b) persons carrying on trade or business for and in the names of parties not resident within the local limits of the jurisdiction of the Court within which limits the appearance, application or act is made or done, in matters connected with such trade or business only, where no other agent is expressly authorised to make and do such appearances, applications and acts.",
+      "key_terms": [
+        "power of attorney",
+        "trade or business",
+        "non-resident party"
+      ],
+      "breakdown": {
+        "plain_summary": "Two categories of persons qualify as a party's \"recognised agent\": a power-of-attorney holder authorised to make appearances/applications/acts for the party, and a person conducting a non-resident party's trade or business locally, but only in matters connected with that trade/business and only where no other agent has been expressly authorised.",
+        "essential_elements": [
+          "Category (a): power-of-attorney holders, generally.",
+          "Category (b): local trade/business conductors for a non-resident party, limited strictly to matters connected with that trade/business, and only as a default where no other agent is expressly authorised."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Category (b) is a narrow, fallback category — it does not let a local business manager act for a non-resident principal on matters unconnected with the business, and yields entirely once the principal expressly authorises a different agent."
+      }
+    },
+    {
+      "number": "O-III-3",
+      "title": "Order III, Rule 3 — Service of process on recognised agent",
+      "raw_text": "3. Service of process on recognised agent.—(1) Processes served on the recognised agent of a party shall be as effectual as if the same had been served on the party in person, unless the Court otherwise directs.\n(2) The provisions for the service of process on a party to a suit shall apply to the service of process on his recognised agent.",
+      "key_terms": [
+        "service of process",
+        "recognised agent"
+      ],
+      "breakdown": {
+        "plain_summary": "Service of Court process on a party's recognised agent is treated as equivalent to service on the party personally (unless the Court directs otherwise), and the same procedural rules that govern service on a party apply equally when serving the recognised agent.",
+        "essential_elements": [
+          "Service on the recognised agent = service on the party, by default.",
+          "The Court retains discretion to direct otherwise.",
+          "The general party-service rules (elsewhere in the Code) govern how service on the agent is actually carried out."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Works together with Rule 6 (agent to accept service specifically) — Rule 3's agent is the general recognised agent under Rule 2, whose authority extends beyond merely accepting service to making appearances and applications."
+      }
+    },
+    {
+      "number": "O-III-4",
+      "title": "Order III, Rule 4 — Appointment of pleader",
+      "raw_text": "4. Appointment of pleader.—(1) No pleader shall act for any person in any Court, unless he has been appointed for the purpose by such person by a document in writing signed by such person or by his recognised agent or by some other person duly authorised by or under a power-of-attorney to make such appointment.\n(2) Every such appointment shall be filed in Court and shall, for the purposes of sub-rule (1), be deemed to be in force until determined with the leave of the Court by a writing signed by the client or the pleader, as the case may be, and filed in Court, or until the client or the pleader dies, or until all proceedings in the suit are ended so far as regards the client.\nExplanation.—For the purposes of this sub-rule, the following shall be deemed to be proceedings in the suit,—\n(a) an application for the review of decree or order in the suit,\n(b) an application under section 144 or under section 152 of this Code, in relation to any decree or order made in the suit,\n(c) an appeal from any decree or order in the suit, and\n(d) any application or act for the purpose of obtaining copies of documents or return of documents produced or filed in the suit or of obtaining refund of moneys paid into the Court in connection with the suit.\n(3) Nothing in sub-rule (2) shall be construed—\n(a) as extending, as between the pleader and his client, the duration for which the pleader is engaged, or\n(b) as authorising service on the pleader of any notice or document issued by any Court other than the Court for which the pleader was engaged, except where such service was expressly agreed to by the client in the document referred to in sub-rule (1).\n(4) The High Court may, by general order, direct that, where the person by whom a pleader is appointed is unable to write his name, his mark upon the document appointing the pleader shall be attested by such person and in such manner as may be specified by the order.\n(5) No pleader who has been engaged for the purpose of pleading only shall plead on behalf of any party, unless he has filed in court a memorandum of appearance signed by himself and stating—\n(a) the names of the parties to the suit,\n(b) the name of the party for whom he appears, and\n(c) the name of the person by whom he is authorised to appear:\nProvided that nothing in this sub-rule shall apply to any pleader engaged to plead on behalf of any party by any other pleader who has been duly appointed to act in Court on behalf of such party.",
+      "key_terms": [
+        "vakalatnama",
+        "appointment of pleader",
+        "deemed proceedings",
+        "memorandum of appearance"
+      ],
+      "breakdown": {
+        "plain_summary": "A pleader needs a formal, signed, Court-filed written appointment (vakalatnama) before acting for a party, and that appointment is deemed to stay in force — covering review applications, Section 144/152 applications, appeals, and document/refund-related acts relating to the suit — until properly terminated with the Court's leave, or until the client or pleader dies, or until the suit concludes for that client. A pleader engaged only to plead (not to act) separately needs a filed memorandum of appearance identifying the parties, whom he represents, and who authorised him — unless he was engaged by another pleader already appointed to act.",
+        "essential_elements": [
+          "Sub-rule (1): a pleader must be appointed by a signed writing from the party, the party's recognised agent, or someone duly authorised under a power of attorney.",
+          "Sub-rule (2): the appointment must be filed in Court and remains deemed in force until terminated (with Court leave, by signed writing filed in Court), or until the client/pleader dies, or until all suit proceedings end for that client.",
+          "The Explanation extends \"proceedings in the suit\" (for sub-rule (2) purposes) to cover review, Section 144/152 applications, appeals, and document-copy/refund applications — so the same vakalatnama can cover these without a fresh appointment.",
+          "Sub-rule (4) lets the High Court prescribe attestation requirements for an illiterate client's mark on the appointment document.",
+          "Sub-rule (5) separately requires a plead-only pleader to file a signed memorandum of appearance stating the parties, who he appears for, and who authorised him, unless engaged by another already-appointed pleader."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (3)(a): the deemed continuation under sub-rule (2) does not extend the actual pleader-client engagement duration as between them — it's a procedural continuation for Court purposes, not a contractual extension.",
+          "Sub-rule (3)(b): service on the pleader is only valid for the Court he was engaged for, unless the client expressly agreed otherwise in the appointment document — cross-Court service on the same pleader is not automatically valid.",
+          "Sub-rule (5)'s proviso: a plead-only pleader engaged by another already-appointed pleader need not separately file his own memorandum of appearance."
+        ],
+        "how_to_read": "Litigators should treat the vakalatnama's Explanation-covered scope as a checklist — if a client wants the same pleader to handle a later restitution application, a correction under Section 152, or an appeal without a fresh appointment, confirm that falls within clauses (a)-(d); and always check sub-rule (3)(b) before assuming service on a pleader from a different forum (e.g., an appellate Court) is valid absent express agreement."
+      }
+    },
+    {
+      "number": "O-III-5",
+      "title": "Order III, Rule 5 — Service of process on pleader",
+      "raw_text": "5. Service of process on pleader.—Any process served on the pleader who has been duly appointed to act in Court for any party or left at the office or ordinary residence of such pleader, and whether the same is for the personal appearance of the party or not, shall be presumed to be duly communicated and made known to the party whom the pleader represents, and, unless the Court otherwise directs, shall be as effectual for all purposes as if the same had been given to or served on the party in person.",
+      "key_terms": [
+        "service on pleader",
+        "presumption of communication"
+      ],
+      "breakdown": {
+        "plain_summary": "Process served on a duly appointed pleader — or left at that pleader's office or ordinary residence — is presumed to have been duly communicated to the party the pleader represents, and (unless the Court directs otherwise) is as fully effectual as if served on the party personally, regardless of whether the process required the party's personal appearance.",
+        "essential_elements": [
+          "Covers process served directly on the pleader, and process merely left at the pleader's office or ordinary residence.",
+          "Creates a presumption of due communication to the represented party.",
+          "Effectual for all purposes, including process requiring personal appearance of the party — unless the Court directs otherwise."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practically important rule for computing time limits — notices, orders, and even process requiring the party's personal attendance are validly served the moment they reach the duly appointed pleader or his office/residence, so parties should not assume a deadline only runs from when they personally learn of a process."
+      }
+    },
+    {
+      "number": "O-III-6",
+      "title": "Order III, Rule 6 — Agent to accept service",
+      "raw_text": "6. Agent to accept service.—(1) Besides the recognised agents described in rule 2 any person residing within the jurisdiction of the Court may be appointed an agent to accept service of process.\n(2) Appointment to be in writing and to be filed in Court.—Such appointment may be special or general and shall be made by an instrument in writing signed by the principal, and such instrument or, if the appointment is general, a certified copy thereof shall be filed in Court.\n(3) The Court may, at any stage of the suit, order any party to the suit not having a recognised agent residing within the jurisdiction of the Court, or a pleader who has been duly appointed to act in the Court on his behalf, to appoint, within a specified time, an agent residing within the jurisdiction of the Court to accept service of the process on his behalf.",
+      "key_terms": [
+        "agent to accept service",
+        "special appointment",
+        "general appointment"
+      ],
+      "breakdown": {
+        "plain_summary": "Separately from Rule 2's recognised agents, any person residing within the Court's local jurisdiction can be specially or generally appointed, by a signed written instrument filed in Court, purely to accept service of process for a party. The Court may also compel a party who lacks a locally-resident recognised agent or duly appointed pleader to appoint such a service-acceptance agent within a specified time.",
+        "essential_elements": [
+          "This agent category is distinct from, and in addition to, Rule 2's recognised agents.",
+          "Appointment may be special (for a particular matter) or general, but must always be a signed written instrument filed in Court (or a certified copy, for general appointments).",
+          "Sub-rule (3) gives the Court power to compel appointment of such an agent where a party has neither a local recognised agent nor a duly appointed local pleader — ensuring process can always be validly served within the jurisdiction."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sub-rule (3) matters most for parties residing far from the Court (e.g., outstation or foreign litigants) — the Court can force them to nominate a local point of contact for service, preventing delay or evasion through sheer physical distance from the forum."
+      }
+    },
+    {
+      "number": "O-IV",
+      "title": "Order IV — Institution of Suits (Overview)",
+      "raw_text": "ORDER IV\nInstitution of Suits\n\nThis short Order fixes the formal act that commences a civil suit — presentation of the plaint (in duplicate) to the Court — and requires every suit to be registered with a yearly serial number as it is admitted.",
+      "key_terms": [
+        "institution of suit",
+        "plaint",
+        "register of civil suits"
+      ],
+      "breakdown": {
+        "plain_summary": "Order IV is brief but foundational: a suit legally comes into existence only when a plaint (in duplicate) complying with Orders VI and VII is presented to the Court or its appointed officer, and is not deemed duly instituted unless those requirements are met; every admitted suit is then entered, in year-wise serial order, in the Court's register of civil suits.",
+        "essential_elements": [
+          "Rule 1(1): a suit is instituted by presenting the plaint in duplicate to the Court or an officer appointed for the purpose.",
+          "Rule 1(2): the plaint must comply with the applicable rules of Orders VI (pleadings generally) and VII (plaint specifically).",
+          "Rule 1(3): a plaint is not deemed duly instituted unless it complies with both the presentation requirement and the Orders VI/VII content requirements.",
+          "Rule 2: the Court must record particulars of every suit in the register of civil suits, numbered yearly in the order the plaints are admitted."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 1(3) is the operative trap: a plaint merely filed/presented is not legally \"instituted\" (with all the limitation-stopping consequences that follow) unless it actually complies with Orders VI and VII — a defectively drafted plaint can be treated as never having validly commenced the suit until the defects are cured, which matters enormously for limitation computation."
+      }
+    },
+    {
+      "number": "O-IV-1",
+      "title": "Order IV, Rule 1 — Suit to be commenced by plaint",
+      "raw_text": "1. Suit to be commenced by plaint.—(1) Every suit shall be instituted by presenting plaint in duplicate to the Court or such officer as it appoints in this behalf.\n(2) Every plaint shall comply with the rules contained in Orders VI and VII, so far as they are applicable.\n(3) The plaint shall not be deemed to be duly instituted unless it complies with the requirements specified in sub-rules (1) and (2).",
+      "key_terms": [
+        "plaint in duplicate",
+        "institution of suit",
+        "duly instituted"
+      ],
+      "breakdown": {
+        "plain_summary": "A civil suit is commenced by presenting the plaint in duplicate to the Court (or its appointed officer); the plaint must comply with the applicable rules of Orders VI and VII; and a plaint is not deemed duly instituted at all unless both of these requirements — duplicate presentation and Orders VI/VII compliance — are satisfied.",
+        "essential_elements": [
+          "Presentation must be in duplicate, to the Court or its appointed officer.",
+          "The plaint's content/form must comply with Order VI (pleadings generally) and Order VII (plaint) so far as applicable.",
+          "Sub-rule (3) makes both requirements conditions for the plaint being \"duly instituted\" — non-compliance means the suit is not validly commenced."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The duplicate-filing and Orders VI/VII compliance requirements are not mere formalities — courts have treated a non-compliant presentation as not stopping the limitation clock until cured, so practitioners must ensure the plaint is complete and compliant at the moment of filing, not merely filed on time in an incomplete form."
+      }
+    },
+    {
+      "number": "O-IV-2",
+      "title": "Order IV, Rule 2 — Register of suits",
+      "raw_text": "2. Register of suits.—The Court shall cause the particulars of every suit to be entered in a book to be kept for the purpose and called the register of civil suits. Such entries shall be numbered in every year according to the order in which the plaints are admitted.",
+      "key_terms": [
+        "register of civil suits",
+        "suit numbering"
+      ],
+      "breakdown": {
+        "plain_summary": "Every Court must maintain a register of civil suits recording the particulars of each suit, with entries numbered afresh each year in the order the plaints are admitted.",
+        "essential_elements": [
+          "A dedicated register (\"register of civil suits\") must be kept by the Court.",
+          "Numbering restarts each year and follows the order of admission of plaints."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the administrative basis for a suit's case number (e.g., \"O.S. No. 123 of 2024\") — the yearly reset is why suit numbers are always read together with the year of institution."
+      }
     }
   ]
 }
