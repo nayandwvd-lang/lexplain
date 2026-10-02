@@ -14684,6 +14684,178 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "A sale conducted where the auctioning officer himself (or his benamidar) ends up as purchaser is void on this ground alone — flag it immediately as a threshold defect rather than arguing it merely as an irregularity under Rule 90."
       }
+    },
+    {
+      "number": "O-XXI-74",
+      "title": "Sale of agricultural produce",
+      "raw_text": "(1) Where the property to be sold is agricultural produce, the sale shall be held,— (a) if such produce is a growing crop, on or near the land on which such crop has grown, or (b) if such produce has been cut or gathered, at or near the threshing floor or place for treading out grain or the like or fodder-stack on or in which it is deposited: Provided that the Court may direct the sale to be held at the nearest place of public resort, if it is of opinion that the produce is thereby likely to sell to greater advantage. (2) Where, on the produce being put up for sale,— (a) a fair price, in the estimation of the person holding the sale, is not offered for it, and (b) the owner of the produce or a person authorized to act in his behalf applies to have the sale postponed till next day or, if a market is held at the place of sale, the next market-day, the sale shall be postponed accordingly and shall be then completed, whatever price may be offered for the produce.",
+      "key_terms": [
+        "agricultural produce",
+        "growing crop",
+        "threshing floor",
+        "postponement for fair price"
+      ],
+      "breakdown": {
+        "plain_summary": "Agricultural produce is normally sold right where it stands or is stored — near the field or the threshing floor — rather than being hauled off, unless the Court thinks a public-resort venue will fetch a better price. The owner also gets one shot at postponing the sale to the next (market) day if the first offer seems unfairly low.",
+        "essential_elements": [
+          "Growing crops are sold on or near the land they grew on; cut/gathered produce is sold at or near its storage place",
+          "The Court may instead direct sale at the nearest place of public resort if that is likely to fetch a better price",
+          "If no fair price is offered, the owner (or his authorised representative) may apply for a one-day (or one-market-day) postponement",
+          "On postponement, the sale must then be completed at whatever price is offered, however low"
+        ],
+        "exceptions_and_qualifications": [
+          "The postponement right is a single, one-time accommodation — the rule does not allow repeated postponements chasing a better price"
+        ],
+        "how_to_read": "Advise an agriculturist judgment-debtor that the postponement right under sub-rule (2) is their one real lever to avoid a distress-sale price — but warn them it is exhausted after a single postponement; the next sale goes through regardless of price."
+      }
+    },
+    {
+      "number": "O-XXI-75",
+      "title": "Special provisions relating to growing crops",
+      "raw_text": "(1) Where the property to be sold is a growing crop and the crop from its nature admits of being stored but has not yet been stored, the day of the sale shall be so fixed as to admit of its being made ready for storing before the arrival of such day, and the sale shall not be held until the crop has been cut or gathered and is ready for storing. (2) Where the crop from its nature does not admit of being stored, it may be sold before it is cut and gathered, and the purchaser shall be entitled to enter on the land, and to do all that is necessary for the purpose of tending and cutting or gathering it.",
+      "key_terms": [
+        "growing crop",
+        "storable crop",
+        "non-storable crop",
+        "right of entry"
+      ],
+      "breakdown": {
+        "plain_summary": "Storable crops (like grain) must be harvested and ready for storage before the sale date is even fixed. Non-storable crops (like many vegetables) can be auctioned while still growing, with the buyer getting the right to go onto the land to tend, cut, and gather the crop himself.",
+        "essential_elements": [
+          "Storable growing crops: sale date must be fixed late enough for the crop to be cut/gathered and store-ready first",
+          "Non-storable growing crops: may be sold before cutting/gathering",
+          "For non-storable crops, the purchaser gets an express right of entry onto the land to tend, cut, or gather the crop"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "When a non-storable standing crop is sold, make sure the sale certificate or order spells out the purchaser's right of entry under sub-rule (2) — this prevents a separate dispute with the judgment-debtor (who remains in possession of the land) over access."
+      }
+    },
+    {
+      "number": "O-XXI-76",
+      "title": "Negotiable instruments and shares in corporations",
+      "raw_text": "Where the property to be sold is a negotiable instrument or a share in a corporation, the Court may, instead of directing the sale to be made by public auction, authorize the sale of such instrument or share through a broker.",
+      "key_terms": [
+        "negotiable instrument",
+        "share in corporation",
+        "sale through broker"
+      ],
+      "breakdown": {
+        "plain_summary": "For financial instruments like promissory notes, cheques, or company shares, a public auction is often impractical — the Court can instead let a broker sell them through the normal market mechanism, which usually gets a fairer, more liquid price.",
+        "essential_elements": [
+          "Applies specifically to negotiable instruments and shares in corporations",
+          "The Court has discretion to bypass public auction and authorize sale through a broker"
+        ],
+        "exceptions_and_qualifications": [
+          "This is the statutory exception to Rule 65's general public-auction requirement"
+        ],
+        "how_to_read": "For listed company shares, pushing for broker-sale under this rule (at prevailing market price) rather than a public auction usually better protects both the decree-holder's recovery and the judgment-debtor's equity value."
+      }
+    },
+    {
+      "number": "O-XXI-77",
+      "title": "Sale by public auction",
+      "raw_text": "(1) Where movable property is sold by public auction the price of each lot shall be paid at the time of sale or as soon after as the officer or other person holding the sale directs, and in default of payment the property shall forthwith be re-sold. (2) On payment of the purchase-money, the officer or other person holding the sale shall grant a receipt for the same, and the sale shall become absolute. (3) Where the movable property to be sold is a share in goods belonging to the judgment-debtor and a co-owner, and two or more persons, of whom one is such co-owner, respectively bid the same sum for such property or for any lot, the bidding shall be deemed to be the bidding of the co-owner.",
+      "key_terms": [
+        "lot price",
+        "receipt",
+        "sale becomes absolute",
+        "co-owner's bid preference"
+      ],
+      "breakdown": {
+        "plain_summary": "Payment for movables is expected immediately (or on the officer's directed timeline); default triggers instant re-sale, feeding straight into Rule 71's deficiency-recovery remedy. Payment plus receipt makes the sale final. And in a tie-bid involving a co-owner, the law tilts in the co-owner's favour.",
+        "essential_elements": [
+          "Lot price must be paid at sale time or as directed by the officer conducting it",
+          "Non-payment triggers immediate re-sale of that lot",
+          "A receipt on payment makes the sale absolute",
+          "On a tied highest bid where one bidder is a co-owner of the judgment-debtor's share in the goods, the bid is deemed the co-owner's"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The co-owner tie-bid preference in sub-rule (3) is a useful, often-overlooked protective tool for a co-owner seeking to keep shared goods within the family/partnership rather than losing them to an outside purchaser — worth flagging to a co-owner client before the auction."
+      }
+    },
+    {
+      "number": "O-XXI-78",
+      "title": "Irregularity not to vitiate sale, but any person injured may sue",
+      "raw_text": "No irregularity in publishing or conducting the sale of movable property shall vitiate the sale; but any person sustaining any injury by reason of such irregularity at the hand of any other person may institute a suit against him for compensation or (if such other person is the purchaser) for the recovery of the specific property and for compensation in default of such recovery.",
+      "key_terms": [
+        "irregularity",
+        "movable sale finality",
+        "separate suit for compensation"
+      ],
+      "breakdown": {
+        "plain_summary": "Unlike immovable property (where Rule 90 lets you set aside the whole sale for material irregularity plus substantial injury), a movable-property sale stands firm even if something was done irregularly. The injured party's only recourse is a separate suit for compensation — or, against the purchaser himself, to recover the specific goods.",
+        "essential_elements": [
+          "Irregularity in publishing or conducting a movable-property sale does not itself invalidate the sale",
+          "A person injured by the irregularity may sue the person responsible for compensation",
+          "If the irregularity is attributable to the purchaser, the injured person may instead sue for recovery of the specific property, with compensation only in default of such recovery"
+        ],
+        "exceptions_and_qualifications": [
+          "This is a deliberate contrast with the immovable-property regime (Rule 90) — finality is prioritised for movables given their perishability and the impracticality of repeated re-sales"
+        ],
+        "how_to_read": "Don't advise a client to apply under Rule 90 for a movable-property sale — that remedy is for immovable property only. For movables, the correct and only route for an irregularity grievance is a fresh suit under this rule."
+      }
+    },
+    {
+      "number": "O-XXI-79",
+      "title": "Delivery of movable property, debts and shares",
+      "raw_text": "(1) Where the property sold is movable property of which actual seizure has been made, it shall be delivered to the purchaser. (2) Where the property sold is movable property in the possession of some person other than the judgment-debtor, the delivery thereof to the purchaser shall be made by giving notice to the person in possession prohibiting him from delivering possession of the property to any person except the purchaser. (3) Where the property sold is a debt not secured by a negotiable instrument, or is a share in a corporation, the delivery thereof shall be made by a written order of the Court prohibiting the creditor from receiving the debt or any interest thereon, and the debtor from making payment thereof to any person except the purchaser, or prohibiting the person in whose name the share may be standing from making any transfer of the share to any person except the purchaser, or receiving payment of any dividend or interest thereon, and the manager, secretary or other proper officer of the corporation from permitting any such transfer or making any such payment to any person except the purchaser.",
+      "key_terms": [
+        "delivery of movables",
+        "delivery by notice",
+        "delivery of debt",
+        "delivery of shares"
+      ],
+      "breakdown": {
+        "plain_summary": "How 'delivery' works depends entirely on what was sold: seized physical goods are handed over directly; goods held by a third party are 'delivered' by redirecting that third party's obligation toward the purchaser; and intangible property like debts or shares is 'delivered' by a Court order that legally redirects who can receive payment or hold the transfer rights.",
+        "essential_elements": [
+          "Actually-seized movables: physically delivered to the purchaser",
+          "Movables in a third party's possession: delivered via notice to that person prohibiting delivery to anyone but the purchaser",
+          "Unsecured debts: delivered via written Court order prohibiting the creditor from receiving and the debtor from paying anyone but the purchaser",
+          "Shares in a corporation: delivered via written Court order prohibiting transfer, dividend, or interest payment to anyone but the purchaser, binding both the registered holder and the corporation's officers"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "When the sold asset is a debt or a share, ensure the Court's prohibitory delivery order is actually served on all relevant parties (the debtor, the registered shareholder, and the corporation's officer) — an unserved order gives the purchaser no practical protection against a wrongful payment or transfer."
+      }
+    },
+    {
+      "number": "O-XXI-80",
+      "title": "Transfer of negotiable instruments and shares",
+      "raw_text": "(1) Where the execution of a document or the endorsement of the party in whose name a negotiable instrument or a share in a corporation is standing is required to transfer such negotiable instrument or share, the Judge or such officer as he may appoint in this behalf may execute such document or make such endorsement as may be necessary, and such execution or endorsement shall have the same effect as an execution or endorsement by the party. (2) Such execution or endorsement may be in the following form, namely:— A.B. by C.D. Judge of the Court of (or as the case may be), in a suit by E.F. against A.B. (3) Until the transfer of such negotiable instrument or share, the Court may, by order, appoint some person to receive any interest or dividend due thereon and to sign a receipt for the same; and any receipt so signed shall be as valid and effectual for all purposes as if the same had been signed by the party himself.",
+      "key_terms": [
+        "judicial endorsement",
+        "transfer on Court's behalf",
+        "interim receiver of dividend/interest"
+      ],
+      "breakdown": {
+        "plain_summary": "If transferring a negotiable instrument or share legally requires the original owner's signature or endorsement — and that owner (the judgment-debtor) won't cooperate — the Judge himself (or an appointed officer) can sign on his behalf, with full legal effect as if the owner had signed it personally.",
+        "essential_elements": [
+          "Where transfer requires execution of a document or endorsement by the registered party, the Judge or an appointed officer may do so instead",
+          "Such judicial execution/endorsement has the same legal effect as the party's own signature",
+          "A prescribed form is given for the judicial endorsement",
+          "Pending transfer, the Court may appoint someone to receive interest/dividends and give a valid receipt in the owner's stead"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This rule is the practical answer to an uncooperative judgment-debtor who simply refuses to sign transfer documents for shares or instruments sold in execution — invoke it rather than seeking a separate contempt or mandatory-injunction route."
+      }
+    },
+    {
+      "number": "O-XXI-81",
+      "title": "Vesting order in case of other property",
+      "raw_text": "In the case of any movable property not hereinbefore provided for, the Court may make an order vesting such property in the purchaser or as he may direct; and such property shall vest accordingly.",
+      "key_terms": [
+        "vesting order",
+        "residuary delivery mechanism"
+      ],
+      "breakdown": {
+        "plain_summary": "A catch-all: for any kind of movable property that doesn't fit neatly into the seizure/third-party-possession/debt/share categories above, the Court can simply order it to vest in the purchaser, and that order alone legally completes the transfer.",
+        "essential_elements": [
+          "Applies to movable property not covered by Rules 79-80",
+          "The Court may pass a vesting order in favour of the purchaser (or his nominee)",
+          "The property vests by force of the order itself"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Use this residuary rule for unusual movable assets (intellectual property rights, unusual contractual entitlements, etc.) where no specific delivery mechanism exists elsewhere in the Order — a vesting order avoids arguing by analogy from the wrong specific rule."
+      }
     }
   ]
 }
