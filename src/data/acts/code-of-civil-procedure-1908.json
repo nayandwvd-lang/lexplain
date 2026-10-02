@@ -7246,6 +7246,483 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "A courtesy-driven, discretionary alternative historically used for dignitaries/high-ranking persons — functionally equivalent to a summons in legal effect despite its more deferential form and delivery."
       }
+    },
+    {
+      "number": "O-VI",
+      "title": "Order VI — Pleadings Generally (Overview)",
+      "raw_text": "ORDER VI\nPleadings generally\n\nThis Order is the Code's grammar of pleading: it defines what a pleading is, mandates that it state material facts (not evidence) in concise numbered paragraphs, prescribes particulars for fraud/misrepresentation-type claims, governs departure, implied admissions, signature, the registered address for service, verification (including the heightened Commercial Courts affidavit regime), and the Court's powers to strike out or allow amendment of pleadings.",
+      "key_terms": [
+        "pleading",
+        "plaint",
+        "written statement",
+        "material facts",
+        "verification",
+        "amendment of pleadings",
+        "striking out pleadings"
+      ],
+      "breakdown": {
+        "plain_summary": "Order VI lays down the universal rules that govern every plaint and written statement filed in any civil suit. Rule 1 defines \"pleading\" as plaint or written statement; Rule 2 is the cardinal rule that a pleading must state only material facts in concise form, not the evidence proving them, divided into numbered paragraphs with dates/sums/numbers in both figures and words. Rules 3-13 deal with form and content: prescribed forms (Rule 3, with a special Commercial Courts variant in Rule 3A), particulars for fraud/misrepresentation claims (Rule 4), condition precedent (Rule 6), the bar on departure from earlier pleadings except by amendment (Rule 7), and simplified pleading techniques for contracts, documents, malice/knowledge, notice, implied relations, and legal presumptions (Rules 8-13). Rules 14-15A require signature, a registered address for service, and verification (with Commercial Courts requiring a Statement-of-Truth affidavit). Rules 16-18 give the Court power to strike out embarrassing or abusive pleadings and to allow amendment at any stage, subject to the post-commencement-of-trial due-diligence proviso.",
+        "essential_elements": [
+          "Rule 2(1) is the foundational pleading discipline: state material facts concisely, not the evidence by which they will be proved; Rule 2(2)-(3) require numbered paragraphs and figures-plus-words for dates/sums/numbers.",
+          "Rule 4 requires particulars (with dates and items) wherever a party relies on misrepresentation, fraud, breach of trust, wilful default, or undue influence — a bare general allegation of fraud is not enough.",
+          "Rule 7 bars any pleading, except by amendment, from raising a new ground of claim or alleging facts inconsistent with the party's own earlier pleadings (no approbate-and-reprobate).",
+          "Rule 14A requires every pleading to be accompanied by a statement of the party's registered address for service, with consequences (stay of suit or striking out of defence) for a false/incomplete address, reversible on showing sufficient cause.",
+          "Rule 15 requires verification at the foot of every pleading, specifying what is verified from personal knowledge versus information believed true, plus (by a later amendment) a supporting affidavit; Rule 15A imposes a stricter Statement-of-Truth affidavit regime for commercial disputes, non-compliance with which bars reliance on the pleading as evidence.",
+          "Rule 16 lets the Court strike out unnecessary, scandalous, frivolous, or vexatious matter, or matter that would prejudice, embarrass, or delay a fair trial, or that abuses the Court's process.",
+          "Rule 17 is the general amendment power — allowed at any stage, on just terms, for determining the real questions in controversy — subject to the proviso barring post-trial-commencement amendment absent due diligence that could not have raised the matter earlier; Rule 18 forfeits the leave to amend if not acted on within the time fixed (or 14 days, if none fixed), unless extended."
+        ],
+        "exceptions_and_qualifications": [
+          "Old Rule 5 (\"further and better statement, or particulars\") was omitted by the 1999 amendment (w.e.f. 1-7-2002) — particulars are now sought and given under Rule 4 and by other procedural routes, not a standalone Rule 5 application.",
+          "Rule 3A's Commercial Courts pleading-forms regime overrides the general Rule 3 forms for commercial disputes of specified value where High Court Rules/Practice Directions prescribe their own forms.",
+          "Rule 15A overrides (\"notwithstanding\") Rule 15's ordinary verification for commercial disputes, substituting a mandatory Statement-of-Truth affidavit; a pleading not so verified cannot be relied on as evidence and may be struck out.",
+          "Rule 17's proviso is itself an exception to the general liberality of amendment: no amendment application is allowed after trial has commenced unless due diligence despite which the matter could not have been raised earlier is shown."
+        ],
+        "how_to_read": "Order VI, Rule 17 is one of the most litigated provisions in civil practice: draft every amendment application to affirmatively plead why the amendment could not have been sought before trial commenced (if trial has begun), since courts treat the proviso as a real bar, not a formality — and always cross-check a hostile party's pleading against Rule 2 (facts not evidence) and Rule 7 (no departure) before conceding it."
+      }
+    },
+    {
+      "number": "O-VI-1",
+      "title": "Order VI, Rule 1 — Pleading",
+      "raw_text": "1. Pleading.—“Pleading” shall mean plaint or written statement.",
+      "key_terms": [
+        "pleading",
+        "plaint",
+        "written statement"
+      ],
+      "breakdown": {
+        "plain_summary": "A \"pleading\", wherever the Code uses that word, means either a plaint (the plaintiff's pleading) or a written statement (the defendant's pleading) — nothing else.",
+        "essential_elements": [
+          "Defines \"pleading\" exhaustively as plaint or written statement."
+        ],
+        "exceptions_and_qualifications": [
+          "Replications, rejoinders, or other subsequent pleadings are not generally permitted as of right under the Code and are not covered by this definition unless specifically ordered by the Court."
+        ],
+        "how_to_read": "A one-line definitional rule — useful mainly to confirm that every other Rule in this Order (about content, verification, amendment, striking out) applies equally to plaints and written statements."
+      }
+    },
+    {
+      "number": "O-VI-2",
+      "title": "Order VI, Rule 2 — Pleading to state material facts and not evidence",
+      "raw_text": "2. Pleading to state material facts and not evidence.—(1) Every pleading shall contain, and contain only, a statement in a concise form of the material facts on which the party pleading relies for his claim or defence, as the case may be, but not the evidence by which they are to be proved.\n(2) Every pleading shall, when necessary, be divided into paragraphs, numbered consecutively, each allegation being, so far as is convenient, contained in a separate paragraph.\n(3) Dates, sums and numbers shall be expressed in a pleading in figures as well as in words.",
+      "key_terms": [
+        "material facts",
+        "concise pleading",
+        "evidence vs facts",
+        "numbered paragraphs"
+      ],
+      "breakdown": {
+        "plain_summary": "The cornerstone rule of Indian pleading practice: a plaint or written statement must state only the material facts relied on, concisely, and must never plead the evidence that will prove those facts at trial. It must be organised into consecutively numbered paragraphs, one allegation per paragraph as far as convenient, and every date, sum, or number must appear both in figures and in words.",
+        "essential_elements": [
+          "Sub-rule (1): state material facts only, in concise form — the claim or defence's factual foundation, not the proof of it.",
+          "Sub-rule (1): evidentiary material (documents, witness statements, the chain of proof) is excluded from the pleading itself.",
+          "Sub-rule (2): paragraphs must be numbered consecutively, each distinct allegation in its own paragraph so far as convenient.",
+          "Sub-rule (3): dates, sums, and numbers must be written in both figures and words."
+        ],
+        "exceptions_and_qualifications": [
+          "\"So far as is convenient\" in sub-rule (2) gives drafting flexibility — closely related allegations may share a paragraph where separating them would be artificial.",
+          "The material-facts/evidence line is not always crisp; particulars required under Rule 4 (fraud, misrepresentation, etc.) sit between the two and must still be pleaded even though they approach evidentiary detail."
+        ],
+        "how_to_read": "This is the first rule to check when opposing a plaint or written statement under Order VII Rule 11 or by way of striking out under Order VI Rule 16 — pleadings that argue law, recite evidence, or run on without paragraph discipline are vulnerable, and a well-drafted pleading should be auditable paragraph-by-paragraph against this Rule before filing."
+      }
+    },
+    {
+      "number": "O-VI-3",
+      "title": "Order VI, Rule 3 — Forms of pleading",
+      "raw_text": "3. Forms of pleading.—The forms in Appendix A when applicable, and where they are not applicable forms of the like character, as nearly as may be, shall be used for all pleadings.",
+      "key_terms": [
+        "forms of pleading",
+        "Appendix A"
+      ],
+      "breakdown": {
+        "plain_summary": "Pleadings must follow the model forms set out in Appendix A to the Code where applicable; where no exact form exists, the nearest form of like character should be adapted.",
+        "essential_elements": [
+          "Mandates use of Appendix A forms where applicable.",
+          "Requires adaptation of the nearest analogous form where no exact form exists."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 3A displaces this Rule for commercial disputes where High Court Rules or Practice Directions prescribe their own forms."
+        ],
+        "how_to_read": "A largely mechanical drafting-aid rule; in practice, modern pleadings follow local High Court practice directions and precedent drafts more closely than Appendix A's century-old forms, but gross departure from recognised form can still draw judicial criticism or objection."
+      }
+    },
+    {
+      "number": "O-VI-3A",
+      "title": "Order VI, Rule 3A — Forms of pleading in Commercial Courts",
+      "raw_text": "3A. Forms of pleading in Commercial Courts.––In a commercial dispute, where forms of pleadings have been prescribed under the High Court Rules or Practice Directions made for the purposes of such commercial disputes, pleadings shall be in such forms.",
+      "key_terms": [
+        "Commercial Courts",
+        "forms of pleading",
+        "commercial dispute"
+      ],
+      "breakdown": {
+        "plain_summary": "For commercial disputes (as defined under the Commercial Courts Act, 2015), wherever the relevant High Court has prescribed its own pleading forms by Rules or Practice Directions, those specialised forms must be used instead of the general Appendix A forms.",
+        "essential_elements": [
+          "Applies specifically to commercial disputes of specified value.",
+          "Displaces Rule 3's general Appendix A forms in favour of High-Court-prescribed commercial-dispute forms, where such forms exist."
+        ],
+        "exceptions_and_qualifications": [
+          "Only operative where the jurisdictional High Court has actually prescribed commercial-dispute-specific forms; absent such prescription, Rule 3's general forms continue to apply even to commercial disputes."
+        ],
+        "how_to_read": "Commercial litigators must check their High Court's Commercial Courts Practice Directions before drafting — using the wrong (general) form in a commercial suit can draw objections and delay under the Commercial Courts Act's case-management-heavy regime."
+      }
+    },
+    {
+      "number": "O-VI-4",
+      "title": "Order VI, Rule 4 — Particulars to be given where necessary",
+      "raw_text": "4. Particulars to be given where necessary.—In all cases in which the party pleading relies on any misrepresentation, fraud, breach of trust, wilful default, or undue influence, and in all other cases in which particulars may be necessary beyond such as are exemplified in the forms aforesaid, particulars (with dates and items if necessary) shall be stated in the pleading.",
+      "key_terms": [
+        "particulars",
+        "fraud",
+        "misrepresentation",
+        "breach of trust",
+        "wilful default",
+        "undue influence"
+      ],
+      "breakdown": {
+        "plain_summary": "Certain categories of allegation — misrepresentation, fraud, breach of trust, wilful default, undue influence — and any other case needing more specificity than the standard forms provide, must be pleaded with particulars: specific dates and items, not generalised assertions.",
+        "essential_elements": [
+          "Applies mandatorily to misrepresentation, fraud, breach of trust, wilful default, and undue influence allegations.",
+          "Extends more broadly to \"all other cases in which particulars may be necessary\" beyond the standard form examples.",
+          "Requires dates and items where necessary — not a bare assertion that the vitiating conduct occurred."
+        ],
+        "exceptions_and_qualifications": [
+          "The duty is to give particulars \"if necessary\" — not every fact needs a date/item breakdown, only where specificity is genuinely required to put the opposite party on notice of the case to meet."
+        ],
+        "how_to_read": "A plaint alleging fraud in conclusory terms (\"the defendant fraudulently induced the plaintiff\") without particulars of who said what, when, and how it was false is classically vulnerable to a Rule 16 strike-out application or an Order VII Rule 11 rejection argument — always plead fraud/undue-influence particulars as a checklist, not an afterthought."
+      }
+    },
+    {
+      "number": "O-VI-6",
+      "title": "Order VI, Rule 6 — Condition precedent",
+      "raw_text": "6. Condition precedent.—Any condition precedent, the performance or occurrence of which is intended to be contested, shall be distinctly specified in his pleading by the plaintiff or defendant, as the case may be; and, subject thereto, an averment of the performance or occurrence of all conditions precedent necessary for the case of the plaintiff or defendant shall be implied in his pleading.",
+      "key_terms": [
+        "condition precedent",
+        "implied averment"
+      ],
+      "breakdown": {
+        "plain_summary": "A party need not expressly plead that every condition precedent to his claim or defence has been performed or has occurred — that is implied automatically. But if a party wants to contest the opponent's compliance with a condition precedent, he must distinctly specify that contestation in his own pleading.",
+        "essential_elements": [
+          "General rule: performance/occurrence of conditions precedent is implied in a pleading without express averment.",
+          "Exception the pleader must invoke: to contest a condition precedent, it must be distinctly specified in the contesting party's pleading."
+        ],
+        "exceptions_and_qualifications": [
+          "The implication only covers conditions \"necessary for the case\" being pleaded — it does not relieve a party of pleading facts that are themselves part of the cause of action, only the background compliance conditions."
+        ],
+        "how_to_read": "If a defendant wishes to argue that a contractual precondition (e.g., prior notice, an escalation step, exhaustion of an internal remedy) was not satisfied, that must be expressly pleaded in the written statement — silence is treated as an admission that all conditions precedent were duly performed."
+      }
+    },
+    {
+      "number": "O-VI-7",
+      "title": "Order VI, Rule 7 — Departure",
+      "raw_text": "7. Departure.—No pleading shall, except by way of amendment, raise any new ground of claim or contain any allegation of fact inconsistent with the previous pleadings of the party pleading the same.",
+      "key_terms": [
+        "departure",
+        "inconsistent pleadings",
+        "new ground of claim"
+      ],
+      "breakdown": {
+        "plain_summary": "A party cannot, in a later pleading, spring a brand-new ground of claim or allege facts inconsistent with what they pleaded earlier — except through a formal amendment under Rule 17. This prevents a party from quietly shifting their case as the suit progresses.",
+        "essential_elements": [
+          "Bars raising a new ground of claim in a subsequent pleading without amendment.",
+          "Bars pleading facts inconsistent with the party's own earlier pleading, again absent amendment."
+        ],
+        "exceptions_and_qualifications": [
+          "The bar does not apply where the party formally seeks and obtains leave to amend under Rule 17 — amendment is the lawful route to change or add to one's case."
+        ],
+        "how_to_read": "A classic cross-examination and final-argument tool: if an opposing party's evidence or arguments depart from their pleaded case without a corresponding amendment, Rule 7 (read with the principle that parties are bound by their pleadings) is the basis to object that the new case cannot be looked into."
+      }
+    },
+    {
+      "number": "O-VI-8",
+      "title": "Order VI, Rule 8 — Denial of contract",
+      "raw_text": "8. Denial of contract.—Where a contract is alleged in any pleading, a bare denial of the same by the opposite party shall be construed only as a denial in fact of the express contract alleged or of the matters of fact from which the same may be implied, and not as a denial of the legality or sufficiency in law of such contract.",
+      "key_terms": [
+        "denial of contract",
+        "bare denial",
+        "legality of contract"
+      ],
+      "breakdown": {
+        "plain_summary": "If one party pleads a contract and the other party simply denies it without more, that bare denial is read narrowly — as disputing only the factual existence of the contract (or the facts from which it could be implied), not as also disputing whether the contract is legally valid or legally sufficient.",
+        "essential_elements": [
+          "A bare denial of an alleged contract denies only its factual existence/implication.",
+          "A bare denial does NOT, by itself, raise a challenge to the contract's legality or legal sufficiency."
+        ],
+        "exceptions_and_qualifications": [
+          "A party wishing to challenge legality or legal sufficiency (e.g., void for illegality, insufficient consideration, violates a statute) must plead that specifically — it will not be read into a generic denial."
+        ],
+        "how_to_read": "If you intend to argue a contract is illegal or legally insufficient (not just factually non-existent), draft the written statement to say so explicitly — relying on Rule 8's default construction of a bare denial will not preserve that argument."
+      }
+    },
+    {
+      "number": "O-VI-9",
+      "title": "Order VI, Rule 9 — Effect of document to be stated",
+      "raw_text": "9. Effect of document to be stated.—Wherever the contents of any document are material, it shall be sufficient in any pleading to state the effect thereof as briefly as possible, without setting out the whole or any part thereof, unless the precise words of the document or any part thereof are material.",
+      "key_terms": [
+        "effect of document",
+        "pleading documents"
+      ],
+      "breakdown": {
+        "plain_summary": "When a document's contents matter to a pleading, it is enough to summarise the document's effect briefly — there is no need to reproduce the whole document or any part of it, unless the document's precise wording itself is what matters.",
+        "essential_elements": [
+          "General rule: plead the effect/substance of a material document briefly.",
+          "Exception: where the precise words themselves are material, those precise words (or the relevant part) must be set out."
+        ],
+        "exceptions_and_qualifications": [
+          "Determining whether \"precise words\" are material is fact-specific — e.g., in a defamation suit the exact words used are almost always material and must be quoted verbatim, unlike a generic commercial contract where summarising suffices."
+        ],
+        "how_to_read": "Over-pleading by annexing and reciting entire contracts verbatim clutters a plaint unnecessarily; better practice is to summarise the effect under this Rule and rely on the document itself (filed as an exhibit) for precise terms, reserving verbatim quotation for clauses that are genuinely in dispute."
+      }
+    },
+    {
+      "number": "O-VI-10",
+      "title": "Order VI, Rule 10 — Malice, knowledge, etc.",
+      "raw_text": "10. Malice, knowledge, etc.—Wherever it is material to allege malice, fradulent intention, knowledge or other condition of the mind of any person, it shall be sufficient to allege the same as a fact without setting out the circumstances from which the same is to be inferred.",
+      "key_terms": [
+        "malice",
+        "fraudulent intention",
+        "state of mind",
+        "mens rea pleading"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a party's mental state — malice, fraudulent intent, knowledge, or similar — matters to the case, it is enough to simply allege that state of mind as a fact, without pleading out all the circumstantial detail from which it is to be inferred.",
+        "essential_elements": [
+          "Permits bare allegation of mental-state facts (malice, fraudulent intention, knowledge) without reciting the inferential circumstances."
+        ],
+        "exceptions_and_qualifications": [
+          "This simplification is for pleading purposes only — at trial, the party will still need to lead evidence of the surrounding circumstances to actually prove the alleged state of mind; Rule 4's particulars requirement for fraud allegations should also be read alongside this Rule."
+        ],
+        "how_to_read": "Useful in malicious-prosecution or fraud-adjacent pleadings to keep the plaint concise — allege \"the defendant acted with knowledge that the representation was false\" as a fact, and save the evidentiary circumstances for trial, while still giving enough particulars under Rule 4 to satisfy that separate requirement."
+      }
+    },
+    {
+      "number": "O-VI-11",
+      "title": "Order VI, Rule 11 — Notice",
+      "raw_text": "11. Notice.—Wherever it is material to allege notice to any person of any fact, matter or thing, it shall be sufficient to allege such notice as a fact, unless the form or the precise terms of such notice, or the circumstances from which such notice is to be inferred, are material.",
+      "key_terms": [
+        "notice",
+        "pleading notice"
+      ],
+      "breakdown": {
+        "plain_summary": "Where notice to a person of some fact or matter is material, it suffices to simply allege that notice as a fact — except where the form, precise terms, or the circumstances from which the notice is to be inferred are themselves material, in which case those details must be pleaded.",
+        "essential_elements": [
+          "General rule: allege notice as a bare fact.",
+          "Exception: plead form/precise terms/inferential circumstances where those are themselves material to the case."
+        ],
+        "exceptions_and_qualifications": [
+          "Statutory notice requirements (e.g., Section 80 notice to Government, or contractual notice clauses) often make the precise terms and manner of notice material — in such cases the bare-fact shortcut does not suffice and full particulars of the notice must be pleaded."
+        ],
+        "how_to_read": "Where a claim depends on a statutory or contractual notice (termination notice, default notice, Section 80 CPC notice), plead the date, mode, and content of that notice specifically rather than relying on this Rule's general shortcut, since the notice's adequacy is likely to be contested."
+      }
+    },
+    {
+      "number": "O-VI-12",
+      "title": "Order VI, Rule 12 — Implied contract, or relation",
+      "raw_text": "12. Implied contract, or relation.—Whenever any contract or any relation between any persons is to be implied from a series of letters or conversations or otherwise from a number of circumstances, it shall be sufficient to allege such contract or relation as a fact, and to refer generally to such letters, conversations or circumstances without setting them out in detail. And if in such case the person so pleading desires to rely in the alternative upon more contracts or relations than one as to be implied from such circumstances, he may state the same in the alternative.",
+      "key_terms": [
+        "implied contract",
+        "implied relation",
+        "alternative pleading"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a contract or relationship is to be implied from a series of letters, conversations, or other circumstances, it is enough to allege the resulting contract/relation as a fact and refer generally to those letters/conversations/circumstances, without reciting each one in detail. The pleader may also plead, in the alternative, more than one possible implied contract or relation arising from the same circumstances.",
+        "essential_elements": [
+          "Allows a general reference to the correspondence/conversations/circumstances rather than a detailed recitation.",
+          "Expressly permits alternative pleading of multiple possible implied contracts or relations from the same facts."
+        ],
+        "exceptions_and_qualifications": [
+          "As with Rules 10-11, this is a pleading-stage simplification; the underlying letters/conversations will still need to be proved as evidence at trial."
+        ],
+        "how_to_read": "Useful where a commercial relationship was never reduced to a single signed contract but grew out of an exchange of correspondence — plead the implied contract as a fact, optionally in the alternative (e.g., \"a contract of agency, or alternatively a contract for commission on each transaction\"), rather than quoting every email."
+      }
+    },
+    {
+      "number": "O-VI-13",
+      "title": "Order VI, Rule 13 — Presumptions of law",
+      "raw_text": "13. Presumptions of law.—Neither party need in any pleading allege any matter of fact which the law presumes in his favour or as to which the burden of proof lies upon the other side unless the same has first been specifically denied (e.g., consideration for a bill of exchange where the plaintiff sues only on the bill and not for the consideration as a substantive ground of claim).",
+      "key_terms": [
+        "presumptions of law",
+        "burden of proof",
+        "pleading presumed facts"
+      ],
+      "breakdown": {
+        "plain_summary": "A party need not plead a fact that the law already presumes in his favour, or a fact for which the burden of proof rests on the opposite side — unless the other side has specifically denied it. The Code's own example: a plaintiff suing on a bill of exchange need not plead consideration, since the law presumes consideration for a bill, unless the defendant specifically denies consideration.",
+        "essential_elements": [
+          "No need to plead facts the law presumes in the pleader's favour.",
+          "No need to plead facts on which the burden of proof lies on the other side.",
+          "Exception triggering a need to plead: once the other side specifically denies the presumed fact, it becomes a live issue."
+        ],
+        "exceptions_and_qualifications": [
+          "The illustrative example (consideration on a bill of exchange) shows the Rule's operation is tied to specific statutory/legal presumptions — e.g., under the Negotiable Instruments Act — not a general licence to omit material facts."
+        ],
+        "how_to_read": "Plaintiffs suing on negotiable instruments can keep the plaint lean by not separately pleading consideration; but the moment a written statement specifically denies consideration, the plaintiff should be ready to meet that issue with evidence, since the presumption is rebuttable, not conclusive."
+      }
+    },
+    {
+      "number": "O-VI-14",
+      "title": "Order VI, Rule 14 — Pleading to be signed",
+      "raw_text": "14. Pleading to be signed.—Every pleading shall be signed by the party and his pleader (if any): Provided that where a party pleading is, by reason of absence or for other good cause, unable to sign the pleading, it may be signed by any person duly authorized by him to sign the same or to sue or defend on his behalf",
+      "key_terms": [
+        "signature on pleading",
+        "pleader",
+        "authorized signatory"
+      ],
+      "breakdown": {
+        "plain_summary": "Every plaint or written statement must be signed by the party itself and by the pleader (advocate), if the party has one. If the party cannot sign — because of absence or other good cause — someone duly authorised by the party to sign, or to sue/defend on the party's behalf, may sign instead.",
+        "essential_elements": [
+          "Default rule: signature of both the party and the pleader (if engaged) is required.",
+          "Proviso: a duly authorised person may sign in the party's place where the party cannot sign due to absence or other good cause."
+        ],
+        "exceptions_and_qualifications": [
+          "\"Other good cause\" is not defined and is left to be assessed case-by-case (e.g., illness, incapacity); the authorisation to sign must be proved if challenged."
+        ],
+        "how_to_read": "A pleading signed only by counsel without the party's signature (or a valid authorised signatory's signature backed by a power of attorney/authorisation) is technically defective — check this before filing and keep authorisation documents on record to pre-empt a maintainability objection."
+      }
+    },
+    {
+      "number": "O-VI-14A",
+      "title": "Order VI, Rule 14A — Address for service of notice",
+      "raw_text": "14A. Address for service of notice.—(1) Every pleading, when filed by a party, shall be accompanied by a statement in the prescribed form, signed as provided in rule 14, regarding the address of the party.\n(2) Such address may, from time to time, be changed by lodging in Court a form duly filled up and stating the new address of the party and accompanied by a verified petition.\n(3) The address furnished in the statement made under sub-rule (1) shall be called the “registered address” of the party, and shall, until duly changed as aforesaid, be deemed to be the address of the party for the purpose of service of all processes in the suit or in any appeal from any decree or order therein made and for the purpose of execution, and shall hold good, subject as aforesaid, for a period of two years after the final determination of the cause or matter.\n(4) Service of any process may be effected upon a party at his registered address in all respects as though such party resided thereat.\n(5) Where the registered address of a party is discovered by the Court to be incomplete. false or fictitious, the Court may, either on its own motion, or on the application of any party, order—\n(a) in the case where such registered address was furnished by a plaintiff, stay of the suit, or\n(b) in the case where such registered address was furnished by a defendant, his defence be struck out and he be placed in the same position as if he had not put up any defence.\n(6) Where a suit is stayed or a defence is struck out under sub-rule (5), the plaintiff or, as the case may be, the defendant may, after furnishing his true address, apply to the Court for an order to set aside the order of stay or, as the case may be, the order striking out the defence.\n(7) The Court, if satisfied that the party was prevented by any sufficient cause from filing the true address at the proper time, shall set aside the order of stay or order striking out the defence, on such terms as to costs or otherwise as it thinks fit and shall appoint a day for proceeding with the suit or defence, as the case may be.\n(8) Nothing in this rule shall prevent the Court from directing the service of a process at any other address, if, for any reason, it thinks fit to do so.",
+      "key_terms": [
+        "registered address",
+        "address for service",
+        "false address",
+        "stay of suit",
+        "striking out defence"
+      ],
+      "breakdown": {
+        "plain_summary": "Every pleading must come with a statement of the party's address, which becomes that party's \"registered address\" for all service of process in the suit, any appeal, and execution, valid for two years after final determination (changeable by lodging an updated, verified form). If the Court finds the registered address incomplete, false, or fictitious, it can stay the plaintiff's suit or strike out the defendant's defence; the affected party can get that order set aside by furnishing the true address and showing sufficient cause for the earlier failure, on the Court's terms as to costs.",
+        "essential_elements": [
+          "Sub-rule (1): mandatory address statement must accompany every pleading, signed per Rule 14.",
+          "Sub-rule (3): the furnished address becomes the \"registered address\", valid for service for two years post-final-determination.",
+          "Sub-rule (4): service at the registered address is treated as valid as though the party actually resided there.",
+          "Sub-rule (5): a false/incomplete/fictitious registered address can trigger stay of the suit (if plaintiff's) or striking out of the defence (if defendant's).",
+          "Sub-rules (6)-(7): the affected party can seek restoration by furnishing the true address and showing sufficient cause, with the Court having discretion on costs and terms.",
+          "Sub-rule (8): preserves the Court's power to direct service at any other address regardless of the registered address."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (8) is itself an express carve-out letting the Court bypass the registered-address regime entirely when it thinks fit, for any reason."
+        ],
+        "how_to_read": "Always double-check the client's registered address statement for accuracy before filing — a false or stale address risks the drastic sanction of stay/striking-out under sub-rule (5), and while sub-rule (7) offers a cure, it comes with costs and delay that are entirely avoidable by getting the address right the first time."
+      }
+    },
+    {
+      "number": "O-VI-15",
+      "title": "Order VI, Rule 15 — Verification of pleadings",
+      "raw_text": "15. Verification of pleadings.—(1) Save as otherwise provided by any law for the time being in force, every pleading shall be verified at the foot by the party or by one of the parties pleading or by some other person proved to the satisfaction of the Court to be acquainted with the facts of the case.\n(2) The person verifying shall specify, by reference to the numbered paragraphs of the pleading, what he verifies of his own knowledge and what he verifies upon information received and believed to be true.\n(3) The verification shall be signed by the person making it and shall state the date on which and the place at which it was signed.\n(4) The person verifying the pleading shall also furnish an affidavit in support of his pleadings.",
+      "key_terms": [
+        "verification",
+        "affidavit",
+        "personal knowledge",
+        "information and belief"
+      ],
+      "breakdown": {
+        "plain_summary": "Every pleading must be verified at its foot — by a party, or by someone proven to the Court's satisfaction to know the facts — specifying paragraph-by-paragraph what is verified from personal knowledge versus what is verified on information believed to be true, signed with date and place, and (by later amendment) backed by a supporting affidavit.",
+        "essential_elements": [
+          "Verification by the party, a co-party, or a knowledgeable person proved to the Court's satisfaction.",
+          "Paragraph-specific split between personal-knowledge verification and information-and-belief verification.",
+          "Signature with date and place of signing.",
+          "Supporting affidavit now mandatory under sub-rule (4)."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (1) itself opens with \"save as otherwise provided by any law for the time being in force\" — special statutes can prescribe their own verification regime overriding this default one.",
+          "Commercial disputes are governed by the stricter Rule 15A Statement-of-Truth regime instead of/in addition to this Rule."
+        ],
+        "how_to_read": "A defectively verified pleading (no paragraph-wise knowledge/belief split, missing affidavit, wrong signatory) is a frequently raised technical objection — verify this checklist before every filing, especially in writ-adjacent or urgent interim-relief matters where verification defects can be fatal to urgency arguments."
+      }
+    },
+    {
+      "number": "O-VI-15A",
+      "title": "Order VI, Rule 15A — Verification of pleadings in a commercial dispute",
+      "raw_text": "*15A. Verification of pleadings in a commercial dispute.— (1) Notwithstanding anything contained in Rule 15, every pleading in a commercial dispute shall be verified by an affidavit in the manner and form prescribed in the Appendix to this Schedule.\n(2) An affidavit under sub-rule (1) above shall be signed by the party or by one of the parties to the proceedings, or by any other person on behalf of such party or parties who is proved to the satisfaction of the Court to be acquainted with the facts of the case and who is duly authorised by such party or parties.\n(3) Where a pleading is amended, the amendments must be verified in the form and manner referred to in sub-rule (1) unless the Court orders otherwise.\n(4) Where a pleading is not verified in the manner provided under sub-rule (1), the party shall not be permitted to rely on such pleading as evidence or any of the matters set out therein.\n(5) The Court may strike out a pleading which is not verified by a Statement of Truth, namely, the affidavit set out in the Appendix to this Schedule.",
+      "key_terms": [
+        "Statement of Truth",
+        "Commercial Courts",
+        "verification",
+        "commercial dispute"
+      ],
+      "breakdown": {
+        "plain_summary": "For commercial disputes, Rule 15A overrides the ordinary verification Rule with a mandatory \"Statement of Truth\" affidavit in the prescribed Appendix form, signed by a party or a duly authorised, knowledgeable person. Amendments must be similarly re-verified unless the Court orders otherwise. Failure to comply means the pleading cannot be relied on as evidence, and the Court may strike it out altogether.",
+        "essential_elements": [
+          "Sub-rule (1): overrides Rule 15 — mandatory prescribed-form Statement of Truth affidavit for every commercial-dispute pleading.",
+          "Sub-rule (2): signed by a party or a duly authorised, knowledgeable person.",
+          "Sub-rule (3): amendments require re-verification in the same form, absent contrary Court order.",
+          "Sub-rule (4): non-compliance bars reliance on the pleading (or its contents) as evidence.",
+          "Sub-rule (5): non-compliant pleadings are liable to be struck out entirely."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (3)'s re-verification requirement can be dispensed with by specific Court order.",
+          "This is a specialised regime applicable only to \"commercial disputes\" as defined under the Commercial Courts Act, 2015 — not to civil suits generally."
+        ],
+        "how_to_read": "In commercial suits, never treat verification as boilerplate — the Statement of Truth in the prescribed Appendix form is a substantive precondition to using the pleading as evidence at all, and a defectively verified commercial plaint or written statement risks being struck out outright under sub-rule (5), a far harsher consequence than under ordinary Rule 15."
+      }
+    },
+    {
+      "number": "O-VI-16",
+      "title": "Order VI, Rule 16 — Striking out pleadings",
+      "raw_text": "16. Striking out pleadings.—The Court may at any stage of the proceedings order to be struck out or amended any matter in any pleading—\n(a) which may be unnecessary, scandalous, frivolous or vexatious, of\n(b) which may tend to prejudice, embarrass or delay the fair trail of the suit, or\n(c) which is otherwise an abuse of the process of the Court.",
+      "key_terms": [
+        "striking out pleadings",
+        "scandalous",
+        "frivolous",
+        "vexatious",
+        "abuse of process"
+      ],
+      "breakdown": {
+        "plain_summary": "At any stage of a suit, the Court can order any matter in a pleading struck out or amended if it is unnecessary, scandalous, frivolous, or vexatious; if it would prejudice, embarrass, or delay a fair trial; or if it otherwise abuses the Court's process.",
+        "essential_elements": [
+          "Available \"at any stage of the proceedings\" — not limited to a preliminary window.",
+          "Three independent grounds: (a) unnecessary/scandalous/frivolous/vexatious matter; (b) matter causing prejudice, embarrassment, or delay to a fair trial; (c) abuse of process.",
+          "Court may order the matter struck out, or simply amended, as appropriate."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a discretionary power (\"may\"), not a mandatory one — the Court weighs whether striking out is warranted rather than being compelled to act on every objectionable averment."
+        ],
+        "how_to_read": "A powerful defensive tool against padded, scandalous, or deliberately embarrassing pleadings (common in matrimonial-adjacent or personal civil disputes) — but courts use this power sparingly, so an application under Rule 16 should target clearly unnecessary or abusive content, not merely unfavourable factual allegations."
+      }
+    },
+    {
+      "number": "O-VI-17",
+      "title": "Order VI, Rule 17 — Amendment of pleadings",
+      "raw_text": "17. Amendment of pleadings.—The Court may at any stage of the proceedings allow either party to alter or amend his pleadings in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties:\nProvided that no application for amendment shall be allowed after the trial has commenced, unless the Court comes to the conclusion that in spite of due diligence, the party could not have raised the matter before the commencement of trial.",
+      "key_terms": [
+        "amendment of pleadings",
+        "due diligence",
+        "real questions in controversy",
+        "post-trial amendment"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court has broad power to let either party amend their pleadings, on just terms, at any stage — but the overriding purpose must be to determine the real questions in controversy between the parties. Once trial has commenced, amendment is barred unless the party shows that, despite due diligence, the matter could not have been raised before trial began.",
+        "essential_elements": [
+          "General power: amendment allowed at any stage, on just terms, for determining the real questions in controversy.",
+          "Restored 2002-amendment proviso: post-trial-commencement amendment barred absent a due-diligence showing that the matter could not have been raised earlier."
+        ],
+        "exceptions_and_qualifications": [
+          "The due-diligence proviso is the key exception/qualification on an otherwise liberal amendment power — courts apply it strictly once trial has genuinely commenced (as opposed to merely being listed)."
+        ],
+        "how_to_read": "Courts of India have repeatedly emphasised (post-2002 amendment) that liberal amendment is the norm before trial begins, but the proviso bites hard afterward — so always seek amendment early, and if forced to seek it after trial commencement, build a specific due-diligence record (why the fact/ground could not have been known or pleaded earlier) rather than a bare request."
+      }
+    },
+    {
+      "number": "O-VI-18",
+      "title": "Order VI, Rule 18 — Failure to amend after Order",
+      "raw_text": "18. Failure to amend after Order.—If a party who has obtained an order for leave to amend does not amend accordingly within the time limited for that purpose by the order, or if no time is thereby limited then within fourteen days from the date of the order, he shall not be permitted to amend after the expiration of such limited time as aforesaid or of such fourteen days, as the case may be, unless the time is extended by the Court.",
+      "key_terms": [
+        "failure to amend",
+        "fourteen days",
+        "extension of time",
+        "leave to amend"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a party obtains leave to amend a pleading, the amendment must actually be carried out within the time fixed by the order, or within 14 days if no time was fixed. Miss that deadline, and the party loses the right to amend unless the Court extends the time.",
+        "essential_elements": [
+          "Deadline is whatever the amendment order specifies, defaulting to 14 days from the order if none is specified.",
+          "Missing the deadline forfeits the leave to amend."
+        ],
+        "exceptions_and_qualifications": [
+          "The Court retains discretion to extend the time even after the default period, preventing an automatic, irreversible forfeiture — but the party must apply for and obtain that extension."
+        ],
+        "how_to_read": "Once leave to amend is granted, calendar the deadline immediately and file the amended pleading well within time (or apply proactively for an extension before the deadline lapses) — letting leave to amend lapse is an avoidable, purely administrative failure that can cost a party a hard-won procedural opportunity."
+      }
     }
   ]
 }
