@@ -21360,6 +21360,654 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "A party aggrieved by an execution-stage order implementing a Supreme Court decree should look to the ordinary Order XLIII/Section 104 appealability analysis for execution orders, not assume some special or heightened threshold applies merely because of the decree's Supreme Court origin."
       }
+    },
+    {
+      "number": "O-XLVI",
+      "title": "Order XLVI — Reference (Overview)",
+      "raw_text": "ORDER XLVI — REFERENCE. Rules 1 to 7 provide a mechanism by which a subordinate Court, entertaining reasonable doubt on a question of law or usage having the force of law arising in a suit, appeal, or execution where the decree is not itself appealable, may refer that question to the High Court for its opinion, rather than deciding it (possibly wrongly) and leaving the error to be corrected only on appeal — which in a non-appealable matter would otherwise be impossible. Separate rules (6 and 7) create an analogous reference mechanism specifically for doubts about Small Cause Court jurisdiction.",
+      "key_terms": [
+        "reference",
+        "High Court",
+        "reasonable doubt",
+        "non-appealable decree",
+        "Section 113"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XLVI is a safety valve for cases that would otherwise fall through the cracks of the appellate system. If a suit or appeal is not appealable (for example, a Small Cause Court suit, or a second appeal already disposed of) and the trial Court genuinely doubts the correct position of law, it can pause and ask the High Court rather than guess. The High Court's answer binds the referring Court, which then finishes the case accordingly. A parallel pair of rules (6, 7) lets a Court unsure whether a matter is a 'Small Cause' at all — or a District Court supervising one — send the jurisdictional question up to the High Court before (or after) the suit proceeds.",
+        "essential_elements": [
+          "This Order substantially tracks Section 113 (which empowers reference to the High Court) and Order XLVI supplies its procedural machinery — the two must be read together.",
+          "Reference is discretionary and is meant for genuine doubt, not a device to get a second opinion on every hard question or to delay proceedings.",
+          "The Court may stay the case or proceed to judgment conditional on the High Court's answer, preserving efficiency while awaiting guidance."
+        ],
+        "exceptions_and_qualifications": [
+          "Reference under Rule 1 is available only where the decree in the suit or appeal is NOT subject to appeal (or the question arises in the execution of such a decree) — if a regular appeal lies, the point can be raised there instead and a reference should not ordinarily be made.",
+          "Rules 6 and 7 deal with a conceptually different, narrower problem: doubt about whether a suit is or is not cognizable by a Court of Small Causes, which can be referred up even before judgment."
+        ],
+        "how_to_read": "Read Rule 1 for when and how a reference is made, Rules 2-5 for what happens procedurally (stay/proceed, the High Court's decision and its transmission back, costs, and the High Court's power to correct the referring Court's decree), and Rules 6-7 for the separate Small-Cause-jurisdiction reference mechanism."
+      }
+    },
+    {
+      "number": "O-XLVI-1",
+      "title": "Order XLVI Rule 1 — Reference of question to High Court",
+      "raw_text": "1. Reference of question to High Court.—Where, before or on the hearing of a suit or an appeal in which the decree is not subject to appeal, or where, in the execution of any such decree, any question of law or usage having the force of law arises, on which the Court trying the suit or appeal, or executing the decree, entertains reasonable doubt, the Court may, either of its own motion or on the application of any of the parties, draw up a statement of the facts of the case and the point on which doubt is entertained, and refer such statement with its own opinion on the point for the decision of the High Court.",
+      "key_terms": [
+        "non-appealable decree",
+        "question of law",
+        "usage having force of law",
+        "reasonable doubt",
+        "statement of the case",
+        "suo motu reference"
+      ],
+      "breakdown": {
+        "plain_summary": "A trial or appellate Court facing a genuinely doubtful point of law or binding usage, in a matter whose eventual decree cannot be appealed, may pause and send a written statement of the facts and the doubtful point — along with its own tentative opinion — up to the High Court for a binding answer, either on its own initiative or at a party's request.",
+        "essential_elements": [
+          "Question of law (or usage having the force of law) arises before or during the hearing of a suit, an appeal, or the execution of a decree.",
+          "The decree in that suit or appeal is not subject to (ordinary) appeal.",
+          "The Court entertains genuine, reasonable doubt on the point.",
+          "The Court draws up a statement of facts and the point of doubt, with its own opinion, and refers it to the High Court.",
+          "Reference may be initiated suo motu or on a party's application."
+        ],
+        "exceptions_and_qualifications": [
+          "The non-appealability condition is central — where an appeal lies, the doubtful point is ordinarily left for the appellate Court rather than referred.",
+          "The Court must include its own opinion on the point, not merely pose the question blank."
+        ],
+        "how_to_read": "Treat 'non-appealable decree' as the gateway condition; if it is not met, a reference under this rule is not competent and the remedy lies in the ordinary appellate process instead."
+      }
+    },
+    {
+      "number": "O-XLVI-2",
+      "title": "Order XLVI Rule 2 — Court may pass decree contingent upon decision of High Court",
+      "raw_text": "2. Court may pass decree contingent upon decision of High Court.—The Court may either stay the proceedings or proceed in the case notwithstanding such reference, and may pass a decree or make an order contingent upon the decision of the High Court on the point referred:\nBut no decree or order shall be executed in any case in which such reference is made until the receipt of a copy of the judgment of the High Court upon the reference.",
+      "key_terms": [
+        "stay of proceedings",
+        "contingent decree",
+        "execution bar"
+      ],
+      "breakdown": {
+        "plain_summary": "Making a reference does not have to freeze the case. The referring Court can either stay the proceedings or carry on and even pass a decree, but that decree is provisional — contingent on how the High Court answers — and critically, it cannot be executed until the High Court's judgment on the reference is actually received.",
+        "essential_elements": [
+          "Court has discretion to stay proceedings or continue despite a pending reference.",
+          "Any decree or order passed pending the reference is contingent on the High Court's decision.",
+          "No execution of such decree or order is permitted until the High Court's judgment copy is received."
+        ],
+        "exceptions_and_qualifications": [
+          "The execution bar is absolute and automatic — it is not left to the Court's discretion the way staying proceedings is."
+        ],
+        "how_to_read": "Distinguish two separate choices: (1) stay vs. proceed (discretionary), and (2) the absolute bar on execution until the High Court's answer comes back (mandatory, regardless of choice (1))."
+      }
+    },
+    {
+      "number": "O-XLVI-3",
+      "title": "Order XLVI Rule 3 — Judgment of High Court to be transmitted and case disposed of accordingly",
+      "raw_text": "3. Judgment of High Court to be transmitted and case disposed of accordingly.—The High Court, after hearing the parties if they appear and desire to be heard, shall decide the point so referred, and shall transmit a copy of its judgment, under the signature of the Registrar, to the Court by which the reference was made; and such Court shall, on the receipt thereof, proceed to dispose of the case in conformity with the decision of the High Court.",
+      "key_terms": [
+        "transmission of judgment",
+        "Registrar's signature",
+        "binding decision",
+        "disposal in conformity"
+      ],
+      "breakdown": {
+        "plain_summary": "The High Court hears the parties (if they choose to appear), decides the referred point, and sends its signed judgment back down to the referring Court, which must then finish the case strictly in line with that decision.",
+        "essential_elements": [
+          "High Court hears parties who appear and wish to be heard (hearing is not mandatory if no one appears).",
+          "High Court decides the point referred.",
+          "Judgment is transmitted under the Registrar's signature to the referring Court.",
+          "Referring Court disposes of the case in conformity with the High Court's decision upon receipt."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the mechanical closing of the loop opened by Rule 1 — the referring Court has no discretion to depart from the High Court's answer once received."
+      }
+    },
+    {
+      "number": "O-XLVI-4",
+      "title": "Order XLVI Rule 4 — Cost of reference to High Court",
+      "raw_text": "4. Cost of reference to High Court.—The costs (if any) consequent on a reference for the decision of the High Court shall be costs in the case.",
+      "key_terms": [
+        "costs in the case"
+      ],
+      "breakdown": {
+        "plain_summary": "Whatever costs are incurred because of the reference are simply folded into the costs of the case as a whole, to be dealt with when costs are finally decided.",
+        "essential_elements": [
+          "Costs of the reference are treated as costs in the case, not as a separate standalone costs order."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short housekeeping rule — no separate costs regime is created for references."
+      }
+    },
+    {
+      "number": "O-XLVI-4A",
+      "title": "Order XLVI Rule 4A — Reference to High Court under proviso to section 113",
+      "raw_text": "4A. Reference to High Court under proviso to section 113.—The provisions of rules 2, 3 and 4 shall apply to any reference by the Court under the proviso to section 113 as they apply to a reference under rule 1; and",
+      "key_terms": [
+        "Section 113 proviso",
+        "constitutional validity reference"
+      ],
+      "breakdown": {
+        "plain_summary": "The procedural machinery of Rules 2, 3, and 4 (stay/contingent decree, transmission and conformity, and costs) is extended to apply equally to references made under the proviso to Section 113 — the special reference a Court must make where it believes a law is ultra vires and no determination on that point has yet been made by the High Court or Supreme Court.",
+        "essential_elements": [
+          "Applies to references under the Section 113 proviso (validity-of-law references), not just ordinary Rule 1 references.",
+          "Rules 2, 3, and 4 apply mutatis mutandis to such references."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a bridging rule ensuring the same transmission/costs/contingent-decree machinery serves both ordinary doubt-of-law references (Rule 1) and the more consequential constitutional-validity references under Section 113's proviso."
+      }
+    },
+    {
+      "number": "O-XLVI-5",
+      "title": "Order XLVI Rule 5 — Power to alter, etc., decree of Court making reference",
+      "raw_text": "5. Power to alter, etc., decree of Court making reference.—Where a case is referred to the High Court under rule 1 or under the proviso to section 113, the High Court may return the case for amendment, and may alter, cancel or set aside any decree or order which the Court making the reference has passed or made in the case out of which the reference arose, and make such order as it thinks fit.",
+      "key_terms": [
+        "power to alter decree",
+        "return for amendment",
+        "High Court's corrective power"
+      ],
+      "breakdown": {
+        "plain_summary": "Beyond merely answering the referred question, the High Court has broad corrective power over the case itself: it may send the case back for amendment, and may alter, cancel, or set aside any decree or order the referring Court already passed, substituting whatever order it thinks proper.",
+        "essential_elements": [
+          "Applies to references under Rule 1 or the Section 113 proviso.",
+          "High Court may return the case for amendment.",
+          "High Court may alter, cancel, or set aside the referring Court's decree or order.",
+          "High Court may make such order as it thinks fit in substitution."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a wide, almost appellate-style corrective power attached to the reference jurisdiction — the High Court is not confined to answering the abstract legal question in the dark."
+      }
+    },
+    {
+      "number": "O-XLVI-6",
+      "title": "Order XLVI Rule 6 — Power to refer to High Court questions as to jurisdiction in small causes",
+      "raw_text": "6. Power to refer to High Court questions as to jurisdiction in small causes.—(1) Where at any time before judgment a Court in which a suit has been instituted doubts whether the suit is cognizable by a Court of Small Causes or is not so cognizable, it may submit the record to the High Court with a statement of its reasons for the doubt as to the nature of the suit.\n(2) On receiving the record and statement, the High Court may order the Court either to proceed with the suit or to return the plaint for presentation to such other Court as it may in its order declare to be competent to take cognizance of the suit.",
+      "key_terms": [
+        "Small Cause Court cognizability",
+        "submission of record",
+        "return of plaint"
+      ],
+      "breakdown": {
+        "plain_summary": "If, before judgment, a Court is unsure whether a suit belongs in a Court of Small Causes (or outside it), it can send the entire record up to the High Court along with its reasons for doubt. The High Court then simply directs either that the suit proceed where it is, or that the plaint be returned for filing in whichever other Court the High Court identifies as the proper (competent) one.",
+        "essential_elements": [
+          "Doubt must arise before judgment.",
+          "Doubt concerns whether the suit is or is not cognizable by a Court of Small Causes.",
+          "Court submits the record with a statement of reasons for the doubt.",
+          "High Court orders either continuation in the same Court or return of plaint for presentation elsewhere."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a jurisdiction-sorting mechanism distinct from the Rule 1 substantive-law reference — it resolves which 'track' (Small Cause or ordinary) a suit belongs on, before time is wasted trying it on the wrong track."
+      }
+    },
+    {
+      "number": "O-XLVI-7",
+      "title": "Order XLVI Rule 7 — Power to District Court to submit for revision proceeding had under mistake as to jurisdiction in small causes",
+      "raw_text": "7. Power to District Court to submit for revision proceeding had under mistake as to jurisdiction in small causes.—(1) Where it appears to a District Court that a Court subordinate thereto has, by reason of erroneously holding a suit to be cognizable by a Court of Small Causes or not to be so cognizable, failed to exercise a jurisdiction vested in it by law, or exercised a jurisdiction not so vested, the District Court may, and if required by a party shall, submit the record to the High Court with a statement of its reasons for considering the opinion of the Subordinate Court with respect to the nature of the suit to be erroneous.\n(2) On receiving the record and statement the High Court may make such order in the case as it thinks fit.\n(3) With respect to any proceedings subsequent to decree in any case submitted to the High Court under this rule, the High Court may make such order as in the circumstance appears to it to be just and proper.\n(4) A Court subordinate to a District Court shall comply with any requisition which the District Court may make for any record or information for the purposes of this rule.",
+      "key_terms": [
+        "District Court's revisional submission",
+        "erroneous jurisdiction classification",
+        "failure to exercise jurisdiction",
+        "post-decree proceedings"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a retrospective correction mechanism: if a District Court notices that a subordinate Court got the Small-Cause classification wrong (and as a result either wrongly refused jurisdiction it had, or wrongly exercised jurisdiction it lacked), the District Court can — and must, if a party asks — send the matter up to the High Court with its reasons. The High Court can then make whatever order is just, including for anything that happened after the decree, and subordinate Courts must cooperate by supplying any record or information the District Court requisitions for this purpose.",
+        "essential_elements": [
+          "District Court perceives an erroneous classification (cognizable vs. not cognizable by Small Causes) by a subordinate Court.",
+          "The error caused either a failure to exercise vested jurisdiction, or exercise of jurisdiction not vested.",
+          "Submission to High Court is discretionary for the District Court on its own motion, but mandatory if a party requires it.",
+          "High Court may make such order as it thinks fit, including as to post-decree proceedings.",
+          "Subordinate Courts must comply with the District Court's requisitions for records/information under this rule."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Compare with Rule 6: Rule 6 is a pre-judgment, self-initiated reference by the trial Court itself; Rule 7 is a post-hoc, District-Court-supervised correction of a subordinate Court's jurisdictional mistake, which can be invoked even after decree and can be party-triggered as of right."
+      }
+    },
+    {
+      "number": "O-XLVII",
+      "title": "Order XLVII — Review (Overview)",
+      "raw_text": "ORDER XLVII — REVIEW. Rules 1 and 3 to 9 govern the application for review of a judgment, decree, or order by the very Court that passed it — a limited, narrow remedy distinct from an appeal, available on specific grounds: discovery of new and important evidence, a mistake or error apparent on the face of the record, or any other sufficient reason. Rule 2 (relating to which Court applications for review were to be made) has been repealed.",
+      "key_terms": [
+        "review",
+        "new and important matter",
+        "error apparent on face of record",
+        "sufficient reason",
+        "self-correction by same Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Review lets the same Court that decided a case take a second look and correct itself, but only in narrow circumstances — it is not a backdoor appeal. A party must show either that crucial evidence has newly come to light (through no fault of their own), or that there is a glaring mistake visible on the face of the record, or some other sufficiently weighty reason. Review is available even where no appeal lies at all, which is precisely why it matters — it is sometimes the only avenue for correcting a mistaken decree or order.",
+        "essential_elements": [
+          "Review is a discretionary, narrow remedy, not a re-hearing on the merits.",
+          "A party who has NOT appealed, or who could not appeal, retains the review option; a party in the middle of an appeal is also not automatically barred, subject to safeguards against double remedies on the same ground.",
+          "Rejection of a review application is not itself appealable, but the grant of one is subject to challenge."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 2, dealing with the forum for review applications, has been repealed by the 1956 Amendment Act and carries no surviving substantive content.",
+          "An Explanation to Rule 1 clarifies that a later overruling decision by a superior Court, on its own, is not grounds for review."
+        ],
+        "how_to_read": "Read Rule 1 for the grounds and who may apply, Rule 3 for form, Rule 4 for the grant/rejection mechanics and their safeguards, Rules 5-6 for which Judge(s) hear it, Rule 7 for appealability, Rule 8 for what happens once granted, and Rule 9 for the absolute bar on reviewing a review."
+      }
+    },
+    {
+      "number": "O-XLVII-1",
+      "title": "Order XLVII Rule 1 — Application for review of judgment",
+      "raw_text": "1. Application for review of judgment.—(1) Any person considering himself aggrieved—\n(a) by a decree or order from which an appeal is allowed, but from which no appeal has been preferred,\n(b) by a decree or order from which no appeal is allowed, or\n(c) by a decision on a reference from a Court of Small Causes,\nand who, from the discovery of new and important matter or evidence which, after the exercise of due diligence was not within his knowledge or could not be produced by him at the time when the decree was passed or order made, or on account of some mistake or error apparent on the face of the record or for any other sufficient reason, desires to obtain a review of the decree passed or order made against him, may apply for a review of judgment to the Court which passed the decree or made the order.\n(2) A party who is not appealing from a decree or order may apply for a review of judgment notwithstanding the pendency of an appeal by some other party except where the ground of such appeal is common to the applicant and the appellant, or when, being respondent, he can present to the Appellate Court the case on which he applied for the review.\n[Explanation.—The fact that the decision on a question of law on which the judgment of the Court is based has been reversed or modified by the subsequent decision of a superior Court in any other case, shall not be a ground for the review of such judgment.]",
+      "key_terms": [
+        "aggrieved person",
+        "appeal not preferred",
+        "non-appealable decree",
+        "Small Cause reference",
+        "new and important matter",
+        "due diligence",
+        "mistake or error apparent on the face of the record",
+        "sufficient reason",
+        "pendency of appeal by another party",
+        "Explanation — subsequent reversal"
+      ],
+      "breakdown": {
+        "plain_summary": "Three categories of aggrieved persons can seek review: (a) someone who could have appealed but didn't, (b) someone who had no appeal available at all, and (c) someone affected by a decision on a Small Cause reference. The grounds are narrow: newly discovered, important evidence that diligence could not have unearthed earlier, a glaring mistake visible on the face of the record, or some other genuinely sufficient reason. A party not themselves appealing can still apply for review even while another party's appeal is pending, unless their review ground overlaps with that appeal or they could simply raise the point as a respondent in that very appeal. Crucially, the Explanation blocks a common trap: if a later, unrelated case overturns the legal principle your judgment relied on, that alone is not a ground for review.",
+        "essential_elements": [
+          "Applicant must be 'aggrieved' by a decree or order within one of the three listed categories (a)-(c).",
+          "Ground must be: newly discovered important matter/evidence (with due diligence shown), OR mistake/error apparent on the face of the record, OR other sufficient reason.",
+          "New evidence must not have been within the applicant's knowledge, or producible by them, at the time of the original decree/order, despite due diligence.",
+          "Application is made to the very Court that passed the decree or made the order.",
+          "A non-appealing party may still apply for review despite a pending appeal by someone else, subject to the stated exceptions."
+        ],
+        "exceptions_and_qualifications": [
+          "No review where the applicant's review ground is common to a pending appeal by another party.",
+          "No review where, as a respondent, the applicant could raise the same case before the Appellate Court instead.",
+          "Explanation: a subsequent reversal/modification of the legal principle by a superior Court's decision in a different case is NOT, by itself, a ground for review."
+        ],
+        "how_to_read": "Treat the three grounds (new evidence, apparent error, sufficient reason) as independently sufficient — only one need be shown. The 'apparent on the face of the record' standard is deliberately narrow: it excludes anything requiring a long process of reasoning or re-argument of the merits."
+      }
+    },
+    {
+      "number": "O-XLVII-3",
+      "title": "Order XLVII Rule 3 — Form of applications for review",
+      "raw_text": "3. Form of applications for review.—The provisions as to the form of preferring appeals shall apply, mutatis mutandis, to applications for review.",
+      "key_terms": [
+        "form of appeal",
+        "mutatis mutandis"
+      ],
+      "breakdown": {
+        "plain_summary": "A review application is formatted the same way an appeal memorandum would be, with necessary adaptations — there is no separate, distinct form prescribed just for review.",
+        "essential_elements": [
+          "The appeal-form rules (Order XLI) apply with necessary modifications to review applications."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A short cross-reference rule; look to Order XLI's form-of-appeal provisions when drafting a review application."
+      }
+    },
+    {
+      "number": "O-XLVII-4",
+      "title": "Order XLVII Rule 4 — Application where rejected",
+      "raw_text": "4. Application where rejected.—(1) Where it appears to the Court that there is not sufficient ground for a review, it shall reject the application.\n(2) Application where granted.—Where the Court is of opinion that the application for review should be granted, it shall grant the same:\nProvided that—\n(a) no such application shall be granted without previous notice to the opposite party, to enable him to appear and be heard in support of the decree or order, a review of which is applied for; and\n(b) no such application shall be granted on the ground of discovery of new matter or evidence which the applicant alleges was not within his knowledge, or could not be adduced by him when the decree or order was passed or made, without strict proof of such allegation.",
+      "key_terms": [
+        "sufficient ground",
+        "rejection",
+        "grant of review",
+        "prior notice to opposite party",
+        "strict proof of new evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "If the Court finds no sufficient ground, it rejects the review application outright. If it finds the application worthy, it may grant it — but only after giving the opposite party notice and a chance to be heard in defence of the original decree, and, where the ground is newly discovered evidence, only on strict proof that the evidence genuinely was unknown or unproducable earlier.",
+        "essential_elements": [
+          "Court assesses sufficiency of ground; insufficient ground results in rejection.",
+          "Grant requires prior notice to the opposite party so they can defend the original decree/order.",
+          "Grant on the ground of newly discovered evidence requires strict proof of the non-availability/non-knowledge allegation."
+        ],
+        "exceptions_and_qualifications": [
+          "The notice requirement before grant is mandatory — a review cannot be granted ex parte against the opposite party's interest."
+        ],
+        "how_to_read": "Rule 4(1) is the rejection gate; Rule 4(2) with its two provisos is the (conditional) grant gate. Both outcomes require the Court to have first examined the sufficiency of the ground under Rule 1."
+      }
+    },
+    {
+      "number": "O-XLVII-5",
+      "title": "Order XLVII Rule 5 — Application for review in Court consisting of two or more Judges",
+      "raw_text": "5. Application for review in Court consisting of two or more Judges.—Where the Judge or Judges, or any one of the Judges, who passed the decree or made the order a review of which is applied for, continues or continued attached to the Court at the time when the application for a review is presented, and is not or not precluded by absence or other cause for a period of six months next after the application from considering the decree or order to which the application refers, such Judge or Judges or any of them shall hear the application, and no other Judge or Judges of the Court shall hear the same.",
+      "key_terms": [
+        "same Judge rule",
+        "six-month availability window",
+        "multi-Judge Court"
+      ],
+      "breakdown": {
+        "plain_summary": "In a Bench of two or more Judges, the review application should, as far as possible, be heard by the very Judge(s) who decided the original matter — provided they are still attached to the Court and will be available (not absent or otherwise unable) within six months of the application. Other Judges are excluded from hearing it in that scenario.",
+        "essential_elements": [
+          "Applies to Courts of two or more Judges.",
+          "The deciding Judge(s) must still be attached to the Court when the review application is made.",
+          "The deciding Judge(s) must not be precluded by absence/other cause from considering it within six months of the application.",
+          "If both conditions hold, only that Judge or those Judges may hear the review — no other Judge of the Court may."
+        ],
+        "exceptions_and_qualifications": [
+          "If the original Judge(s) are unavailable (left the Court, or precluded for the relevant six-month window), the same-Judge rule falls away and Rule 6 (division) becomes relevant for a differently constituted hearing."
+        ],
+        "how_to_read": "This rule's purpose is continuity and informed re-examination — the Judge who decided it is best placed to revisit it — but it yields where that Judge is genuinely unavailable within a reasonable window."
+      }
+    },
+    {
+      "number": "O-XLVII-6",
+      "title": "Order XLVII Rule 6 — Application where rejected",
+      "raw_text": "6. Application where rejected.—(1) Where the application for a review is heard by more than one Judge and the Court is equally divided, the application shall be rejected.\n(2) Where there is a majority, the decision shall be according to the opinion of the majority.",
+      "key_terms": [
+        "equally divided Bench",
+        "majority opinion"
+      ],
+      "breakdown": {
+        "plain_summary": "When a multi-Judge Bench hears a review application and splits evenly, the application is simply deemed rejected. Where there is a majority either way, that majority's view controls the outcome.",
+        "essential_elements": [
+          "Equal division among the hearing Judges results in automatic rejection of the review application.",
+          "A majority opinion (where one exists) determines the outcome."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A tie-breaking default rule specific to review applications — contrast with how equally divided appellate Benches may sometimes be referred to a larger Bench; here the Code simply resolves the tie against the applicant."
+      }
+    },
+    {
+      "number": "O-XLVII-7",
+      "title": "Order XLVII Rule 7 — Order of rejection not appealable. Objections to order granting application",
+      "raw_text": "7. Order of rejection not appealable. Objections to order granting application.—(1) An order of the Court rejecting the application shall not be appealable; but an order granting an application may be objected to at once by an appeal from the order granting the application or in an appeal from the decree or order finally passed or made in the suit.\n(2) Where the application has been rejected in consequence of the failure of the applicant to appear, he may apply for an order to have the rejected application restored to the file, and, where it is proved to the satisfaction of the Court that he was prevented by any sufficient cause from appearing which such application was called on for hearing, the Court shall order it to be restored to the file upon such terms as to costs or otherwise as it thinks fit, and shall appoint a day for hearing the same.\n(3) No order shall be made under sub-rule (2) unless notice of the application has been served on the opposite party.",
+      "key_terms": [
+        "non-appealability of rejection",
+        "appealability of grant",
+        "restoration of dismissed application",
+        "sufficient cause for non-appearance",
+        "notice before restoration"
+      ],
+      "breakdown": {
+        "plain_summary": "An order rejecting a review application cannot be appealed at all. But an order granting one can be challenged — either immediately by appealing that grant order itself, or later by raising it in an appeal from the eventual final decree/order in the suit. Separately, if an application was dismissed merely because the applicant failed to show up, the applicant can seek restoration, and the Court must restore it (on whatever terms as to costs it thinks fit) if satisfied there was sufficient cause for the non-appearance — but only after notice to the opposite party.",
+        "essential_elements": [
+          "Rejection orders: absolutely non-appealable.",
+          "Grant orders: appealable, either directly or within an appeal from the final decree/order.",
+          "Dismissal for non-appearance can be remedied by a restoration application showing sufficient cause.",
+          "Restoration requires prior notice to the opposite party before any order is made."
+        ],
+        "exceptions_and_qualifications": [
+          "The non-appealability of rejection is absolute — no immediate or deferred route exists for a rejected applicant to appeal that specific order (though the underlying decree, if otherwise appealable, remains open to its own appeal on its own merits)."
+        ],
+        "how_to_read": "Note the deliberate asymmetry: rejection of review is final and unappealable (preventing endless satellite litigation over review itself), while grant of review remains subject to challenge because it affects the opposite party's vested rights under the original decree."
+      }
+    },
+    {
+      "number": "O-XLVII-8",
+      "title": "Order XLVII Rule 8 — Registry of application granted, and order for re-hearings",
+      "raw_text": "8. Registry of application granted, and order for re-hearings.—When an application for review is granted, a note thereof shall be made in the register and the Court may at once re-hear the case or make such order in regard to the re-hearing as it thinks fit.",
+      "key_terms": [
+        "registration of grant",
+        "re-hearing"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a review is granted, the Court records that fact in its register and then either re-hears the case immediately or gives directions for how and when the re-hearing will take place.",
+        "essential_elements": [
+          "Grant of review is noted in the register.",
+          "Court may re-hear immediately, or set its own terms/schedule for re-hearing."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A procedural follow-through rule: grant of review is only the gateway — the actual re-examination of the case happens at this re-hearing stage, on whatever terms the Court sets."
+      }
+    },
+    {
+      "number": "O-XLVII-9",
+      "title": "Order XLVII Rule 9 — Bar of certain application",
+      "raw_text": "9. Bar of certain application.—No application to review an order made on an application for a review or a decree or order passed or made on a review shall be entertained.",
+      "key_terms": [
+        "bar on second review",
+        "finality of review decision"
+      ],
+      "breakdown": {
+        "plain_summary": "Review is a one-shot remedy: once the Court has ruled on a review application (whether that order is itself an order on a review application, or a fresh decree/order passed after a successful review), no further application for review of that ruling will be entertained.",
+        "essential_elements": [
+          "No review lies against an order made on a review application.",
+          "No review lies against a decree or order passed/made as the outcome of a review."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This absolute bar prevents an infinite chain of review-upon-review and marks the practical finality point of this remedy."
+      }
+    },
+    {
+      "number": "O-XLVIII",
+      "title": "Order XLVIII — Miscellaneous (Overview)",
+      "raw_text": "ORDER XLVIII — MISCELLANEOUS. Rules 1 to 3 are short, general housekeeping provisions: who bears the expense of serving process, how orders/notices (other than summonses, which have their own detailed scheme) are to be served, and the use of the prescribed Appendix forms throughout the Code.",
+      "key_terms": [
+        "process expense",
+        "service of orders and notices",
+        "appendix forms"
+      ],
+      "breakdown": {
+        "plain_summary": "This brief Order mops up three general administrative points that apply across the whole Code: process is served at the cost of the party who asked for it to be issued (with the court-fee payable up front); any order, notice, or other document the Code requires to be given or served (other than a summons, which already has its own elaborate rules) is served the same way a summons would be; and the various printed forms in the Code's Appendices are to be used (adapted as needed) wherever the Code calls for them.",
+        "essential_elements": [
+          "Covers cost allocation, mode of service for non-summons documents, and use of prescribed forms."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat this as a short cross-referencing Order — Rule 2 in particular imports the summons-service rules (Order V) wholesale for all other orders/notices."
+      }
+    },
+    {
+      "number": "O-XLVIII-1",
+      "title": "Order XLVIII Rule 1 — Process to be served at expense of party issuing",
+      "raw_text": "1. Process to be served at expense of party issuing.—(1) Every process issued under this Code shall be served at the expense of the party on whose behalf it is issued, unless the Court-otherwise directs.\n(2) Costs of service.—The court-fee chargeable for such service shall be paid within a time to be fixed-before the process is issued.",
+      "key_terms": [
+        "process expense",
+        "court-fee for service",
+        "time fixed before issuance"
+      ],
+      "breakdown": {
+        "plain_summary": "Whoever asks the Court to issue a process (summons, notice, warrant, etc.) pays for serving it, unless the Court directs otherwise — and the relevant court-fee for that service must be paid within a time-limit the Court fixes, before the process is even issued.",
+        "essential_elements": [
+          "Default rule: cost of service borne by the party on whose behalf process is issued.",
+          "Court retains discretion to direct otherwise.",
+          "Court-fee for service must be paid within a Court-fixed time, prior to issuance of the process."
+        ],
+        "exceptions_and_qualifications": [
+          "The 'unless the Court otherwise directs' proviso allows departure from the default cost allocation in appropriate cases."
+        ],
+        "how_to_read": "A practical point for practitioners: budget for service costs and court-fees upfront, since payment is a precondition to issuance, not an afterthought."
+      }
+    },
+    {
+      "number": "O-XLVIII-2",
+      "title": "Order XLVIII Rule 2 — Orders and notices how served",
+      "raw_text": "2. Orders and notices how served.—All orders, notices and other documents required by this Code to be given to or served on any person shall be served in the manner provided for the service of summons.",
+      "key_terms": [
+        "manner of service",
+        "incorporation of summons rules"
+      ],
+      "breakdown": {
+        "plain_summary": "Any order, notice, or other document that the Code requires to be given to or served on a person — other than a summons itself — is to be served in exactly the same manner as a summons (i.e., following Order V's detailed service scheme).",
+        "essential_elements": [
+          "All non-summons documents the Code requires to be served follow the summons-service procedure."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A single-sentence incorporation rule — whenever the Code says a notice/order 'shall be served' without specifying how, look to Order V."
+      }
+    },
+    {
+      "number": "O-XLVIII-3",
+      "title": "Order XLVIII Rule 3 — Use of forms in appendices",
+      "raw_text": "3. Use of forms in appendices.—The Forms given in the appendices, with such variation as the circumstances or each case may require, shall be used for the purposes therein mentioned.",
+      "key_terms": [
+        "appendix forms",
+        "variation as circumstances require"
+      ],
+      "breakdown": {
+        "plain_summary": "Wherever the Code's Appendices supply a form for a particular purpose, that form is to be used (with whatever adaptation the specific facts of the case call for) for that purpose.",
+        "essential_elements": [
+          "Prescribed Appendix forms are to be used, varied as the case requires, for their designated purposes."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A drafting-practice rule: start from the Appendix forms as templates rather than drafting pleadings/orders from scratch, adapting only what the facts require."
+      }
+    },
+    {
+      "number": "O-XLIX",
+      "title": "Order XLIX — Chartered High Courts (Overview)",
+      "raw_text": "ORDER XLIX — CHARTERED HIGH COURTS. Rules 1 to 3 make special provision for the Chartered High Courts (the High Courts of Calcutta, Madras, and Bombay, historically established by Royal Charter) in the exercise of their original civil, matrimonial, testamentary, and intestate jurisdictions — covering who may serve process, preserving pre-existing evidence/judgment-recording rules, and disapplying certain ordinary Code provisions that would otherwise conflict with the Chartered High Courts' own established practice.",
+      "key_terms": [
+        "Chartered High Courts",
+        "original civil jurisdiction",
+        "attorneys",
+        "saving of existing rules",
+        "disapplied provisions"
+      ],
+      "breakdown": {
+        "plain_summary": "The three original Chartered High Courts (Calcutta, Madras, Bombay) have long-standing original-side practices (dating to their Charter origins) that differ from the Code's general scheme. This Order carves out room for those practices to continue: attorneys (and persons they employ) may serve most original-side process; pre-existing Chartered High Court rules on evidence-taking and judgment-recording are expressly preserved; and a specific list of ordinary Code provisions (from Orders VII, X, XVI, XVIII, XX, XXXIII, and XLI) is disapplied in the Chartered High Courts' original and appellate civil jurisdiction respectively.",
+        "essential_elements": [
+          "Applies specifically to the three Chartered High Courts in their original civil, matrimonial, testamentary, and intestate jurisdictions.",
+          "Rule 3's disapplication list spans several Orders and should be checked whenever litigating on a Chartered High Court's original side."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 3's carve-out for Order XLI Rule 35 (appellate jurisdiction) is additional and separate from the original-side list."
+        ],
+        "how_to_read": "Mostly relevant to practitioners before the Calcutta, Madras, or Bombay High Courts' original civil side; read Rule 3 carefully as a checklist of what NOT to apply in that specific context."
+      }
+    },
+    {
+      "number": "O-XLIX-1",
+      "title": "Order XLIX Rule 1 — Who may serve processes of High Court",
+      "raw_text": "1. Who may serve processes of High Court.—Notice to produce documents, summonses to witnesses, and every other judical process, issued in the exercise of the original civil jurisdiction of the High Court, and of its matrimonial, testamentary and intestate jurisdictions, except summonses to defendants, writs of execution and notices to respondents may be served by the attorneys in the suits, or by persons employed by them, or by such other persons as the High Court, by any rule or order, directs.",
+      "key_terms": [
+        "attorneys",
+        "service by attorney",
+        "excluded processes"
+      ],
+      "breakdown": {
+        "plain_summary": "On the original civil side (and in matrimonial, testamentary, and intestate matters), most judicial process — notices to produce documents, witness summonses, and the like — may be served by the parties' own attorneys or persons the attorneys employ, or by anyone else the High Court directs by rule or order. The main exceptions, which are NOT covered by this attorney-service option, are summonses to defendants, writs of execution, and notices to respondents.",
+        "essential_elements": [
+          "Applies on the High Court's original civil, matrimonial, testamentary, and intestate jurisdictions.",
+          "Covers notices to produce documents, witness summonses, and other judicial process generally.",
+          "Service may be effected by the suit's attorneys, their employees, or other High-Court-directed persons."
+        ],
+        "exceptions_and_qualifications": [
+          "Summonses to defendants, writs of execution, and notices to respondents are excluded from this attorney-service regime and follow the ordinary (Order V-style) service route instead."
+        ],
+        "how_to_read": "A Chartered-High-Court-specific convenience rule reflecting the historical role of attorneys on the original side — note the carve-out for the three excluded categories of process."
+      }
+    },
+    {
+      "number": "O-XLIX-2",
+      "title": "Order XLIX Rule 2 — Saving in respect of Chartered High Courts",
+      "raw_text": "2. Saving in respect of Chartered High Courts.—Nothing in this Schedule shall be deemed to limit or otherwise affect any rules in force at the commencement of this Code for the taking of evidence or the recording of judgments and orders by a Chartered High Court.",
+      "key_terms": [
+        "saving clause",
+        "pre-existing evidence rules",
+        "judgment recording rules"
+      ],
+      "breakdown": {
+        "plain_summary": "This is a preservation clause: whatever rules a Chartered High Court already had in place, at the time the CPC came into force, for taking evidence or recording judgments and orders, continue unaffected by anything in the First Schedule.",
+        "essential_elements": [
+          "Pre-existing Chartered High Court rules on evidence-taking and judgment/order recording survive the Code's commencement untouched by the Schedule."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A grandfathering provision — do not assume the Code's general evidence/judgment-recording rules automatically override a Chartered High Court's own historical practice in this area."
+      }
+    },
+    {
+      "number": "O-XLIX-3",
+      "title": "Order XLIX Rule 3 — Application of rules",
+      "raw_text": "3. Application of rules.—The following rules shall not apply to any Chartered High Court in the exercise of its ordinary or extraordinary original civil jurisdiction, namely:—\n(1) rule 10 and rule 11, clauses (b) and (c), of Order VII;\n(2) rule 3 of Order X;\n(3) rule 2 of Order XVI;\n(4) rules 5, 6, 8, 9, 10, 11, 13, 14, 15 and 16 (so far as relates to the manner of taking evidence) of Order XVIII;\n(5) rule 1 to 8 of Order XX; and\n(6) rule 7 of Order XXXIII (so far as relates to the making of a memorandum);\nand rule 35 of Order XLI shall not apply to any such High Court in the exercise of its appellate jurisdiction.",
+      "key_terms": [
+        "disapplied rules",
+        "ordinary original civil jurisdiction",
+        "extraordinary original civil jurisdiction",
+        "appellate jurisdiction exclusion"
+      ],
+      "breakdown": {
+        "plain_summary": "A specific checklist of ordinary Code rules that simply do not apply when a Chartered High Court is exercising its original civil jurisdiction (ordinary or extraordinary): certain plaint-return/rejection provisions of Order VII, the examination-of-parties rule of Order X, the commission-for-examination rule of Order XVI, several evidence-related rules of Order XVIII, the judgment-and-decree rules of Order XX (Rules 1-8), and the indigent-person memorandum rule of Order XXXIII. Separately, Order XLI Rule 35 (judgment and decree on appeal) is disapplied when a Chartered High Court sits in its appellate jurisdiction.",
+        "essential_elements": [
+          "Lists six categories of disapplied provisions for original civil jurisdiction (ordinary or extraordinary).",
+          "Separately disapplies Order XLI Rule 35 for appellate jurisdiction."
+        ],
+        "exceptions_and_qualifications": [
+          "The Order XVIII exclusion (item 4) is limited specifically to 'the manner of taking evidence' aspects of those rules.",
+          "The Order XXXIII exclusion (item 6) is limited specifically to 'the making of a memorandum' aspect of Rule 7."
+        ],
+        "how_to_read": "Use this rule as a subtractive checklist: when litigating original-side matters before Calcutta, Madras, or Bombay High Courts, cross off these specific provisions from the otherwise-applicable Code scheme."
+      }
+    },
+    {
+      "number": "O-L",
+      "title": "Order L — Provincial Small Cause Courts (Overview)",
+      "raw_text": "ORDER L — PROVINCIAL SMALL CAUSE COURTS. A single rule excludes Courts constituted under the Provincial Small Cause Courts Act, 1887 (and equivalent local small-cause legislation) from large parts of the First Schedule, listing specific subject-matter exclusions (certain suits and immovable-property/partnership-execution matters, issue-settlement) and a list of specific Orders and Rules (Order II Rule 1, Order X Rule 3, Order XV, Order XVIII Rules 5-12, Orders XLI to XLV, Order XLVII Rules 2/3/5/6/7, and Order LI) that do not extend to such Courts.",
+      "key_terms": [
+        "Provincial Small Cause Courts Act, 1887",
+        "exclusion from Schedule",
+        "subject-matter carve-outs",
+        "excluded Orders and Rules"
+      ],
+      "breakdown": {
+        "plain_summary": "Small Cause Courts constituted under their own specialised Act run on a leaner, faster procedure, so large chunks of the ordinary CPC First Schedule simply do not apply to them. Rule 1 lists both subject-matter exclusions (e.g., suits excepted from Small Cause cognizance, execution against immovable property or a partner's interest, and issue-settlement) and a specific list of excluded Orders/Rules — notably the entire appeal and second-appeal-to-Supreme-Court machinery (Orders XLI-XLV), significant parts of Order XV and Order XVIII, and the Order LI Presidency Small Cause provisions.",
+        "essential_elements": [
+          "This is a broad disapplication provision, not an independent procedural code — Small Cause Courts still use the rest of the CPC's First Schedule not listed as excluded.",
+          "The exclusion of Orders XLI-XLV means ordinary appeals (and the Order XLIV indigent-appeal and Order XLV Supreme-Court-appeal routes) generally do not apply to Small Cause Court decrees — reflecting the summary, low-value nature of such suits."
+        ],
+        "exceptions_and_qualifications": [
+          "The listed exclusions are specific and itemised — a provision not on the list remains applicable to Small Cause Courts even though the overall orientation of this rule is exclusionary."
+        ],
+        "how_to_read": "Treat this as a reverse checklist: for Provincial Small Cause Court matters, first check whether the provision you want to rely on is in this exclusion list before assuming it applies."
+      }
+    },
+    {
+      "number": "O-L-1",
+      "title": "Order L Rule 1 — Provincial Small Cause Courts",
+      "raw_text": "1. Provincial Small Cause Courts.—The provisions hereinafter specified shall not extend to Court constituted under the Provincial Small Cause Courts Act 1887 (9 of 1887) [or under the Berar Small Cause Courts Law, 1905] or to Courts exercising the jurisdiction of a Court of Small Causes [under the said Act or Law] [or to Courts in [any part of India to which the said Act does not extend] exercising a corresponding jurisdiction that is to say—\n(a) so much of this Schedule as relates to—\n(i) suits excepted from the cognizance of a Court of Small Causes or the execution of decrees in such suits;\n(ii) the execution of decrees against immovable property or the interest of a partner in partnership property;\n(iii) the settlement of issues; and\n(b) the following rules and orders:—\nOrder II, rule 1 (frame of suit);\nOrder X, rule 3 (record of examination of parties);\nOrder XV, except so much of rule 4 as provides for the pronouncement at once of judgment;\nOrder XVIII, rule 5 to 12 (evidence);\nOrder XLI, to XLV (appeals);\nOrder XLVII, rules 2, 3, 5, 6, 7 (review);\nOrder LI.",
+      "key_terms": [
+        "excepted suits",
+        "execution against immovable property",
+        "settlement of issues",
+        "frame of suit",
+        "examination of parties",
+        "appeals disapplied",
+        "review disapplied"
+      ],
+      "breakdown": {
+        "plain_summary": "Provincial (and equivalent) Small Cause Courts are carved out from a defined set of First Schedule provisions: subject-matter-wise, the rules on suits excepted from Small Cause cognizance (and execution of decrees in such suits), execution against immovable property or a partnership interest, and issue-settlement do not apply; and specifically, Order II Rule 1 (frame of suit), Order X Rule 3 (recording examination of parties), most of Order XV (except the part of Rule 4 enabling immediate pronouncement of judgment), Order XVIII Rules 5-12 (evidence), the entire appeals scheme of Orders XLI-XLV, most of Order XLVII's review rules, and Order LI (Presidency Small Cause Courts) are all disapplied.",
+        "essential_elements": [
+          "Applies to Courts under the Provincial Small Cause Courts Act 1887, equivalent local laws, and Courts exercising corresponding jurisdiction.",
+          "Excludes specified subject-matter categories (excepted suits/execution, immovable-property/partnership execution, issue-settlement).",
+          "Excludes a specific enumerated list of Orders/Rules, most significantly the entire appellate chain (Orders XLI-XLV)."
+        ],
+        "exceptions_and_qualifications": [
+          "Order XV Rule 4's immediate-judgment-pronouncement portion is specifically NOT excluded — it continues to apply even though the rest of Order XV is disapplied.",
+          "Only Order XLVII Rules 2, 3, 5, 6, 7 are excluded from review — meaning Rules 1, 4, 8, 9 of Order XLVII (the core grounds, grant/rejection mechanics, and bar-on-second-review) remain applicable."
+        ],
+        "how_to_read": "Read this as two layers: a subject-matter exclusion (clause (a)) and a specific rule-by-rule exclusion list (clause (b)) — both must be checked, and note the specific carve-back for Order XV Rule 4's immediate-judgment portion."
+      }
+    },
+    {
+      "number": "O-LI",
+      "title": "Order LI — Presidency Small Cause Courts (Overview)",
+      "raw_text": "ORDER LI — PRESIDENCY SMALL CAUSE COURTS. The final Order of the First Schedule provides that, apart from specifically saved provisions (Order V Rules 22-23, Order XXI Rules 4 and 7, Order XXVI Rule 4) and the Presidency Small Cause Courts Act, 1882 itself, the entire Schedule does not extend to suits or proceedings in the Courts of Small Causes established in Calcutta, Madras, and Bombay.",
+      "key_terms": [
+        "Presidency Small Cause Courts",
+        "Presidency Small Cause Courts Act 1882",
+        "saved provisions"
+      ],
+      "breakdown": {
+        "plain_summary": "The Small Cause Courts of the three Presidency towns (Calcutta, Madras, Bombay) run almost entirely on their own dedicated 1882 Act rather than the CPC's First Schedule — the Schedule is excluded wholesale from their suits and proceedings, except for a short, specifically named list of saved provisions (certain summons/service rules in Order V, certain execution rules in Order XXI, and a commission rule in Order XXVI) which continue to apply even here.",
+        "essential_elements": [
+          "Default position: the First Schedule does NOT apply to Presidency Small Cause Courts at all.",
+          "A narrow, explicitly enumerated set of provisions is saved and continues to apply.",
+          "The Presidency Small Cause Courts Act, 1882 supplies that Court's own procedural code instead."
+        ],
+        "exceptions_and_qualifications": [
+          "The saved provisions are limited to: Order V Rules 22 and 23, Order XXI Rules 4 and 7, and Order XXVI Rule 4 — everything else in the Schedule is excluded."
+        ],
+        "how_to_read": "This is the most sweeping exclusion in the entire First Schedule — remember that Presidency Small Cause Court practice is governed primarily by its own 1882 Act, with only the Order LI-listed CPC provisions bridging across."
+      }
+    },
+    {
+      "number": "O-LI-1",
+      "title": "Order LI Rule 1 — Presidency Small Cause Courts",
+      "raw_text": "1. Presidency Small Cause Courts.—Save as provided in rules 22 and 23 of Order V, rules 4 and 7 of Order XXI, and rule 4 of Order XXVI, and by the Presidency Small Cause Courts Act, 1882 (15 of 1882), this Schedule shall not extend to any suit or proceeding in any Court of Small Causes established in the towns of Calcutta, Madras and Bombay.",
+      "key_terms": [
+        "saved CPC provisions",
+        "Presidency towns",
+        "exclusion of First Schedule"
+      ],
+      "breakdown": {
+        "plain_summary": "Except for the specifically saved provisions — Order V Rules 22 and 23, Order XXI Rules 4 and 7, and Order XXVI Rule 4 — and whatever the Presidency Small Cause Courts Act, 1882 itself provides, none of the CPC's First Schedule applies to suits or proceedings before the Small Cause Courts of Calcutta, Madras, and Bombay.",
+        "essential_elements": [
+          "The general rule is total exclusion of the First Schedule for these three Presidency Small Cause Courts.",
+          "Four specific CPC provisions are saved and continue to apply: Order V Rules 22, 23; Order XXI Rules 4, 7; Order XXVI Rule 4.",
+          "The Presidency Small Cause Courts Act, 1882 is the primary governing procedural statute for these Courts."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This marks the natural closing point of the First Schedule's Orders — Order LI is the last Order, and this rule's sweeping exclusion is a fitting bookend to a Schedule that otherwise painstakingly details ordinary civil procedure."
+      }
     }
   ]
 }
