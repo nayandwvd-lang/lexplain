@@ -17459,6 +17459,398 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "This is a historical-context rule reflecting now largely symbolic drafting caution — in modern practice a married trustee litigates in her own right, and this rule simply confirms her husband need not be separately impleaded absent a specific Court direction."
       }
+    },
+    {
+      "number": "O-XXXII",
+      "title": "Suits by or against Minors and Persons of Unsound Mind — Overview",
+      "raw_text": "ORDER XXXII. Suits by or against minors and persons of unsound mind.",
+      "key_terms": [
+        "next friend",
+        "guardian for the suit",
+        "minor's protection machinery"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXXII builds a comprehensive protective scaffold around minors (and, via Rule 15, persons of unsound mind) in litigation: a minor plaintiff sues through a 'next friend,' a minor defendant is protected by a Court-appointed 'guardian for the suit,' and both roles come with strict controls — no receiving decretal property or compromising without leave, security requirements, removal/retirement procedures, and special rules for what happens when the minor attains majority mid-suit.",
+        "essential_elements": [
+          "Minor plaintiffs sue via a next friend; minor defendants are defended via a Court-appointed guardian for the suit",
+          "Leave of Court is required before the next friend/guardian can receive decretal property or compromise the suit",
+          "Courts actively supervise fitness, adverse interest, security, retirement, and removal of next friends/guardians",
+          "On attaining majority, the former minor must elect to proceed, repudiate, or (if the suit was improper) seek dismissal",
+          "Rule 15 extends almost the entire scheme to persons of unsound mind"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is one of CPC's most protective Orders — treat every procedural shortcut here (leave requirements, security, notice to natural guardians) as substantively important, since a decree obtained in violation of these safeguards is vulnerable to being set aside for prejudice to the minor under Rule 3A."
+      }
+    },
+    {
+      "number": "O-XXXII-1",
+      "title": "Minor to sue by next friend",
+      "raw_text": "Every suit by a minor shall be instituted in his name by a person who in such suit shall be called the next friend of the minor. Explanation.—In this Order, 'minor' means a person who has not attained his majority within the meaning of section 3 of the Indian Majority Act, 1875 where the suit relates to any of the matters mentioned in clauses (a) and (b) of section 2 of that Act or to any other matter.",
+      "key_terms": [
+        "suit instituted in minor's own name",
+        "next friend",
+        "Indian Majority Act Section 3"
+      ],
+      "breakdown": {
+        "plain_summary": "A minor cannot sue in his own capacity — the suit is formally instituted in the minor's name, but conducted by another adult acting as his 'next friend.' 'Minor' here tracks the Indian Majority Act's definition of who has not attained majority, for the relevant category of matters.",
+        "essential_elements": [
+          "The suit is instituted in the minor's own name (not the next friend's name)",
+          "The next friend is the person who actually conducts the litigation on the minor's behalf",
+          "'Minor' status is defined by reference to Section 3, Indian Majority Act, 1875"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the suit's title convention: it reads as the minor's suit 'by [next friend],' not as the next friend's own suit — this affects later amendment on attaining majority under Rule 12."
+      }
+    },
+    {
+      "number": "O-XXXII-2",
+      "title": "Where suit is instituted without next friend, plaint to be taken off the file",
+      "raw_text": "(1) Where a suit is instituted by or on behalf of a minor without a next friend, the defendant may apply to have the plaint taken off the file, with costs to be paid by the pleader or other person by whom it was presented. (2) Notice of such application shall be given to such person, and the Court, after hearing his objections (if any) may make such order in the matter as it thinks fit.",
+      "key_terms": [
+        "plaint taken off file",
+        "costs on the presenting pleader"
+      ],
+      "breakdown": {
+        "plain_summary": "A plaint filed on a minor's behalf without any next friend at all is procedurally defective — the defendant can apply to have it removed from the file, with costs charged personally to the pleader or person who improperly presented it, after giving that person notice and a chance to object.",
+        "essential_elements": [
+          "Applicable where a minor's suit has been instituted with no next friend whatsoever",
+          "Defendant's remedy: application to take the plaint off the file",
+          "Costs fall on the presenting pleader/person, not necessarily the minor",
+          "Notice and an opportunity to object precede the Court's order"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a defect in form, not substance — advise a plaintiff's counsel who filed without naming a next friend to move quickly to cure it, since the penalty (costs) falls personally on the pleader, a real professional exposure."
+      }
+    },
+    {
+      "number": "O-XXXII-2A",
+      "title": "Security to be furnished by next friend when so ordered",
+      "raw_text": "(1) Where a suit has been instituted on behalf of the minor by his next friend, the Court may, at any stage of the suit, either of its own motion or on the application of any defendant, and for reasons to be recorded, order the next friend to give security for the payment of all costs incurred or likely to be incurred by the defendant. (2) Where such a suit is instituted by an indigent person, the security shall include the court-fees payable to the Government. (3) The provisions of rule 2 of Order XXV shall, so far as may be, apply to a suit where the Court makes an order under this rule directing security to be furnished.",
+      "key_terms": [
+        "next friend's security for costs",
+        "indigent-person court-fee inclusion",
+        "Order XXV Rule 2 cross-application"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court can require a next friend to post security for the defendant's costs, at any stage, whether on its own motion or the defendant's application, provided it records reasons. If the minor's suit was filed as an indigent person's suit, the required security must also cover the court-fees the Government would otherwise have collected. The failure-to-furnish consequences mirror Order XXV Rule 2 (the security-for-costs dismissal/restoration machinery).",
+        "essential_elements": [
+          "Security order requires recorded reasons and may be made suo motu or on a defendant's application",
+          "Indigent-person suits: security must also cover Government court-fees",
+          "Order XXV Rule 2's dismissal/restoration mechanics apply, so far as may be, on non-furnishing"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A next friend facing a security order should treat it with the same seriousness as an Order XXV foreign-plaintiff security order — non-compliance carries the same dismissal risk via the cross-applied Order XXV Rule 2 machinery."
+      }
+    },
+    {
+      "number": "O-XXXII-3",
+      "title": "Guardian for the suit to be appointed by Court for minor defendants",
+      "raw_text": "(1) Where the defendant is a minor the Court, on being satisfied of the fact of his minority, shall appoint a proper person to be guardian for the suit for such minor. (2) An order for the appointment of a guardian for the suit may be obtained upon application in the name and on behalf of the minor or by the plaintiff. (3) Such application shall be supported by an affidavit verifying the fact that the proposed guardian has no interest in the matters in controversy in the suit adverse to that of the minor and that he is a fit person to be so appointed. (4) Order shall be made on any application under this rule except upon notice to any guardian of the minor appointed or declared by an authority competent in that behalf, or, where there is no such guardian upon notice to the father or where there is no father, to the mother, or where there is no father or mother, to other natural guardian of the minor, or, where there is no father, mother or other natural guardian, to the person in whose care the minor is, and after hearing any objection which may be urged on behalf of any person served with notice under this sub-rule. (4A) The Court may, in any case, if it thinks fit, issue notice under sub-rule (4) to the minor also. (5) A person appointed under sub-rule (1) to be guardian for the suit for a minor shall, unless his appointment is terminated by retirement, removal or death, continue as such throughout all proceedings arising out of the suit including proceedings in any Appellate or Revisional Court and any proceedings in the execution of a decree.",
+      "key_terms": [
+        "mandatory guardian appointment for minor defendants",
+        "fitness affidavit",
+        "notice to natural guardian hierarchy",
+        "appointment persists through appeal/revision/execution"
+      ],
+      "breakdown": {
+        "plain_summary": "When a defendant is a minor, the Court MUST (not may) appoint a proper guardian for the suit once satisfied of the minority. The application can come from the minor's side or the plaintiff, and must be backed by an affidavit confirming the proposed guardian has no adverse interest and is fit. Critically, no such appointment order can be made without first giving notice up a defined hierarchy — the minor's legally recognised guardian, or (absent one) the father, then the mother, then another natural guardian, then whoever has custody — and hearing any objections. The Court may additionally notice the minor himself. Once appointed, the guardian's role continues throughout the entire litigation lifecycle — trial, appeal, revision, and even execution — unless he retires, is removed, or dies.",
+        "essential_elements": [
+          "Guardian appointment for a minor defendant is mandatory once minority is established",
+          "Application may be made by or on behalf of the minor, or by the plaintiff",
+          "Mandatory supporting affidavit: no adverse interest, fitness of proposed guardian",
+          "Mandatory notice hierarchy before appointment: existing legal guardian > father > mother > other natural guardian > custodian",
+          "Court may additionally notice the minor himself (discretionary)",
+          "Appointment persists through appeal, revision, and execution unless terminated by retirement, removal, or death"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The notice hierarchy in sub-rule (4) is a frequent, serious compliance trap — skipping straight to appointing a guardian without proper notice up this chain is a procedural defect that can undermine the resulting decree's validity against the minor."
+      }
+    },
+    {
+      "number": "O-XXXII-3A",
+      "title": "Decree against minor not to be set aside unless prejudice has been caused to his interest",
+      "raw_text": "(1) No decree passed against a minor shall be set aside merely on the ground that the next friend or guardian for the suit of the minor had an interest in the subject-matter of the suit adverse to that of the minor, but the fact that by reasons of such adverse interest of the next friend or guardian for the suit, prejudice has been caused to the interests of the minor, shall be a ground for setting aside the decree. (2) Nothing in this rule shall preclude the minor from obtaining any relief available under any law by reason of the misconduct or gross negligence on the part of the next friend or guardian for the suit resulting in prejudice to the interests of the minor.",
+      "key_terms": [
+        "adverse interest alone insufficient",
+        "actual prejudice required",
+        "preserved relief for misconduct/negligence"
+      ],
+      "breakdown": {
+        "plain_summary": "Mere proof that the next friend or guardian had some interest adverse to the minor's doesn't automatically unravel the decree — the minor must show actual prejudice flowed from that adverse interest. This prejudice-based standard doesn't foreclose the minor from pursuing other available legal remedies against a next friend/guardian guilty of misconduct or gross negligence that caused prejudice.",
+        "essential_elements": [
+          "Adverse interest alone is NOT a sufficient ground to set aside a decree against a minor",
+          "Actual resulting prejudice to the minor's interests IS a sufficient ground",
+          "The minor retains other legal remedies for misconduct/gross negligence causing prejudice, independent of this rule"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "When challenging a decree against a former minor, build the case around demonstrable prejudice flowing from the adverse interest — a bare showing of adverse interest, without more, will not succeed under this rule's prejudice-first standard."
+      }
+    },
+    {
+      "number": "O-XXXII-4",
+      "title": "Who may act as next friend or be appointed guardian for the suit",
+      "raw_text": "(1) Any person who is of sound mind and has attained majority may act as next friend of a minor or as his guardian for the suit: Provided that the interest of such person is not adverse to that of the minor and that he is not, in the case of a next friend, a defendant, or, in the case of a guardian for the suit, a plaintiff. (2) Where a minor has a guardian appointed or declared by competent authority, no person other than such guardian shall act as the next friend of the minor or be appointed his guardian for the suit unless the Court considers, for reasons to be recorded, that it is for the minor's welfare that another person be permitted to act or be appointed, as the case may be. (3) No person shall without his consent in writing be appointed guardian for the suit. (4) Where there is no other person fit and willing to act as guardian for the suit, the Court may appoint any of its officers to be such guardian, and may direct that the costs to be incurred by such officer in the performance of his duties as such guardian shall be borne either by the parties or by any one or more of the parties to the suit, or out of any fund in Court in which the minor is interested or out of the property of the minor, and may give directions for the repayment or allowance of such costs as justice and the circumstances of the case may require.",
+      "key_terms": [
+        "sound mind and majority requirement",
+        "no adverse interest",
+        "not simultaneously defendant/plaintiff",
+        "pre-existing competent guardian priority",
+        "written consent for guardian for suit",
+        "Court officer as guardian of last resort"
+      ],
+      "breakdown": {
+        "plain_summary": "Eligibility to act as next friend or guardian for the suit requires sound mind, majority, and no interest adverse to the minor — and critically, a next friend cannot simultaneously be a defendant, nor a guardian-for-suit simultaneously be a plaintiff (an obvious conflict-of-interest bar). Where a minor already has a competent-authority-appointed guardian, that guardian gets first priority — any substitute needs the Court's recorded welfare-based justification. A guardian for the suit must give written consent before appointment. As a last resort, with no fit willing person available, the Court can appoint one of its own officers, with costs directed to be borne by the parties, Court funds, or the minor's own property as justice requires.",
+        "essential_elements": [
+          "Basic eligibility: sound mind, majority attained, no adverse interest",
+          "Structural bar: next friend cannot be a defendant; guardian for the suit cannot be a plaintiff",
+          "Priority for a pre-existing competent-authority guardian, displaceable only by recorded welfare reasons",
+          "Guardian for the suit requires written consent",
+          "Last-resort Court-officer appointment, with flexible cost allocation directions"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The structural bar in the proviso to sub-rule (1) is easy to miss in practice — double-check that a proposed next friend isn't also named as a co-defendant, and that a proposed guardian for the suit isn't also a co-plaintiff, before finalising the appointment application."
+      }
+    },
+    {
+      "number": "O-XXXII-5",
+      "title": "Representation of minor by next friend or guardian for the suit",
+      "raw_text": "(1) Every application to the Court on behalf of a minor, other than an application under rule 10, sub-rule (2), shall be made by his next friend or by his guardian for the suit. (2) Every order made in a suit or on any application, before the Court in or which a minor is in any way concerned or affected, without such minor being represented by a next friend or guardian for the suit, as the case may be, may be discharged, and, where the pleader of the party at whose instance such order was obtained knew, or might reasonably have known, the fact of such minority, with costs to be paid by such pleader.",
+      "key_terms": [
+        "mandatory next friend/guardian channel",
+        "discharge of unrepresented orders",
+        "costs against knowing pleader"
+      ],
+      "breakdown": {
+        "plain_summary": "With a narrow exception for Rule 10(2) applications, every application made on a minor's behalf must go through his next friend or guardian for the suit — there's no direct route around this representative. Any order affecting a minor who wasn't properly represented is vulnerable to being discharged, and if the pleader who obtained it knew (or should reasonably have known) about the minority, that pleader personally bears the costs.",
+        "essential_elements": [
+          "Default channel for all minor-related applications: next friend or guardian for the suit",
+          "Narrow exception: Rule 10, sub-rule (2) applications",
+          "Orders obtained without proper minor representation are liable to be discharged",
+          "Personal costs liability falls on a pleader who knew or should have known of the minority"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A pleader who obtains an order against or on behalf of an apparently-minor party without ensuring proper next-friend/guardian representation faces personal costs exposure — this is a real professional-responsibility risk, not merely a technical procedural point."
+      }
+    },
+    {
+      "number": "O-XXXII-6",
+      "title": "Receipt by next friend or guardian for the suit of property under decree for minor",
+      "raw_text": "(1) A next friend or guardian for the suit shall not, without the leave of the Court, receive any money or other movable property on behalf of a minor either— (a) by way of compromise before decree or order, or (b) under a decree or order in favour of the minor. (2) Where the next friend or guardian for the suit has not been appointed or declared by competent authority to be guardian of the property of the minor, or, having been so appointed or declared, is under any disability known to the Court to receive the money or other movable property, the Court shall, if it grants him leave to receive the property, require such security and give such directions as will, in its opinion, sufficiently protect the property from waste and ensure its proper application: Provided that the Court may, for reasons to be recorded, dispense with such security while granting leave to the next friend or guardian for the suit to receive money or other movable property under a decree or order, where such next friend or guardian— (a) is the manager of a Hindu undivided family and the decree or order relates to the property or business of the family; or (b) is the parent of the minor.",
+      "key_terms": [
+        "leave required to receive decretal property",
+        "security to prevent waste",
+        "HUF-manager and parent security exemption"
+      ],
+      "breakdown": {
+        "plain_summary": "A next friend or guardian cannot simply pocket money or movable property due to a minor — whether via a pre-decree compromise or a post-decree award — without the Court's specific leave. If that person isn't already a recognised property guardian (or has some known disability), the Court granting leave must also impose security and protective directions against waste. Two common-sense exemptions from the security requirement exist: where the next friend/guardian is a Hindu undivided family manager handling family property/business, or is simply the minor's own parent — in these cases, the Court can dispense with security for recorded reasons.",
+        "essential_elements": [
+          "Leave of Court is mandatory before receiving money/movable property for a minor, whether via compromise or decree/order",
+          "Where the recipient isn't an established property guardian (or has a known disability), security and protective directions are required as a condition of leave",
+          "Security may be dispensed with, for recorded reasons, where the recipient is an HUF manager (family property/business) or the minor's own parent"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Before a next friend accepts settlement money on a minor's behalf, secure the Court's leave first — receiving funds without it is a procedural (and potentially professional) misstep, even if the money is genuinely intended for the minor's benefit."
+      }
+    },
+    {
+      "number": "O-XXXII-7",
+      "title": "Agreement or compromise by next friend or guardian for the suit",
+      "raw_text": "(1) No next friend or guardian for the suit shall, without the leave of the Court, expressly recorded in the proceedings, enter into any agreement or compromise on behalf of a minor with reference to the suit in which he acts as next friend or guardian. (1A) An application for leave under sub-rule (1) shall be accompanied by an affidavit of the next friend or the guardian for the suit, as the case may be, and also, if the minor is represented by a pleader, by the certificate of the pleader, to the effect that the agreement or compromise proposed is, in his opinion, for the benefit of the minor: Provided that the opinion so expressed, whether in the affidavit or in the certificate shall not preclude the Court from examining whether the agreement or compromise proposed is, for the benefit of the minor. (2) Any such agreement or compromise entered into without the leave of the Court so recorded shall be voidable against all parties other than the minor.",
+      "key_terms": [
+        "expressly recorded leave required",
+        "affidavit plus pleader's benefit certificate",
+        "Court's independent benefit scrutiny",
+        "voidable against non-minor parties"
+      ],
+      "breakdown": {
+        "plain_summary": "A settlement involving a minor is subject to tight control: no compromise can be entered on a minor's behalf without the Court's leave, and that leave must be expressly recorded in the proceedings (not merely implied). The leave application needs both the next friend/guardian's affidavit and — if the minor has a pleader — that pleader's certificate, both affirming the settlement benefits the minor. But these affirmations don't bind the Court, which independently examines whether the compromise genuinely benefits the minor. A compromise made without this recorded leave is voidable — but only against the parties other than the minor, meaning the minor himself can still choose to hold the other side to the bargain if he wishes.",
+        "essential_elements": [
+          "Court leave for a minor's compromise must be expressly recorded, not inferred",
+          "Leave application requires an affidavit and (if the minor has a pleader) a benefit certificate",
+          "The Court retains independent power to scrutinise benefit regardless of the affidavit/certificate's content",
+          "An unauthorised compromise is voidable against all parties except the minor himself"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The asymmetric voidability in sub-rule (2) is a powerful protection worth remembering — a minor stuck with a bad unauthorised settlement can simply disown it, while retaining the option to enforce it against the other side if it later turns out to be favourable."
+      }
+    },
+    {
+      "number": "O-XXXII-8",
+      "title": "Retirement of next friend",
+      "raw_text": "(1) Unless otherwise ordered by the Court, a next friend shall not retire without first procuring a fit person to be put in this place and giving security for the costs already incurred. (2) The application for the appointment of a new next friend shall be supported by an affidavit showing the fitness of the person proposed and also that he has no interest adverse to that of the minor.",
+      "key_terms": [
+        "retirement conditioned on replacement",
+        "security for incurred costs",
+        "fitness affidavit for replacement"
+      ],
+      "breakdown": {
+        "plain_summary": "A next friend can't simply walk away — absent a contrary Court order, he must first line up a fit replacement and secure the costs already run up in the suit. The replacement application needs an affidavit establishing the new candidate's fitness and absence of adverse interest.",
+        "essential_elements": [
+          "Retirement is conditioned on procuring a fit replacement and securing already-incurred costs, unless the Court orders otherwise",
+          "Replacement application requires a fitness-and-no-adverse-interest affidavit"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A next friend wishing to exit mid-suit should plan ahead — simply ceasing to act without lining up a successor and addressing costs security leaves the minor's representation in limbo and the outgoing next friend exposed."
+      }
+    },
+    {
+      "number": "O-XXXII-9",
+      "title": "Removal of next friend",
+      "raw_text": "(1) Where the interest of the next friend of a minor is adverse to that of the minor or where he is so connected with a defendant whose interest is adverse to that of the minor as to make it unlikely that the minor's interest will be properly protected by him, or where he does not do his duty, or, during the pendency of the suit, ceases to reside within India, or for any other sufficient cause, application, may be made on behalf of the minor or by a defendant for his removal; and the Court, if satisfied of the sufficiency of the cause assigned, may order the next friend to be removed accordingly, and make such other order as to costs as it thinks fit. (2) Where the next friend is not a guardian appointed or declared by an authority competent in this behalf, and an application is made by a guardian so appointed or declared, who desires to be himself appointed in the place of the next friend, the Court shall remove the next friend unless it considers, for reasons to be recorded by it, that the guardian ought not to be appointed the next friend of the minor, and shall thereupon appoint the applicant to be next friend in his place upon such terms as to the costs already incurred in the suit as it thinks fit.",
+      "key_terms": [
+        "removal grounds",
+        "competent-authority guardian's near-automatic substitution right",
+        "sufficient cause standard"
+      ],
+      "breakdown": {
+        "plain_summary": "Several grounds justify removing a next friend: adverse interest, suspicious closeness to an adverse-interest defendant, dereliction of duty, ceasing to reside in India during the suit, or any other sufficient cause — on application by the minor's side or a defendant. Separately, if a competent-authority-appointed guardian applies to take over as next friend from a non-guardian next friend, the Court must grant it unless it has recorded reasons for declining — effectively giving the proper legal guardian a near-automatic substitution right.",
+        "essential_elements": [
+          "Removal grounds: adverse interest, suspect connection to an adverse defendant, dereliction of duty, ceasing India residence, or other sufficient cause",
+          "Application may come from the minor's side or a defendant",
+          "Competent-authority guardian's substitution application succeeds by default, absent recorded reasons against it"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A properly appointed legal guardian seeking to displace an ad hoc next friend has a strong, near-default right under sub-rule (2) — frame such an application around this presumption rather than treating it as an ordinary discretionary removal application."
+      }
+    },
+    {
+      "number": "O-XXXII-10",
+      "title": "Stay of proceedings on removal, etc., of next friend",
+      "raw_text": "(1) On the retirement, removal or death of the next friend of a minor, further proceedings shall be stayed until the appointment of a next friend in his place. (2) Where the pleader of such minor omits, within a reasonable time, to take steps to get a new next friend appointed, any person interested in the minor or in the matter in issue may apply to the Court for the appointment of one, and the Court may appoint such person as it thinks fit.",
+      "key_terms": [
+        "automatic stay",
+        "backstop appointment by interested person"
+      ],
+      "breakdown": {
+        "plain_summary": "The moment a next friend retires, is removed, or dies, the suit automatically freezes until a replacement is appointed — the minor is never left unrepresented mid-proceeding. If the minor's own pleader drags his feet on securing a replacement, any interested person (not just the pleader) can step in and ask the Court to appoint one.",
+        "essential_elements": [
+          "Automatic stay of proceedings upon the next friend's retirement, removal, or death",
+          "Stay lifts only upon appointment of a replacement next friend",
+          "Backstop: any interested person may apply for a new appointment if the pleader delays unreasonably"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This automatic stay is self-executing — no separate stay application is needed the moment a next friend vacancy arises; the practical task is simply securing the replacement promptly."
+      }
+    },
+    {
+      "number": "O-XXXII-11",
+      "title": "Retirement, removal or death of guardian for the suit",
+      "raw_text": "(1) Where the guardian for the suit desires to retire or does not do his duty, or where other sufficient ground is made to appear, the Court may permit such guardian to retire or may remove him, and may make such order as to costs as it thinks fit. (2) Where the guardian for the suit, retires, dies or is removed by the Court during the pendency of the suit, the Court shall appoint a new guardian in his place.",
+      "key_terms": [
+        "guardian's retirement/removal grounds",
+        "mandatory replacement appointment"
+      ],
+      "breakdown": {
+        "plain_summary": "The mirror-image rule for a minor defendant's guardian: the Court can permit retirement, or remove him for dereliction of duty or other sufficient ground. Whatever the cause of vacancy — retirement, death, or removal — the Court must appoint a replacement guardian during the suit's pendency.",
+        "essential_elements": [
+          "Grounds for retirement/removal: guardian's own wish, dereliction of duty, or other sufficient ground",
+          "Replacement appointment is mandatory upon any vacancy during pendency"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Unlike the next friend's Rule 8 self-help replacement-procurement duty, here it's the Court itself that must appoint the new guardian — the mechanics differ slightly between the plaintiff-side and defendant-side representative roles."
+      }
+    },
+    {
+      "number": "O-XXXII-12",
+      "title": "Course to be followed by minor plaintiff or applicant on attaining majority",
+      "raw_text": "(1) A minor plaintiff or a minor not a party to a suit on whose behalf an application is pending shall, on attaining majority, elect whether he will proceed with the suit or application. (2) Where lie elects to proceed with the suit or application, he shall apply for an order discharging the next friend and for leave to proceed in his own name. (3) The title of the suit or application shall in such case be corrected so as to read henceforth thus: 'A.B., late a minor by C.D., his next friend, but now having attained majority.'. (4) Where he elects to abandon the suit or application, he shall, if a sole plaintiff or sole applicant, apply for an order to dismiss the suit or application on repayment of the costs incurred by the defendant or opposite party or which may have been paid by his next friend. (5) Any application under this rule may be made ex parte but no order discharging a next friend and permitting a minor plaintiff to proceed in his own name shall be made without notice to the next friend.",
+      "key_terms": [
+        "election on majority",
+        "discharge of next friend",
+        "corrected cause title",
+        "abandonment with cost repayment",
+        "notice to next friend for discharge"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a minor plaintiff turns 18 (or the applicable majority age), he must actively choose: continue the suit, or abandon it. To continue, he applies to discharge the next friend and proceed personally, triggering a specific cause-title correction formula ('A.B., late a minor by C.D., his next friend, but now having attained majority'). To abandon (if he's the sole plaintiff/applicant), he must seek dismissal, repaying costs incurred by the opposing side or already paid by his next friend. While these applications can be made ex parte, discharging the next friend specifically requires giving that next friend notice first.",
+        "essential_elements": [
+          "Election duty arises upon attaining majority: proceed or abandon",
+          "Proceeding: discharge next friend application + leave to proceed in own name, with a specific corrected cause-title formula",
+          "Abandoning (sole plaintiff/applicant): dismissal application with cost repayment to the defendant/opposite party and/or the next friend",
+          "Discharge-of-next-friend orders require notice to the next friend, even though other Rule 12 applications may be ex parte"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Track the majority date carefully in a pending minor's suit — failing to formally elect and correct the cause title under Rule 12 leaves the suit's procedural posture ambiguous and can be exploited by the opposing side."
+      }
+    },
+    {
+      "number": "O-XXXII-13",
+      "title": "Where minor co-plaintiff attaining majority desires to repudiate suit",
+      "raw_text": "(1) Where a minor co-plaintiff on attaining majority desires to repudiate the suit, he shall apply to have his name struck out as co-plaintiff; and the Court, if it finds that he is not a necessary party, shall dismiss him from the suit on such terms as to costs or otherwise as it thinks fit. (2) Notice of the application shall be served on the next friend, on any co-plaintiff and on the defendant. (3) The costs of all parties of such application, and of all or any proceedings theretofore had in the suit, shall be paid by such persons as the Court directs. (4) Where the applicant is a necessary party to the suit, the Court may direct him to be made a defendant.",
+      "key_terms": [
+        "co-plaintiff repudiation",
+        "necessary-party test",
+        "conversion to defendant"
+      ],
+      "breakdown": {
+        "plain_summary": "A co-plaintiff (not the sole plaintiff) who was a minor and wants out after attaining majority applies to be struck off. If the Court finds he's not actually a necessary party, he's dismissed from the suit on whatever cost terms the Court sets, after notice to the next friend, co-plaintiffs, and the defendant. But if he IS a necessary party, the Court doesn't simply let him walk away — it can instead realign him as a defendant, recognising that his presence in the litigation is structurally required even if he no longer wants to be a plaintiff.",
+        "essential_elements": [
+          "Applies specifically to a co-plaintiff (distinct from Rule 12's sole-plaintiff abandonment)",
+          "Dismissal from the suit is conditioned on the Court finding he's not a necessary party",
+          "Mandatory notice to the next friend, co-plaintiffs, and the defendant",
+          "If he IS a necessary party, the Court may instead convert him into a defendant rather than releasing him entirely"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Distinguish this from Rule 12 by checking whether the repudiating former minor is a sole or a co-plaintiff — the necessary-party test and defendant-conversion option are specific to the co-plaintiff scenario under Rule 13."
+      }
+    },
+    {
+      "number": "O-XXXII-14",
+      "title": "Unreasonable or improper suit",
+      "raw_text": "(1) A minor on attaining majority may, if a sole plaintiff, apply that a suit instituted in his name by his next friend be dismissed on the ground that it was unreasonable or improper. (2) Notice of the application shall be served on all the parties concerned; and the Court, upon being satisfied of such unreasonableness or impropriety, may grant the application and order the next friend to pay the costs of all parties in respect of the application and of anything done in the suit, or make such other order as it thinks fit.",
+      "key_terms": [
+        "ex-minor challenging the suit itself",
+        "next friend's personal costs liability"
+      ],
+      "breakdown": {
+        "plain_summary": "A former minor, now of age and the sole plaintiff, can go further than merely abandoning the suit — he can affirmatively challenge that the suit should never have been brought at all, as unreasonable or improper, and seek its dismissal on that basis. If the Court agrees after notice to all concerned, it can make the next friend personally pay everyone's costs — a real consequence for next friends who initiated ill-conceived litigation.",
+        "essential_elements": [
+          "Available to a former minor, now of age, who was the sole plaintiff",
+          "Ground: the suit itself was unreasonable or improper (not merely no longer wanted)",
+          "Mandatory notice to all concerned parties",
+          "Consequence of success: next friend may be ordered to personally pay all parties' costs"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This rule is the minor's ultimate check on a next friend who litigated recklessly or against the minor's real interests — the personal costs exposure for the next friend is a meaningful deterrent worth citing where a next friend pursued a genuinely ill-advised suit."
+      }
+    },
+    {
+      "number": "O-XXXII-15",
+      "title": "Rules 1 to 14 (except rule 2A) to apply to persons of unsound mind",
+      "raw_text": "Rules 1 to 14 (except rule 2A) shall, so far as may be, apply to persons adjudged, before or during the pendency of the suit, to be of unsound mind and shall also apply to persons who, though not so adjudged, are found by the Court on enquiry to be incapable, by reason of any mental infirmity, of protecting their interest when suing being sued.",
+      "key_terms": [
+        "unsound mind extension",
+        "formally adjudged or Court-found incapacity",
+        "Rule 2A specifically excluded"
+      ],
+      "breakdown": {
+        "plain_summary": "Nearly the entire minor-protection scheme (Rules 1-14) extends to persons of unsound mind — whether formally adjudged so by a competent process, or simply found by the Court on its own enquiry to be mentally incapable of protecting their own litigation interests. The one carve-out: Rule 2A's security-for-costs provision for next friends does NOT extend to persons of unsound mind.",
+        "essential_elements": [
+          "Extension covers both formally adjudged unsound-mind persons and Court-found mentally incapable persons (even without formal adjudication)",
+          "Rules 1-14 apply 'so far as may be' — adapted, not mechanically identical",
+          "Rule 2A (next friend's security for costs) is specifically excluded from this extension"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note that Court-found incapacity (without any formal prior adjudication) is sufficient to trigger this Order's protections — counsel shouldn't assume a formal unsoundness adjudication is a precondition for invoking next-friend/guardian protections for a mentally incapable litigant."
+      }
+    },
+    {
+      "number": "O-XXXII-16",
+      "title": "Savings",
+      "raw_text": "(1) Nothing contained in this Order shall apply to the Ruler of a foreign State suing or being sued in the name of his State, or being sued by the direction of the Central Government in the name of an agent or in any other name. (2) Nothing contained in this Order shall be construed as affecting or in any way derogating from the provisions of any local law for the time being in force relating to suits by or against minors or by or against lunatics or other persons of unsound mind.",
+      "key_terms": [
+        "foreign Ruler exemption",
+        "local law preserved"
+      ],
+      "breakdown": {
+        "plain_summary": "Two carve-outs close this Order: it doesn't apply to a foreign Ruler litigating in his State's name (or sued via an agent as directed by the Central Government), and it doesn't override any special local law already governing suits by/against minors or unsound-mind persons — this Order supplements, rather than displaces, such local special legislation.",
+        "essential_elements": [
+          "Exemption for a foreign Ruler suing/being sued in his State's name or via a Central-Government-directed agent",
+          "Preservation of existing local laws specific to minor/unsound-mind litigation"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always check for applicable special local legislation on minors/unsound-mind litigants before assuming Order XXXII is the complete and exclusive code — Rule 16(2) expressly preserves such local law."
+      }
     }
   ]
 }
