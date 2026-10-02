@@ -18468,6 +18468,380 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "This is the Code's broader legal-aid enabling provision, complementing the narrower Rule 9A Court-assigned-pleader mechanism — in practice, both now operate alongside the Legal Services Authorities Act, 1987 framework."
       }
+    },
+    {
+      "number": "O-XXXIV",
+      "title": "Suits relating to Mortgages of Immovable Property — Overview",
+      "raw_text": "ORDER XXXIV. Suits relating to mortgages of immovable property.",
+      "key_terms": [
+        "foreclosure suit",
+        "redemption suit",
+        "suit for sale",
+        "preliminary decree",
+        "final decree",
+        "mortgage account"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXXIV is the Code's comprehensive machinery for mortgage litigation — foreclosure, sale, and redemption suits. Its structural hallmark is the two-stage decree: a preliminary decree that takes the mortgage account and fixes a redemption/payment deadline, followed (only if that deadline passes unmet, or conversely if payment is made) by a final decree that either closes out the mortgagor's rights (foreclosure/sale) or restores the property (redemption). It also covers joinder of interested parties, costs and interest computation, sale of property subject to a prior mortgage, and the mandatory-suit rule for bringing mortgaged property to sale after a money decree.",
+        "essential_elements": [
+          "Two-stage decree structure: preliminary decree (account-taking, deadline-fixing) then final decree (foreclosure/sale/redemption completion)",
+          "Separate rule-sets mirror each other for foreclosure suits (Rules 2-3), suits for sale (Rules 4-6), and redemption suits (Rules 7-9)",
+          "All persons interested in the mortgage-security or the right of redemption must be joined, subject to the puisne/prior mortgagee joinder Explanation in Rule 1",
+          "Costs (Rule 10), mesne profits on tender (Rule 10A), and interest computation (Rule 11) rules apply across suit types",
+          "Rule 14 bars bringing mortgaged property to sale except via a fresh suit for sale, overriding Order II Rule 2's claim-splitting bar",
+          "Rule 15 extends the Order to deposit-of-title-deeds mortgages and Section 100 charges"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This Order is dense, cross-referential mortgage-law machinery — always identify which of the three suit types (foreclosure, sale, redemption) is in play first, since the preliminary/final decree mechanics differ materially between them, then layer in the costs/interest/prior-mortgage rules that apply across all three."
+      }
+    },
+    {
+      "number": "O-XXXIV-1",
+      "title": "Parties to suits for foreclosure, sale and redemption",
+      "raw_text": "Subject to the provisions of this Code, all persons having an interest either in the mortgage-security or in the right of redemption shall be joined as parties to any suit relating to the mortgage. Explanation.—A puisne mortgagee may sue for foreclosure or for sale without making the prior mortgagee a party to the suit; and a prior mortgagee need not be joined in a suit to redeem a subsequent mortgage.",
+      "key_terms": [
+        "interest in mortgage-security",
+        "interest in right of redemption",
+        "puisne mortgagee",
+        "prior mortgagee non-joinder"
+      ],
+      "breakdown": {
+        "plain_summary": "All persons with an interest in either the mortgage-security itself or the right of redemption must be joined as parties to a mortgage suit — ensuring a single comprehensive adjudication. The Explanation carves out two practical exceptions: a junior (puisne) mortgagee suing for foreclosure or sale need not join the prior (senior) mortgagee, and a prior mortgagee need not be joined in a suit to redeem a later, subsequent mortgage.",
+        "essential_elements": [
+          "Default: join all persons interested in the mortgage-security or the right of redemption",
+          "Explanation exception 1: puisne mortgagee's foreclosure/sale suit need not join the prior mortgagee",
+          "Explanation exception 2: prior mortgagee need not be joined in a suit to redeem a subsequent mortgage"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Check mortgage priority carefully before objecting to non-joinder — the Explanation's two carve-outs are narrow and priority-specific, so a differently-ranked mortgagee's non-joinder may still be fatal outside these exact scenarios."
+      }
+    },
+    {
+      "number": "O-XXXIV-2",
+      "title": "Preliminary decree in foreclosure suit",
+      "raw_text": "(1) In a suit for foreclosure, if the plaintiff succeeds, the Court shall pass a preliminary decree— (a) ordering that an account be taken of what was due to the plaintiff at the date of such decree for principal and interest on the mortgage, costs of suit awarded to him, and other costs, charges and expenses properly incurred by him up to that date in respect of his mortgage-security, together with interest thereon; or (b) declaring the amount so due at that date; and (c) directing that, if the defendant pays into Court the amount so found or declared due on or before a date fixed by the Court within six months from confirmation of the account or declaration of the amount, and thereafter pays subsequent costs/charges/expenses and interest as provided in rules 10 and 11, the plaintiff shall deliver up all documents relating to the mortgaged property, re-transfer the property free from the mortgage and incumbrances, and put the defendant in possession if necessary; and that, if payment is not made within the fixed time, the plaintiff shall be entitled to apply for a final decree debarring the defendant from all right to redeem the property. (2) The Court may, on good cause shown and upon terms fixed by it, extend the time fixed for payment at any time before a final decree is passed. (3) Where subsequent mortgagees or persons deriving title from or subrogated to such mortgagees are joined as parties, the preliminary decree shall provide for adjudication of the parties' respective rights and liabilities per the prescribed Forms.",
+      "key_terms": [
+        "account-taking",
+        "six-month redemption window",
+        "right to apply for final decree debarring redemption",
+        "time extension on good cause",
+        "subsequent mortgagee adjudication"
+      ],
+      "breakdown": {
+        "plain_summary": "A successful foreclosure plaintiff first gets a preliminary decree, not an immediate foreclosure — the Court orders an account taken (or the amount declared) and fixes a deadline, within six months of account confirmation, by which the defendant can pay off the mortgage debt plus costs/interest to redeem and reclaim clear title. If the defendant pays in time, the plaintiff must hand back documents, re-transfer the property free of encumbrances, and restore possession. If the defendant misses the deadline, the plaintiff becomes entitled to apply for a final decree that permanently debars the defendant's redemption right. The Court retains discretion to extend the payment deadline on good cause, and where junior mortgagees are joined, the decree must also adjudicate their respective rights.",
+        "essential_elements": [
+          "Sub-rule (1)(a)/(b): account taken or amount declared due as of decree date",
+          "Sub-rule (1)(c)(i): payment deadline within 6 months of account confirmation/declaration, triggering document delivery and re-transfer on timely payment",
+          "Sub-rule (1)(c)(ii): missed deadline entitles plaintiff to apply for a final decree debarring redemption",
+          "Sub-rule (2): Court may extend the payment deadline on good cause, on its own terms, any time before the final decree",
+          "Sub-rule (3): joined subsequent mortgagees' rights/liabilities adjudicated per prescribed Forms"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The six-month minimum redemption window is a statutory protection for mortgagors — a preliminary decree fixing a shorter period, or omitting the extension mechanism, is vulnerable to challenge; always check whether a Rule 2(2) extension application is warranted before a final decree is sought."
+      }
+    },
+    {
+      "number": "O-XXXIV-3",
+      "title": "Final decree in foreclosure suit",
+      "raw_text": "(1) Where, before a final decree debarring redemption has been passed, the defendant pays into Court all amounts due under rule 2(1), the Court shall, on the defendant's application, pass a final decree ordering the plaintiff to deliver up documents, re-transfer the property at the defendant's cost, and, if necessary, put the defendant in possession. (2) Where payment has not been made, the Court shall, on the plaintiff's application, pass a final decree declaring that the defendant and all persons claiming through or under him are debarred from all right to redeem the mortgaged property, and, if necessary, ordering the defendant to put the plaintiff in possession. (3) On passing a final decree under sub-rule (2), all liabilities to which the defendant is subject in respect of the mortgage or the suit are deemed discharged.",
+      "key_terms": [
+        "timely payment outcome",
+        "debarment decree",
+        "deemed discharge of liabilities"
+      ],
+      "breakdown": {
+        "plain_summary": "The final decree in a foreclosure suit has two mutually exclusive outcomes depending on whether the defendant pays within the Rule 2 deadline: timely payment yields a final decree restoring the property to the defendant (documents, re-transfer, possession); non-payment yields a final decree permanently debarring the defendant and all persons claiming through him from redemption, with possession going to the plaintiff. Critically, once the debarment decree is passed, the defendant's mortgage-related liabilities are deemed fully discharged — the mortgagee cannot separately sue for any shortfall after foreclosure.",
+        "essential_elements": [
+          "Sub-rule (1): timely payment → final decree restoring documents/property/possession to defendant",
+          "Sub-rule (2): non-payment → final decree debarring redemption, binds all claiming through the defendant",
+          "Sub-rule (3): debarment decree discharges all the defendant's mortgage/suit liabilities"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sub-rule (3)'s deemed-discharge consequence is a significant trade-off for the mortgagee — foreclosure extinguishes any further personal claim against the mortgagor for shortfall, unlike a sale decree under Rule 6 which preserves a balance-recovery remedy."
+      }
+    },
+    {
+      "number": "O-XXXIV-4",
+      "title": "Preliminary decree in suit for sale",
+      "raw_text": "(1) In a suit for sale, if the plaintiff succeeds, the Court shall pass a preliminary decree to the effect mentioned in rule 2(1)(a), (b) and (c)(i), and further directing that, in default of the defendant paying as therein mentioned, the plaintiff shall be entitled to apply for a final decree directing that the mortgaged property or a sufficient part be sold, proceeds applied to what is due to the plaintiff plus subsequent costs/charges/expenses/interest, and the balance paid to the defendant or other entitled persons. (2) The Court may extend the payment time on good cause at any time before a final decree for sale is passed. (3) Power to decree sale in foreclosure-suit.—In a suit for foreclosure of an anomalous mortgage, the Court may, at any party's or interested person's instance, pass a like decree for sale instead of foreclosure, on terms it thinks fit, including a deposit to meet sale expenses and secure performance. (4) Where subsequent mortgagees or persons deriving/subrogated title are joined, the preliminary decree shall provide for adjudication of respective rights per the prescribed Forms.",
+      "key_terms": [
+        "sale in default of payment",
+        "proceeds applied to debt then balance to defendant",
+        "anomalous mortgage sale option"
+      ],
+      "breakdown": {
+        "plain_summary": "A suit-for-sale preliminary decree mirrors the foreclosure preliminary decree's account-taking and deadline-fixing mechanics, but the default consequence differs: instead of debarring redemption, non-payment entitles the plaintiff to apply for a final decree directing sale of the mortgaged property, with proceeds first paying off what's due to the plaintiff (debt plus subsequent costs/interest) and any balance going to the defendant or other entitled persons. Sub-rule (3) gives the Court flexibility to convert what would otherwise be a foreclosure of an anomalous mortgage into a sale instead, on protective terms. Joined subsequent mortgagees again get their rights adjudicated in the decree.",
+        "essential_elements": [
+          "Mirrors Rule 2's account/declaration/deadline structure, but defaults to sale rather than debarment",
+          "Sale proceeds: first to plaintiff's dues plus subsequent costs/interest, balance to defendant/others entitled",
+          "Sub-rule (2): extension of payment time on good cause before final decree",
+          "Sub-rule (3): discretionary conversion of an anomalous-mortgage foreclosure suit into a sale decree, with protective deposit terms",
+          "Sub-rule (4): subsequent mortgagees' rights adjudicated per prescribed Forms"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The balance-to-defendant feature is the key economic distinction from foreclosure — a suit for sale preserves the mortgagor's equity above the debt, making it generally more favorable to the mortgagor than foreclosure where the mortgage type permits a choice."
+      }
+    },
+    {
+      "number": "O-XXXIV-5",
+      "title": "Final decree in suit for sale",
+      "raw_text": "(1) Where, on or before the fixed day or before confirmation of a sale under sub-rule (3), the defendant pays into Court all amounts due under rule 4(1), the Court shall, on the defendant's application, pass a final decree or order for document delivery, property re-transfer, and possession as necessary. (2) Where the mortgaged property or part has been sold under sub-rule (3), the Court shall not pass an order under sub-rule (1) unless the defendant also deposits a sum equal to five per cent of the purchase-money for payment to the purchaser; on such deposit, the purchaser is entitled to repayment of the purchase-money plus five per cent. (3) Where payment under sub-rule (1) has not been made, the Court shall, on the plaintiff's application, pass a final decree directing sale of the mortgaged property or a sufficient part, proceeds dealt with per rule 4(1).",
+      "key_terms": [
+        "last-chance redemption before sale confirmation",
+        "five per cent purchaser compensation",
+        "final sale decree"
+      ],
+      "breakdown": {
+        "plain_summary": "The mortgagor retains a last-chance redemption window even after the sale-default final decree is contemplated — payment any time before sale confirmation still triggers restoration of documents/property/possession. But if the property has already been sold by the time the mortgagor pays, redemption now additionally requires depositing 5% of the purchase price to compensate the disappointed purchaser, who then gets their purchase-money back plus that 5% premium. If no timely payment is made at all, the final decree simply directs sale with proceeds distributed per Rule 4.",
+        "essential_elements": [
+          "Sub-rule (1): payment before sale confirmation still allows redemption via final decree/order",
+          "Sub-rule (2): if property already sold, redemption additionally requires a 5% purchase-money deposit to compensate the purchaser",
+          "Sub-rule (3): non-payment leads to a final sale decree, proceeds per Rule 4(1)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The 5% purchaser-compensation mechanism in sub-rule (2) is a built-in safeguard protecting good-faith auction purchasers from having their purchase unwound without compensation — relevant when advising a purchaser at a mortgage-sale auction about redemption risk."
+      }
+    },
+    {
+      "number": "O-XXXIV-6",
+      "title": "Recovery of balance due on mortgage in suit for sale",
+      "raw_text": "Where the net proceeds of any sale held under rule 5 are found insufficient to pay the amount due to the plaintiff, the Court, on application by him, may, if the balance is legally recoverable from the defendant otherwise than out of the property sold, pass a decree for such balance.",
+      "key_terms": [
+        "shortfall decree",
+        "legally recoverable balance"
+      ],
+      "breakdown": {
+        "plain_summary": "If the sale proceeds don't fully satisfy the mortgage debt, the plaintiff can apply for a further decree against the defendant personally for the shortfall — provided that balance is otherwise legally recoverable from the defendant (i.e., not barred by some other rule, such as a non-recourse arrangement). This preserves a personal remedy that foreclosure (Rule 3) does not.",
+        "essential_elements": [
+          "Applies only where net sale proceeds are insufficient",
+          "Balance must be legally recoverable from the defendant otherwise than from the sold property",
+          "Requires a separate application by the plaintiff"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the sale-suit's key advantage over foreclosure for the mortgagee — unlike Rule 3(3)'s deemed discharge on foreclosure, a sale decree preserves the right to chase the mortgagor personally for any shortfall."
+      }
+    },
+    {
+      "number": "O-XXXIV-7",
+      "title": "Preliminary decree in redemption suit",
+      "raw_text": "(1) In a suit for redemption, if the plaintiff succeeds, the Court shall pass a preliminary decree ordering an account of what is due to the defendant for principal, interest, costs, charges and expenses, or declaring the amount so due; and directing that, if the plaintiff pays into Court the amount found or declared due within six months from account confirmation or declaration, and thereafter pays subsequent costs/interest as provided, the defendant shall deliver up documents, re-transfer the property free of encumbrances, and put the plaintiff in possession if necessary; and that if payment is not made in time, the defendant shall be entitled to apply for a final decree that, (a) for mortgages other than usufructuary/conditional-sale/sale-only anomalous mortgages, the property be sold, or (b) for conditional-sale or such anomalous mortgages, the plaintiff be debarred from all right to redeem. (2) The Court may extend the payment time on good cause at any time before the final decree for foreclosure or sale is passed.",
+      "key_terms": [
+        "redemption account",
+        "six-month payment window",
+        "sale vs debarment outcome by mortgage type",
+        "time extension"
+      ],
+      "breakdown": {
+        "plain_summary": "A redemption suit's preliminary decree mirrors the foreclosure/sale decrees but with the plaintiff (mortgagor) now obligated to pay within six months to redeem. If the plaintiff pays in time, the defendant (mortgagee) must restore documents, property, and possession. If not, the consequence depends on mortgage type: an ordinary mortgage leads to a sale-decree entitlement, while a conditional-sale mortgage or a foreclosure-only anomalous mortgage leads instead to a debarment-of-redemption entitlement — mirroring the original mortgage's own foreclosure/sale character.",
+        "essential_elements": [
+          "Mirrors Rule 2's account/declaration/deadline mechanics, with the plaintiff now obligated to pay",
+          "Timely payment: defendant restores documents/property/possession to plaintiff",
+          "Non-payment outcome bifurcates by mortgage type: (a) sale for ordinary mortgages; (b) debarment for conditional-sale/foreclosure-only anomalous mortgages",
+          "Court may extend payment time on good cause before the final decree"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always classify the mortgage type first (simple, usufructuary, conditional sale, English, or anomalous) before predicting the Rule 7 default consequence — the sale-vs-debarment fork turns entirely on that classification."
+      }
+    },
+    {
+      "number": "O-XXXIV-8",
+      "title": "Final decree in redemption suit",
+      "raw_text": "(1) Where, before a final decree debarring redemption is passed, or before confirmation of a sale under sub-rule (3), the plaintiff pays into Court all amounts due under rule 7(1), the Court shall, on the plaintiff's application, pass a final decree or order for document delivery, property re-transfer at the plaintiff's cost, and possession if necessary. (2) Where the mortgaged property or part has been sold under sub-rule (3), the Court shall not pass an order under sub-rule (1) unless the plaintiff also deposits a sum equal to five per cent of the purchase-money for payment to the purchaser; on such deposit, the purchaser is entitled to repayment of the purchase-money plus five per cent. (3) Where payment under sub-rule (1) has not been made, the Court shall, on the defendant's application,— (a) for conditional-sale or specified anomalous mortgages, pass a final decree debarring the plaintiff and all claiming under him from redemption, and, if necessary, order the plaintiff to put the defendant in possession; or (b) for any other mortgage (not usufructuary), pass a final decree directing sale of the property or a sufficient part, proceeds applied to what is due to the defendant, balance to the plaintiff or other entitled persons.",
+      "key_terms": [
+        "last-chance redemption before sale confirmation",
+        "five per cent purchaser compensation",
+        "debarment or sale outcome mirrors Rule 7"
+      ],
+      "breakdown": {
+        "plain_summary": "The redemption suit's final decree mechanics mirror Rule 5 (sale suit) for the last-chance-payment and 5%-purchaser-compensation features, but the Rule 7(3) sale-vs-debarment fork by mortgage type carries through: non-payment leads to debarment for conditional-sale/specified-anomalous mortgages, or to a sale decree (with balance to the plaintiff) for other mortgage types.",
+        "essential_elements": [
+          "Sub-rule (1): payment before sale confirmation still allows redemption",
+          "Sub-rule (2): post-sale redemption requires the 5% purchaser-compensation deposit",
+          "Sub-rule (3)(a): conditional-sale/specified-anomalous mortgages → debarment on non-payment",
+          "Sub-rule (3)(b): other (non-usufructuary) mortgages → sale decree on non-payment, balance to plaintiff"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the explicit exclusion of usufructuary mortgages from sub-rule (3)(b) — their distinct possession-based structure means this Order's sale/debarment final-decree mechanics for redemption suits don't straightforwardly apply to them in the same way."
+      }
+    },
+    {
+      "number": "O-XXXIV-8A",
+      "title": "Recovery of balance due on mortgage in suit for redemption",
+      "raw_text": "Where the net proceeds of any sale held under rule 8 are found insufficient to pay the amount due to the defendant, the Court, on application by him in execution, may, if the balance is legally recoverable from the plaintiff otherwise than out of the property sold, pass a decree for such balance.",
+      "key_terms": [
+        "shortfall recovery for mortgagee-defendant",
+        "application in execution"
+      ],
+      "breakdown": {
+        "plain_summary": "Mirroring Rule 6's shortfall mechanism for sale suits, if a Rule 8 redemption-suit sale's proceeds don't cover what's due to the defendant (mortgagee), the defendant can apply — specifically in execution — for a further decree against the plaintiff for the legally recoverable balance.",
+        "essential_elements": [
+          "Applies only where net sale proceeds (under Rule 8) are insufficient",
+          "Application must be made in execution",
+          "Balance must be legally recoverable from the plaintiff otherwise than from the sold property"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the procedural distinction from Rule 6: here the shortfall application is explicitly framed as being made 'in execution,' reflecting that by this stage the redemption suit's final decree has already been passed and sale completed."
+      }
+    },
+    {
+      "number": "O-XXXIV-9",
+      "title": "Decree where nothing is found due or where mortgagee has been overpaid",
+      "raw_text": "Notwithstanding anything hereinbefore contained, if it appears, upon taking the account referred to in rule 7, that nothing is due to the defendant or that he has been overpaid, the Court shall pass a decree directing the defendant, if so required, to re-transfer the property and to pay to the plaintiff the amount which may be found due to him; and the plaintiff shall, if necessary, be put in possession of the mortgaged property.",
+      "key_terms": [
+        "nothing-due finding",
+        "overpayment reversal",
+        "notwithstanding override"
+      ],
+      "breakdown": {
+        "plain_summary": "If the Rule 7 accounting reveals the mortgagor actually owes nothing, or has even overpaid, the Court doesn't mechanically proceed through the usual redemption-decree machinery — it instead directly decrees re-transfer of the property and repayment of any overpaid amount to the plaintiff, with possession restored if necessary. The 'notwithstanding' opening ensures this overrides the ordinary Rules 7-8 procedure in this scenario.",
+        "essential_elements": [
+          "Triggered by the Rule 7 accounting showing nothing due, or overpayment",
+          "Decree directs re-transfer plus repayment of any overpaid amount",
+          "Possession restored to the plaintiff if necessary"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a protective fail-safe for mortgagors — always verify the actual account result before assuming the standard pay-to-redeem framework applies, since a zero-or-negative balance flips the relief entirely in the mortgagor's favor."
+      }
+    },
+    {
+      "number": "O-XXXIV-10",
+      "title": "Costs of mortgagee subsequent to decree",
+      "raw_text": "In finally adjusting the amount to be paid to a mortgagee in case of a foreclosure, sale or redemption, the Court shall, unless in the case of costs of the suit the conduct of the mortgagee has been such as to disentitle him thereto, add to the mortgage-money such costs of the suit and other costs, charges and expenses as have been properly incurred by him since the date of the preliminary decree up to the time of actual payment: Provided that where the mortgagor, before or at the time of the institution of the suit, tenders or deposits the amount due on the mortgage, or such amount as is not subsequently found deficient in the opinion of the Court, he shall not be ordered to pay the costs of the suit to the mortgagee and the mortgagor shall be entitled to recover his own costs of the suit from the mortgagee, unless the Court, for reasons to be recorded, otherwise directs.",
+      "key_terms": [
+        "post-decree costs added to mortgage-money",
+        "disentitlement for misconduct",
+        "pre-suit tender proviso reversing costs"
+      ],
+      "breakdown": {
+        "plain_summary": "Between the preliminary decree and actual payment, the mortgagee's properly incurred suit costs and other charges/expenses are normally added to what the mortgagor must pay — unless the mortgagee's own litigation conduct disentitles him to suit costs. Critically, the proviso flips the whole costs dynamic where the mortgagor tendered or deposited the amount due before or at the suit's institution: in that scenario the mortgagor is not liable for the mortgagee's suit costs, and can even recover his own costs from the mortgagee, unless the Court records reasons to the contrary.",
+        "essential_elements": [
+          "Default: mortgagee's post-preliminary-decree costs/charges/expenses added to the mortgage-money",
+          "Exception: mortgagee's misconduct can disentitle him to suit costs",
+          "Proviso: a genuine pre-suit tender/deposit by the mortgagor reverses costs liability — mortgagor recovers his own costs instead, absent recorded reasons otherwise"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The pre-suit tender proviso is a powerful defensive tool for a mortgagor who offered to pay before litigation was even necessary — document any tender or deposit carefully, since it can flip an otherwise inevitable costs liability."
+      }
+    },
+    {
+      "number": "O-XXXIV-10A",
+      "title": "Power of Court to direct mortgagee to pay mesne profits",
+      "raw_text": "Where in a suit for foreclosure, the mortgagor has, before or at the time of the institution of the suit, tendered or deposited the sum due on the mortgage, or such sum as is not substantially deficient in the opinion of the Court, the Court shall direct the mortgagee to pay to the mortgagor mesne profits for the period beginning with the institution of the suit.",
+      "key_terms": [
+        "mesne profits against mortgagee",
+        "mandatory direction on genuine pre-suit tender"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a mortgagor made a genuine pre-suit tender or deposit in a foreclosure suit, the Court must (not merely may) direct the mortgagee to pay mesne profits to the mortgagor from the date the suit was instituted — a further consequence layered onto Rule 10's costs-reversal proviso, penalizing a mortgagee who pressed forward with foreclosure litigation despite an adequate tender already having been made.",
+        "essential_elements": [
+          "Applies specifically to foreclosure suits",
+          "Requires a genuine pre-suit (or at-institution) tender/deposit not substantially deficient",
+          "Mandatory direction — the Court 'shall' order mesne profits from institution of the suit"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read together with Rule 10's proviso — a mortgagor with a documented genuine pre-suit tender has a strong combined claim to both costs-shifting and mesne profits against a mortgagee who needlessly pursued foreclosure."
+      }
+    },
+    {
+      "number": "O-XXXIV-11",
+      "title": "Payment of interest",
+      "raw_text": "In any decree passed in a suit for foreclosure, sale or redemption, where interest is legally recoverable, the Court may order payment of interest to the mortgagee as follows:— (a) interest up to the date on or before which payment of the amount found or declared due is to be made under the preliminary decree— (i) on the principal amount found or declared due on the mortgage, at the rate payable on the principal, or, where no such rate is fixed, at such rate as the Court deems reasonable, and (iii) on the amount adjudged due to the mortgagee for costs, charges and expenses properly incurred up to the date of the preliminary decree and added to the mortgage-money, at the rate agreed between the parties or, failing such rate, at such rate not exceeding six per cent per annum as the Court deems reasonable; and (b) subsequent interest up to the date of realisation or actual payment on the aggregate of the principal sums specified in clause (a) as calculated in accordance with that clause at such rate as the Court deems reasonable.",
+      "key_terms": [
+        "pre-decree interest rate",
+        "costs-component interest capped at six per cent",
+        "subsequent interest to realisation"
+      ],
+      "breakdown": {
+        "plain_summary": "This Rule governs how interest is computed in mortgage decrees across all three suit types. Up to the preliminary-decree payment deadline, interest runs on the principal at the contractual (or, absent one, Court-determined reasonable) rate, and separately on the costs/charges/expenses component at the agreed rate or, failing agreement, a rate the Court deems reasonable but capped at 6% per annum. From the preliminary decree onward to actual realisation/payment, subsequent interest runs on the aggregate of both components at whatever rate the Court deems reasonable (no cap specified for this later period).",
+        "essential_elements": [
+          "Clause (a)(i): pre-decree-deadline interest on principal at the contractual or Court-reasonable rate",
+          "Clause (a)(iii): pre-decree-deadline interest on the costs component, capped at 6% per annum absent agreement",
+          "Clause (b): subsequent interest on the aggregate sum, at a Court-reasonable rate, up to realisation/actual payment"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the asymmetry: the 6% statutory cap applies only to the costs-component interest absent an agreed rate, not to principal interest (which follows the contractual rate) or to the later subsequent-interest phase under clause (b) — a frequent point of computation dispute in execution proceedings."
+      }
+    },
+    {
+      "number": "O-XXXIV-12",
+      "title": "Sale of property subject to prior mortgage",
+      "raw_text": "Where any property the sale of which is directed under this Order is subject to a prior mortgage, the Court may, with the consent of the prior mortgagee, direct that the property be sold free from the same, giving to such prior mortgagee the same interest in the proceeds of the sale as he had in the property sold.",
+      "key_terms": [
+        "sale free of prior mortgage",
+        "prior mortgagee's consent",
+        "substituted interest in proceeds"
+      ],
+      "breakdown": {
+        "plain_summary": "Where property to be sold under this Order carries a prior mortgage, the Court can — only with that prior mortgagee's consent — direct a sale free of that prior encumbrance, which makes the property more attractive to purchasers, while preserving the prior mortgagee's economic interest by substituting an equivalent interest in the sale proceeds for what he previously had in the property itself.",
+        "essential_elements": [
+          "Requires the prior mortgagee's consent",
+          "Sale proceeds then carry the same interest for the prior mortgagee that the property itself did"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This consent requirement is non-negotiable — absent the prior mortgagee's agreement, the property must be sold subject to the prior encumbrance, which typically depresses the sale price; securing that consent is a valuable pre-sale negotiating objective."
+      }
+    },
+    {
+      "number": "O-XXXIV-13",
+      "title": "Application of proceeds",
+      "raw_text": "(1) Such proceeds shall be brought into Court and applied as follows:— first, in payment of all expenses incident to the sale or properly incurred in any attempted sale; secondly, in payment of whatever is due to the prior mortgagee on account of the prior mortgage, and of costs properly incurred in connection therewith; thirdly, in payment of all interest due on account of the mortgage in consequence whereof the sale was directed, and of the costs of the suit in which the decree directing the sale was made; fourthly, in payment of the principal money due on account of that mortgage; and lastly, the residue (if any) shall be paid to the person proving himself to be interested in the property sold, or, if more than one, to such persons according to their respective interests or upon their joint receipt. (2) Nothing in this rule or in rule 12 shall be deemed to affect the powers conferred by section 57 of the Transfer of Property Act, 1882.",
+      "key_terms": [
+        "sale-proceeds priority order",
+        "five-tier distribution",
+        "Section 57 Transfer of Property Act preserved"
+      ],
+      "breakdown": {
+        "plain_summary": "This Rule fixes a strict five-tier priority order for distributing Rule 12 sale proceeds: (1) sale expenses, (2) amounts due to the prior mortgagee plus his connected costs, (3) interest due on the mortgage that triggered the sale plus the sale-suit's own costs, (4) the principal sum due on that mortgage, and (5) any residue to whoever proves an interest in the sold property, divided proportionately if there are multiple claimants. Sub-rule (2) preserves the Court's separate powers under Section 57 of the Transfer of Property Act regarding sale free of encumbrances.",
+        "essential_elements": [
+          "Tier 1: sale expenses (including attempted-sale costs)",
+          "Tier 2: prior mortgagee's dues plus connected costs",
+          "Tier 3: interest on the triggering mortgage plus the suit's own costs",
+          "Tier 4: principal due on the triggering mortgage",
+          "Tier 5 (residue): to persons proving an interest, proportionately if multiple",
+          "Sub-rule (2): Transfer of Property Act Section 57 powers unaffected"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This priority ladder is the key reference point in any dispute over how mortgage-sale proceeds should be distributed among competing claimants — always work through the five tiers sequentially rather than assuming pro-rata distribution."
+      }
+    },
+    {
+      "number": "O-XXXIV-14",
+      "title": "Suit for sale necessary for bringing mortgaged property to sale",
+      "raw_text": "(1) Where a mortgagee has obtained a decree for the payment of money in satisfaction of a claim arising under the mortgage, he shall not be entitled to bring the mortgaged property to sale otherwise than by instituting a suit for sale in enforcement of the mortgage, and he may institute such suit notwithstanding anything contained in Order II, rule 2. (2) Nothing in sub-rule (1) shall apply to any territories to which the Transfer of Property Act, 1882, has not been extended.",
+      "key_terms": [
+        "mandatory fresh suit for sale",
+        "Order II Rule 2 override",
+        "Transfer of Property Act territorial limitation"
+      ],
+      "breakdown": {
+        "plain_summary": "A mortgagee who already has a mere money decree on the mortgage debt cannot simply proceed to sell the mortgaged property in execution of that decree — he must institute a separate suit for sale to enforce the mortgage itself. This requirement is expressly preserved even against Order II Rule 2's usual bar on splitting claims that should have been combined in one suit, since mortgage-sale enforcement is treated as a distinct cause of action. Sub-rule (2) limits this requirement's application to territories where the Transfer of Property Act actually applies.",
+        "essential_elements": [
+          "Mandatory fresh suit for sale required to enforce the mortgage, even after a money decree already exists",
+          "Expressly overrides Order II Rule 2's claim-splitting bar",
+          "Sub-rule (2): inapplicable in territories where the Transfer of Property Act has not been extended"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a critical trap for mortgagee-creditors who obtain a simple money decree and then attempt to execute directly against the mortgaged property — that path is procedurally barred; a fresh suit for sale in mortgage enforcement is mandatory regardless of the earlier money decree."
+      }
+    },
+    {
+      "number": "O-XXXIV-15",
+      "title": "Mortgages by deposit of title deeds and charges",
+      "raw_text": "(1) All the provisions contained in this Order which apply to a simple mortgage shall, so far as may be, apply to a mortgage by deposit of title-deeds within the meaning of section 58, and to a charge within the meaning of section 100 of the Transfer of Property Act, 1882. (2) Where a decree orders payment of money and charges it on immovable property on default of payment, the amount may be realised by sale of that property in execution of that decree.",
+      "key_terms": [
+        "equitable mortgage by title-deed deposit",
+        "Section 100 charge",
+        "execution sale on default"
+      ],
+      "breakdown": {
+        "plain_summary": "This Rule extends the Order's simple-mortgage provisions, with necessary adaptation, to two related but distinct instruments: an equitable mortgage created by deposit of title deeds (Transfer of Property Act Section 58) and a statutory charge (Section 100 of that Act). Sub-rule (2) provides that where a money decree also charges the sum on immovable property in default of payment, that property can simply be sold in execution of the decree — without needing the separate Rule 14 suit-for-sale mechanism, since the charge was already judicially created within the decree itself.",
+        "essential_elements": [
+          "Sub-rule (1): simple-mortgage provisions extended, mutatis mutandis, to title-deed-deposit mortgages and Section 100 charges",
+          "Sub-rule (2): a decree that itself charges a money-payment obligation on immovable property allows direct execution sale on default, no separate suit needed"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sub-rule (2) is a useful contrast to Rule 14 — where the charge arises directly from the decree itself (rather than from a pre-existing mortgage later reduced to a mere money decree), no fresh suit for sale is required; execution can proceed directly against the charged property."
+      }
     }
   ]
 }
