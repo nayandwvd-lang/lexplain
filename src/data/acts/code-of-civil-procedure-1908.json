@@ -15378,6 +15378,330 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "File the restoration application the moment the client learns of an adverse ex parte/default order under this Order — the thirty-day clock is unforgiving, and the 'date of knowledge' extension only helps where service was genuinely defective, not merely where the client was inattentive."
       }
+    },
+    {
+      "number": "O-XXII",
+      "title": "Death, Marriage and Insolvency of Parties — Overview",
+      "raw_text": "ORDER XXII. Death, Marriage and Insolvency of Parties.",
+      "key_terms": [
+        "abatement",
+        "legal representative",
+        "substitution",
+        "survival of right to sue",
+        "insolvency of plaintiff"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXII governs what happens to a pending suit when a party dies, a female party marries, or a plaintiff becomes insolvent during the litigation. Its central concept is 'abatement' — the automatic lapsing of a suit (or part of it) if the right to sue survives but no one applies in time to bring the deceased's legal representative on record. The Order balances two interests: giving the other side certainty that stale claims won't linger forever, while protecting a diligent party from losing a case merely because of a death they could not prevent.",
+        "essential_elements": [
+          "Death does not automatically end a suit if the underlying right to sue survives the deceased",
+          "Where it does survive, the deceased's legal representative must be brought on record within the limitation period, failing which the suit (or the part concerning the deceased) abates",
+          "Marriage of a female party never causes abatement",
+          "A plaintiff's insolvency only threatens the suit if his assignee/receiver declines to pursue it",
+          "Abatement can be set aside on sufficient cause, but a fresh suit on the same cause of action is otherwise barred"
+        ],
+        "exceptions_and_qualifications": [
+          "There is no abatement at all for death occurring between the conclusion of hearing and the pronouncement of judgment (Rule 6)",
+          "Rules 3, 4, and 8 do not apply to execution proceedings (Rule 12)"
+        ],
+        "how_to_read": "Treat this Order as a limitation-and-diligence trap for litigators: the single most common malpractice-adjacent error in Indian civil practice is missing the deadline to bring legal representatives on record after a party's death. Always calendar a death-notification the moment you learn of it, and invoke Rule 4A if no legal representative can be found, rather than letting the suit abate by default."
+      }
+    },
+    {
+      "number": "O-XXII-1",
+      "title": "No abatement by party's death if right to sue survives",
+      "raw_text": "The death of a plaintiff or defendant shall not cause the suit to abate if the right to sue survives.",
+      "key_terms": [
+        "right to sue survives",
+        "no abatement"
+      ],
+      "breakdown": {
+        "plain_summary": "The foundational rule: death alone never kills a lawsuit. The suit only continues to matter if the underlying right being litigated is one that can legally pass on (survive) to someone else — a question that is itself governed by substantive law outside this Order (e.g., personal tort claims generally don't survive, but claims to property or money generally do).",
+        "essential_elements": [
+          "Applies to the death of either a plaintiff or a defendant",
+          "The suit does not abate as long as the right to sue survives"
+        ],
+        "exceptions_and_qualifications": [
+          "Whether a right 'survives' is a substantive-law question (e.g., under the Legal Representatives' Suits Act or general principles) not answered by this rule itself — it only states the procedural consequence"
+        ],
+        "how_to_read": "Before doing anything else on a party's death, first determine whether the cause of action survives under the applicable substantive law — that threshold question controls whether Rules 2-5 even come into play."
+      }
+    },
+    {
+      "number": "O-XXII-2",
+      "title": "Procedure where one of several plaintiffs or defendants dies and right to sue survives",
+      "raw_text": "Where there are more plaintiffs or defendants than one, and any of them dies, and where the right to sue survives to the surviving plaintiff or plaintiffs alone, or against the surviving defendant or defendants alone, the Court shall cause an entry to the effect to be made on the record, and the suit shall proceed at the instance of the surviving plaintiff or plaintiffs, or against the surviving defendant or defendants.",
+      "key_terms": [
+        "surviving plaintiffs",
+        "surviving defendants",
+        "entry on record"
+      ],
+      "breakdown": {
+        "plain_summary": "If one of several co-plaintiffs or co-defendants dies, but the claim is one that the remaining parties alone can fully carry (no need to bring in the deceased's heirs), the Court simply notes the death on the record and the case continues without interruption.",
+        "essential_elements": [
+          "Applies only where there are multiple plaintiffs or defendants",
+          "The right to sue must survive to/against the survivors alone (not require the deceased's representatives)",
+          "The Court records the fact of death; no substitution application is needed",
+          "The suit proceeds uninterrupted at the instance of, or against, the survivors"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Don't waste time filing a substitution application under this scenario — a simple memo to the Court noting the death and seeking an entry on record suffices; substitution under Rule 3/4 is only needed when the survivors cannot carry the claim alone."
+      }
+    },
+    {
+      "number": "O-XXII-3",
+      "title": "Procedure in case of death of one of several plaintiffs or of sole plaintiff",
+      "raw_text": "(1) Where one of two or more plaintiffs dies and the right to sue does not survive to the surviving plaintiff or plaintiffs alone, or a sole plaintiff or sole surviving plaintiff dies and the right to sue survives, the Court, on an application made in that behalf, shall cause the legal representative of the deceased plaintiff to be made a party and shall proceed with the suit. (2) Where within the time limited by law no application is made under sub-rule (1), the suit shall abate so far as the deceased plaintiff is concerned, and, on the application of the defendant, the Court may award to him the costs which he may have incurred in defending the suit, to be recovered from the estate of the deceased plaintiff.",
+      "key_terms": [
+        "substitution of legal representative",
+        "abatement for delay",
+        "costs from estate"
+      ],
+      "breakdown": {
+        "plain_summary": "This is where the real limitation pressure kicks in: when the deceased plaintiff's share of the claim genuinely needs his heirs to be brought in (either because other plaintiffs can't carry it alone, or because he was the sole plaintiff), someone must apply to substitute the legal representative within the statutory time. Miss that window, and the suit (or that plaintiff's part of it) simply abates — with the defendant even entitled to costs out of the deceased's estate for having to defend a now-dead claim.",
+        "essential_elements": [
+          "Applies where survivors cannot carry the suit alone, or where the sole/sole-surviving plaintiff has died and the right to sue survives",
+          "An application to bring the legal representative on record is required",
+          "If made within the limitation period, the Court adds the legal representative as a party and the suit continues",
+          "If not made in time, the suit abates as against the deceased plaintiff, and the defendant may recover his defence costs from the deceased's estate"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The limitation period for this application runs under the Limitation Act, 1963 (ninety days from death, per the Act's Schedule) — docket this date the instant you learn of a plaintiff's death, since missing it triggers automatic abatement with no need for the defendant to do anything."
+      }
+    },
+    {
+      "number": "O-XXII-4",
+      "title": "Procedure in case of death of one of several defendants or of sole defendant",
+      "raw_text": "(1) Where one of two or more defendants dies and the right to sue does not survive against the surviving defendant or defendants alone or a sole defendant or sole surviving defendant dies and the right to sue survives, the Court, on an application made in that behalf, shall cause the legal representative of the deceased defendant to be made a party and shall proceed with the suit. (2) Any person so made a party may make any defence appropriate to his character as legal representative of the deceased defendant. (3) Where within the time limited by law no application is made under sub-rule (1), the suit shall abate as against the deceased defendant. (4) The Court whenever it thinks fit, may exempt the plaintiff from the necessity of substituting the legal representatives of any such defendant who has failed to file a written statement or who, having filed it, has failed to appear and contest the suit at the hearing; and judgment may, in such case, be pronounced against the said defendant notwithstanding the death of such defendant and shall have the same force and effect as if it has been pronounced before death took place. (5) Where— (a) the plaintiff was ignorant of the death of a defendant, and could not, for that reason, make an application for the substitution of the legal representative of the defendant under this rule within the period specified in the Limitation Act, 1963 (36 of 1963), and the suit has, in consequence, abated, and (b) the plaintiff applies after the expiry of the period specified therefor in the Limitation Act, 1963 (36 of 1963), for setting aside the abatement and also for the admission of that application under section 5 of that Act on the ground that he had, by reason of such ignorance, sufficient cause for not making the application within the period specified in the said Act, the Court shall, in considering the application under the said section 5, have due regard to the fact of such ignorance, if proved.",
+      "key_terms": [
+        "substitution against defendant",
+        "exemption from substitution",
+        "ignorance of death",
+        "Section 5 Limitation Act"
+      ],
+      "breakdown": {
+        "plain_summary": "The mirror-image rule for a deceased defendant: substitution of his legal representative is needed in the same circumstances, with the same abatement consequence for delay. But two extra protections for plaintiffs exist here: the Court can exempt the plaintiff from substituting a defendant who never bothered contesting the suit anyway (letting judgment be entered as if he were alive), and if the plaintiff genuinely didn't know the defendant had died, that ignorance is a factor favouring condonation of the delay under Limitation Act Section 5.",
+        "essential_elements": [
+          "Substitution required where survivors can't carry the suit alone, or the sole/sole-surviving defendant died and the right survives",
+          "The substituted legal representative may raise any defence appropriate to that character",
+          "No timely application means abatement as against the deceased defendant",
+          "The Court may exempt the plaintiff from substituting a non-contesting defendant (no written statement filed, or filed but not appeared), and pronounce judgment as if death hadn't occurred",
+          "Genuine ignorance of the defendant's death is a relevant factor (not an automatic entitlement) in condoning delay under Limitation Act Section 5"
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (4)'s exemption is discretionary and specifically limited to defendants who were already not contesting the suit"
+        ],
+        "how_to_read": "When a non-contesting defendant dies, actively seek the sub-rule (4) exemption rather than hunting for his legal representatives — it saves significant time and avoids risking abatement for a defendant whose participation was never going to matter to the outcome."
+      }
+    },
+    {
+      "number": "O-XXII-4A",
+      "title": "Procedure where there is no legal representative",
+      "raw_text": "(1) If, in any suit, it shall appear to the Court that any party who has died during the pendency of the suit has no legal representative, the Court may, on the application of any party to the suit, proceed in the absence of a person representing the estate of the deceased person, or may by order appoint the Administrator-General, or an officer of the Court or such other person as it thinks fit to represent the estate of the deceased person for the purpose of the suit; and any judgment or order subsequently given or made in the suit shall bind the estate of the deceased person to the same extent as he would have been bound if a personal representative of the deceased person had been a party to the suit. (2) Before making an order under this rule, the Court— (a) may require notice of the application for the order to be given to such (if any) of the persons having an interest in the estate of the deceased person as it thinks fit; and (b) shall ascertain that the person proposed to be appointed to represent the estate of the deceased person is willing to be so appointed and has no interest adverse to that of the deceased person.",
+      "key_terms": [
+        "no legal representative available",
+        "Administrator-General",
+        "representative of the estate"
+      ],
+      "breakdown": {
+        "plain_summary": "A practical fix for the awkward situation where a party dies but genuinely has no identifiable legal representative (no heirs come forward, or none can be traced): rather than letting the suit stall forever, the Court can appoint a neutral representative — the Administrator-General, a Court officer, or anyone else suitable — to stand in for the deceased's estate, and whatever judgment results binds that estate just as if a real heir had been party.",
+        "essential_elements": [
+          "Applies when a party dies during the suit's pendency and has no ascertainable legal representative",
+          "On application by any party, the Court may either proceed without anyone representing the estate, or appoint a suitable representative (Administrator-General, Court officer, or other person)",
+          "A resulting judgment/order binds the deceased's estate as if a genuine personal representative had been party",
+          "The appointee must be willing and must have no interest adverse to the deceased's estate",
+          "Notice to persons interested in the estate may be required before the appointment"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the rescue provision when a genuine search for heirs comes up empty — invoke it rather than letting a suit languish indefinitely or risk abatement where the real problem is simply that no legal representative can be found or identified."
+      }
+    },
+    {
+      "number": "O-XXII-5",
+      "title": "Determination of question as to legal representative",
+      "raw_text": "Where a question arises as to whether any person is or is not the legal representative of a deceased plaintiff or a deceased defendant, such question shall be determined by the Court: Provided that where such question arises before an Appellate Court, that Court may, before determining the question, direct any subordinate Court to try the question and to return the records together with evidence, if any, recorded at such trial, its findings and reasons therefor, and the Appellate Court may take the same into consideration in determining the question.",
+      "key_terms": [
+        "who is the legal representative",
+        "determination by Court",
+        "remand for trial"
+      ],
+      "breakdown": {
+        "plain_summary": "Disputes about who actually qualifies as the deceased's legal representative (e.g., competing heirs, a disputed will) are decided by the Court itself as part of the suit — an Appellate Court facing this question for the first time can delegate the fact-finding to a subordinate Court and then decide based on that record.",
+        "essential_elements": [
+          "Any dispute over legal-representative status is determined by the Court seized of the matter",
+          "An Appellate Court may remand the factual question to a subordinate Court for trial and findings, then decide based on that record"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If a legal-representative dispute surfaces for the first time at the appellate stage, request a remand under the proviso rather than asking the Appellate Court to conduct a fresh evidentiary inquiry itself — that is the procedure the rule contemplates."
+      }
+    },
+    {
+      "number": "O-XXII-6",
+      "title": "No abatement by reason of death after hearing",
+      "raw_text": "Notwithstanding anything contained in the foregoing rules, whether the cause of action survives or not, there shall be no abatement by reason of the death of either party between the conclusion of the hearing and the pronouncing of the judgment, but judgment may in such case be pronounced notwithstanding the death and shall have the same force and effect as if it had been pronounced before the death took place.",
+      "key_terms": [
+        "death after hearing concluded",
+        "no abatement",
+        "judgment despite death"
+      ],
+      "breakdown": {
+        "plain_summary": "A clean, absolute rule: once the hearing is over and the matter is simply awaiting the Court's judgment, a party's death in that gap changes nothing — the judgment is pronounced exactly as if the party were still alive, with full legal effect, even if the underlying cause of action would not otherwise have survived.",
+        "essential_elements": [
+          "Applies to death occurring strictly between the conclusion of hearing and the pronouncement of judgment",
+          "No abatement occurs in this window regardless of whether the cause of action would otherwise survive",
+          "The judgment is pronounced and takes full effect as if death had not occurred"
+        ],
+        "exceptions_and_qualifications": [
+          "This overrides even the survival-of-cause-of-action requirement that otherwise governs the whole Order — it is a true exception, triggered only by this narrow timing window"
+        ],
+        "how_to_read": "This rule is a useful shield against last-minute mischief — if an interested party dies (or is reported to have died) after arguments conclude but before judgment, there is no basis to seek adjournment or abatement; push for the judgment to be pronounced."
+      }
+    },
+    {
+      "number": "O-XXII-7",
+      "title": "Suit not abated by marriage of female party",
+      "raw_text": "(1) The marriage of a female plaintiff or defendant shall not cause the suit to abate, but the suit may notwithstanding be proceeded with the judgment, and, where the decree is against a female defendant, it may be executed against her alone. (2) Where the husband is by law liable for the debts of his wife, the decree may, with the permission of the Court, be executed against the husband also; and, in case of judgment for the wife, execution of the decree may, with such permission, be issued upon the application of the husband, where the husband is by law entitled to the subject-matter of the decree.",
+      "key_terms": [
+        "marriage of female party",
+        "no abatement",
+        "execution against husband"
+      ],
+      "breakdown": {
+        "plain_summary": "A female litigant's marriage during the suit is a complete non-event procedurally — the suit simply continues, and any decree runs against her personally. Only where some other law makes the husband liable for her debts (a narrow, now largely historical scenario) can the decree additionally be executed against him, with the Court's leave.",
+        "essential_elements": [
+          "Marriage of a female plaintiff or defendant never causes abatement",
+          "A decree against a female defendant executes against her alone, by default",
+          "Execution against the husband is possible only where he is independently liable by law for her debts, and only with the Court's permission",
+          "Where the wife wins and the husband is by law entitled to the decree's subject-matter, he may apply (with leave) to execute it"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Don't assume any special procedural consequence flows from a female party's marriage mid-suit — this rule exists precisely to confirm there is none, aside from the narrow husband-liability scenario in sub-rule (2), which rarely arises under modern law."
+      }
+    },
+    {
+      "number": "O-XXII-8",
+      "title": "When plaintiff's insolvency bars suit",
+      "raw_text": "(1) The insolvency of a plaintiff in any suit which the assignee or receiver might maintain for the benefit of his creditors, shall not cause the suit to abate, unless such assignee or receiver declines to continue the suit or (unless for any special reason the Court otherwise directs) to give security for the costs thereof within such time as the Court may direct. (2) Procedure where assignee fails to continue suit, or give security.—Where the assignee or receiver neglects or refuses to continue the suit and to give such security within the time so ordered, the defendant may apply for the dismissal of the suit on the ground of the plaintiff's insolvency, and the Court may make an order dismissing the suit and awarding to the defendant the costs which he has incurred in defending the same to be proved as a debt against the plaintiff's estate.",
+      "key_terms": [
+        "plaintiff's insolvency",
+        "assignee or receiver",
+        "security for costs",
+        "dismissal for insolvency"
+      ],
+      "breakdown": {
+        "plain_summary": "If a plaintiff becomes insolvent mid-suit, the claim itself survives — it passes to his insolvency assignee/receiver, who can keep prosecuting it for the creditors' benefit. But if that assignee/receiver won't step up (either refusing to continue, or refusing to put up security for costs when directed), the defendant can get the suit dismissed, with his defence costs provable as a debt against the insolvent's estate.",
+        "essential_elements": [
+          "Insolvency does not itself abate a suit the assignee/receiver could maintain for creditors' benefit",
+          "The suit is at risk only if the assignee/receiver declines to continue, or declines to give ordered security for costs",
+          "On such refusal/neglect, the defendant may apply for dismissal on the ground of the plaintiff's insolvency",
+          "If dismissed, the defendant's defence costs are provable as a debt against the insolvent plaintiff's estate"
+        ],
+        "exceptions_and_qualifications": [
+          "The Court may, for special reasons, dispense with the security-for-costs requirement even where the assignee/receiver would otherwise need to furnish it"
+        ],
+        "how_to_read": "A defendant facing a plaintiff who has gone insolvent should promptly seek a Court direction fixing a time for the assignee/receiver to either step in or furnish security — this rule gives a clean, time-bound route to dismissal if neither happens, rather than letting the suit drift."
+      }
+    },
+    {
+      "number": "O-XXII-9",
+      "title": "Effect of abatement or dismissal",
+      "raw_text": "(1) Where a suit abates or is dismissed under this Order, no fresh suit shall be brought on the same cause of action. (2) The plaintiff or the person claiming to be the legal representative of a deceased plaintiff or the assignee or the receiver in the case of an insolvent plaintiff may apply for an order to set aside the abatement or dismissal; and if it is proved that he was prevented by any sufficient cause from continuing the suit, the Court shall set aside the abatement or dismissal upon such terms as to costs or otherwise as it thinks fit. (3) The provisions of Section 5 of the Indian Limitation Act shall apply to applications under sub-rule (2). Explanation.—Nothing in this rule shall be construed as barring, in any later suit, a defence based on the facts which constituted the cause of action in the suit which had abated or had been dismissed under this Order.",
+      "key_terms": [
+        "bar on fresh suit",
+        "setting aside abatement",
+        "sufficient cause",
+        "Section 5 Limitation Act applicability"
+      ],
+      "breakdown": {
+        "plain_summary": "Abatement or dismissal under this Order is a real, consequential event — it permanently bars a fresh suit on the same cause of action. The only way back is to apply to set aside the abatement/dismissal itself, by showing sufficient cause for the earlier failure to act (with the Limitation Act's general condonation principles applying to that application too). Importantly, losing the suit this way doesn't stop the same facts being raised defensively in some later, different litigation.",
+        "essential_elements": [
+          "A bar on filing a fresh suit on the same cause of action follows automatically from abatement/dismissal under this Order",
+          "The remedy is an application to set aside the abatement/dismissal, available to the plaintiff, his legal representative, or his insolvency assignee/receiver",
+          "Sufficient cause for the earlier failure must be proved",
+          "Limitation Act Section 5 (condonation of delay) applies to this set-aside application itself",
+          "The abated/dismissed cause of action can still be raised purely as a defence in some later suit, per the Explanation"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "File the set-aside application the moment abatement is discovered — don't delay hoping to find a workaround, since the bar on a fresh suit is absolute and the only escape route is this application, itself time-bound and subject to its own sufficient-cause test."
+      }
+    },
+    {
+      "number": "O-XXII-10",
+      "title": "Procedure in case of assignment before final order in suit",
+      "raw_text": "(1) In other cases of an assignment, creation or devolution of any interest during the pendency of a suit, the suit may, by leave of the Court, be continued by or against the person to or upon whom such interest has come or devolved. (2) The attachment of a decree pending an appeal therefrom shall be deemed to be an interest entitling the person who procured such attachment to the benefit of sub-rule (1).",
+      "key_terms": [
+        "assignment pendente lite",
+        "devolution of interest",
+        "leave to continue"
+      ],
+      "breakdown": {
+        "plain_summary": "Beyond death, marriage, and insolvency, any other transfer or devolution of interest while the suit is pending (e.g., a sale of the suit property, succession, corporate merger) can be accommodated too — with the Court's leave, the person who now holds the interest can step into the suit and carry it forward, rather than starting over.",
+        "essential_elements": [
+          "Covers any assignment, creation, or devolution of interest during the suit's pendency, not otherwise addressed by this Order",
+          "Requires leave of the Court for the suit to continue by or against the new interest-holder",
+          "A pending-appeal attachment of the decree is itself deemed an 'interest' qualifying the attaching party for this benefit"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the Order's general-purpose provision for transfers of interest — use it whenever a party's interest in the subject-matter changes hands mid-suit through a mechanism other than death, and always seek the Court's leave formally rather than assuming automatic continuation."
+      }
+    },
+    {
+      "number": "O-XXII-10A",
+      "title": "Duty of pleader to communicate to Court death of a party",
+      "raw_text": "Wherever a pleader appearing for a party to the suit comes to know of the death of that party, he shall inform the Court about it, and the Court shall thereupon give notice of such death to the other party, and, for this purpose, the contract between the pleader and the deceased party shall be deemed to subsist.",
+      "key_terms": [
+        "pleader's duty to report death",
+        "deemed subsistence of vakalat"
+      ],
+      "breakdown": {
+        "plain_summary": "An advocate who learns his own client has died must tell the Court — he doesn't get to simply stop appearing. To make this workable, the law deems his engagement (vakalatnama) to continue for this limited purpose, even though his actual client is gone, so he has the standing to make the report and the Court can then notify the other side.",
+        "essential_elements": [
+          "Triggered when a pleader learns of his party's death",
+          "He must inform the Court",
+          "The Court must then notify the opposite party",
+          "The pleader-client contract is deemed to subsist for the purpose of this communication"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This duty is a professional obligation independent of client instructions (which obviously can't come from a deceased client) — advocates should treat it as mandatory and immediate, since the Rule 3/4 limitation clock for the other side's substitution application effectively starts running once this notice goes out."
+      }
+    },
+    {
+      "number": "O-XXII-11",
+      "title": "Application of Order to appeals",
+      "raw_text": "In the application of this Order to appeals, so far as may be, the word \"Plaintiff\" shall be held to include an appellant, the word \"defendant\" a respondent, and the word \"suit\" an appeal.",
+      "key_terms": [
+        "appeals",
+        "plaintiff means appellant",
+        "defendant means respondent"
+      ],
+      "breakdown": {
+        "plain_summary": "A simple translation key: everything in this Order about suits, plaintiffs, and defendants applies equally to appeals, appellants, and respondents — death of an appellant or respondent during an appeal's pendency is governed by the same abatement/substitution rules.",
+        "essential_elements": [
+          "'Plaintiff' reads as 'appellant' in the appellate context",
+          "'Defendant' reads as 'respondent'",
+          "'Suit' reads as 'appeal'"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Don't assume different, appeal-specific abatement rules exist elsewhere — this Order, read through this translation rule, is the complete framework for death/marriage/insolvency issues at the appellate stage too."
+      }
+    },
+    {
+      "number": "O-XXII-12",
+      "title": "Application of Order to proceedings",
+      "raw_text": "Nothing in rules 3, 4 and 8 shall apply to proceedings in execution of a decree or order.",
+      "key_terms": [
+        "execution proceedings excluded",
+        "Rules 3, 4, 8 inapplicable"
+      ],
+      "breakdown": {
+        "plain_summary": "The substitution-on-death and insolvency-bar rules (Rules 3, 4, and 8) are switched off for execution proceedings — death of a decree-holder or judgment-debtor during execution is instead governed by the specific execution provisions elsewhere in Order XXI, not by this Order's suit-stage machinery.",
+        "essential_elements": [
+          "Rules 3 (death of plaintiff), 4 (death of defendant), and 8 (plaintiff's insolvency) do not apply to execution proceedings"
+        ],
+        "exceptions_and_qualifications": [
+          "Other rules of this Order (e.g., Rule 10 on assignment/devolution, Rule 5 on determining legal-representative status) are not excluded and may still apply by analogy or directly where relevant to execution"
+        ],
+        "how_to_read": "If a decree-holder or judgment-debtor dies during execution, look to the execution-specific machinery (and general principles, since Order XXI itself does not comprehensively restate abatement rules) rather than mechanically applying Rules 3/4/8 — this carve-out is a frequent trap for practitioners who default to the suit-stage rules out of habit."
+      }
     }
   ]
 }
