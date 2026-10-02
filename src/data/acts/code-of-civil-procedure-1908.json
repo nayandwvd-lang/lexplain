@@ -10934,6 +10934,645 @@
         ],
         "how_to_read": "This is the ultimate enforcement teeth behind Order XV-A's entire scheduling architecture — commercial litigators must treat every Case Management deadline as potentially outcome-determinative, not merely administrative."
       }
+    },
+    {
+      "number": "O-XVI",
+      "title": "Order XVI — Summoning and Attendance of Witnesses",
+      "raw_text": "Order XVI governs the entire mechanics of getting witnesses before the Court: filing witness lists and obtaining summonses, paying witness expenses, how summonses are served, what happens when a witness defaults (proclamation, warrant, attachment, fine), when personal attendance can be compelled, and the consequence of a party present in Court refusing to give evidence.",
+      "key_terms": [
+        "witness list",
+        "summons to witness",
+        "proclamation",
+        "warrant of arrest",
+        "attachment of property"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XVI is the coercive machinery behind trial evidence — without it, a party's right to examine witnesses would be meaningless if the witness simply refused to show up. It sets deadlines for listing witnesses and obtaining summonses (Rules 1-1A), who bears the witness's expenses (Rules 2-4), how summonses are drafted and served (Rules 5-9, including the Rule 7A party-service option), and a graduated enforcement ladder for non-compliant witnesses — examination of the serving officer, proclamation, warrant of arrest, property attachment, and fines (Rules 10-13) — capped by territorial limits on when personal attendance can even be compelled (Rule 19) and a sharp sanction (adverse judgment) if a party present in Court simply refuses to testify (Rule 20).",
+        "essential_elements": [
+          "Rule 1: parties must present a witness list and obtain summonses within 15 days of issues being settled (unless the Court appoints another date); an application stating the summoning purpose is required; the Court may permit calling an unlisted witness for good cause; summonses must be obtained within five days of presenting the list.",
+          "Rule 1A: a party may, without applying for summons at all, simply bring any witness to give evidence or produce documents directly.",
+          "Rules 2-4: the applying party must pay into Court the witness's travelling/attendance expenses (with special treatment for experts and for witnesses served directly by the party) before the summons issues; insufficient payment triggers a top-up mechanism enforceable by attachment, or discharge of the witness.",
+          "Rule 5: every summons must specify time, place, and purpose (evidence and/or document production, with reasonable document description).",
+          "Rules 6-7: a person can be summoned to produce a document alone (satisfied by causing production without personal attendance); any person present in Court may be directly required to give evidence or produce a document then and there.",
+          "Rule 7A: the Court may, on application, let the party itself effect service of the summons (mirroring Order V service rules), with re-issue by the Court if party-service fails and no extra service fee where the party serves.",
+          "Rules 8-9: ordinary service follows the Order V defendant-summons procedure (except party-served Rule 7A summonses), with sufficient advance time for preparation and travel.",
+          "Rules 10-13: non-compliance triggers escalating measures — examination of the serving officer/party on oath about service, a public proclamation if evidence is material and non-attendance was without lawful excuse, a warrant of arrest and/or property attachment (Small Causes Courts barred from attaching immovable property), release of attachment if the witness later appears and justifies absence, and a fine up to five hundred rupees plus attachment/sale for satisfying costs and fine (with a show-cause safeguard where attachment/warrant wasn't first used).",
+          "Rule 14: the Court may on its own motion summon any person (including a party) as a witness.",
+          "Rules 15-18: duties once summoned (attend/produce as directed), the default rule that an attending witness must stay for every hearing until disposal unless the Court directs otherwise or the party furnishes security for the witness's return, extension of Rules 10-13 sanctions to a witness who departs without lawful excuse, and the procedure for an arrested witness who cannot testify due to party absence (bail/security pending appearance, or civil detention in default).",
+          "Rule 19: no one can be ordered to attend in person unless resident within the Court's ordinary jurisdiction, or within prescribed distance limits (100/500 km depending on transport availability, extendable where air transport is offered and paid for).",
+          "Rule 20: a party present in Court who, without lawful excuse, refuses to give evidence or produce a document when required may have judgment pronounced against them, or such other order as the Court thinks fit.",
+          "Rule 21: the witness provisions apply equally to a party required to give evidence or produce a document, so far as applicable."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 1A's no-summons-needed route only works 'subject to the provisions of sub-rule (3) of rule 1' — i.e., it doesn't bypass the Court's power to exclude an unlisted witness without sufficient cause.",
+          "Rule 19's distance/jurisdiction cap is a real limit on compelling personal attendance — beyond it, a party must resort to commission-based examination instead (Order XXVI)."
+        ],
+        "how_to_read": "The practical sequencing matters: list witnesses and apply for summons within the Rule 1 timeline, pay expenses promptly to avoid summons delay, and if a witness defaults, move through Rules 10-13's ladder methodically rather than jumping straight to a warrant — Courts expect the lighter measures (examination of the serving officer, proclamation) to be tried first unless urgency justifies skipping ahead."
+      }
+    },
+    {
+      "number": "O-XVI-1",
+      "title": "Order XVI, Rule 1 — List of Witnesses and Summons to Witnesses",
+      "raw_text": "1. List of witnesses and summons to witnesses.—(1) On or before such date as the Court may appoint, and not later than fifteen days after the date on which the issues are settled, the parties shall present in Court a list of witnesses whom they propose to call either to give evidence or to produce documents and obtain summonses to such persons for their attendance in Court. (2) A party desirous of obtaining any summons for the attendance of any person shall file in Court an application stating therein the purpose for which the witness is proposed to be summoned. (3) The Court may, for reasons to be recorded, permit a party to call, whether by summoning through Court or otherwise, any witness, other than those whose names appear in the list referred to in sub-rule (1), if such party shows sufficient cause for the omission to mention the name of such witness in the said list. (4) Subject to the provisions of sub-rule (2), summonses referred to in this rule may be obtained by the parties on an application to the Court or to such officer as may be appointed by the Court in this behalf within five days of presenting the list of witnesses under sub-rule (1).",
+      "key_terms": [
+        "witness list",
+        "15 days",
+        "sufficient cause for omission",
+        "5 days to obtain summons"
+      ],
+      "breakdown": {
+        "plain_summary": "Within 15 days of issues being settled, each party must file its witness list and apply for summonses, stating why each witness is needed. An unlisted witness can still be called later only with the Court's recorded reasons and a showing of sufficient cause for the earlier omission. Actually obtaining the summonses must happen within 5 days of filing the list.",
+        "essential_elements": [
+          "Two deadlines: 15 days (list + summons application) after issues settled, and 5 days (obtaining the summons itself) after presenting the list.",
+          "Each summons application must state its purpose.",
+          "Late witnesses require Court permission on recorded reasons plus sufficient cause for the earlier omission — not automatic."
+        ],
+        "exceptions_and_qualifications": [
+          "The Court can appoint a different date than the default 15-day mark — 'on or before such date as the Court may appoint' is the governing deadline if set."
+        ],
+        "how_to_read": "Missing the 15-day window without later showing sufficient cause under sub-rule (3) is a real risk to losing a witness — counsel should file a protective, even tentative, witness list early rather than wait for certainty about exactly who will testify."
+      }
+    },
+    {
+      "number": "O-XVI-1A",
+      "title": "Order XVI, Rule 1A — Production of Witnesses Without Summons",
+      "raw_text": "1A. Production of witnesses without summons.—Subject to the provisions of sub-rule (3) of rule 1, any party to the suit may, without applying for summons under rule 1, bring any witness to give evidence or to produce documents.",
+      "key_terms": [
+        "production without summons",
+        "voluntary witness"
+      ],
+      "breakdown": {
+        "plain_summary": "A party doesn't have to formally summon every witness — it can simply bring a willing witness to Court directly, so long as this doesn't circumvent the Rule 1(3) requirement of showing sufficient cause for an unlisted witness.",
+        "essential_elements": [
+          "No summons application needed for witnesses the party can simply produce voluntarily.",
+          "Still subject to the Rule 1(3) listed-witness/sufficient-cause discipline."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical shortcut where the witness is cooperative (e.g., the party's own employee or a willing expert) — saves the time and expense of the formal summons process."
+      }
+    },
+    {
+      "number": "O-XVI-2",
+      "title": "Order XVI, Rule 2 — Expenses of Witness to Be Paid into Court on Applying for Summons",
+      "raw_text": "2. Expenses of witness to be paid into Court on applying for summons.—(1) The party applying for a summons shall, before the summons is granted and within a period to be fixed which shall not be later than seven days from the date of making applications under sub-rule (4) of rule 1, pay into Court such a sum of money as appears to the Court to be sufficient to defray the travelling and other expenses of the person summoned in passing to and from the Court in which he is required to attend, and for one day's attendance. (2) Experts.—In determining the amount payable under this rule, the Court may, in the case of any person summoned to give evidence as an expert, allow reasonable remuneration for the time occupied both in giving evidence and in performing any work of an expert character necessary for the case. (3) Scale of expenses.—Where the Court is subordinate to a High Court, regard shall be had, in fixing the scale of such expenses, to any rules made in that behalf. (4) Expenses to be directly paid to witnesses.—Where the summons is served directly by the party on a witness, the expenses referred to in sub-rule (1) shall be paid to the witness by the party or his agent.",
+      "key_terms": [
+        "travelling expenses",
+        "expert remuneration",
+        "seven days"
+      ],
+      "breakdown": {
+        "plain_summary": "Before a summons is actually granted, the applying party must deposit enough money to cover the witness's travel and one day's attendance (within 7 days of the summons application); experts get reasonable remuneration for both testifying and expert work; and where the party itself serves the summons under Rule 7A, expenses go directly to the witness rather than through the Court.",
+        "essential_elements": [
+          "Payment is a precondition to the summons being granted at all.",
+          "7-day deadline runs from the Rule 1(4) summons application.",
+          "Experts receive a different, work-inclusive remuneration standard.",
+          "Direct-service summonses (Rule 7A) mean direct expense payment, bypassing the Court deposit route."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Budgeting witness expenses promptly avoids summons delay — Courts will not issue the summons until the deposit lands."
+      }
+    },
+    {
+      "number": "O-XVI-3",
+      "title": "Order XVI, Rule 3 — Tender of Expenses to Witness",
+      "raw_text": "3. Tender of expenses to witness.—The sum so paid into Court shall be tendered to the person summoned, at the time of serving the summons, if it can be served personally.",
+      "key_terms": [
+        "tender of expenses",
+        "personal service"
+      ],
+      "breakdown": {
+        "plain_summary": "The deposited expense money must actually be handed to the witness at the moment of personal service, not simply held by the Court indefinitely.",
+        "essential_elements": [
+          "Applies where personal service is achievable."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A technical but important compliance point for serving officers — failure to tender can itself become a ground the witness cites for non-attendance."
+      }
+    },
+    {
+      "number": "O-XVI-4",
+      "title": "Order XVI, Rule 4 — Procedure Where Insufficient Sum Paid In",
+      "raw_text": "4. Procedure where insufficient sum paid in.—(1) Where it appears to the Court or to such officer as it appoints in this behalf that the sum paid into Court is not sufficient to cover such expenses or reasonable remuneration, the Court may direct such further sum to be paid to the person summoned as appears to be necessary on that account, and, in case of default in payment, may order such sum to be levied by attachment and sale of the movable property of the party obtaining the summons, or the Court may discharge the person summoned without requiring him to give evidence; or may both order such levy and discharge such person as aforesaid. (2) Expenses of witnesses detained more than one day.—Where it is necessary to detain the person summoned for a longer period than one day, the Court may, from time to time, order the party at whose instance he was summoned to pay into Court such sum as is sufficient to defray the expenses of his detention for such further period, and, in default of such deposit being made, may order such sum to be levied by attachment and sale of the movable property of such party; or the Court may discharge the person summoned without requiring him to give evidence; or may both order such levy and discharge such person as aforesaid.",
+      "key_terms": [
+        "top-up expenses",
+        "attachment and sale",
+        "discharge of witness"
+      ],
+      "breakdown": {
+        "plain_summary": "If the initial deposit proves insufficient — either at the outset or because the witness is needed beyond one day — the Court can order a top-up, enforceable by attaching and selling the defaulting party's movable property, and/or simply discharge the witness from further attendance.",
+        "essential_elements": [
+          "Two scenarios: initial insufficiency, and extended detention beyond one day.",
+          "Enforcement mechanism: attachment and sale of the summoning party's movable property.",
+          "Alternative/cumulative remedy: discharge of the witness."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A party calling an expert or out-of-town witness for a multi-day examination should anticipate repeated top-up deposit demands as the examination extends."
+      }
+    },
+    {
+      "number": "O-XVI-5",
+      "title": "Order XVI, Rule 5 — Time, Place and Purpose of Attendance to Be Specified in Summons",
+      "raw_text": "5. Time, place and purpose of attendance to be specified in summons.—Every summons for the attendance of a person to give evidence or to produce a document shall specify the time and place at which he is required to attend, and also whether his attendance is required for the purpose of giving evidence or to produce a document or for both purposes; and any particular document, which the person summoned is called on to produce shall be described in the summons with reasonable accuracy.",
+      "key_terms": [
+        "time and place",
+        "purpose of attendance",
+        "reasonable accuracy"
+      ],
+      "breakdown": {
+        "plain_summary": "A valid witness summons must state exactly when and where to attend, and precisely why (evidence, document production, or both) — with any demanded document described accurately enough to be identified.",
+        "essential_elements": [
+          "Mandatory content: time, place, purpose(s), and (if applicable) a reasonably accurate document description."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A summons vague about purpose or document identity is vulnerable to challenge — drafting counsel should be specific to avoid later disputes about scope."
+      }
+    },
+    {
+      "number": "O-XVI-6",
+      "title": "Order XVI, Rule 6 — Summons to Produce Document",
+      "raw_text": "6. Summons to produce document.—Any person may be summoned to produce a document, without being summoned to give evidence; and any person summoned merely to produce a document shall be deemed to have complied with the summons if he causes such document to be produced instead of attending personally to produce the same.",
+      "key_terms": [
+        "document-only summons",
+        "deemed compliance"
+      ],
+      "breakdown": {
+        "plain_summary": "A person can be summoned purely to produce a document, without needing to testify — and such a person satisfies the summons just by causing the document to reach the Court, without personally attending.",
+        "essential_elements": [
+          "Document-only summons is distinct from an evidence summons.",
+          "Compliance can be achieved without personal attendance — causing production suffices."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Useful for custodians (banks, government offices) who hold a relevant document but have no personal knowledge relevant to testify about."
+      }
+    },
+    {
+      "number": "O-XVI-7",
+      "title": "Order XVI, Rule 7 — Power to Require Persons Present in Court to Give Evidence or Produce Document",
+      "raw_text": "7. Power to require persons present in Court to give evidence or produce document.—Any person present in Court may be required by the Court to give evidence or to produce any document then and there in his possession or power.",
+      "key_terms": [
+        "person present in Court",
+        "on-the-spot direction"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court can direct anyone physically present in the courtroom — even without a prior summons — to testify or produce a document they then have in their possession or power.",
+        "essential_elements": [
+          "No prior summons needed — presence in Court plus possession/power of the document/evidence suffices."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A useful spontaneous tool where a relevant person happens to be present (e.g., accompanying a party) and a summons was never issued."
+      }
+    },
+    {
+      "number": "O-XVI-7A",
+      "title": "Order XVI, Rule 7A — Summons Given to the Party for Service",
+      "raw_text": "7A. Summons given to the party for service.—(1) The Court may, on the application of any party for the issue of a summons for the attendance of any person, permit such party to effect service of such summons on such person and shall, in such a case, deliver the summons to such party for service. (2) The service of such summons shall be effected by or on behalf of such party by delivering or tendering to the witness personally a copy thereof signed by the Judge or such officer of the Court as he may appoint in this behalf and sealed with the seal of the Court. (3) The provisions of rules 16 and 18 of Order V shall apply to a summons personally served under this rule as if the person effecting service were a serving officer. (4) If such summons, when tendered, is refused or if the person served refuses to sign an acknowledgement of service or for any reason such summons cannot be served personally, the Court shall, on the application of the party, re-issue such summons to be served by the Court in the same manner as a summons to a defendant. (5) Where a summons is served by a party under this rule, the party shall not be required to pay the fees otherwise chargeable for the service of summons.",
+      "key_terms": [
+        "party-effected service",
+        "re-issue on failed service",
+        "no service fee"
+      ],
+      "breakdown": {
+        "plain_summary": "A party can ask the Court for permission to serve the witness summons itself rather than relying on Court machinery — the Court hands over the signed, sealed summons copy for the party to personally deliver. If that self-service fails (refusal, inability to serve), the Court re-issues and serves it the ordinary way upon application. Party-service also exempts the party from the usual service fee.",
+        "essential_elements": [
+          "Requires Court permission on application.",
+          "Service must still follow formal requirements (signed, sealed copy; Order V Rules 16/18 proof-of-service standards apply).",
+          "Failure triggers mandatory re-issue through ordinary Court service on application.",
+          "Fee exemption is a direct incentive for parties to use this route."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical, cost-saving option in cases where the party's own process (private process server or the advocate's clerk) can reach the witness faster/more reliably than the Court's own serving officers."
+      }
+    },
+    {
+      "number": "O-XVI-8",
+      "title": "Order XVI, Rule 8 — Summons How Served",
+      "raw_text": "8. Summons how served.—Every summons under this Order, not being a summons delivered to a party for service under rule 7A, shall be served as nearly as may be in the same manner as a summons to a defendant and the rules in Order V as to proof of service shall apply in the case of all summonses served under this rule.",
+      "key_terms": [
+        "service like defendant summons",
+        "Order V proof of service"
+      ],
+      "breakdown": {
+        "plain_summary": "Apart from the Rule 7A party-service exception, every witness summons is served the same way a defendant's summons is served under Order V, including Order V's proof-of-service rules.",
+        "essential_elements": [
+          "Default rule applies Order V's full service mechanics to witness summonses by cross-reference."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Anchors witness-summons service practice to the much more detailed Order V regime rather than reinventing service rules here."
+      }
+    },
+    {
+      "number": "O-XVI-9",
+      "title": "Order XVI, Rule 9 — Time for Serving Summons",
+      "raw_text": "9. Time for serving summons.—Service shall in all cases be made a sufficient time before the time specified in the summons for the attendance of the person summoned, to allow him a reasonable time for preparation and for travelling to the place at which his attendance is required.",
+      "key_terms": [
+        "sufficient time before attendance",
+        "reasonable preparation and travel time"
+      ],
+      "breakdown": {
+        "plain_summary": "A summons must be served early enough before the required attendance date to give the witness a reasonable window to prepare and travel.",
+        "essential_elements": [
+          "Fact-specific standard — 'sufficient'/'reasonable' time depends on distance and preparation needs."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A witness served unreasonably close to the attendance date has a legitimate basis to seek an adjournment or resist sanctions for non-attendance."
+      }
+    },
+    {
+      "number": "O-XVI-10",
+      "title": "Order XVI, Rule 10 — Procedure Where Witness Fails to Comply with Summons",
+      "raw_text": "10. Procedure where witness fails to comply with summons.—(1) Where a person to whom a summons has been issued either to attend to give evidence or to produce a document, fails to attend or to produce the document in compliance with such summons, the Court— (a) shall, if the certificate of the serving officer has not been verified by the affidavit, or if service of the summons has been effected by a party or his agent, or (b) may, if the certificate of the serving officer has been so verified, examine on oath the serving officer or the party or his agent, as the case may be, who has effected service, or cause him to be so examined by any Court, touching the service or non-service of the summons. (2) Where the Court sees reason to believe that such evidence or production is material, and that such person has, without lawful excuse, failed to attend or to produce the document in compliance with such summons or has intentionally avoided service, it may issue a proclamation requiring him to attend to give evidence or to produce the document at a time and place to be named therein; and a copy of such proclamation shall be affixed on the outer door or other conspicuous part of the house in which he ordinarily resides. (3) In lieu of or at the time of issuing such proclamation, or at any time afterwards, the Court may, in its discretion, issue a warrant, either with or without bail, for the arrest of such person, and may make an order for the attachment of his property to such amount as it thinks fit, not exceeding the amount of the costs of attachment and of any fine which may be imposed under rule 12: Provided that no Court of Small Causes shall make an order for the attachment of immovable property.",
+      "key_terms": [
+        "examine serving officer",
+        "proclamation",
+        "warrant of arrest",
+        "attachment of property"
+      ],
+      "breakdown": {
+        "plain_summary": "When a summoned witness defaults, the first step is verifying service — examining the serving officer or party/agent on oath about whether and how service occurred (mandatory if the certificate isn't affidavit-verified or was party-served, discretionary otherwise). If service is confirmed and the default is without lawful excuse (or service was intentionally evaded) and the evidence is material, the Court may proclaim the person to attend, and/or issue an arrest warrant and attach property — though Small Causes Courts cannot attach immovable property.",
+        "essential_elements": [
+          "Step 1 (sometimes mandatory): examine the serving officer/party/agent on service.",
+          "Step 2 trigger: materiality of the evidence + unlawful-excuse-free default or intentional evasion.",
+          "Step 2 tools: proclamation (affixed at the residence) and/or an arrest warrant with/without bail, plus property attachment capped at attachment-cost-plus-potential-fine.",
+          "Small Causes Courts are barred from attaching immovable property under this rule."
+        ],
+        "exceptions_and_qualifications": [
+          "The proclamation and warrant/attachment tools are available 'in lieu of or at the time of' each other, or 'at any time afterwards' — the Court has flexible sequencing, not a rigid order."
+        ],
+        "how_to_read": "This is the core enforcement rule for a recalcitrant witness — practitioners seeking to compel a hostile witness should be ready to establish both materiality and lack of lawful excuse to justify escalation beyond mere proclamation to arrest/attachment."
+      }
+    },
+    {
+      "number": "O-XVI-11",
+      "title": "Order XVI, Rule 11 — If Witness Appears Attachment May Be Withdrawn",
+      "raw_text": "11. If witness appears attachment may be withdrawn.—Where, at any time after the attachment of his property, such person appears and satisfies the Court,— (a) that he did not, without lawful excuse, fail to comply with the summons or intentionally avoid service, and, (b) where he has failed to attend at the time and place named in a proclamation issued under the last preceding rule, that he had no notice of such proclamation in time to attend, the Court shall direct that the property be released from attachment, and shall make such order as to the costs of the attachment as it thinks fit.",
+      "key_terms": [
+        "release from attachment",
+        "lawful excuse shown",
+        "no notice of proclamation"
+      ],
+      "breakdown": {
+        "plain_summary": "A witness whose property was attached can get it released by later appearing and satisfying the Court that the earlier default wasn't without lawful excuse/intentional evasion, and (if a proclamation was missed) that they had no timely notice of it.",
+        "essential_elements": [
+          "Two-part justification required where a proclamation was also missed; one part if attachment followed straight from summons default.",
+          "Release is mandatory once the Court is satisfied — but costs of attachment remain at the Court's discretion."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A witness facing attachment should move promptly to explain the default, since release is available as of right once the justification is accepted — but the attachment costs may still be imposed."
+      }
+    },
+    {
+      "number": "O-XVI-12",
+      "title": "Order XVI, Rule 12 — Procedure If Witness Fails to Appear",
+      "raw_text": "12. Procedure if witness fails to appear.—(1) The Court may, where such person does not appear, or appears but fails so to satisfy the Court, impose upon him such fine not exceeding five hundred rupees as it thinks fit, having regard to his condition in life and all the circumstances of the case, and may order his property, or any part thereof, to be attached and sold or, if already attached under rule 10, to be sold for the purpose of satisfying all costs of such attachment, together with the amount of the said fine, if any: Provided that, if the person whose attendance is required pays into Court the costs and fine aforesaid, the Court shall order the property to be released from attachment. (2) Notwithstanding that the Court has not issued a proclamation under sub-rule (2) of rule 10, nor issued a warrant nor ordered attachment under sub-rule (3) of that rule, the Court may impose fine under sub-rule (1) of this rule after giving notice to such person to show cause why the fine should not be imposed.",
+      "key_terms": [
+        "fine up to five hundred rupees",
+        "sale of attached property",
+        "show-cause before fine"
+      ],
+      "breakdown": {
+        "plain_summary": "If the witness still fails to appear (or appears but can't justify the default under Rule 11), the Court may impose a fine up to Rs. 500 (calibrated to the person's circumstances) and order sale of attached property to cover attachment costs plus the fine — though paying the costs and fine releases the property. Even without having gone through proclamation/warrant/attachment first, the Court can still impose this fine after a show-cause notice.",
+        "essential_elements": [
+          "Fine ceiling: five hundred rupees, calibrated to the person's condition in life and circumstances.",
+          "Property sale targets attachment costs plus fine.",
+          "A payment-triggered release proviso exists.",
+          "A standalone show-cause fine route exists independent of the Rule 10 proclamation/warrant/attachment sequence."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The Rs. 500 ceiling is a historical figure (unamended), making the fine itself largely symbolic today — the real deterrent is the property attachment and sale mechanism, not the fine amount."
+      }
+    },
+    {
+      "number": "O-XVI-13",
+      "title": "Order XVI, Rule 13 — Mode of Attachment",
+      "raw_text": "13. Mode of attachment.—The provisions with regard to the attachment and sale of property in the execution of a decree shall, so far as they are applicable, be deemed to apply to any attachment and sale under this Order as if the person whose property is so attached were a judgment-debtor.",
+      "key_terms": [
+        "execution-mode attachment",
+        "judgment-debtor analogy"
+      ],
+      "breakdown": {
+        "plain_summary": "Attachment and sale of a defaulting witness's property under this Order follows the same procedural rules as attachment/sale in decree execution, treating the witness as if they were a judgment-debtor.",
+        "essential_elements": [
+          "Cross-references the Order XXI execution-of-decree attachment/sale machinery wholesale, so far as applicable."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Practitioners handling a witness-property attachment should consult the detailed Order XXI procedural rules on attachment modes, since this rule simply imports them rather than restating them."
+      }
+    },
+    {
+      "number": "O-XVI-14",
+      "title": "Order XVI, Rule 14 — Court May of Its Own Accord Summon as Witnesses Strangers to Suit",
+      "raw_text": "14. Court may of its own accord summon as witnesses strangers to suit.—Subject to the provisions of this Code as to attendance and appearance and to any law for the time being in force, where the Court at any time thinks it necessary to examine any person, including a party to the suit, and not called as a witness by a party to the suit, the Court may, of its own motion, cause such person to be summoned as a witness to give evidence, or to produce any document in his possession, on a day to be appointed, and may examine him as a witness or require him to produce such document.",
+      "key_terms": [
+        "suo motu summoning",
+        "stranger to the suit",
+        "including a party"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court itself, without waiting for either side, can summon anyone — including a party who wasn't called as a witness by either side — if it considers their examination necessary to the case.",
+        "essential_elements": [
+          "Covers 'strangers to the suit' and parties alike.",
+          "Exercised entirely of the Court's own motion, subject to the Code's general attendance rules and other applicable law."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "An important judicial fact-finding power — a Court unsatisfied with the evidence before it is not confined to what the parties choose to present."
+      }
+    },
+    {
+      "number": "O-XVI-15",
+      "title": "Order XVI, Rule 15 — Duty of Persons Summoned to Give Evidence or Produce Document",
+      "raw_text": "15. Duty of persons summoned to give evidence or produce document.—Subject as last aforesaid, whoever is summoned to appear and give evidence in a suit shall attend at the time and place named in the summons for that purpose, and whoever is summoned to produce a document shall either attend to produce it, or cause it to be produced, at such time and place.",
+      "key_terms": [
+        "duty to attend",
+        "duty to produce"
+      ],
+      "breakdown": {
+        "plain_summary": "A straightforward restatement of the core obligation: attend as summoned to give evidence, or ensure the document reaches the Court (personally or by causing its production) as summoned.",
+        "essential_elements": [
+          "Baseline compliance obligation underlying the entire enforcement ladder in Rules 10-13."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The textual anchor for every later sanction — non-compliance with this duty is what triggers Rules 10-13."
+      }
+    },
+    {
+      "number": "O-XVI-16",
+      "title": "Order XVI, Rule 16 — When They May Depart",
+      "raw_text": "16. When they may depart.—(1) A person so summoned and attending shall, unless the Court otherwise directs, attend at each hearing until the suit has been disposed of. (2) On the application of either party and the payment through the Court of all necessary expenses (if any), the Court may require any person so summoned and attending to furnish security to attend at the next or any other hearing or until the suit is disposed of and, in default of his furnishing such security, may order him to be detained in the civil prison.",
+      "key_terms": [
+        "continuing attendance obligation",
+        "security to attend",
+        "civil detention in default"
+      ],
+      "breakdown": {
+        "plain_summary": "A summoned witness must, by default, keep attending every hearing until the suit is fully disposed of — not just the day they testify — unless the Court excuses them. A party can also force a witness to post security to guarantee future attendance, backed by civil detention if the witness refuses.",
+        "essential_elements": [
+          "Default rule: continuous attendance obligation until disposal, absent a Court direction otherwise.",
+          "Security-for-attendance mechanism requires the applying party to pay necessary expenses through Court.",
+          "Civil detention is the sanction for refusing to furnish required security."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A witness expecting to testify once and leave should seek an explicit Court direction releasing them, since the default rule binds them to the whole suit's duration."
+      }
+    },
+    {
+      "number": "O-XVI-17",
+      "title": "Order XVI, Rule 17 — Application of Rules 10 to 13",
+      "raw_text": "17. Application of rules 10 to 13.—The provisions of rules 10 to 13 shall, so far as they are applicable, be deemed to apply to any person who having attended in compliance with a summons departs, without lawful excuse, in contravention of rule 16.",
+      "key_terms": [
+        "unlawful departure",
+        "extension of enforcement ladder"
+      ],
+      "breakdown": {
+        "plain_summary": "The same proclamation/warrant/attachment/fine enforcement ladder that applies to witnesses who never show up also applies to a witness who shows up but then improperly leaves before being released under Rule 16.",
+        "essential_elements": [
+          "Deeming provision extending Rules 10-13 to a distinct scenario — unlawful departure rather than initial non-attendance."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Counsel should warn witnesses explicitly that attending once does not end their obligations — leaving without Rule 16 permission or security exposes them to the same sanctions as never attending at all."
+      }
+    },
+    {
+      "number": "O-XVI-18",
+      "title": "Order XVI, Rule 18 — Procedure Where Witness Apprehended Cannot Give Evidence or Produce Document",
+      "raw_text": "18. Procedure where witness apprehended cannot give evidence or produce document.—Where any person arrested under a warrant is brought before the Court in custody and cannot, owing to the absence of the parties or any of them, give the evidence or produce the document which he has been summoned to give or produce, the court may require him to give reasonable bail or other security for his appearance at such time and place as it thinks fit, and, on such bail or security being given, may release him, and, in default of his giving such bail or security, may order him to be detained in the civil prison.",
+      "key_terms": [
+        "bail pending appearance",
+        "release on security",
+        "civil detention"
+      ],
+      "breakdown": {
+        "plain_summary": "If an arrested witness is produced but can't actually testify yet because a party is absent, the Court can release them on bail/security for a later appearance date — and detain them in civil prison only if they fail to furnish that bail/security.",
+        "essential_elements": [
+          "Trigger: arrest followed by inability to proceed due to party absence.",
+          "Default/favoured outcome: release on reasonable bail/security.",
+          "Detention is the fallback only for failure to furnish bail/security."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A humane provision — an arrested witness isn't punished for a scheduling problem caused by the parties' own absence; detention is reserved for actual non-cooperation with the bail/security requirement."
+      }
+    },
+    {
+      "number": "O-XVI-19",
+      "title": "Order XVI, Rule 19 — No Witness to Be Ordered to Attend in Person Unless Resident Within Certain Limits",
+      "raw_text": "19. No witness to be ordered to attend in person unless resident within certain limits.—No one shall be ordered to attend in person to give evidence unless he resides— (a) within the local limits of the Court's ordinary jurisdiction, or (b) without such limits but at a place less than one hundred or (where there is railway or steamer communication or other established public conveyance for five-sixths of the distance between the place where he resides and the place where the Court is situate) less than five hundred kilometres distance from the court-house: Provided that where transport by air is available between the two places mentioned in this rule and the witness is paid the fare by air, he may be ordered to attend in person.",
+      "key_terms": [
+        "jurisdictional limit",
+        "distance limit",
+        "air transport proviso"
+      ],
+      "breakdown": {
+        "plain_summary": "Personal attendance can only be compelled if the witness lives within the Court's ordinary jurisdiction, or within 100 km (or up to 500 km if most of the distance is covered by rail/steamer/established public transport), unless air transport is available and the witness's airfare is paid, in which case personal attendance can be ordered regardless of distance.",
+        "essential_elements": [
+          "Base rule: jurisdiction or 100 km.",
+          "Extended rule: up to 500 km where five-sixths of the route has rail/steamer/public conveyance.",
+          "Air-transport proviso: distance cap disappears entirely if air travel is available and the witness is paid the fare."
+        ],
+        "exceptions_and_qualifications": [
+          "Beyond these limits, compelling testimony requires an alternative mechanism such as a commission under Order XXVI, not a personal-attendance summons."
+        ],
+        "how_to_read": "A critical jurisdictional check before applying for a witness summons — an out-of-range witness (absent air-fare payment) cannot lawfully be compelled to attend in person, and counsel should plan for commission-based examination instead."
+      }
+    },
+    {
+      "number": "O-XVI-20",
+      "title": "Order XVI, Rule 20 — Consequence of Refusal of Party to Give Evidence When Called on by Court",
+      "raw_text": "20. Consequence of refusal of party to give evidence when called on by Court.—Where any party to a suit present in Court refuses, without lawful excuse, when required by the Court, to give evidence or to produce any document then and there in his possession or power, the Court may pronounce judgment against him or make such order in relation to the suit as it thinks fit.",
+      "key_terms": [
+        "party refusal",
+        "adverse judgment"
+      ],
+      "breakdown": {
+        "plain_summary": "A party physically present in Court who refuses, without lawful excuse, to testify or produce a document the Court calls for risks an immediate adverse judgment or other order the Court sees fit.",
+        "essential_elements": [
+          "Applies specifically to a party (not a third-party witness) present in Court.",
+          "Trigger: refusal without lawful excuse when required by the Court.",
+          "Sanction: judgment against the refusing party, or any other order the Court deems fit."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A sharp deterrent against a party trying to avoid damaging testimony by simply stonewalling in open Court — the consequence can be as severe as losing the case outright."
+      }
+    },
+    {
+      "number": "O-XVI-21",
+      "title": "Order XVI, Rule 21 — Rules as to Witnesses to Apply to Parties Summoned",
+      "raw_text": "21. Rules as to witnesses to apply to parties summoned.—Where any party to a suit is required to give evidence or to produce a document, the provisions as to witnesses shall apply to him so far as they are applicable.",
+      "key_terms": [
+        "parties as witnesses",
+        "applicability of witness rules"
+      ],
+      "breakdown": {
+        "plain_summary": "When a party itself is required to give evidence or produce documents, the whole Order XVI witness regime — summons, expenses, enforcement ladder — applies to that party too, to the extent it fits.",
+        "essential_elements": [
+          "General extension clause closing out the Order — parties summoned as witnesses are treated as witnesses for procedural purposes."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Confirms there's no special carve-out for parties — a party who is also a necessary witness faces the same compulsion machinery as any third party would."
+      }
+    },
+    {
+      "number": "O-XVI-A",
+      "title": "Order XVI-A — Attendance of Witnesses Confined or Detained in Prisons",
+      "raw_text": "Order XVI-A sets out the special procedure for securing evidence from a person confined or detained in prison — balancing the materiality of their testimony against prison security, including State Government powers to exclude certain prisoners from being produced and a fallback to commission-based examination inside the prison itself.",
+      "key_terms": [
+        "prisoner witness",
+        "subsidiary jail",
+        "commission in prison",
+        "State Government exclusion order"
+      ],
+      "breakdown": {
+        "plain_summary": "This Order addresses a scenario the main Order XVI machinery doesn't handle well: a material witness who is himself incarcerated. Rule 2 lets the Court order the prison officer to produce the prisoner for evidence (with a 25 km distance threshold requiring the Court to first consider whether commission examination would suffice), Rule 3 requires the requesting party to fund the escort/travel expenses in advance, Rule 4 gives the State Government a broad power to shield certain prisoners/classes from production on public-order or offence-related grounds, Rule 5 excuses the prison officer from compliance in specific circumstances (medical unfitness, pending trial/remand, imminent release, State Government exclusion) with a mandatory reasons-statement to the Court, Rule 6 governs safe custody once produced, and Rule 7 provides the fallback commission-in-prison route where attendance genuinely cannot be secured.",
+        "essential_elements": [
+          "Rule 1: defines 'detained' (including preventive detention) and 'prison' (including declared subsidiary jails, reformatories, borstal institutions, and similar institutions).",
+          "Rule 2: the Court may order the prison officer-in-charge to produce a prisoner whose evidence is material — but if the prison is more than 25 km from the courthouse, no such order unless the Court is satisfied commission-based examination would be inadequate.",
+          "Rule 3: before making a Rule 2 order, the Court must require the requesting/benefiting party to deposit sufficient funds covering execution expenses, including escort travel costs; High Court-subordinate Courts must have regard to High Court-fixed expense scales.",
+          "Rule 4: the State Government may, by general/special order (having regard to the offence/grounds of confinement, public-order disturbance risk, and general public interest), direct that a person/class not be removed from prison, overriding any Rule 2 order while the exclusion order remains in force.",
+          "Rule 5: the prison officer must abstain from executing a Rule 2 order (sending the Court a statement of reasons instead) where the prisoner is medically certified unfit to be removed, is under committal/remand/pending preliminary investigation, is in custody for a period expiring before the order could be complied with and the prisoner returned, or falls under a Rule 4 State Government exclusion order.",
+          "Rule 6: in any other case, the prison officer must produce the person in Court per the order and keep him in custody in/near the Court until examined or authorised to be taken back.",
+          "Rule 7: where attendance cannot be secured under the preceding rules, the Court may issue a commission to examine the prisoner (within the State or elsewhere in India) inside the prison, with Order XXVI's commission-examination provisions applying so far as may be."
+        ],
+        "exceptions_and_qualifications": [
+          "The 25 km threshold in Rule 2 is a real gating condition, not merely advisory — beyond it, the Court must affirmatively find commission examination inadequate before ordering physical production.",
+          "Rule 5's exclusion grounds operate automatically on the prison officer (a duty to abstain, not a mere discretion), subject only to the obligation to report reasons to the Court."
+        ],
+        "how_to_read": "A party needing testimony from an incarcerated witness should anticipate the commission-in-prison route (Rule 7) as the practical default for any witness far from the courthouse or falling under one of Rule 5's exclusion grounds, rather than assuming physical production will be ordered."
+      }
+    },
+    {
+      "number": "O-XVI-A-1",
+      "title": "Order XVI-A, Rule 1 — Definitions",
+      "raw_text": "1. Definitions.—In this Order,— (a) \"detained\" includes detained under any law providing for preventive detention; (b) \"prison\" includes— (i) any place which has been declared by the State Government, by general or special order, to be a subsidiary jail; and (ii) any reformatory, borstal institution or other institution of a like nature.",
+      "key_terms": [
+        "detained",
+        "prison",
+        "subsidiary jail",
+        "reformatory",
+        "borstal institution"
+      ],
+      "breakdown": {
+        "plain_summary": "Defines the Order's two key terms broadly: 'detained' expressly includes preventive detention, and 'prison' expressly includes declared subsidiary jails, reformatories, borstal institutions, and similar institutions — not just formal central/district jails.",
+        "essential_elements": [
+          "Both definitions are inclusive ('includes'), extending beyond the ordinary dictionary sense."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Confirms the Order applies to the full range of custodial institutions, including juvenile/reform facilities and preventive-detention custody, not merely convicted-prisoner jails."
+      }
+    },
+    {
+      "number": "O-XVI-A-2",
+      "title": "Order XVI-A, Rule 2 — Power to Require Attendance of Prisoners to Give Evidence",
+      "raw_text": "2. Power to require attendance of prisoners to give evidence.—Where it appears to a Court that the evidence of a person confined or detained in a prison within the State is material in a suit, the Court may make an order requiring the officer in charge of the prison to produce that person before the Court to give evidence: Provided that, if the distance from the prison to the Court-house is more than twenty-five kilometers, no such order shall be made unless the Court is satisfied that the examination of such person on commission will not be adequate.",
+      "key_terms": [
+        "material evidence",
+        "25 kilometres",
+        "commission inadequacy finding"
+      ],
+      "breakdown": {
+        "plain_summary": "The core production-order power, limited to prisons within the State, triggered by a materiality finding, and gated beyond 25 km by a mandatory prior finding that commission-based examination would be inadequate.",
+        "essential_elements": [
+          "Materiality of the evidence is the threshold requirement.",
+          "Geographic limit: within the State.",
+          "25 km proviso: production order barred unless commission examination is affirmatively found inadequate."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Counsel seeking physical production of a distant prisoner-witness must build an evidentiary record on why commission examination won't suffice — a bare assertion of materiality is not enough beyond 25 km."
+      }
+    },
+    {
+      "number": "O-XVI-A-3",
+      "title": "Order XVI-A, Rule 3 — Expenses to Be Paid into Court",
+      "raw_text": "3. Expenses to be paid into Court.—(1) Before making any order under rule 2, the Court shall require the party at whose instance or for whose benefit the order is to be issued, to pay into Court such sum of money as appears to the Court to be sufficient to defray the expenses of the execution of the order, including the travelling and other expenses of the escort provided for the witness. (2) Where the Court is subordinate to a High Court, regard shall be had, in fixing the scale of such expenses, to any rules made by the High Court in that behalf.",
+      "key_terms": [
+        "escort expenses",
+        "High Court expense scales"
+      ],
+      "breakdown": {
+        "plain_summary": "As a precondition to a Rule 2 production order, the requesting/benefiting party must fund the full cost of execution, including the witness's prison escort — with subordinate Courts following High Court-fixed expense scales where applicable.",
+        "essential_elements": [
+          "Deposit is a mandatory precondition, not optional.",
+          "Covers escort costs specifically, beyond ordinary witness travel expenses."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A cost factor parties should weigh when deciding whether physical production or commission examination is the more economical route for a prisoner-witness."
+      }
+    },
+    {
+      "number": "O-XVI-A-4",
+      "title": "Order XVI-A, Rule 4 — Power of State Government to Exclude Certain Persons from the Operation of Rule 2",
+      "raw_text": "4. Power of State Government to exclude certain persons from the operation of rule 2.—(1) The State Government may, at any time, having regard to the matters specified in sub-rule (2), by general or special order, direct that any person or class of persons shall not be removed from the prison in which he or they may be confined or detained, and thereupon, so long as the order remains in force, no order made under rule 2, whether before or after the date of the order made by the State Government, shall have effect in respect of such person or class of persons. (2) Before making an order under sub-rule (1), the State Government shall have regard to the following matters, namely:— (a) the nature of the offence for which, or the grounds on which, the person or class of persons have been ordered to be confined or detained in prison; (b) the likelihood of the disturbance of public order if the person or class of persons is allowed to be removed from the prison; and (c) the public interest, generally.",
+      "key_terms": [
+        "State Government exclusion order",
+        "overrides prior Rule 2 orders",
+        "public order"
+      ],
+      "breakdown": {
+        "plain_summary": "The State Government can categorically bar removal of a person or class of persons from prison for testimony purposes, based on the nature of their offence/detention grounds, public-order disturbance risk, and general public interest — and this exclusion overrides even a Rule 2 order already made, for as long as the exclusion order stands.",
+        "essential_elements": [
+          "Exclusion can target an individual or a defined class.",
+          "Three mandatory considerations before the State Government acts.",
+          "Retroactive override effect on pre-existing Rule 2 orders while the exclusion order is in force."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A significant executive check on judicial production orders — security-sensitive prisoners (e.g., certain preventive detainees) may simply never be producible regardless of evidentiary materiality, pushing the case to the Rule 7 commission-in-prison route instead."
+      }
+    },
+    {
+      "number": "O-XVI-A-5",
+      "title": "Order XVI-A, Rule 5 — Officer in Charge of Prison to Abstain from Carrying Out Order in Certain Cases",
+      "raw_text": "5. Officer in charge of prison to abstain from carrying out order in certain cases.—Where the person in respect of whom an order is made under rule 2— (a) is certified by the medical officer attached to the prison as unfit to be removed from the prison by reason of sickness or infirmity, or (b) is under committal for trial or under remand pending trial or pending a preliminary investigation; or (c) is in custody for a period which would expire before the expiration of the time required for complying with the order and for taking him back to the prison in which he is confined or detained; or (d) is a person to whom an order made by the State Government under rule 4 applies, the officer in charge of the prison shall abstain from carrying out the Court's order and shall send to the Court a statement of reasons for so abstaining.",
+      "key_terms": [
+        "medical unfitness",
+        "committal/remand",
+        "custody expiring before compliance",
+        "mandatory abstention"
+      ],
+      "breakdown": {
+        "plain_summary": "Four scenarios where the prison officer must refuse to comply with a Rule 2 production order — medical unfitness, pending committal/trial/remand, a custody term too short to allow compliance and return, or a Rule 4 State Government exclusion — and must instead report reasons to the Court.",
+        "essential_elements": [
+          "Four enumerated grounds, each independently sufficient.",
+          "Abstention is mandatory ('shall'), not discretionary, once a ground is met.",
+          "A reasons-statement to the Court is a mandatory corollary of abstention."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Practitioners should check these four grounds before even applying for a Rule 2 order against a given prisoner — several (short remaining custody, pending trial) are common and predictable obstacles."
+      }
+    },
+    {
+      "number": "O-XVI-A-6",
+      "title": "Order XVI-A, Rule 6 — Prisoner to Be Brought to Court in Custody",
+      "raw_text": "6. Prisoner to be brought to Court in custody.—In any other case, the officer in charge of the prison shall, upon delivery of the Court's order, cause the person named therein to be taken to the Court so as to be present at the time mentioned in such order, and shall cause him to be kept in custody in or near the Court until he has been examined or until the Court authorises him to be taken back to the prison in which he is confined or detained.",
+      "key_terms": [
+        "production in custody",
+        "kept in custody near Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Absent any Rule 5 abstention ground, the prison officer must bring the prisoner to Court at the ordered time, keeping him in custody in or near the courtroom until examined or until the Court authorises return to prison.",
+        "essential_elements": [
+          "Default compliance obligation where no Rule 5 exception applies.",
+          "Custody is maintained throughout — the witness remains a prisoner even while testifying."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The operative 'production' rule — confirms the prisoner-witness never leaves custodial control even during Court attendance."
+      }
+    },
+    {
+      "number": "O-XVI-A-7",
+      "title": "Order XVI-A, Rule 7 — Power to Issue Commission for Examination of Witness in Prison",
+      "raw_text": "7. Power to issue commission for examination of witness in prison.—(1) Where it appears to the Court that the evidence of a person confined or detained in a prison, whether within the State or elsewhere in India, is material in a suit but the attendance of such person cannot be secured under the preceding provisions of this Order, the Court may issue a commission for the examination of that person in the prison in which he is confined or detained. (2) The provisions of Order XXVI shall, so far may be, apply in relation to the examination on commission of such person in prison as they apply in relation to the examination on commission of any other person.",
+      "key_terms": [
+        "commission in prison",
+        "attendance cannot be secured",
+        "Order XXVI applicability"
+      ],
+      "breakdown": {
+        "plain_summary": "The fallback rule: if a prisoner's material evidence is needed but attendance simply cannot be secured under the rest of this Order (geography, Rule 5 abstention, Rule 4 exclusion, etc.), the Court can issue a commission to examine the witness inside the prison itself, anywhere in India — applying the ordinary Order XXVI commission-examination machinery.",
+        "essential_elements": [
+          "Explicitly extends beyond the State (unlike Rule 2's within-State production power) — 'within the State or elsewhere in India.'",
+          "Triggered specifically by inability to secure attendance under the Order's other provisions.",
+          "Procedurally governed by Order XXVI, applied 'so far as may be.'"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The realistic endpoint for most prisoner-witness evidence given how many grounds (Rule 4, Rule 5, the 25 km threshold) can block physical production — practitioners should plan for commission examination as the likely outcome rather than the exception."
+      }
     }
   ]
 }
