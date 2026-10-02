@@ -6580,6 +6580,672 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "This is the administrative basis for a suit's case number (e.g., \"O.S. No. 123 of 2024\") — the yearly reset is why suit numbers are always read together with the year of institution."
       }
+    },
+    {
+      "number": "O-V",
+      "title": "Order V — Issue and Service of Summons (Overview)",
+      "raw_text": "ORDER V\nIssue and Service of Summons\n\nThis is the Code's complete code on summoning a defendant: when and how summons issues after a suit is instituted, the 30/120-day written-statement timeline, personal-appearance orders, the modern menu of service methods (process-server, courier, registered post, speed post, fax, e-mail, and plaintiff-effected service), the hierarchy of personal service, agent service, family-member service, affixation, and substituted (publication) service, and special regimes for defendants in prison, in the armed forces, outside India, or in Bangladesh/Pakistan.",
+      "key_terms": [
+        "summons",
+        "service of summons",
+        "written statement",
+        "substituted service",
+        "personal service"
+      ],
+      "breakdown": {
+        "plain_summary": "Order V governs the entire lifecycle of a summons: Rules 1-8 deal with issuing it (including the landmark 30-day written-statement deadline extendable up to 90/120 days for reasons recorded, and for commercial disputes the harder 120-day outer limit with forfeiture), and Rules 9-30 deal with serving it — starting with the preferred modes (process-server, approved courier, registered post, speed post, fax/e-mail) and plaintiff-assisted service under Rule 9A, then cascading through a hierarchy when direct personal service fails: service on an empowered agent, on a business agent/manager, on an agent in charge of immovable property, on an adult family member, affixation at the residence, and finally Court-ordered substituted service by publication. Special rules address defendants who are public officers, soldiers/sailors/airmen, prisoners, resident outside India, or resident in Bangladesh/Pakistan or other foreign territory.",
+        "essential_elements": [
+          "Rule 1 fixes the 30-day period from service for filing the written statement, extendable (for reasons recorded in writing) up to 90 days generally, with a separate harder regime (up to 120 days, with forfeiture of the right to file thereafter) applicable to commercial disputes of specified value.",
+          "Rules 3-4 let the Court order personal appearance of the defendant (and even the plaintiff) but only within defined residence/distance limits (Rule 4).",
+          "Rule 9 modernises delivery: summons may go via the Court's process-server, an approved courier, registered post AD, speed post, fax, or e-mail (at the plaintiff's expense), with deemed-service rules for refusal or lost acknowledgment; Rule 9A additionally lets the plaintiff personally effect service on request.",
+          "Rules 12-15 set the service hierarchy: personal service on the defendant is preferred; failing that, service on an empowered agent, a local business agent/manager (Rule 13), an agent in charge of immovable property in property suits (Rule 14), or an adult family member residing with the defendant when the defendant cannot be found (Rule 15, excluding servants).",
+          "Rules 17 and 20 provide the fallback mechanisms when ordinary service fails: affixation on the defendant's door when he cannot be found despite due diligence (Rule 17), and Court-ordered substituted service (including newspaper publication) where the defendant is evading service or ordinary service is otherwise impossible (Rule 20), which is deemed as effectual as personal service.",
+          "Rules 21-29 cover inter-Court transmission (defendant residing within another Court's jurisdiction), and special-category defendants: prisoners (Rule 24), persons outside India (Rule 25, with a special Bangladesh/Pakistan regime), persons in foreign territory via a Political Agent/notified Court (Rules 26-26A), and public officers/railway or local-authority servants/soldiers-sailors-airmen (Rules 27-28), each served through a superior/commanding officer.",
+          "Rule 30 allows substituting a dignified \"letter\" for a summons where the defendant's rank entitles him to that consideration, with the letter otherwise treated exactly as a summons."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 1's first proviso: no summons issues at all where the defendant has already appeared at presentation of the plaint and admitted the plaintiff's claim.",
+          "Rule 4 bars ordering personal appearance of a party residing beyond defined distance/transport-time limits from the Court.",
+          "Rule 15's Explanation excludes a servant from counting as an \"adult member of the family\" for family-member service.",
+          "Rule 19A and old Rule 20A/26 variants have since been omitted/repealed by later amendments and are retained here only for historical completeness where the extracted Bare Act text notes it."
+        ],
+        "how_to_read": "Order V's service hierarchy is frequently the make-or-break battleground in ex-parte decree set-aside applications: a decree obtained after defective service (skipping the Rule 12 personal-service preference without genuinely exhausting it, or affixation under Rule 17 without real due diligence) is vulnerable to being set aside — so both sides should scrutinise the process-server's report and Rule 19 verification closely before relying on, or attacking, an ex-parte decree."
+      }
+    },
+    {
+      "number": "O-V-1",
+      "title": "Order V, Rule 1 — Summons",
+      "raw_text": "1. Summons.—(1) When a suit has been duly instituted, a summons may be issued to the defendant to appear and answer the claim and to file the written statement of his defence, if any, within thirty days from the date of service of summons on that defendant:\nProvided that no such summons shall be issued when a defendant has appeared at the presentation of plaint and admitted the plaintiff's claim:\nProvided further that where the defendant fails to file the written statement within the said period of thirty days, he shall be allowed to file the same on such other day as may be specified by the Court, for reasons to be recorded in writing, but which shall not be later than ninety days from the date of service of summons.\n[For commercial disputes of a specified value: Provided further that where the defendant fails to file the written statement within the said period of thirty days, he shall be allowed to file the written statement on such other day, as may be specified by the Court, for reasons to be recorded in writing and on payment of such costs as the Court deems fit, but which shall not be later than one hundred twenty days from the date of service of summons and on expiry of one hundred twenty days from the date of service of summons, the defendant shall forfeit the right to file the written statement and the Court shall not allow the written statement to be taken on record.]\n(2) A defendant to whom a summons has been issued under sub-rule (1) may appear—\n(a) in person, or\n(b) by a pleader duly instructed and able to answer all material questions relating to the suit, or\n(c) by a pleader accompanied by some person able to answer all such questions.\n(3) Every such summons shall be signed by the Judge or such officer as he appoints, and shall be sealed with the seal of the Court.",
+      "key_terms": [
+        "summons",
+        "written statement",
+        "thirty days",
+        "ninety days",
+        "one hundred twenty days",
+        "commercial disputes"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a suit is duly instituted, a summons issues directing the defendant to appear and file a written statement within 30 days of service — unless the defendant already appeared at presentation of the plaint and admitted the claim, in which case no summons issues at all. If the written statement is not filed in 30 days, the Court may, for recorded reasons, extend the time up to 90 days generally (or, for specified-value commercial disputes, up to a hard 120-day outer limit with costs, beyond which the right to file is forfeited entirely). The defendant may appear in person, through an instructed pleader able to answer material questions, or through a pleader accompanied by someone who can.",
+        "essential_elements": [
+          "The baseline written-statement deadline is 30 days from service of summons.",
+          "No summons issues where the defendant already appeared at plaint presentation and admitted the claim (first proviso).",
+          "General extension: up to 90 days from service, for reasons recorded in writing (second proviso).",
+          "Commercial-dispute extension: up to 120 days from service, on recorded reasons and costs, with absolute forfeiture of the right to file thereafter — the Court cannot take a late written statement on record past 120 days in such cases.",
+          "Sub-rule (2) lists the three ways a defendant may appear: in person, by an instructed pleader, or by a pleader with an accompanying knowledgeable person.",
+          "Sub-rule (3) requires the summons to be signed by the Judge (or appointed officer) and sealed with the Court's seal."
+        ],
+        "exceptions_and_qualifications": [
+          "The 120-day commercial-dispute forfeiture rule applies only to commercial disputes of specified value under the Commercial Courts Act regime, not to ordinary civil suits, which remain subject to the general 90-day outer limit."
+        ],
+        "how_to_read": "The Supreme Court has treated the commercial-dispute 120-day limit as truly mandatory (SCG Contracts India Pvt. Ltd. v. K.S. Chamankar Infrastructure, (2019) 12 SCC 210) — in a commercial suit, missing day 120 is fatal to filing a written statement at all, making early engagement with the timeline essential; in ordinary suits the 90-day limit, while firm, still requires the Court to record reasons for any extension beyond 30 days."
+      }
+    },
+    {
+      "number": "O-V-2",
+      "title": "Order V, Rule 2 — Copy of plaint annexed to summons",
+      "raw_text": "2. Copy of plaint annexed to summons.—Every summon shall be accompanied by a copy of the plaint.",
+      "key_terms": [
+        "copy of plaint",
+        "summons"
+      ],
+      "breakdown": {
+        "plain_summary": "Every summons issued to a defendant must be accompanied by a copy of the plaint, so the defendant knows the case being made against him.",
+        "essential_elements": [
+          "Mandatory accompaniment of a plaint copy with every summons."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A missing plaint copy can itself be grounds to challenge the validity/sufficiency of service — a bare summons without the plaint deprives the defendant of the material needed to meaningfully respond within the Rule 1 timeline."
+      }
+    },
+    {
+      "number": "O-V-3",
+      "title": "Order V, Rule 3 — Court may order defendant or plaintiff to appear in person",
+      "raw_text": "3. Court may order defendant or plaintiff to appear in person.—(1) Where the court sees reason to require the personal appearance of the defendant, the summons shall order him to appear in person in Court on the day therein specified.\n(2) Where the Court sees reason to require the personal appearance of the plaintiff on the same day, it shall make an order for such appearance.",
+      "key_terms": [
+        "personal appearance",
+        "defendant",
+        "plaintiff"
+      ],
+      "breakdown": {
+        "plain_summary": "If the Court has reason to require the defendant's personal appearance, the summons itself orders him to appear in person on a specified day; the Court can similarly order the plaintiff to personally appear on that same day.",
+        "essential_elements": [
+          "Personal appearance of the defendant can be built directly into the summons.",
+          "The Court may separately compel the plaintiff's personal appearance on the same day."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 4 caps this power by residence/distance limits."
+        ],
+        "how_to_read": "Typically invoked where the Court anticipates needing to examine the parties directly (e.g., for an early settlement attempt or to clarify pleadings) — always check Rule 4's distance limits before such an order is valid."
+      }
+    },
+    {
+      "number": "O-V-4",
+      "title": "Order V, Rule 4 — No party to be ordered to appear in person unless resident within certain limits",
+      "raw_text": "4. No party to be ordered to appear in person unless resident within certain limits.—No party shall be ordered to appear in person unless he resides—\n(a) within the local limits of the Court's ordinary original jurisdiction, or\n(b) without such limits but at a place less than fifty or (where there is railway or steamer communication or other established public conveyance for five-sixths of the distance between the place where he resides and the place where the Court is situate) less than two hundred miles distance from the court-house.",
+      "key_terms": [
+        "personal appearance",
+        "distance limit",
+        "ordinary original jurisdiction"
+      ],
+      "breakdown": {
+        "plain_summary": "A party can only be compelled to appear in person if he resides within the Court's ordinary original jurisdiction, or outside it but within 50 miles (or up to 200 miles where most of the distance is covered by rail/steamer/other established public transport) of the court-house.",
+        "essential_elements": [
+          "Two qualifying residence categories: within the Court's ordinary original jurisdiction, or within the specified distance limits outside it.",
+          "The extended 200-mile limit applies only where railway/steamer/public conveyance covers at least five-sixths of the distance."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A protective rule against oppressive personal-appearance orders on distant parties — practitioners resisting a personal-appearance order for an outstation client should check these distance/transport thresholds carefully."
+      }
+    },
+    {
+      "number": "O-V-5",
+      "title": "Order V, Rule 5 — Summons to be either to settle issues or for final disposal",
+      "raw_text": "5. Summons to be either to settle issues or for final disposal.—The Court shall determine, at the time of issuing the summons, whether it shall be for the settlement of issues only, or for the final disposal of the suit; and the summons shall contain a direction accordingly:\nProvided that, in every suit heard by a Court of Small Causes, the summons shall be for the final disposal of the suit.",
+      "key_terms": [
+        "settlement of issues",
+        "final disposal",
+        "Court of Small Causes"
+      ],
+      "breakdown": {
+        "plain_summary": "When issuing summons, the Court must decide and state whether it is for settling issues only, or for the suit's final disposal — except in Small Causes Courts, where the summons is always for final disposal.",
+        "essential_elements": [
+          "The Court must choose between the two purposes at the time of issuing summons and say so in the summons.",
+          "Small Causes Court suits are always summoned for final disposal, without the issues-only option."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Tells the defendant, from the very first notice, what kind of hearing to prepare for — critical for deciding whether to bring witnesses/evidence to the first date (see Rule 8)."
+      }
+    },
+    {
+      "number": "O-V-6",
+      "title": "Order V, Rule 6 — Fixing day for appearance of defendant",
+      "raw_text": "6. Fixing day for appearance of defendant.—The day under sub-rule (1) of rule 1 shall be fixed with reference to the current business of the Court, the place of residence of the defendant and the time necessary for the service of the summons; and the day shall be so fixed as to allow the defendant sufficient time to enable him to appear and answer on such day.",
+      "key_terms": [
+        "fixing day",
+        "sufficient time"
+      ],
+      "breakdown": {
+        "plain_summary": "The appearance day specified in the summons must be fixed considering the Court's current caseload, the defendant's place of residence, and the time service will realistically take — leaving the defendant sufficient time to actually appear and answer.",
+        "essential_elements": [
+          "Three factors govern fixing the day: Court's current business, defendant's residence, and service-time needs.",
+          "The overriding standard is sufficiency of time for the defendant to appear and answer."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A defendant given an unreasonably short appearance window (given distance and realistic service time) has a legitimate procedural objection rooted in this rule."
+      }
+    },
+    {
+      "number": "O-V-7",
+      "title": "Order V, Rule 7 — Summons to order defendant to produce documents relied on by him",
+      "raw_text": "7. Summons to order defendant to produce documents relied on by him.—The summons to appear and answer shall order the defendant to produce all documents or copies thereof specified in rule 1A of Order VIII in his possession or power upon which he intends to rely in support of his case.",
+      "key_terms": [
+        "production of documents",
+        "documents relied on"
+      ],
+      "breakdown": {
+        "plain_summary": "The summons must direct the defendant to bring all documents (or copies) in his possession or power that he intends to rely on in support of his case, as specified under Order VIII Rule 1A.",
+        "essential_elements": [
+          "The obligation covers documents in the defendant's possession or power that he intends to rely upon.",
+          "Cross-references Order VIII Rule 1A's document-production framework for defendants."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Mirrors the plaintiff's own document-disclosure obligations at the plaint stage (Order VII) — ensures both sides' documentary evidence is on the table early rather than sprung at trial."
+      }
+    },
+    {
+      "number": "O-V-8",
+      "title": "Order V, Rule 8 — On issue of summons for final disposal, defendant to be directed to produce his witnesses",
+      "raw_text": "8. On issue of summons for final disposal, defendant to be directed to produce his witnesses.—Where the summons is for the final disposal of the suit, it shall also direct the defendant to produce, on the day fixed for his appearance, all witnesses upon whose evidence he intends to rely in support of his case.",
+      "key_terms": [
+        "final disposal",
+        "production of witnesses"
+      ],
+      "breakdown": {
+        "plain_summary": "If the summons is for the suit's final disposal (not just settling issues), it must also direct the defendant to bring, on the appearance day, all the witnesses he intends to rely on.",
+        "essential_elements": [
+          "Applies only where the summons is for final disposal (per Rule 5's determination).",
+          "Covers all witnesses the defendant intends to rely on, to be produced on the fixed appearance day."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read with Rule 5 — once the Court opts for a final-disposal summons (typical in summary or Small Causes proceedings), both documentary (Rule 7) and oral (Rule 8) evidence obligations attach from day one."
+      }
+    },
+    {
+      "number": "O-V-9",
+      "title": "Order V, Rule 9 — Delivery of summons by Court",
+      "raw_text": "9. Delivery of summons by Court.—(1) Where the defendant resides within the jurisdiction of the Court in which the suit is instituted, or has an agent resident within that jurisdiction who is empowered to accept the service of the summons, the summons shall, unless the Court otherwise directs, be delivered or sent either to the proper officer to be served by him or one of his subordinates or to such courier services as are approved by the Court.\n(2) The proper officer may be an officer of a Court other than that in which the suit is instituted, and, where he is such an officer, the summons may be sent to him in such manner as the Court may direct.\n(3) The service of summons may be made by delivering or transmitting a copy thereof by registered post acknowledgment due, addressed to the defendant or his agent empowered to accept the service or by speed post or by such courier services as are approved by the High Court or by the Court referred to in sub-rule (1) or by any other means of transmission of documents (including fax message or electronic mail service) provided by the rules made by the High Court:\nProvided that the service of summons under this sub-rule shall be made at the expenses of the plaintiff.\n(4) Notwithstanding anything contained in sub-rule (1), where a defendant resides outside the jurisdiction of the Court in which the suit is instituted, and the Court directs that the service of summons on that defendant may be made by such mode of service of summons as is referred to in sub-rule (3) (except by registered post acknowledgment due), the provisions of rule 21 shall not apply.\n(5) When an acknowledgment or any other receipt purporting to be signed by the defendant or his agent is received by the Court or postal article containing the summons is received back by the Court with an endorsement purporting to have been made by a postal employee or by any person authorised by the courier service to the effect that the defendant or his agent had refused to take delivery of the postal article containing the summons or had refused to accept the summons by any other means specified in sub-rule (3) when tendered or transmitted to him, the Court issuing the summons shall declare that the summons had been duly served on the defendant:\nProvided that where the summons was properly addressed, pre-paid and duly sent by registered post acknowledgment due, the declaration referred to in this sub-rule shall be made notwithstanding the fact that the acknowledgment having been lost or mislaid, or for any other reason, has not been received by the Court within thirty days from the date of issue of summons.\n(6) The High Court or the District Judge, as the case may be, shall prepare a panel of courier agencies for the purposes of sub-rule (1).",
+      "key_terms": [
+        "delivery of summons",
+        "registered post",
+        "speed post",
+        "courier",
+        "fax",
+        "electronic mail",
+        "deemed service",
+        "refusal of service"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 9 is the Code's modern service-delivery menu: within the Court's jurisdiction, summons goes via the Court's own process-server or an approved courier; more broadly, service may be effected by registered post AD, speed post, approved courier, fax, or e-mail — all at the plaintiff's expense. Crucially, if the defendant (or agent) refuses delivery, or an endorsement confirms refusal, the Court can declare the summons duly served despite non-receipt by the defendant; and for registered post AD specifically, proper dispatch alone supports a deemed-service declaration even if the acknowledgment is simply lost and never comes back within 30 days.",
+        "essential_elements": [
+          "Sub-rule (1): within-jurisdiction service via the Court's proper officer/subordinate or an approved courier, unless the Court directs otherwise.",
+          "Sub-rule (3): alternative modes — registered post AD, speed post, approved courier, fax, or e-mail — all at the plaintiff's cost.",
+          "Sub-rule (4): where a defendant resides outside the issuing Court's jurisdiction and the Court permits Rule 9(3)-mode service (other than registered post AD), the inter-Court transmission route under Rule 21 need not be used.",
+          "Sub-rule (5): refusal to accept service (evidenced by endorsement) lets the Court declare service duly effected notwithstanding the defendant's non-receipt; for registered post AD, even a lost/mislaid acknowledgment supports such a declaration if the article was properly addressed, pre-paid, and sent, and 30 days have passed.",
+          "Sub-rule (6): the High Court/District Judge must maintain an approved panel of courier agencies."
+        ],
+        "exceptions_and_qualifications": [
+          "The deemed-service declaration under sub-rule (5) is not automatic — it requires either an actual refusal endorsement, or (for registered post AD) proper addressing/prepayment/dispatch plus the 30-day non-return window."
+        ],
+        "how_to_read": "Rule 9(5)'s deemed-service mechanism is the modern codification of the long-standing presumption of service by properly dispatched registered post — defendants who wish to contest an ex-parte decree often attack the propriety of the addressing or dispatch itself (not merely assert non-receipt), since non-receipt alone will not defeat a properly raised deemed-service declaration."
+      }
+    },
+    {
+      "number": "O-V-9A",
+      "title": "Order V, Rule 9A — Summons given to the plaintiff for service",
+      "raw_text": "9A. Summons given to the plaintiff for service.—(1) The Court may, in addition to the service of summons under rule 9, on the application of the plaintiff for the issue of a summons for the appearance of the defendant, permit such plaintiff to effect service of such summons on such defendant and shall, in such a case, deliver the summons to such plaintiff for service.\n(2) The service of such summons shall be effected by or on behalf of such plaintiff by delivering or tendering to the defendant personally a copy thereof signed by the Judge or such officer of the Court as he may appoint in this behalf and sealed with the seal of the Court or by such mode of service as is referred to in sub-rule (3) of rule 9.\n(3) The provisions of rules 16 and 18 shall apply to a summons personally served under this rule as if the person effecting service were a serving officer.\n(4) If such summons, when tendered, is refused or if the person served refuses to sign an acknowledgment of service or for any reason such summons cannot be served personally, the Court shall, on the application of the party, re-issue such summons to be served by the Court in the same manner as a summons to a defendant.",
+      "key_terms": [
+        "plaintiff-effected service",
+        "serving officer"
+      ],
+      "breakdown": {
+        "plain_summary": "In addition to Court-effected service, the Court may — on the plaintiff's application — permit the plaintiff to personally effect service of the summons on the defendant, delivering the summons to the plaintiff for that purpose; such service follows the same personal-delivery or Rule 9(3) alternative modes, and the plaintiff effecting it is treated as a serving officer for acknowledgment and endorsement purposes; if service fails (refusal or any other reason), the Court re-issues the summons for ordinary Court-effected service.",
+        "essential_elements": [
+          "Available only on the plaintiff's application and the Court's permission — not automatic.",
+          "The plaintiff effecting service must follow the same formalities (signed, sealed copy) and is subject to Rules 16/18 (acknowledgment and endorsement) as if a serving officer.",
+          "If plaintiff-effected service fails for any reason, the Court reverts to ordinary Court-effected service on application."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A practical speed-up mechanism for plaintiffs who want to avoid delays in the Court's own serving machinery, but it is not a way to bypass proper formalities — a plaintiff effecting service carries the same acknowledgment/endorsement obligations as any serving officer, and a defective plaintiff-effected service simply triggers Rule 9A(4)'s fallback."
+      }
+    },
+    {
+      "number": "O-V-10",
+      "title": "Order V, Rule 10 — Mode of service",
+      "raw_text": "10. Mode of service.—Service of the summons shall be made by delivering or tendering a copy thereof signed by the Judge or such officer as he appoints in this behalf, and sealed with the seal of the Court.",
+      "key_terms": [
+        "mode of service",
+        "signed and sealed copy"
+      ],
+      "breakdown": {
+        "plain_summary": "The basic mode of service is delivering or tendering a signed (by the Judge or appointed officer) and Court-sealed copy of the summons.",
+        "essential_elements": [
+          "Service requires a copy that is both signed and sealed.",
+          "Delivery or tender of that copy constitutes service."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The baseline formality underlying every specific service method detailed in the rules that follow (personal, agent, family-member, affixation, substituted) — an unsigned or unsealed copy is not valid service under any of them."
+      }
+    },
+    {
+      "number": "O-V-11",
+      "title": "Order V, Rule 11 — Service on several defendants",
+      "raw_text": "11. Service on several defendants.—Save as otherwise prescribed, where there are more defendants than one, service of the summons shall be made on each defendant.",
+      "key_terms": [
+        "multiple defendants",
+        "individual service"
+      ],
+      "breakdown": {
+        "plain_summary": "Unless another rule provides otherwise, summons must be served individually on every defendant where there is more than one.",
+        "essential_elements": [
+          "Default rule: each defendant must be separately served."
+        ],
+        "exceptions_and_qualifications": [
+          "Yields to any specific rule prescribing a different approach (e.g., the family-member or agent-based service rules for a particular defendant)."
+        ],
+        "how_to_read": "A suit cannot proceed validly against a co-defendant who was never served — this rule is the basis for objections where a multi-defendant suit proceeded without proper individual service on each defendant."
+      }
+    },
+    {
+      "number": "O-V-12",
+      "title": "Order V, Rule 12 — Service to be on defendant in person when practicable, or on his agent",
+      "raw_text": "12. Service to be on defendant in person when practicable, or on his agent.—Wherever it is practicable, service shall be made on the defendant in person, unless he has an agent empowered to accept service, in which case service on such agent shall be sufficient.",
+      "key_terms": [
+        "personal service",
+        "empowered agent"
+      ],
+      "breakdown": {
+        "plain_summary": "Personal service on the defendant is the preferred mode wherever practicable; but if the defendant has an agent empowered to accept service, serving that agent is sufficient.",
+        "essential_elements": [
+          "Personal service is the default preference, subject to practicability.",
+          "Service on an empowered agent is an equally sufficient alternative where one exists."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This rule anchors the entire service hierarchy that follows (Rules 13-20) — every alternative mode (business agent, property agent, family member, affixation, substituted service) is a fallback that must be justified by showing personal service under this rule was not practicable."
+      }
+    },
+    {
+      "number": "O-V-13",
+      "title": "Order V, Rule 13 — Service on agent by whom defendant carries on business",
+      "raw_text": "13. Service on agent by whom defendant carries on business.—(1) In a suit relating to any business or work against a person who does not reside within the local limits of the jurisdiction of the Court from which the summons is issued, service on any manager or agent, who, at the time of service, personally carries on such business or work for such person within such limits, shall be deemed good service.\n(2) For the purpose of this rule the master of a ship shall be deemed to be the agent of the owner or charterer.",
+      "key_terms": [
+        "business agent",
+        "manager",
+        "master of a ship"
+      ],
+      "breakdown": {
+        "plain_summary": "In a suit about a business or work, where the defendant does not reside within the Court's local jurisdiction, service on the manager/agent who personally runs that business or work within the jurisdiction at the time of service is deemed good service; a ship's master is specifically deemed the owner's/charterer's agent for this purpose.",
+        "essential_elements": [
+          "Applies specifically to suits relating to business or work, against a non-resident defendant.",
+          "The manager/agent must personally be carrying on the business/work locally at the time of service.",
+          "Special deeming provision: a ship's master is the owner's/charterer's agent."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A targeted exception for commercial defendants who operate through a local branch/manager but personally reside elsewhere — service need not chase the absent principal if the local operation is being actively run by an agent/manager at service time."
+      }
+    },
+    {
+      "number": "O-V-14",
+      "title": "Order V, Rule 14 — Service on agent in charge in suits for immovable property",
+      "raw_text": "14. Service on agent in charge in suits for immovable property.—Where in a suit to obtain relief respecting, or compensation for wrong to, immovable property, service cannot be made on the defendant in person, and the defendant has no agent empowered to accept the service, it may be made on any agent of the defendant in charge of the property.",
+      "key_terms": [
+        "immovable property",
+        "agent in charge"
+      ],
+      "breakdown": {
+        "plain_summary": "In a suit for relief or compensation relating to immovable property, if personal service fails and the defendant has no agent empowered to accept service, service may instead be made on any agent of the defendant who is in charge of the property itself.",
+        "essential_elements": [
+          "Applies only to suits respecting, or compensation for wrong to, immovable property.",
+          "Available only after personal service fails and there is no service-empowered agent.",
+          "The agent served must be in charge of the specific property in question."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A property-specific fallback distinct from Rule 13's business-agent rule — it targets whoever is actually managing the land/building in dispute, which is often the most reliable point of contact when the owner-defendant is absent."
+      }
+    },
+    {
+      "number": "O-V-15",
+      "title": "Order V, Rule 15 — Where service may be on an adult member of defendant's family",
+      "raw_text": "15. Where service may be on an adult member of defendant's family.—Where in any suit the defendant is absent from his residence at the time when the service of summons is sought to be effected on him at his residence and there is no likelihood of his being found at the residence within a reasonable time and he has no agent empowered to accept service of the summons on his behalf, service may be made on any adult member of the family, whether male or female, who is residing with him.\nExplanation.—A servant is not a member of the family within the meaning of this rule.",
+      "key_terms": [
+        "adult family member",
+        "residence",
+        "servant excluded"
+      ],
+      "breakdown": {
+        "plain_summary": "If the defendant is away from his residence when service is attempted, is unlikely to be found there within a reasonable time, and has no empowered agent, service may be made on any adult family member (male or female) residing with him — but a servant does not count as a family member for this purpose.",
+        "essential_elements": [
+          "Three preconditions: defendant absent at time of attempted service, unlikely to be found within a reasonable time, and no empowered agent.",
+          "The family member served must be an adult, of either sex, and must be residing with the defendant.",
+          "The Explanation expressly excludes servants from \"family member\" status."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Courts scrutinise each precondition closely in set-aside applications — a process-server's report that merely says \"defendant not found\" without addressing the reasonable-likelihood and no-agent conditions, or that serves a servant/non-resident relative, is vulnerable to challenge as defective service under this rule."
+      }
+    },
+    {
+      "number": "O-V-16",
+      "title": "Order V, Rule 16 — Person served to sign acknowledgment",
+      "raw_text": "16. Person served to sign acknowledgment.—Where the serving officer delivers or tenders a copy of the summons to the defendant personally, or to an agent or other person on his behalf, he shall require the signature of the person to whom the copy is so delivered or tendered to an acknowledgment of service endorsed on the original summons.",
+      "key_terms": [
+        "acknowledgment of service",
+        "serving officer"
+      ],
+      "breakdown": {
+        "plain_summary": "Whenever a serving officer personally delivers or tenders the summons copy to the defendant, agent, or other authorised person, he must obtain that person's signature acknowledging service, endorsed on the original summons.",
+        "essential_elements": [
+          "Applies to personal delivery/tender to the defendant, agent, or other authorised recipient.",
+          "The acknowledgment signature must be endorsed on the original summons."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The acknowledgment endorsement is the primary documentary proof of valid personal service — its absence (or the absence of a proper Rule 17 affixation report where acknowledgment was refused) is a frequent ground for challenging an ex-parte decree."
+      }
+    },
+    {
+      "number": "O-V-17",
+      "title": "Order V, Rule 17 — Procedure when defendant refuses to accept service, or cannot be found",
+      "raw_text": "17. Procedure when defendant refuses to accept service, or cannot be found.—Where the defendant or his agent or such other person as aforesaid refuses to sign the acknowledgment, or where the serving officer, after using all due and reasonable diligence, cannot find the defendant, who is absent from his residence at the time when service is sought to be effected on him at his residence and there is no likelihood of his being found at the residence within a reasonable time, and there is no agent empowered to accept service of the summons on his behalf, nor any other person on whom service can be made, the serving officer shall affix a copy of the summons on the outer door or some other conspicuous part of the house in which the defendant ordinarily resides or carries on business or personally works for gain, and shall then return the original to the Court from which it was issued, with a report endorsed thereon or annexed thereto stating that he has so affixed the copy, the circumstances under which he did so, and the name and address of the person (if any) by whom the house was identified and in whose presence the copy was affixed.",
+      "key_terms": [
+        "affixation",
+        "refusal of service",
+        "due and reasonable diligence"
+      ],
+      "breakdown": {
+        "plain_summary": "If the defendant (or agent/authorised person) refuses to sign the acknowledgment, or the serving officer — despite due and reasonable diligence — cannot find the defendant (who is absent and unlikely to be found within a reasonable time, with no empowered agent and no one else on whom service can be made), the officer must affix a summons copy on the outer door or another conspicuous part of the defendant's residence/business premises, and report back to the Court the circumstances, affixation details, and the identifying witness (if any).",
+        "essential_elements": [
+          "Trigger 1: refusal to sign the acknowledgment by the defendant/agent/authorised person.",
+          "Trigger 2: the defendant cannot be found despite due and reasonable diligence, is unlikely to be found within a reasonable time, has no empowered agent, and no other person on whom service can be made exists.",
+          "The affixation must be at a conspicuous part of the house where the defendant ordinarily resides, carries on business, or personally works for gain.",
+          "A detailed return/report is mandatory: fact of affixation, circumstances, and the identifying witness's name/address if any."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "\"Due and reasonable diligence\" is the phrase courts scrutinise hardest when a defendant later challenges an affixation-based ex-parte decree — a process-server's report with no real detail on the attempts made, or affixation without a genuine identifying witness, is a classic vulnerability exploited in Order IX Rule 13 set-aside applications."
+      }
+    },
+    {
+      "number": "O-V-18",
+      "title": "Order V, Rule 18 — Endorsement of time and manner of service",
+      "raw_text": "18. Endorsement of time and manner of service.—The serving officer shall, in all cases in which the summons has been served under rule 16, endorse or annex, or cause to be endorsed or annexed, on or to the original summons, a return stating the time when and the manner in which the summons was served, and the name and address of the person (if any) identifying the person served and witnessing the delivery or tender of the summons.",
+      "key_terms": [
+        "endorsement",
+        "return of service"
+      ],
+      "breakdown": {
+        "plain_summary": "Whenever summons is served under Rule 16, the serving officer must endorse (or annex) a return on the original summons stating when and how it was served, and the identifying/witnessing person's name and address, if any.",
+        "essential_elements": [
+          "Applies to every Rule 16 (personally acknowledged) service.",
+          "The return must record the time and manner of service, plus identifying-witness details if applicable."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This endorsement, together with the Rule 16 acknowledgment, is the documentary backbone the Court relies on under Rule 19 to decide whether service was duly effected."
+      }
+    },
+    {
+      "number": "O-V-19",
+      "title": "Order V, Rule 19 — Examination of serving officer",
+      "raw_text": "19. Examination of serving officer.—Where a summons is returned under rule 17, the Court shall, if the return under that rule has not been verified by the affidavit of the serving officer, and may, if it has been so verified, examine the serving officer on oath, or cause him to be so examined by another Court, touching his proceedings, and may make such further enquiry in the matter as it thinks fit; and shall either declare that the summons has been duly served or order such service as it thinks fit.",
+      "key_terms": [
+        "examination of serving officer",
+        "affidavit",
+        "declaration of due service"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a summons comes back under Rule 17 (affixation/refusal), the Court must examine the serving officer on oath about his proceedings if his Rule 17 return was not verified by affidavit (and may do so even if it was verified), may conduct any further enquiry it thinks fit, and must then either declare the summons duly served or order fresh service as it thinks appropriate.",
+        "essential_elements": [
+          "Mandatory examination of the serving officer where the Rule 17 return is unverified by affidavit; discretionary examination even where it is verified.",
+          "The Court may conduct further enquiry as it thinks fit.",
+          "The Court must conclude with either a declaration of due service or an order for further/fresh service."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This judicial scrutiny step is the Court's own safeguard against rubber-stamping a defective affixation — it is also the stage at which a vigilant Court (or an intervening defendant who has since learned of the suit) can expose a fabricated or careless Rule 17 affixation report before an ex-parte decree is passed."
+      }
+    },
+    {
+      "number": "O-V-20",
+      "title": "Order V, Rule 20 — Substituted service",
+      "raw_text": "20. Substituted service.—(1) Where the Court is satisfied that there is reason to believe that the defendant is keeping out of the way for the purpose of avoiding service, or that for any other reason the summons cannot be served in the ordinary way, the Court shall order the summons to be served by affixing a copy thereof in some conspicuous place in the Court-house, and also upon some conspicuous part of the house (if any) in which the defendant is known to have last resided or carried on business or personally worked for gain, or in such other manner as the Court thinks fit.\n(1A) Where the Court acting under sub-rule (1) orders service by an advertisement in a newspaper, the newspaper shall be a daily newspaper circulating in the locality in which the defendant is last known to have actually and voluntarily resided, carried on business or personally worked for gain.\n(2) Effect of substituted service.—Service substituted by order of the Court shall be as effectual as if it had been made on the defendant personally.\n(3) Where service substituted, time for appearance to be fixed.—Where service is substituted by order of the Court, the Court shall fix such time for the appearance of the defendant as the case may require.",
+      "key_terms": [
+        "substituted service",
+        "evading service",
+        "newspaper publication",
+        "deemed personal service"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the Court is satisfied the defendant is deliberately evading service, or ordinary service is otherwise impossible for any reason, it can order substituted service — affixation at the Court-house and at the defendant's last known residence/business/workplace, or by newspaper publication (in a daily paper circulating where the defendant was last known to actually and voluntarily reside/work) or any other manner it thinks fit. Substituted service is deemed as fully effectual as personal service, and the Court must fix an appropriate appearance time once it is ordered.",
+        "essential_elements": [
+          "Trigger: belief that the defendant is evading service, or any other reason ordinary service cannot be effected.",
+          "Methods: affixation at the Court-house and the defendant's last known address/workplace, newspaper publication, or any other manner the Court thinks fit.",
+          "Sub-rule (1A): newspaper publication must specifically be in a daily newspaper circulating in the locality of the defendant's last known actual and voluntary residence/business/work.",
+          "Sub-rule (2): substituted service carries the full legal effect of personal service.",
+          "Sub-rule (3): the Court must fix a fresh appearance time appropriate to the case once substituted service is ordered."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Substituted service is a last-resort, Court-ordered mechanism (not something a plaintiff can invoke unilaterally) — the Court's satisfaction that the defendant is evading service, or that ordinary service is genuinely impossible, must be based on real material (e.g., failed Rule 17 affixation attempts), and the newspaper, if used, must genuinely circulate where the defendant was last actually and voluntarily found, not an arbitrary publication chosen for minimal visibility."
+      }
+    },
+    {
+      "number": "O-V-21",
+      "title": "Order V, Rule 21 — Service of summons where defendant resides within jurisdiction of another Court",
+      "raw_text": "21. Service of summons where defendant resides within jurisdiction of another Court.—A summons may be sent by the Court by which it is issued, whether within or without the State, either by one of its officers or by post or by such courier service as may be approved by the High Court, by fax message or by Electronic Mail service or by any other means as may be provided by the rules made by the High Court to any Court (not being the High Court) having jurisdiction in the place where the defendant resides.",
+      "key_terms": [
+        "inter-Court transmission",
+        "jurisdiction of another Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the defendant resides within another Court's jurisdiction (within or outside the State), the issuing Court may transmit the summons — via its own officer, post, approved courier, fax, or e-mail — to any Court (other than the High Court) having jurisdiction over the defendant's residence, for service there.",
+        "essential_elements": [
+          "Applies regardless of whether the other Court is within or outside the State.",
+          "Transmission methods mirror Rule 9's modern modes (officer, post, courier, fax, e-mail).",
+          "The receiving Court cannot be the High Court."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Works together with Rule 23, which obliges the receiving Court to serve the summons as if it had issued it, and then return it with proceedings to the originating Court — this inter-Court chain lets a single suit reach defendants scattered across India without the plaintiff needing to separately approach each local court."
+      }
+    },
+    {
+      "number": "O-V-22",
+      "title": "Order V, Rule 22 — Service within presidency towns of summons issued by Courts outside",
+      "raw_text": "22. Service within presidency towns of summons issued by Courts outside.—Where a summons issued by any Court established beyond the limits of the towns of Calcutta, Madras and Bombay is to be served within any such limits, it shall be sent to the Court of Small Causes within whose jurisdiction it is to be served.",
+      "key_terms": [
+        "presidency towns",
+        "Court of Small Causes"
+      ],
+      "breakdown": {
+        "plain_summary": "A summons issued by a Court outside Calcutta, Madras, or Bombay, but needing service within those city limits, must be routed through the local Court of Small Causes having jurisdiction there.",
+        "essential_elements": [
+          "Applies specifically to service within the historic presidency towns of Calcutta, Madras, and Bombay.",
+          "The routing Court must be the Court of Small Causes with jurisdiction over the service location."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A historical, city-specific routing rule reflecting the presidency-town court structure — still technically in force for summons service in these metropolitan areas via their Small Causes Courts."
+      }
+    },
+    {
+      "number": "O-V-23",
+      "title": "Order V, Rule 23 — Duty of Court to which summons is sent",
+      "raw_text": "23. Duty of Court to which summons is sent.—The Court to which a summons is sent under rule 21 or rule 22 shall, upon receipt thereof, proceed as if it had been issued by such Court and shall then return the summons to the Court of issue, together with the record (if any) of its proceedings with regard thereto.",
+      "key_terms": [
+        "receiving Court",
+        "return of summons"
+      ],
+      "breakdown": {
+        "plain_summary": "A Court receiving a summons under Rule 21 or 22 must treat it exactly as if it had issued the summons itself, serve it accordingly, and then return the summons — along with any record of its own proceedings on it — to the originating Court.",
+        "essential_elements": [
+          "The receiving Court steps into the originating Court's shoes for service purposes.",
+          "It must return the summons plus its proceedings record to the Court of issue."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This completes the inter-Court service chain begun under Rules 21-22 — the originating Court retains ultimate control of the suit record, with the receiving Court acting purely as a service-execution agent."
+      }
+    },
+    {
+      "number": "O-V-24",
+      "title": "Order V, Rule 24 — Service on defendant in prison",
+      "raw_text": "24. Service on defendant in prison.—Where the defendant is confined in a prison, the summons shall be delivered or sent or by post or by such courier service as may be approved by the High Court, by fax message or by Electronic Mail service or by any other means as may be provided by the rules made by the High Court to the officer in charge of the prison for service on the defendant.",
+      "key_terms": [
+        "prisoner defendant",
+        "officer in charge of prison"
+      ],
+      "breakdown": {
+        "plain_summary": "For a defendant confined in prison, the summons is delivered or transmitted (by the modern modes available under the rules) to the officer in charge of the prison, who then effects service on the defendant within.",
+        "essential_elements": [
+          "The summons is routed to the prison's officer in charge, not directly to the defendant.",
+          "Transmission may use the same modern modes (post, courier, fax, e-mail) as other Rule 9/21 service."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Read with Rule 29, which obliges the person to whom the summons is sent for service (here, the prison officer) to actually serve it and return proof, or report the cause of non-service."
+      }
+    },
+    {
+      "number": "O-V-25",
+      "title": "Order V, Rule 25 — Service where defendant resides out of India and has no agent",
+      "raw_text": "25. Service where defendant resides out of India and has no agent.—Where the defendant resides out of India and has no agent in India empowered to accept service, the summons shall be addressed to the defendant at the place where he is residing and sent to him or by post or by such courier service as may be approved by the High Court, by fax message or by Electronic Mail service or by any other means as may be provided by the rules made by the High Court, if there is postal communication between such place and the place where the Court is situate:\nProvided that where any such defendant resides in Bangladesh or Pakistan, the summons, together with a copy thereof, may be sent for service on the defendant, to any Court in that country (not being the High Court) having jurisdiction in the place where the defendant resides:\nProvided further that where any such defendant is a public officer in Bangladesh or Pakistan (not belonging to the Bangladesh or, as the case may be, Pakistan military, naval or air forces) or is a servant of a railway company or local authority in that country, the summons, together with a copy thereof, may be sent for service on the defendant, to such officer or authority in that country as the Central Government may by notification in the Official Gazette, specify in this behalf.",
+      "key_terms": [
+        "defendant outside India",
+        "no agent in India",
+        "Bangladesh",
+        "Pakistan"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the defendant resides outside India with no India-based agent empowered to accept service, summons is addressed to him at his actual place of residence and sent by post/courier/fax/e-mail, provided postal communication exists with that place. Two special provisos apply to Bangladesh/Pakistan-resident defendants: the summons may instead be routed to a local Court (not the High Court) with jurisdiction there, or — if the defendant is a (non-military) public officer or railway/local-authority servant in that country — to a Central-Government-notified officer or authority there.",
+        "essential_elements": [
+          "Baseline rule: direct address-and-send to the defendant's actual foreign residence, by modern transmission modes, conditioned on postal communication existing with that place.",
+          "Bangladesh/Pakistan proviso 1: summons plus a copy may be routed through a local (non-High) Court with jurisdiction over the defendant's residence there.",
+          "Bangladesh/Pakistan proviso 2: for non-military public officers or railway/local-authority servants there, routing is through a Central-Government-notified officer/authority."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The two Bangladesh/Pakistan provisos reflect historical reciprocal judicial-assistance arrangements with those specific neighbouring countries — for defendants elsewhere abroad, Rule 26's Political-Agent/notified-Court mechanism, or the baseline direct-postal route, governs instead."
+      }
+    },
+    {
+      "number": "O-V-26",
+      "title": "Order V, Rule 26 — Service in foreign territory through Political Agent or Court",
+      "raw_text": "26. Service in foreign territory through Political Agent or Court.—Where—\n(a) in the exercise of any foreign jurisdiction vested in the Central Government, a Political Agent has been appointed, or a Court has been established or continued, with power to serve a summons, issued by a Court under this Code, in any foreign territory in which the defendant actually and voluntarily resides, carries on business or personally works for gain, or\n(b) the Central Government has, by notification in the Official Gazette, declared in respect of any Court situate in any such territory and not established or continued in the exercise of any such jurisdiction as aforesaid, that service by such Court of any summons issued by a Court under this Code shall be deemed to be valid service,\nthe summons may be sent to such Political Agent or Court, by post, or otherwise, or if so directed by the Central Government, through the Ministry of that Government dealing with foreign affairs, or in such other manner as may be specified by the Central Government for the purpose of being served upon the defendant; and, if the Political Agent or Court returns the summons with an endorsement purporting to have been made by such Political Agent or by the Judge or other officer of the Court to the effect that the summons has been served on the defendant in the manner hereinbefore directed, such endorsement shall be deemed to be evidence of service.",
+      "key_terms": [
+        "Political Agent",
+        "foreign territory",
+        "deemed valid service"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the Central Government has a Political Agent or an established/continued Court with power to serve Indian-Code summonses in a foreign territory where the defendant actually and voluntarily resides/works, or has notified that a particular foreign Court's service of such summonses is deemed valid, the summons is routed to that Political Agent or Court (by post, through the foreign-affairs Ministry, or as the Central Government specifies). A returned endorsement confirming service is itself deemed evidence of service.",
+        "essential_elements": [
+          "Two alternative gateways: an appointed Political Agent/established Court with actual power to serve, or a Central-Government-notified foreign Court whose service is deemed valid.",
+          "Routing may be by post, through the Ministry handling foreign affairs, or any Central-Government-specified manner.",
+          "A returned endorsement of service by the Political Agent or Court is deemed evidence of service, without further proof needed."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the general foreign-service mechanism (beyond the Bangladesh/Pakistan-specific Rule 25 provisos) — in practice its use depends entirely on whether the Central Government has actually appointed a Political Agent or notified a Court for the specific foreign territory in question, information practitioners must verify via Official Gazette notifications before relying on it."
+      }
+    },
+    {
+      "number": "O-V-26A",
+      "title": "Order V, Rule 26A — Summonses to be sent to officers to foreign countries",
+      "raw_text": "26A. Summonses to be sent to officers to foreign countries.—Where the Central Government has, by notification in the Official Gazette, declared in respect of any foreign territory that summonses to be served on defendants actually and voluntarily residing or carrying on business or personally working for gain in that foreign territory may be sent to an officer of the Government of the foreign territory specified by the Central Government, the summonses may be sent to such officer, through the Ministry of the Government of India dealing with foreign affairs or in such other manner as may be specified by the Central Government; and if such officer returns any such summons with an endorsement purporting to have been made by him that the summons has been served on the defendant, such endorsement shall be deemed to be evidence of service.",
+      "key_terms": [
+        "notified foreign officer",
+        "deemed evidence of service"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the Central Government has notified that summonses for a particular foreign territory may be sent to a specified foreign-government officer, such summonses are routed to that officer (through India's foreign-affairs Ministry or as otherwise specified), and that officer's endorsement confirming service is deemed evidence of service.",
+        "essential_elements": [
+          "Requires a specific Official Gazette notification naming the foreign-government officer for the territory in question.",
+          "Routing is through India's foreign-affairs Ministry or another Central-Government-specified manner.",
+          "The officer's service endorsement is deemed evidence of service."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A further alternative foreign-service gateway alongside Rule 26 — again contingent on an actual, specific Gazette notification for the relevant country and officer, not a general entitlement."
+      }
+    },
+    {
+      "number": "O-V-27",
+      "title": "Order V, Rule 27 — Service on civil public officer or on servant of railway company or local authority",
+      "raw_text": "27. Service on civil public officer or on servant of railway company or local authority.—Where the defendant is a public officer (not belonging to the Indian military, naval or air forces), or is the servant of a railway company or local authority, the Court may, if it appears to it that the summons may be most conveniently so served, send it for service on the defendant to the head of the office in which he is employed, together with a copy to be retained by the defendant.",
+      "key_terms": [
+        "public officer",
+        "railway company",
+        "local authority",
+        "head of office"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the defendant is a civil public officer, or a railway company/local authority employee, the Court may — if this seems the most convenient route — send the summons for service to the head of his office, with a copy for the defendant to keep.",
+        "essential_elements": [
+          "Applies to civil public officers (military/naval/air force personnel are excluded here, being covered by Rule 28 instead) and railway/local-authority servants.",
+          "Routing is to the head of the defendant's employing office.",
+          "A retained copy for the defendant must accompany the service copy."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Complements Rule 28's armed-forces regime — together Rules 27-28 ensure service on government and institutional employees goes through an institutional channel likely to actually reach the individual, rather than relying solely on personal/residential service."
+      }
+    },
+    {
+      "number": "O-V-28",
+      "title": "Order V, Rule 28 — Service on soldiers, sailors or airmen",
+      "raw_text": "28. Service on soldiers, sailors or airmen.—Where the defendant is a soldier, sailor or airman, the Court shall send the summons for service to his commanding officer together with a copy to be retained by the defendant.",
+      "key_terms": [
+        "soldier",
+        "sailor",
+        "airman",
+        "commanding officer"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the defendant is serving as a soldier, sailor, or airman, the Court must send the summons for service to his commanding officer, along with a copy for the defendant to retain.",
+        "essential_elements": [
+          "Mandatory routing through the commanding officer for military/naval/air-force defendants.",
+          "A retained copy for the defendant is required."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Unlike Rule 27 (discretionary \"may\" for civil officers), this rule is mandatory (\"shall\") for armed-forces defendants — reflecting the practical necessity of reaching service personnel through their command structure."
+      }
+    },
+    {
+      "number": "O-V-29",
+      "title": "Order V, Rule 29 — Duty of person to whom summons is delivered or sent for service",
+      "raw_text": "29. Duty of person to whom summons is delivered or sent for service.—(1) Where a summons is delivered or sent to any person for service under rule 24, rule 27 or rule 28, such person shall be bound to serve it if possible, and to return it under his signature, with the written acknowledgment of the defendant, and such signature shall be deemed to be evidence of service.\n(2) Where from any cause service is impossible, the summons shall be returned to the Court with a full statement of such cause and of the steps taken to procure service, and such statement shall be deemed to be evidence of non-service.",
+      "key_terms": [
+        "duty to serve",
+        "prison officer",
+        "head of office",
+        "commanding officer",
+        "evidence of non-service"
+      ],
+      "breakdown": {
+        "plain_summary": "A person to whom summons is sent for service under Rule 24 (prison), 27 (public officer/railway/local authority), or 28 (armed forces) must serve it if possible and return it, signed, with the defendant's written acknowledgment — that signature being deemed evidence of service. If service proves impossible, the summons must be returned with a full statement of the cause and the steps taken, which is deemed evidence of non-service.",
+        "essential_elements": [
+          "Applies to the officer/authority receiving summons under Rules 24, 27, or 28.",
+          "A successful service must be returned signed with the defendant's written acknowledgment, deemed evidence of service.",
+          "An unsuccessful attempt must be returned with a full statement of cause and steps taken, deemed evidence of non-service."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This rule closes the loop on the institutional-channel service routes (prison, office, commanding officer) by making the receiving official's return itself the evidentiary record the Court relies on — a bare, unexplained return of non-service without the required statement of cause/steps would not satisfy this rule."
+      }
+    },
+    {
+      "number": "O-V-30",
+      "title": "Order V, Rule 30 — Substitution of letter for summons",
+      "raw_text": "30. Substitution of letter for summons.—(1) The Court may, notwithstanding anything hereinbefore contained, substitute for a summons a letter signed by the Judge or such officer as he may appoint in this behalf, where the defendant is, in the opinion of the Court, of a rank entitling him to such mark of consideration.\n(2) A letter substituted under sub-rule (1) shall contain all the particulars required to be stated in a summons, and, subject to the provisions of sub-rule (3), shall be treated in all respects as a summons.\n(3) A letter so substituted may be sent to the defendant by post or by a special messenger selected by the Court, or in any other manner which the Court thinks fit; and, where the defendant has an agent empowered to accept service, the letter may be delivered or sent to such agent.",
+      "key_terms": [
+        "letter in lieu of summons",
+        "rank and consideration"
+      ],
+      "breakdown": {
+        "plain_summary": "For a defendant whose rank, in the Court's opinion, entitles him to that mark of consideration, the Court may substitute a signed letter for the formal summons; the letter must contain all the particulars a summons would, and is treated in every respect as a summons, except for its special delivery methods — by post, a Court-selected special messenger, or any other manner the Court thinks fit, including delivery to an empowered agent.",
+        "essential_elements": [
+          "Available only where the Court opines the defendant's rank warrants this mark of consideration.",
+          "The substituted letter must carry all the particulars a formal summons would.",
+          "It is treated as a summons in all respects, subject to its own special (and more flexible) delivery methods."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A courtesy-driven, discretionary alternative historically used for dignitaries/high-ranking persons — functionally equivalent to a summons in legal effect despite its more deferential form and delivery."
+      }
     }
   ]
 }
