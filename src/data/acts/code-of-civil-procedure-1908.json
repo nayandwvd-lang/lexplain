@@ -10030,6 +10030,424 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "Resist the temptation to pad a notice to admit or produce with marginally relevant documents — Rule 9's cost-shifting penalty applies specifically to the party who issues an unnecessarily broad notice, so keep each notice tightly confined to genuinely necessary documents."
       }
+    },
+    {
+      "number": "O-XIII",
+      "title": "Order XIII — Production, Impounding and Return of Documents (Overview)",
+      "raw_text": "ORDER XIII\nProduction, Impounding and Return of Documents\n\nThis Order governs the mechanics of getting documentary evidence formally before the Court and keeping an accurate record of what happened to it: the deadline for producing originals (Rule 1), the Court's power to reject irrelevant/inadmissible documents (Rule 3), the endorsement regime marking what was admitted or rejected (Rules 4-6), what becomes part of the record versus what is returned (Rule 7), the impounding power (Rule 8), the return-of-documents regime after the suit concludes (Rule 9), the Court's power to call for records from its own or other Courts (Rule 10), and extension of the whole scheme to material objects (Rule 11). Rule 2 was repealed in 2002.",
+      "key_terms": [
+        "production of documents",
+        "impounding",
+        "endorsement",
+        "rejection of documents",
+        "return of documents"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XIII is the housekeeping backbone of documentary evidence. Rule 1 requires original documents (where copies were filed with the plaint/written statement) to be produced on or before settlement of issues, received by the Court if accompanied by an accurate list, with carve-outs for cross-examination-only documents and memory-refreshing documents. Rule 3 lets the Court reject irrelevant or inadmissible documents at any stage, with recorded grounds. Rules 4-6 set up a formal endorsement system: admitted documents get endorsed with suit number, producer's name, production date, and an admission statement, signed by the Judge (Rule 4); copies substituted for certain originals (like current account books, subject to the Bankers' Books Evidence Act) get the same endorsement treatment (Rule 5); rejected documents get a parallel rejection endorsement (Rule 6). Rule 7 draws the line: admitted documents (or substituted copies) become part of the record; rejected documents don't, and are returned. Rule 8 gives the Court an overriding power to impound any document or book for sufficient cause, regardless of the Rule 5/7 scheme. Rule 9 governs when and how documents already on record get returned to their producers — generally only after the suit (or any appeal) concludes, subject to a certified-copy-substitution shortcut for earlier return, and never for documents rendered void/useless by the decree. Rule 10 lets the Court call for records from its own files or another Court's, subject to an affidavit-of-materiality safeguard and without overriding the law of evidence on admissibility. Rule 11 extends this entire documentary scheme to material objects tendered as evidence.",
+        "essential_elements": [
+          "Rule 1's production deadline is 'on or before the settlement of issues' — a firm, early-case checkpoint, not something that can be left to the eve of trial.",
+          "The endorsement scheme (Rules 4-6) creates a clear, judge-authenticated paper trail distinguishing admitted from rejected documents.",
+          "Rule 8's impounding power is expressly non-obstante ('notwithstanding') against Rules 5 and 7 and Order VII Rule 17 — it overrides the normal admit-or-return scheme whenever the Court sees sufficient cause.",
+          "Rule 9's return mechanism is timed to finality — ordinarily only after the suit (where no appeal lies) or after the appeal period has lapsed/the appeal is disposed of (where one does lie) — though earlier return is possible via certified-copy substitution."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Build document production into the pre-issues checklist, not the eve-of-trial scramble — Rule 1's 'at or before settlement of issues' deadline, combined with the Rule 3 rejection power and the Rule 4/6 endorsement regime, means the documentary record of the suit is substantially locked in early, and a late, unexplained attempt to introduce a fresh original invites both a relevance/admissibility challenge and scrutiny over why it wasn't produced on time."
+      }
+    },
+    {
+      "number": "O-XIII-1",
+      "title": "Order XIII, Rule 1 — Original documents to be produced at or before the settlement of issues",
+      "raw_text": "1. Original documents to be produced at or before the settlement of issues.—(1) The parties or their pleader shall produce on or before the settlement of issues, all the documentary evidence in original where the copies thereof have been filed along with plaint or written statement.\n(2) The Court shall receive the documents so produced: Provided that they are accompanied by an accurate list thereof prepared in such form as the High Court directs.\n(3) Nothing in sub-rule (1) shall apply to documents—\n(a) produced for the cross-examination of the witnesses of the other party; or\n(b) handed over to a witness merely to refresh his memory.",
+      "key_terms": [
+        "original documents",
+        "settlement of issues",
+        "accurate list",
+        "cross-examination documents"
+      ],
+      "breakdown": {
+        "plain_summary": "Where copies of documents were filed along with the plaint or written statement, the parties (or their pleaders) must produce the corresponding originals on or before the settlement of issues. The Court receives them provided they're accompanied by an accurate list in the High-Court-prescribed form. This production requirement doesn't apply to documents used only for cross-examining the other side's witnesses, or handed to a witness merely to refresh their memory.",
+        "essential_elements": [
+          "Deadline: on or before settlement of issues.",
+          "Applies where copies were already filed with the plaint/written statement.",
+          "Court's receipt of the originals is conditioned on an accompanying accurate list in the prescribed form.",
+          "Two carve-outs: cross-examination-only documents and memory-refreshing documents."
+        ],
+        "exceptions_and_qualifications": [
+          "Cross-examination-only and memory-refreshing documents are exempt from this production deadline."
+        ],
+        "how_to_read": "Prepare and file the accurate list of original documents in the High-Court-prescribed form alongside production — the Rule 1(2) proviso makes the list a precondition to the Court actually receiving the documents, so an undocumented bundle of originals handed up in Court risks simply not being accepted onto the record."
+      }
+    },
+    {
+      "number": "O-XIII-3",
+      "title": "Order XIII, Rule 3 — Rejection of irrelevant or inadmissible documents",
+      "raw_text": "3. Rejection of irrelevant or inadmissible documents.—The Court may at any stage of the suit reject any document which it considers irrelevant or otherwise inadmissible, recording the grounds of such rejection.",
+      "key_terms": [
+        "rejection of documents",
+        "irrelevant",
+        "inadmissible",
+        "recorded grounds"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court can reject a document it considers irrelevant or otherwise inadmissible at any stage of the suit, but must record the grounds for doing so.",
+        "essential_elements": [
+          "Exercisable at any stage of the suit.",
+          "Covers both irrelevance and inadmissibility.",
+          "Grounds for rejection must be recorded."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If a document you've produced is rejected under this Rule, obtain and preserve the Court's recorded grounds — they're essential both for any immediate re-argument and for preserving the point in a future appeal against the eventual decree."
+      }
+    },
+    {
+      "number": "O-XIII-4",
+      "title": "Order XIII, Rule 4 — Endorsements on documents admitted in evidence",
+      "raw_text": "4. Endorsements on documents admitted in evidence.—(1) Subject to the provisions of the next following sub-rule, there shall be endorsed on every document which has been admitted in evidence in the suit the following particulars, namely:—\n(a) the number and title of the suit,\n(b) the name of the person producing the document,\n(c) the date on which it was produced, and\n(d) a statement of its having been so admitted,\nand the endorsement shall be signed or initialled by the Judge.\n(2) Where a document so admitted is an entry in a book, account or record, and a copy thereof has been substituted for the original under the next following rule, the particulars aforesaid shall be endorsed on the copy and the endorsement thereon shall be signed or initialled by the Judge.",
+      "key_terms": [
+        "endorsement",
+        "admitted in evidence",
+        "Judge's signature"
+      ],
+      "breakdown": {
+        "plain_summary": "Every document admitted in evidence must be endorsed with the suit number and title, the producer's name, the production date, and a statement of admission — signed or initialled by the Judge. Where a copy was substituted for an original book/account entry under Rule 5, the same endorsement goes on the copy instead.",
+        "essential_elements": [
+          "Four mandatory endorsement particulars for every admitted document.",
+          "Endorsement must be Judge-signed or initialled.",
+          "Where a Rule 5 copy-substitution applies, the endorsement moves to the copy."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Check that every document tendered and admitted actually carries the full Rule 4 endorsement, Judge-signed — an unendorsed 'admitted' document can later create ambiguity about whether it was genuinely taken on record, which matters if its admissibility is challenged on appeal."
+      }
+    },
+    {
+      "number": "O-XIII-5",
+      "title": "Order XIII, Rule 5 — Endorsements on copies of admitted entries in books, accounts and records",
+      "raw_text": "5. Endorsements on copies of admitted entries in books, accounts and records.—(1) Save in so far as is otherwise provided by the Bankers' Books Evidence Act, 1891 (XVIII of 1891) where a document admitted in evidence in the suit is an entry in a letter-book or a shop-book or other account in current use, the party on whose behalf the book or account is produced may furnish a copy of the entry.\n(2) Where such a document is an entry in a public record produced from a public office or by a public officer, or an entry in a book or account belonging to a person other than a party on whose behalf the book or account is produced, the Court may require a copy of the entry to be furnished—\n(a) where the record, book or account is produced on behalf of a party, then by that party, or\n(b) where the record, book or account is produced in obedience to an order of the Court acting of its own motion, then by either or any party.\n(3) Where a copy of an entry is furnished under the foregoing provisions of this rule, the Court shall, after causing the copy to be examined, compared and certified in manner mentioned in rule 17 of Order VII, mark the entry and cause the book, account or record in which it occurs to be returned to the person producing it.",
+      "key_terms": [
+        "copy substitution",
+        "shop-book",
+        "Bankers' Books Evidence Act",
+        "public record"
+      ],
+      "breakdown": {
+        "plain_summary": "For entries in current-use letter-books, shop-books, or accounts, the producing party may furnish a certified copy instead of leaving the original book on record (subject to the Bankers' Books Evidence Act, 1891, for banking records). For public records or third-party books/accounts, the Court can require a copy to be furnished by the producing party, or by any party where the Court called for the record itself. Once such a copy is examined, compared, and certified per Order VII Rule 17's procedure, the Court marks the entry and returns the original book/account/record to its producer.",
+        "essential_elements": [
+          "Current-use books: producing party may voluntarily furnish a copy (Bankers' Books Evidence Act takes precedence where applicable).",
+          "Public records / third-party books: Court can require a copy to be furnished.",
+          "Copy must be examined, compared, and certified per Order VII Rule 17 before the original is returned."
+        ],
+        "exceptions_and_qualifications": [
+          "Banking records are governed by the Bankers' Books Evidence Act, 1891 rather than this Rule where the two conflict."
+        ],
+        "how_to_read": "This Rule is particularly valuable for banks, shops, and businesses that need their active ledgers and account books back in daily use — invoke the copy-substitution mechanism promptly rather than leaving an operationally essential book tied up with the Court record for the suit's duration."
+      }
+    },
+    {
+      "number": "O-XIII-6",
+      "title": "Order XIII, Rule 6 — Endorsements on documents rejected as inadmissible in evidence",
+      "raw_text": "6. Endorsements on documents rejected an inadmissible in evidence.—Where a document relied on as evidence by either party is considered by the Court to be inadmissible in evidence, there shall be endorsed thereon the particulars mentioned in clauses (a), (b) and (c) of rule 4, sub-rule (1) together with a statement of its having been rejected, and the endorsement shall be signed or initialled by the Judge.",
+      "key_terms": [
+        "rejection endorsement",
+        "inadmissible",
+        "Judge's signature"
+      ],
+      "breakdown": {
+        "plain_summary": "A document found inadmissible gets endorsed with the suit number/title, producer's name, and production date (the same first three particulars as Rule 4), plus a statement that it was rejected — again signed or initialled by the Judge.",
+        "essential_elements": [
+          "Mirrors Rule 4's first three endorsement particulars.",
+          "Adds a rejection statement instead of an admission statement.",
+          "Judge-signed or initialled."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A properly endorsed rejection is important appellate ammunition — if the rejection is later challenged, the endorsed document (with the Judge's own rejection statement) forms part of the record showing exactly what was tendered and why it was kept out."
+      }
+    },
+    {
+      "number": "O-XIII-7",
+      "title": "Order XIII, Rule 7 — Recording of admitted and return of rejected documents",
+      "raw_text": "7. Recording of admitted and return of rejected documents.—(1) Every documents which has been admitted in evidence, or a copy thereof where a copy has been substituted for the original under rule 5, shall form part of the record of the suit.\n(2) Documents not admitted in evidence shall not form part of the record and shall be returned to the persons respectively producing them.",
+      "key_terms": [
+        "part of the record",
+        "return of rejected documents"
+      ],
+      "breakdown": {
+        "plain_summary": "Admitted documents (or their Rule 5 copy substitutes) become part of the official suit record. Documents that aren't admitted don't become part of the record at all, and must be returned to whoever produced them.",
+        "essential_elements": [
+          "Admitted documents/copies: become part of the record.",
+          "Rejected documents: excluded from the record, returned to the producer."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Promptly collect rejected documents once Rule 7(2) entitles their return — there's no reason to leave them with the Court, and retrieving them ensures they remain available for any other purpose (e.g., a different proceeding) without needing a fresh application."
+      }
+    },
+    {
+      "number": "O-XIII-8",
+      "title": "Order XIII, Rule 8 — Court may order any document to be impounded",
+      "raw_text": "8. Court may order any document to be impounded.—Notwithstanding anything contained in rule 5 or rule 7 of this Order or in rule 17 of Order VII, the Court may, if it sees sufficient cause, direct any document or book produced before it in any suit to be impounded and kept in the custody of an officer of the Court, for such period and subject to such conditions as the Court thinks fit.",
+      "key_terms": [
+        "impounding",
+        "sufficient cause",
+        "custody of court officer"
+      ],
+      "breakdown": {
+        "plain_summary": "Regardless of the normal copy-substitution (Rule 5) or record/return (Rule 7) scheme, the Court can, for sufficient cause, order any document or book produced before it to be impounded — kept in the custody of a court officer, for whatever period and on whatever conditions the Court thinks fit.",
+        "essential_elements": [
+          "Non-obstante power — overrides Rules 5 and 7 and Order VII Rule 17.",
+          "Triggered by the Court's own view of sufficient cause.",
+          "Document held by a court officer, for a Court-determined period and conditions."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If a document's authenticity or chain of custody is genuinely in doubt (e.g., suspected fabrication), consider urging the Court to exercise its Rule 8 impounding power rather than allowing the document to be returned under the ordinary Rule 7/9 scheme — impounding preserves the original for further scrutiny, including potential criminal reference, that a mere endorsed-and-returned document would not."
+      }
+    },
+    {
+      "number": "O-XIII-9",
+      "title": "Order XIII, Rule 9 — Return of admitted documents",
+      "raw_text": "9. Return of admitted documents.—(1) Any person, whether a party to the suit or not, desirous of receiving back any documents produced by him in the suit and placed on the record shall, unless the document is impounded under rule 8, be entitled to receive back the same,—\n(a) where the suit is one in which an appeal is not allowed, when the suit has been disposed of, and\n(b) where the suit is one in which an appeal is allowed, when the Court is satisfied that the time for preferring an appeal has elapsed and that no appeal has been preferred or, if an appeal has been preferred, when the appeal has been disposed of:\nProvided that a document may be returned at any time earlier then that prescribed by this rule if the person applying therefor—\n(a) delivers to the proper officer for being substituted for the original,—\n(i) in the case of a party to the suit, a certified copy, and\n(ii) in the case of any other person, an ordinary copy which has been examined, compared and certified in the manner mentioned in sub-rule (2) of rule 17 of Order VII, and\n(b) undertakes to produce the original, if required to do so:\nProvided also, that no document shall be returned with, by force of the decree, has become wholly void or useless.\n(2) On the return of a document admitted in evidence, a receipt shall be given by the person receiving it.",
+      "key_terms": [
+        "return of documents",
+        "appeal period elapsed",
+        "certified copy substitution",
+        "void or useless by decree"
+      ],
+      "breakdown": {
+        "plain_summary": "Anyone (party or not) who produced a document now on record is entitled to get it back — unless it's been impounded under Rule 8 — once the suit concludes (where no appeal lies) or once the appeal period has lapsed without an appeal, or any appeal filed has been disposed of (where an appeal does lie). An earlier return is possible if the applicant substitutes a certified copy (for a party) or a duly examined/compared/certified ordinary copy (for a non-party), while undertaking to produce the original again if required. No document is returned if the decree has rendered it wholly void or useless. A receipt must be given on return.",
+        "essential_elements": [
+          "Available to any producer of an admitted document, party or not.",
+          "Impounded documents (Rule 8) are excluded from this return entitlement.",
+          "Default timing: suit disposal (no-appeal suits) or appeal-period lapse/appeal disposal (appealable suits).",
+          "Earlier return available via certified/examined-copy substitution plus an undertaking to re-produce the original if required.",
+          "Absolute bar: documents rendered wholly void or useless by the decree are never returned."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If an original document is urgently needed elsewhere before the suit (and any appeal) concludes, use the certified-copy-substitution proviso rather than waiting out the full timeline — but be prepared to honour the undertaking to re-produce the original if the Court later calls for it."
+      }
+    },
+    {
+      "number": "O-XIII-10",
+      "title": "Order XIII, Rule 10 — Court may send for papers from its own records or from other Courts",
+      "raw_text": "10. Court may send for papers from its own records or from other Courts.—(1) The Court may of its own motion, and may in its discretion upon the application of any of the parties to a suit, send for, either from its own records or from any other Court, the record of any other suit or proceeding, and inspect the same.\n(2) Every application made under this rule shall (unless the Court otherwise directs) be supported by an affidavit showing how the record is material to the suit in which the application is made, and that the applicant cannot without unreasonable delay or expense obtain a duly authenticated copy of the record or of such portion thereof as the applicant requires, or that the production of the original is necessary for the purposes of justice.\n(3) Nothing contained in this rule shall be deemed to enable the Court to use in evidence any document which under the law of evidence would be inadmissible in the suit.",
+      "key_terms": [
+        "sending for records",
+        "materiality affidavit",
+        "law of evidence unaffected"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court can, suo motu or on a party's application, call for and inspect the record of another suit or proceeding — from its own files or another Court's. Such an application must (absent a contrary direction) be backed by an affidavit showing the record's materiality and either unreasonable delay/expense in obtaining an authenticated copy, or the necessity of the original for justice. This power doesn't override the ordinary law of evidence on admissibility — calling for a record doesn't make inadmissible material usable.",
+        "essential_elements": [
+          "Exercisable suo motu or on party application.",
+          "Covers records from the same Court or any other Court.",
+          "Application generally requires a materiality-and-necessity affidavit.",
+          "Does not expand admissibility beyond what the law of evidence otherwise permits."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "File the Rule 10(2) affidavit with precision — vaguely asserting that another suit's record is 'relevant' invites refusal; instead, identify specifically why a duly authenticated copy is unreasonably delayed/costly to obtain, or why the original specifically (not just its contents) is necessary for justice."
+      }
+    },
+    {
+      "number": "O-XIII-11",
+      "title": "Order XIII, Rule 11 — Provisions as to documents applied to material objects",
+      "raw_text": "11. Provisions as to documents applied to material objects.—The provisions therein contained as to documents shall, so far as may be, apply to all other material objects producible as evidence.",
+      "key_terms": [
+        "material objects",
+        "extension of document rules"
+      ],
+      "breakdown": {
+        "plain_summary": "Everything this Order provides for documents — production deadlines, rejection, endorsement, impounding, return, and so on — applies equally, so far as practicable, to other material objects tendered as evidence (not just paper documents).",
+        "essential_elements": [
+          "Extends the whole of Order XIII's document regime to material objects, to the extent applicable."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Don't assume Order XIII's safeguards are limited to paper — physical exhibits (weapons, damaged goods, samples, etc.) are governed by the same production, endorsement, impounding, and return regime, so handle and document their production with the same procedural discipline as any documentary exhibit."
+      }
+    },
+    {
+      "number": "O-XIII-A",
+      "title": "Order XIII-A — Summary Judgment (Overview)",
+      "raw_text": "ORDER XIII-A\nSummary Judgment\n\nApplicable to commercial disputes of a specified value by Act 4 of 2016, s. 16 and the Sch. (w.e.f. 23-10-2015). This Order, inserted by the Commercial Courts Act, 2015, gives Commercial Division/Commercial Court judges a mechanism to decide a Commercial Dispute claim without recording oral evidence, wherever a claim or defence has no real prospect of success and there is no other compelling reason for a full trial.",
+      "key_terms": [
+        "summary judgment",
+        "commercial dispute",
+        "no real prospect of success",
+        "conditional order"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XIII-A lets a Commercial Division or Commercial Court dispose of a claim (or part of one, a discrete question, or a counterclaim) without recording oral evidence, where it's satisfied the opposing side has no real prospect of success on the claim or defence, and there's no other compelling reason to let the matter go to trial. Rule 1 scopes the Order to Commercial Disputes and excludes suits already proceeding as summary suits under Order XXXVII. Rule 2 lets the application be made any time after summons is served, but bars it once issues have been framed. Rule 3 states the twin test (no real prospect of success + no other compelling reason for trial). Rule 4 prescribes a detailed, document-and-reasons-driven application and reply procedure with a thirty-day notice and thirty-day reply window. Rule 5 governs additional documentary evidence timelines for the hearing itself (fifteen days for the respondent, five days for the applicant's reply evidence). Rule 6 lists the Court's full range of dispositive options — from full judgment to dismissal, partial judgment, striking out pleadings, or routing the matter into Order XV-A case management — all requiring recorded reasons. Rule 7 introduces the 'conditional order' middle ground for claims/defences that are possible but improbable to succeed, which can be conditioned on deposits, specified steps, security, or other terms, with a stated consequence (including judgment against the non-complying party) for breach. Rule 8 lets the Court impose costs under Sections 35 and 35A.",
+        "essential_elements": [
+          "Available only for Commercial Disputes (of specified value) and not for suits already proceeding as Order XXXVII summary suits.",
+          "Can only be applied for after summons is served and before issues are framed — a defined procedural window.",
+          "The governing test is twofold: no real prospect of success/defence, AND no other compelling reason for a full trial — both limbs must be satisfied.",
+          "The application/reply procedure is heavily document- and reasons-driven, with specific content requirements (Rule 4) and tight evidentiary timelines (Rule 5).",
+          "The Court's outcome options span a full spectrum — outright judgment, dismissal, partial disposal, pleading strike-out, conditional orders, or redirection to case management — every one of which must be reasoned."
+        ],
+        "exceptions_and_qualifications": [
+          "Not available once the Court has already framed issues in the suit.",
+          "Not available for suits originally filed as Order XXXVII summary suits."
+        ],
+        "how_to_read": "Order XIII-A is the commercial-litigation analogue of summary judgment found in many common-law systems — use it aggressively where a commercial claim or defence is genuinely weak on the merits, since it can avoid the time and cost of a full trial, but file promptly (before issues are framed) and build the application around precise, documented reasons under Rule 4 rather than general assertions, since a bare or conclusory application is unlikely to meet the 'no real prospect of success' threshold."
+      }
+    },
+    {
+      "number": "O-XIII-A-1",
+      "title": "Order XIII-A, Rule 1 — Scope of and classes of suits to which this Order applies",
+      "raw_text": "1. Scope of and classes of suits to which this Order applies.—(1) This Order sets out the procedure by which Courts may decide a claim pertaining to any Commercial Dispute without recording oral evidence.\n(2) For the purposes of this Order, the word \"claim\" shall include—\n(a) part of a claim;\n(b) any particular question on which the claim (whether in whole or in part) depends; or\n(c) a counterclaim, as the case may be.\n(3) Notwithstanding anything to the contrary, an application for summary judgment under this Order shall not be made in a suit in respect of any Commercial Dispute that is originally filed as a summary suit under Order XXXVII.",
+      "key_terms": [
+        "Commercial Dispute",
+        "claim defined",
+        "Order XXXVII exclusion"
+      ],
+      "breakdown": {
+        "plain_summary": "This Order applies to Commercial Dispute claims and lets the Court decide them without recording oral evidence. 'Claim' is defined broadly to include part of a claim, a particular dependent question, or a counterclaim. It cannot be invoked in a suit that was originally filed as an Order XXXVII summary suit.",
+        "essential_elements": [
+          "Scope limited to Commercial Disputes.",
+          "'Claim' broadly defined to include partial claims, dependent questions, and counterclaims.",
+          "Express exclusion for suits originally filed under Order XXXVII."
+        ],
+        "exceptions_and_qualifications": [
+          "Order XXXVII summary suits are categorically excluded from this Order's procedure, since they already have their own summary mechanism."
+        ],
+        "how_to_read": "Confirm at the outset that the suit is a genuine Commercial Dispute (not merely a suit that happens to be commercial in a lay sense) and was not originally filed under Order XXXVII, since either disqualifier defeats a Rule 1 application before its merits are even reached."
+      }
+    },
+    {
+      "number": "O-XIII-A-2",
+      "title": "Order XIII-A, Rule 2 — Stage for application for summary judgment",
+      "raw_text": "2. Stage for application for summary judgment.—An applicant may apply for summary judgment at any time after summons has been served on the defendant: Provided that, no application for summary judgment may be made by such applicant after the Court has framed the issues in respect of the suit.",
+      "key_terms": [
+        "timing",
+        "after summons served",
+        "before framing of issues"
+      ],
+      "breakdown": {
+        "plain_summary": "A summary judgment application can be made any time after the defendant has been served with summons, but it must be made before the Court frames issues in the suit — once issues are framed, the window closes.",
+        "essential_elements": [
+          "Earliest trigger: service of summons on the defendant.",
+          "Latest cutoff: before the Court frames issues."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat issue-framing as a hard deadline for a summary judgment strategy — if a claim or defence looks weak early on, file the Rule 2 application promptly rather than waiting, since delay risks the window closing once issues are framed."
+      }
+    },
+    {
+      "number": "O-XIII-A-3",
+      "title": "Order XIII-A, Rule 3 — Grounds for summary judgment",
+      "raw_text": "3. Grounds for summary judgment.—The Court may give a summary judgment against a plaintiff or defendant on a claim if it considers that—\n(a) the plaintiff has no real prospect of succeeding on the claim or the defendant has no real prospect of successfully defending the claim, as the case may be; and\n(b) there is no other compelling reason why the claim should not be disposed of before recording of oral evidence.",
+      "key_terms": [
+        "no real prospect of success",
+        "compelling reason",
+        "twin test"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court can grant summary judgment against either side if it finds both that the plaintiff has no real prospect of succeeding (or the defendant no real prospect of successfully defending), and that there's no other compelling reason to avoid disposing of the claim without oral evidence.",
+        "essential_elements": [
+          "Two-limb conjunctive test: no real prospect of success/defence, AND no other compelling reason for trial.",
+          "Available against either a plaintiff's claim or a defendant's defence."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Both limbs of the Rule 3 test must be met — even a claim or defence that looks weak on the papers can survive summary judgment if there's a compelling reason (e.g., a genuine need for cross-examination on a disputed fact, or a developing area of law) why the matter should still go to trial, so address both limbs squarely in any application or opposition."
+      }
+    },
+    {
+      "number": "O-XIII-A-4",
+      "title": "Order XIII-A, Rule 4 — Procedure",
+      "raw_text": "4. Procedure.—(1) An application for summary judgment to a Court shall, in addition to any other matters the applicant may deem relevant, include the matters set forth in sub-clauses (a) to (f) mentioned hereunder:—\n(a) the application must contain a statement that it is an application for summary judgment made under this Order;\n(b) the application must precisely disclose all material facts and identify the point of law, if any;\n(c) in the event the applicant seeks to rely upon any documentary evidence, the applicant must,—(i) include such documentary evidence in its application, and (ii) identify the relevant content of such documentary evidence on which the applicant relies;\n(d) the application must state the reason why there are no real prospects of succeeding on the claim or defending the claim, as the case may be;\n(e) the application must state what relief the applicant is seeking and briefly state the grounds for seeking such relief.\n(2) Where a hearing for summary judgment is fixed, the respondent must be given at least thirty days' notice of:—(a) the date fixed for the hearing; and (b) the claim that is proposed to be decided by the Court at such hearing.\n(3) The respondent may, within thirty days of the receipt of notice of application of summary judgment or notice of hearing (whichever is earlier), file a reply addressing the matters set forth in clauses (a) to (f) mentioned hereunder in addition to any other matters that the respondent may deem relevant:—\n(a) the reply must precisely—(i) disclose all material facts; (ii) identify the point of law, if any; and (iii) state the reasons why the relief sought by the applicant should not be granted;\n(b) in the event the respondent seeks to rely upon any documentary evidence in its reply, the respondent must—(i) include such documentary evidence in its reply; and (ii) identify the relevant content of such documentary evidence on which the respondent relies;\n(c) the reply must state the reason why there are real prospects of succeeding on the claim or defending the claim, as the case may be;\n(d) the reply must concisely state the issues that should be framed for trial;\n(e) the reply must identify what further evidence shall be brought on record at trial that could not be brought on record at the stage of summary judgment; and\n(f) the reply must state why, in light of the evidence or material on record if any, the Court should not proceed to summary judgment.",
+      "key_terms": [
+        "application content requirements",
+        "thirty days' notice",
+        "reply requirements"
+      ],
+      "breakdown": {
+        "plain_summary": "A summary judgment application must expressly identify itself as such, precisely disclose all material facts and legal points, attach and pinpoint any relied-upon documentary evidence, explain why there's no real prospect of success/defence, and specify the relief sought with grounds. Once a hearing is fixed, the respondent gets at least thirty days' notice of the date and the claim to be decided. The respondent then has thirty days (from whichever of the application notice or hearing notice comes first) to file a mirror-image reply: disclosing material facts and legal points, explaining why relief shouldn't be granted, attaching and pinpointing its own documentary evidence, explaining why there are real prospects of success/defence, concisely stating proposed trial issues, identifying what further trial-stage evidence couldn't be brought at the summary stage, and explaining why summary judgment shouldn't proceed.",
+        "essential_elements": [
+          "Application must satisfy six specified content requirements (a)-(f), including documentary evidence pinpointing.",
+          "Minimum thirty-day hearing notice to the respondent, specifying date and the claim to be decided.",
+          "Respondent's reply deadline: thirty days from the earlier of the application notice or hearing notice.",
+          "Reply must satisfy its own six specified content requirements (a)-(f), mirroring but distinct from the application's."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Draft both the application and any reply as self-contained, evidence-anchored documents satisfying every listed sub-clause — because the Rule is this prescriptive, a generic application or reply that omits any required element (e.g., failing to identify proposed trial issues in a reply) risks being treated as non-compliant or unpersuasive on its own terms."
+      }
+    },
+    {
+      "number": "O-XIII-A-5",
+      "title": "Order XIII-A, Rule 5 — Evidence for hearing of summary judgment",
+      "raw_text": "5. Evidence for hearing of summary judgment.—(1) Notwithstanding anything in this Order, if the respondent in an application for summary judgment wishes to rely on additional documentary evidence during the hearing, the respondent must:—(a) file such documentary evidence; and (b) serve copies of such documentary evidence on every other party to the application at least fifteen days prior to the date of the hearing.\n(2) Notwithstanding anything in this Order, if the applicant for summary judgment wishes to rely on documentary evidence in reply to the defendant's documentary evidence, the applicant must:—(a) file such documentary evidence in reply; and (b) serve a copy of such documentary evidence on the respondent at least five days prior to the date of the hearing.\n(3) Notwithstanding anything to the contrary, sub-rules (1) and (2) shall not require documentary evidence to be:—(a) filed if such documentary evidence has already been filed; or (b) served on a party on whom it has already been served.",
+      "key_terms": [
+        "additional documentary evidence",
+        "fifteen days",
+        "five days",
+        "no duplicate filing"
+      ],
+      "breakdown": {
+        "plain_summary": "If the respondent wants to introduce additional documentary evidence at the hearing beyond what's in the reply, it must be filed and served on every other party at least fifteen days before the hearing. If the applicant then wants to respond with its own documentary evidence, it must be filed and served at least five days before the hearing. Neither requirement applies to documents already filed or already served on the relevant party.",
+        "essential_elements": [
+          "Respondent's additional evidence: fifteen-day pre-hearing filing/service deadline.",
+          "Applicant's reply evidence: five-day pre-hearing filing/service deadline.",
+          "No duplicate filing/service required for material already on record/served."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Plan backward from the hearing date using these two deadlines — the fifteen-day respondent deadline and the five-day applicant reply deadline are sequential and tight, so identify any additional documentary evidence well before the hearing rather than attempting a late introduction that would breach Rule 5."
+      }
+    },
+    {
+      "number": "O-XIII-A-6",
+      "title": "Order XIII-A, Rule 6 — Orders that may be made by Court",
+      "raw_text": "6. Orders that may be made by Court.—(1) On an application made under this Order, the Court may make such orders that it may deem fit in its discretion including the following:—(a) judgment on the claim; (b) conditional order in accordance with Rule 7 mentioned hereunder; (c) dismissing the application; (d) dismissing part of the claim and a judgment on part of the claim that is not dismissed; (e) striking out the pleadings (whether in whole or in part); or (f) further directions to proceed for case management under Order XV-A.\n(2) Where the Court makes any of the orders as set forth in sub-rule (1) (a) to (f), the Court shall record its reasons for making such order.",
+      "key_terms": [
+        "dispositive options",
+        "conditional order",
+        "case management",
+        "recorded reasons"
+      ],
+      "breakdown": {
+        "plain_summary": "On a summary judgment application, the Court has a wide discretionary menu of outcomes: full judgment on the claim, a conditional order under Rule 7, dismissing the application outright, partially dismissing/partially granting judgment on a claim, striking out pleadings wholly or partly, or simply directing the matter into Order XV-A case management. Whichever option is chosen, the Court must record its reasons.",
+        "essential_elements": [
+          "Six listed dispositive options, non-exhaustively framed ('including').",
+          "Every order under this Rule requires recorded reasons."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Don't assume a summary judgment application is a binary win-or-lose proposition — the Rule 6 menu includes partial judgment, pleading strike-out, and case-management redirection, so frame submissions (and anticipate outcomes) across this full spectrum rather than arguing only for outright judgment or outright dismissal."
+      }
+    },
+    {
+      "number": "O-XIII-A-7",
+      "title": "Order XIII-A, Rule 7 — Conditional order",
+      "raw_text": "7. Conditional order.—(1) Where it appears to the Court that it is possible that a claim or defence may succeed but it is improbable that it shall do so, the Court may make a conditional order as set forth in Rule 6 (1) (b).\n(2) Where the Court makes a conditional order, it may:—(a) make it subject to all or any of the following conditions:—(i) require a party to deposit a sum of money in the Court; (ii) require a party to take a specified step in relation to the claim or defence, as the case may be; (iii) require a party, as the case may be, to give such security or provide such surety for restitution of costs as the Court deems fit and proper; (iv) impose such other conditions, including providing security for restitution of losses that any party is likely to suffer during the pendency of the suit, as the Court may deem fit in its discretion; and (b) specify the consequences of the failure to comply with the conditional order, including passing a judgment against the party that have not complied with the conditional order.",
+      "key_terms": [
+        "conditional order",
+        "possible but improbable",
+        "deposit",
+        "security",
+        "surety"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a claim or defence is possible but improbable to succeed, the Court can make a conditional order instead of an outright judgment or dismissal — requiring a deposit, a specified step, security/surety for costs, or other conditions (including security for likely losses pending the suit) — and must specify what happens if the party fails to comply, which can include judgment against them.",
+        "essential_elements": [
+          "Threshold: 'possible but improbable' success — the middle ground between 'no real prospect' and a genuinely triable claim/defence.",
+          "Conditions can include monetary deposits, specified steps, costs security/surety, or other Court-fashioned conditions.",
+          "Non-compliance consequences must be specified, up to and including adverse judgment."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A conditional order is a practical tool to flush out a genuinely weak-but-not-hopeless claim or defence — if facing one, be prepared to actually satisfy the imposed condition (e.g., a deposit) promptly, since non-compliance can result directly in judgment against you without further proceedings."
+      }
+    },
+    {
+      "number": "O-XIII-A-8",
+      "title": "Order XIII-A, Rule 8 — Power to impose costs",
+      "raw_text": "8. Power to impose costs.—The Court may make an order for payment of costs in an application for summary judgment in accordance with the provisions of sections 35 and 35A of the Code.",
+      "key_terms": [
+        "costs",
+        "Section 35",
+        "Section 35A"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court can order costs on a summary judgment application, governed by the Code's general costs provisions under Sections 35 (costs) and 35A (compensatory costs for false or vexatious claims/defences).",
+        "essential_elements": [
+          "Costs power is tied to Sections 35 and 35A of the main Code."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Remember that Section 35A's compensatory-costs exposure for false or vexatious claims/defences is available in the summary judgment context too — a party who forces a summary judgment hearing on a hopeless claim or defence risks more than simply losing the application."
+      }
     }
   ]
 }
