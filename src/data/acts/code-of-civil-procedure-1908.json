@@ -12130,6 +12130,795 @@
         ],
         "how_to_read": "Cross-refer to Order XXVI (Commissions) whenever a case calls for evidence to be taken outside the ordinary courtroom setting — this rule is the enabling link from Order XVIII into that broader commission framework."
       }
+    },
+    {
+      "number": "O-XIX",
+      "title": "Order XIX — Affidavits",
+      "raw_text": "Order XIX of the First Schedule to the Code of Civil Procedure, 1908 governs proof of facts by affidavit: the Court's power to order a fact proved by affidavit, the right to demand the deponent's attendance for cross-examination, what an affidavit may properly contain, and — for specified-value commercial disputes under the Commercial Courts Act, 2015 — a detailed evidence-control, redaction, and formatting regime for affidavits of evidence.",
+      "key_terms": [
+        "affidavit",
+        "deponent",
+        "cross-examination of deponent",
+        "hearsay",
+        "evidence control",
+        "redaction of affidavit"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XIX lets a Court shortcut formal oral proof by allowing facts to be established through sworn affidavits (Rule 1), while preserving the other side's right to insist on the deponent's attendance for cross-examination if a witness is genuinely wanted and available (Rule 2). Rule 3 confines affidavits to facts within the deponent's own knowledge, except for interlocutory applications where stated belief is allowed if its grounds are given, and penalises affidavits cluttered with hearsay or argument through a costs sanction. Rules 4-6, applicable to specified-value commercial disputes under the Commercial Courts Act, 2015, add a far more structured regime: the Court's power to control what evidence is led and how, the power to redact or reject non-evidentiary portions of an affidavit of examination-in-chief, and detailed formatting rules an affidavit of evidence must follow (chronological, paragraphed, sourced for belief/information, paginated, annexed).",
+        "essential_elements": [
+          "Rule 1's affidavit-proof power is discretionary and 'for sufficient reason' — not every fact can simply be proved by affidavit over objection.",
+          "Rule 2's cross-examination safeguard is the quid pro quo for allowing affidavit evidence: a party cannot hide a witness behind an affidavit if the other side genuinely wants, and can produce, that witness for cross-examination.",
+          "Rules 4-6 were inserted by the Commercial Courts Act, 2015 (Act 4 of 2016) and apply only to commercial disputes of specified value, layering a civil-litigation-reform regime of evidence control, redaction, and strict affidavit formatting on top of the general Rules 1-3."
+        ],
+        "exceptions_and_qualifications": [
+          "Order XIX interacts directly with Order XVIII Rule 4's affidavit-in-chief regime — Rule 1 is the general affidavit-evidence power, while Order XVIII Rule 4 is the specific application of affidavit evidence to examination-in-chief at trial; Rules 5 and 6 here give the Commercial Courts machinery its teeth for weeding out argumentative or legally conclusory affidavits before they clutter the record."
+        ],
+        "how_to_read": "Read Rules 1-3 as the general law of affidavit evidence applicable to every suit, then check whether the matter is a specified-value commercial dispute under the Commercial Courts Act, 2015 to see if Rules 4-6's evidence-control, redaction, and formatting regime also applies."
+      }
+    },
+    {
+      "number": "O-XIX-1",
+      "title": "Order XIX Rule 1 — Power to order any point to be proved by affidavit",
+      "raw_text": "1. Power to order any point to be proved by affidavit.—Any Court may at any time for sufficient reason order that any particular fact or facts may be proved by affidavit, or that the affidavit of any witness may be read at the hearing, on such conditions as the Court thinks reasonable: Provided that where it appears to the Court that either party bona fide desires the production of a witness for cross-examination, and that such witness can be produced, an order shall not be made authorising the evidence of such witness to be given by affidavit.",
+      "key_terms": [
+        "sufficient reason",
+        "proof by affidavit",
+        "bona fide desire for cross-examination"
+      ],
+      "breakdown": {
+        "plain_summary": "A Court can, for sufficient reason, order that a particular fact be proved by affidavit instead of oral testimony, or that a witness's affidavit be read at the hearing, subject to whatever conditions the Court thinks reasonable. But this shortcut is blocked where either party genuinely wants to cross-examine that witness and the witness can actually be produced — in that situation the Court must not allow the evidence to go in merely by affidavit.",
+        "essential_elements": [
+          "Sufficient reason for ordering proof by affidavit.",
+          "Court's discretion over conditions attached to the order.",
+          "Bar: no such order where a party bona fide wants, and can secure, cross-examination of that witness."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso is the key safeguard — it prevents affidavit evidence from being used to insulate a witness from cross-examination when the opposing party has a genuine and practically achievable demand to test that witness."
+        ],
+        "how_to_read": "The foundational affidavit-evidence power — read the proviso carefully whenever opposing a request to prove a contested fact purely by affidavit; a bona fide, practicable demand for cross-examination defeats the shortcut."
+      }
+    },
+    {
+      "number": "O-XIX-2",
+      "title": "Order XIX Rule 2 — Power to order attendance of deponent for cross-examination",
+      "raw_text": "2. Power to order attendance of deponent for cross-examination.—(1) Upon any application evidence may be given by affidavit, but the Court may, at the instance of either party, order the attendance for cross-examination of the deponent.\n(2) Such attendance shall be in Court, unless the deponent is exempted from personal appearance in Court or the Court otherwise directs.",
+      "key_terms": [
+        "deponent attendance",
+        "cross-examination",
+        "exemption from personal appearance"
+      ],
+      "breakdown": {
+        "plain_summary": "On any application, evidence can be given by affidavit, but either party can ask the Court to order the deponent to attend in person for cross-examination. That attendance must be in Court itself unless the deponent is exempt from personal appearance or the Court directs otherwise (e.g., examination elsewhere).",
+        "essential_elements": [
+          "Affidavit evidence filed in connection with an application.",
+          "Either party's right to seek an order for the deponent's attendance for cross-examination.",
+          "Default venue: in Court, subject to exemption from personal appearance or a contrary Court direction."
+        ],
+        "exceptions_and_qualifications": [
+          "This rule operationalises the Rule 1 proviso's cross-examination safeguard specifically for affidavit evidence filed on applications (as opposed to affidavits of evidence at trial, governed by Order XVIII Rule 4)."
+        ],
+        "how_to_read": "Commonly invoked on interlocutory applications (e.g., injunction applications supported by affidavit) — if the opposing party doubts the deponent's assertions, this rule is the route to compel his attendance for cross-examination."
+      }
+    },
+    {
+      "number": "O-XIX-3",
+      "title": "Order XIX Rule 3 — Matters to which affidavits shall be confined",
+      "raw_text": "3. Matters to which affidavits shall be confined.—(1) Affidavits shall be confined to such facts as the deponent is able of his own knowledge to prove, except on interlocutory applications, on which statements of his belief may be admitted: provided that the grounds thereof are stated.\n(2) The costs of every affidavit which shall unnecessarily set forth matters of hearsay or argumentative matter, or copies of or extracts from documents, shall (unless the Court otherwise directs) be paid by the party filing the same.",
+      "key_terms": [
+        "own knowledge",
+        "statements of belief",
+        "hearsay in affidavit",
+        "argumentative matter",
+        "costs sanction"
+      ],
+      "breakdown": {
+        "plain_summary": "An affidavit must generally stick to facts the deponent personally knows to be true. The exception is interlocutory applications, where the deponent may state matters of belief, provided he also states the grounds for that belief. If an affidavit unnecessarily includes hearsay, argumentative content, or needless document copies/extracts, the party filing it bears the costs of that excess unless the Court directs otherwise.",
+        "essential_elements": [
+          "General rule: affidavit confined to the deponent's own knowledge.",
+          "Exception: interlocutory applications permit stated belief, with grounds given.",
+          "Costs sanction for unnecessary hearsay, argumentative matter, or document copies/extracts."
+        ],
+        "exceptions_and_qualifications": [
+          "The costs sanction under sub-rule (2) is a built-in discipline mechanism meant to keep affidavits factual and concise rather than argumentative pleadings in disguise."
+        ],
+        "how_to_read": "A drafting-discipline rule every practitioner should keep in mind when settling an affidavit — confine statements to personal knowledge (or clearly-grounded belief on interlocutory matters) and strip out argument, which belongs in submissions, not the affidavit."
+      }
+    },
+    {
+      "number": "O-XIX-4",
+      "title": "Order XIX Rule 4 — Court may control evidence",
+      "raw_text": "4. Court may control evidence.—(1) The Court may, by directions, regulate the evidence as to issues on which it requires evidence and the manner in which such evidence may be placed before the Court.\n(2) The Court may, in its discretion and for reasons to be recorded in writing, exclude evidence that would otherwise be produced by the parties.\n\n[Applicable to commercial disputes of a specified value by Act 4 of 2016, s. 16 and the Schedule, w.e.f. 23-10-2015.]",
+      "key_terms": [
+        "evidence control",
+        "regulation of issues requiring evidence",
+        "exclusion of evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "In specified-value commercial disputes, the Court has active case-management power over evidence: it can direct exactly which issues need evidence and how that evidence should be placed before it, and it can exclude evidence that would otherwise be led by the parties, provided it records its reasons in writing.",
+        "essential_elements": [
+          "Applies to commercial disputes of specified value under the Commercial Courts Act, 2015.",
+          "Court's directive power over which issues require evidence and the manner of its presentation.",
+          "Court's discretionary exclusion power, conditioned on recorded reasons."
+        ],
+        "exceptions_and_qualifications": [
+          "This rule is a direct product of the Commercial Courts Act, 2015 reforms aimed at tightening and speeding up commercial litigation by letting the Court actively curate the evidence rather than leaving it entirely to party autonomy.",
+          "It does not apply to ordinary (non-commercial, or below the specified value) suits, which remain governed by the general affidavit regime of Rules 1-3."
+        ],
+        "how_to_read": "Read together with Order XV-A's case management hearing powers and Order XVIII Rule 4's affidavit-in-chief regime — this rule gives the Commercial Court teeth to actively shape what evidence is even placed on record in the first place."
+      }
+    },
+    {
+      "number": "O-XIX-5",
+      "title": "Order XIX Rule 5 — Redacting or rejecting evidence",
+      "raw_text": "5. Redacting or rejecting evidence.—A Court may, in its discretion, for reasons to be recorded in writing,—\n(i) redact or order the redaction of such portions of the affidavit of examination-in-chief as do not, in its view, constitute evidence; or\n(ii) return or reject an affidavit of examination-in-chief as not constituting admissible evidence.\n\n[Applicable to commercial disputes of a specified value by Act 4 of 2016, s. 16 and the Schedule, w.e.f. 23-10-2015.]",
+      "key_terms": [
+        "redaction",
+        "rejection of affidavit",
+        "admissible evidence"
+      ],
+      "breakdown": {
+        "plain_summary": "In specified-value commercial disputes, the Court can, for reasons recorded in writing, either redact the parts of an examination-in-chief affidavit that are not really evidence (argument, legal submissions, etc.), or go further and reject or return the entire affidavit if it does not amount to admissible evidence at all.",
+        "essential_elements": [
+          "Applies to commercial disputes of specified value.",
+          "Reasons must be recorded in writing.",
+          "Two tools: partial redaction of non-evidentiary portions, or outright rejection/return of a non-admissible affidavit."
+        ],
+        "exceptions_and_qualifications": [
+          "This directly complements Order XIX Rule 3's general hearsay/argument costs-sanction by giving Commercial Courts a sharper tool — outright redaction or rejection — rather than just a costs penalty."
+        ],
+        "how_to_read": "Anticipate this scrutiny when drafting an affidavit of examination-in-chief in a commercial suit — portions that merely restate pleadings, argue law, or editorialise risk being redacted or the affidavit being rejected wholesale."
+      }
+    },
+    {
+      "number": "O-XIX-6",
+      "title": "Order XIX Rule 6 — Format and guidelines of affidavit of evidence",
+      "raw_text": "6. Format and guidelines of affidavit of evidence.—An affidavit must comply with the form and requirements set forth below:—\n(a) such affidavit should be confined to, and should follow the chronological sequence of, the dates and events that are relevant for proving any fact or any other matter dealt with;\n(b) where the Court is of the view that an affidavit is a mere reproduction of the pleadings, or contains the legal grounds of any party's case, the Court may, by order, strike out the affidavit or such parts of the affidavit, as it deems fit and proper;\n(c) each paragraph of an affidavit should, as far as possible, be confined to a distinct portion of the subject;\n(d) an affidavit shall state—\n(i) which of the statements in it are made from the deponent's own knowledge and which are matters of information or belief; and\n(ii) the source for any matters of information or belief;\n(e) an affidavit should—\n(i) have the pages numbered consecutively as a separate document (or as one of several documents contained in a file);\n(ii) be divided into numbered paragraphs;\n(iii) have all numbers, including dates, expressed in figures; and\n(iv) if any of the documents referred to in the body of the affidavit are annexed to the affidavit or any other pleadings, give the annexures and page numbers of such documents that are relied upon.\n\n[Applicable to commercial disputes of a specified value by Act 4 of 2016, s. 16 and the Schedule, w.e.f. 23-10-2015.]",
+      "key_terms": [
+        "chronological affidavit",
+        "pleadings reproduction struck out",
+        "source of belief",
+        "paginated and paragraphed affidavit",
+        "annexures"
+      ],
+      "breakdown": {
+        "plain_summary": "In specified-value commercial disputes, an affidavit of evidence must follow a strict format: confined to and organised by the chronological sequence of relevant dates and events; liable to be struck out (wholly or partly) if it is a mere rehash of the pleadings or contains legal argument; each paragraph confined to a distinct topic as far as possible; must distinguish between statements from the deponent's own knowledge versus information/belief, and give the source for the latter; and must be consecutively paginated, divided into numbered paragraphs, use figures for all numbers/dates, and cross-reference annexures with page numbers.",
+        "essential_elements": [
+          "Applies to commercial disputes of specified value.",
+          "Chronological organisation of dates and events.",
+          "Court's power to strike out pleadings-reproduction or legal-argument content.",
+          "Paragraph-per-topic discipline.",
+          "Mandatory disclosure of knowledge vs. belief, with sourcing for belief.",
+          "Formal requirements: pagination, numbered paragraphs, figures for numbers/dates, annexure cross-referencing."
+        ],
+        "exceptions_and_qualifications": [
+          "This rule is a detailed drafting code specific to commercial disputes and goes well beyond the general, loosely worded requirements of Rule 3 — practitioners drafting affidavits of evidence in a Commercial Court must treat it as a checklist."
+        ],
+        "how_to_read": "Treat this as a drafting checklist for every affidavit of examination-in-chief filed in a specified-value commercial dispute — non-compliance invites striking out under clause (b) or redaction/rejection under Rule 5."
+      }
+    },
+    {
+      "number": "O-XX",
+      "title": "Order XX — Judgment and Decree",
+      "raw_text": "Order XX of the First Schedule to the Code of Civil Procedure, 1908 governs the final stage of a trial: the timeline and manner of pronouncing judgment, who may pronounce a judgment written but not pronounced by a predecessor, signing and dating the judgment and decree, the mandatory contents of a decree, the timeline for preparing the decree, and detailed rules for framing decrees in specific categories of suits — possession and mesne profits, instalment payments, specific performance, administration, pre-emption, partnership dissolution, accounts, partition, and set-off/counter-claim.",
+      "key_terms": [
+        "judgment",
+        "decree",
+        "pronouncement timeline",
+        "preliminary decree",
+        "final decree",
+        "mesne profits",
+        "instalments",
+        "partition decree"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XX closes out the trial. Rule 1 sets the timeline for pronouncing judgment — open court, as soon as practicable, with a general endeavour to pronounce within 30 days (extendable to 60 in exceptional circumstances) for ordinary suits, and a stricter 90-day post-arguments deadline for Commercial Courts/Divisions. Rules 2-5A deal with signing, dating, the contents required of judgments from different courts, and informing unrepresented parties of their appeal rights. Rules 6-8 prescribe the contents of the decree, a 15-day decree-preparation timeline, the date the decree bears, and what happens if the Judge leaves office before signing it. Rules 9-19 then give detailed, suit-type-specific decree-drafting rules: immovable and movable property, instalment payments, possession-with-mesne-profits, specific performance of sale/lease contracts, administration suits, pre-emption suits, partnership dissolution, principal-agent accounts, special accounting directions, partition suits, and set-off/counter-claim decrees. Rule 20 entitles parties to certified copies of the judgment and decree.",
+        "essential_elements": [
+          "Rule 1 exists in two textual forms: the general 30/60-day endeavour-based timeline (substituted by the 1999/2002 amendments) and the stricter, absolute 90-day Commercial Court/Division/Appellate Division timeline (inserted by the Commercial Courts Act, 2015) — documented together within the Rule 1 entry below per the Order XV/Order XVIII Rule 2 precedent.",
+          "A decree must 'agree with the judgment' (Rule 6) — any mismatch between the operative portion of the judgment and the decree as drawn up is a correctable error, typically via Section 152.",
+          "Several specific-suit-type rules (Rules 12-18) produce preliminary decrees (declaring rights, directing further inquiry) followed by final decrees once the inquiry concludes — a structural feature of accounts, partition, administration, and partnership-dissolution litigation that practitioners must track across both decree stages."
+        ],
+        "exceptions_and_qualifications": [
+          "Order XX is where trial strategy converts into an enforceable decree — errors here (wrong decree contents, mismatched judgment/decree, missed instalment or mesne-profits directions) routinely become fresh grounds for execution objections or appeals, so decree-drawing is a distinct skill from arguing the case."
+        ],
+        "how_to_read": "Read Rule 1 for the pronouncement timeline (checking the general vs. Commercial Court track), Rules 6-8 for the decree's mandatory contents and preparation timeline, and then the relevant suit-type-specific rule (9-19) depending on what kind of suit and relief is involved."
+      }
+    },
+    {
+      "number": "O-XX-1",
+      "title": "Order XX Rule 1 — Judgment when pronounced",
+      "raw_text": "1. Judgment when pronounced.—\nGeneral-suit version (substituted by Act 22 of 2002):\n(1) The Court, after the case has been heard, shall pronounce judgment in an open Court, either at once, or as soon thereafter as may be practicable and when the judgment is to be pronounced on some future day, the Court shall fix a day for that purpose, of which due notice shall be given to the parties or their pleaders: Provided that where the judgment is not pronounced at once, every endeavour shall be made by the Court to pronounce the judgment within thirty days from the date on which the hearing of the case was concluded but, where it is not practicable so to do on the ground of the exceptional and extraordinary circumstances of the case, the Court shall fix a future day for the pronouncement of the judgment, and such day shall not ordinarily be a day beyond sixty days from the date on which the hearing of the case was concluded, and due notice of the day so fixed shall be given to the parties or their pleaders.\n\nCommercial Courts version (applicable to commercial disputes of specified value by Act 4 of 2016, s. 16 and the Schedule):\n(1) The Commercial Court, Commercial Division, or Commercial Appellate Division, as the case may be, shall, within ninety days of the conclusion of arguments, pronounce judgment and copies thereof shall be issued to all the parties to the dispute through electronic mail or otherwise.\n\n(2) Where a written judgment is to be pronounced, it shall be sufficient if the findings of the Court on each issue and the final order passed in the case are read out and it shall not be necessary for the Court to read out the whole judgment.\n(3) The judgment may be pronounced by dictation in open Court to a shorthand writer if the Judge is specially empowered by the High Court in this behalf: Provided that, where the judgment is pronounced by dictation in open Court, the transcript of the judgment so pronounced shall, after making such correction therein as may be necessary, be signed by the judge, bear the date on which it was pronounced, and form a part of the record.",
+      "key_terms": [
+        "pronouncement of judgment",
+        "open Court",
+        "thirty/sixty-day endeavour",
+        "ninety-day Commercial Court deadline",
+        "dictation to shorthand writer"
+      ],
+      "breakdown": {
+        "plain_summary": "After hearing concludes, the Court must pronounce judgment in open court — either immediately or on a fixed future day with notice to the parties. For ordinary suits, the Court must make every endeavour to pronounce within 30 days of the conclusion of hearing, extendable up to 60 days only for exceptional and extraordinary circumstances (with a fixed, notified future date). For commercial disputes of specified value, the deadline is stricter and absolute: judgment within 90 days of the conclusion of arguments, with copies issued to all parties by email or otherwise. A written judgment need not be read out in full — reading the issue-wise findings and final order suffices — and a specially empowered Judge may pronounce judgment by dictating it in open court to a shorthand writer, with the corrected, signed, dated transcript becoming part of the record.",
+        "essential_elements": [
+          "Judgment pronounced in open Court, at once or on a notified future date.",
+          "General suits: 30-day endeavour, extendable to 60 days only for exceptional/extraordinary circumstances, with notice of the fixed date.",
+          "Commercial disputes of specified value: absolute 90-day deadline from conclusion of arguments, with electronic or other distribution of copies.",
+          "Reading issue-wise findings and the final order suffices for a written judgment.",
+          "Dictation to a shorthand writer permitted only for specially empowered Judges, with signed, dated, corrected transcript forming the record."
+        ],
+        "exceptions_and_qualifications": [
+          "Two timeline regimes coexist: the general 30/60-day endeavour-based standard (directory in tone, built around 'every endeavour') and the Commercial Courts Act, 2015 90-day absolute deadline applicable only to commercial disputes of specified value — practitioners must identify which track their suit falls into.",
+          "The 60-day outer limit for general suits is itself not absolute ('shall not ordinarily be a day beyond sixty days'), preserving some flexibility for truly exceptional cases."
+        ],
+        "how_to_read": "Check first whether the suit is a specified-value commercial dispute (90-day absolute deadline) or an ordinary suit (30-day endeavour / 60-day outer limit), then read sub-rules (2)-(3) for the mechanics of how the judgment may actually be delivered (full reading vs. issue-wise reading, dictation to a shorthand writer)."
+      }
+    },
+    {
+      "number": "O-XX-2",
+      "title": "Order XX Rule 2 — Power to pronounce judgment written by judge's predecessor",
+      "raw_text": "2. Power to pronounce judgment written by judge's predecessor.—A Judge shall pronounce a judgment written, but not pronounced, by his predecessor.",
+      "key_terms": [
+        "predecessor's written judgment",
+        "pronouncement by successor"
+      ],
+      "breakdown": {
+        "plain_summary": "If a Judge has written a judgment but leaves office (or is otherwise unable to pronounce it) before pronouncing it, his successor must pronounce that already-written judgment — the successor does not need to rewrite or rehear the case.",
+        "essential_elements": [
+          "Judgment written but not pronounced by the predecessor Judge.",
+          "Mandatory duty of the successor Judge to pronounce it."
+        ],
+        "exceptions_and_qualifications": [
+          "This complements Order XVIII Rule 15's continuity principle for evidence — here the continuity extends all the way to a finished, written judgment that simply needs formal pronouncement."
+        ],
+        "how_to_read": "A narrow but important continuity rule — distinguish from Order XVIII Rule 15, which concerns evidence recorded by a predecessor mid-trial; this rule concerns a judgment already fully written but not yet pronounced."
+      }
+    },
+    {
+      "number": "O-XX-3",
+      "title": "Order XX Rule 3 — Judgment to be signed",
+      "raw_text": "3. Judgment to be signed.—The judgment shall be dated and signed by the Judge in open Court at the time of pronouncing it and, when once signed, shall not afterwards be altered or added to save as provided by section 152 or on review.",
+      "key_terms": [
+        "signing judgment",
+        "finality of judgment",
+        "section 152 correction",
+        "review"
+      ],
+      "breakdown": {
+        "plain_summary": "The judgment must be dated and signed by the Judge in open court at the moment it is pronounced. Once signed, it is final and cannot be altered or added to, except through Section 152's correction-of-errors mechanism or on a formal review.",
+        "essential_elements": [
+          "Dating and signing in open Court at the time of pronouncement.",
+          "Finality: no alteration or addition thereafter.",
+          "Exceptions: Section 152 corrections, or review."
+        ],
+        "exceptions_and_qualifications": [
+          "This finality rule is what gives a pronounced, signed judgment its binding character — any change outside Section 152 or review risks being set aside as without jurisdiction."
+        ],
+        "how_to_read": "Read with Section 152 (correction of clerical or arithmetical mistakes) and the review provisions (Section 114/Order XLVII) — those are the only lawful routes to touch a signed judgment."
+      }
+    },
+    {
+      "number": "O-XX-4",
+      "title": "Order XX Rule 4 — Judgments of Small Cause Courts",
+      "raw_text": "4. Judgments of Small Cause Courts.—(1) Judgments of a Court of Small Causes need not contain more than the points for determination and the decision thereon.\n(2) Judgments of other Courts.—Judgments of other Courts shall contain a concise statement of the case, the points for determination, the decision thereon, and the reasons for such decision.",
+      "key_terms": [
+        "Small Cause Court judgment",
+        "points for determination",
+        "reasons for decision"
+      ],
+      "breakdown": {
+        "plain_summary": "A Small Cause Court's judgment can be brief — just the points for determination and the decision on them, without detailed reasoning. Every other court's judgment, however, must contain a concise statement of the case, the points for determination, the decision, and the reasons for that decision.",
+        "essential_elements": [
+          "Small Cause Courts: points for determination plus decision, nothing more required.",
+          "All other courts: concise case statement, points for determination, decision, and reasons."
+        ],
+        "exceptions_and_qualifications": [
+          "The lighter Small Cause Court standard reflects the summary, low-value nature of that jurisdiction, where detailed reasoned judgments are not proportionate to the stakes."
+        ],
+        "how_to_read": "A useful contrast when drafting or reviewing a judgment for correctness of form — ordinary civil court judgments must show reasoning, not just a bare conclusion, while Small Cause Court judgments are deliberately streamlined."
+      }
+    },
+    {
+      "number": "O-XX-5",
+      "title": "Order XX Rule 5 — Court to state its decision on each issue",
+      "raw_text": "5. Court to state its decision on each issue.—In suits in which issues have been framed, the Court shall state its finding or decision, with the reasons therefor, upon each separate issue, unless the finding upon any one or more of the issue is sufficient for the decision of the suit.",
+      "key_terms": [
+        "issue-wise findings",
+        "reasoned decision"
+      ],
+      "breakdown": {
+        "plain_summary": "Where issues have been framed in a suit, the judgment must give a finding with reasons on each separate issue — unless the finding on one or more particular issues is by itself sufficient to dispose of the whole suit, in which case the Court need not labour through every remaining issue.",
+        "essential_elements": [
+          "Issues framed in the suit.",
+          "Issue-wise findings with reasons required.",
+          "Exception: a dispositive finding on one or more issues makes further issue-wise findings unnecessary."
+        ],
+        "exceptions_and_qualifications": [
+          "A judgment that fails to address framed issues without falling within the dispositive-finding exception is vulnerable to challenge in appeal as incomplete or non-speaking on material issues."
+        ],
+        "how_to_read": "Read together with Order XIV (framing of issues) — this rule is the payoff requiring the trial court to actually resolve, with reasons, every issue it earlier framed as material to the suit."
+      }
+    },
+    {
+      "number": "O-XX-5A",
+      "title": "Order XX Rule 5A — Court to inform parties as to where an appeal lies in cases where parties are not represented by pleaders",
+      "raw_text": "5A. Court to inform parties as to where an appeal lies in cases where parties are not represented by pleaders.—Except where both the parties are represented by pleaders, the Court shall, when it pronounces its judgment in a case subject to appeal, inform the parties present in Court as to the Court to which an appeal lies and the period of limitation for the filing of such appeal and place on record the information so given to the parties.",
+      "key_terms": [
+        "unrepresented parties",
+        "appeal forum",
+        "limitation period for appeal"
+      ],
+      "breakdown": {
+        "plain_summary": "If one or both parties are not represented by pleaders (i.e., appearing in person), the Court must, when pronouncing an appealable judgment, tell the parties present which court the appeal lies to and what the limitation period for filing it is, and must record on file that this information was given.",
+        "essential_elements": [
+          "At least one party unrepresented by a pleader.",
+          "Judgment is one subject to appeal.",
+          "Mandatory disclosure: appellate forum and limitation period.",
+          "Mandatory record of the disclosure."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a protective provision for unrepresented litigants, who may not otherwise know their appellate rights or the time within which to exercise them.",
+          "No equivalent duty arises where both parties are represented by pleaders, who are presumed to know the appellate forum and limitation period."
+        ],
+        "how_to_read": "A litigant-protection rule worth flagging whenever a party is self-represented — if the Court omits this information, it may be relevant to any later condonation-of-delay application in the appeal."
+      }
+    },
+    {
+      "number": "O-XX-6",
+      "title": "Order XX Rule 6 — Contents of decree",
+      "raw_text": "6. Contents of decree.—(1) The decree shall agree with the judgment it shall contain the number of the suit, the names and descriptions of the parties, their registered addresses, and particulars of the claim, and shall specify clearly the relief granted or other determination of the suit.\n(2) The decree shall also state the amount of costs incurred in the suit, and by whom or out of what property and in what proportions such costs are to be paid.\n(3) The Court may direct that the costs payable to one party by the other shall be set off against any sum which is admitted or found to be due from the former to the latter.",
+      "key_terms": [
+        "decree contents",
+        "costs apportionment",
+        "set-off of costs"
+      ],
+      "breakdown": {
+        "plain_summary": "The decree must agree with the judgment and must include the suit number, the parties' names, descriptions, and registered addresses, the particulars of the claim, and a clear statement of the relief granted or other determination. It must also state the costs incurred, who bears them (and out of what property, in what proportions), and the Court may order that costs owed by one party to the other be set off against any admitted or found-due sum between them.",
+        "essential_elements": [
+          "Agreement between decree and judgment.",
+          "Mandatory particulars: suit number, parties' names/descriptions/registered addresses, claim particulars, relief/determination.",
+          "Mandatory costs statement: amount, payer, source property, proportions.",
+          "Discretionary set-off of cross-owed costs/sums."
+        ],
+        "exceptions_and_qualifications": [
+          "A decree that departs from the judgment on any of these particulars is open to correction (typically under Section 152) or challenge — the 'agree with the judgment' requirement is the anchor for that scrutiny."
+        ],
+        "how_to_read": "Treat this as the master checklist for drafting or scrutinising any decree — every decree should be checked against sub-rules (1)-(3) before it is signed and acted upon."
+      }
+    },
+    {
+      "number": "O-XX-6A",
+      "title": "Order XX Rule 6A — Preparation of decree",
+      "raw_text": "6A. Preparation of decree.—(1) Every endeavour shall be made to ensure that the decree is drawn up as expeditiously as possible and, in any case, within fifteen days from the date on which the judgment is pronounced.\n(2) An appeal may be preferred against the decree without filing a copy of the decree and in such a case the copy made available to the party by the court shall for the purposes of rule 1 of Order XLI be treated as the decree. But as soon as the decree is drawn, the judgment shall cease to have the effect of a decree for the purposes of execution or for any other purpose.",
+      "key_terms": [
+        "fifteen-day decree preparation",
+        "appeal without decree copy",
+        "judgment as interim decree"
+      ],
+      "breakdown": {
+        "plain_summary": "The decree should be drawn up as quickly as possible, and in any case within 15 days of the judgment's pronouncement. Until the formal decree is drawn, a party may still appeal using the judgment copy made available by the Court, which is treated as the decree for the purpose of Order XLI Rule 1 (the appeal-memorandum rule). But once the decree is actually drawn up, the judgment loses its stand-in effect as a decree for execution or any other purpose.",
+        "essential_elements": [
+          "Fifteen-day target for drawing up the decree.",
+          "Interim mechanism: judgment copy treated as the decree for filing an appeal under Order XLI Rule 1, pending the formal decree.",
+          "Judgment's stand-in effect as a decree ceases once the actual decree is drawn."
+        ],
+        "exceptions_and_qualifications": [
+          "This rule balances expeditious finality (letting an appeal proceed without waiting for decree paperwork) against the formal distinction between a judgment and a decree, which matters for execution purposes — execution can only proceed on the actual decree once drawn."
+        ],
+        "how_to_read": "Important for appeal-filing strategy: a party need not wait for the formal decree to file an appeal, but must track when the decree is actually drawn since that is the trigger point after which only the decree (not the judgment) governs execution."
+      }
+    },
+    {
+      "number": "O-XX-6B",
+      "title": "Order XX Rule 6B — Copies of judgments when to be made available",
+      "raw_text": "6B. Copies of judgments when to be made available.—Where the judgment is pronounced, copies of the judgment shall be made available to the parties immediately after the pronouncement of the judgment for preferring an appeal on payment of such charges as may be specified in the rule made by the High Court.",
+      "key_terms": [
+        "immediate availability of judgment copies",
+        "High Court charges"
+      ],
+      "breakdown": {
+        "plain_summary": "As soon as judgment is pronounced, copies must be made available to the parties right away so they can file an appeal, on payment of whatever charges the High Court's rules specify.",
+        "essential_elements": [
+          "Immediate availability of judgment copies post-pronouncement.",
+          "Purpose: enabling appeal.",
+          "Charges as specified by High Court rules."
+        ],
+        "exceptions_and_qualifications": [
+          "This rule works together with Rule 6A(2) — the prompt availability of judgment copies is what makes the 'judgment copy as interim decree' mechanism for filing an appeal practically workable."
+        ],
+        "how_to_read": "Read with Rule 6A — together these rules ensure a party is never stuck unable to appeal merely because the formal decree is still being prepared."
+      }
+    },
+    {
+      "number": "O-XX-7",
+      "title": "Order XX Rule 7 — Date of decree",
+      "raw_text": "7. Date of decree.—The decree shall bear the day on which the judgment was pronounced, and, when the judge has satisfied himself that the decree has been drawn up in accordance with the judgment, he shall sign the decree.",
+      "key_terms": [
+        "date of decree",
+        "signing after verification"
+      ],
+      "breakdown": {
+        "plain_summary": "A decree is dated to the day the judgment was pronounced, not the (often later) day it is actually drawn up. The Judge signs it only after satisfying himself that the decree correctly reflects the judgment.",
+        "essential_elements": [
+          "Decree dated to the judgment-pronouncement date.",
+          "Judge's verification that the decree matches the judgment, as a precondition to signing."
+        ],
+        "exceptions_and_qualifications": [
+          "This date rule matters for computing limitation periods and other time-bound rights tied to 'the date of the decree' — it is always the judgment date, regardless of drafting delay."
+        ],
+        "how_to_read": "A small but consequential rule for limitation computation — always check the judgment pronouncement date, not the decree's drawing-up date, when calculating time limits that run from 'the date of the decree'."
+      }
+    },
+    {
+      "number": "O-XX-8",
+      "title": "Order XX Rule 8 — Procedure where Judge has vacated office before signing decree",
+      "raw_text": "8. Procedure where Judge has vacated office before signing decree.—Where a Judge has vacated office after pronouncing judgment but without signing the decree, a decree drawn up in accordance with such judgment may be signed by his successor or, if the Court has ceased to exist, by the Judge of any Court to which such Court was subordinate.",
+      "key_terms": [
+        "vacated office",
+        "successor's signature",
+        "court ceasing to exist"
+      ],
+      "breakdown": {
+        "plain_summary": "If a Judge pronounces judgment but leaves office before signing the decree, his successor may sign the decree once it is drawn up in accordance with that judgment. If the very Court has ceased to exist, a Judge of any court to which it was subordinate may sign it instead.",
+        "essential_elements": [
+          "Judge vacated office after pronouncing judgment but before signing the decree.",
+          "Successor Judge's power to sign.",
+          "Fallback: Judge of a superior court if the original Court itself has ceased to exist."
+        ],
+        "exceptions_and_qualifications": [
+          "This rule, together with Rule 2 (pronouncing a predecessor's written judgment) and Order XVIII Rule 15 (dealing with predecessor's evidence), forms a complete continuity scheme ensuring no civil proceeding is derailed merely by a change or disappearance of the presiding Judge or Court."
+        ],
+        "how_to_read": "A practical continuity rule relevant whenever there has been a transfer, retirement, or death of the Judge, or reorganisation of courts, between pronouncement of judgment and signing of the decree."
+      }
+    },
+    {
+      "number": "O-XX-9",
+      "title": "Order XX Rule 9 — Decree for recovery of immovable property",
+      "raw_text": "9. Decree for recovery of immovable property.—Where the subject-matter of the suit is immovable property, the decree shall contain a description of such property sufficient to identify the same, and where such property can be identified by boundaries or by numbers in a record of settlement or survey, the decree shall specify such boundaries or numbers.",
+      "key_terms": [
+        "immovable property decree",
+        "identification of property",
+        "boundaries and survey numbers"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the suit concerns immovable property, the decree must describe the property precisely enough to identify it, and where the property can be identified by boundaries or by settlement/survey record numbers, the decree must specify those boundaries or numbers.",
+        "essential_elements": [
+          "Subject-matter is immovable property.",
+          "Sufficiently identifying description required.",
+          "Boundaries or survey/settlement numbers specified where available."
+        ],
+        "exceptions_and_qualifications": [
+          "Imprecise property description is a classic ground for execution difficulties in suits for possession — an executing court cannot deliver possession of property it cannot identify from the decree."
+        ],
+        "how_to_read": "Critical in property-recovery suits — ensure the decree's property description (boundaries, survey numbers) is precise enough to allow trouble-free execution, since vague descriptions routinely generate execution-stage litigation."
+      }
+    },
+    {
+      "number": "O-XX-10",
+      "title": "Order XX Rule 10 — Decree for delivery of movable property",
+      "raw_text": "10. Decree for delivery of movable property.—Where the suit is for movable property, and the decree is for the delivery of such property, the decree shall also state the amount of money to be paid as an alternative if delivery cannot be had.",
+      "key_terms": [
+        "movable property decree",
+        "alternative money decree"
+      ],
+      "breakdown": {
+        "plain_summary": "In a suit for movable property where the decree orders delivery of that property, the decree must also fix an alternative sum of money payable if actual delivery turns out not to be possible.",
+        "essential_elements": [
+          "Suit for movable property.",
+          "Decree for delivery of the property.",
+          "Mandatory alternative money sum if delivery cannot be had."
+        ],
+        "exceptions_and_qualifications": [
+          "This alternative-money mechanism prevents a decree from becoming unenforceable merely because the specific movable property can no longer be delivered (destroyed, lost, disposed of) by the time of execution."
+        ],
+        "how_to_read": "Always ensure a decree for delivery of movable property includes the alternative money figure — its absence can stall execution entirely if the property is unavailable."
+      }
+    },
+    {
+      "number": "O-XX-11",
+      "title": "Order XX Rule 11 — Decree may direct payment by instalments",
+      "raw_text": "11. Decree may direct payment by instalments.—(1) Where and in so far as a decree is for the payment of money, the Court may for any sufficient reason incorporate in the decree, after hearing such of the parties who had appeared personally or by pleader at the last hearing, before judgment, an order that payment of the amount decreed shall be postponed or shall be made by instalments, with or without interest, notwithstanding anything contained in the contract under which the money is payable.\n(2) Order, after decree, for payment by instalments.—After the passing of any such decree the Court may, on the application of the judgment-debtor and with the consent of the decree-holder, order that payment of the amount decreed shall be postponed or shall be made by instalments on such terms as to the payment of interest, the attachment of the property of the judgment-debtor, or the taking of security from him, or otherwise, as it thinks fit.",
+      "key_terms": [
+        "instalment payment",
+        "postponement of payment",
+        "consent of decree-holder"
+      ],
+      "breakdown": {
+        "plain_summary": "For money decrees, the Court can — for sufficient reason, and after hearing the parties who appeared at the last hearing before judgment — build an instalment or postponed-payment schedule directly into the decree, overriding any contrary contractual term, with or without interest. Separately, even after the decree is passed, the Court can order postponement or instalments on the judgment-debtor's application, but only with the decree-holder's consent, on whatever terms (interest, attachment, security) it thinks fit.",
+        "essential_elements": [
+          "Sub-rule (1): instalment/postponement built into the decree itself, for sufficient reason, after hearing the parties who appeared at the last pre-judgment hearing, overriding contrary contract terms.",
+          "Sub-rule (2): post-decree instalment order, on judgment-debtor's application AND decree-holder's consent, on Court-determined terms."
+        ],
+        "exceptions_and_qualifications": [
+          "The two mechanisms differ sharply on consent: sub-rule (1) is the Court's own power exercised at the judgment stage without needing the decree-holder's consent, while sub-rule (2) post-decree relief absolutely requires the decree-holder's consent."
+        ],
+        "how_to_read": "Distinguish the two sub-rules carefully — relief under sub-rule (1) must be sought before or at judgment, while post-decree relief under sub-rule (2) is consent-gated and unavailable if the decree-holder refuses."
+      }
+    },
+    {
+      "number": "O-XX-12",
+      "title": "Order XX Rule 12 — Decree for possession and mesne profits",
+      "raw_text": "12. Decree for possession and mesne profits.—(1) Where a suit is for the recovery of possession of immovable property and for rent or mesne profits, the Court may pass a decree—\n(a) for the possession of the property;\n(b) for the rents which have accrued on the property during the period prior to the institution of the suit or directing an inquiry as to such rent;\n(ba) for the mesne profits or directing an inquiry as to such mesne profits;\n(c) directing an inquiry as to rent or mesne profits from the institution of the suit until—\n(i) the delivery of possession to the decree-holder,\n(ii) the relinquishment of possession by the judgment-debtor with notice to the decree-holder through the Court, or\n(iii) the expiration of three years from the date of the decree,\nwhichever event first occurs.\n(2) Where an inquiry is directed under clause (b) or clause (c), a final decree in respect of the rent or mesne profits shall be passed in accordance with the result of such inquiry.",
+      "key_terms": [
+        "possession decree",
+        "mesne profits",
+        "pre-suit rent",
+        "three-year inquiry cap"
+      ],
+      "breakdown": {
+        "plain_summary": "In a suit for possession of immovable property plus rent or mesne profits, the decree can cover possession itself, pre-suit accrued rent (either fixed or sent for inquiry), mesne profits (fixed or sent for inquiry), and — crucially — a running inquiry into rent or mesne profits from the date the suit was filed until whichever happens first: possession is delivered, the judgment-debtor relinquishes possession with notice, or three years pass from the decree's date. Wherever an inquiry is ordered, a separate final decree on rent/mesne profits follows once that inquiry concludes.",
+        "essential_elements": [
+          "Suit for possession plus rent/mesne profits.",
+          "Decree components: possession; pre-suit rent (fixed or inquiry-directed); mesne profits (fixed or inquiry-directed); post-suit running inquiry capped at delivery, relinquishment-with-notice, or three years from decree, whichever first.",
+          "Final decree on rent/mesne profits follows the inquiry's result."
+        ],
+        "exceptions_and_qualifications": [
+          "The three-year cap on the running mesne-profits inquiry is a deliberate limitation preventing open-ended post-decree accounting disputes from dragging on indefinitely.",
+          "This rule creates a preliminary/final decree structure for the rent/mesne-profits component even while the possession component is finally decided upfront."
+        ],
+        "how_to_read": "A heavily litigated rule in property-recovery suits — track the distinction between the possession decree (final and immediate) and the rent/mesne-profits component (often preliminary, pending inquiry, and time-capped at three years)."
+      }
+    },
+    {
+      "number": "O-XX-12A",
+      "title": "Order XX Rule 12A — Decree for specific performance of contract for the sale or lease of immovable property",
+      "raw_text": "12A. Decree for specific performance of contract for the sale or lease of immovable property.—Where a decree for the specific performance of a contract for the sale or lease of immovable property orders that the purchase-money or other sum be paid by the purchaser or lessee, it shall specify the period within which the payment shall be made.",
+      "key_terms": [
+        "specific performance decree",
+        "payment period"
+      ],
+      "breakdown": {
+        "plain_summary": "When a decree for specific performance of a contract to sell or lease immovable property requires the purchaser or lessee to pay the purchase-money or other sum, the decree must specify the time period within which that payment must be made.",
+        "essential_elements": [
+          "Decree for specific performance of a sale or lease contract concerning immovable property.",
+          "Order to pay purchase-money or other sum.",
+          "Mandatory specification of the payment period."
+        ],
+        "exceptions_and_qualifications": [
+          "A clear payment-period specification prevents disputes at the execution stage over whether the purchaser/lessee has defaulted and avoids open-ended obligations."
+        ],
+        "how_to_read": "Essential drafting checklist item in every specific-performance decree involving immovable property — the absence of a specified payment period invites later disputes over compliance and default."
+      }
+    },
+    {
+      "number": "O-XX-13",
+      "title": "Order XX Rule 13 — Decree in administration suit",
+      "raw_text": "13. Decree in administration suit.—(1) Where a suit is for an account of any property and for its due administration under the decree of the Court, the Court shall, before passing the final decree, pass a preliminary decree ordering such accounts and inquiries to be taken and made, and giving such other directions as it thinks fit.\n(2) In the administration by the Court of the property of any deceased person, if such property proves to be insufficient for the payment in full of his debts and liabilities, the same rules shall be observed as to the respective rights of secured and unsecured creditors and as to debts and liabilities provable, and as to the valuation of annuities and future and contingent liabilities respectively, as may be in force for the time being, within the local limits of the Court in which the administration-suit is pending with respect to the estates of persons adjudged or declared insolvent; and all persons who in any such case would be entitled to be paid out of such property, may come in under the preliminary decree, and make such claims against the same as they may respectively be entitled to by virtue of this Code.",
+      "key_terms": [
+        "administration suit",
+        "preliminary decree",
+        "insolvency rules analogy",
+        "secured and unsecured creditors"
+      ],
+      "breakdown": {
+        "plain_summary": "In an administration suit (seeking an account of property and its due administration under the Court's decree), the Court must first pass a preliminary decree ordering the necessary accounts and inquiries and giving other directions it thinks fit, before any final decree. If the deceased's property is insufficient to pay all debts in full, the same rules that apply to insolvent estates in that Court's jurisdiction govern the respective rights of secured and unsecured creditors, provable debts/liabilities, and valuation of annuities and contingent liabilities — and anyone entitled to be paid from the property may come in under the preliminary decree to stake their claim.",
+        "essential_elements": [
+          "Preliminary decree mandatory before final decree in administration suits, ordering accounts/inquiries.",
+          "Insufficiency of estate triggers application of local insolvency-estate rules for creditor priority and claims valuation.",
+          "All entitled claimants may come in under the preliminary decree."
+        ],
+        "exceptions_and_qualifications": [
+          "This rule effectively imports insolvency-law creditor-priority principles into administration suits whenever the estate cannot satisfy all claims — a significant cross-reference practitioners handling administration suits must be alert to."
+        ],
+        "how_to_read": "A structurally important rule for administration suits — always check whether the estate is sufficient; insufficiency triggers a whole separate body of insolvency-style creditor-priority rules via this provision."
+      }
+    },
+    {
+      "number": "O-XX-14",
+      "title": "Order XX Rule 14 — Decree in pre-emption suit",
+      "raw_text": "14. Decree in pre-emption suit.—(1) Where the Court decrees a claim to pre-emption in respect of a particular sale of property and the purchase-money has not been paid into Court, the decree shall—\n(a) specify a day on or before which the purchase-money shall be so paid, and\n(b) direct that on payment into Court of such purchase-money, together with the costs (if any) decreed against the plaintiff, on or before the day referred to in clause (a), the defendant shall deliver possession of the property to the plaintiff, whose title thereto shall be deemed to have accrued from the date of such payment, but that, if the purchase-money and the costs (if any) are not so paid, the suit shall be dismissed with costs.\n(2) Where the Court has adjudicated upon rival claims to pre-emption, the decree shall direct,—\n(a) if and in so far as the claims decreed are equal in degree, that the claim of each pre-emptor complying with the provisions of sub-rule (1) shall take effect in respect of a proportionate share of the property including any proportionate share in respect of which the claim of any pre-emptor failing to comply with the said provisions would, but for such default, have taken effect; and\n(b) if and in so far as the claims decreed are different in degree, that the claim of the inferior pre-emptor shall not take effect unless and until the superior pre-emptor has failed to comply with the said provisions.",
+      "key_terms": [
+        "pre-emption decree",
+        "purchase-money deposit deadline",
+        "rival pre-emptors",
+        "equal and unequal degree claims"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a pre-emption claim is decreed and the purchase-money has not yet been paid into Court, the decree must fix a deadline for payment and direct that, if paid (with any decreed costs) by that date, the defendant must deliver possession to the plaintiff with title deemed to accrue from the payment date — but if not paid by the deadline, the suit itself is dismissed with costs. Where multiple rival pre-emptors have been adjudicated, claims of equal degree share proportionately (including absorbing the share of any defaulting pre-emptor), while claims of unequal degree give the superior pre-emptor first right, with the inferior pre-emptor's claim taking effect only if the superior one defaults.",
+        "essential_elements": [
+          "Fixed deadline for depositing purchase-money (plus costs) into Court.",
+          "Consequence of timely payment: possession delivered, title accruing from payment date.",
+          "Consequence of default: suit dismissed with costs.",
+          "Equal-degree rival pre-emptors: proportionate sharing, absorbing defaulters' shares.",
+          "Unequal-degree rival pre-emptors: superior pre-emptor's claim prevails unless/until that pre-emptor defaults."
+        ],
+        "exceptions_and_qualifications": [
+          "The hard payment deadline with automatic dismissal on default makes pre-emption decrees unusually self-executing compared to most other decree types — there is no need for a separate application to dismiss on default."
+        ],
+        "how_to_read": "A specialised rule for the increasingly rare but still litigated pre-emption suits — the self-executing deadline-and-dismissal mechanism and the rival-pre-emptor priority scheme are both distinctive features worth flagging to clients in such suits."
+      }
+    },
+    {
+      "number": "O-XX-15",
+      "title": "Order XX Rule 15 — Decree in suit for dissolution of partnership",
+      "raw_text": "15. Decree in suit for dissolution of partnership.—Where a suit is for the dissolution of a partnership, or the taking of partnership accounts, the Court, before passing a final decree, may pass a preliminary decree declaring the proportionate shares of the parties, fixing the day on which the partnership shall stand dissolved or be deemed to have been dissolved, and directing such accounts to be taken, and other acts to be done, as it thinks fit.",
+      "key_terms": [
+        "partnership dissolution decree",
+        "preliminary decree",
+        "proportionate shares"
+      ],
+      "breakdown": {
+        "plain_summary": "In a suit for dissolving a partnership or taking partnership accounts, the Court may, before the final decree, pass a preliminary decree that declares each partner's proportionate share, fixes the dissolution date (actual or deemed), and directs whatever accounts and other acts it considers appropriate.",
+        "essential_elements": [
+          "Suit for partnership dissolution or partnership accounts.",
+          "Preliminary decree: proportionate shares declared, dissolution date fixed, accounts/acts directed."
+        ],
+        "exceptions_and_qualifications": [
+          "Like administration and accounting suits, partnership-dissolution suits typically proceed in two decree stages — a declaratory/directional preliminary decree followed by a final decree once the directed accounts are actually taken."
+        ],
+        "how_to_read": "Expect a two-stage decree process in partnership dissolution litigation — the preliminary decree sets shares and the dissolution date, and the final decree follows only once the ordered accounting is complete."
+      }
+    },
+    {
+      "number": "O-XX-16",
+      "title": "Order XX Rule 16 — Decree in suit for account between principal and agent",
+      "raw_text": "16. Decree in suit for account between principal and agent.—In a suit for an account of pecuniary transactions between a principal and an agent, and in any other suit not hereinbefore provided for, where it is necessary, in order to ascertain the amount of money due to or from any party, that an account should be taken, the Court shall, before passing its final decree, pass a preliminary decree directing such accounts to be taken as it thinks fit.",
+      "key_terms": [
+        "principal-agent account decree",
+        "preliminary decree",
+        "residual accounting suits"
+      ],
+      "breakdown": {
+        "plain_summary": "In a suit for an account of money dealings between a principal and an agent — and, more generally, in any suit not otherwise specifically covered that requires an account to determine what is owed to or by a party — the Court must pass a preliminary decree directing the accounts to be taken before it can pass the final decree.",
+        "essential_elements": [
+          "Suit for principal-agent pecuniary accounting, or any other suit requiring an account to ascertain sums due.",
+          "Mandatory preliminary decree directing the accounts to be taken."
+        ],
+        "exceptions_and_qualifications": [
+          "This is a residual catch-all accounting rule, picking up any accounting-dependent suit not specifically addressed by Rules 13-15's administration, dissolution, or other named categories."
+        ],
+        "how_to_read": "The general safety-net accounting provision — whenever a suit's final relief genuinely depends on taking an account and no more specific rule covers it, this is the applicable decree-structuring provision."
+      }
+    },
+    {
+      "number": "O-XX-17",
+      "title": "Order XX Rule 17 — Special directions as to accounts",
+      "raw_text": "17. Special directions as to accounts.—The Court may either by the decree directing an account to be taken or by any subsequent order give special direction with regard to the mode in which the account is to be taken or vouched and in particular may direct that in taking the account the books of account in which the accounts in question have been kept shall be taken as prima facie evidence of the truth of the matters therein contained with liberty to the parties interested to take such objection thereto as they may be advised.",
+      "key_terms": [
+        "special directions",
+        "books of account as prima facie evidence",
+        "vouching accounts"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court can give specific directions — either in the decree ordering accounts to be taken or in a later order — about how the accounting process itself should work and be verified. In particular, it can direct that the existing books of account be treated as prima facie proof of their contents, while still letting any interested party raise objections to specific entries.",
+        "essential_elements": [
+          "Directions may be given in the accounting decree itself or by subsequent order.",
+          "Scope: mode of taking/vouching the account.",
+          "Specific tool: books of account as prima facie evidence, subject to parties' liberty to object."
+        ],
+        "exceptions_and_qualifications": [
+          "Treating existing books of account as prima facie evidence significantly streamlines accounting proceedings by shifting the practical burden onto the objecting party to disprove specific entries, rather than requiring the account-taker to prove every entry from scratch."
+        ],
+        "how_to_read": "A practically important efficiency tool in any accounting-heavy suit (partnership, administration, principal-agent) — request this direction early to avoid re-proving uncontested book entries from first principles."
+      }
+    },
+    {
+      "number": "O-XX-18",
+      "title": "Order XX Rule 18 — Decree in suit for partition of property or separate possession of a share therein",
+      "raw_text": "18. Decree in suit for partition of property or separate possession of a share therein.—Where the Court passes a decree for the partition of property or for the separate possession of a share therein, then,—\n(1) if and in so far as the decree relates to an estate assessed to the payment of revenue to the Government, the decree shall declare the rights of the several parties interested in the property, but shall direct such partition or separation to be made by the Collector, or any gazetted subordinate of the Collector deputed by him in this behalf, in accordance with such declaration and with the provisions of section 54;\n(2) if and in so far as such decree relates to any other immovable property or to movable property, the Court may, if the partition or separation cannot be conveniently made without further inquiry, pass a preliminary decree declaring the rights of the several parties interested in the property and giving such further directions as may be required.",
+      "key_terms": [
+        "partition decree",
+        "revenue-assessed estate",
+        "Collector's role",
+        "preliminary partition decree"
+      ],
+      "breakdown": {
+        "plain_summary": "For a partition or separate-possession decree: if the property is a revenue-assessed estate, the Court's decree declares the parties' rights but the actual physical partition is carried out by the Collector (or his deputed gazetted subordinate) per Section 54. For any other immovable or movable property, if the partition cannot be conveniently done without further inquiry, the Court passes a preliminary decree declaring rights and giving further directions, with the actual division to follow later.",
+        "essential_elements": [
+          "Revenue-assessed estates: declaratory decree, actual partition executed by the Collector under Section 54.",
+          "Other property: preliminary decree with rights declaration and further directions where partition cannot be conveniently made without further inquiry."
+        ],
+        "exceptions_and_qualifications": [
+          "This rule must be read with Section 54 for the Collector-executed revenue-estate partition mechanism, which is distinct from the ordinary court-executed partition of other property."
+        ],
+        "how_to_read": "A central provision in every partition suit — first classify the property (revenue-assessed estate vs. other immovable/movable property) to determine whether the Collector's machinery under Section 54 or the Court's own preliminary-decree-then-inquiry process governs the actual division."
+      }
+    },
+    {
+      "number": "O-XX-19",
+      "title": "Order XX Rule 19 — Decree when set-off or counter-claim is allowed",
+      "raw_text": "19. Decree when set-off or counter-claim is allowed.—(1) Where the defendant has been allowed a set-off or counter-claim against the claim of the plaintiff, the decree shall state what amount is due to the plaintiff and what amount is due to the defendant, and shall be for the recovery of any sum which appears to be due to either party.\n(2) Appeal from decree relating to set-off or counter-claim.—Any decree passed in a suit in which a set-off or counter-claim is claimed shall be subject to the same provisions in respect of appeal to which it would have been subject if no set-off or counter-claim had been claimed.\n(3) The provisions of this rule shall apply whether the set-off is admissible under rule 6 of Order VIII or otherwise.",
+      "key_terms": [
+        "set-off decree",
+        "counter-claim decree",
+        "net sum recovery",
+        "appeal from set-off/counter-claim decree"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a defendant's set-off or counter-claim has been allowed, the decree must separately state the amount due to the plaintiff and the amount due to the defendant, and the actual decree is for whatever net sum appears due to either side. Such a decree is appealable on exactly the same basis as if no set-off or counter-claim had been involved at all, and this rule applies regardless of whether the set-off is the Order VIII Rule 6 kind or some other kind.",
+        "essential_elements": [
+          "Decree must state both the amount due to plaintiff and the amount due to defendant.",
+          "Decree directs recovery of the net sum due to whichever party.",
+          "Ordinary appeal provisions apply unaffected by the presence of a set-off/counter-claim.",
+          "Applies to both Order VIII Rule 6 set-offs and other forms of set-off."
+        ],
+        "exceptions_and_qualifications": [
+          "Transparency in stating both amounts (rather than just the net figure) matters for execution and for any future plea of res judicata or double recovery."
+        ],
+        "how_to_read": "Read with Order VIII Rule 6 (legal set-off) and the general law on equitable set-off/counter-claims — this rule governs how the final decree is framed once a set-off or counter-claim has succeeded, not whether it was permissible in the first place."
+      }
+    },
+    {
+      "number": "O-XX-20",
+      "title": "Order XX Rule 20 — Certified copies of judgment and decree to be furnished",
+      "raw_text": "20. Certified copies of judgment and decree to be furnished.—Certified copies of the judgment and decree shall be furnished to the parties on application to the Court, and at their expense.",
+      "key_terms": [
+        "certified copies",
+        "application to Court",
+        "expense of copies"
+      ],
+      "breakdown": {
+        "plain_summary": "Any party can apply to the Court for certified copies of the judgment and decree, and will be furnished with them at the party's own expense.",
+        "essential_elements": [
+          "Application to the Court.",
+          "Certified copies of both judgment and decree.",
+          "Expense borne by the applying party."
+        ],
+        "exceptions_and_qualifications": [
+          "Certified copies are typically required for execution, appeal, and other subsequent proceedings — this rule is the procedural gateway for obtaining them."
+        ],
+        "how_to_read": "A routine but essential provision — certified copies obtained under this rule are what parties actually file in execution petitions, appeals, and other follow-on proceedings."
+      }
+    },
+    {
+      "number": "O-XX-A",
+      "title": "Order XX-A — Costs",
+      "raw_text": "Order XX-A of the First Schedule to the Code of Civil Procedure, 1908 — inserted by the Code of Civil Procedure (Amendment) Act, 1976 — lists specific categories of pre-institution and litigation-related expenditure the Court may award as costs, and provides that the actual award of costs follows rules made by the High Court.",
+      "key_terms": [
+        "costs categories",
+        "pre-institution notice expenditure",
+        "High Court costs rules"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XX-A supplements the Code's general costs provisions (Section 35 and related provisions) with a non-exhaustive list of specific cost items a Court may award — expenses for legally required pre-suit notices, voluntarily given pre-suit notices, typing/printing of pleadings, record-inspection charges, witness-production expenses even without formal summons, and (for appeals) the cost of obtaining judgment/decree copies required with the memorandum of appeal. Rule 2 then defers the actual quantum and award mechanics to rules made by the High Court.",
+        "essential_elements": [
+          "Rule 1 is expressly 'without prejudice to the generality of the provisions of this Code relating to costs' — it supplements, rather than limits, the Court's general costs powers.",
+          "Rule 2's deference to High-Court-made rules means the practical quantum of costs for these specific items varies by jurisdiction."
+        ],
+        "exceptions_and_qualifications": [
+          "Litigation costs in India have historically been nominal; Order XX-A's itemised list (notices, pleadings preparation, inspection charges, witness-production expenses, appeal copy charges) gives practitioners a concrete basis to claim specific out-of-pocket litigation expenses rather than relying solely on generalised costs orders."
+        ],
+        "how_to_read": "Read Rule 1's itemised list as a menu of specific cost heads to plead and prove, and check the relevant High Court's costs rules under Rule 2 for the actual rates/quantum applicable."
+      }
+    },
+    {
+      "number": "O-XX-A-1",
+      "title": "Order XX-A Rule 1 — Provisions relating to certain items",
+      "raw_text": "1. Provisions relating to certain items.—Without prejudice to the generality of the provisions of this Code relating to costs, the Court may award costs in respect of,—\n(a) expenditure incurred for the giving of any notice required to be given by law before the institution of the suit;\n(b) expenditure incurred on any notice which, though not required to be given by law, has been given by any party to the suit to any other party before the institution of the suit;\n(c) expenditure incurred on the typing, writing or printing of pleadings filed by any party;\n(d) charges paid by a party for inspection of the records of the Court for the purposes of the suit;\n(e) expenditure incurred by a party for producing witnesses, even though not summoned through Court; and\n(f) in the case of appeals, charges incurred by a party for obtaining any copies of judgments and decrees which are required to be filed along with the memorandum of appeal.",
+      "key_terms": [
+        "legally required pre-suit notice",
+        "voluntary pre-suit notice",
+        "pleadings typing/printing costs",
+        "record inspection charges",
+        "witness-production expenses",
+        "appeal copy charges"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court may award costs for six specific categories of expenditure: (a) notices legally required before filing suit (e.g., Section 80 notice); (b) notices given voluntarily though not legally required; (c) typing, writing, or printing of pleadings; (d) charges for inspecting Court records relevant to the suit; (e) expenses of producing witnesses even if they were not formally summoned through Court; and (f) in appeals, the cost of obtaining judgment/decree copies required to be filed with the memorandum of appeal.",
+        "essential_elements": [
+          "Non-exhaustive list ('without prejudice to the generality' of the Code's general costs provisions).",
+          "Six specific categories: legally required notice, voluntary notice, pleadings typing/printing, record inspection, witness-production expenses, appeal copy charges."
+        ],
+        "exceptions_and_qualifications": [
+          "These items are commonly overlooked in costs claims; practitioners should affirmatively plead and prove them (with receipts/vouchers) rather than assume a generic costs order covers them automatically."
+        ],
+        "how_to_read": "Use this as a pleading checklist when claiming costs — each item (a) through (f) should be separately itemised and evidenced (receipts, vouchers) in a costs claim or bill of costs."
+      }
+    },
+    {
+      "number": "O-XX-A-2",
+      "title": "Order XX-A Rule 2 — Costs to be awarded in accordance with the rules made by High Court",
+      "raw_text": "2. Costs to be awarded in accordance with the rules made by High Court.—The award of Costs under this rule shall be in accordance with such rules as the High Court may make in that behalf.",
+      "key_terms": [
+        "High Court costs rules",
+        "quantum of costs"
+      ],
+      "breakdown": {
+        "plain_summary": "The actual award of costs under Order XX-A is governed by whatever rules the relevant High Court has made on the subject — the quantum and mechanics are left to High Court rule-making, not fixed uniformly by the Code itself.",
+        "essential_elements": [
+          "Delegation of quantum/mechanics to High Court rules."
+        ],
+        "exceptions_and_qualifications": [
+          "Because this is delegated to each High Court, the specific scales and rates for Order XX-A costs items vary across jurisdictions — always check the applicable High Court's rules (often found in its Civil Rules of Practice or Costs Rules) rather than assuming a pan-India standard."
+        ],
+        "how_to_read": "Before filing a detailed bill of costs under Order XX-A, consult the applicable High Court's own costs rules, since the Code itself sets only the categories (Rule 1), not the rates."
+      }
     }
   ]
 }
