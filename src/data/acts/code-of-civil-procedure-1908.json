@@ -13825,6 +13825,589 @@
         ],
         "how_to_read": "Treat this rule's inquiry as a genuine contested hearing, not a formality — press for an order under sub-rule (5) disallowing detention wherever the Section 51 preconditions or the 'wilful default' standard are not clearly made out on the evidence."
       }
+    },
+    {
+      "number": "O-XXI-41",
+      "title": "Order XXI Rule 41 — Examination of judgment-debtor as to his property",
+      "raw_text": "41. Examination of judgment-debtor as to his property.—(1) Where a decree is for the payment of money the decree-holder may apply to the Court for an order that—\n(a) the judgment-debtor, or\n(b) where the judgment-debtor is a corporation, any officer thereof, or\n(c) any other person,\nbe orally examined as to whether any or what debts are owing to the judgment-debtor and whether the judgment-debtor has any and what other property or means of satisfying the decree; and the Court may make an order for the attendance and examination of such judgment-debtor, or officer or other person, and for the production of any books or documents.\n(2) Where a decree for the payment of money has remained unsatisfied for a period of thirty days, the Court may, on the application of the decree-holder and without prejudice to its power under sub-rule (1), by order require the judgment-debtor or where the judgment-debtor is a corporation, any officer thereof, to make an affidavit stating the particulars of the assets of the judgment-debtor.\n(3) In case of disobedience of any order made under sub-rule (2), the Court making the order, or any Court to which the proceeding is transferred, may direct that the person disobeying the order be detained in the civil prison for a term not exceeding three months unless before the expiry of such term the Court directs his release.",
+      "key_terms": [
+        "oral examination as to property",
+        "affidavit of assets",
+        "thirty-day default",
+        "detention for disobedience"
+      ],
+      "breakdown": {
+        "plain_summary": "A decree-holder on a money decree can get the judgment-debtor (or, for a corporate debtor, its officer, or indeed any other relevant person) orally examined in Court about debts owed to him and other means of satisfying the decree, with power to compel production of books/documents. If the decree stays unsatisfied for thirty days, the decree-holder can additionally force a sworn affidavit of assets — and disobeying that affidavit order can land the disobedient person in civil prison for up to three months.",
+        "essential_elements": [
+          "Sub-rule (1)'s oral-examination power extends beyond just the judgment-debtor, to corporate officers and even unrelated third persons who may have relevant knowledge.",
+          "The thirty-day threshold in sub-rule (2) is a straightforward trigger — no separate showing of evasion or bad faith is required to demand an affidavit of assets.",
+          "Sub-rule (3)'s detention is for contempt of the affidavit order itself, not for the underlying decretal debt — a conceptually distinct ground of civil imprisonment from arrest under Rules 37-40."
+        ],
+        "exceptions_and_qualifications": [
+          "The three-month detention cap under sub-rule (3) is a ceiling, not a mandatory term — the Court may direct earlier release at any point before expiry."
+        ],
+        "how_to_read": "This rule is the decree-holder's primary asset-discovery tool before deciding which specific attachment mode (Rules 43-56) to pursue — use it early in execution rather than guessing at what property the judgment-debtor holds."
+      }
+    },
+    {
+      "number": "O-XXI-42",
+      "title": "Order XXI Rule 42 — Attachment in case of decree for rent or mesne profits or other matter, amount of which to be subsequently determined",
+      "raw_text": "42. Attachment in case of decree for rent or mesne profits or other matter, amount of which to be subsequently determined.—Where a decree directs an inquiry as to rent or mesne profits or any other matter, the property of the judgment-debtor may, before the amount due from him has been ascertained, be attached, as in the case of an ordinary decree for the payment of money.",
+      "key_terms": [
+        "pre-ascertainment attachment",
+        "mesne profits inquiry",
+        "rent inquiry"
+      ],
+      "breakdown": {
+        "plain_summary": "Even before the exact amount due under a decree directing a rent/mesne-profits/other-matter inquiry has actually been worked out, the judgment-debtor's property can already be attached, exactly as if it were an ordinary ascertained money decree.",
+        "essential_elements": [
+          "Allows the decree-holder to secure property early, preventing the judgment-debtor from dissipating assets during the (often lengthy) inquiry-and-ascertainment process."
+        ],
+        "exceptions_and_qualifications": [
+          "The attachment here is provisional in substance — it anticipates an amount not yet fixed, so its ultimate scope is necessarily tied to whatever figure the inquiry eventually produces."
+        ],
+        "how_to_read": "In a mesne-profits or rent-inquiry decree (commonly arising after a possession suit), move to attach promptly under this rule rather than waiting for the inquiry's outcome — delay gives the judgment-debtor a window to alienate assets."
+      }
+    },
+    {
+      "number": "O-XXI-43",
+      "title": "Order XXI Rule 43 — Attachment of movable property, other than agricultural produce, in possession of judgment-debtor",
+      "raw_text": "43. Attachment of movable property, other than agricultural produce, in possession of judgment-debtor.—Where the property to be attached is movable property other than agricultural produce, in the possession of the judgment-debtor, the attachment shall be made by actual seizure, and the attaching officer shall keep the property in his own custody or in the custody of one of his subordinates, and shall be responsible for the due custody thereof:\nProvided that, when the property seized is subject to speedy and natural decay, or when the expense of keeping it in custody is likely to exceed its value, the attaching officer may sell it at once.",
+      "key_terms": [
+        "actual seizure",
+        "officer's custody and responsibility",
+        "speedy-decay sale proviso"
+      ],
+      "breakdown": {
+        "plain_summary": "Ordinary in-possession movable property (other than agricultural produce) is attached by the attaching officer physically seizing and keeping custody of it (himself or through a subordinate), with personal responsibility for its safekeeping — except that perishable goods, or items whose custody costs would exceed their value, may instead be sold immediately.",
+        "essential_elements": [
+          "The default rule is custodial seizure, not an immediate sale — the proviso's immediate-sale power is the narrow exception for genuinely perishable or uneconomical-to-store property."
+        ],
+        "exceptions_and_qualifications": [
+          "Read with Rule 43A where the property instead consists of live-stock, agricultural implements, or other items that cannot conveniently be removed — that inserted rule provides an alternative 'leave with a custodian' mechanism rather than physical removal under this rule's proviso-free default."
+        ],
+        "how_to_read": "A judgment-debtor whose perishable goods were sold immediately under the proviso should check that genuine perishability or disproportionate custody cost actually existed — an unjustified quick sale is challengeable."
+      }
+    },
+    {
+      "number": "O-XXI-43A",
+      "title": "Order XXI Rule 43A — Custody of movable property",
+      "raw_text": "43A. Custody of movable property.—(1) Where the property attached consists of live-stock, agricultural implements or other articles which cannot conveniently be removed and the attaching officer does not act under the proviso to rule 43, he may, at the instance of the judgment-debtor or of the decree holder or of any other person claiming to be interested in such property, leave it in the village or place where it has been attached, in the custody of any respectable person (hereinafter referred to as the \"custodian\").\n(2) If the custodian fails, after due notice, to produce such property at the place named by the Court before the officer deputed for the purpose or to restore it to the person in whose favour restoration is ordered by the Court, or if the property, though so produced or restored, is not in the same condition as it was when it was entrusted to him,—\n(a) the custodian shall be liable to pay compensation to the decree-holder, judgment-debtor or any other person who is found to be entitled to the restoration thereof, for any loss or damage caused by his default; and\n(b) such liability may be enforced—\n(i) at the instance of the decree-holder, as if the custodian were a surety under section 145;\n(ii) at the instance of the judgment-debtor or such other person, on an application in execution; and\n(c) any order determining such liability shall be appealable as a decree.",
+      "key_terms": [
+        "custodian",
+        "live-stock and agricultural implements",
+        "custodian's liability",
+        "surety under Section 145"
+      ],
+      "breakdown": {
+        "plain_summary": "For bulky or hard-to-remove attached property (live-stock, agricultural implements, etc.), the attaching officer can leave it in local custody with a respectable 'custodian' instead of removing it. If that custodian fails to produce or restore the property on order, or returns it damaged, he becomes personally liable for compensation — enforceable either as a surety under Section 145 (at the decree-holder's instance) or via an execution application (at the judgment-debtor's or other claimant's instance), with any liability-determination order itself appealable as a decree.",
+        "essential_elements": [
+          "A genuine alternative to physical removal under Rule 43, triggered only where the attaching officer has not already exercised the immediate-sale proviso there.",
+          "The custodian's liability regime mirrors a surety's obligations, giving the decree-holder a streamlined Section 145 enforcement route in addition to the judgment-debtor's own execution-application route."
+        ],
+        "exceptions_and_qualifications": [
+          "Applies specifically to property that 'cannot conveniently be removed' — ordinary, easily transportable movables remain governed by Rule 43's seizure-and-officer-custody default."
+        ],
+        "how_to_read": "When agreeing to act as a custodian under this rule, understand the personal compensation liability involved — courts enforce it as readily as a surety's obligation under Section 145."
+      }
+    },
+    {
+      "number": "O-XXI-44",
+      "title": "Order XXI Rule 44 — Attachment of agricultural produce",
+      "raw_text": "44. Attachment of agricultural produce.—Where the property to be attached is agricultural produce, the attachment shall be made by affixing a copy of the warrant of attachment,—\n(a) where such produce is a growing crop, on the land on which such crop has grown, or\n(b) where such produce has been cut or gathered, on the threshing floor or place for treading out grain or the like or fodder-stack on or in which it is deposited,\nand another copy on the outer door or on some other conspicuous part of the house in which the judgment-debtor ordinarily resides or, with the leave of the Court, on the outer door or on some other conspicuous part of the house in which he carries on business or personally works for gain or in which he is known to have last resided or carried on business or personally worked for gain; and the produce shall thereupon be deemed to have passed into the possession of the Court.",
+      "key_terms": [
+        "growing crop",
+        "threshing floor",
+        "warrant affixed at residence",
+        "deemed possession of Court"
+      ],
+      "breakdown": {
+        "plain_summary": "Agricultural produce is attached not by seizure but by affixing the warrant at the produce's own location (the field for a growing crop, or the threshing floor/storage spot once harvested) plus at the judgment-debtor's residence or place of business — after which the law simply deems the produce to have passed into the Court's possession.",
+        "essential_elements": [
+          "A purely symbolic/constructive mode of attachment — no actual seizure or removal occurs, yet legal possession is deemed to shift to the Court."
+        ],
+        "exceptions_and_qualifications": [
+          "Where the produce has not yet been cut or gathered, Rule 45's special custody-and-maturation provisions (allowing the judgment-debtor to continue tending it) operate alongside this rule's attachment mechanics."
+        ],
+        "how_to_read": "Because attachment here is purely by affixation rather than seizure, verify both required affixations (produce-location and residence/business-location) actually occurred — a defective affixation undermines the attachment's validity."
+      }
+    },
+    {
+      "number": "O-XXI-45",
+      "title": "Order XXI Rule 45 — Provisions as to agricultural produce under attachment",
+      "raw_text": "45. Provisions as to agricultural produce under attachment.—(1) Where agricultural produce is attached, the Court shall make such arrangements for the custody thereof as it may deem sufficient and, for the purpose of enabling the Court to make such arrangements, every application for the attachment of a growing crop shall specify the time at which it is likely to be fit to be cut or gathered.\n(2) Subject to such conditions as may be imposed by the Court in this behalf either in the order of attachment or in any subsequent order, the judgment-debtor may tend, cut, gather and store the produce and do any other act necessary for maturing or preserving it; and if the judgment-debtor fails to do, all or any of such acts, the decree-holder may, with the permission of the Court and subject to the like conditions, do all or any of them either by himself or by any person appointed by him in this behalf and the costs incurred by the decree-holder shall be recoverable from the judgment-debtor as if they were included in, or formed part of, the decree.\n(3) Agricultural produce attached as a growing crop shall not be deemed to have ceased to be under attachment or to require re-attachment merely because it has been severed from the soil.\n(4) Where an order for the attachment of a growing crop has been made at a considerable time before the crop is likely to be fit to be cut or gathered, the Court may suspend the execution of the order for such time as it thinks fit, and may, in its discretion, make a further order prohibiting the removal of the crop pending the execution of the order of attachment.\n(5) A growing crop which from its nature does not admit of being stored shall not be attached under this rule at any time less than twenty days before the time at which it is likely to be fit to be cut or gathered.",
+      "key_terms": [
+        "custody arrangements",
+        "judgment-debtor may continue tending crop",
+        "severance does not lift attachment",
+        "suspension of attachment order",
+        "twenty-day minimum for non-storable crops"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court has broad discretion to arrange custody of attached agricultural produce, informed by the harvest-readiness date disclosed in the attachment application. The judgment-debtor is ordinarily still allowed (on Court-set conditions) to keep tending and eventually harvesting the crop himself — with the decree-holder entitled to step in and do it instead, at the judgment-debtor's recoverable cost, if the judgment-debtor fails to. Harvesting (severance) does not undo the attachment, which continues seamlessly. An attachment ordered too far ahead of harvest-readiness can be suspended, with removal meanwhile prohibited; and crops that cannot be stored at all cannot be attached earlier than twenty days before they're fit to harvest.",
+        "essential_elements": [
+          "The judgment-debtor's continued-tending privilege under sub-rule (2) is conditional, not absolute — the Court can impose terms, and default shifts the maturing/harvesting role to the decree-holder at the judgment-debtor's expense.",
+          "The twenty-day minimum in sub-rule (5) is a protective timing rule specific to non-storable crops, preventing premature attachment of produce that would simply spoil if seized too early."
+        ],
+        "exceptions_and_qualifications": [
+          "Sub-rule (4)'s suspension power is discretionary, triggered only where attachment was ordered a 'considerable time' before harvest-readiness — routine attachments close to harvest are not affected."
+        ],
+        "how_to_read": "Where a growing-crop attachment is made far in advance of harvest, a judgment-debtor should actively seek Rule 45(4) suspension to avoid premature interference with ongoing cultivation."
+      }
+    },
+    {
+      "number": "O-XXI-46",
+      "title": "Order XXI Rule 46 — Attachment of debt, share and other property not in possession of judgment-debtor",
+      "raw_text": "46. Attachment of debt, share and other property not in possession of judgment-debtor.—(1) In the case of—\n(a) a debt not secured by a negotiable instrument,\n(b) a share in the capital of a corporation,\n(c) other movable property not in the possession of the judgment-debtor, except property deposited in, or in the custody of, any Court,\nthe attachment shall be made by a written order prohibiting,—\n(i) in the case of the debt, the creditor from recovering the debt and the debtor from making payment thereof until the further order of the Court;\n(ii) in the case of the share, the person in whose name the share may be standing from transferring the same or receiving any dividend thereon;\n(iii) in the case of the other movable property except as aforesaid, the person in possession of the same from giving it over to the judgment-debtor.\n(2) A copy of such order shall be affixed on some conspicuous part of the court-house, and another copy shall be sent in the case of the debt, to the debtor, in the case of the share, to the proper officer of the corporation, and, in the case of the other movable property (except as aforesaid), to the person in possession of the same.\n(3) A debtor prohibited under clause (i) of sub-rule (1) may pay the amount of his debt into Court, and such payment shall discharge him as effectually as payment to the party entitled to receive the same.",
+      "key_terms": [
+        "prohibitory order",
+        "unsecured debt",
+        "shares in a corporation",
+        "third-party custodian prohibited from delivery",
+        "payment into Court discharges debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "Debts, corporate shares, and other movables not physically held by the judgment-debtor (and not already in Court custody) are attached not by seizure but by a written prohibitory order — barring the debtor from paying the judgment-debtor directly, the registered share-holder from transferring shares, or whoever holds other movables from handing them to the judgment-debtor. The order is publicly affixed at the court-house and separately served on whoever is actually bound by the prohibition. A prohibited debtor can sidestep the deadlock entirely by simply paying the debt into Court, which fully discharges him.",
+        "essential_elements": [
+          "This is the foundational attachment mechanism for third-party-held debts and shares, which Rules 46A-46I then build into a full garnishee-proceedings regime where the third party disputes or ignores the prohibition.",
+          "Sub-rule (3)'s pay-into-Court discharge option gives the prohibited debtor a clean, final way to extinguish his own obligation without waiting for the underlying execution dispute to resolve."
+        ],
+        "exceptions_and_qualifications": [
+          "Excludes debts already secured by a negotiable instrument (separately attached under Rule 51) and property already deposited in or in the custody of a Court (separately attached under Rule 52)."
+        ],
+        "how_to_read": "A prohibited debtor who ignores this order and pays the judgment-debtor directly despite attachment does so at his own risk — paying into Court instead is both simpler and legally safer."
+      }
+    },
+    {
+      "number": "O-XXI-46A",
+      "title": "Order XXI Rule 46A — Notice to garnishee",
+      "raw_text": "46A. Notice to garnishee.—(1) The Court may in the case of a debt (other than a debt secured by a mortgage or a charge) which has been attached under rule 46 upon the application of the attaching creditor, issue notice to the garnishee liable to pay such debt, calling upon him either to pay into Court the debt due from him to the judgment-debtor or so much thereof as may be sufficient to satisfy the decree and costs of execution, or to appear and show cause why he should not do so.\n(2) An application under sub-rule (1) shall be made on affidavit verifying the facts alleged and stating that in the belief of the deponent, the garnishee is indebted to the judgment-debtor.\n(3) Where the garnishee pays in the Court the amount due from him to the judgment-debtor or so much thereof as is sufficient to satisfy the decree and the costs of the execution, the Court may direct that the amount may be paid to the decree-holder towards satisfaction of the decree and costs of the execution.",
+      "key_terms": [
+        "garnishee",
+        "affidavit application",
+        "pay-or-show-cause notice"
+      ],
+      "breakdown": {
+        "plain_summary": "The garnishee-proceeding mechanism begins here: on the decree-holder's affidavit-backed application (asserting the garnishee owes the judgment-debtor money), the Court notices the garnishee to either pay the debt (or enough of it to satisfy the decree and costs) into Court, or appear and explain why not. If he pays up, the Court can direct that sum straight to the decree-holder's satisfaction.",
+        "essential_elements": [
+          "Confined to unsecured debts — a debt secured by mortgage or charge is excluded from this streamlined garnishee route.",
+          "The affidavit requirement (sub-rule 2) ensures the garnishee-proceeding machinery is not triggered on mere speculation about a third-party debt."
+        ],
+        "exceptions_and_qualifications": [
+          "The garnishee has a genuine opportunity to contest — the notice offers 'pay or show cause', not a peremptory payment demand; a disputing garnishee proceeds instead under Rule 46C."
+        ],
+        "how_to_read": "File the Rule 46A application promptly once a third-party debt is identified through Rule 41 examination — the affidavit should pin down the debt's existence and approximate amount as specifically as possible to withstand a show-cause challenge."
+      }
+    },
+    {
+      "number": "O-XXI-46B",
+      "title": "Order XXI Rule 46B — Order against garnishee",
+      "raw_text": "46B. Order against garnishee.—Where the garnishee does not forthwith pay into Court the amount due from him to the judgment-debtor or so much thereof as is sufficient to satisfy the decree and the costs of execution, and does not appear and show cause in answer to the notice, the Court may order the garnishee to comply with the terms of such notice, and on such order, execution may issue as though such order were a decree against him.",
+      "key_terms": [
+        "garnishee default",
+        "order treated as decree",
+        "execution against garnishee"
+      ],
+      "breakdown": {
+        "plain_summary": "If the garnishee simply ignores the Rule 46A notice — neither paying nor appearing to contest — the Court can order him to comply, and that order is then directly executable against him exactly as if it were a decree in its own right.",
+        "essential_elements": [
+          "Converts garnishee default into an immediately enforceable obligation, without requiring a fresh separate suit against the garnishee."
+        ],
+        "exceptions_and_qualifications": [
+          "This default-order route applies only to the garnishee's non-appearance/non-payment scenario — an appearing garnishee who disputes liability instead triggers Rule 46C's trial-of-issue procedure."
+        ],
+        "how_to_read": "A decree-holder should move promptly for a Rule 46B order the moment a garnishee's non-response becomes clear — it converts an uncertain third-party debt into a directly executable obligation."
+      }
+    },
+    {
+      "number": "O-XXI-46C",
+      "title": "Order XXI Rule 46C — Trial of disputed questions",
+      "raw_text": "46C. Trial of disputed questions.—Where the garnishee disputes liability, the Court may order that any issue of question necessary for the determination of liability shall be tried as if it were an issue in a suit, and upon the determination of such issue shall make such order or orders as it deems fit:\nProvided that if the debt in respect of which the application under rule 46A is made is in respect of a sum of money beyond the pecuniary jurisdiction of the Court, the Court shall send the execution case to the Court of the District Judge to which the said Court is subordinate, and thereupon the Court of the District Judge or any other competent Court to which it may be transferred by the District Judge shall deal with it in the same manner as if the case had been originally instituted in that Court.",
+      "key_terms": [
+        "disputed liability",
+        "trial as issue in a suit",
+        "pecuniary-jurisdiction transfer proviso"
+      ],
+      "breakdown": {
+        "plain_summary": "If the garnishee genuinely disputes owing the debt, the Court tries that dispute exactly as it would try an issue in an ordinary suit, then disposes of the garnishee proceeding according to the outcome. Where the disputed sum exceeds the executing Court's own pecuniary jurisdiction, the case must instead be sent up to the District Judge (or whichever competent Court the District Judge transfers it to) for determination as if freshly instituted there.",
+        "essential_elements": [
+          "Guarantees the garnishee a full, suit-like adjudication on a genuine dispute, rather than a summary determination within the execution proceeding alone."
+        ],
+        "exceptions_and_qualifications": [
+          "The pecuniary-jurisdiction proviso is mandatory, not discretionary — the executing Court has no option to retain and decide a disputed debt exceeding its own jurisdiction."
+        ],
+        "how_to_read": "A garnishee genuinely disputing liability should raise that dispute clearly in response to the Rule 46A notice to ensure the matter is routed to a full trial under this rule rather than being summarily ordered against him under Rule 46B."
+      }
+    },
+    {
+      "number": "O-XXI-46D",
+      "title": "Order XXI Rule 46D — Procedure where debt belongs to third person",
+      "raw_text": "46D. Procedure where debt belongs to third person.—Where it is suggested or appears to be probable that the debt belongs to some third person, or that any third person has a lien or charge on, or other interest in such debt, the Court may order such third person to appear and state the nature and particulars of his claim, if any, to such debt and prove the same.",
+      "key_terms": [
+        "third-person interest in debt",
+        "lien or charge",
+        "notice to third person"
+      ],
+      "breakdown": {
+        "plain_summary": "Where it looks like a stranger to the execution — not the judgment-debtor — may actually own, or hold a lien/charge/interest in, the attached debt, the Court can summon that third person to come forward and prove the nature of his claim.",
+        "essential_elements": [
+          "A protective joinder mechanism, preventing a garnishee order from unfairly extinguishing a genuine third party's independent claim to the same debt."
+        ],
+        "exceptions_and_qualifications": [
+          "Triggered on a relatively low threshold ('suggested or appears to be probable') — the Court need not be independently convinced of the third party's claim before summoning him to prove it."
+        ],
+        "how_to_read": "A third party with an independent claim to an attached debt should actively come forward once garnishee proceedings begin, rather than waiting — failure to assert the claim here risks losing priority to the attaching decree-holder."
+      }
+    },
+    {
+      "number": "O-XXI-46E",
+      "title": "Order XXI Rule 46E — Order as regards third person",
+      "raw_text": "46E. Order as regards third person.—After hearing such third person and any person or persons who may subsequently be ordered to appear, or where such third or other person or persons do not appear when so ordered, the Court may make such order as is hereinbefore provided, or such other order or orders upon such terms, if any, with respect to the lien, charge or interest, as the case may be, of such third or other person or persons as it may deem fit and proper.",
+      "key_terms": [
+        "final order after hearing third person",
+        "non-appearance of third person"
+      ],
+      "breakdown": {
+        "plain_summary": "After hearing (or, on default, despite the non-appearance of) the third person summoned under Rule 46D, the Court makes a final order — either one of the ordinary garnishee orders, or a bespoke order tailored to properly account for the third person's lien, charge, or interest.",
+        "essential_elements": [
+          "Gives the Court wide remedial flexibility to craft an order that fairly allocates the debt between the decree-holder and any genuine competing third-party interest."
+        ],
+        "exceptions_and_qualifications": [
+          "A summoned third person's failure to appear does not automatically defeat his interest — the Court can still, in its discretion, make an order reflecting a claim it finds credible even in his absence, though in practice non-appearance weakens the claim's evidentiary basis."
+        ],
+        "how_to_read": "A third person who has asserted an interest under Rule 46D should still attend the hearing under this rule — the final order is shaped here, and absence can weaken an otherwise valid claim."
+      }
+    },
+    {
+      "number": "O-XXI-46F",
+      "title": "Order XXI Rule 46F — Payment by garnishee to be valid discharge",
+      "raw_text": "46F. Payment by garnishee to be valid discharge.—Payment made by the garnishee on notice under rule 46A or under any such order as aforesaid shall be a valid discharge to him as against the judgment-debtor and any other person ordered to appear as aforesaid for the amount paid or levied, although the decree in execution of which the application under rule 46A was made, or the order passed in the proceedings on such application may be set aside or reversed.",
+      "key_terms": [
+        "valid discharge",
+        "protection despite later reversal"
+      ],
+      "breakdown": {
+        "plain_summary": "A garnishee who pays in compliance with a Rule 46A notice or a subsequent garnishee order is fully and finally discharged from the debt to that extent — protected even if the underlying decree or garnishee order is later set aside or reversed on appeal/revision.",
+        "essential_elements": [
+          "A strong finality protection for the compliant garnishee, who should not be left exposed to double liability because of later appellate developments he had no control over."
+        ],
+        "exceptions_and_qualifications": [
+          "Protects only the garnishee's payment obligation — it does not itself resolve downstream restitution questions between the decree-holder and judgment-debtor once a decree or order is actually reversed; those follow ordinary restitution principles (Section 144) separately."
+        ],
+        "how_to_read": "A garnishee should comply promptly once a valid Rule 46A notice or order issues — this rule removes any practical risk of double payment even if the decree-holder's underlying decree is later overturned."
+      }
+    },
+    {
+      "number": "O-XXI-46G",
+      "title": "Order XXI Rule 46G — Costs",
+      "raw_text": "46G. Costs.—The costs of any application made under rule 46A and of any proceeding arising therefrom or incidental thereto shall be in the discretion of the Court.",
+      "key_terms": [
+        "costs of garnishee proceedings",
+        "Court's discretion"
+      ],
+      "breakdown": {
+        "plain_summary": "All costs relating to a Rule 46A garnishee application and whatever proceedings flow from it are left entirely to the Court's discretion.",
+        "essential_elements": [
+          "A short, purely procedural provision giving the Court full flexibility on costs allocation in garnishee proceedings, consistent with the Code's general costs philosophy."
+        ],
+        "exceptions_and_qualifications": [
+          "No fixed rule or presumption (such as 'costs follow the event') is prescribed here — the discretion is genuinely open-ended on the face of the rule."
+        ],
+        "how_to_read": "Plead for costs expressly in garnishee proceedings rather than assuming any default allocation — the Court's discretion under this rule is unconstrained by the rule's own text."
+      }
+    },
+    {
+      "number": "O-XXI-46H",
+      "title": "Order XXI Rule 46H — Appeals",
+      "raw_text": "46H. Appeals.—An order made under rule 46B, rule 46C or rule 46E shall be applicable as a decree.",
+      "key_terms": [
+        "appealable order",
+        "orders treated as decree"
+      ],
+      "breakdown": {
+        "plain_summary": "Orders made under Rules 46B (default order against garnishee), 46C (determination after trial of disputed liability), or 46E (final order concerning a third person's interest) are each treated as a decree for appeal purposes, giving the aggrieved party a normal right of appeal.",
+        "essential_elements": [
+          "Ensures the garnishee-proceeding regime's key substantive determinations are not left without appellate recourse merely because they arise within an execution proceeding rather than a fresh suit."
+        ],
+        "exceptions_and_qualifications": [
+          "Only these three specific categories of order are made appealable as decrees — other procedural orders within the garnishee-proceeding chain (e.g., the initial Rule 46A notice itself) do not carry the same appeal right."
+        ],
+        "how_to_read": "Identify precisely which rule a garnishee-related order was passed under before advising on appeal — only Rule 46B, 46C, and 46E orders carry decree-like appealability under this rule."
+      }
+    },
+    {
+      "number": "O-XXI-46-I",
+      "title": "Order XXI Rule 46-I — Application to negotiable instruments",
+      "raw_text": "46-I. Application to negotiable instruments.—The provisions of rules 46A to 46H (both inclusive) shall, so far as may be, apply in relation to negotiable instruments attached under rule 51 as they apply in relation to debts.",
+      "key_terms": [
+        "negotiable instruments",
+        "extension of garnishee regime"
+      ],
+      "breakdown": {
+        "plain_summary": "The entire garnishee-proceeding machinery (Rules 46A-46H) extends, with necessary adaptation, to negotiable instruments attached under Rule 51 — not just to ordinary unsecured debts.",
+        "essential_elements": [
+          "A closing extension provision that prevents the garnishee regime from being read as confined only to the debts described in Rule 46."
+        ],
+        "exceptions_and_qualifications": [
+          "The 'so far as may be' qualifier signals adaptive, not literal, application — some garnishee concepts (e.g., 'debt due') require sensible translation to the negotiable-instrument context."
+        ],
+        "how_to_read": "Where attachment concerns a negotiable instrument rather than an ordinary debt, still consider the full Rules 46A-46H toolkit (notice, default order, disputed-liability trial, third-person procedure) via this extension provision."
+      }
+    },
+    {
+      "number": "O-XXI-47",
+      "title": "Order XXI Rule 47 — Attachment of share in movables",
+      "raw_text": "47. Attachment of share in movables.—Where the property to be attached consists of the share or interest of the judgment-debtor in movable property belonging to him and another as co-owners, the attachment shall be made by a notice to the judgment-debtor prohibiting him from transferring the share or interest or charging it in any way.",
+      "key_terms": [
+        "co-owned movable property",
+        "prohibitory notice to co-owner judgment-debtor"
+      ],
+      "breakdown": {
+        "plain_summary": "A judgment-debtor's undivided share in jointly-owned movable property is attached simply by notifying him not to transfer or charge that share — there is no seizure of the co-owned property itself.",
+        "essential_elements": [
+          "A lighter-touch attachment mode than Rule 43's actual-seizure default, appropriate because the judgment-debtor does not hold exclusive possession of the property."
+        ],
+        "exceptions_and_qualifications": [
+          "Protects the co-owner's undivided interest from disturbance — only the judgment-debtor's own share is restrained, not the property as a whole or the co-owner's share in it."
+        ],
+        "how_to_read": "Where a judgment-debtor's property turns out to be jointly held, pursue attachment of his specific share under this rule rather than attempting to seize the whole co-owned item under Rule 43."
+      }
+    },
+    {
+      "number": "O-XXI-48",
+      "title": "Order XXI Rule 48 — Attachment of salary or allowances of servant of the Government or railway company or local authority",
+      "raw_text": "48. Attachment of salary or allowances of servant of the Government or railway company or local authority.—(1) Where the property to be attached is the salary or allowances of a servant of the Government or of a servant of a railway company or local authority or of a servant of a corporation engaged in any trade or industry which is established by a Central, Provincial or State Act, or a Government company as defined in section 617 of the Companies Act, 1956, the Court, whether the judgment-debtor or the disbursing officer is or is not within the local limits of the Court's jurisdiction, may order that the amount shall, subject to the provisions of section 60, be withheld from such salary or allowances either in one payment or by monthly instalments as the Court may direct; and upon notice of the order to such officer as the appropriate Government may by notification in the Official Gazette appoint in this behalf,—\n(a) where such salary or allowances are to be disbursed within the local limits to which this Code for the time being extends, the officer or other person whose duty it is to disburse the same shall withhold and remit to the Court the amount due under the order, or the monthly instalments, as the case may be;\n(b) where such salary or allowances are to be disbursed beyond the said limits, the officer or other person within those limits whose duty it is to instruct the disbursing authority regarding the amount of the salary or allowances to be disbursed shall remit to the Court the amount due under the order, or the monthly instalments, as the case may be, and shall direct the disbursing authority to reduce the aggregate of the amounts from time to time, to be disbursed by the aggregate of the amounts from time to time remitted to the Court.\n(2) Where the attachable proportion of such salary or allowances is already being withheld and remitted to a Court in pursuance of a previous and unsatisfied order of attachment, the officer appointed by the appropriate Government in this behalf shall forthwith return the subsequent order to the Court issuing it with a full statement of all the particulars of the existing attachment.\n(3) Every order made under this rule, unless it is returned in accordance with the provisions of sub-rule (2) shall, without further notice or other process, bind the appropriate Government or the railway company or local authority or corporation or Government company, as the case may be, while the judgment-debtor is within the local limits to which this Code for the time being extends and while he is beyond those limits, if he is in receipt of any salary or allowances payable out of the Consolidated Fund of India or the Consolidated Fund of the State or the funds of a railway company or local authority or corporation or Government company in India; and the appropriate Government or the railway company or local authority or corporation or Government company, as the case may be, shall be liable for any sum paid in contravention of this rule.\nExplanation.—In this rule, \"appropriate Government\" means,—\n(i) As respects any person in the service of the Central Government, or any servant of a railway administration or of a cantonment authority or of the port authority of a major port, or any servant of a corporation engaged in any trade or industry which is established by a Central Act, or any servant of a Government company in which any part of the share capital is held by the Central Government or by more than one State Governments or partly by the Central Government and partly by one or more State Governments, the Central Government;\n(ii) As respects any other servant of the Government, or a servant of any other local or other authority, or any servant of a corporation engaged in any trade or industry which is established by a Provincial or State Act, or a servant of any other Government company, the State Government.",
+      "key_terms": [
+        "Government servant's salary",
+        "Section 60 subject-to clause",
+        "withholding/remittance machinery",
+        "prior attachment priority",
+        "appropriate Government"
+      ],
+      "breakdown": {
+        "plain_summary": "Public-sector salary (Government, railway, local authority, specified corporations/Government companies) can be attached nationwide by Court order routed through a designated officer, subject always to Section 60's protected-income limits, with the disbursing machinery withholding and remitting either a lump sum or monthly instalments regardless of where the employee or disbursing officer is actually located. An existing unsatisfied attachment takes priority — a later order is simply bounced back with full particulars rather than creating competing withholding obligations. Once validly made and not returned, the order binds the relevant Government/body nationwide wherever the judgment-debtor draws pay from Indian public funds, with that body personally liable for any contravening payment.",
+        "essential_elements": [
+          "The nationwide-reach feature (sub-rule 3) is unusually broad compared to ordinary territorial jurisdiction limits elsewhere in the Code — deliberately so, given the mobility of Government employees.",
+          "The Explanation's Central/State Government allocation turns on the specific employer category — getting this wrong risks routing the attachment notice to the wrong 'appropriate Government' officer entirely."
+        ],
+        "exceptions_and_qualifications": [
+          "Always subject to Section 60's exemptions (which protect a portion of salary from attachment altogether) — this rule only governs the mechanics of attaching the attachable portion, not whether a given portion is attachable at all."
+        ],
+        "how_to_read": "Identify the correct 'appropriate Government' and notified officer precisely per the Explanation before issuing a salary-attachment order against a public-sector employee — misdirected notices are a common cause of delay in this category of attachment."
+      }
+    },
+    {
+      "number": "O-XXI-48A",
+      "title": "Order XXI Rule 48A — Attachment of salary or allowances of private employees",
+      "raw_text": "48A. Attachment of salary or allowances of private employees.—(1) Where the property to be attached is the salary or allowances of an employee other than an employee to whom rule 48 applies, the Court, where the disbursing officer of the employee is within the local limits of the Court's jurisdiction, may order that the amount shall, subject to the provision of section 60, be withheld from such salary or allowances either in one payment or by monthly instalments as the Court may direct; and upon notice of the order to such disbursing officer, such disbursing officer shall remit to the Court the amount due under the order, or the monthly instalments, as the case may be.\n(2) Where the attachable portion of such salary or allowances is already being withheld or remitted to the Court in pursuance of a previous and unsatisfied order of attachment, the disbursing officer shall forthwith return the subsequent order to the Court issuing it with a full statement of all the particulars of the existing attachment.\n(3) Every order made under this rule, unless it is returned in accordance with the provisions of sub-rule (2), shall, without further notice or other process, bind the employer while the judgment-debtor is within the local limits to which this Code for the time being extends and while he is beyond those limits, if he is in receipt of salary or allowances payable out of the funds of an employer in any part of India, and the employer shall be liable for any sum paid in contravention of this rule.",
+      "key_terms": [
+        "private employee salary",
+        "disbursing officer within jurisdiction",
+        "Section 60 limits",
+        "employer liability"
+      ],
+      "breakdown": {
+        "plain_summary": "Private-sector salary is attached much like Government salary under Rule 48, but with one key jurisdictional condition: the Court can only make the order where the employee's disbursing officer is within its own local limits. Subject to that, the mechanics mirror Rule 48 — Section-60-limited withholding/remittance, priority for an existing attachment, and nationwide binding effect with employer liability for contravention once validly made.",
+        "essential_elements": [
+          "The threshold territorial condition (disbursing officer within the Court's jurisdiction) has no counterpart in Rule 48's Government-employee regime — a structural distinction between the public- and private-sector attachment rules."
+        ],
+        "exceptions_and_qualifications": [
+          "Like Rule 48, remains subject throughout to Section 60's protected-income exemptions — this rule governs only the attachment mechanics for whatever portion is otherwise attachable."
+        ],
+        "how_to_read": "Before seeking salary attachment against a private-sector judgment-debtor, confirm the disbursing officer actually falls within the executing Court's local jurisdiction — this is a genuine precondition, unlike the Government-employee regime under Rule 48."
+      }
+    },
+    {
+      "number": "O-XXI-49",
+      "title": "Order XXI Rule 49 — Attachment of partnership property",
+      "raw_text": "49. Attachment of partnership property.—(1) Save as otherwise provided by this rule, property belonging to a partnership shall not be attached or sold in execution of a decree other than a decree passed against the firm or against the partners in the firm as such.\n(2) The Court may, on the application of the holder of a decree against a partner, make an order charging the interest of such partner in the partnership property, and profits with payment of the amount due under the decree, and may, by the same or a subsequent order, appoint a receiver of the share of such partner in the profits (whether already declared or accruing) and of any other money which may be coming to him in respect of the partnership, and direct accounts and inquiries and make an order for the sale of such interest or other orders as might have been directed or made if a charge had been made in favour of the decree holder by such partner, or as the circumstances of the case may require.\n(3) The other partner or partners shall be at liberty at any time to redeem the interest charged or, in the case of a sale being directed, to purchase the same.\n(4) Every application for an order under sub-rule (2) shall be served on the judgment-debtor and on his partners or such of them as are within India.\n(5) Every application made by any partner of the judgment-debtor under sub-rule (3) shall be served on the decree-holder and on the judgment-debtor, and on such of the other partners as do not join in the application and as are within India.\n(6) Service under sub-rule (4) or sub-rule (5) shall be deemed to be service on all the partners and all orders made on such applications shall be similarly served.",
+      "key_terms": [
+        "partnership property protected",
+        "charging order on partner's interest",
+        "receiver of profits",
+        "co-partners' redemption/purchase right"
+      ],
+      "breakdown": {
+        "plain_summary": "Firm property is generally shielded from attachment on a decree against an individual partner personally — it is only attachable on a decree actually against the firm or the partners as such. A personal decree-holder against one partner instead gets a 'charging order' on that partner's interest in the partnership and its profits, potentially with a receiver appointed over his share, accounts/inquiries directed, and an eventual sale of that interest. The other partners can always redeem the charge or buy out the interest themselves rather than have an outsider forced into the partnership through a sale.",
+        "essential_elements": [
+          "The firm-property shield in sub-rule (1) is the default rule — it protects ongoing partnership business from disruption by one partner's personal creditor.",
+          "The charging-order mechanism in sub-rule (2) is deliberately modelled on equitable charge remedies, giving the Court flexible tools (receiver, accounts, sale) rather than a blunt seizure.",
+          "Sub-rule (3)'s redemption/purchase right lets co-partners keep an unwanted outsider out of the firm, preserving the partnership's composition."
+        ],
+        "exceptions_and_qualifications": [
+          "The Explanation/proviso preserving Section 30 of the Indian Partnership Act (referenced elsewhere in this Order at Rule 50) confirms this rule does not override minors' or other special partnership-law protections."
+        ],
+        "how_to_read": "A decree-holder against an individual partner should pursue a Rule 49(2) charging order rather than attempting to attach firm assets directly — and should expect the other partners to likely exercise their redemption/purchase right to avoid an outsider's forced entry."
+      }
+    },
+    {
+      "number": "O-XXI-50",
+      "title": "Order XXI Rule 50 — Execution of decree against firm",
+      "raw_text": "50. Execution of decree against firm.—(1) Where a decree has been passed against a firm, execution may be granted—\n(a) against any property of the partnership;\n(b) against any person who has appeared in his own name under rule 6 or rule 7 of Order XXX or who has admitted on the pleadings that he is, or who has been adjudged to be, a partner;\n(c) against any person who has been individually served as a partner with a summons and has failed to appear:\nProvided that nothing in this sub-rule shall be deemed to limit or otherwise affect the provisions of section 30 of the Indian Partnership Act, 1932.\n(2) Where the decree-holder claims to be entitled to cause the decree to be executed against any person other than such a person as is referred to in sub-rule (1), clauses (b) and (c), as being a partner in the firm, he may apply to the Court which passed the decree for leave, and where the liability is not disputed, such court may grant such leave, or, where such liability is disputed, may order that the liability of such person be tried and determined in any manner in which any issue in a suit may be tried and determined.\n(3) Where the liability of any person has been tried and determined under sub-rule (2), the order made thereon shall have the same force and be subject to the same conditions as to appeal or otherwise as if it were a decree.\n(4) Save as against any property of the partnership, a decree against a firm shall not bind, render liable or otherwise affect any partner therein unless he has been served with a summons to appear and answer.\n(5) Nothing in this rule shall apply to a decree passed against a Hindu Undivided Family by virtue of the provisions of rule 10 of Order XXX.",
+      "key_terms": [
+        "decree against a firm",
+        "appeared/admitted/adjudged partner",
+        "served-and-defaulted partner",
+        "leave to proceed against disputed partner",
+        "personal liability requires service"
+      ],
+      "breakdown": {
+        "plain_summary": "A decree against a firm can be executed against firm property automatically, and personally against three categories of individual: those who appeared in their own name as partners under Order XXX, those who admitted or were adjudged to be partners, and those individually served as partners who simply failed to appear. For anyone else the decree-holder claims is a partner, leave of Court is required — granted outright if undisputed, or only after a full suit-like trial of the disputed partnership-liability question if contested, with the resulting determination itself treated as an appealable decree. Critically, no individual partner's personal assets are bound unless he was actually served with summons to appear and answer — firm property alone can be reached without that individual service. Hindu Undivided Family decrees under Order XXX Rule 10 are expressly carved out of this rule entirely.",
+        "essential_elements": [
+          "Sub-rule (4)'s personal-service precondition is the rule's central safeguard — a partner's personal liability under a firm decree can never arise by default or inference alone.",
+          "The leave-and-trial mechanism in sub-rule (2) prevents the decree-holder from simply asserting someone is a partner and executing against him without either consent or adjudication."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso expressly preserves Indian Partnership Act Section 30 (minor admitted to benefits of partnership) — this rule's execution mechanics do not override that Act's substantive protections for minor partners.",
+          "Sub-rule (5) is a complete carve-out for Hindu Undivided Family decrees under Order XXX Rule 10 — this rule's firm-specific machinery simply does not apply to them."
+        ],
+        "how_to_read": "Before executing a firm decree against any named individual, check precisely which sub-rule (1) category he falls into, or whether leave under sub-rule (2) was actually obtained — personal execution without proper service or leave is a frequently successful objection."
+      }
+    },
+    {
+      "number": "O-XXI-51",
+      "title": "Order XXI Rule 51 — Attachment of negotiable instruments",
+      "raw_text": "51. Attachment of negotiable instruments.—Where the property is a negotiable instrument not deposited in a Court, not in the custody of a public officer, the attachment shall be made by actual seizure, and the instrument shall be brought into Court and held subject to further orders of the Court.",
+      "key_terms": [
+        "negotiable instrument",
+        "actual seizure",
+        "held subject to further orders"
+      ],
+      "breakdown": {
+        "plain_summary": "A negotiable instrument that is not already in a Court's or public officer's custody is attached by physically seizing it and bringing it into Court, where it is held pending further Court orders.",
+        "essential_elements": [
+          "A seizure-based mode, similar to Rule 43's ordinary-movables default, rather than the prohibitory-notice approach used for unsecured debts under Rule 46."
+        ],
+        "exceptions_and_qualifications": [
+          "Instruments already deposited in a Court or in a public officer's custody are instead governed by Rule 52's notice-based attachment mechanism, not this rule."
+        ],
+        "how_to_read": "Where attachable property includes a negotiable instrument (promissory note, bill of exchange, cheque), move for its physical seizure under this rule promptly — and recall that Rules 46A-46I's garnishee machinery extends to it via Rule 46-I once attached."
+      }
+    },
+    {
+      "number": "O-XXI-52",
+      "title": "Order XXI Rule 52 — Attachment of property in custody of Court or public officer",
+      "raw_text": "52. Attachment of property in custody of Court or public officer.—Where the property to be attached is in the custody of any Court or public officer, the attachment shall be made by a notice to such Court or officer, requesting that such property, and any interest or dividend becoming payable thereon, may be held subject to the further orders of the Court from which the notice is issued:\nProvided that, where such property is in the custody of a Court, any question of title or priority arising between the decree-holder and any other person, not being the judgment-debtor, claiming to be interested in such property by virtue of any assignment, attachment or otherwise, shall be determined by such Court.",
+      "key_terms": [
+        "custody of Court or public officer",
+        "notice-based attachment",
+        "title/priority dispute proviso"
+      ],
+      "breakdown": {
+        "plain_summary": "Property already held by some Court or public officer (rather than by the judgment-debtor himself) is attached simply by notifying that custodian Court/officer to hold the property (and any interest/dividend on it) subject to the executing Court's further orders. Where the custody is with another Court, any genuine title-or-priority dispute involving a third party's competing claim is decided by that custodian Court, not the executing Court.",
+        "essential_elements": [
+          "A pure notice mechanism — no physical transfer of custody occurs between the two Courts/officers."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso allocates adjudicatory authority specifically to the custodian Court for third-party title/priority disputes — the executing Court cannot itself resolve such a dispute over property it does not hold."
+        ],
+        "how_to_read": "Where attached property sits in another Court's custody and a third party asserts a competing claim, direct that dispute to the custodian Court under the proviso rather than litigating it before the executing Court."
+      }
+    },
+    {
+      "number": "O-XXI-53",
+      "title": "Order XXI Rule 53 — Attachment of decrees",
+      "raw_text": "53. Attachment of decrees.—(1) Where the property to be attached is a decree, either for the payment of money or for sale in enforcement of a mortgage or charge, the attachment shall be made,—\n(a) if the decrees were passed by the same Court, then by order of such Court, and\n(b) if the decree sought to be attached was passed by another Court, then by the issue to such other Court of a notice by the Court which passed the decree sought to be executed, requesting such other Court to stay the execution of its decree unless and until—\n(i) the court which passed the decree sought to be executed cancels the notice, or\n(ii)(a) the holder of the decree sought to be executed, or (b) his judgment-debtor with the previous consent in writing of such decree-holder, or with the permission of the attaching Court, applies to the Court receiving such notice to execute the attached decree.\n(2) Where a Court makes an order under clause (a) of sub-rule (1), or receives an application under sub-head (ii) of clause (b) of the said sub-rule, it shall, on the application of the creditor who has attached the decree or his judgment-debtor, proceed to execute the attached decree and apply the net proceeds in satisfaction of the decree sought to be executed.\n(3) The holder of a decree sought to be executed by the attachment of another decree of the nature specified in sub-rule (1) shall be deemed to be the representative of the holder of the attached decree and to be entitled to execute such attached decree in any manner lawful for the holder thereof.\n(4) Where the property to be attached in the execution of a decree is a decree other than a decree of the nature referred to in sub-rule (1), the attachment shall be made by a notice by the Court which passed the decree sought to be executed, to the holder of the decree sought to be attached, prohibiting him from transferring or charging the same in any way, and, where such decree has been passed by any other Court, also by sending to such other Court a notice to abstain from executing the decree sought to be attached until such notice is cancelled by the Court from which it was sent.\n(5) The holder of a decree attached under this rule shall give the Court executing the decree such information and aid as may reasonably be required.\n(6) On the application of the holder of a decree sought to be executed by the attachment of another decree, the Court making an order of attachment under this rule shall give notice of such order to the judgment-debtor bound by the decree attached; and no payment or adjustment of the attached decree made by the judgment-debtor in contravention of such order with knowledge thereof or after receipt of notice thereof, either through the Court or otherwise, shall be recognized by any Court so long as the attachment remains in force.",
+      "key_terms": [
+        "decree as attachable property",
+        "same-Court order vs. other-Court notice",
+        "attaching creditor as representative",
+        "non-money/non-sale decrees — prohibitory notice",
+        "bar on contrary payment"
+      ],
+      "breakdown": {
+        "plain_summary": "A decree itself (whether for money or mortgage/charge-enforcement sale) can be attached as property — directly by order if both decrees are in the same Court, or by a stay-request notice to the other Court if not. Once attached this way, the attaching decree-holder effectively steps into the attached decree-holder's shoes as his 'representative' and can execute the attached decree himself, applying proceeds to satisfy his own decree. Other kinds of decrees (not money or mortgage-sale) are instead attached by a simple prohibitory notice barring transfer/charge, with a parallel abstain-from-execution notice if passed by another Court. The attached decree-holder must cooperate with reasonable information/assistance requests, and once the judgment-debtor bound by the attached decree is notified, any payment/adjustment he makes in knowing contravention is simply not recognised while the attachment lasts.",
+        "essential_elements": [
+          "Sub-rule (3)'s representative-status deeming is the practical heart of this rule — it lets an attaching decree-holder actually realise value from the attached decree himself, rather than merely freezing it.",
+          "The same-Court/other-Court procedural split (sub-rule 1) mirrors the general transfer-of-decree logic seen earlier in this Order (Rules 5-9), adapted to the attachment context."
+        ],
+        "exceptions_and_qualifications": [
+          "The notice-based route for money/mortgage-sale decrees under another Court (sub-rule 1(b)) is a stay request, not an automatic stay — execution by the other Court continues until that Court actually complies with the notice.",
+          "Sub-rule (6)'s non-recognition bar protects only against payments made 'with knowledge' or 'after receipt of notice' — a genuinely unaware payment before notice reaches the judgment-debtor is not caught by it."
+        ],
+        "how_to_read": "A decree-holder discovering that his judgment-debtor is himself a decree-holder in another pending matter should seriously consider attaching that decree under this rule — it can be a faster route to satisfaction than attaching more conventional property."
+      }
+    },
+    {
+      "number": "O-XXI-54",
+      "title": "Order XXI Rule 54 — Attachment of immovable property",
+      "raw_text": "54. Attachment of immovable property.—(1) Where the property is immovable, the attachment shall be made by an order prohibiting the judgment-debtor from transferring or charging the property in any way, and all persons from taking any benefit from such transfer or charge.\n(1A) The order shall also require the judgment-debtor to attend Court on a specified date to take notice of the date to be fixed for settling the terms of the proclamation of sale.\n(2) The order shall be proclaimed at some place on or adjacent to such property by beat of drum or other customary mode, and a copy of the order shall be affixed on a conspicuous part of the property and then upon a conspicuous part of the Court-house, and also, where the property is land paying revenue to the Government, in the office of the Collector of the district in which the land is situate and, where the property is land situate in a village, also in the office of the Gram Panchayat, if any, having jurisdiction over that village.",
+      "key_terms": [
+        "prohibitory order",
+        "proclamation at property/Court-house/Collector's office",
+        "sub-rule 1A sale-proclamation notice",
+        "Gram Panchayat notice"
+      ],
+      "breakdown": {
+        "plain_summary": "Immovable property is attached by a prohibitory order barring the judgment-debtor from transferring/charging it (and barring anyone else from benefiting from such a transfer/charge), with the order widely publicised — proclaimed at the property itself, affixed there and at the court-house, and, for revenue land, also lodged with the Collector and, for village land, the Gram Panchayat. The judgment-debtor must additionally be required to attend Court on a specified date concerning the eventual sale-proclamation terms — linking attachment directly into the sale process that follows.",
+        "essential_elements": [
+          "Multi-point publicity (property, court-house, Collector, Gram Panchayat) is designed to give both the public and other potential creditors effective notice of the attachment.",
+          "Sub-rule (1A)'s Court-attendance requirement was inserted to fold the attachment and subsequent sale-proclamation process together procedurally, reducing delay between the two stages."
+        ],
+        "exceptions_and_qualifications": [
+          "The Gram Panchayat notification applies only where the land is situated in a village that actually has a Gram Panchayat — the requirement is conditional on such a body's existence."
+        ],
+        "how_to_read": "Verify all applicable publicity steps (property affixation, court-house affixation, Collector's office for revenue land, Gram Panchayat for village land) were completed — gaps here are a frequent ground for challenging a subsequent sale as irregular under Rule 90."
+      }
+    },
+    {
+      "number": "O-XXI-55",
+      "title": "Order XXI Rule 55 — Removal of attachment after satisfaction of decree",
+      "raw_text": "55. Removal of attachment after satisfaction of decree.—Where—\n(a) the amount decreed with costs and all charges and expenses resulting from the attachment of any property are paid into Court, or\n(b) satisfaction of the decree is otherwise made through the Court or certified to the Court, or\n(c) the decree is set aside or reversed,\nthe attachment shall be deemed to be withdrawn, and, in the case of immovable property, the withdrawal shall, if the judgment-debtor so desires, be proclaimed at his expense, and a copy of the proclamation shall be affixed in the manner prescribed by the last preceding rule.",
+      "key_terms": [
+        "automatic withdrawal of attachment",
+        "three triggering events",
+        "proclaimed withdrawal for immovable property"
+      ],
+      "breakdown": {
+        "plain_summary": "Attachment automatically lapses (is 'deemed withdrawn') the moment any of three things happens: full payment of the decretal amount plus costs and attachment-related charges into Court, satisfaction otherwise made/certified through the Court, or the decree itself being set aside or reversed. For immovable property, the judgment-debtor can additionally have this withdrawal publicly proclaimed (at his own cost) using the same publicity channels as the original attachment order.",
+        "essential_elements": [
+          "Withdrawal here is automatic by operation of law ('deemed withdrawn') on the triggering event — no separate Court order is strictly necessary to lift the attachment itself."
+        ],
+        "exceptions_and_qualifications": [
+          "The proclamation-of-withdrawal option for immovable property is available only 'if the judgment-debtor so desires' and at his own expense — it is not an automatic step the Court takes on its own initiative."
+        ],
+        "how_to_read": "A judgment-debtor who has fully satisfied a decree should still consider proactively seeking a proclaimed withdrawal under this rule for immovable property — it provides public, documentary proof that the earlier attachment publicity no longer reflects the current position."
+      }
+    },
+    {
+      "number": "O-XXI-56",
+      "title": "Order XXI Rule 56 — Order for payment of coin or currency notes to party entitled under decree",
+      "raw_text": "56. Order for payment of coin or currency notes to party entitled under decree.—Where the property attached is current coin or currency notes, the Court may, at any time during the continuance of the attachment, direct that such coin or notes, or a part thereof sufficient to satisfy the decree, be paid over to the party entitled under the decree to receive the same.",
+      "key_terms": [
+        "current coin or currency notes",
+        "direct payment without sale"
+      ],
+      "breakdown": {
+        "plain_summary": "Where the attached property is simply cash (coin or currency notes), the Court can skip the usual sale process entirely and directly hand over the money (or as much as is needed to satisfy the decree) to the decree-holder at any point while the attachment is in force.",
+        "essential_elements": [
+          "A sensible practical shortcut — cash needs no sale to convert it into money for the decree-holder, unlike other categories of attached property."
+        ],
+        "exceptions_and_qualifications": [
+          "Limited strictly to 'current coin or currency notes' — other liquid instruments like cheques or fixed deposits are not cash for purposes of this rule and remain subject to their own applicable attachment/realisation rules."
+        ],
+        "how_to_read": "Where attachment yields actual cash, move promptly under this rule for direct payment-over rather than needlessly subjecting currency to the full sale machinery of Rules 64 onwards."
+      }
+    },
+    {
+      "number": "O-XXI-57",
+      "title": "Order XXI Rule 57 — Determination of attachment",
+      "raw_text": "57. Determination of attachment.—(1) Where any property has been attached in execution of a decree and the Court, for any reason, passes an order dismissing the application for the execution of the decree, the Court shall direct whether the attachment shall continue or cease and shall also indicate the period up to which such attachment shall continue or the date on which such attachment shall cease.\n(2) If the Court omits to give such direction, the attachment shall be deemed to have ceased.",
+      "key_terms": [
+        "attachment on dismissal of execution application",
+        "mandatory direction",
+        "default cessation"
+      ],
+      "breakdown": {
+        "plain_summary": "If an execution application is dismissed for any reason while property remains under attachment, the Court must expressly decide and state whether that attachment survives the dismissal and, if so, for how long or until when. If the Court simply forgets to address this, the law supplies a default answer: the attachment is deemed to have ceased.",
+        "essential_elements": [
+          "Closes this part of the Order on a decree-holder-protective but default-cautious note — attachment can survive a dismissal (e.g., where a fresh application is anticipated), but only if the Court affirmatively says so."
+        ],
+        "exceptions_and_qualifications": [
+          "The default-cessation rule in sub-rule (2) places the burden squarely on the party wanting continued attachment to secure an express direction — silence favours the judgment-debtor, not the decree-holder."
+        ],
+        "how_to_read": "A decree-holder whose execution application is dismissed but who intends to file afresh should immediately seek an express continuation direction under this rule — relying on silence risks the attachment automatically lapsing."
+      }
     }
   ]
 }
