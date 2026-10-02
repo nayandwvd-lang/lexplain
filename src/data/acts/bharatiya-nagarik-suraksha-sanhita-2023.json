@@ -4097,7 +4097,19 @@
           "This is an option for the person affected, not a right the Court must grant automatically — read 'shall make an order giving an option' carefully: the option must be offered, but the person must still choose and pay.",
           "Missing the payment deadline forfeits the chance — the property presumably remains forfeited if the fine isn't paid in time."
         ],
-        "how_to_read": "A practical settlement mechanism worth flagging to any client facing a mixed-source forfeiture finding — it can convert a total property loss into a fine calculated on only the tainted fraction."
+        "how_to_read": "A practical settlement mechanism worth flagging to any client facing a mixed-source forfeiture finding — it can convert a total property loss into a fine calculated on only the tainted fraction.",
+        "plain_summary_hi": "आंशिक-दूषण के मामलों के लिए एक आनुपातिकता वाल्व। यदि संपत्ति के स्रोत का केवल कुछ भाग ही असिद्ध है (अर्थात उसका कुछ भाग वैध है और केवल एक अंश संदिग्ध है), तो न्यायालय को पूरी संपत्ति समपहृत करने की आवश्यकता नहीं है — वह, एक आगे की सुनवाई के बाद, प्रभावित व्यक्ति को यह विकल्प दे सकती है कि वह केवल दूषित भाग के बाजार मूल्य के बराबर जुर्माना भरे। समय पर जुर्माना भरने पर, न्यायालय धारा 120 की समपहरण घोषणा को पूर्णतः निरस्त कर सकती है, जिससे संपत्ति व्यक्ति को वापस दी जाती है।",
+        "essential_elements_hi": [
+          "यह केवल तभी लागू होता है जब असिद्ध हिस्सा संपत्ति का भाग हो, पूरी संपत्ति नहीं।",
+          "जुर्माने की राशि = असिद्ध भाग का बाजार मूल्य।",
+          "जुर्माने का आदेश देने से पहले एक और युक्तियुक्त सुनवाई का अवसर आवश्यक है।",
+          "समय पर भुगतान करने पर न्यायालय समपहरण घोषणा निरस्त कर संपत्ति मुक्त कर सकती है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यह प्रभावित व्यक्ति के लिए एक विकल्प है, न कि ऐसा अधिकार जो न्यायालय को स्वतः देना ही होगा — 'विकल्प देते हुए आदेश देगी' को ध्यान से पढ़ें: विकल्प अवश्य प्रस्तुत किया जाना चाहिए, परंतु व्यक्ति को स्वयं चुनना और भुगतान करना होगा।",
+          "भुगतान की समय-सीमा चूकने से अवसर समाप्त हो जाता है — यदि समय पर जुर्माना न भरा जाए तो संपत्ति संभवतः समपहृत ही रहती है।"
+        ],
+        "how_to_read_hi": "मिश्रित-स्रोत समपहरण निष्कर्ष का सामना कर रहे किसी भी मुवक्किल को चिह्नित करने योग्य एक व्यावहारिक समझौता तंत्र — यह संपूर्ण संपत्ति हानि को केवल दूषित अंश पर गणना किए गए जुर्माने में बदल सकता है।"
       }
     },
     {
@@ -4116,7 +4128,15 @@
           "If forfeiture under Section 120 later follows, the transfer is deemed null and void retrospectively."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "A short but powerful section — flag it whenever a client's forfeiture-exposed property shows a suspiciously timed post-notice transfer; that transfer offers no protection."
+        "how_to_read": "A short but powerful section — flag it whenever a client's forfeiture-exposed property shows a suspiciously timed post-notice transfer; that transfer offers no protection.",
+        "plain_summary_hi": "एक स्पष्ट खामी को बंद करने वाला चोरी-रोधी बैकस्टॉप: एक बार जब धारा 117(1) का जब्ती/कुर्की आदेश या धारा 119 की समपहरण सूचना जारी हो जाए, तो प्रभावित संपत्ति का कोई भी हस्तांतरण — बिक्री, उपहार, किसी भी रीति से — अध्याय VIII की कार्यवाहियों के प्रयोजन हेतु बस अनदेखा कर दिया जाता है। यदि संपत्ति अंततः धारा 120 के अंतर्गत समपहृत हो जाती है, तो वह बीच का हस्तांतरण शून्य और अकृत (null and void) माना जाता है, अर्थात व्यक्ति संपत्ति को किसी रिश्तेदार या सहयोगी के नाम शीघ्रता से हस्तांतरित कर समपहरण को विफल नहीं कर सकता।",
+        "essential_elements_hi": [
+          "ट्रिगर बिंदु: धारा 117 के आदेश या धारा 119 की सूचना के बाद होने वाला कोई भी हस्तांतरण।",
+          "ऐसा हस्तांतरण, चाहे किसी भी रीति से हो, अध्याय VIII की कार्यवाहियों के प्रयोजन हेतु अनदेखा किया जाता है।",
+          "यदि बाद में धारा 120 के अंतर्गत समपहरण हो, तो वह हस्तांतरण पूर्वव्यापी रूप से शून्य और अकृत माना जाता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "एक संक्षिप्त परंतु शक्तिशाली धारा — इसे तब चिह्नित करें जब किसी मुवक्किल की समपहरण-जोखिम वाली संपत्ति में सूचना के बाद संदिग्ध समय पर किया गया हस्तांतरण दिखाई दे; वह हस्तांतरण कोई सुरक्षा प्रदान नहीं करता।"
       }
     },
     {
@@ -4134,7 +4154,14 @@
           "Form and manner of transmission are fixed by Central Government notification."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Purely procedural glue tying together Sections 110-122's various letter-of-request mechanisms into one uniform transmission channel."
+        "how_to_read": "Purely procedural glue tying together Sections 110-122's various letter-of-request mechanisms into one uniform transmission channel.",
+        "plain_summary_hi": "एक व्यापक प्रक्रियागत धारा जो पुष्टि करती है कि अध्याय VIII के अंतर्गत संभाला जाने वाला प्रत्येक आगमक या बाह्यगामी अनुरोध पत्र, समन, या वारंट उसी प्रारूप और रीति में चलता है जिसे केंद्र सरकार अधिसूचित करती है — अध्याय के सभी सीमा-पार यातायात हेतु एक एकल, सरकार-नियंत्रित प्रेषण प्रोटोकॉल।",
+        "essential_elements_hi": [
+          "दोनों दिशाएँ शामिल हैं: संविदाकारी राज्य से प्राप्त तथा उसे भेजे जाने वाले दोनों।",
+          "प्रेषण का प्रारूप और रीति केंद्र सरकार की अधिसूचना द्वारा तय की जाती है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "विशुद्ध प्रक्रियागत कड़ी जो धारा 110-122 के विभिन्न अनुरोध-पत्र तंत्रों को एक समान प्रेषण-माध्यम में जोड़ती है।"
       }
     },
     {
@@ -4153,7 +4180,15 @@
           "Can impose conditions, exceptions, or qualifications on the Chapter's application."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "A standard closing 'Central Government may modify by notification' clause — practically relevant for checking whether a specific country's reciprocal arrangement carries any special conditions before relying on the general Chapter VIII procedure."
+        "how_to_read": "A standard closing 'Central Government may modify by notification' clause — practically relevant for checking whether a specific country's reciprocal arrangement carries any special conditions before relying on the general Chapter VIII procedure.",
+        "plain_summary_hi": "अध्याय VIII की समापन धारा केंद्र सरकार को यह लचीलापन देती है कि वह यह तय कर सके कि पूरा पारस्परिक-सहायता अध्याय किसी विशेष संविदाकारी राज्य पर कैसे लागू हो — राजपत्र अधिसूचना द्वारा वह उस देश की व्यवस्था के लिए विशिष्ट शर्तें, अपवाद, या योग्यताएँ लगा सकती है, बजाय इसके कि अध्याय को हर संविदाकारी राज्य पर एकसमान और कठोरता से लागू किया जाए।",
+        "essential_elements_hi": [
+          "तंत्र: राजपत्र में अधिसूचना।",
+          "यह पूरे अध्याय पर लागू होती है, परंतु प्रत्येक संविदाकारी राज्य के अनुरूप अनुकूलित की जा सकती है।",
+          "अध्याय के लागू होने पर शर्तें, अपवाद, या योग्यताएँ लगाई जा सकती हैं।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "एक मानक समापन 'केंद्र सरकार अधिसूचना द्वारा संशोधित कर सकती है' खंड — सामान्य अध्याय VIII प्रक्रिया पर भरोसा करने से पहले यह जाँचने में व्यावहारिक रूप से प्रासंगिक कि किसी विशेष देश की पारस्परिक व्यवस्था में कोई विशेष शर्तें तो नहीं हैं।"
       }
     },
     {
@@ -4180,7 +4215,20 @@
           "Certain BNS Chapter XI offences are expressly excluded from triggering this section — sub-sections (1) of section 193, section 196, and section 197 of the BNS.",
           "Appellate and Revisional Courts share this power with the original convicting Court — it's not confined to the trial forum."
         ],
-        "how_to_read": "Read sub-section (2) as a checklist — this section only applies if the conviction falls into one of the four listed categories. The three-year ceiling and the automatic-voidance-on-reversal rule (sub-section 3) are the two numbers/triggers worth remembering for practice."
+        "how_to_read": "Read sub-section (2) as a checklist — this section only applies if the conviction falls into one of the four listed categories. The three-year ceiling and the automatic-voidance-on-reversal rule (sub-section 3) are the two numbers/triggers worth remembering for practice.",
+        "plain_summary_hi": "यह अध्याय IX खोलती है और यह 'शांति सुरक्षा' तक पहुँचने का दोषसिद्धि-पश्चात मार्ग है। जब सत्र न्यायालय या प्रथम श्रेणी का मजिस्ट्रेट किसी व्यक्ति को कुछ लोक-व्यवस्था-संबंधी अपराधों का दोषी ठहराती है — बीएनएस के लोक शांति के विरुद्ध अपराधों के अध्याय के अपराध, आक्रमण/आपराधिक बल/शरारत के अपराध, आपराधिक अभित्रास, या कोई भी ऐसा अपराध जिसने शांति-भंग किया हो या जिसकी संभावना थी — न्यायालय, दंडादेश पारित करते समय, अतिरिक्त रूप से व्यक्ति को तीन वर्ष तक की अवधि के लिए शांति बनाए रखने हेतु बंधपत्र निष्पादित करने का आदेश दे सकती है। यह निवारक है, दंडात्मक नहीं: यह स्वयं दंडादेश के ऊपर लगाई गई एक आगे-देखने वाली गारंटी है। यदि अंतर्निहित दोषसिद्धि बाद में अपील या अन्यथा रद्द हो जाए, तो बंधपत्र स्वतः शून्य हो जाता है — इसका उस दोषसिद्धि से अलग कोई स्वतंत्र अस्तित्व नहीं है जिसने इसे ट्रिगर किया। अपीलीय और पुनरीक्षण न्यायालय भी यह आदेश दे सकती हैं, केवल विचारण न्यायालय ही नहीं।",
+        "essential_elements_hi": [
+          "ट्रिगर करने वाली न्यायालयें: सत्र न्यायालय, या प्रथम श्रेणी का मजिस्ट्रेट।",
+          "ट्रिगर करने वाली घटना: उप-धारा (2) के अंतर्गत सूचीबद्ध किसी अपराध (या उसके दुष्प्रेरण) की दोषसिद्धि।",
+          "आदेश 'दंडादेश पारित करते समय' दिया जाता है — यह दंडादेश के साथ-साथ चलता है, अलग से नहीं।",
+          "अधिकतम बंधपत्र अवधि: तीन वर्ष, उस सीमा के भीतर न्यायालय के विवेक पर।",
+          "अपील या अन्यथा दोषसिद्धि रद्द होने पर स्वतः शून्यकरण।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "बीएनएस अध्याय XI के कुछ अपराध इस धारा को ट्रिगर करने से स्पष्ट रूप से अपवर्जित हैं — बीएनएस की धारा 193 की उप-धारा (1), धारा 196, और धारा 197।",
+          "अपीलीय और पुनरीक्षण न्यायालयें इस शक्ति को मूल दोषसिद्ध करने वाली न्यायालय के साथ साझा करती हैं — यह केवल विचारण मंच तक सीमित नहीं है।"
+        ],
+        "how_to_read_hi": "उप-धारा (2) को एक जाँच-सूची के रूप में पढ़ें — यह धारा तभी लागू होती है जब दोषसिद्धि चार सूचीबद्ध श्रेणियों में से किसी एक में आती हो। तीन-वर्ष की सीमा और रद्द होने पर स्वतः-शून्यकरण का नियम (उप-धारा 3) व्यवहार हेतु याद रखने योग्य दो मुख्य बिंदु हैं।"
       }
     },
     {
@@ -4205,7 +4253,18 @@
         "exceptions_and_qualifications": [
           "This is a show-cause proceeding, not a summary order — the person gets a chance to respond before any bond is actually imposed (the full inquiry procedure is in Sections 130-137)."
         ],
-        "how_to_read": "Contrast directly with Section 125: this is the 'no conviction yet' preventive track, with a lower one-year ceiling. Sections 130 onward supply the common procedural machinery shared by Sections 126-129."
+        "how_to_read": "Contrast directly with Section 125: this is the 'no conviction yet' preventive track, with a lower one-year ceiling. Sections 130 onward supply the common procedural machinery shared by Sections 126-129.",
+        "plain_summary_hi": "धारा 125 का निवारक (दोषसिद्धि-पूर्व) समकक्ष। यहाँ किसी दोषसिद्धि की आवश्यकता ही नहीं है — एक कार्यपालक मजिस्ट्रेट जिसे विश्वसनीय सूचना मिले कि कोई व्यक्ति शांति भंग करने, लोक प्रशांति बाधित करने, या ऐसा ही कोई गलत कार्य करने की संभावना रखता है, वह कार्यवाही शुरू कर सकता है जिसमें व्यक्ति से यह कारण बताने को कहा जाता है कि उसे एक वर्ष तक शांति बनाए रखने हेतु क्यों न बाध्य किया जाए। क्षेत्राधिकार लचीला है: कार्यवाही या तो वहाँ लाई जा सकती है जहाँ अपेक्षित गड़बड़ी होगी, या जहाँ उसे करने वाला व्यक्ति वर्तमान में स्थित है, भले ही गड़बड़ी कहीं और होने की संभावना हो।",
+        "essential_elements_hi": [
+          "कोई दोषसिद्धि आवश्यक नहीं — यह विशुद्ध रूप से निवारक है, कार्यपालक मजिस्ट्रेट को प्राप्त 'सूचना' पर आधारित।",
+          "सीमा: मजिस्ट्रेट को यह राय बनानी होगी कि 'कार्यवाही हेतु पर्याप्त आधार' है।",
+          "अधिकतम बंधपत्र अवधि: एक वर्ष (धारा 125 की तीन-वर्ष सीमा से कम, जो इसके निम्न साक्ष्यात्मक सीमा को दर्शाता है)।",
+          "दोहरा क्षेत्राधिकार आधार: या तो अपेक्षित भंग का स्थान, या संदिग्ध व्यक्ति के स्थित होने का स्थान।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "यह एक कारण-बताओ कार्यवाही है, संक्षिप्त आदेश नहीं — बंधपत्र वास्तव में लगाए जाने से पहले व्यक्ति को उत्तर देने का अवसर मिलता है (पूर्ण जाँच प्रक्रिया धारा 130-137 में है)।"
+        ],
+        "how_to_read_hi": "इसकी तुलना सीधे धारा 125 से करें: यह 'अभी तक कोई दोषसिद्धि नहीं' वाला निवारक मार्ग है, जिसकी सीमा कम — एक वर्ष — है। धारा 130 आगे की धाराएँ धारा 126-129 द्वारा साझा सामान्य प्रक्रियागत तंत्र प्रदान करती हैं।"
       }
     },
     {
@@ -4229,7 +4288,18 @@
         "exceptions_and_qualifications": [
           "The press-safeguard proviso in sub-section (2) is a specific carve-out, not a blanket immunity for all publishers — only registered, properly-conducted publications under the 1867 Act qualify, and even then State Government authorisation can override the shield."
         ],
-        "how_to_read": "Notice the press-freedom proviso is doing real constitutional work here (balancing Article 19(1)(a) against public order) — flag it whenever a media client is targeted under this section."
+        "how_to_read": "Notice the press-freedom proviso is doing real constitutional work here (balancing Article 19(1)(a) against public order) — flag it whenever a media client is targeted under this section.",
+        "plain_summary_hi": "खतरनाक या गैरकानूनी सामग्री फैलाने वाले लोगों को लक्षित करने वाला एक विशिष्ट 'सदाचार' सुरक्षा प्रावधान — ऐसी सामग्री जो बीएनएस के विशिष्ट प्रावधानों के अंतर्गत दंडनीय हो (राजद्रोह-निकटवर्ती अपराध, शत्रुता को बढ़ावा देना, राष्ट्रीय एकता के लिए हानिकारक कथन, या लोक व्यवस्था को खतरे में डालने जैसी बातें शामिल), किसी न्यायाधीश के विरुद्ध आधिकारिक क्षमता में कार्य करते समय आपराधिक अभित्रास या मानहानि करने वाली सामग्री, या बीएनएस धारा 294 के अंतर्गत अश्लील सामग्री (जिसमें उसका उत्पादन, बिक्री, आयात/निर्यात, वितरण, या सार्वजनिक प्रदर्शन शामिल है)। यदि किसी कार्यपालक मजिस्ट्रेट के पास पर्याप्त आधार हो, तो वह व्यक्ति से यह कारण बताने को कह सकता है कि उसे एक वर्ष तक सदाचार-बंधपत्र क्यों न निष्पादित कराया जाए। एक विशेष प्रेस-स्वतंत्रता सुरक्षोपाय लागू होता है: प्रेस और पुस्तक पंजीकरण अधिनियम, 1867 के ढाँचे के अंतर्गत कार्यरत पंजीकृत-प्रकाशन के संपादक/स्वामी/मुद्रक/प्रकाशक के विरुद्ध इस धारा के अंतर्गत कार्यवाही राज्य सरकार के प्राधिकार के बिना नहीं की जा सकती — विशेष रूप से प्रेस की रक्षा करने वाला एक अतिरिक्त प्रक्रियागत द्वार।",
+        "essential_elements_hi": [
+          "दो श्रेणियाँ शामिल: (i) निर्दिष्ट गैरकानूनी/हानिकारक सामग्री का जानबूझकर प्रसार (या दुष्प्रेरण), जिसमें न्यायाधीश-विरोधी आपराधिक अभित्रास/मानहानि शामिल है; (ii) बीएनएस धारा 294 के अंतर्गत अश्लील सामग्री का उत्पादन/प्रसार।",
+          "प्रसार मजिस्ट्रेट के क्षेत्राधिकार के 'भीतर या बाहर' हो सकता है — व्यक्ति को बस उसके भीतर स्थित होना चाहिए।",
+          "अधिकतम बंधपत्र अवधि: एक वर्ष, धारा 126 के समान सीमा।",
+          "प्रेस सुरक्षोपाय: पंजीकृत प्रकाशनों के संपादक/स्वामी/मुद्रक/प्रकाशक तब तक सुरक्षित हैं जब तक राज्य सरकार (या उसका प्रतिनिधि) कार्यवाही को प्राधिकृत न करे।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "उप-धारा (2) का प्रेस-सुरक्षोपाय एक विशिष्ट अपवाद है, सभी प्रकाशकों के लिए सर्वव्यापी उन्मुक्ति नहीं — केवल 1867 अधिनियम के अंतर्गत पंजीकृत, उचित रूप से संचालित प्रकाशन ही योग्य हैं, और तब भी राज्य सरकार का प्राधिकार सुरक्षा को रद्द कर सकता है।"
+        ],
+        "how_to_read_hi": "ध्यान दें कि प्रेस-स्वतंत्रता उपबंध यहाँ वास्तविक संवैधानिक कार्य कर रहा है (अनुच्छेद 19(1)(क) को लोक व्यवस्था के विरुद्ध संतुलित करते हुए) — जब कोई मीडिया मुवक्किल इस धारा के अंतर्गत लक्षित हो तो इसे चिह्नित करें।"
       }
     },
     {
@@ -4251,7 +4321,17 @@
         "exceptions_and_qualifications": [
           "Mere concealment alone is not enough — it must be coupled with 'reason to believe' a cognizable offence is being planned; innocent reasons for concealment (e.g., avoiding harassment, personal safety) don't satisfy the threshold."
         ],
-        "how_to_read": "Short and self-contained — the whole test is in the single sentence. Compare its narrower scope against Section 129's much longer list of specific habitual-offender categories."
+        "how_to_read": "Short and self-contained — the whole test is in the single sentence. Compare its narrower scope against Section 129's much longer list of specific habitual-offender categories.",
+        "plain_summary_hi": "एक संकीर्ण, संदेह-आधारित निवारक-निरोध-निकटवर्ती प्रावधान: यदि कोई व्यक्ति मजिस्ट्रेट के क्षेत्राधिकार के भीतर जानबूझकर अपनी उपस्थिति छिपाने की सावधानी बरत रहा है, और यह विश्वास करने का कारण है कि वह किसी संज्ञेय अपराध की तैयारी के रूप में ऐसा कर रहा है, तो मजिस्ट्रेट मानक कारण-बताओ प्रक्रिया के माध्यम से एक वर्ष तक के लिए सदाचार-बंधपत्र की माँग कर सकता है।",
+        "essential_elements_hi": [
+          "दो-भाग की सीमा: (क) व्यक्ति अपनी उपस्थिति छिपाने की सक्रिय सावधानी बरत रहा है, और (ख) यह विश्वास करने का कारण है कि यह छिपाव किसी संज्ञेय अपराध को अंजाम देने हेतु है।",
+          "अधिकतम बंधपत्र अवधि: एक वर्ष।",
+          "धारा 130 आगे निर्धारित सामान्य प्रक्रिया का पालन करता है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "केवल छिपाव पर्याप्त नहीं है — इसके साथ 'विश्वास करने का कारण' भी होना चाहिए कि कोई संज्ञेय अपराध योजित किया जा रहा है; छिपाव के निर्दोष कारण (जैसे उत्पीड़न से बचना, व्यक्तिगत सुरक्षा) यह सीमा पूरी नहीं करते।"
+        ],
+        "how_to_read_hi": "संक्षिप्त और स्वतः-पूर्ण — पूरी कसौटी एक ही वाक्य में है। इसके संकीर्ण दायरे की तुलना धारा 129 की आदतन-अपराधी श्रेणियों की बहुत लंबी सूची से करें।"
       }
     },
     {
