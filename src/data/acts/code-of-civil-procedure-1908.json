@@ -19301,6 +19301,292 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "When a procedural question arises that Order XXXVII doesn't specifically address (e.g., evidence rules once a defence proceeds to trial), default to ordinary Code procedure rather than assuming some special summary-suit rule exists."
       }
+    },
+    {
+      "number": "O-XXXVIII",
+      "title": "Arrest and Attachment Before Judgment — Overview",
+      "raw_text": "ORDER XXXVIII. Arrest and attachment before judgment.",
+      "key_terms": [
+        "arrest before judgment",
+        "attachment before judgment",
+        "security for appearance",
+        "security for production of property",
+        "civil imprisonment"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXXVIII gives a plaintiff pre-judgment protective remedies against a defendant trying to defeat an eventual decree — either by arresting the defendant to compel security for appearance (Rules 1-4), or by attaching the defendant's property to compel security for its production (Rules 5-13). Both branches require Court satisfaction, by affidavit or otherwise, that the defendant is acting with intent to delay, obstruct, or evade the decree's eventual execution — these are extraordinary, liberty- and property-restricting remedies, not routine relief.",
+        "essential_elements": [
+          "Arrest branch (Rules 1-4): excludes Section 16(a)-(d) suits, requires intent-to-evade findings, offers a pay-into-Court escape from arrest, and caps civil imprisonment duration",
+          "Attachment branch (Rules 5-13): requires intent-to-obstruct findings, allows conditional attachment, voids non-compliant orders, and preserves third-party rights",
+          "Both branches operate on an affidavit-based satisfaction standard at any stage of the suit",
+          "Specific carve-outs: agricultural produce of an agriculturist cannot be attached; Small Cause Courts cannot attach immovable property"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Courts apply these provisions strictly given their liberty/property-restricting nature — always verify the specific intent-to-evade or intent-to-obstruct finding is properly grounded in affidavit evidence before seeking or resisting relief under this Order, since a bare apprehension unsupported by concrete facts will not suffice."
+      }
+    },
+    {
+      "number": "O-XXXVIII-1",
+      "title": "Where defendant may be called upon to furnish security for appearance",
+      "raw_text": "Where at any stage of a suit, other than a suit of the nature referred to in section 16, clauses (a) to (d), the Court is satisfied, by affidavit or otherwise,— (a) that the defendant, with intent to delay the plaintiff, or to avoid any process of the Court or to obstruct or delay the execution of any decree that may be passed against him,— (i) has absconded or left the local limits of the jurisdiction of the Court, or (ii) is about to abscond or leave the local limits of the jurisdiction of the Court, or (iii) has disposed of or removed from the local limits of the jurisdiction of the Court his property or any part thereof, or (b) that the defendant is about to leave India under circumstances affording reasonable probability that the plaintiff will or may thereby be obstructed or delayed in the execution of any decree that may be passed against the defendant in the suit, the Court may issue a warrant to arrest the defendant and bring him before the Court to show cause why he should not furnish security for his appearance: Provided that the defendant shall not be arrested if he pays to the officer entrusted with the execution of the warrant any sum specified in the warrant as sufficient to satisfy the plaintiff's claim; and such sum shall be held in deposit by the Court until the suit is disposed of or until the further order of the Court.",
+      "key_terms": [
+        "Section 16(a)-(d) exclusion",
+        "abscond or about to abscond",
+        "property disposal/removal",
+        "about to leave India",
+        "pay-into-Court escape"
+      ],
+      "breakdown": {
+        "plain_summary": "This gateway Rule lets the Court issue an arrest warrant against a defendant where there's affidavit-based satisfaction of evasive intent, manifesting as actual or imminent absconding/leaving jurisdiction, disposal/removal of property from the jurisdiction, or an imminent departure from India threatening to obstruct eventual decree execution. The suit must not fall within Section 16(a)-(d) (certain immovable-property suits). Critically, the warrant itself specifies a sum, and the defendant can avoid actual arrest entirely by paying that sum, which the Court holds in deposit pending the suit's outcome.",
+        "essential_elements": [
+          "Excludes Section 16(a)-(d) suits",
+          "Clause (a): evasive intent manifesting as absconding (actual/imminent) or property disposal/removal from jurisdiction",
+          "Clause (b): imminent departure from India with reasonable probability of obstructing decree execution",
+          "Proviso: payment of the warrant-specified sum avoids arrest, held in Court deposit"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The proviso's pay-to-avoid-arrest mechanism means this Rule functions less as a punitive arrest power and more as a security-extraction device — a defendant facing this warrant should immediately consider whether paying the specified sum is preferable to arrest and a subsequent show-cause hearing."
+      }
+    },
+    {
+      "number": "O-XXXVIII-2",
+      "title": "Security",
+      "raw_text": "(1) Where the defendant fails to show such cause the Court shall order him either to deposit in Court money or other property sufficient to answer the claim against him, or to furnish security for his appearance at any time when called upon while the suit is pending and until satisfaction of any decree that may be passed against him in the suit, or make such order as it thinks fit in regard to the sum which may have been paid by the defendant under the proviso to the last preceding rule. (2) Every surety for the appearance of a defendant shall bind himself, in default of such appearance, to pay any sum of money which the defendant may be ordered to pay in the suit.",
+      "key_terms": [
+        "deposit or security order",
+        "surety's undertaking"
+      ],
+      "breakdown": {
+        "plain_summary": "If the arrested defendant fails to show cause against the Rule 1 warrant, the Court must order either a deposit of money/property sufficient to cover the claim, or security for the defendant's continued appearance throughout the suit and until any eventual decree is satisfied — and can also make appropriate orders regarding any sum already paid under Rule 1's proviso. Any surety standing for the defendant's appearance personally undertakes to pay whatever sum the defendant is ultimately ordered to pay if the defendant defaults on appearance.",
+        "essential_elements": [
+          "Mandatory order on failure to show cause: deposit sufficient to answer the claim, or appearance security",
+          "Security for appearance extends through the suit's pendency and until decree satisfaction",
+          "Surety personally bound to pay the defendant's ordered sum on default of appearance"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A surety's undertaking under sub-rule (2) is a real personal financial exposure, not a mere formality — sureties should understand they become liable for the full sum the defendant is ultimately ordered to pay if the defendant fails to appear."
+      }
+    },
+    {
+      "number": "O-XXXVIII-3",
+      "title": "Procedure on application by surety to be discharged",
+      "raw_text": "(1) A surety for the appearance of a defendant may at any time apply to the Court in which he became such surety to be discharged from his obligation. (2) On such application being made, the Court shall summon the defendant to appear or, if it thinks fit, may issue a warrant for his arrest in the first instance. (3) On the appearance of the defendant in pursuance of the summons or warrant, or on his voluntary surrender, the Court shall direct the surety to be discharged from his obligation, and shall call upon the defendant to find fresh security.",
+      "key_terms": [
+        "surety's discharge application",
+        "defendant re-summoned or re-arrested",
+        "fresh security requirement"
+      ],
+      "breakdown": {
+        "plain_summary": "A surety isn't bound indefinitely — they can apply at any time to be released from their undertaking. Once such an application is made, the Court compels the defendant's appearance (by summons, or directly by arrest warrant if the Court thinks fit), and upon the defendant appearing or voluntarily surrendering, formally discharges the original surety while requiring the defendant to arrange fresh security to maintain continuity of protection for the plaintiff's eventual decree.",
+        "essential_elements": [
+          "Surety's discharge application can be made at any time",
+          "Court compels defendant's appearance via summons or arrest warrant",
+          "Discharge of the original surety is coupled with a fresh-security requirement on the defendant"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This Rule balances the surety's interest in eventually exiting their undertaking against the plaintiff's continued need for appearance security — the defendant bears the practical burden of sourcing a replacement surety or security."
+      }
+    },
+    {
+      "number": "O-XXXVIII-4",
+      "title": "Procedure where defendant fails to furnish security or find fresh security",
+      "raw_text": "Where the defendant fails to comply with any order under rule 2 or rule 3, the Court may commit him to the civil prison until the decision of the suit or, where a decree is passed against the defendant, until the decree has been satisfied: Provided that no person shall be detained in prison under this rule in any case for a longer period than six months, nor for a longer period than six weeks when the amount or value of the subject-matter of the suit does not exceed fifty rupees: Provided also that no person shall be detained in prison under this rule after he has complied with such order.",
+      "key_terms": [
+        "civil imprisonment",
+        "six-month maximum cap",
+        "six-week cap for small claims",
+        "release on compliance"
+      ],
+      "breakdown": {
+        "plain_summary": "A defendant who fails to comply with a Rule 2 or Rule 3 security order can be committed to civil prison, potentially until the suit's decision or (if a decree is passed against him) until the decree is satisfied — but this power is bounded by two protective caps: no detention beyond six months generally, and no more than six weeks where the suit's subject-matter doesn't exceed fifty rupees. Detention must also end immediately once the defendant actually complies with the underlying order.",
+        "essential_elements": [
+          "Civil imprisonment triggered by non-compliance with a Rule 2/3 order",
+          "First proviso: absolute six-month detention cap",
+          "First proviso: six-week cap for claims not exceeding fifty rupees",
+          "Second proviso: detention must end on compliance, regardless of the cap periods"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The fifty-rupee threshold is a historical figure reflecting the Code's vintage — in practice it means virtually every modern claim falls under the six-month cap rather than the six-week cap, but both caps remain absolute ceilings regardless of how serious the underlying evasion was."
+      }
+    },
+    {
+      "number": "O-XXXVIII-5",
+      "title": "Where defendant may be called upon to furnish security for production of property",
+      "raw_text": "(1) Where, at any stage of a suit, the Court is satisfied, by affidavit or otherwise, that the defendant, with intent to obstruct or delay the execution of any decree that may be passed against him,— (a) is about to dispose of the whole or any part of his property, or (b) is about to remove the whole or any part of his property from the local limits of the jurisdiction of the Court, the Court may direct the defendant, within a time to be fixed by it, either to furnish security, in such sum as may be specified in the order, to produce and place at the disposal of the Court, when required, the said property or the value of the same, or such portion thereof as may be sufficient to satisfy the decree, or to appear and show cause why he should not furnish security. (2) The plaintiff shall, unless the Court otherwise directs, specify the property required to be attached and the estimated value thereof. (3) The Court may also in the order direct the conditional attachment of the whole or any portion of the property so specified. (4) If an order of attachment is made without complying with the provisions of sub-rule (1) of this rule, such attachment shall be void.",
+      "key_terms": [
+        "intent to obstruct/delay execution",
+        "imminent disposal or removal of property",
+        "conditional attachment",
+        "void attachment for non-compliance"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the attachment-branch gateway Rule, structurally parallel to Rule 1's arrest gateway — where the Court is satisfied a defendant intends to obstruct or delay eventual decree execution by disposing of or removing property from the jurisdiction, it can direct the defendant to furnish security to produce the property (or its value) when required, or to show cause against doing so. The plaintiff ordinarily must specify the property and its estimated value, and the Court may simultaneously order conditional attachment of that property pending the defendant's response. Sub-rule (4) is a strict compliance safeguard: an attachment order made without first satisfying sub-rule (1)'s requirements is simply void.",
+        "essential_elements": [
+          "Sub-rule (1): intent to obstruct/delay execution via imminent property disposal or removal from jurisdiction",
+          "Sub-rule (2): plaintiff ordinarily specifies the property and its estimated value",
+          "Sub-rule (3): Court may order conditional attachment alongside the security direction",
+          "Sub-rule (4): non-compliant attachment orders are void, not merely irregular"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sub-rule (4)'s voidness (not mere irregularity) consequence is a powerful challenge tool — an attachment order issued without a proper sub-rule (1) satisfaction finding can be attacked as a nullity rather than requiring a formal appeal to set aside."
+      }
+    },
+    {
+      "number": "O-XXXVIII-6",
+      "title": "Attachment where cause not shown or security not furnished",
+      "raw_text": "(1) Where the defendant fails to show cause why he should not furnish security, or fails to furnish the security required, within the time fixed by the Court, the Court may order that the property specified, or such portion thereof as appears sufficient to satisfy any decree which may be passed in the suit, be attached. (2) Where the defendant shows such cause or furnishes the required security, and the property specified or any portion of it has been attached, the Court shall order the attachment to be withdrawn, or make such other order as it thinks fit.",
+      "key_terms": [
+        "attachment on failure to show cause/furnish security",
+        "withdrawal on cause shown or security furnished"
+      ],
+      "breakdown": {
+        "plain_summary": "If the defendant doesn't respond adequately to the Rule 5 direction — either failing to show cause or failing to furnish the required security — the Court can order attachment of the specified property (or enough of it to cover a prospective decree). Conversely, if the defendant successfully shows cause or furnishes security after a conditional attachment was already made, the Court must withdraw that attachment or otherwise deal with it as it thinks fit.",
+        "essential_elements": [
+          "Sub-rule (1): attachment follows failure to show cause or furnish security within the fixed time",
+          "Sub-rule (2): successful cause-showing or security-furnishing leads to attachment withdrawal"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This Rule operationalizes the Rule 5 conditional-attachment mechanism into a final determination — the defendant's response (or non-response) within the fixed time is the decisive trigger for whether attachment becomes permanent (pending suit) or is lifted."
+      }
+    },
+    {
+      "number": "O-XXXVIII-7",
+      "title": "Mode of making attachment",
+      "raw_text": "Save as otherwise expressly provided, the attachment shall be made in the manner provided for the attachment of property in execution of a decree.",
+      "key_terms": [
+        "execution-attachment procedure incorporated by reference"
+      ],
+      "breakdown": {
+        "plain_summary": "Unless this Order specifically provides otherwise, pre-judgment attachment follows the same procedural mechanics as attachment in execution of a decree (governed elsewhere in the Code, principally Order XXI) — avoiding duplication of detailed attachment procedure.",
+        "essential_elements": [
+          "Default: execution-attachment procedure applies",
+          "Subject to any express departures within this Order itself"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Cross-reference Order XXI's attachment-in-execution rules whenever a procedural question about the mechanics of a Order XXXVIII attachment arises — this Rule deliberately avoids restating that machinery."
+      }
+    },
+    {
+      "number": "O-XXXVIII-8",
+      "title": "Adjudication of claim to property attached before judgment",
+      "raw_text": "Where any claim is preferred to property attached before judgment, such claim shall be adjudicated upon in the manner hereinbefore provided for the adjudication of claim to property attached in execution of a decree for the payment of money.",
+      "key_terms": [
+        "third-party claim petition",
+        "execution-claim adjudication procedure incorporated"
+      ],
+      "breakdown": {
+        "plain_summary": "If a third party claims an interest in property attached before judgment (analogous to a claim petition in execution), that claim is adjudicated using the same procedure prescribed elsewhere in the Code for third-party claims to property attached in execution of a money decree.",
+        "essential_elements": [
+          "Third-party claims to pre-judgment attached property follow the execution-claim adjudication procedure"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This incorporation by reference means claim-petition case law and procedure developed under the execution-attachment provisions (Order XXI) apply equally to pre-judgment attachment disputes under this Order."
+      }
+    },
+    {
+      "number": "O-XXXVIII-9",
+      "title": "Removal of attachment when security furnished or suit dismissed",
+      "raw_text": "Where an order is made for attachment before judgment, the Court shall order the attachment to be withdrawn when the defendant furnishes the security required, together with security for the cost of the attachment, or when the suit is dismissed.",
+      "key_terms": [
+        "mandatory withdrawal on security furnished",
+        "mandatory withdrawal on suit dismissal",
+        "security for attachment costs"
+      ],
+      "breakdown": {
+        "plain_summary": "Attachment before judgment is not meant to persist indefinitely or punitively — the Court must withdraw it once the defendant furnishes the required security (plus security for the attachment's own costs), or automatically once the suit itself is dismissed, since the underlying claim the attachment protected no longer exists.",
+        "essential_elements": [
+          "Mandatory withdrawal on furnishing of required security plus attachment-cost security",
+          "Mandatory withdrawal on dismissal of the suit"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Note the additional requirement of security for the cost of the attachment itself, not just the underlying claim — a defendant seeking withdrawal must account for both components."
+      }
+    },
+    {
+      "number": "O-XXXVIII-10",
+      "title": "Attachment before judgment not to affect rights of strangers, nor bar decree-holder from applying for sale",
+      "raw_text": "Attachment before judgment shall not affect the rights, existing prior to the attachment, of persons not parties to the suit, nor bar any person holding a decree against the defendant from applying for the sale of the property under attachment in execution of such decree.",
+      "key_terms": [
+        "pre-existing third-party rights preserved",
+        "other decree-holders' sale rights preserved"
+      ],
+      "breakdown": {
+        "plain_summary": "Pre-judgment attachment doesn't trump pre-existing rights of non-parties (e.g., a prior mortgagee or genuine prior transferee), and it doesn't block a different decree-holder (holding an unrelated decree against the same defendant) from applying to sell the attached property in execution of that other decree.",
+        "essential_elements": [
+          "Pre-existing non-party rights are unaffected by the attachment",
+          "Other decree-holders retain their right to apply for sale of the attached property in their own execution proceedings"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This confirms attachment before judgment creates only a priority/notice effect for the attaching plaintiff's eventual decree — it doesn't create an exclusive claim defeating genuinely pre-existing third-party interests or other creditors' execution rights."
+      }
+    },
+    {
+      "number": "O-XXXVIII-11",
+      "title": "Property attached before judgment not to be re-attached in execution of decree",
+      "raw_text": "Where property is under attachment by virtue of the provisions of this order and a decree is subsequently passed in favour of the plaintiff, it shall not be necessary upon an application for execution of such decree to apply for a re-attachment of the property.",
+      "key_terms": [
+        "attachment continuity into execution",
+        "no re-attachment needed"
+      ],
+      "breakdown": {
+        "plain_summary": "If the plaintiff eventually wins and gets a decree, the pre-judgment attachment automatically carries forward into the execution stage — there's no need to separately apply for a fresh attachment of the same property when seeking execution.",
+        "essential_elements": [
+          "Pre-judgment attachment continues seamlessly into execution once a decree is passed in the plaintiff's favour",
+          "No separate re-attachment application is required"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This continuity rule saves the successful plaintiff a procedural step — counsel should confirm the original attachment is still validly in force rather than assuming a fresh attachment application is needed at the execution stage."
+      }
+    },
+    {
+      "number": "O-XXXVIII-11A",
+      "title": "Provisions applicable to attachment",
+      "raw_text": "(1) The provisions of this Code applicable to an attachment made in execution of a decree shall, so far as may be, apply to an attachment made before judgment which continues after the judgment by virtue of the provisions of rule 11. (2) An attachment made before judgment in a suit which is dismissed for default shall not become revived merely by reason of the fact that the order for the dismissal of the suit for default has been set aside and the suit has been restored.",
+      "key_terms": [
+        "execution-attachment provisions apply post-judgment",
+        "no automatic revival on restoration after dismissal for default"
+      ],
+      "breakdown": {
+        "plain_summary": "Once a pre-judgment attachment carries forward into execution under Rule 11, it is thereafter governed by the ordinary execution-attachment provisions of the Code. Separately, sub-rule (2) closes a potential loophole: if the suit was dismissed for default (which would have lifted the attachment under Rule 9) and is later restored, the original attachment does not automatically spring back to life merely because the dismissal order was set aside — it must be freshly sought if still needed.",
+        "essential_elements": [
+          "Sub-rule (1): ordinary execution-attachment provisions govern the attachment once it continues into execution",
+          "Sub-rule (2): no automatic revival of a Rule 9-withdrawn attachment merely because the suit's default dismissal was later set aside"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Sub-rule (2) is an important trap for a plaintiff who successfully restores a dismissed suit — don't assume the earlier attachment is still in place; a fresh attachment application is needed since restoration alone does not revive it."
+      }
+    },
+    {
+      "number": "O-XXXVIII-12",
+      "title": "Agricultural produce not attachable before judgment",
+      "raw_text": "Nothing in this Order shall be deemed to authorise the plaintiff to apply for the attachment of any agricultural produce in the possession of an agriculturist, or to empower the Court to order the attachment or production of such produce.",
+      "key_terms": [
+        "agriculturist's produce exemption"
+      ],
+      "breakdown": {
+        "plain_summary": "This Order cannot be used to attach agricultural produce in the possession of an agriculturist before judgment — a protective carve-out shielding farmers' produce from this extraordinary pre-judgment remedy.",
+        "essential_elements": [
+          "Absolute carve-out: agricultural produce in an agriculturist's possession cannot be attached before judgment under this Order"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a substantive, not merely procedural, limitation — it should be raised as a threshold objection whenever a plaintiff seeks pre-judgment attachment of produce held by an agriculturist defendant."
+      }
+    },
+    {
+      "number": "O-XXXVIII-13",
+      "title": "Small Cause Court not to attach immovable property",
+      "raw_text": "Nothing in this Order shall be deemed to empower any Court of Small Causes to make an order for the attachment of immovable property.",
+      "key_terms": [
+        "Small Cause Court jurisdictional limit on immovable property"
+      ],
+      "breakdown": {
+        "plain_summary": "A Court of Small Causes — whose jurisdiction is generally confined to smaller money claims with simplified procedure — cannot use this Order to attach immovable property before judgment, reflecting the general limitation on Small Cause Courts' powers over immovable property.",
+        "essential_elements": [
+          "Absolute jurisdictional bar: Small Cause Courts cannot attach immovable property under this Order"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This mirrors the broader jurisdictional principle that Small Cause Courts generally do not deal with immovable property matters — a pre-judgment attachment application before such a Court should be confined to movable property or security alternatives."
+      }
     }
   ]
 }
