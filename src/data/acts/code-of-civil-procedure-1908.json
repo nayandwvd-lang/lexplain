@@ -19587,6 +19587,438 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "This mirrors the broader jurisdictional principle that Small Cause Courts generally do not deal with immovable property matters — a pre-judgment attachment application before such a Court should be confined to movable property or security alternatives."
       }
+    },
+    {
+      "number": "O-XXXIX",
+      "title": "Temporary Injunctions and Interlocutory Orders — Overview",
+      "raw_text": "ORDER XXXIX. Temporary injunctions and interlocutory orders.",
+      "key_terms": [
+        "temporary injunction",
+        "prima facie case",
+        "balance of convenience",
+        "irreparable injury",
+        "interlocutory order",
+        "status quo"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXXIX is the CPC's primary engine for interim relief — it lets a Court freeze a dangerous situation (wasting, damaging, alienating, or wrongfully selling suit property; a defendant threatening to defeat a decree by disposing of assets or dispossessing the plaintiff) while the underlying suit is still being tried, and separately lets the Court make practical housekeeping orders (interim sale of perishables, detention/inspection of property, deposit of money) so the suit's subject-matter survives intact until judgment. Rules 1-5 govern temporary injunctions proper — when granted, on what notice, how disobedience is punished, and how an injunction can later be varied or discharged. Rules 6-10 govern other interlocutory orders that are not injunctions but serve the same preservation purpose.",
+        "essential_elements": [
+          "Rules 1-2: substantive grounds for granting a temporary injunction (property in danger; defendant threatening to defraud creditors, dispossess, or injure the plaintiff; restraining breach of contract/injury)",
+          "Rule 2A: disobedience of an injunction is punishable by attachment of property and/or civil detention up to three months",
+          "Rule 3 & 3A: notice to the opposite party is the default rule; ex parte injunctions require recorded reasons and fast disposal within 30 days",
+          "Rule 4: injunctions can be discharged, varied, or set aside, subject to safeguards against both false-statement abuse and frivolous re-litigation",
+          "Rules 6-10: interim sale, detention/preservation/inspection, early possession on revenue default, and deposit of money/property in Court",
+          "The twin judge-made tests overlaying this Order — prima facie case, balance of convenience, and irreparable injury — are not textually in the CPC but are the settled threshold every applicant must cross"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat Rules 1-5 (the injunction rules proper) and Rules 6-10 (the miscellaneous interlocutory-order rules) as two distinct toolkits serving the same preservation goal — an advocate drafting an interim application should identify precisely which Rule's factual predicate is met (danger to property under Rule 1(a), threatened fraud/dispossession under Rule 1(b)/(c), or a non-injunction need like interim sale under Rule 6) rather than reflexively praying for 'injunction' when a Rule 6/7/10 order may be the more precise and defensible remedy."
+      }
+    },
+    {
+      "number": "O-XXXIX-1",
+      "title": "Cases in which temporary injunction may be granted",
+      "raw_text": "Where in any suit it is proved by affidavit or otherwise— (a) that any property in dispute in a suit is in danger of being wasted, damaged or alienated by any party to the suit, or wrongfully sold in execution of a decree, or (b) that the defendant threatens, or intends, to remove or dispose of his property with a view to defrauding his creditors, (c) that the defendant threatens to dispossess, the plaintiff or otherwise cause injury to the plaintiff in relation to any property in dispute in the suit, the Court may by order grant a temporary injunction to restrain such act, or make such other order for the purpose of staying and preventing the wasting, damaging, alienation, sale, removal or disposition of the property or dispossession of the plaintiff, or otherwise causing injury to the plaintiff in relation to any property in dispute in the suit, as the Court thinks fit, until the disposal of the suit or until further orders.",
+      "key_terms": [
+        "property in danger",
+        "wasted damaged alienated",
+        "wrongful execution sale",
+        "defraud creditors",
+        "dispossess plaintiff",
+        "preventive order"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 1 lists three independent factual gateways, any one of which — proved by affidavit or otherwise — lets the Court grant a temporary injunction or any other suitable preservation order: (a) suit property is at risk of being wasted, damaged, alienated, or wrongfully sold in execution by any party; (b) the defendant is threatening to dispose of his own property to defraud his creditors (protecting the plaintiff's future ability to execute a money decree); or (c) the defendant threatens to dispossess the plaintiff or otherwise injure the plaintiff's interest in suit property. The remedy is not limited to a clause-matching injunction — the Court can craft 'such other order' it thinks fit to stop the harm, running until disposal of the suit or further orders.",
+        "essential_elements": [
+          "Clause (a): property in dispute in danger of waste, damage, alienation, or wrongful execution sale, by any party to the suit",
+          "Clause (b): defendant threatens/intends to remove or dispose of his own property to defraud creditors",
+          "Clause (c): defendant threatens to dispossess the plaintiff or otherwise cause injury regarding suit property",
+          "Proof may be by affidavit or otherwise — no rigid evidentiary mode mandated at the interim stage",
+          "Relief can be an injunction or any other order the Court thinks fit to stay/prevent the specified harm",
+          "Operates until disposal of the suit or until further orders — inherently provisional, not final"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This Rule supplies only the statutory gateway; the judge-made trinity of prima facie case, balance of convenience, and irreparable injury (settled since Dalpat Kumar v. Prahlad Singh and a long line of Supreme Court authority) is the actual test applied once a Rule 1 clause is shown — a plaint or IA that proves only a Rule 1(a)/(b)/(c) fact without addressing all three judicial tests will usually fail at the hearing stage even though it is textually compliant."
+      }
+    },
+    {
+      "number": "O-XXXIX-2",
+      "title": "Injunction to restrain repetition or continuance of breach",
+      "raw_text": "(1) In any suit for restraining the defendant from committing a breach of contract or other injury of any kind, whether compensation is claimed in the suit or not, the plaintiff may, at any time after the commencement of the suit, and either before or after judgment, apply to the Court for a temporary injunction to restrain the defendant from committing the breach of contract or injury complained, of, or any breach of contract or injury of a like kind arising out of the same contract or relating to the same property or right. (2) The Court may by order grant such injunction, on such terms as to the duration of the injunction, keeping an account, giving security, or otherwise, as the Court thinks fit.",
+      "key_terms": [
+        "breach of contract",
+        "injury of like kind",
+        "before or after judgment",
+        "security and terms"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 2 addresses a different scenario from Rule 1 — not preservation of disputed property, but stopping ongoing or repeated wrongful conduct. Where the suit itself is to restrain a breach of contract or any other injury, the plaintiff can seek a temporary injunction against that same breach/injury, or any similar breach/injury arising from the same contract or relating to the same property/right — and can do so at any stage, even after judgment, not just before trial. The Court has broad discretion to condition the injunction on its duration, an undertaking to keep accounts, furnishing security, or other terms.",
+        "essential_elements": [
+          "Available in suits specifically framed to restrain breach of contract or any other injury",
+          "Applicable whether or not compensation/damages are also claimed in the suit",
+          "Can be applied for at any time after suit commencement, including after judgment",
+          "Covers the specific breach/injury complained of and any like breach/injury from the same contract or relating to the same property/right",
+          "Court may attach conditions: duration, accounting obligations, security, or other terms it thinks fit"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 2's 'after judgment' language is easy to overlook — it confirms that a Rule 2 injunction is not purely a pre-trial device but can continue to operate as an enforcement safeguard even once a decree restraining breach has been passed, pending further compliance or appeal."
+      }
+    },
+    {
+      "number": "O-XXXIX-2A",
+      "title": "Consequence of disobedience or breach of injunction",
+      "raw_text": "(1) In the case of disobedience of any injunction granted or other order made under rule 1 or rule 2 or breach of any of the terms on which the injunction was granted or the order made, the Court granting the injunction or making the order, or any Court to which the suit or proceeding is transferred, may order the property of the person guilty of such disobedience or breach to be attached, and may also order such person to be detained in the civil prison for a term not exceeding three months, unless in the meantime the Court directs his release. (2) No attachment made under this rule shall remain in force for more than one year, at the end of which time, if the disobedience or breach continues, the property attached may be sold and out of the proceeds, the Court may award such compensation as it thinks fit to the injured party and shall pay the balance, if any, to the party entitled thereto.",
+      "key_terms": [
+        "disobedience of injunction",
+        "attachment of property",
+        "civil imprisonment three months",
+        "one-year attachment cap",
+        "compensation from sale proceeds"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 2A is the Order's enforcement teeth: once an injunction under Rule 1 or Rule 2 (or any order made under them, or any term on which either was granted) is disobeyed or breached, the granting Court — or any Court to which the matter is later transferred — may attach the contemnor's property and/or commit the contemnor to civil prison for up to three months, subject to earlier release at the Court's discretion. The attachment itself cannot run indefinitely: it is capped at one year, after which, if the disobedience persists, the Court may sell the attached property, award compensation to the injured party from the proceeds, and pay any surplus to whoever is entitled to it.",
+        "essential_elements": [
+          "Trigger: disobedience of an injunction/order under Rule 1 or Rule 2, or breach of any term attached to it",
+          "Remedies available together or separately: attachment of the disobedient party's property; civil detention up to three months",
+          "Detention is subject to earlier Court-directed release",
+          "Attachment is time-capped at one year",
+          "If disobedience continues past one year, attached property may be sold; proceeds fund compensation to the injured party, with balance paid to the person entitled"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 2A proceedings are quasi-penal and must be pursued with procedural rigour — courts insist on clear proof of knowledge of the order and deliberate disobedience before attaching property or ordering detention; a loosely drafted contempt application inviting only vague allegations of non-compliance risks dismissal even where the underlying injunction was validly granted."
+      }
+    },
+    {
+      "number": "O-XXXIX-3",
+      "title": "Before granting injunction, Court to direct notice to opposite party",
+      "raw_text": "The Court shall in all cases, except where it appears that the object of granting the injunction would be defeated by the delay, before granting an injunction, direct notice of the application for the same to be given to the opposite party: Provided that, where it is proposed to grant an injunction without giving notice of the application to the opposite party, the Court shall record the reasons for its opinion that the object of granting the injunction would be defeated by delay, and require the applicant— (a) to deliver to the opposite party, or to send to him by registered post, immediately after the order granting the injunction has been made, a copy of the application for injunction together with— (i) a copy of the affidavit filed in support of the application; (ii) a copy of the plaint; and (iii) copies of documents on which the applicant, relies, and (b) to file, on the day on which such injunction is granted or on the day immediately following that day, an affidavit stating that the copies aforesaid have been so delivered or sent.",
+      "key_terms": [
+        "notice to opposite party",
+        "ex parte injunction",
+        "recorded reasons",
+        "delivery of application copies",
+        "affidavit of service"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 3 makes prior notice to the opposite party the default rule before any injunction is granted, departing from it only where the Court is satisfied that notice itself would defeat the injunction's purpose (the classic 'if we tell them, they'll do the very thing we're trying to stop' scenario). Where the Court does proceed ex parte, the proviso imposes a strict accountability regime: the Court must record its reasons for believing delay would defeat the object, and the applicant must promptly deliver (in person or by registered post) a full packet — the injunction application, supporting affidavit, plaint copy, and relied-upon documents — to the opposite party immediately after the order is made, then file an affidavit of service by the next day.",
+        "essential_elements": [
+          "Default rule: notice to the opposite party before granting any injunction",
+          "Exception: object of injunction would be defeated by the delay of giving notice",
+          "If ex parte: Court must record reasons for its opinion that delay would defeat the object",
+          "Applicant must deliver/send by registered post a full copy packet (application, affidavit, plaint, relied-upon documents) immediately after the order",
+          "Applicant must file an affidavit of such delivery/service on the day of the order or the day immediately following"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "An ex parte injunction obtained without the Court recording specific reasons for dispensing with notice, or without the applicant complying with the proviso's delivery-and-affidavit-of-service obligations, is vulnerable to being vacated on that procedural ground alone — defence counsel should always check compliance with Rule 3's proviso as a first line of attack against an ex parte order."
+      }
+    },
+    {
+      "number": "O-XXXIX-3A",
+      "title": "Court to dispose of application for injunction within thirty days",
+      "raw_text": "Where an injunction has been granted without giving notice to the opposite party, the Court shall make an endeavour to finally dispose of the application within thirty days from the date on which the injunction was granted; and where it is unable so to do, it shall record its reasons for such inability.",
+      "key_terms": [
+        "thirty-day disposal",
+        "ex parte injunction follow-up",
+        "recorded reasons for delay"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 3A is a time-bound accountability check that follows directly from an ex parte injunction under Rule 3 — the Court must endeavour to finally dispose of the injunction application (i.e., hear the opposite party and decide whether to confirm, modify, or vacate the ex parte order) within thirty days of granting it. If that is not achieved, the Court must record its reasons for the inability, creating a documented trail against indefinite, unreviewed ex parte orders.",
+        "essential_elements": [
+          "Applies only where the injunction was granted without notice to the opposite party",
+          "Court must endeavour to finally dispose of the application within 30 days of grant",
+          "If unable to meet the 30-day timeline, the Court must record reasons for the inability"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 3A is directory ('endeavour') rather than a hard jurisdictional bar, but an ex parte injunction that has lingered well past thirty days without any recorded reason is a strong, often decisive, ground for the aggrieved party to press for early hearing or vacation of the order."
+      }
+    },
+    {
+      "number": "O-XXXIX-4",
+      "title": "Order for injunction may be discharged, varied or set aside",
+      "raw_text": "Any order for an injunction may be discharged, or varied, or set aside by the Court, on application made thereto by any party dissatisfied with such order: Provided that if in an application for temporary injunction or in any affidavit supporting such application, a party has knowingly made a false or misleading statement in relation to a material particular and the injunction was granted without giving notice to the opposite party, the Court shall vacate the injunction unless, for reasons to be recorded, it considers that it is not necessary so to do in the interests of justice: Provided further that where an order for injunction has been passed after giving to a party an opportunity of being heard, the order shall not be discharged, varied or set aside on the application of that party except where such discharge, variation or setting aside has been necessitated by a change in the circumstances, or unless the Court is satisfied that the order has caused undue hardship to that party.",
+      "key_terms": [
+        "discharge variance set aside",
+        "false or misleading statement",
+        "mandatory vacation",
+        "change in circumstances",
+        "undue hardship"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 4 gives any dissatisfied party a route to challenge an existing injunction, but structures that challenge differently depending on how the injunction was obtained. If an ex parte injunction rested on a knowingly false or misleading material statement in the application or supporting affidavit, the first proviso makes vacation mandatory unless the Court records reasons that vacating is not necessary in the interests of justice — a strong punitive default against abuse of ex parte relief. Conversely, if the injunction was granted only after giving the party a hearing (contested, on notice), the second proviso raises the bar the other way: it cannot be discharged/varied/set aside on that same party's later application except where circumstances have genuinely changed, or the order is causing undue hardship — preventing repetitive re-litigation of a fully contested order.",
+        "essential_elements": [
+          "General rule: any party dissatisfied with an injunction order may apply for discharge, variation, or setting aside",
+          "First proviso: knowing false/misleading material statement + injunction granted without notice = mandatory vacation, subject to a recorded-reasons exception in the interests of justice",
+          "Second proviso: injunction granted after a hearing can only be disturbed, on that party's own application, for a genuine change in circumstances or proven undue hardship"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The two provisos point opposite directions and must not be conflated: the first is a sanction against the applicant who obtained ex parte relief by misleading the Court; the second is a shield protecting an injunction obtained after a contested hearing from being reopened on the same facts merely because the losing party is dissatisfied — pleadings challenging an injunction should identify at the outset which proviso (if either) governs."
+      }
+    },
+    {
+      "number": "O-XXXIX-5",
+      "title": "Injunction to corporation binding on its officers",
+      "raw_text": "An injunction directed to a corporation is binding not only on the corporation itself, but also on all members and officers of the corporation whose personal action it seeks to restrain.",
+      "key_terms": [
+        "corporation",
+        "officers bound",
+        "personal action restrained"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 5 closes an obvious evasion route — an injunction against a corporate entity would be worthless if its directors, officers, or members could simply carry out the restrained act in their individual capacity and claim the order never bound them personally. Rule 5 makes clear that the injunction extends to and binds every officer or member whose personal action the injunction seeks to restrain, not just the corporate legal person.",
+        "essential_elements": [
+          "Injunction against a corporation binds the corporation itself",
+          "It also binds all members and officers whose personal action the injunction seeks to restrain"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Contempt/disobedience proceedings under Rule 2A against a non-complying corporation should be drafted to name and proceed against the specific officers whose personal conduct violated the order, since Rule 5 is what gives the Court jurisdiction to attach their property or detain them individually despite the injunction being formally 'directed to' the company."
+      }
+    },
+    {
+      "number": "O-XXXIX-6",
+      "title": "Power to order interim sale",
+      "raw_text": "The Court may, on the application of any party to a suit, order the sale, by any person named in such order, and in such manner and on such terms as it thinks fit, of any movable property, being the subject-matter of such suit, or attached before judgment in such suit, which is subject to speedy and natural delay, or which for any other just and sufficient cause, it may be desirable to have sold at once.",
+      "key_terms": [
+        "interim sale",
+        "movable property",
+        "speedy and natural decay",
+        "perishables",
+        "sold at once"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 6 is a practical housekeeping provision, not an injunction — where movable property that is the subject-matter of the suit (or has been attached before judgment) is perishable or otherwise liable to speedy and natural decay, or where any other just and sufficient cause makes immediate sale desirable, the Court can order its sale by a named person, on whatever terms and in whatever manner it thinks fit, rather than letting the property's value evaporate while the suit is pending. The sale proceeds, not the physical goods, then stand in for the property for the remainder of the litigation.",
+        "essential_elements": [
+          "Applies to movable property that is the suit's subject-matter or attached before judgment",
+          "Ground: property subject to speedy and natural decay (perishables), or any other just and sufficient cause for immediate sale",
+          "Court names the person to conduct the sale and fixes manner and terms",
+          "Application must be made by a party to the suit"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 6 is routinely invoked for perishable agricultural produce, livestock, or rapidly depreciating goods caught up in attachment-before-judgment or injunction disputes — converting the asset to cash preserves its value for whichever party ultimately succeeds, and counsel should move promptly under this Rule rather than let perishable attached property simply rot pending trial."
+      }
+    },
+    {
+      "number": "O-XXXIX-7",
+      "title": "Detention, preservation, inspection, etc., of subject-matter of suit",
+      "raw_text": "(1) The Court may, on the application of any party to a suit, and on such terms as it thinks fit,— (a) make an order for the detention, preservation or inspection of any property which is the subject-matter of such suit, or as to which any question may arise therein; (b) for all or any of the purposes aforesaid authorise any person to enter upon or into any land or building in the possession of any other party to such suit; and (c) for all or any of the purposes aforesaid authorise any samples to be taken, or any observation to be made or experiment to be tried, which may seem necessary or expendient for the purpose of obtaining full information or evidence. (2) The provisions as to execution of process shall apply, mutatis mutandis, to persons authorised to enter under this rule.",
+      "key_terms": [
+        "detention preservation inspection",
+        "entry authorisation",
+        "samples and experiments",
+        "execution of process mutatis mutandis"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 7 equips the Court with evidence-gathering and asset-preservation powers distinct from both injunctions and interim sale — it may order detention, preservation, or inspection of property that is the suit's subject-matter or relevant to a question in the suit, authorise entry onto land or into a building in another party's possession to carry that out, and authorise taking samples, making observations, or conducting experiments necessary to obtain full information or evidence. Sub-rule (2) borrows the CPC's execution-of-process machinery (mutatis mutandis) to back up anyone authorised to enter under this Rule, giving the authorisation real enforceability.",
+        "essential_elements": [
+          "Covers detention, preservation, or inspection of property that is the suit's subject-matter or relevant to an issue in it",
+          "Can authorise entry upon land/buildings in another party's possession for those purposes",
+          "Can authorise sampling, observation, or experiment necessary/expedient to obtain full information or evidence",
+          "Execution-of-process provisions apply mutatis mutandis to persons authorised to enter under the Rule"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 7 is the standard vehicle for a commissioner's inspection or a 'local investigation'-style order in civil suits involving boundary disputes, construction defects, or disputed physical conditions — draft the application to specify precisely what detention/preservation/inspection/sampling is sought, since the Court's order (and its execution-backed enforceability under sub-rule (2)) will track the scope actually requested."
+      }
+    },
+    {
+      "number": "O-XXXIX-8",
+      "title": "Application for such orders to be after notice",
+      "raw_text": "(1) An application by the plaintiff for an order under rule 6 or rule 7 may be made at any time after institution of the suit. (2) An application by the defendant for a like order may be made at any time after appearance. (3) Before making an order under rule 6 or rule 7 on an application made for the purpose, the Court shall, except where it appears that the object of making such order would be defeated by the delay, direct notice thereof to be given to the opposite party.",
+      "key_terms": [
+        "timing of application",
+        "plaintiff after institution",
+        "defendant after appearance",
+        "notice before order"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 8 fixes the procedural timing and notice requirements for the interim-sale and detention/preservation/inspection orders under Rules 6 and 7. A plaintiff may apply any time after the suit is instituted; a defendant may apply any time after entering appearance. As with injunctions under Rule 3, notice to the opposite party before making the order is the default, dispensed with only where giving notice would defeat the order's object.",
+        "essential_elements": [
+          "Plaintiff's application under Rule 6 or 7: any time after institution of the suit",
+          "Defendant's application under Rule 6 or 7: any time after appearance",
+          "Default requirement: notice to the opposite party before the order is made",
+          "Exception: where the object of the order would be defeated by the delay of giving notice"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The notice default under Rule 8(3) mirrors Rule 3's ex parte logic but without Rule 3's elaborate proviso safeguards (recorded reasons, mandatory copy-delivery, service affidavit) — courts nonetheless tend to import similar rigour by analogy when dispensing with notice for Rule 6/7 orders, so a careful applicant should still justify urgency on the record even though the text of Rule 8 is comparatively sparse."
+      }
+    },
+    {
+      "number": "O-XXXIX-9",
+      "title": "When party may be put in immediate possession of land the subject-matter of suit",
+      "raw_text": "Where land paying revenue to Government, or a tenure liable to sale, is the subject-matter of a suit, if the party in possesion of such land or tenure neglects to pay the Government revenue, or the rent due to the proprietor of the tenure, as the case may be, and such land or tenure is consequently ordered to be sold, any other party to the suit claiming to have an interest in such land or tenure may, upon payment of the revenue or rent due previously to the sale (and with or without security at the discretion of the Court), be put in immediate possession of the land or tenure; and the Court in its decree may award against the defaulter the amount so paid, with interest thereon at such rate as the Court thinks fit, or may charge the amount so paid, with interest thereon at such rate as the Court orders, in any adjustment of accounts which may be directed in the decree passed in the suit.",
+      "key_terms": [
+        "revenue-paying land",
+        "tenure liable to sale",
+        "defaulting party",
+        "payment of revenue before sale",
+        "immediate possession"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 9 addresses a specific scenario involving revenue-paying land or a saleable tenure that is itself the suit's subject-matter: if the party currently in possession defaults on Government revenue or rent due to the tenure's proprietor, triggering an order for the land/tenure's sale, any other party to the suit who claims an interest in it can step in — by paying the overdue revenue/rent before the sale, with or without security as the Court directs — and be put into immediate possession instead of letting the sale go through. The decree can then make the defaulting party liable to reimburse the amount paid (with interest), either as a direct money award or as an adjustment in the final accounting between the parties.",
+        "essential_elements": [
+          "Subject-matter: land paying Government revenue, or a tenure liable to sale",
+          "Trigger: possessing party neglects to pay the revenue/rent, leading to an order for sale",
+          "Any other party claiming an interest may pay the overdue amount before sale (with or without Court-directed security) and obtain immediate possession",
+          "Decree may award the defaulting party liable for the amount paid plus interest, directly or via account adjustment"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a narrow, fact-specific preservation tool aimed at preventing loss of revenue-paying land through a defaulting co-litigant's neglect — it is rarely invoked in modern practice but remains relevant in partition and tenancy-adjacent suits where one party's default could otherwise force a forced sale of jointly disputed land."
+      }
+    },
+    {
+      "number": "O-XXXIX-10",
+      "title": "Deposit of money, etc., in Court",
+      "raw_text": "Where the subject-matter of a suit is money or some other thing capable of delivery and any party thereto admits that he holds such money or other thing as a trustee for another party, or that it belongs or is due to another party, the Court may order the same to be deposited in Court or delivered to such last-named party, with or without security, subject to the further direction of the Court.",
+      "key_terms": [
+        "admitted trust",
+        "deposit in Court",
+        "money or thing capable of delivery",
+        "admission of liability"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 10 lets the Court act on a party's own admission — where the suit's subject-matter is money or a deliverable thing, and a party admits holding it as trustee for, or owing/belonging to, another party, the Court can order that money or thing deposited into Court, or delivered directly to the party entitled, with or without security, subject to further Court direction. This avoids leaving admittedly-owed money or property exposed to dissipation risk for the remainder of the suit when there is no genuine dispute that it belongs to someone else.",
+        "essential_elements": [
+          "Subject-matter: money or some other thing capable of delivery",
+          "Trigger: a party admits holding it as trustee for, or that it belongs/is due to, another party",
+          "Court may order deposit in Court, or direct delivery to the party entitled",
+          "May be with or without security, subject to further directions"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 10 is a useful, underused tool wherever a defendant's own pleadings or affidavit concede that specific money or property is not genuinely theirs — rather than waiting for final judgment, a plaintiff should move promptly under this Rule to secure the admitted amount in Court custody before it can be dissipated."
+      }
+    },
+    {
+      "number": "O-XL",
+      "title": "Appointment of Receivers — Overview",
+      "raw_text": "ORDER XL. Appointment of receivers.",
+      "key_terms": [
+        "receiver",
+        "just and convenient",
+        "possession custody management",
+        "remuneration",
+        "receiver's duties",
+        "Collector as receiver"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XL equips the Court with one of its most powerful interim tools — the power to appoint a receiver to take property out of a party's hands and place it under neutral court-supervised management whenever it appears 'just and convenient' to do so, whether before or after decree. The receiver becomes, in effect, an officer of the Court standing in the owner's shoes for purposes of managing, protecting, and realising the property, subject to remuneration fixed by the Court, strict accounting and security duties, and the Court's own enforcement powers if those duties are breached. Rule 5 adds a specialised variant allowing the Collector to be appointed receiver for revenue-paying land with his consent.",
+        "essential_elements": [
+          "Rule 1: broad 'just and convenient' discretion to appoint a receiver, remove a party from possession, and confer ownership-like powers, before or after decree",
+          "Rule 1(2): the Court cannot use this power to remove someone who a party to the suit has no present right to remove — receivership cannot be used to dispossess a true stranger to the dispute",
+          "Rule 2: Court fixes the receiver's remuneration by general or special order",
+          "Rule 3: receiver's core duties — security, periodic accounts, paying over amounts due, liability for wilful default/gross negligence",
+          "Rule 4: enforcement against a defaulting receiver — attachment and sale of the receiver's own property to make good any shortfall or loss",
+          "Rule 5: Collector may be appointed receiver, with his consent, for Government-revenue-paying land"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Receivership is an extraordinary, discretionary remedy precisely because it displaces a party's possession before final adjudication of title — pleadings seeking a receiver should always address why lesser interim remedies (injunction, interim sale, deposit under Order XXXIX) are inadequate, since courts are cautious about granting it, especially before decree, absent strong evidence of mismanagement, waste, or imminent loss."
+      }
+    },
+    {
+      "number": "O-XL-1",
+      "title": "Appointment of receivers",
+      "raw_text": "(1) Where it appears to the Court to be just and convenient, the Court may by order— (a) appoint a receiver of any property, whether before or after decree; (b) remove any person from the possession or custody of the property; (c) commit the same to the possession, custody or management of the receiver; and (d) confer upon the receiver all such powers, as to bringing and defending suits and for the realisation, management, protection, preservation and improvement of the property, the collection of the rents and profits thereof, the application and disposal of such rents and profits, and the execution of documents as the owner himself has, or such of those powers as the Court thinks fit. (2) Nothing in this rule shall authorise the Court to remove from the possession or custody of property any person whom any party to the suit has not a present right so to remove.",
+      "key_terms": [
+        "just and convenient",
+        "before or after decree",
+        "removal from possession",
+        "receiver's powers",
+        "owner-equivalent powers",
+        "no removal of true stranger"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 1 is the source of the receivership power itself, framed in deliberately broad 'just and convenient' discretionary language. The Court may appoint a receiver for any property at any stage (before or after decree), remove the current possessor, commit the property to the receiver's possession/custody/management, and clothe the receiver with powers as extensive as the owner's own — suing and being sued regarding the property, realising and managing it, protecting and improving it, collecting and disposing of rents/profits, and executing documents — or a more limited subset the Court thinks appropriate. Sub-rule (2) is a crucial limiting principle: the Court cannot use receivership to dispossess someone whom no party to the suit currently has the right to dispossess — i.e., it cannot be weaponised against a genuine third party outside the litigation.",
+        "essential_elements": [
+          "Trigger standard: 'just and convenient' — a broad equitable discretion, not a fixed checklist",
+          "Can be exercised before or after decree",
+          "Court may remove the current possessor and commit the property to the receiver",
+          "Receiver may be given owner-equivalent powers: suits, realisation, management, protection, preservation, improvement, rent/profit collection and disposal, document execution",
+          "Court may confer all such powers or only such of them as it thinks fit — scope is tailorable",
+          "Sub-rule (2) bars using this power to remove a person whom no party to the suit has a present right to remove"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Because Rule 1 offers only the open-textured 'just and convenient' standard, successful receivership applications in practice marshal evidence of concrete risk — mismanagement, embezzlement, waste, deadlock between co-owners, or an uncollectable rent stream — and always confirm the person to be removed is genuinely a party (or privy) to the suit, not a stranger protected by sub-rule (2)."
+      }
+    },
+    {
+      "number": "O-XL-2",
+      "title": "Remuneration",
+      "raw_text": "The Court may by general or special order fix the amount to be paid as remuneration for the services of the receiver.",
+      "key_terms": [
+        "receiver's remuneration",
+        "general or special order"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 2 is a short but practically important provision: the receiver does not set his own fee, and is not left to private negotiation with the parties — the Court itself fixes the remuneration, either by a general order (e.g., a standing scale) or a special order tailored to the particular receivership. This keeps the receiver accountable to the Court as its own officer, not to either litigant.",
+        "essential_elements": [
+          "Remuneration is fixed by the Court, not agreed privately between the receiver and a party",
+          "Fixation may be by general order or special order"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Disputes over a receiver's fees should be raised before the appointing Court by application, not resolved by informal arrangement with the receiver — any side-arrangement risks being disregarded since only a Court order under Rule 2 fixes what is properly payable."
+      }
+    },
+    {
+      "number": "O-XL-3",
+      "title": "Duties",
+      "raw_text": "Every receiver so appointed shall— (a) furnish such security (if any) as the Court thinks fit, duly to account for what he shall receive in respect of the property; (b) submit his accounts at such periods and in such form as the Court directs; (c) pay the amount due from him as the Court directs; and (d) be responsible for any loss occasioned to the property by his wilful default or gross negligence.",
+      "key_terms": [
+        "security for accounting",
+        "periodic accounts",
+        "payment as directed",
+        "wilful default",
+        "gross negligence"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 3 sets out the four core duties every receiver owes once appointed: furnishing security (if the Court requires it) to guarantee faithful accounting; submitting accounts at the periods and in the form the Court directs; paying over amounts due as directed; and bearing personal responsibility for any loss to the property caused by his own wilful default or gross negligence. These duties convert the receiver from a mere custodian into an accountable fiduciary under continuous Court supervision.",
+        "essential_elements": [
+          "Security for due accounting, where the Court requires it",
+          "Periodic account submission in the Court-directed form and frequency",
+          "Payment of amounts due as the Court directs",
+          "Personal liability for loss caused by wilful default or gross negligence (not mere ordinary business risk)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The wilful-default/gross-negligence standard in clause (d) is a meaningful liability threshold — ordinary commercial losses or bona fide management decisions that turn out poorly do not, without more, make the receiver personally liable; applications to surcharge a receiver's account should be pleaded with specific facts showing wilfulness or gross (not mere simple) negligence."
+      }
+    },
+    {
+      "number": "O-XL-4",
+      "title": "Enforcement of receiver's duties",
+      "raw_text": "Where a receiver— (a) fails to submit his accounts at such periods and in such form as the Court directs, or (b) fails to pay amount due from him as the Court directs, or (c) occasions loss to the property by his wilful default or gross negligence, the Court may direct his property to be attached and may sell such property, and may apply the proceeds to make good any amount found to be due from him or any loss occasioned by him, and shall pay the balance (if any) to the receiver.",
+      "key_terms": [
+        "enforcement against receiver",
+        "attachment of receiver's property",
+        "sale and application of proceeds",
+        "balance to receiver"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 4 gives the Court direct, self-executing enforcement power against a defaulting receiver, mirroring Rule 2A's logic for injunction-disobedience — if the receiver fails to submit accounts as directed, fails to pay over amounts due, or causes loss through wilful default/gross negligence (the same Rule 3(d) standard), the Court may attach and sell the receiver's own property and apply the proceeds to satisfy whatever is found due or whatever loss was occasioned, paying any surplus back to the receiver. This gives real teeth to Rule 3's duties without requiring a fresh separate suit against the receiver.",
+        "essential_elements": [
+          "Grounds: failure to submit accounts as directed; failure to pay amounts due as directed; loss from wilful default or gross negligence",
+          "Remedy: attachment and sale of the receiver's own property",
+          "Proceeds applied first to the amount due or loss occasioned",
+          "Any balance after satisfaction is paid back to the receiver"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Because Rule 4 allows the Court to proceed directly against the receiver's personal property without a separate suit, a party seeking to surcharge a non-compliant receiver should move by application in the same suit rather than filing independent proceedings, which would be procedurally redundant given this self-contained enforcement mechanism."
+      }
+    },
+    {
+      "number": "O-XL-5",
+      "title": "When Collector may be appointed receiver",
+      "raw_text": "Where the property is land paying revenue to the Government, or land of which the revenue has been assigned or redeemed, and the Court considers that the interests of those concerned will be promoted by the management of the Collector, the Court may, with the consent of the Collector, appoint him to be receiver of such property.",
+      "key_terms": [
+        "Collector as receiver",
+        "revenue-paying land",
+        "assigned or redeemed revenue",
+        "consent of Collector"
+      ],
+      "breakdown": {
+        "plain_summary": "Rule 5 provides a specialised appointment route for land that pays Government revenue, or whose revenue has been assigned or redeemed — if the Court believes the interests of those concerned (the litigating parties) would be best served by the Collector's management rather than an ordinary private receiver, it may appoint the Collector as receiver, but only with the Collector's own consent. This leverages the Collector's existing revenue-administration expertise and authority over such land rather than appointing an outside receiver unfamiliar with the revenue regime.",
+        "essential_elements": [
+          "Applies to land paying Government revenue, or land with assigned/redeemed revenue",
+          "Standard: interests of those concerned would be promoted by Collector's management",
+          "Requires the Collector's own consent — the Court cannot compel the Collector to serve"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Rule 5 appointments are relatively rare in modern urban litigation but remain relevant in agricultural land and estate disputes where the Collector's revenue records and administrative machinery make him uniquely positioned to manage the property pending suit — always confirm consent is actually on record before relying on a Rule 5 appointment, since want of consent renders the appointment void."
+      }
     }
   ]
 }
