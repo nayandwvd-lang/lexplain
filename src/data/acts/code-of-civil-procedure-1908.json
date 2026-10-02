@@ -16037,6 +16037,596 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "Always serve the defendant with notice before moving to set aside a security-for-costs dismissal — sub-rule (3)'s requirement is strict and an unnoticed application simply cannot succeed, regardless of how compelling the sufficient-cause showing otherwise is."
       }
+    },
+    {
+      "number": "O-XXVI",
+      "title": "Commissions — Overview",
+      "raw_text": "ORDER XXVI. Commissions.",
+      "key_terms": [
+        "commission",
+        "Commissioner",
+        "delegated judicial function"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXVI lets a Court delegate specific fact-finding tasks — examining a witness, inspecting land, auditing accounts, dividing property, selling perishable goods, or investigating a technical question — to a Commissioner, instead of doing it personally in open Court. It covers six sub-categories: commissions to examine witnesses, for local investigations, for scientific/ministerial/sale purposes, to examine accounts, to make partitions, and general provisions governing all commissions, plus a special regime for commissions requested by foreign courts.",
+        "essential_elements": [
+          "A commission is a delegation of a specific inquiry or act to a person (the Commissioner) appointed by the Court",
+          "Six functional categories: witness examination, local investigation, scientific/ministerial/sale, accounts, partition, and foreign-Tribunal commissions",
+          "The Commissioner's report and evidence ordinarily become part of the suit's record",
+          "General provisions (Rules 15-18B) — expenses, powers, privilege objections, attendance, execution deadlines — apply across all commission types"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Treat this Order as CPC's toolkit for outsourcing fact-gathering that is impractical to conduct inside the courtroom — advise clients that a commission's findings are not automatically conclusive; the Court retains supervisory power to accept, vary, or reject a Commissioner's report."
+      }
+    },
+    {
+      "number": "O-XXVI-1",
+      "title": "Cases in which Court may issue commission to examine witness",
+      "raw_text": "Any Court may in any suit issue a commission for the examination on interrogatories or otherwise of any person resident within the local limits of its jurisdiction who is exempted under this Code from attending the Court or who is from sickness or infirmity unable to attend it: Provided that a commission for examination on interrogatories shall not be issued unless the Court, for reasons to be recorded, thinks it necessary so to do. Explanation.—The Court may, for the purpose of this rule, accept a certificate purporting to be signed by a registered medical practitioner as evidence of the sickness or infirmity of any person, without calling the medical practitioner as a witness.",
+      "key_terms": [
+        "exempted from attendance",
+        "sickness or infirmity",
+        "interrogatories",
+        "medical certificate"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a witness who lives within the Court's own jurisdiction is legally exempt from attending Court, or is physically unable to attend due to illness, the Court can send a Commissioner to examine him instead of requiring his personal appearance. Examination purely on written interrogatories (rather than live questioning) needs the Court's recorded reasons. A doctor's certificate alone can prove the sickness without calling the doctor as a witness.",
+        "essential_elements": [
+          "Witness must reside within the local limits of the Court's own jurisdiction",
+          "Ground must be either Code-recognised exemption from attendance, or sickness/infirmity",
+          "Interrogatories-only examination requires the Court to record reasons for choosing that mode",
+          "A registered medical practitioner's certificate is sufficient proof of sickness/infirmity without oral testimony"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If relying on sickness to avoid producing a witness in Court, secure a proper registered-practitioner certificate early — it alone suffices under the Explanation and avoids a separate, time-consuming proof exercise."
+      }
+    },
+    {
+      "number": "O-XXVI-2",
+      "title": "Order for commission",
+      "raw_text": "An order for the issue of a commission for the examination of a witness may be made by the Court either of its own motion or on the application, supported by affidavit or otherwise, of any party to the suit or of the witness to be examined.",
+      "key_terms": [
+        "suo motu commission",
+        "application supported by affidavit"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court can issue a witness-examination commission on its own initiative, or on a formal application from a party or even from the witness himself — the application should normally be backed by an affidavit, though the Court has flexibility ('or otherwise') in how it is supported.",
+        "essential_elements": [
+          "Initiating sources: Court's own motion, a party's application, or the witness's own application",
+          "The application is ordinarily supported by affidavit, though the Court may accept other modes of support"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A witness who genuinely cannot attend may himself apply for a commission — practitioners should remember this isn't solely a party-driven mechanism."
+      }
+    },
+    {
+      "number": "O-XXVI-3",
+      "title": "Where witness resides within Court's jurisdiction",
+      "raw_text": "A commission for the examination of a person who resides within the local limits of the jurisdiction of the Court issuing the same may be issued to any person whom the Court thinks fit to execute it.",
+      "key_terms": [
+        "local commission",
+        "Commissioner selection"
+      ],
+      "breakdown": {
+        "plain_summary": "When the witness lives within the issuing Court's own territorial jurisdiction, the Court has free discretion to appoint whomever it considers suitable to act as Commissioner and carry out the examination.",
+        "essential_elements": [
+          "Applies only where the witness resides within the issuing Court's local limits",
+          "Commissioner selection is at the Court's discretion, not restricted to any particular class of person"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the simplest commission scenario — no jurisdictional handoff to another Court is required since the witness is local; the Court picks its own Commissioner directly."
+      }
+    },
+    {
+      "number": "O-XXVI-4",
+      "title": "Persons for whose examination commission may issue",
+      "raw_text": "(1) Any Court may in any suit issue a commission for the examination on interrogatories or otherwise of— (a) any person resident beyond the local limits of its jurisdiction; (b) any person who is about to leave such limits before the date on which he is required to be examined in Court; and (c) any person in the service of the Government who cannot in the opinion of the Court, attend without detriment to the public service: Provided that where, under rule 19 of Order XVI, a person cannot be ordered to attend a Court in person, a commission shall be issued for his examination if his evidence is considered necessary in the interests of justice: Provided further that a commission for examination of such person on interrogatories shall not be issued unless the Court, for reasons to be recorded, thinks it necessary so to do.",
+      "key_terms": [
+        "beyond local limits",
+        "about to leave jurisdiction",
+        "Government servant",
+        "detriment to public service"
+      ],
+      "breakdown": {
+        "plain_summary": "This rule widens the witness-commission power to three further categories: a witness who lives outside the Court's jurisdiction entirely, a witness who is about to leave the jurisdiction before his scheduled examination date, and a Government servant whose Court attendance would harm public service. Where Order XVI Rule 19 bars compelling someone to attend in person, a commission for his evidence becomes mandatory if that evidence is actually necessary.",
+        "essential_elements": [
+          "Category (a): witness resident beyond the Court's local jurisdictional limits",
+          "Category (b): witness about to leave the jurisdiction before the examination date",
+          "Category (c): Government servant whose attendance would harm public service, in the Court's opinion",
+          "Where Order XVI Rule 19 bars compelling personal attendance, a commission is mandatory if the evidence is necessary in the interests of justice",
+          "Interrogatories-only examination again needs the Court's recorded reasons"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Use clause (b) proactively for a flight-risk or soon-departing witness — don't wait until he has already left the jurisdiction to seek a commission, since by then category (a) procedures (potentially a letter of request) may be needed instead."
+      }
+    },
+    {
+      "number": "O-XXVI-4A",
+      "title": "Commission for examination of any person resident within the local limits of the jurisdiction of the Court",
+      "raw_text": "Notwithstanding anything contained in these rules, any court may, in the interest of justice or for the expeditious disposal of the case or for any other reason, issue commission in any suit for the examination, on interrogatories or otherwise, of any person resident within the local limits of its jurisdiction, and the evidence so recorded shall be read in evidence.",
+      "key_terms": [
+        "notwithstanding clause",
+        "expeditious disposal",
+        "evidence read without further proof"
+      ],
+      "breakdown": {
+        "plain_summary": "This later-inserted rule gives the Court a broad, catch-all power to send a commission to examine even a perfectly healthy, available, local witness — not just the sick, exempted, or distant ones covered by Rules 1 and 4 — simply in the interest of justice, speed, or 'any other reason.' Crucially, the evidence so recorded is directly read in evidence, without the Rule 8 gatekeeping conditions.",
+        "essential_elements": [
+          "Overrides the narrower grounds in Rules 1 and 4 ('notwithstanding anything contained in these rules')",
+          "Available for any local resident, for broad reasons including mere expedition",
+          "Evidence recorded under this rule is read in evidence directly"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a powerful docket-management tool — where oral examination of a routine local witness is consuming scarce court time, a Rule 4A commission can shift that burden to a Commissioner while keeping the evidence fully usable."
+      }
+    },
+    {
+      "number": "O-XXVI-5",
+      "title": "Commission or request to examine witness not within India",
+      "raw_text": "Where any Court to which application is made for the issue of a commission for the examination of a person residing at any place not within India is satisfied that the evidence of such person is necessary, the Court may issue such commission or a letter of request.",
+      "key_terms": [
+        "witness outside India",
+        "letter of request"
+      ],
+      "breakdown": {
+        "plain_summary": "For a witness who is abroad altogether, the Court can choose between issuing a formal commission or sending a letter of request (a more diplomatic, judicial-comity-based mechanism often used for foreign courts) — whichever is more practical for actually securing the evidence.",
+        "essential_elements": [
+          "Applies to witnesses residing outside India",
+          "Court must be satisfied the evidence is necessary",
+          "Court has a choice between a commission and a letter of request"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "For overseas witnesses, consider which mechanism the destination country's courts are more likely to honor — a letter of request often works better in jurisdictions unfamiliar with Indian commission procedure."
+      }
+    },
+    {
+      "number": "O-XXVI-6",
+      "title": "Court to examine witness pursuant to Commission",
+      "raw_text": "Every Court receiving a commission for the examination of any person shall examine him or cause him to be examined pursuant thereto.",
+      "key_terms": [
+        "receiving court's duty",
+        "mandatory examination"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court that receives a commission from another Court is not free to ignore it — it must carry out (or arrange for) the examination it has been asked to conduct.",
+        "essential_elements": [
+          "Receiving Court's duty to examine (or cause examination) is mandatory, not discretionary"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If a commission issued to another Court is languishing without action, this rule gives the party a basis to press for compliance — the receiving Court has no discretion to simply decline."
+      }
+    },
+    {
+      "number": "O-XXVI-7",
+      "title": "Return of commission with depositions of witnesses",
+      "raw_text": "Where a commission has been duly executed, it shall be returned, together with the evidence taken under it, to the Court from which it was issued, unless the order for issuing the commission has otherwise directed, in which case the commission shall be returned in terms of such order; and the commission and the returned thereto and the evidence taken under it shall (subject to the provisions of rule 8) from part of the record of the suit.",
+      "key_terms": [
+        "return of commission",
+        "part of the record"
+      ],
+      "breakdown": {
+        "plain_summary": "Once executed, the commission and the evidence gathered under it go back to the issuing Court (or wherever the original order directed), and — subject to Rule 8's conditions on actually reading the evidence — they become part of the official suit record.",
+        "essential_elements": [
+          "Default: commission and evidence return to the issuing Court",
+          "The issuing order may direct a different return destination",
+          "Becoming 'part of the record' is subject to Rule 8's conditions for reading the evidence"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Being part of the record is not the same as being admissible evidence in the suit — always check Rule 8's gatekeeping conditions before treating commission evidence as automatically usable at trial."
+      }
+    },
+    {
+      "number": "O-XXVI-8",
+      "title": "When depositions may be read in evidence",
+      "raw_text": "Evidence taken under a commission shall not be read as evidence in the suit without the consent of the party against whom the same is offered, unless— (a) the person who gave the evidence is beyond the jurisdiction of the Court, or dead or unable from sickness or infirmity to attend to be personally examined, or exempted from personal appearance in Court, or is a person in the service of the Government who cannot, in the opinion of the Court, attend without detriment to the public service, or (b) the Court in its discretion dispenses with the proof of any of the circumstances mentioned in clause (a) and authorizes the evidence of any person being read as evidence in the suit, notwithstanding proof that the cause for taking such evidence by commission has ceased at the time of reading the same.",
+      "key_terms": [
+        "consent of opposing party",
+        "gatekeeping conditions",
+        "dispensing with proof"
+      ],
+      "breakdown": {
+        "plain_summary": "Commission-recorded evidence is not automatically readable at trial — by default the opposing party's consent is needed. Without consent, it can still be read if the witness remains unavailable for one of the specified reasons (outside jurisdiction, dead, sick, exempted, or a Government servant who can't attend), or if the Court exercises discretion to waive proof of those circumstances even though the original reason for using a commission has since disappeared.",
+        "essential_elements": [
+          "Default rule: opposing party's consent required to read commission evidence",
+          "Exception (a): evidence readable without consent if the witness remains unavailable for a listed reason at the time of reading",
+          "Exception (b): Court may dispense with proving (a)'s circumstances and allow reading even if the original unavailability has ceased"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If the witness who was unavailable at commission time becomes available again before trial, don't assume the commission evidence is now unusable — Rule 8(b) gives the Court discretion to still admit it; argue this where live re-examination would be wasteful or prejudicial to secure testimony already on record."
+      }
+    },
+    {
+      "number": "O-XXVI-9",
+      "title": "Commissions to make local investigations",
+      "raw_text": "In any suit in which the Court deems a local investigation to be requisite or proper for the purpose of elucidating any matter in dispute, or of ascertaining the market-value of any property, or the amount of any mesne profits or damages or annual net profits, the Court may issue a commission to such person as it thinks fit directing him to make such investigation and to report thereon to the Court: Provided that, where the State Government has made rules as to the persons to whom such commission shall be issued, the Court shall be bound by such rules.",
+      "key_terms": [
+        "local investigation",
+        "market-value ascertainment",
+        "mesne profits",
+        "State rules on Commissioner selection"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a dispute turns on physical facts best examined on-site — such as the boundaries of land, the condition of a property, its market value, or the scale of mesne profits/damages/annual profits — the Court can send a Commissioner to inspect and report, rather than relying solely on oral and documentary evidence in Court. If the State Government has prescribed rules on who may be appointed for such commissions, the Court must follow them.",
+        "essential_elements": [
+          "Trigger: local investigation requisite or proper to elucidate a disputed matter, or to ascertain market value, mesne profits, damages, or annual net profits",
+          "Court has discretion in selecting the Commissioner, subject to any binding State Government rules on eligible appointees"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Local-investigation commissions are a staple in partition, boundary, and mesne-profits disputes — advise clients that the Commissioner's physical inspection often proves more persuasive to the Court than competing oral valuations."
+      }
+    },
+    {
+      "number": "O-XXVI-10",
+      "title": "Procedure of Commissioner",
+      "raw_text": "(1) The Commissioner, after such local inspection as he deems necessary and after reducing to writing the evidence taken by him, shall return such evidence, together with his report in writing signed by him, to the Court. (2) Report and depositions to be evidence in suit. Commissioner may be examined in person.—The report of the Commissioner and the evidence taken by him (but not the evidence without the report) shall be evidence in the suit and shall form part of the record; but the Court or, with the permission of the Court, any of the parties to the suit may examine the Commissioner personally in open Court touching any of the matters referred to him or mentioned in his report, or as to his report, or as to the manner in which he has made the investigation. (3) Where the Court is for any reason dissatisfied with the proceedings of the Commissioner, it may direct such further inquiry to be made as it shall think fit.",
+      "key_terms": [
+        "signed written report",
+        "report plus evidence as a package",
+        "Commissioner's personal examination",
+        "further inquiry on dissatisfaction"
+      ],
+      "breakdown": {
+        "plain_summary": "The Commissioner inspects, records evidence in writing, and submits a signed report — but the raw evidence alone, without the accompanying report, is not usable; the two are a package. Either the Court or (with permission) a party can question the Commissioner in open Court about his findings, report, or methodology. If the Court isn't satisfied with how the investigation was conducted, it can order further inquiry.",
+        "essential_elements": [
+          "Report must be in writing and signed by the Commissioner",
+          "Evidence and report become record evidence only together — evidence without the report is excluded",
+          "The Commissioner may be examined in open Court by the Court itself, or by a party with the Court's permission",
+          "Court dissatisfaction with the investigation triggers a power to direct further inquiry"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A party unhappy with a local-investigation report should seek the Court's permission to cross-examine the Commissioner in open Court before attacking the report's conclusions by other means — this is the direct, built-in challenge mechanism."
+      }
+    },
+    {
+      "number": "O-XXVI-10A",
+      "title": "Commission for scientific investigation",
+      "raw_text": "(1) Where any question arising in a suit involves any scientific investigation which cannot, in the opinion of the Court, be conveniently conducted before the Court, the Court may, if it thinks it necessary or expedient in the interests of justice so to do, issue a commission to such person as it thinks fit, directing him to inquire into such question and report thereon to the Court. (2) The provisions of rule 10 of this Order shall, as far as may be, apply in relation to a Commissioner appointed under this rule as they apply in relation to a Commissioner appointed under rule 9.",
+      "key_terms": [
+        "scientific investigation",
+        "cannot conveniently be conducted before the Court"
+      ],
+      "breakdown": {
+        "plain_summary": "For technical or scientific questions that cannot practically be resolved through ordinary in-court evidence (e.g., complex forensic, technical, or laboratory matters), the Court can appoint an expert Commissioner to investigate and report, with Rule 10's procedural safeguards (written signed report, party examination rights, further-inquiry power) applying equally here.",
+        "essential_elements": [
+          "Trigger: a scientific question that cannot conveniently be conducted before the Court itself",
+          "Court must consider it necessary or expedient in the interests of justice",
+          "Rule 10's procedure (report, evidence, examination, further inquiry) applies by reference"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the vehicle for appointing technical/forensic experts as Commissioners in complex suits — frame the application around why the question genuinely cannot be conveniently handled through ordinary expert witness testimony in Court."
+      }
+    },
+    {
+      "number": "O-XXVI-10B",
+      "title": "Commission for performance of a ministerial act",
+      "raw_text": "(1) Where any question arising in a suit involves the performance of any ministerial act which cannot, in the opinion of the Court, be conveniently performed before the Court, the Court may, if for reasons to be recorded, it is of opinion that it is necessary or expedient in the interests of justice so to do, issue a commission to such person as it thinks fit, directing him to perform that ministerial act and report thereon to the Court. (2) The provisions of rule 10 of this Order shall apply in relation to a commissioner appointed under this rule as they apply in relation to a Commissioner appointed under rule 9.",
+      "key_terms": [
+        "ministerial act",
+        "reasons to be recorded"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a suit requires some non-judicial, mechanical/administrative act to be carried out (rather than a judicial determination) that cannot conveniently be done before the Court itself, the Court can delegate performance of that act to a Commissioner — but only after recording its reasons for finding it necessary or expedient.",
+        "essential_elements": [
+          "Trigger: a ministerial (non-adjudicatory, administrative/mechanical) act that cannot conveniently be performed before the Court",
+          "Court must record reasons for the necessity/expediency finding",
+          "Rule 10's procedure applies by reference"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The 'reasons to be recorded' requirement here is a built-in check — an order under this rule that fails to record reasons is vulnerable to challenge on that ground alone."
+      }
+    },
+    {
+      "number": "O-XXVI-10C",
+      "title": "Commission for the sale of movable property",
+      "raw_text": "(1) Where, in any suit, it becomes necessary to sell any movable property which is in the custody of the Court pending the determination of the suit and which cannot be conveniently preserved, the Court may, if, for reasons to be recorded, it is of opinion that it is necessary or expedient in the interests of justice so to do, issue a commission to such person as it thinks fit, directing him to conduct such sale and report thereon to the Court. (2) The provisions of rule 10 of this Order shall apply in relation to a Commissioner appointed under this rule as they apply in relation to a Commissioner appointed under rule 9. (3) Every such sale shall be held, as far as may be, in accordance with the procedure prescribed for the sale of movable property in execution of a decree.",
+      "key_terms": [
+        "court-custody movable property",
+        "cannot be conveniently preserved",
+        "execution-sale procedure applied"
+      ],
+      "breakdown": {
+        "plain_summary": "Where movable property held in Court's custody during a pending suit is perishable or otherwise can't be conveniently kept (e.g., livestock, perishable goods, volatile-value stock), the Court can appoint a Commissioner to sell it, following — as far as practicable — the same sale procedure used for movable property in decree execution (Order XXI).",
+        "essential_elements": [
+          "Trigger: Court-custody movable property, pending suit, that cannot be conveniently preserved",
+          "Court must record reasons for the necessity/expediency finding",
+          "Sale procedure borrows from Order XXI's execution-sale rules for movable property"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the pendente-lite analogue of Order XXXIX Rule 6 (sale of perishable suit property) channeled through the commission mechanism — use it where preservation pending final decision is genuinely impractical, not as a routine liquidation shortcut."
+      }
+    },
+    {
+      "number": "O-XXVI-11",
+      "title": "Commission to examine or adjust accounts",
+      "raw_text": "In any suit in which an examination or adjustment of the accounts is necessary, the Court may issue a commission to such person as it thinks fit directing him to make such examination or adjustment.",
+      "key_terms": [
+        "accounts commission",
+        "examination or adjustment"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a suit (e.g., a partnership dissolution or agency accounting dispute) requires detailed account examination or adjustment that's impractical for the Court to perform directly, it can delegate this to a Commissioner — typically someone with accounting expertise.",
+        "essential_elements": [
+          "Trigger: necessity of examination or adjustment of accounts in the suit",
+          "Court has discretion in Commissioner selection"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "In accounting-heavy suits (partnership, trust, agency), proactively seek an accounts commission early rather than attempting to litigate complex ledger disputes through ordinary oral evidence."
+      }
+    },
+    {
+      "number": "O-XXVI-12",
+      "title": "Court to give Commissioner necessary instructions",
+      "raw_text": "(1) The Court shall furnish the Commissioner with such part of the proceedings and such instructions as appear necessary, and the instructions shall distinctly specify whether the commissioner is merely to transmit the proceedings which he may hold on the inquiry, or also to report his own opinion on the point referred for his examination. (2) Proceedings and report to be evidence. Court may direct further inquiry.—The proceedings and report (if any) of the Commissioner shall be evidence in the suit, but where the Court has reason to be dissatisfied with them, it may direct such further inquiry as it shall think fit.",
+      "key_terms": [
+        "Commissioner's instructions",
+        "transmit vs. opine",
+        "further inquiry"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court must brief the accounts Commissioner clearly on his task — specifically whether he is to simply forward the raw proceedings of his inquiry, or also give his own opinion on the referred question. Whatever he produces becomes suit evidence, subject again to the Court's power to order further inquiry if dissatisfied.",
+        "essential_elements": [
+          "Court must specify whether the Commissioner is to merely transmit proceedings or also offer his own opinion",
+          "The Commissioner's proceedings/report become evidence in the suit",
+          "Court dissatisfaction triggers a further-inquiry power"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Check the Commissioner's appointment order carefully for this transmit-vs-opine distinction — a Commissioner instructed only to transmit raw proceedings cannot have his personal opinion treated as binding evidence."
+      }
+    },
+    {
+      "number": "O-XXVI-13",
+      "title": "Commission to make partition of immovable property",
+      "raw_text": "Where a preliminary decree for partition has been passed, the Court may, in any case not provided for by section 54, issue a commission to such person as it thinks fit to make the partition or separation according to the rights as declared in such decree.",
+      "key_terms": [
+        "preliminary decree for partition",
+        "Section 54 residuary",
+        "partition commission"
+      ],
+      "breakdown": {
+        "plain_summary": "After a Court has passed a preliminary partition decree declaring the parties' shares, it needs someone to physically carry out the division of the property — this rule lets the Court appoint a Commissioner for that purpose in cases not already covered by Section 54 (which deals with partition of revenue-paying estates through the Collector).",
+        "essential_elements": [
+          "Applies after a preliminary decree for partition has been passed",
+          "Available only 'in any case not provided for by section 54' (i.e., not a revenue-estate partition routed through the Collector)",
+          "Commissioner's task: implement the partition/separation according to the rights already declared in the decree"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always check Section 54 first in a partition suit involving revenue-paying land — if it applies, the Collector's machinery takes over instead of an Order XXVI Rule 13 commission."
+      }
+    },
+    {
+      "number": "O-XXVI-14",
+      "title": "Procedure of Commissioner",
+      "raw_text": "(1) The Commissioner shall, after such inquiry as may be necessary, divide the property into as many shares as may be directly by the order under which the commission was issued, and shall allot such shares to the parties, and may, if authorised thereto by the said order, award sums to be paid for the purpose of equalizing the value of the shares. (2) The commissioner shall then prepare and sign a report or the Commissioners (where the commission was issued to more than one person and they cannot agree) shall prepare and sign separate reports appointing the share of each party and distinguishing each share (if so directed by the said order) by metes and bounds. Such report or reports shall be annexed to the commission and transmitted to the Court; and the Court, after hearing any objections which the parties may make to the report or reports, shall confirm, vary or set aside the same. (3) Where the Court confirms or varies the report or reports it shall pass a decree in accordance with the same as confirmed or varied; but where the Court sets aside the report or reports it shall either issue a new commission or make such other order as it shall think fit.",
+      "key_terms": [
+        "division into shares",
+        "equalizing payments",
+        "metes and bounds",
+        "confirm/vary/set aside",
+        "final decree following report"
+      ],
+      "breakdown": {
+        "plain_summary": "The partition Commissioner physically divides the property into the decreed number of shares, allots them to the parties, and — if authorised — can direct equalizing payments where shares can't be made exactly equal in value. If multiple Commissioners disagree, they file separate reports. The Court then hears objections and either confirms, varies, or sets aside the report(s); confirmation or variance leads straight to a final decree, while setting aside triggers either a fresh commission or some other appropriate order.",
+        "essential_elements": [
+          "Commissioner divides property per the appointing order's directions, allotting shares to parties",
+          "Equalizing payments require specific authorisation in the appointing order",
+          "Multiple disagreeing Commissioners file separate reports",
+          "Reports must distinguish shares by metes and bounds if so directed",
+          "Court's three options on the report: confirm, vary, or set aside, after hearing objections",
+          "Confirmation/variance leads to a final decree; setting aside leads to a new commission or other order"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "File objections to a partition Commissioner's report promptly and specifically — the Court's confirm/vary/set-aside decision converts directly into the final decree, so this is the last practical opportunity to correct an unfair or inaccurate division before it becomes binding."
+      }
+    },
+    {
+      "number": "O-XXVI-15",
+      "title": "Expenses of commission to be paid into court",
+      "raw_text": "Before issuing any commission under this Order, the Court may order such sum (if any) as it thinks reasonable for the expenses of the commission to be, within a time to be fixed, paid into Court by the party at whose instance or for whose benefit the commission is issued.",
+      "key_terms": [
+        "commission expenses",
+        "deposit as precondition"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court can require the party who is seeking or benefiting from a commission to deposit a reasonable sum to cover its expenses, within a fixed time, before the commission is even issued.",
+        "essential_elements": [
+          "Applies to any commission under this Order",
+          "Payable by the party at whose instance, or for whose benefit, the commission is issued",
+          "Deposit must be made within a time fixed by the Court"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Budget for commission expenses as a practical precondition to relief — failure to deposit within the fixed time can stall or derail the commission application entirely."
+      }
+    },
+    {
+      "number": "O-XXVI-16",
+      "title": "Powers of commissioners",
+      "raw_text": "Any commissioner appointed under this Order may, unless otherwise directed by the order of appointment,— (a) examine the parties themselves and any witness whom they or any of them may produce, and any other person whom the Commissioner thinks proper to call upon to give evidence in the matter referred to him; (b) call for and examine documents and other things relevant to the subject of inquiry; (c) at any reasonable time enter upon or into any land or building mentioned in the order.",
+      "key_terms": [
+        "power to examine parties/witnesses",
+        "power to call for documents",
+        "power to enter land/buildings"
+      ],
+      "breakdown": {
+        "plain_summary": "Unless the appointment order restricts him, a Commissioner has broad default powers: to examine the parties and any witnesses (including ones he himself calls), to call for and inspect relevant documents and other items, and to physically enter any land or building named in the order at a reasonable time.",
+        "essential_elements": [
+          "Power (a): examine parties, party-produced witnesses, and any other person the Commissioner thinks proper to call",
+          "Power (b): call for and examine relevant documents and things",
+          "Power (c): enter upon land or buildings mentioned in the order, at a reasonable time",
+          "All three powers are default and can be curtailed by the specific terms of the appointment order"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Check the appointment order's exact wording before assuming the full default power set applies — these are default, displaceable powers, not an unconditional statutory floor."
+      }
+    },
+    {
+      "number": "O-XXVI-16A",
+      "title": "Questions objected to before the Commissioner",
+      "raw_text": "(1) Where any question put to a witness is objected to by a party or his pleader in proceedings before a Commissioner appointed under this Order, the Commissioner shall take down the question, the answer, the objections and the name of the party or, as the case may be, the pleader so objecting: Provided that the Commissioner shall not take down the answer to a question which is objected to on the ground of privilege but may continue with the examination of the witness, leaving the party to get the question of privilege decided by the Court, and, where the Court decides that there is no question of privilege, the witness may be recalled by the Commissioner and examined by him or the witness may be examined by the Court with regard to the question which was objected to on the ground of privilege. (2) No answer taken down under sub-rule (1) shall be read as evidence in the suit except by the order of the Court.",
+      "key_terms": [
+        "objections before Commissioner",
+        "privilege objection special handling",
+        "Court decides privilege"
+      ],
+      "breakdown": {
+        "plain_summary": "If a party objects to a question during a Commissioner-led examination, the Commissioner records the question, the answer anyway (generally), the objection, and who raised it — except where the objection is specifically on grounds of privilege, in which case the Commissioner does not record the answer at all, and instead lets the privilege question go to the Court for decision; if the Court rejects the privilege claim, the witness can then be examined on that question either by the Commissioner (recalled) or by the Court itself. Any answer so recorded needs a specific Court order before it can be read as evidence.",
+        "essential_elements": [
+          "Non-privilege objections: Commissioner records question, answer, objection, and objector's identity, and proceeds",
+          "Privilege objections: Commissioner does NOT record the answer, continues with other examination, and refers the privilege question to the Court",
+          "If the Court rejects the privilege claim, the witness is examined on that question by the recalled Commissioner or by the Court itself",
+          "Recorded answers under sub-rule (1) are usable as evidence only pursuant to a specific Court order"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Privilege objections during a commission examination deserve careful handling — don't let the Commissioner simply record and move past them; insist on the Rule 16A(1) proviso route of deferring the privilege question to the Court before any answer is taken down."
+      }
+    },
+    {
+      "number": "O-XXVI-17",
+      "title": "Attendance and examination of witnesses before Commissioner",
+      "raw_text": "(1) The provisions of this Code relating to the summoning, attendance and examination of witnesses, and to the remuneration of, and penalties to be imposed upon, witnesses, shall apply to persons required to give evidence or to produce documents under this Order whether the commission in execution of which they are so required has been issued by a Court situate within or by a Court situate beyond the limits of India, and for the purposes of this rule the Commissioner shall be deemed to be a Civil Court: Provided that when the Commissioner is not a Judge of a Civil Court, he shall not be competent to impose penalties; but such penalties may be imposed on the application of such Commissioner by the Court by which the commission was issued. (2) A Commissioner may apply to any Court (not being a High Court) within the local limits or whose jurisdiction a witness resides for the issue of any process which he may find it necessary to issue to or against such witness, and such Court may, in its discretion, issue such process as it considers reasonable and proper.",
+      "key_terms": [
+        "deemed Civil Court",
+        "witness-summoning Code provisions apply",
+        "non-Judge Commissioner cannot impose penalties"
+      ],
+      "breakdown": {
+        "plain_summary": "The ordinary Code machinery for summoning, examining, remunerating, and penalising witnesses applies equally to commission proceedings, and for this purpose the Commissioner is treated as if he were a Civil Court — except that a Commissioner who isn't himself a Civil Court Judge cannot personally impose penalties (he must apply to the issuing Court to do so). If process needs to be issued against a non-cooperative witness, the Commissioner can apply to a local Court (any Court except a High Court) to issue it.",
+        "essential_elements": [
+          "Code's witness summoning/attendance/examination/remuneration/penalty provisions apply to commission proceedings",
+          "Commissioner is deemed a Civil Court for this purpose",
+          "A non-Judge Commissioner cannot himself impose penalties; must apply to the issuing Court",
+          "Commissioner may apply to a local (non-High Court) Court for issuance of necessary process against a witness"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "If a witness is being uncooperative before a lay Commissioner, remember the Commissioner cannot directly penalise him — the correct route is an application to the issuing Court or to a local Court for process, not self-help by the Commissioner."
+      }
+    },
+    {
+      "number": "O-XXVI-18",
+      "title": "Parties to appear before Commissioner",
+      "raw_text": "(1) Where a commission is issued under this Order, the Court shall direct that the parties to the suit shall appear before the Commissioner in person or by their agents or pleaders. (2) Where all or any of the parties do not so appear, the Commissioner may proceed in their absence.",
+      "key_terms": [
+        "mandatory party appearance direction",
+        "proceeding ex parte before Commissioner"
+      ],
+      "breakdown": {
+        "plain_summary": "Whenever a commission issues, the Court must direct the parties to appear before the Commissioner — personally or through an agent/pleader. If a party simply doesn't show up, the Commissioner isn't stuck; he can proceed without them.",
+        "essential_elements": [
+          "Court must direct party appearance before the Commissioner (in person, by agent, or by pleader)",
+          "Non-appearance by some or all parties does not stall the commission — the Commissioner may proceed in their absence"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A party who skips a commission appearance forfeits the chance to be heard during that proceeding — the Commissioner's default power to proceed ex parte makes attendance a real strategic necessity, not a mere formality."
+      }
+    },
+    {
+      "number": "O-XXVI-18A",
+      "title": "Application of order to execution proceedings",
+      "raw_text": "The provisions of this Order shall apply, so far as may be, to proceedings in execution of a decree or order.",
+      "key_terms": [
+        "applicability to execution proceedings"
+      ],
+      "breakdown": {
+        "plain_summary": "Everything in Order XXVI about commissions applies equally, with necessary adaptation, to execution proceedings — not just to the original suit's trial.",
+        "essential_elements": [
+          "Order XXVI's commission machinery extends to execution-of-decree proceedings",
+          "Application is 'so far as may be' — adapted, not mechanically identical"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Don't assume commissions are a pre-decree tool only — they remain available (e.g., for local investigation or accounts examination) during execution as well."
+      }
+    },
+    {
+      "number": "O-XXVI-18B",
+      "title": "Court to fix a time for return of commission",
+      "raw_text": "The Court issuing a commission shall fix a date on or before which the commission shall be returned to it after execution, and the date so fixed shall not be extended except where the Court, for reasons to be recorded, is satisfied that there is sufficient cause for extending the date.",
+      "key_terms": [
+        "fixed return date",
+        "extension only on sufficient cause with reasons"
+      ],
+      "breakdown": {
+        "plain_summary": "The issuing Court must set a firm deadline for the commission's return after it has been executed, and that deadline is not casually extendable — only on the Court recording its satisfaction that there is sufficient cause to extend it.",
+        "essential_elements": [
+          "Issuing Court must fix a return date for the executed commission",
+          "Extension of that date requires recorded reasons showing sufficient cause"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This rule is a deliberate anti-delay mechanism — if a commission has been pending unreturned well past its fixed date without a recorded extension order, that is a legitimate basis to press the Court for action."
+      }
+    },
+    {
+      "number": "O-XXVI-19",
+      "title": "Cases in which High Court may issue commission to examine witness (foreign Tribunals)",
+      "raw_text": "(1) If a High Court is satisfied— (a) that a foreign court situated in a foreign country wishes to obtain the evidence of a witness in any proceeding before it, (b) that the proceeding is of a civil nature, and (c) that the witness is residing within the limits of the High Court's appellate jurisdiction, it may, subject to the provisions of rule 20, issue a commission for the examination of such witness. (2) Evidence may be given of the matters specified in clause (a), (b) and (c) of sub-rule (1)— (a) by a certificate signed by the consular officer of the foreign country of the highest rank in India and transmitted to the High Court through the Central Government, or (b) by a letter of request issued by the foreign Court and transmitted to the High Court through the Central Government, or (c) by a letter of request issued by the foreign court and produced before the High Court by a party to the proceeding.",
+      "key_terms": [
+        "foreign court request",
+        "civil nature of proceeding",
+        "consular certificate",
+        "letter of request"
+      ],
+      "breakdown": {
+        "plain_summary": "This opens a special sub-regime: when a foreign court wants evidence from a witness residing within an Indian High Court's appellate jurisdiction, for a civil proceeding abroad, the High Court can issue a witness-examination commission to help. The foreign request can be evidenced through a senior consular officer's certificate (routed via the Central Government), or a letter of request from the foreign court (either routed via the Central Government, or directly produced by a party).",
+        "essential_elements": [
+          "Three satisfaction requirements: a genuine foreign-court request, civil nature of the foreign proceeding, and witness residence within the High Court's appellate jurisdiction",
+          "Subject to Rule 20's further conditions",
+          "Proof of the foreign request: consular certificate via Central Government, or letter of request (via Central Government or produced by a party)"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is India's domestic mechanism for honoring international judicial assistance requests in civil matters — relevant to cross-border litigation and letters rogatory practice."
+      }
+    },
+    {
+      "number": "O-XXVI-20",
+      "title": "Application for issue of commission",
+      "raw_text": "The High Court may issue a commission under rule 19— (a) upon application by a party to the proceeding before the foreign court, or (b) upon an application by a law officer of the State Government acting under instructions from the State Government.",
+      "key_terms": [
+        "who may apply",
+        "State law officer application"
+      ],
+      "breakdown": {
+        "plain_summary": "A Rule 19 foreign-Tribunal commission can be triggered either by a party to the foreign proceeding applying directly, or by a State Government law officer applying under State Government instructions.",
+        "essential_elements": [
+          "Applicant category (a): a party to the proceeding before the foreign court",
+          "Applicant category (b): a State Government law officer, acting on State Government instructions"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A litigant abroad seeking Indian witness evidence should apply directly under category (a) rather than waiting on Government channels, which is the slower, more discretionary route under category (b)."
+      }
+    },
+    {
+      "number": "O-XXVI-21",
+      "title": "To whom commission may be issued (foreign Tribunals)",
+      "raw_text": "A commission under rule 19 may be issued to any Court within the local limits of whose jurisdiction the witness resides, or where the witness resides within the local limits of the ordinary original civil jurisdiction of the High Court, to any person whom the Court thinks fit to execute the commission.",
+      "key_terms": [
+        "Commissioner/Court selection for foreign commissions"
+      ],
+      "breakdown": {
+        "plain_summary": "The High Court can route the foreign-Tribunal commission to whichever local Court has jurisdiction over the witness's residence; if the witness instead resides within the High Court's own original civil jurisdiction, the High Court can simply appoint any suitable person directly as Commissioner.",
+        "essential_elements": [
+          "Witness outside the High Court's original jurisdiction: commission goes to the local Court having jurisdiction over the witness's residence",
+          "Witness within the High Court's own original civil jurisdiction: High Court may appoint any fit person directly"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Mirrors the domestic Rule 3 logic — jurisdictional proximity to the witness determines who actually executes the commission."
+      }
+    },
+    {
+      "number": "O-XXVI-22",
+      "title": "Issue, execution and return of commissions, and transmission of evidence to foreign Court",
+      "raw_text": "The provisions of rules 6, 15, sub-rule (1) of rule 16A, 17, 18 and 18B of this Order in so far as they are applicable shall apply to the issue, execution and return of such commissions, and when any such commission has, been duly executed it shall be returned, together with the evidence taken under it, to the High Court, which shall forward it to the Government General in Council along with the letter of request for transmission to the foreign court.",
+      "key_terms": [
+        "cross-applied rules",
+        "transmission to foreign court via Government channel"
+      ],
+      "breakdown": {
+        "plain_summary": "Foreign-Tribunal commissions borrow the general machinery of Rules 6 (receiving Court's duty to examine), 15 (expenses), 16A(1) (handling objected questions, minus the Court-referral mechanism specific to domestic suits), 17 (witness summoning/attendance), 18 (party appearance), and 18B (fixed return date). Once executed, the evidence goes back to the High Court, which then forwards it onward through Government channels for transmission to the requesting foreign court.",
+        "essential_elements": [
+          "Applicable domestic rules (6, 15, 16A(1), 17, 18, 18B) apply so far as relevant to foreign-Tribunal commissions",
+          "Executed commission and evidence return to the High Court",
+          "High Court forwards the material through the Government channel for onward transmission to the foreign court"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The final transmission step runs through Government channels, not directly from the High Court to the foreign court — factor this administrative routing into realistic timeline expectations for cross-border evidence requests."
+      }
     }
   ]
 }
