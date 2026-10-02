@@ -8629,6 +8629,331 @@
         ],
         "how_to_read": "Rule 10's proviso is the final enforcement mechanism behind Rule 1's 30/90/120-day scheme — once the applicable outer limit passes, there is no further room to argue for an extension, so defendants (and their counsel) should treat these deadlines as genuinely final rather than negotiable, particularly in commercial disputes where the Supreme Court has confirmed the 120-day limit is mandatory."
       }
+    },
+    {
+      "number": "O-IX",
+      "title": "Order IX — Appearance of Parties and Consequence of Non-appearance (Overview)",
+      "raw_text": "ORDER IX\nAppearance of parties and consequence of non-appearance\n\nThis Order governs what happens on the first and subsequent hearing dates depending on who shows up: dismissal where neither party appears, ex-parte hearing where only the plaintiff appears, dismissal (with a bar on fresh suit) where only the defendant appears, the procedure for multiple plaintiffs/defendants with partial non-appearance, and — in its final, heavily litigated segment — the grounds and procedure for setting aside an ex-parte decree.",
+      "key_terms": [
+        "appearance of parties",
+        "ex-parte decree",
+        "non-appearance",
+        "dismissal for default",
+        "setting aside ex-parte decree",
+        "Order IX Rule 13"
+      ],
+      "breakdown": {
+        "plain_summary": "Order IX is the Code's complete regime for hearing-date attendance consequences. Rule 1 requires both parties' attendance on the fixed date. Rules 2-5 deal with dismissal: for the plaintiff's failure to pay service costs or supply plaint copies (Rule 2), for both parties' non-appearance (Rule 3, with a fresh-suit/restoration remedy under Rule 4), and for the plaintiff's failure to apply for fresh summons within seven days of an unserved summons being returned (Rule 5). Rules 6-8 cover one-sided appearance: if only the plaintiff appears, the suit may proceed ex parte (duly served), get a second summons issued (not duly served), or be postponed (served late) under Rule 6, with Rule 7 letting a defendant who shows good cause for earlier non-appearance be heard as if he had appeared originally; if only the defendant appears, the suit is dismissed (Rule 8) — and, critically, Rule 9 bars a fresh suit on that dismissal (subject to a restoration application on sufficient cause, unlike Rule 4's dismissal under Rules 2/3). Rules 10-12 handle multiple parties and personal-appearance defaults. Rules 13-14 are the ex-parte-decree-setting-aside code: Rule 13 lets a defendant apply to set aside an ex-parte decree on proof of improper summons service or sufficient cause for non-appearance, subject to a proviso barring relief for mere service irregularity where the defendant had actual notice and time to appear, and an Explanation barring a fresh Rule 13 application once an appeal against the ex-parte decree has been decided on merits.",
+        "essential_elements": [
+          "Rule 3/4: dismissal for both-parties non-appearance is freely reversible — the plaintiff may either bring a fresh suit (subject to limitation) or apply to restore the dismissed suit on sufficient cause.",
+          "Rule 5: an unserved summons returned to Court starts a seven-day clock for the plaintiff to apply for fresh summons, with dismissal against that defendant as the default consequence, extendable only on best-endeavours-to-discover-residence, evasion-of-service, or other sufficient cause.",
+          "Rule 6(1)(a)-(c): the three-way fork when only the plaintiff appears — ex-parte hearing if duly served, fresh summons if not duly served, and postponement with notice if served but not in time — with Rule 6(2) shifting postponement costs onto a defaulting plaintiff.",
+          "Rule 8/9: dismissal for the plaintiff's own non-appearance (defendant alone appears) is harsher than Rules 2/3/4 — it bars a fresh suit on the same cause of action outright, leaving only a restoration application (on notice to the defendant and proof of sufficient cause) as the remedy, not a free choice of fresh suit.",
+          "Rule 13 is the master ex-parte-decree-setting-aside provision: grounds are (i) summons not duly served, or (ii) sufficient cause prevented appearance at the hearing — but the second proviso bars relief for a mere service irregularity if the defendant in fact had notice of the hearing date and sufficient time to appear.",
+          "Rule 13's Explanation: once an appeal against the ex-parte decree has been disposed of on a ground other than withdrawal, no Rule 13 application to set aside that same decree lies at all — the appellate remedy and the Rule 13 remedy are mutually exclusive once the appeal is decided on merits."
+        ],
+        "exceptions_and_qualifications": [
+          "Rule 2's dismissal (for plaintiff's cost/copy default) does not apply if the defendant nonetheless attends in person or by agent on the fixed day, despite the plaintiff's default.",
+          "Rule 9(1)'s fresh-suit bar for plaintiff-non-appearance dismissal has its own carve-out: if the defendant had admitted the claim (in whole or part) before the plaintiff's non-appearance, the Court decrees on that admission instead of dismissing (back-reference to Rule 8 itself).",
+          "Rule 13's proviso on multi-defendant decrees: where an ex-parte decree's nature prevents setting it aside against only the applicant-defendant, it may be set aside against all or any of the other defendants too."
+        ],
+        "how_to_read": "The single most consequential distinction in this Order is between a Rule 3/4 dismissal (freely curable by fresh suit or restoration) and a Rule 8/9 dismissal (fresh suit barred, restoration-only) — always check which Rule a dismissal order was actually passed under before advising a client on next steps, and for ex-parte decree applications under Rule 13, build the application around either a genuine service defect or a concrete, evidenced sufficient-cause narrative for non-appearance, since the second proviso has hardened courts' willingness to excuse mere technical service irregularities where actual notice is shown."
+      }
+    },
+    {
+      "number": "O-IX-1",
+      "title": "Order IX, Rule 1 — Parties to appear on day fixed in summons for defendant to appear and answer",
+      "raw_text": "1. Parties to appear on day fixed in summons for defendant to appear and answer.—On the day fixed in the summons for the defendant to appear and answer, the parties shall be in attendance at the Court-house in person or by their respective pleaders, and the suit shall then be heard unless the hearing is adjourned to a future day fixed by the Court.",
+      "key_terms": [
+        "attendance",
+        "fixed date",
+        "hearing",
+        "adjournment"
+      ],
+      "breakdown": {
+        "plain_summary": "On the date fixed by the summons, both parties (personally or through their pleaders/advocates) must attend Court, and the suit proceeds to hearing that day unless the Court adjourns it to a future date.",
+        "essential_elements": [
+          "Mandatory attendance (in person or through a pleader) on the summons-fixed date.",
+          "Default is that the suit is heard that day, subject to the Court's adjournment power."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This Rule sets the baseline expectation — the rest of Order IX is essentially a catalogue of what happens when one or both parties fail to meet this basic attendance requirement."
+      }
+    },
+    {
+      "number": "O-IX-2",
+      "title": "Order IX, Rule 2 — Dismissal of suit where summons not served in consequence of plaintiff's failure to pay costs",
+      "raw_text": "2. Dismissal of suit where summons not served in consequence of plaintiff's failure to pay costs.—Where on the day so fixed it is found that summons has not been served upon the defendant in consequence of the failure of the plaintiff to pay the court-fee or postal charges, if any, chargeable for such service, or failure to present copies of the plaint as required by rule 9 of Order VII, the Court may make an order that the suit be dismissed:\nProvided that no such order shall be made, if notwithstanding such failure, the defendant attends in person or by agent when he is allowed to appear by agent on the day fixed for him to appear and answer.",
+      "key_terms": [
+        "dismissal for non-payment",
+        "service charges",
+        "plaint copies",
+        "plaintiff's default"
+      ],
+      "breakdown": {
+        "plain_summary": "If, on the fixed date, summons was never served on the defendant purely because the plaintiff failed to pay the required court-fee/postal charges or failed to supply plaint copies under Order VII Rule 9, the Court can dismiss the suit — unless the defendant shows up anyway (in person or, where permitted, by agent) on that date despite the plaintiff's default.",
+        "essential_elements": [
+          "Triggered by plaintiff's own default in payment or supplying copies, causing non-service.",
+          "Dismissal is discretionary (\"may\"), not automatic.",
+          "Proviso bars dismissal if the defendant attends anyway despite the service failure."
+        ],
+        "exceptions_and_qualifications": [
+          "The proviso is a complete bar on dismissal where the defendant's actual attendance has cured any prejudice from the plaintiff's default."
+        ],
+        "how_to_read": "A plaintiff's own administrative lapse (unpaid service costs, missing plaint copies) can doom the suit at the very first hearing — make payment of court-fees/postal charges and timely supply of plaint copies under Order VII Rule 9 a tracked compliance item immediately after the plaint is admitted."
+      }
+    },
+    {
+      "number": "O-IX-3",
+      "title": "Order IX, Rule 3 — Where neither party appears suit to be dismissed",
+      "raw_text": "3. Where neither party appears suit to be dismissed.—Where neither party appears when the suit is called on for hearing, the court may make an order that the suit be dismissed.",
+      "key_terms": [
+        "neither party appears",
+        "dismissal"
+      ],
+      "breakdown": {
+        "plain_summary": "If, when the suit is called for hearing, neither the plaintiff nor the defendant appears, the Court can dismiss the suit.",
+        "essential_elements": [
+          "Both parties' non-appearance triggers discretionary dismissal."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A dismissal under this Rule is curable under Rule 4 (fresh suit or restoration) — if this happens, advise the client promptly on which route (fresh suit, subject to limitation, or a restoration application on sufficient cause) is more advantageous."
+      }
+    },
+    {
+      "number": "O-IX-4",
+      "title": "Order IX, Rule 4 — Plaintiff may bring fresh suit or Court may restore suit to file",
+      "raw_text": "4. Plaintiff may bring fresh suit or Court may restore suit to file.—Where a suit is dismissed under rule 2 or rule 3, the plaintiff may (subject to the law of limitation) bring a fresh suit; or he may apply for an order to set the dismissal aside, and if he satisfies the Court that there was sufficient cause for such failure as is referred to in rule 2, or for his non-appearance, as the case may be, the Court shall make an order setting aside the dismissal and shall appoint a day for proceeding with the suit.",
+      "key_terms": [
+        "fresh suit",
+        "restoration of suit",
+        "sufficient cause"
+      ],
+      "breakdown": {
+        "plain_summary": "Where a suit was dismissed under Rule 2 (plaintiff's payment/copy default) or Rule 3 (neither party appeared), the plaintiff has a choice: file a fresh suit (subject to limitation), or apply to restore the dismissed suit by showing sufficient cause for the original default or non-appearance — restoration is mandatory (\"shall\") once sufficient cause is shown.",
+        "essential_elements": [
+          "Available only for Rule 2/Rule 3 dismissals (not Rule 8/9 dismissals).",
+          "Plaintiff's choice: fresh suit (subject to limitation) OR restoration application.",
+          "Restoration is mandatory once sufficient cause is shown to the Court's satisfaction."
+        ],
+        "exceptions_and_qualifications": [
+          "Restoration is conditional on proving sufficient cause — not an automatic right merely by applying."
+        ],
+        "how_to_read": "A Rule 2/3 dismissal is genuinely low-stakes compared to a Rule 8/9 dismissal — the plaintiff retains a real choice of remedies, so weigh limitation exposure (favouring restoration, which relates back) against the practical ease of simply refiling where limitation is not a concern."
+      }
+    },
+    {
+      "number": "O-IX-5",
+      "title": "Order IX, Rule 5 — Dismissal of suit where plaintiff, after summons returned unserved, fails for seven days to apply for fresh summons",
+      "raw_text": "5. Dismissal of suit where plaintiff after summons returned unserved, fails for seven days to apply for fresh summons.—(1) Where after a summons has been issued to the defendant, or to one of several defendants, and returned unserved, the plaintiff fails, for a period of seven days from the date of the return made to the Court by the officer ordinarily certifying to the Court returns made by the serving officers, to apply for the issue of a fresh summons the Court shall make an order that the suit be dismissed as against such defendant, unless the plaintiff has within the said period satisfied the Court that—\n(a) he has failed after using his best endeavours to discover the residence of the defendant, who has not been served, or\n(b) such defendant is avoiding service of process, or\n(c) there is any other sufficient cause for extending the time,\nin which case the Court may extend the time for making such application for such period as it thinks fit.\n(2) In such case the plaintiff may (subject to the law of limitation) bring a fresh suit.",
+      "key_terms": [
+        "unserved summons",
+        "seven days",
+        "fresh summons",
+        "avoiding service",
+        "best endeavours"
+      ],
+      "breakdown": {
+        "plain_summary": "If a summons returns unserved and the plaintiff doesn't apply for a fresh summons within seven days of the return being certified to the Court, the suit is dismissed against that defendant — unless the plaintiff satisfies the Court, within that seven-day window, that he made best efforts to find the defendant's residence, that the defendant is evading service, or that some other sufficient cause justifies more time, in which case the Court can extend the time as it sees fit. A plaintiff whose suit is dismissed this way can still bring a fresh suit, subject to limitation.",
+        "essential_elements": [
+          "Seven-day clock runs from the officer's certified return of the unserved summons.",
+          "Default consequence: dismissal against that defendant for the plaintiff's inaction.",
+          "Three alternative escape routes within the seven days: best-endeavours-but-couldn't-find-residence; defendant evading service; or other sufficient cause — any of which lets the Court extend time.",
+          "Sub-rule (2): dismissal under this Rule leaves fresh suit open, subject to limitation."
+        ],
+        "exceptions_and_qualifications": [
+          "The time extension itself is discretionary (\"may\") even once one of the three grounds is shown — it is not an automatic entitlement."
+        ],
+        "how_to_read": "Diary the seven-day deadline the moment a summons return report shows non-service — a plaintiff's counsel should proactively seek an extension (documenting best-efforts-to-locate or evasion evidence) well within the window rather than waiting for dismissal and then relying on the fresh-suit fallback, which restarts cost and delay."
+      }
+    },
+    {
+      "number": "O-IX-6",
+      "title": "Order IX, Rule 6 — Procedure when only plaintiff appears",
+      "raw_text": "6. Procedure when only plaintiff appears.—(1) Where the plaintiff appears and the defendant does not appear when the suit is called on for hearing, then—\n(a) When summons duly served.—if it is proved that the summons was duly served, the Court may make an order that the suit shall be heard ex parte;\n(b) When summons not duly served.—if it is not proved that the summons was duly served, the Court shall direct a second summons to be issued and served on the defendant;\n(c) When summons served but not in due time.—if it is proved that the summons was served on the defendant, but not in sufficient time to enable him to appear and answer on the day fixed in the summons,\nthe Court shall postpone the hearing of the suit to a future day to be fixed by the Court, and shall direct notice of such day to be given to the defendant.\n(2) Where it is owing to the plaintiff's default that the summons was not duly served or was not served in sufficient time, the Court shall order the plaintiff to pay the costs occasioned by the postponement.",
+      "key_terms": [
+        "ex parte hearing",
+        "duly served",
+        "second summons",
+        "insufficient time",
+        "postponement costs"
+      ],
+      "breakdown": {
+        "plain_summary": "If only the plaintiff appears at the hearing, the outcome turns entirely on the state of service: duly served summons lets the Court proceed ex parte against the defendant; summons not proved duly served requires a second summons; and summons served but too late to allow the defendant time to prepare requires postponement with fresh notice to the defendant. If the plaintiff's own default caused the bad/late service, the plaintiff bears the postponement costs.",
+        "essential_elements": [
+          "Three-way fork based purely on proof of service status: duly served -> ex parte order possible; not duly served -> second summons mandatory; served but too late -> postponement mandatory, with notice to defendant.",
+          "Ex-parte order under (a) is discretionary (\"may\"); the other two outcomes are mandatory (\"shall\").",
+          "Sub-rule (2): plaintiff-caused service defects shift the postponement costs onto the plaintiff."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Before seeking an ex-parte order under Rule 6(1)(a), be ready to affirmatively prove due service (the process-server's report, affidavit of service, or equivalent) — an ex-parte decree built on service that later turns out not to have been \"duly\" proved is exactly the fact pattern Rule 13 applications are built to unwind."
+      }
+    },
+    {
+      "number": "O-IX-7",
+      "title": "Order IX, Rule 7 — Procedure where defendant appears on day of adjourned hearing and assigns good cause for previous non-appearance",
+      "raw_text": "7. Procedure where defendant appears on day of adjourned hearing and assigns good cause for previous non-appearance.—Where the Court has adjourned the hearing of the suit, ex parte, and the defendant, at or before such hearing appears and assigns good cause for his previous non-appearance, he may, upon such terms as the Court directs as to costs or otherwise, be heard in answer to the suit as if he had appeared on the day fixed for his appearance.",
+      "key_terms": [
+        "adjourned hearing",
+        "good cause",
+        "late appearance"
+      ],
+      "breakdown": {
+        "plain_summary": "If a suit has been proceeding ex parte and, before or at the adjourned hearing, the defendant shows up and gives good cause for his earlier absence, the Court can let him back into the suit — to answer as though he had appeared on the original date — on whatever terms (usually costs) the Court sets.",
+        "essential_elements": [
+          "Available where the suit is already proceeding ex parte, before or at an adjourned hearing.",
+          "Requires the defendant to assign good cause for the earlier non-appearance.",
+          "Re-entry is on terms the Court directs (typically costs)."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a cheaper, faster route back into the suit than a full Rule 13 ex-parte-decree-setting-aside application — a defendant who realises he missed a hearing should move under Rule 7 immediately, before any ex-parte decree is actually passed, rather than waiting and later needing the heavier Rule 13 machinery."
+      }
+    },
+    {
+      "number": "O-IX-8",
+      "title": "Order IX, Rule 8 — Procedure where defendant only appears",
+      "raw_text": "8. Procedure where defendant only appears.—Where the defendant appears and the plaintiff does not appear when the suit is called on for hearing, the Court shall make an order that the suit be dismissed, unless the defendant admits the claim, or part thereof, in which case the Court shall pass a decree against the defendant upon such admission, and where part only of the claim has been admitted, shall dismiss the suit so far as it relates to the remainder.",
+      "key_terms": [
+        "defendant only appears",
+        "dismissal for plaintiff's default",
+        "admission of claim"
+      ],
+      "breakdown": {
+        "plain_summary": "If only the defendant appears (plaintiff absent) at the hearing, the suit is dismissed — unless the defendant admits the claim (wholly or partly), in which case the Court decrees on the admitted portion and dismisses the rest.",
+        "essential_elements": [
+          "Default consequence: mandatory dismissal of the suit for plaintiff's non-appearance.",
+          "Exception: defendant's admission (full or partial) converts the outcome to a decree on the admitted part, with dismissal only of the un-admitted remainder."
+        ],
+        "exceptions_and_qualifications": [
+          "The defendant's voluntary admission is the sole escape from outright dismissal — absent an admission, dismissal under this Rule is mandatory (\"shall\"), not discretionary."
+        ],
+        "how_to_read": "Unlike Rule 3's discretionary dismissal for both-parties absence, Rule 8's dismissal for plaintiff-only-absence is mandatory and — per Rule 9 — much harder to undo, so plaintiffs and their counsel must treat hearing-date attendance (personally or through a diligent pleader) as non-negotiable."
+      }
+    },
+    {
+      "number": "O-IX-9",
+      "title": "Order IX, Rule 9 — Decree against plaintiff by default bars fresh suit",
+      "raw_text": "9. Decree against plaintiff by default bars fresh suit.—(1) Where a suit is wholly or partly dismissed under rule 8, the plaintiff shall be precluded from bringing a fresh suit in respect of the same cause of action. But he may apply for an order to set the dismissal aside, and if he satisfies the Court that there was sufficient cause for his non-appearance when the suit was called on for hearing, the Court shall make an order setting aside the dismissal upon such terms as to costs or otherwise as it thinks fit, and shall appoint a day for proceeding with the suit.\n(2) No order shall be made under this rule unless notice of the application has been served on the opposite party.",
+      "key_terms": [
+        "bar on fresh suit",
+        "restoration application",
+        "notice to opposite party"
+      ],
+      "breakdown": {
+        "plain_summary": "A Rule 8 dismissal (for the plaintiff's own non-appearance) is harsher than a Rule 2/3 dismissal: the plaintiff is barred outright from filing a fresh suit on the same cause of action. The only remedy is a restoration application, which succeeds (mandatorily) if the plaintiff proves sufficient cause for the non-appearance — but no restoration order can be made without notice to the defendant.",
+        "essential_elements": [
+          "Fresh suit on the same cause of action is barred outright — no fallback option as under Rule 4.",
+          "Sole remedy: restoration application, granted mandatorily (\"shall\") on proof of sufficient cause.",
+          "Restoration comes on such terms as to costs or otherwise as the Court thinks fit.",
+          "Sub-rule (2): mandatory notice to the opposite party before any restoration order — no ex-parte restoration."
+        ],
+        "exceptions_and_qualifications": [
+          "Unlike Rule 4 (which gives a genuine fresh-suit choice for Rule 2/3 dismissals), Rule 9's bar is absolute for the cause of action — restoration is the only door back in."
+        ],
+        "how_to_read": "This is the single biggest practical reason plaintiffs' counsel must never skip a hearing date without an adjournment on record — a Rule 8 dismissal converts a procedural lapse into a potential complete loss of the cause of action if a sufficient-cause restoration application later fails, which Rule 4's more forgiving regime does not risk."
+      }
+    },
+    {
+      "number": "O-IX-10",
+      "title": "Order IX, Rule 10 — Procedure in case of non-attendance of one or more of several plaintiffs",
+      "raw_text": "10. Procedure in case of non-attendance of one or more of several plaintiffs.—Where there are more plaintiffs than one, and one or more of them appear, and the others do not appear, the Court may, at the instance of the plaintiff or plaintiffs appearing, permit the suit to proceed in the same way as if all the plaintiffs had appeared, or make such order as it thinks fit.",
+      "key_terms": [
+        "multiple plaintiffs",
+        "partial non-attendance"
+      ],
+      "breakdown": {
+        "plain_summary": "Where there are several plaintiffs and only some appear, the Court can — at the request of the appearing plaintiff(s) — let the suit proceed as though everyone had appeared, or make whatever other order it thinks appropriate.",
+        "essential_elements": [
+          "Applies specifically to multi-plaintiff suits with partial attendance.",
+          "Court has discretion to let the suit proceed as if all appeared, or make any other suitable order, at the appearing plaintiffs' instance."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "In multi-plaintiff suits, the appearing plaintiffs should proactively seek an order under this Rule to keep the suit moving rather than risk the suit's progress being held hostage by one absent co-plaintiff."
+      }
+    },
+    {
+      "number": "O-IX-11",
+      "title": "Order IX, Rule 11 — Procedure in case of non-attendance of one or more of several defendants",
+      "raw_text": "11. Procedure in case of non-attendance of one or more of several defendants.—Where there are more defendants than one, and one or more of them appear, and the others do not appear, the suit shall proceed, and the Court shall, at the time of pronouncing judgment, make such order as it thinks fit with respect to the defendants who do not appear.",
+      "key_terms": [
+        "multiple defendants",
+        "partial non-attendance"
+      ],
+      "breakdown": {
+        "plain_summary": "Where there are several defendants and only some appear, the suit simply proceeds regardless — the Court deals with the consequences for the non-appearing defendants only later, at the time of pronouncing judgment, in whatever manner it thinks fit.",
+        "essential_elements": [
+          "Suit proceeds automatically despite partial defendant non-appearance (no separate order needed to continue, unlike Rule 10's plaintiff-side mechanism).",
+          "Consequences for absent defendants are deferred to judgment, decided as the Court thinks fit at that stage."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Unlike the plaintiff-side Rule 10 (which requires an affirmative order to proceed), Rule 11 makes continuation automatic on the defendant side — but this means the practical consequences for an absent co-defendant remain genuinely open until judgment, so an absent defendant should not assume inaction is risk-free merely because the suit didn't immediately get dismissed or proceed ex parte against him specifically."
+      }
+    },
+    {
+      "number": "O-IX-12",
+      "title": "Order IX, Rule 12 — Consequence of non-attendance, without sufficient cause shown, of party ordered to appear in person",
+      "raw_text": "12. Consequence of non-attendance, without sufficient cause shown, of party ordered to appear in person.—Where a plaintiff or defendant, who has been ordered to appear in person, does not appear in person, or show sufficient cause to the satisfaction of the court for failing so to appear, he shall be subject to all provisions of the foregoing rules applicable to plaintiffs and defendants, respectively who do not appear.",
+      "key_terms": [
+        "personal appearance order",
+        "sufficient cause",
+        "non-compliance consequence"
+      ],
+      "breakdown": {
+        "plain_summary": "If a party was specifically ordered to appear in person (under Order V Rules 3-4, for instance) and fails to do so without showing sufficient cause, that party is treated exactly as if they hadn't appeared at all — subjecting them to all the ordinary non-appearance consequences of this Order.",
+        "essential_elements": [
+          "Applies specifically where a personal-appearance order was made.",
+          "Failure to comply (without sufficient cause) triggers the full range of ordinary non-appearance consequences under this Order."
+        ],
+        "exceptions_and_qualifications": [
+          "Showing sufficient cause for the personal non-appearance is the escape valve — a party who can justify it is not automatically treated as a non-appearing party."
+        ],
+        "how_to_read": "A personal-appearance order should never be treated as optional merely because the party's pleader is present — appearing only through counsel when personal appearance was specifically ordered risks the same dismissal/ex-parte consequences as not appearing at all."
+      }
+    },
+    {
+      "number": "O-IX-13",
+      "title": "Order IX, Rule 13 — Setting aside decree ex parte against defendant",
+      "raw_text": "13. Setting aside decree ex parte against defendant.—In any case in which a decree is passed ex parte against a defendant, he may apply to the Court by which the decree was passed for an order to set it aside; and if he satisfies the Court that the summons was not duly served, or that he was prevented by any sufficient cause from appearing when the suit was called on for hearing, the Court shall make an order setting aside the decree as against him upon such terms as to costs, payment into Court or otherwise as it thinks fit, and shall appoint a day for proceeding with the suit:\nProvided that where the decree is of such a nature that it cannot be set aside as against such defendant only it may be set aside as against all or any of the other defendants also:\nProvided further than no Court shall set aside a decree passed ex parte merely on the ground that there has been an irregularity in the service of summons, if it is satisfied that the defendant had notice of the date of hearing and had sufficient time to appear and answer the plaintiff's claim.\nExplanation.—Where there has been an appeal against a decree passed ex parte under this rule, and the appeal has been disposed of on any ground other than the ground that the appellant has withdrawn the appeal, no application shall lie under this rule for setting aside that ex parte decree.",
+      "key_terms": [
+        "ex parte decree",
+        "setting aside",
+        "summons not duly served",
+        "sufficient cause",
+        "irregularity in service",
+        "appeal disposed of"
+      ],
+      "breakdown": {
+        "plain_summary": "A defendant against whom an ex-parte decree has been passed can apply to the very same Court to set it aside, on one of two grounds: the summons was not duly served, or sufficient cause prevented appearance at the hearing. If satisfied, the Court must set the decree aside (on whatever terms as to costs/payment into Court it thinks fit) and fix a new hearing date — and if the decree can't be set aside against just this defendant alone (because of its nature), it can be set aside against all or any co-defendants too. But the second proviso hardens this: a mere service irregularity is not enough to set aside the decree if the defendant actually had notice of the hearing date and sufficient time to appear and answer. And the Explanation closes the door entirely once an appeal against the same ex-parte decree has been decided on any ground other than withdrawal — no Rule 13 application can then be filed.",
+        "essential_elements": [
+          "Two independent grounds: (i) summons not duly served; (ii) sufficient cause prevented appearance at the hearing.",
+          "Relief is mandatory (\"shall\") once either ground is satisfactorily shown — subject to the two provisos.",
+          "First proviso: multi-defendant decrees of an inseverable nature can be set aside against all/any defendants, not just the applicant.",
+          "Second proviso: bars relief for a mere service irregularity where the defendant actually had notice of the hearing date and sufficient time to respond.",
+          "Explanation: once an appeal against the same ex-parte decree is disposed of on merits (any ground other than withdrawal), no Rule 13 application lies at all."
+        ],
+        "exceptions_and_qualifications": [
+          "The second proviso is itself an exception that narrows the \"summons not duly served\" ground — technical irregularity alone is insufficient if actual notice and sufficient time are shown.",
+          "The Explanation's bar does not apply where the appeal was disposed of specifically on the ground of withdrawal — an appellant who withdraws the appeal can still potentially pursue a Rule 13 application."
+        ],
+        "how_to_read": "This is one of the most frequently litigated provisions in the Code — build a Rule 13 application around concrete, documented facts (process-server discrepancies, medical/travel sufficient-cause evidence) rather than bare assertions, since the second proviso means courts increasingly look past technical service defects to ask whether the defendant genuinely knew and had time to respond; and always check first whether an appeal against the same ex-parte decree has already been filed and decided, since the Explanation can extinguish the Rule 13 route entirely."
+      }
+    },
+    {
+      "number": "O-IX-14",
+      "title": "Order IX, Rule 14 — No decree to be set aside without notice to opposite party",
+      "raw_text": "14. No decree to be set aside without notice to opposite party.—No decree shall be set aside on any such application as aforesaid unless notice thereof has been served on the opposite party.",
+      "key_terms": [
+        "notice to opposite party",
+        "natural justice"
+      ],
+      "breakdown": {
+        "plain_summary": "An ex-parte decree cannot be set aside under Rule 13 unless the plaintiff (the opposite party) has first been served notice of the setting-aside application — the same natural-justice safeguard that Rule 9(2) applies to restoration of a plaintiff-default dismissal.",
+        "essential_elements": [
+          "Mandatory notice to the opposite party before any order setting aside a decree under this Order."
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "Always confirm proof of notice/service on the opposite party is on record before expecting a Rule 13 application to be decided — an order setting aside a decree without this notice is itself vulnerable to challenge for violating this mandatory safeguard."
+      }
     }
   ]
 }
