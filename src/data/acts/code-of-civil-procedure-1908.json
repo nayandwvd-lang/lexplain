@@ -19127,6 +19127,180 @@
         "exceptions_and_qualifications": [],
         "how_to_read": "Advise clients considering the special-case route that this finality is categorical, not merely discretionary — there is no appellate safety net if the Court's decision on the agreed question turns out unfavourably."
       }
+    },
+    {
+      "number": "O-XXXVII",
+      "title": "Summary Procedure — Overview",
+      "raw_text": "ORDER XXXVII. Summary procedure.",
+      "key_terms": [
+        "summary suit",
+        "leave to defend",
+        "summons for judgment",
+        "negotiable instruments",
+        "liquidated demand"
+      ],
+      "breakdown": {
+        "plain_summary": "Order XXXVII creates a fast-track procedure for suits where delay is the defendant's only real weapon — claims on negotiable instruments, written contracts, enactment-based fixed sums, and guarantees for liquidated debts. Instead of an automatic right to defend, the defendant must first enter appearance, then affirmatively apply for and be granted leave to defend after the plaintiff serves a summons for judgment — reversing the normal default by making defence the exception requiring justification rather than the rule.",
+        "essential_elements": [
+          "Applies to specified Courts (High Courts, City Civil Courts, Small Causes Courts by default; other Courts only as the High Court notifies)",
+          "Applies to suits on bills/hundies/notes, and suits for a liquidated money debt arising from a written contract, enactment, or guarantee",
+          "Plaint must expressly invoke the Order and carry a prescribed inscription",
+          "Defendant must enter appearance within 10 days of summons service, else allegations deemed admitted and decree follows",
+          "After appearance, plaintiff serves summons for judgment; defendant must apply for leave to defend within 10 days, by affidavit disclosing a triable defence",
+          "Leave to defend cannot be refused if facts disclose a substantial, non-frivolous defence; but admitted-amount deposit is a precondition where part of the claim is admitted",
+          "Court can set aside a decree passed under this Order in special circumstances and allow a defence",
+          "Beyond its special features, ordinary suit procedure governs"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This Order inverts the normal procedural posture — always check first whether a claim genuinely falls within Rule 1(2)'s narrow categories (negotiable instruments, written-contract/enactment/guarantee liquidated debts) before assuming summary procedure applies, since misuse against an unliquidated or disputed-liability claim is a common and fatal drafting error."
+      }
+    },
+    {
+      "number": "O-XXXVII-1",
+      "title": "Courts and classes of suits to which the Order is to apply",
+      "raw_text": "(1) This Order shall apply to the following Courts, namely:— (a) High Courts, City Civil Courts and Courts of Small Causes; and (b) other Courts: Provided that in respect of the Courts referred to in clause (b), the High Court may, by notification in the Official Gazette, restrict the operation of this Order only to such categories of suits as it deems proper, and may also, from time to time, as the circumstances of the case may require, by subsequent notification in the Official Gazette, further restrict, enlarge or vary, the categories of suits to be brought under the operation of this Order as it deems proper. (2) Subject to the provisions of sub-rule (1), the Order applies to the following classes of suits, namely:— (a) suits upon bills of exchange, hundies and promissory notes; (b) suits in which the plaintiff seeks only to recover a debt or liquidated demand in money payable by the defendant, with or without interest, arising,— (i) on a written contract, or (ii) on an enactment, where the sum sought to be recovered is a fixed sum of money or in the nature of a debt other than a penalty; or (iii) on a guarantee, where the claim against the principal is in respect of a debt or liquidated demand only.",
+      "key_terms": [
+        "designated Courts",
+        "High Court notification power for other Courts",
+        "bills/hundies/notes",
+        "written contract debt",
+        "enactment fixed sum",
+        "guarantee liquidated demand"
+      ],
+      "breakdown": {
+        "plain_summary": "This Rule has two layers: first, it fixes which Courts the Order applies to — automatically for High Courts, City Civil Courts, and Small Causes Courts, but only as restricted/enlarged/varied by High Court Gazette notification for other Courts. Second, subject to that Court-level gating, it defines the substantive scope — negotiable instrument suits, and suits seeking only a liquidated money debt (not unliquidated damages or disputed-amount claims) arising from a written contract, a fixed-sum enactment claim (excluding penalties), or a guarantee where the underlying principal debt is itself liquidated.",
+        "essential_elements": [
+          "Sub-rule (1)(a): automatic application to High Courts, City Civil Courts, Small Causes Courts",
+          "Sub-rule (1)(b): other Courts only as the High Court notifies, with ongoing power to restrict/enlarge/vary",
+          "Sub-rule (2)(a): bills of exchange, hundies, promissory notes",
+          "Sub-rule (2)(b)(i)-(iii): liquidated debt claims from written contracts, fixed-sum enactments (excluding penalties), or guarantees of liquidated principal debts"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "A claim seeking unliquidated damages, or a guarantee claim where the underlying principal debt itself is disputed/unliquidated, falls outside Rule 1(2) entirely — filing such a claim under Order XXXVII invites a threshold objection that summary procedure is inapplicable."
+      }
+    },
+    {
+      "number": "O-XXXVII-2",
+      "title": "Institution of summary suits",
+      "raw_text": "(1) A suit, to which this Order applies, may if the plaintiff desires to proceed hereunder, be instituted by presenting a plaint which shall contain,— (a) a specific averment to the effect that the suit is filed under this Order; (b) that no relief, which does not fall within the ambit of this rule, has been claimed in the plaint; and (c) the following inscription, immediately below the number of the suit in the title of the suit, namely:— '(Under Order XXXVII of the Code of Civil Procedure, 1908).' (2) The summons of the suit shall be in Form No. 4 in Appendix B or in such other Form as may, from time to time, be prescribed. (3) The defendant shall not defend the suit referred to in sub-rule (1) unless he enters an appearance and in default of his entering an appearance the allegations in the plaint shall be deemed to be admitted and the plaintiff shall be entitled to a decree for any sum, not exceeding the sum mentioned in the summons, together with interest at the rate specified, if any, up to the date of the decree and such sum for costs as may be determined by the High Court from time to time by rules made in that behalf and such decree may be executed forthwith.",
+      "key_terms": [
+        "opt-in summary procedure",
+        "mandatory plaint averments and inscription",
+        "Form No. 4 summons",
+        "default on non-appearance"
+      ],
+      "breakdown": {
+        "plain_summary": "Invoking summary procedure is the plaintiff's choice, not automatic even for a qualifying claim — the plaint must expressly declare it's filed under this Order, confirm no out-of-scope relief is claimed, and carry the prescribed case-title inscription. The summons follows a special prescribed form. Most consequentially, a defendant who simply fails to enter appearance suffers an immediate, severe default: the plaint's allegations are deemed admitted, and the plaintiff gets a decree (up to the summons amount plus specified interest and costs) that is immediately executable.",
+        "essential_elements": [
+          "Sub-rule (1): opt-in by the plaintiff, with mandatory averments (a)-(b) and prescribed inscription (c)",
+          "Sub-rule (2): special Form No. 4 summons",
+          "Sub-rule (3): non-appearance leads to deemed admission and an immediately executable decree"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The deemed-admission default in sub-rule (3) is the single highest-stakes feature of this Order for defendants — any client served with an Order XXXVII summons must be advised to enter appearance within the Rule 3 timeline as an absolute priority, since missing it forfeits any opportunity to even seek leave to defend."
+      }
+    },
+    {
+      "number": "O-XXXVII-3",
+      "title": "Procedure for the appearance of defendant",
+      "raw_text": "(1) In a suit to which this Order applies, the plaintiff shall, together with the summons under rule 2, serve on the defendant a copy of the plaint and annexures thereto and the defendant may, at any time within ten days of such service, enter an appearance either in person or by pleader and, in either case, he shall file in Court an address for service of notices on him. (2) Unless otherwise ordered, all summonses, notices and other judicial processes, required to be served on the defendant, shall be deemed to have been duly served on him if they are left at the address given by him for such service. (3) On the day of entering the appearance, notice of such appearance shall be given by the defendant to the plaintiff's pleader, or, if the plaintiff sues in person, to the plaintiff himself. (4) If the defendant enters an appearance, the plaintiff shall thereafter serve on the defendant a summons for judgment in Form No. 4A in Appendix B or such other Form as may be prescribed, returnable not less than ten days from the date of service, supported by an affidavit verifying the cause of action and the amount claimed and stating that in his belief there is no defence to the suit. (5) The defendant may, at any time within ten days from the service of such summons for judgment, by affidavit or otherwise disclosing such facts as may be deemed sufficient to entitle him to defend, apply on such summons for leave to defend such suit, and leave to defend may be granted to him unconditionally or upon such terms as may appear to the Court or Judge to be just: Provided that leave to defend shall not be refused unless the Court is satisfied that the facts disclosed by the defendant do not indicate that he has a substantial defence to raise or that the defence intended to be put up by the defendant is frivolous or vexatious: Provided further that, where a part of the amount claimed by the plaintiff is admitted by the defendant to be due from him, leave to defend the suit shall not be granted unless the amount so admitted to be due is deposited by the defendant in Court. (6) At the hearing of such summons for judgment,— (a) if the defendant has not applied for leave to defend, or if such application has been made and is refused, the plaintiff shall be entitled to judgment forthwith; or (b) if the defendant is permitted to defend as to the whole or any part of the claim, the Court or Judge may direct him to give such security and within such time as may be fixed, and that, on failure to give such security or carry out such other directions, the plaintiff shall be entitled to judgment forthwith. (7) The Court or Judge may, for sufficient cause shown by the defendant, excuse the delay of the defendant in entering an appearance or in applying for leave to defend the suit.",
+      "key_terms": [
+        "ten-day appearance window",
+        "address for service",
+        "summons for judgment",
+        "leave-to-defend application",
+        "substantial-defence test",
+        "admitted-amount deposit precondition",
+        "conditional leave with security",
+        "excusable delay"
+      ],
+      "breakdown": {
+        "plain_summary": "This is the procedural heart of Order XXXVII. The defendant has 10 days from plaint service to enter appearance and file a service address (deemed valid for all future process). On appearance, the plaintiff must then serve a fresh summons for judgment (Form 4A, backed by the plaintiff's affidavit of merits), and the defendant has a further 10 days to apply for leave to defend, by affidavit disclosing facts showing a genuine defence. Leave cannot be refused if a substantial, non-frivolous defence is disclosed (first proviso) — but if the defendant admits part of the claim is due, leave is conditional on depositing that admitted amount first (second proviso). At the summons-for-judgment hearing, no application (or a refused one) means immediate judgment for the plaintiff; partial leave may come with a security condition, default on which again yields immediate judgment. Rule 3(7) gives the Court discretion to excuse delay in either the appearance or leave-to-defend steps for sufficient cause.",
+        "essential_elements": [
+          "Sub-rule (1): 10-day appearance window, address for service filed",
+          "Sub-rule (2): deemed service at the filed address",
+          "Sub-rule (3): notice of appearance to the plaintiff/plaintiff's pleader",
+          "Sub-rule (4): summons for judgment (Form 4A) with plaintiff's affidavit of merits, returnable not less than 10 days",
+          "Sub-rule (5): 10-day leave-to-defend application window; substantial-defence proviso protects genuine defendants; admitted-amount deposit proviso is a precondition where partial admission exists",
+          "Sub-rule (6): immediate judgment on no/refused application; conditional leave with security, default yielding immediate judgment",
+          "Sub-rule (7): discretionary excusal of delay for sufficient cause"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "The two provisos to sub-rule (5) are the crux of most Order XXXVII contests — the first proviso's low bar ('not frivolous or vexatious') favours defendants, but the second proviso's admitted-amount deposit requirement is a frequently overlooked trap where a defendant's own affidavit concedes partial liability without arranging for that deposit."
+      }
+    },
+    {
+      "number": "O-XXXVII-4",
+      "title": "Power to set aside decree",
+      "raw_text": "After decree the Court may, under special circumstances, set aside the decree, and if necessary stay or set aside execution, and may give leave to the defendant to appear to the summons and to defend the suit, if it seems reasonable to the Court so to do, and on such terms as the Court thinks fit.",
+      "key_terms": [
+        "post-decree relief",
+        "special circumstances standard",
+        "stay or set aside execution",
+        "belated leave to defend"
+      ],
+      "breakdown": {
+        "plain_summary": "Even after a decree has been passed (typically on default under Rule 2(3) or Rule 3(6)), the Court retains discretion to set it aside under special circumstances, stay or set aside any execution already underway, and allow the defendant a belated opportunity to appear and defend — all on whatever terms the Court considers appropriate.",
+        "essential_elements": [
+          "Requires 'special circumstances' — a demanding threshold beyond ordinary explanation",
+          "Court may stay or set aside execution alongside setting aside the decree",
+          "Relief is discretionary ('if it seems reasonable') and conditional on terms the Court fixes"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is the defendant's last-resort remedy after missing the Rule 2/3 deadlines — but 'special circumstances' is a materially higher bar than ordinary sufficient-cause standards elsewhere in the Code, so a defendant should not treat this as a routine fallback."
+      }
+    },
+    {
+      "number": "O-XXXVII-5",
+      "title": "Power to order bill, etc., to be deposited with officer of Court",
+      "raw_text": "In any proceeding under this Order the Court may order the bill, hundi or note on which the suit is founded to be forthwith deposited with an officer of the Court, and may further order that all proceedings shall be stayed until the plaintiff gives security for the costs thereof.",
+      "key_terms": [
+        "deposit of the instrument",
+        "stay pending costs security"
+      ],
+      "breakdown": {
+        "plain_summary": "The Court can require the underlying negotiable instrument itself to be deposited with a Court officer for safekeeping/verification, and can additionally stay all proceedings until the plaintiff furnishes security for costs.",
+        "essential_elements": [
+          "Court may order deposit of the bill/hundi/note with a Court officer",
+          "Court may separately order a stay pending the plaintiff's costs security"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This is a practical protective tool where authenticity or custody of the instrument is in question, or where the defendant needs costs protection against a potentially impecunious plaintiff."
+      }
+    },
+    {
+      "number": "O-XXXVII-6",
+      "title": "Recovery of cost of noting non-acceptance of dishonoured bill or note",
+      "raw_text": "The holder of every dishonoured bill of exchange or promissory note shall have the same remedies for the recovery of the expenses incurred in noting the same for non-acceptance or non-payment, or otherwise, by reason of such dishonour, as he has under this Order for the recovery of the amount of such bill or note.",
+      "key_terms": [
+        "noting expenses",
+        "same remedies as principal amount"
+      ],
+      "breakdown": {
+        "plain_summary": "The holder of a dishonoured bill/note can recover the expenses of formally 'noting' the dishonour (the formal protest/certification process for non-acceptance or non-payment) using exactly the same summary remedies available under this Order for recovering the instrument's principal amount itself.",
+        "essential_elements": [
+          "Applies to expenses of noting non-acceptance, non-payment, or other dishonour",
+          "Same summary-procedure remedies as for the underlying bill/note amount"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "This saves the holder from having to pursue noting expenses through separate, slower litigation — they can be folded into the same summary suit recovering the principal."
+      }
+    },
+    {
+      "number": "O-XXXVII-7",
+      "title": "Procedure in suits",
+      "raw_text": "Save as provided by this Order, the procedure in suits hereunder shall be the same as the procedure in suits instituted in the ordinary manner.",
+      "key_terms": [
+        "residual ordinary procedure"
+      ],
+      "breakdown": {
+        "plain_summary": "Apart from this Order's specific departures (plaint averments, appearance/leave-to-defend mechanics, default consequences), a summary suit otherwise follows the same procedure as any ordinary suit — this Order is a targeted overlay, not a wholesale alternative procedural code.",
+        "essential_elements": [
+          "Ordinary suit procedure applies except where this Order specifically provides otherwise"
+        ],
+        "exceptions_and_qualifications": [],
+        "how_to_read": "When a procedural question arises that Order XXXVII doesn't specifically address (e.g., evidence rules once a defence proceeds to trial), default to ordinary Code procedure rather than assuming some special summary-suit rule exists."
+      }
     }
   ]
 }
