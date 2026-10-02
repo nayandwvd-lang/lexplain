@@ -15032,7 +15032,18 @@
         "exceptions_and_qualifications": [
           "The return-to-civil-jail default is displaced by either the three-year lapse or a civil court's section 58 CPC release certification."
         ],
-        "how_to_read": "This section is a good illustration of the Sanhita's interlock with the Code of Civil Procedure, 1908 -- a person can simultaneously owe time to both a civil and a criminal confinement, and this provision ensures the criminal detention doesn't silently erase the civil one (or vice versa) without a proper statutory release trigger."
+        "how_to_read": "This section is a good illustration of the Sanhita's interlock with the Code of Civil Procedure, 1908 -- a person can simultaneously owe time to both a civil and a criminal confinement, and this provision ensures the criminal detention doesn't silently erase the civil one (or vice versa) without a proper statutory release trigger.",
+        "plain_summary_hi": "यह अध्याय XXXIV के भाग ख (कारावास) की शुरुआत करता है। उप-धारा (1) राज्य सरकार को यह डिफ़ॉल्ट शक्ति देती है कि वह इस संहिता के अंतर्गत कारावास या अभिरक्षा के लिए दायी किसी भी व्यक्ति के परिरोध के स्थान का निर्देश दे, जब तक कि कोई अन्य विधि पहले से उसके लिए उपबंध न करती हो। उप-धारा (2) और (3) एक विशिष्ट पार-परिस्थिति को संभालती हैं: कोई व्यक्ति जो पहले से सिविल जेल में परिरुद्ध है (सामान्यतः सिविल-प्रक्रिया कारणों से, जैसे सिविल-न्यायालय सुपुर्दगी) और जो इस (आपराधिक) संहिता के अंतर्गत भी कारावास या अभिरक्षा के लिए दायी हो जाता है -- न्यायालय या मजिस्ट्रेट उसे आपराधिक जेल में स्थानांतरित करने का निर्देश दे सकता है। परंतु यह स्थानांतरण स्थायी नहीं है: आपराधिक-जेल अवधि से मुक्त होने पर, उसे सामान्यतः वापस सिविल जेल भेजा जाना चाहिए ताकि वह जो भी सिविल परिरोध शेष हो, पूरा करे, सिवाय इसके कि या तो स्थानांतरण के बाद से तीन वर्ष बीत चुके हों (जिस स्थिति में सिविल प्रक्रिया संहिता, 1908 की धारा 58 के अंतर्गत उसे पहले ही सिविल जेल से मुक्त माना जाएगा), या सिविल न्यायालय ने आपराधिक जेल के भारसाधक अधिकारी को उसके धारा 58 सीपीसी मुक्ति हकदारी का प्रमाणपत्र दे दिया हो।",
+        "essential_elements_hi": [
+          "डिफ़ॉल्ट नियम: राज्य सरकार इस संहिता के अंतर्गत कारावास/अभिरक्षा के लिए दायी किसी भी व्यक्ति के परिरोध स्थान का निर्देश दे सकती है, जब तक कि कोई अन्य विधि पहले से उसे शासित न करती हो।",
+          "यदि ऐसा व्यक्ति पहले से सिविल जेल में परिरुद्ध है, तो कारावास/सुपुर्दगी का आदेश देने वाला न्यायालय/मजिस्ट्रेट उसे आपराधिक जेल में स्थानांतरित करने का निर्देश दे सकता है।",
+          "आपराधिक जेल से मुक्ति पर, व्यक्ति को सामान्यतः वापस सिविल जेल भेजा जाना चाहिए।",
+          "अपवाद: स्थानांतरण के बाद से तीन वर्ष बीत जाने पर (सीपीसी धारा 58 के अंतर्गत मुक्त माना जाएगा) या सिविल न्यायालय द्वारा उसकी धारा 58 सीपीसी मुक्ति हकदारी प्रमाणित किए जाने पर सिविल जेल में वापसी नहीं होगी।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "सिविल-जेल-वापसी का डिफ़ॉल्ट नियम या तो तीन वर्ष बीतने से, या सिविल न्यायालय के धारा 58 सीपीसी मुक्ति प्रमाणीकरण से प्रतिस्थापित हो जाता है।"
+        ],
+        "how_to_read_hi": "यह धारा सिविल प्रक्रिया संहिता, 1908 के साथ इस संहिता के परस्पर-संबंध का एक अच्छा उदाहरण है -- कोई व्यक्ति एक साथ सिविल और आपराधिक दोनों परिरोधों का समय देय हो सकता है, और यह उपबंध सुनिश्चित करता है कि आपराधिक निरोध बिना उचित वैधानिक मुक्ति ट्रिगर के सिविल निरोध को चुपचाप मिटा न दे (या इसका उल्टा)।"
       }
     },
     {
@@ -15053,7 +15064,18 @@
           "The 'till the rising of the Court' proviso dispenses with the warrant/jail-forwarding formality entirely.",
           "In-absentia sentencing shifts the sentence's start date from the sentencing date to the arrest date."
         ],
-        "how_to_read": "The in-absentia commencement-on-arrest rule is important for limitation and remission calculations -- counsel should always confirm whether a client was physically present at sentencing, since that determines whether the sentence clock started on the sentencing date or only later, upon actual arrest."
+        "how_to_read": "The in-absentia commencement-on-arrest rule is important for limitation and remission calculations -- counsel should always confirm whether a client was physically present at sentencing, since that determines whether the sentence clock started on the sentencing date or only later, upon actual arrest.",
+        "plain_summary_hi": "यह कारावास दंड को वास्तव में क्रियान्वित करने की प्रक्रिया बताता है (धारा 453 के अंतर्गत मृत्युदंड पुष्टियों को छोड़कर, जो अपनी स्वयं की निष्पादन प्रक्रिया का अनुसरण करते हैं)। जहाँ अभियुक्त को आजीवन कारावास या अवधिक कारावास की सजा दी गई हो, न्यायालय को तत्काल परिरोधक जेल/स्थान को वारंट भेजना होगा, और यदि अभियुक्त पहले से वहाँ परिरुद्ध नहीं है, तो उसे वारंट सहित उस जेल/स्थान को भेजना होगा। 'न्यायालय के उठने तक कारावास' के तुच्छ दंड के लिए एक व्यावहारिक छूट लागू होती है -- किसी वारंट या जेल-प्रेषण की आवश्यकता नहीं है; न्यायालय बस यह निर्देश दे सकता है कि उस छोटी अवधि के लिए उसे कहाँ रखा जाए। अलग से, यदि दंडादेश के समय अभियुक्त न्यायालय में उपस्थित नहीं है, तो न्यायालय को उसे परिरोध में लाने के लिए गिरफ्तारी वारंट जारी करना होगा, और ऐसी स्थिति में दंड की अवधि केवल उसकी गिरफ्तारी की तिथि से प्रारंभ होगी (न कि अनुपस्थिति में दिए गए दंडादेश की तिथि से)।",
+        "essential_elements_hi": [
+          "आजीवन या अवधिक कारावास के लिए (धारा 453 मृत्युदंड-पुष्टि मामलों के अतिरिक्त), न्यायालय को तत्काल परिरोधक जेल/स्थान को वारंट भेजना होगा और यदि अभियुक्त पहले से परिरुद्ध नहीं है तो उसे वहाँ भेजना होगा।",
+          "अपवाद: न्यायालय के उठने तक कारावास के लिए, किसी वारंट/जेल-प्रेषण की आवश्यकता नहीं है -- न्यायालय अपनी पसंद के किसी स्थान पर परिरोध का निर्देश दे सकता है।",
+          "यदि दंडादेश के समय अभियुक्त उपस्थित नहीं है, तो न्यायालय को उसे परिरोध में लाने के लिए गिरफ्तारी वारंट जारी करना होगा, और दंड गिरफ्तारी की तिथि से प्रारंभ होता है।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "'न्यायालय के उठने तक' का परंतुक वारंट/जेल-प्रेषण की औपचारिकता को पूरी तरह समाप्त कर देता है।",
+          "अनुपस्थिति में दंडादेश दंड की प्रारंभ तिथि को दंडादेश की तिथि से बदलकर गिरफ्तारी की तिथि कर देता है।"
+        ],
+        "how_to_read_hi": "अनुपस्थिति-में-गिरफ्तारी-से-प्रारंभ का नियम परिसीमा और परिहार गणनाओं के लिए महत्वपूर्ण है -- वकीलों को हमेशा यह पुष्टि करनी चाहिए कि क्या मुवक्किल दंडादेश के समय शारीरिक रूप से उपस्थित था, क्योंकि यह तय करता है कि दंड की घड़ी दंडादेश की तिथि से शुरू हुई या बाद में वास्तविक गिरफ्तारी पर।"
       }
     },
     {
@@ -15067,7 +15089,13 @@
           "Every warrant executing an imprisonment sentence must be directed to the officer in charge of the jail (or other confining place) where the prisoner is or is to be confined."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This works together with section 458's warrant-forwarding mechanics and section 460's lodging rule to form a tight three-step execution chain: forward the warrant (458), address it correctly (459), and lodge it with the right custodian (460)."
+        "how_to_read": "This works together with section 458's warrant-forwarding mechanics and section 460's lodging rule to form a tight three-step execution chain: forward the warrant (458), address it correctly (459), and lodge it with the right custodian (460).",
+        "plain_summary_hi": "एक संक्षिप्त यांत्रिक उपबंध: कारावास दंड के निष्पादन के लिए हर वारंट को उस जेल या अन्य परिरोधक स्थान के भारसाधक अधिकारी को निर्दिष्ट किया जाना चाहिए -- यह सुनिश्चित करते हुए कि वास्तविक अभिरक्षा प्राधिकार रखने वाला व्यक्ति (न कि, कहें, कोई सामान्य पुलिस अधिकारी) ही औपचारिक रूप से कैदी को प्राप्त करने और रखने का निर्देश पाए।",
+        "essential_elements_hi": [
+          "कारावास दंड का निष्पादन करने वाला हर वारंट उस जेल (या अन्य परिरोधक स्थान) के भारसाधक अधिकारी को निर्दिष्ट किया जाना चाहिए जहाँ कैदी परिरुद्ध है या किया जाना है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह धारा 458 की वारंट-प्रेषण प्रक्रिया और धारा 460 के न्यागमन नियम के साथ मिलकर एक कसी हुई तीन-चरणीय निष्पादन श्रृंखला बनाती है: वारंट भेजना (458), उसे सही ढंग से निर्दिष्ट करना (459), और सही अभिरक्षाकर्ता के पास न्यागमित करना (460)।"
       }
     },
     {
@@ -15084,7 +15112,14 @@
           "The warrant must be lodged with the jailor."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "Part C ('Levy of fine') begins immediately after this section, shifting Chapter XXXIV's focus from imprisonment mechanics to the machinery for collecting monetary fines imposed as (or alongside) sentences."
+        "how_to_read": "Part C ('Levy of fine') begins immediately after this section, shifting Chapter XXXIV's focus from imprisonment mechanics to the machinery for collecting monetary fines imposed as (or alongside) sentences.",
+        "plain_summary_hi": "यह अध्याय XXXIV के भाग ख (कारावास) को अंतिम यांत्रिक चरण के साथ बंद करता है: जब कैदी को जेल में परिरुद्ध किया जाना है, तो निष्पादन वारंट जेलर -- जेल के प्रत्यक्ष अभिरक्षा उत्तरदायित्व वाले अधिकारी -- के पास न्यागमित किया जाना चाहिए, जिससे दंडादेश (458) से निर्दिष्टीकरण (459) होते हुए वास्तविक न्यागमन (460) तक की श्रृंखला पूरी होती है।",
+        "essential_elements_hi": [
+          "यह तब लागू होता है जब कैदी को जेल में परिरुद्ध किया जाना है।",
+          "वारंट जेलर के पास न्यागमित किया जाना चाहिए।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "भाग ग ('जुर्माने की वसूली') इस धारा के तुरंत बाद प्रारंभ होता है, अध्याय XXXIV का केंद्र-बिंदु कारावास तंत्र से दंडादेशों के रूप में (या साथ में) अधिरोपित मौद्रिक जुर्माने की वसूली की मशीनरी की ओर बदलते हुए।"
       }
     },
     {
@@ -15111,7 +15146,21 @@
           "The special-reasons/section-395-order requirement applies only where default imprisonment for the fine has already been fully undergone.",
           "The Collector-route recovery warrant absolutely excludes arrest or detention of the offender, regardless of what ordinary land-revenue-recovery law might otherwise permit against other defaulters."
         ],
-        "how_to_read": "The two recovery routes (attachment/sale vs. Collector/land-revenue) are not mutually exclusive -- 'either or both' in sub-section (1) -- so a Court can pursue both simultaneously against different classes of the offender's property for maximum recovery efficiency."
+        "how_to_read": "The two recovery routes (attachment/sale vs. Collector/land-revenue) are not mutually exclusive -- 'either or both' in sub-section (1) -- so a Court can pursue both simultaneously against different classes of the offender's property for maximum recovery efficiency.",
+        "plain_summary_hi": "यह अध्याय XXXIV के भाग ग (जुर्माने की वसूली) की शुरुआत करता है, न्यायालय को बकाया जुर्माना वास्तव में वसूलने के दो वैकल्पिक (या संयोजन योग्य) बाध्यकारी मार्ग देते हुए, केवल अपराधी को व्यतिक्रम-कारावास अवधि भुगतने देने से परे। पहला, न्यायालय अपराधी की चल संपत्ति की कुर्की और बिक्री का वारंट जारी कर सकता है। दूसरा, वह जिले के कलेक्टर को वारंट जारी कर सकता है जो उसे अपराधी की चल या अचल संपत्ति से भू-राजस्व के बकाया के रूप में राशि वसूलने का प्राधिकार देता है -- राजस्व विभाग की अपनी स्थापित वसूली मशीनरी का उपयोग करते हुए। जहाँ व्यतिक्रम कारावास पहले ही पूरी तरह भुगता जा चुका हो, वहाँ एक सुरक्षात्मक परंतुक लागू होता है: न्यायालय तब तक जुर्माना-वसूली वारंट जारी नहीं कर सकता जब तक वह लिखित में विशेष कारण अभिलिखित न करे, या धारा 395 के अंतर्गत जुर्माने में से व्यय/प्रतिकर भुगतान का आदेश पहले ही न दे चुका हो -- बिना औचित्य के पूर्ण व्यतिक्रम कारावास और संपत्ति जब्ती दोनों के दोहरे-संकट-जैसे संचयन को रोकते हुए। राज्य सरकार कुर्की वारंट कैसे निष्पादित किए जाएँ और तृतीय-पक्ष संपत्ति दावों का संक्षिप्त रूप से निर्णय कैसे किया जाए, इस पर नियम बना सकती है। और महत्वपूर्ण रूप से, जब कलेक्टर-मार्ग वारंट का उपयोग किया जाता है, तो वसूली सामान्य भू-राजस्व-वसूली विधि का अनुसरण करती है, परंतु उसमें अपराधी की गिरफ्तारी या कारावास कभी शामिल नहीं हो सकता -- वह बाध्यकारी उपकरण विशेष रूप से कुर्की/बिक्री मार्ग या मूल व्यतिक्रम-दंडादेश के लिए ही आरक्षित है।",
+        "essential_elements_hi": [
+          "यह तब लागू होता है जब जुर्माना दंडादेश अभुगतान रह जाता है।",
+          "न्यायालय अपराधी की चल संपत्ति की कुर्की और बिक्री का वारंट जारी कर सकता है।",
+          "वैकल्पिक रूप से (या अतिरिक्त रूप से), न्यायालय जिले के कलेक्टर को चल या अचल संपत्ति से भू-राजस्व के बकाया के रूप में राशि वसूलने का वारंट जारी कर सकता है।",
+          "यदि अभुगतान के लिए व्यतिक्रम कारावास पहले ही पूरी तरह भुगता जा चुका है, तो नया वसूली वारंट या तो अभिलिखित विशेष कारणों या पूर्व-विद्यमान धारा 395 व्यय/प्रतिकर आदेश की माँग करता है।",
+          "राज्य सरकार कुर्की वारंट निष्पादित करने और तृतीय-पक्ष संपत्ति दावों का संक्षिप्त निर्णय करने पर नियम बना सकती है।",
+          "कलेक्टर-मार्ग वारंट भू-राजस्व-वसूली विधि के अनुसार निष्पादित होता है परंतु उसमें अपराधी की गिरफ्तारी या कारावास कभी शामिल नहीं हो सकता।"
+        ],
+        "exceptions_and_qualifications_hi": [
+          "विशेष-कारण/धारा-395-आदेश की आवश्यकता केवल तभी लागू होती है जहाँ जुर्माने के लिए व्यतिक्रम कारावास पहले ही पूरी तरह भुगता जा चुका हो।",
+          "कलेक्टर-मार्ग वसूली वारंट अपराधी की गिरफ्तारी या निरोध को पूर्णतः बाहर रखता है, भले ही सामान्य भू-राजस्व-वसूली विधि अन्य व्यतिक्रमियों के विरुद्ध अन्यथा क्या अनुमति देती हो।"
+        ],
+        "how_to_read_hi": "दोनों वसूली मार्ग (कुर्की/बिक्री बनाम कलेक्टर/भू-राजस्व) परस्पर अनन्य नहीं हैं -- उप-धारा (1) में 'या तो या दोनों' -- इसलिए न्यायालय अधिकतम वसूली दक्षता के लिए अपराधी की संपत्ति के विभिन्न वर्गों के विरुद्ध एक साथ दोनों का अनुसरण कर सकता है।"
       }
     },
     {
@@ -15128,7 +15177,14 @@
           "For property located outside that jurisdiction, the warrant becomes executable there once endorsed by the District Magistrate of the district where the property is found."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This endorsement mechanism mirrors similar cross-jurisdictional endorsement patterns used elsewhere in this Sanhita (e.g., for warrants of arrest) -- always check whether a warrant has the necessary District Magistrate endorsement before treating it as enforceable against out-of-jurisdiction property."
+        "how_to_read": "This endorsement mechanism mirrors similar cross-jurisdictional endorsement patterns used elsewhere in this Sanhita (e.g., for warrants of arrest) -- always check whether a warrant has the necessary District Magistrate endorsement before treating it as enforceable against out-of-jurisdiction property.",
+        "plain_summary_hi": "यह धारा 461(1)(क) के अंतर्गत जारी कुर्की-और-बिक्री वारंट की क्षेत्रीय-पहुँच समस्या का समाधान करता है: ऐसा वारंट सीधे केवल जारी करने वाले न्यायालय की अपनी स्थानीय अधिकारिता के भीतर ही निष्पादनीय है। परंतु अपराधी की संपत्ति कहीं और स्थित हो सकती है। समाधान एक पृष्ठांकन तंत्र है -- यदि उस जिले के जिला मजिस्ट्रेट द्वारा जहाँ संपत्ति वास्तव में स्थित है, वारंट पर पृष्ठांकन कर दिया जाता है, तो यह वहाँ भी निष्पादनीय हो जाता है, जिससे किसी भिन्न न्यायालय से नए वारंट की आवश्यकता के बिना वारंट की पहुँच का विस्तार होता है।",
+        "essential_elements_hi": [
+          "धारा 461(1)(क) का कुर्की-और-बिक्री वारंट जारी करने वाले न्यायालय की अपनी स्थानीय अधिकारिता के भीतर सीधे निष्पादनीय है।",
+          "उस अधिकारिता के बाहर स्थित संपत्ति के लिए, वारंट उस जिले के जिला मजिस्ट्रेट द्वारा पृष्ठांकित होने पर वहाँ निष्पादनीय हो जाता है जहाँ संपत्ति पाई जाती है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह पृष्ठांकन तंत्र इस संहिता में अन्यत्र प्रयुक्त समान अंतर-अधिकारिता पृष्ठांकन प्रतिरूपों (जैसे गिरफ्तारी वारंटों के लिए) को प्रतिबिंबित करता है -- क्षेत्राधिकार-बाहरी संपत्ति के विरुद्ध किसी वारंट को प्रवर्तनीय मानने से पहले हमेशा जाँच लें कि उस पर आवश्यक जिला मजिस्ट्रेट पृष्ठांकन है या नहीं।"
       }
     },
     {
@@ -15144,7 +15200,15 @@
           "Section 461(3)'s execution provisions (including the no-arrest/no-imprisonment bar) apply to it accordingly."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is a narrow but practically important cross-border enforcement bridge -- without it, a fine sentence from a non-extending territory's Court would have no mechanism for enforcement against property located within Sanhita territory."
+        "how_to_read": "This is a narrow but practically important cross-border enforcement bridge -- without it, a fine sentence from a non-extending territory's Court would have no mechanism for enforcement against property located within Sanhita territory.",
+        "plain_summary_hi": "यह एक अंतर-क्षेत्रीय मान्यता उपबंध है, जो इस संहिता या फिलहाल प्रवृत्त किसी अन्य विधि में निहित किसी बात का अतिक्रमण करता है (एक अध्यारोही प्रारंभ)। जहाँ कोई आपराधिक न्यायालय उस क्षेत्र में स्थित है जहाँ यह संहिता विस्तारित नहीं होती, परंतु किसी अपराधी को जुर्माने का दंड देता है, और वह न्यायालय उस क्षेत्र में, जहाँ यह संहिता विस्तारित होती है, किसी जिले के कलेक्टर को कलेक्टर-मार्ग वसूली वारंट भेजता है, तो प्राप्तकर्ता क्षेत्र को उस वारंट को बिल्कुल वैसे ही मानना होगा जैसे वह इस संहिता विस्तारित क्षेत्र के किसी न्यायालय द्वारा जारी घरेलू धारा 461(1)(ख) वारंट हो -- जिसमें धारा 461(3) के निष्पादन नियम (गिरफ्तारी-न करने/कारावास-न करने सुरक्षोपाय सहित) पूरी तरह लागू होंगे।",
+        "essential_elements_hi": [
+          "यह उस आपराधिक न्यायालय द्वारा जारी जुर्माना-वसूली वारंट पर लागू होता है जो उस क्षेत्र में स्थित है जहाँ यह संहिता विस्तारित नहीं होती।",
+          "जहाँ ऐसा वारंट उस जिले के कलेक्टर को भेजा जाता है जहाँ यह संहिता विस्तारित होती है, वहाँ उसे घरेलू न्यायालय द्वारा जारी धारा 461(1)(ख) वारंट माना जाता है।",
+          "धारा 461(3) के निष्पादन उपबंध (गिरफ्तारी-न करने/कारावास-न करने प्रतिषेध सहित) तदनुसार उस पर लागू होते हैं।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह एक संकीर्ण परंतु व्यावहारिक रूप से महत्वपूर्ण सीमा-पार प्रवर्तन सेतु है -- इसके बिना, गैर-विस्तार क्षेत्र के न्यायालय के जुर्माना दंडादेश के पास संहिता-क्षेत्र के भीतर स्थित संपत्ति के विरुद्ध प्रवर्तन का कोई तंत्र नहीं होता।"
       }
     },
     {
@@ -15165,7 +15229,17 @@
           "Refusal to execute the required bond lets the Court pass the imprisonment sentence at once."
         ],
         "exceptions_and_qualifications": [],
-        "how_to_read": "This is a debtor-friendly procedural safety valve -- counsel for a fine-sentenced client unable to pay immediately should proactively request an installment order under this section rather than letting default imprisonment simply take effect."
+        "how_to_read": "This is a debtor-friendly procedural safety valve -- counsel for a fine-sentenced client unable to pay immediately should proactively request an installment order under this section rather than letting default imprisonment simply take effect.",
+        "plain_summary_hi": "यह केवल जुर्माने (अभुगतान पर व्यतिक्रम कारावास सहित) की सजा पाए अपराधी को सीधे जेल जाने के बजाय किस्तों में भुगतान करने की साँस लेने की जगह देता है: न्यायालय भुगतान अनुसूची निर्धारित कर सकता है -- तीस दिनों के भीतर पूर्ण भुगतान, या प्रत्येक तीस दिनों तक की दूरी वाली दो-से-तीन किस्तें -- और व्यतिक्रम-कारावास दंड को निलंबित कर सकता है, अपराधी को बंधपत्र/जमानत बंधपत्र पर रिहा करते हुए जो प्रत्येक भुगतान करने हेतु उपस्थित होने की शर्त पर आधारित हो। भुगतान की समय-सीमा चूक जाने पर, न्यायालय तुरंत निलंबित कारावास दंड को क्रियान्वित कर सकता है। यही किस्त-और-निलंबन तंत्र इस संहिता के किसी भी अन्य आदेश तक विस्तारित होता है जो अभुगतान पर कारावास के भय से बंधी धन के भुगतान की माँग करता है (जैसे भरण-पोषण-प्रकार के आदेश) -- और यदि व्यक्ति आवश्यक बंधपत्र निष्पादित करने से भी इनकार करता है, तो न्यायालय सीधे कारावास दंड देने के लिए आगे बढ़ सकता है।",
+        "essential_elements_hi": [
+          "यह उस अपराधी पर लागू होता है जिसे केवल जुर्माने का, भुगतान में व्यतिक्रम पर कारावास सहित, दंडादेश दिया गया है, जहाँ जुर्माना तुरंत भुगतान नहीं किया जाता।",
+          "न्यायालय भुगतान अनुसूची निर्धारित कर सकता है (30 दिनों के भीतर पूर्ण भुगतान, या प्रत्येक 30 दिनों तक की दूरी वाली 2-3 किस्तें) और व्यतिक्रम कारावास को निलंबित कर सकता है, अपराधी को बंधपत्र/जमानत बंधपत्र पर रिहा करते हुए।",
+          "भुगतान की समय-सीमा चूकने पर न्यायालय तुरंत निलंबित कारावास दंड क्रियान्वित कर सकता है।",
+          "यही तंत्र इस संहिता के किसी भी अन्य धन-भुगतान आदेश पर लागू होता है जो अभुगतान-पर-व्यतिक्रम-कारावास की धमकी से समर्थित हो।",
+          "आवश्यक बंधपत्र निष्पादित करने से इनकार करने पर न्यायालय तुरंत कारावास दंड दे सकता है।"
+        ],
+        "exceptions_and_qualifications_hi": [],
+        "how_to_read_hi": "यह एक ऋणी-अनुकूल प्रक्रियात्मक सुरक्षा वाल्व है -- जो मुवक्किल तुरंत भुगतान करने में असमर्थ हो, उसके वकील को व्यतिक्रम कारावास को बस प्रभावी होने देने के बजाय इस धारा के अंतर्गत सक्रिय रूप से किस्त आदेश का अनुरोध करना चाहिए।"
       }
     },
     {
